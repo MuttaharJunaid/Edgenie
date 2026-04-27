@@ -119,11 +119,11 @@ export default function DashboardScreen() {
             </View>
           </Pressable>
 
-          <Pressable style={styles.actionBtn}>
+          <Pressable style={styles.actionBtn} onPress={() => router.push('/zara-chat-list')}>
             <Bot color="#e6a8ff" size={24} />
             <View style={styles.actionTextWrapper}>
-              <Text style={styles.actionTitle}>AI Tutor</Text>
-              <Text style={styles.actionDesc}>Instant doubt clearing</Text>
+              <Text style={styles.actionTitle}>Ask Zara</Text>
+              <Text style={styles.actionDesc}>O-Level AI tutor</Text>
             </View>
           </Pressable>
 
@@ -221,17 +221,17 @@ export default function DashboardScreen() {
           <Home size={24} color="#7eabfc" />
           <Text style={[styles.tabText, { color: '#7eabfc' }]}>HOME</Text>
         </Pressable>
-        <Pressable style={styles.tabItem}>
+        <Pressable style={styles.tabItem} onPress={() => router.push('/search-start')}>
           <Search size={22} color="#6b7280" />
           <Text style={styles.tabText}>SEARCH</Text>
         </Pressable>
-        <Pressable style={styles.tabItem}>
+        <Pressable style={styles.tabItem} onPress={() => router.push('/mock-exam')}>
           <GraduationCap size={24} color="#6b7280" />
           <Text style={styles.tabText}>EXAM</Text>
         </Pressable>
-        <Pressable style={styles.tabItem} onPress={() => router.push('/analytics')}>
-          <BarChart2 size={22} color="#6b7280" />
-          <Text style={styles.tabText}>ANALYTICS</Text>
+        <Pressable style={styles.tabItem} onPress={() => router.push('/zara-chat-list')}>
+          <Bot size={22} color="#6b7280" />
+          <Text style={styles.tabText}>ZARA</Text>
         </Pressable>
         <Pressable style={styles.tabItem} onPress={() => router.push('/profile')}>
           <User size={22} color="#6b7280" />

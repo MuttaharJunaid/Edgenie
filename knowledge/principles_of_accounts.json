@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the accounting equation?",
+    "answer": "Assets = Capital + Liabilities. This equation must always balance. Assets are what the business owns (cash, inventory, equipment, receivables). Liabilities are what the business owes (loans, payables). Capital is the owner's investment in the business. Every transaction affects at least two items but keeps the equation balanced — this is the basis of double-entry bookkeeping."
+  },
+  {
+    "question": "What is the difference between a debit and a credit?",
+    "answer": "In double-entry bookkeeping: Debit (Dr) is on the LEFT side of a T-account. Credit (Cr) is on the RIGHT side. Rules: Assets increase with a debit, decrease with a credit. Liabilities increase with a credit, decrease with a debit. Capital increases with a credit. Expenses increase with a debit. Revenue increases with a credit. Every transaction has equal debits and credits — this is how the trial balance checks for errors."
+  },
+  {
+    "question": "What is the difference between capital expenditure and revenue expenditure?",
+    "answer": "Capital expenditure: money spent on long-term assets that will benefit the business for more than one year — buying machinery, vehicles, buildings. Shown on the balance sheet as a non-current asset. Revenue expenditure: money spent on day-to-day running costs — wages, rent, electricity, repairs. Shown in the income statement as an expense. Misclassifying these is a common error — it affects both profit and asset values."
+  },
+  {
+    "question": "What is depreciation and how do you calculate it?",
+    "answer": "Depreciation is the reduction in value of a non-current asset over time due to wear and tear, obsolescence, or passage of time. Two methods: 1) Straight-line: (Cost - Residual Value) / Useful Life. Same amount each year. 2) Reducing balance: apply a fixed percentage to the book value each year — higher depreciation in early years. Depreciation is an expense in the income statement and reduces the asset's book value on the balance sheet."
+  },
+  {
+    "question": "What is the difference between gross profit and net profit?",
+    "answer": "Gross profit = Revenue - Cost of Goods Sold (COGS). It shows profit from trading before overhead expenses. Net profit = Gross Profit - Operating Expenses (rent, wages, utilities, depreciation). It shows the actual profit after all costs. Gross profit margin = (Gross Profit / Revenue) × 100%. Net profit margin = (Net Profit / Revenue) × 100%. A business can have high gross profit but low net profit if its expenses are very high."
+  },
+  {
+    "question": "What is a trial balance and what are its limitations?",
+    "answer": "A trial balance lists all ledger account balances to check that total debits equal total credits. If they don't balance, there's an arithmetic or posting error. Limitations: it does NOT detect errors of omission (transaction not recorded at all), errors of commission (correct amount, wrong account), errors of principle (wrong type of account), compensating errors (two errors that cancel out), or complete reversal of entries. A balanced trial balance doesn't mean the accounts are correct."
+  },
+  {
+    "question": "What is the difference between trade receivables and trade payables?",
+    "answer": "Trade receivables (debtors): money owed TO the business by customers who bought on credit. It's a current asset on the balance sheet. Trade payables (creditors): money owed BY the business to suppliers for goods bought on credit. It's a current liability. Managing these is crucial for cash flow — collecting receivables quickly and delaying payables (within agreed terms) improves cash position."
+  },
+  {
+    "question": "What is the purpose of a bank reconciliation statement?",
+    "answer": "A bank reconciliation compares the cash book balance with the bank statement balance to explain any differences. Common differences: unpresented cheques (issued but not yet cleared), outstanding deposits (paid in but not yet on statement), bank charges or interest not yet recorded in cash book, direct debits not yet entered. It helps detect errors and fraud, and ensures the cash book is accurate."
+  },
+  {
+    "question": "What is the difference between current assets and non-current assets?",
+    "answer": "Current assets: expected to be converted to cash within one year — cash, trade receivables, inventory, prepaid expenses. Non-current (fixed) assets: held for more than one year to generate income — land, buildings, machinery, vehicles, equipment. On the balance sheet, non-current assets are listed first, then current assets. Non-current assets are depreciated over their useful life; current assets are not."
+  },
+  {
+    "question": "How do I calculate the current ratio and what does it mean?",
+    "answer": "Current ratio = Current Assets / Current Liabilities. It measures a business's ability to pay its short-term debts. A ratio of 2:1 is generally considered healthy — the business has twice as many current assets as current liabilities. Below 1:1 means the business may struggle to pay its debts. Too high (e.g. 4:1) may mean the business is holding too much idle cash or inventory. Always compare to industry averages."
+  }
+]

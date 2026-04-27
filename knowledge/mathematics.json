@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How do I solve a quadratic equation?",
+    "answer": "Use the quadratic formula: x = (-b ± √(b²-4ac)) / 2a for ax²+bx+c=0. Step 1: identify a, b, c. Step 2: calculate the discriminant b²-4ac. If positive: two real roots. If zero: one repeated root. If negative: no real roots. Step 3: substitute into the formula and simplify. You can also try factorising first — it's faster when it works."
+  },
+  {
+    "question": "What is the difference between a factor and a multiple?",
+    "answer": "A factor divides a number exactly with no remainder. A multiple is the result of multiplying a number by an integer. Example: factors of 12 are 1, 2, 3, 4, 6, 12. Multiples of 3 are 3, 6, 9, 12, 15... Think of it this way: factors go INTO the number, multiples come OUT of it."
+  },
+  {
+    "question": "How do I find the gradient of a straight line?",
+    "answer": "Gradient (m) = (y₂ - y₁) / (x₂ - x₁). Pick any two points on the line. Subtract the y-coordinates and divide by the difference in x-coordinates. A positive gradient slopes upward left to right. A negative gradient slopes downward. A horizontal line has gradient 0. A vertical line has undefined gradient."
+  },
+  {
+    "question": "What is Pythagoras' theorem and when do I use it?",
+    "answer": "Pythagoras' theorem: a² + b² = c², where c is the hypotenuse (longest side, opposite the right angle). Use it ONLY in right-angled triangles to find a missing side. To find the hypotenuse: c = √(a²+b²). To find a shorter side: a = √(c²-b²). Always check you have a right angle before using it."
+  },
+  {
+    "question": "How do I expand and simplify brackets?",
+    "answer": "Multiply every term inside the bracket by the term outside. For (a+b)(c+d): use FOIL — First (ac), Outer (ad), Inner (bc), Last (bd), then collect like terms. Example: (x+3)(x-2) = x²-2x+3x-6 = x²+x-6. For a single bracket: 3(2x+5) = 6x+15."
+  },
+  {
+    "question": "What is the equation of a straight line?",
+    "answer": "y = mx + c, where m is the gradient and c is the y-intercept (where the line crosses the y-axis). To find the equation: 1) Calculate the gradient using two points. 2) Substitute one point and the gradient into y = mx + c to find c. Example: gradient = 2, passes through (1,5): 5 = 2(1)+c → c = 3 → y = 2x+3."
+  },
+  {
+    "question": "How do I calculate the area and circumference of a circle?",
+    "answer": "Area = πr² (pi times radius squared). Circumference = 2πr or πd (pi times diameter). Remember: area uses r², circumference uses r (or d). Use π ≈ 3.142 unless your calculator has a π button. Always check whether the question gives you radius or diameter — diameter is twice the radius."
+  },
+  {
+    "question": "What is a prime number?",
+    "answer": "A prime number has exactly two factors: 1 and itself. Examples: 2, 3, 5, 7, 11, 13, 17, 19, 23. Note: 1 is NOT prime (only one factor). 2 is the only even prime. To check if a number is prime, try dividing it by all primes up to its square root — if none divide it exactly, it's prime."
+  },
+  {
+    "question": "How do I solve simultaneous equations?",
+    "answer": "Method 1 — Elimination: make the coefficient of one variable the same in both equations, then add or subtract to eliminate it. Method 2 — Substitution: rearrange one equation to get x = ... or y = ..., then substitute into the other. Always check your answer by substituting both values back into both original equations."
+  },
+  {
+    "question": "What is the difference between mean, median, and mode?",
+    "answer": "Mean: add all values and divide by how many there are. Median: arrange values in order and find the middle one (or average the two middle values if even count). Mode: the value that appears most often. Use mean for balanced data, median when there are extreme values (outliers), mode for categorical data or most common value."
+  }
+]

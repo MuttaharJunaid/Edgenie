@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the difference between an atom, element, compound, and mixture?",
+    "answer": "Atom: the smallest particle of an element that retains its chemical properties. Element: a pure substance made of only one type of atom (e.g. oxygen, iron). Compound: two or more elements chemically bonded together in fixed ratios (e.g. water H₂O, salt NaCl) — properties differ from the elements. Mixture: two or more substances physically combined, not chemically bonded — can be separated by physical methods (filtration, distillation, chromatography)."
+  },
+  {
+    "question": "How do I balance a chemical equation?",
+    "answer": "Step 1: Write the unbalanced equation with correct formulas. Step 2: Count atoms of each element on both sides. Step 3: Add coefficients (numbers in front of formulas) to make both sides equal — never change the subscripts inside a formula. Step 4: Check all elements balance. Example: H₂ + O₂ → H₂O becomes 2H₂ + O₂ → 2H₂O. The law of conservation of mass means atoms are neither created nor destroyed."
+  },
+  {
+    "question": "What is the difference between ionic and covalent bonding?",
+    "answer": "Ionic bonding: transfer of electrons from a metal to a non-metal, forming oppositely charged ions that attract each other. Example: NaCl (Na⁺ and Cl⁻). High melting points, conduct electricity when dissolved or molten. Covalent bonding: sharing of electrons between non-metals. Example: H₂O, CO₂. Can be simple molecular (low melting point) or giant covalent (very high melting point, like diamond). Simple covalent compounds don't conduct electricity."
+  },
+  {
+    "question": "What is the difference between acids and bases?",
+    "answer": "Acid: a substance that produces H⁺ ions in solution. pH below 7. Examples: HCl (hydrochloric), H₂SO₄ (sulfuric), HNO₃ (nitric). Base: a substance that neutralises an acid. pH above 7. Alkalis are soluble bases that produce OH⁻ ions. Examples: NaOH, KOH, NH₃. Neutralisation: acid + base → salt + water. The pH scale runs 0-14: 7 is neutral, below 7 is acidic, above 7 is alkaline."
+  },
+  {
+    "question": "How do I show working in a chemistry calculation?",
+    "answer": "Step 1: Write the balanced equation. Step 2: Write the molar masses below each relevant substance (Ar values from periodic table). Step 3: Write the moles ratio from the equation. Step 4: Calculate moles of the given substance (moles = mass/Mr). Step 5: Use the ratio to find moles of the unknown. Step 6: Convert to the required unit (mass = moles × Mr, or volume = moles × 24 dm³ at RTP). Always show each step — method marks are awarded even if the final answer is wrong."
+  },
+  {
+    "question": "What is the difference between oxidation and reduction?",
+    "answer": "OIL RIG: Oxidation Is Loss (of electrons), Reduction Is Gain (of electrons). They always happen together — called a redox reaction. In terms of oxygen: oxidation = gaining oxygen, reduction = losing oxygen. In terms of hydrogen: oxidation = losing hydrogen, reduction = gaining hydrogen. The substance that gets oxidised is the reducing agent. The substance that gets reduced is the oxidising agent."
+  },
+  {
+    "question": "What are the properties of metals and non-metals?",
+    "answer": "Metals: shiny, good conductors of heat and electricity, malleable (can be hammered into shapes), ductile (can be drawn into wires), high melting points (except mercury), form positive ions. Non-metals: dull (except iodine), poor conductors (except graphite), brittle when solid, low melting points (except carbon allotropes), form negative ions or share electrons. The dividing line on the periodic table runs diagonally from boron to astatine."
+  },
+  {
+    "question": "What is the difference between physical and chemical changes?",
+    "answer": "Physical change: no new substance is formed, easily reversible. Examples: melting, boiling, dissolving, cutting. The substance keeps its chemical properties. Chemical change: a new substance is formed, usually irreversible. Signs include: colour change, gas produced, temperature change, precipitate formed, light produced. Examples: burning, rusting, cooking, neutralisation. The products have different properties from the reactants."
+  },
+  {
+    "question": "What is the periodic table and how is it organised?",
+    "answer": "The periodic table arranges elements in order of increasing atomic number. Elements in the same GROUP (vertical column) have similar chemical properties because they have the same number of outer electrons. Elements in the same PERIOD (horizontal row) have the same number of electron shells. Key groups: Group 1 = alkali metals, Group 7 = halogens, Group 0 = noble gases. Metals are on the left, non-metals on the right."
+  },
+  {
+    "question": "What is the difference between exothermic and endothermic reactions?",
+    "answer": "Exothermic reaction: releases energy (heat) to the surroundings — temperature of surroundings increases. Examples: combustion, neutralisation, respiration, hand warmers. Energy diagram: products are at lower energy than reactants. Endothermic reaction: absorbs energy from the surroundings — temperature of surroundings decreases. Examples: photosynthesis, thermal decomposition, dissolving ammonium nitrate. Energy diagram: products are at higher energy than reactants."
+  }
+]
