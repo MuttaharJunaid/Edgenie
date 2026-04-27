@@ -1,0 +1,138 @@
+[
+  {
+    "QuestionNumber": "O/N/41/2016/Q1",
+    "Question_text": "A student investigates how surface area affects the rate of evaporation of water at room temperature. She places a beaker of water on a top-pan balance, as shown in Fig. 1.1. Fig. 1.2 shows the beaker on the balance 14 days later. Some water has been lost due to evaporation.",
+    "image": "Fig. 1.1 shows a beaker of water placed on a top-pan balance, with the balance display reading '235.1 g'. Fig. 1.2 shows the same beaker on the top-pan balance after 14 days, with the balance display reading '183.8 g'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the average loss of mass per day by evaporation. loss of mass per day =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A second student carries out the same experiment with a beaker of larger diameter. The students compare their results and conclude that the rate of evaporation increases with surface area. State two other quantities that must have been the same in the two experiments if they can be sure of their conclusion.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The experiment took 14 days to complete. In order to carry out the experiment in a shorter time, suggest a piece of apparatus that increases the rate of evaporation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/41/2016/Q2",
+    "Question_text": "A student investigates how the height of a ramp affects the distance travelled by a toy car along the floor, as shown in Fig. 2.1. The car is placed at the top of the ramp in position A and then released. The car travels down the ramp and along the horizontal floor. It stops at position B. The car falls a vertical distance h when travelling down the ramp. It then travels a distance l along the floor.",
+    "image": "Fig. 2.1 shows a side view of a setup with a toy car. The car is at the top of an inclined ramp, labeled 'A'. The ramp is supported by blocks, raising its height from the floor. The ramp leads down to a horizontal floor. The car's stopping point on the floor is labeled 'B'. Labels for 'toy car', 'ramp', and 'floor' are present. The diagram is noted as '(not to scale)'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Measurement",
+      "Speed & Velocity",
+      "Gravitational Potential Energy",
+      "Kinetic Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 2.1, • draw the car immediately after it has completely left the ramp, • mark the distance l, • mark the height h.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student measures the height h and then measures the distance l three times. He then changes the height of the ramp and repeats the experiment. Describe how the student can measure h accurately. You may draw on the diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Fig. 2.2 is a table of results showing 'h/cm' and 'l/cm' (measurements 1, 2, 3), and 'lav/cm'. For the first three heights, the student calculates the average distance lav. lav is written to the nearest cm. Suggest a reason for writing lav to the nearest cm.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Complete Fig. 2.2 to include lav for all his results. Give lav to the nearest cm in each case.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "On Fig. 2.3, plot the graph of lav/cm on the y-axis against h/cm on the x-axis. Start your axes from (0,0). Draw the line of best fit.",
+        "image": "Fig. 2.3 shows a blank grid with '0' marked at the origin, intended for plotting a graph of lav/cm on the y-axis against h/cm on the x-axis."
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Describe the relationship between lav and h.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "In another experiment using the same apparatus, lav is measured as 140cm. Using your graph, suggest the value of h that was used. h =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/41/2016/Q3",
+    "Question_text": "A student determines the specific heat capacity of aluminium. The student has been provided with • a thermometer, • a heater, • an aluminium block of mass 1.00 kg with holes for the heater and thermometer, • a d.c. power supply, • an ammeter, • a voltmeter, • a stop-clock.",
+    "image": "Fig. 3.1 shows a partially completed circuit diagram. It includes a d.c. power supply symbol, an aluminium block with a thermometer and a heater inserted into it. The connections for the heater, ammeter, and voltmeter to the power supply are incomplete.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Electrical Power",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 3.1, complete the circuit diagram to connect the heater to the power supply, the ammeter and the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Initially the block is at room temperature which is 23.5°C. The student switches on the power supply and starts the stop-clock at the same instant. The ammeter and voltmeter readings are shown in Fig. 3.2. Record these readings. I = V =",
+        "image": "Fig. 3.2 shows two meter readings. The first is an ammeter with a scale from 0 to 3 A, showing a reading of 1.5 A. The second is a voltmeter with a scale from 0 to 10 V, showing a reading of 6.0 V."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "After 10 minutes, the power supply is switched off. The maximum temperature reading on the thermometer is 29.0°C. The specific heat capacity c of the aluminium block is given by C = IVt / mΔθ where t is the time in seconds during which the heater is switched on, m is 1.00kg and Δθ is the rise in temperature of the block. Calculate c. Give your answer correct to two significant figures. C =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The accepted value for c is different to the value obtained. Suggest two reasons why this is so.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/41/2016/Q4",
+    "Question_text": "A student is given a box containing ten similar plastic drinking straws, a 30cm ruler and two set-squares.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how the student determines an average value for the external diameter of the straws using this apparatus. Draw a diagram to illustrate your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Each straw holds an average volume of 4.0 cm³ of water when full. Suggest how this value could be checked.",
+        "image": null
+      }
+    ]
+  }
+]

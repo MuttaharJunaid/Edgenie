@@ -1,0 +1,130 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Basma owns a toy shop. (a) The sign shows the opening hours for the shop. Saturday to Wednesday 1030 to 1800 Thursday and Friday 1000 to 1930 Work out the length of time the shop is open in one week.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "In a traffic survey, information about the vehicles passing a checkpoint is recorded. (a) 160 vehicles pass the checkpoint in the morning. The table shows the number of people in each of these vehicles. Number of people Frequency Pie chart angle 1 72 2 48 3 or more 40 90° (i) Complete the table. (ii) Complete the pie chart to show the results.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret pie charts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Complete the table for y = 4+2x-Draw the graph of y = 4+2x- for-2≤x≤ 6. (c) Find the equation of the line of symmetry of the graph of y=4+2x- (d) On the grid, draw the line 3y = x+6 for-2≤x≤6. (e) Write down the x-coordinates of the points of intersection of the graphs of y = 4+2x- and 3y = x+6.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "{x: x is an integer 1 < x < 15} A = {x: x is a multiple of 3} B = {x: x is a factor of 30} Write down the elements of A. Complete the Venn diagram. Find the smallest value of x. Find n(A B).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Solve. (i) = 8 (ii) 3 4x = 2x + 12 w = 5x-6y (i) Find the value of w when x = 6.2 and y=-1.8 . (ii) Rearrange the formula to make x the subject.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown",
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Calculate the volume of the sphere. Solid A is mathematically similar to solid B. 3The volume of solid A is 540 cm³ and its height is 15 cm.The volume of solid B is 1280 cm³.Calculate the height of solid B.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "ABCD is a parallelogram with sides AB, BC, CD and DA.A is the point (-3, 7) and B is the point (2, 5).Find the coordinates of point D.Find AD.Find AC.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Ray walks from A to B at an average speed of 1.6 m/s.He then runs from B to C at an average speed of 2.8 m/s.Calculate Ray's average speed from A to B to C.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "ABD is a triangle.C is a point on BD and E is a point on AD.AB is parallel to EC and CD = DE. Find the value of x and the value of y.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°",
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Bag A contains red balls and green balls.The total number of balls in the bag is x.The number of green balls in the bag is 6 more than the number of red balls.Show that the fraction of the balls in bag A that are red is .Show that = Show that x²-6x-72 = 0 .Solve by factorisation x²-6x-72 = 0 .x is the total number of balls in bag A.Use your answer to part (d) to find the number of green balls in bag A.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Understand and use probability scale from 0 to 1",
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Mia has 25 shapes.She uses their properties to sort them into groups.The table shows the number of shapes in each group.TriangleQuadrilateralLine symmetry49No line symmetry57Mia takes one of the triangles at random, notes its properties and replaces it.Find the probability that it has line symmetry.Mia takes one of the 25 shapes at random, notes its properties and replaces it.She then takes a second shape at random, notes its properties and replaces it.Find the probability that both shapes are quadrilaterals.Mia takes three of the 25 shapes at random without replacement.Find the probability that only one of the shapes is a triangle with line symmetry.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  }
+]

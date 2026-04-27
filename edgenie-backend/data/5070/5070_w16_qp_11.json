@@ -1,0 +1,450 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "A student is given only the nucleon number of an atom. What can be deduced about the structure of the atom?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Mass number / nucleon number"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Two experiments were carried out. In experiment 1, ammonium carbonate was reacted with dilute hydrochloric acid. In experiment 2, ammonium carbonate was heated with aqueous sodium hydroxide. In each experiment, the gas evolved was tested with damp blue litmus paper and damp red litmus paper.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Effects on indicators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A paper chromatography experiment is carried out to find an R₁ value for Fe3+(aq). The result is shown. To make the spot containing Fe³+(aq) more visible, the paper is sprayed with aqueous sodium hydroxide so that a precipitate of iron(III) hydroxide forms. Under the conditions of the experiment, the Rf of Fe3+(aq) is given by ......1...... and the colour of the precipitate is ......2...... .",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Rf equation",
+      "Interpreting chromatograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "The graph gives the melting points (m.p.) of mixtures of lead and tin. The graph shows that any mixture of lead and tin must have a melting point that is",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.3 Alloys and their properties",
+    "Sub_topic": [
+      "Alloy definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Some students wrote three statements about the bonding in a molecule of ammonia, NH3. 1 A nitrogen atom has three outer electrons so all outer electrons are involved in bonding. 2 A nitrogen atom has five outer electrons so two outer electrons are not involved in bonding. 3 A nitrogen atom shares electrons with each of three hydrogen atoms. Which statements about the bonding in ammonia are correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Which diagram correctly shows the arrangement of the ions in solid sodium chloride?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Giant lattice structure of ionic compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "The table shows some properties of four solid elements. Which element could be graphite?",
+    "image": null,
+    "Unit": "\"UNIT 2: Atoms, elements and compounds\"",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which statement about chlorine atoms and chloride ions is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.3 Isotopes",
+    "Sub_topic": [
+      "Definition of isotopes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Four gases are listed. 1 CH4 2 NH3 3 CO2 4 N2 1 mol/dm³ of each of gases 1 – 4 is allowed to diffuse. What is the order of their rate of diffusion at room temperature and pressure?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.2 Diffusion",
+    "Sub_topic": [
+      "Diffusion in kinetic particle theory",
+      "Effect of molecular mass on diffusion rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Which diagram best represents the structure of a solid metal?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "A compound containing only the elements carbon and hydrogen has 80.0% by mass of carbon. What is its empirical formula?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Empirical formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "An ionic compound has the formula XY, where Y is a non-metal. Which statement about XY is correct?",
+    "image": null,
+    "Unit": "\"UNIT 2: Atoms, elements and compounds\"",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions",
+      "Ionic bond definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "In an experiment, 1 cm³ of a gaseous hydrocarbon, Z, requires 4 cm³ of oxygen for complete combustion to give 3 cm³ of carbon dioxide. All gas volumes are measured at r.t.p. Which formula represents Z?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Hydrocarbons definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Aqueous copper(II) sulfate is electrolysed using copper as the positive electrode and carbon as the negative electrode. Which row gives correct information about this electrolysis?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Molten salts of four metals are electrolysed. The ions of which metal require the smallest number of electrons for one mole of atoms to be liberated during electrolysis?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Charge transfer in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which two products are formed during photosynthesis?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Photosynthesis reaction",
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "A student investigates how the concentration of a reagent affects the rate of a chemical reaction. Which piece of apparatus is essential for all rate investigations?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Gold is used as a catalyst in some chemical reactions. In these reactions, gold • helps reduce the energy costs of the reaction. • increases the yield of the reaction. • is unchanged at the end of the reaction. • speeds up the rate of the reaction. How many of these statements are correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Catalyst effect"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "The table shows some properties of four metal chlorides. Which row is magnesium chloride?",
+    "image": null,
+    "Unit": "\"UNIT 7: Acids, bases and salts\"",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "A lump of element X can be cut by a knife. During its reaction with water, X floats and melts. What is X?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.2 Group I properties",
+    "Sub_topic": [
+      "Group I trends",
+      "Predicting Group I properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which row shows the pH values for 0.1mol/dm³ solutions of ammonia, hydrochloric acid, sodium chloride and sodium hydroxide?",
+    "image": null,
+    "Unit": "\"UNIT 7: Acids, bases and salts\"",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "The diagram shows the apparatus used to extract aluminium from aluminium oxide. Which statement about this process is correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Extraction of aluminium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "A student has five reagents. • dilute hydrochloric acid • dilute sulfuric acid • dilute nitric acid • solid calcium carbonate • solid copper(II) carbonate How many soluble salts can be prepared?",
+    "image": null,
+    "Unit": "\"UNIT 7: Acids, bases and salts\"",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Which reaction is not a redox reaction?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox reactions definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Some properties which make elements different from each other are listed. 1 metallic character 2 number of electron shells in an atom 3 number of protons in an atom 4 total number of electrons in an atom Which two properties increase across a period of the Periodic Table?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Periodic Table arrangement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Aqueous copper(II) sulfate solution is placed in an iron container and left to stand for several days. Which statement describes what happens?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Conditions for rusting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which equation shows a reaction that will occur at room temperature and pressure?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Displacement reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Attaching pieces of magnesium to underground iron pipes can protect the iron from corrosion. Which reaction protects the iron from corrosion?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Sacrificial protection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Which compound is used as a fertiliser?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "Ammonium salts and nitrates as fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "In the Haber process, hydrogen and nitrogen react to form ammonia in the presence of a catalyst. Which of the two reactants is obtained by fractional distillation and what is the catalyst used in the Haber process?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Haber process equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "An element, Z, from Group II of the Periodic Table reacts with chlorine, an element from Group VII. What is the formula of the ionic compound formed?",
+    "image": null,
+    "Unit": "\"UNIT 2: Atoms, elements and compounds\"",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of ionic bonds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "The table shows treatments used for drinking water supplies and reasons for using those treatments. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "The table shows some atmospheric pollutants and their possible effects. Which row is not correct?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Adverse effects of pollutants",
+      "Sources of air pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "How many moles of ethanoic acid, CH3CO2H, react with one mole of magnesium?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reactions of carboxylic acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "With which substance will ethene react to form more than one product?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Addition reactions of alkenes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "The diagram shows the structures of two hydrocarbons, X and Y. Two students make the following statements. Student 1 Hydrocarbon X is an isomer of Y. Student 2 Hydrocarbon X is unsaturated but Y is saturated. Which students are correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "\"11.1 Formulae, functional groups and terminology\"",
+    "Sub_topic": [
+      "Structural isomers",
+      "Saturated compounds",
+      "Unsaturated compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "The diagram shows the structure of an ester. What is the name of this ester?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing esters"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "An unsaturated hydrocarbon with six carbon atoms contains only three C=C double bonds. This hydrocarbon is reacted with excess hydrogen at a high temperature. What is the formula of the resulting hydrocarbon?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Addition reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "Compound Q has the formula C4H10. Which statement about compound Q is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Properties of alkanes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Hydrolysis of R, a macromolecule, gives a mixture of amino acids. What is R?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Proteins as polyamides"
+    ],
+    "Parts": []
+  }
+]

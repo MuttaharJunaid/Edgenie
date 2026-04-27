@@ -1,0 +1,544 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Evaluate 9.03 - (4.273 + 2.3)",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Evaluate 8/9 - 6/7",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Given that 192 × 64.3 = 12345.6, write down the values of 0.192 × 643",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Given that 192 × 64.3 = 12345.6, write down the values of 12.3456/192",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "The total cost of 3 pencils is $1.23. Find the total cost of 5 pencils.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Use proportional reasoning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Arrange the following in order, starting with the smallest. 74%, -0.7, 0.7, 3/4",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "In the diagram, ABC is a straight line and BF is parallel to DE. FBA = 74° and DBF = 65°. Find CBD.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "In the diagram, ABC is a straight line and BF is parallel to DE. FBA = 74° and DBF = 65°. Find reflex BDE.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "By making suitable approximations, estimate the value of √3.98 x 602.3 / 2.987 Show clearly the approximations you use.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Write the number 513000 in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Expressing your answer in standard form, evaluate (4 × 10^-5) × (6 × 10^-4) .",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "The diagram shows part of the histogram which represents the distribution of times taken by some people to travel to work. Complete the table.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "The diagram shows part of the histogram which represents the distribution of times taken by some people to travel to work. Complete the histogram.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "f(x) = 4 + 3x Find f(-2 1/2)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "f(x) = 4 + 3x Find f⁻¹(5).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "y varies inversely as the square of x. When x = 2, y = 9. Find the value of y when x = 3.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "When x = n, y = p. Write down an expression for y, in terms of p, when x = 2n.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "A school recorded the number of absent students over a 50-day period. The results are given in the table. Write down the mode.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "A school recorded the number of absent students over a 50-day period. The results are given in the table. Calculate the mean.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14a",
+    "Question_text": "In the Venn diagram, shade the region which represents the subset (A∩B΄)UC",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14b",
+    "Question_text": "In a group of 36 students, 23 study Spanish, 17 study French, 4 study neither Spanish nor French. By drawing a Venn diagram, or otherwise, find the number of students who study both Spanish and French.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Solve the simultaneous equations. 3x + y = 9, 2x + 3y = -8",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16a",
+    "Question_text": "Evaluate 3^2 + 3^1 + 3^0",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Understand zero indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b",
+    "Question_text": "Evaluate (4/3)^-2",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand negative indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16c",
+    "Question_text": "Simplify (16x^6)^1/2",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand fractional indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17a",
+    "Question_text": "Some money is shared between Ali, Ben and Carl in the ratio 5:3:2. Ben receives $60. How much money is shared?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17b",
+    "Question_text": "Express the ratio 3 1/2 hours : 14 minutes in the form k:1",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18b",
+    "Question_text": "What is the probability that the sum is less than 2?",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18c",
+    "Question_text": "What is the probability that the sum is greater than 5?",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19a",
+    "Question_text": "A box has a mass of 1.7kg, correct to the nearest 0.1 kg. Write down the lower bound for the mass of the box.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b",
+    "Question_text": "A box has a mass of 1.7kg, correct to the nearest 0.1 kg. The box holds 100 jars. Each jar has a mass of 140 grams, correct to the nearest 10 grams. Calculate the lower bound of the total mass of the box and 100 jars. Give your answer in kilograms.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Solve the equation 2x/4 + x-2/3 = 2",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve fractional equations with numerical and linear algebraic denominators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "[The volume of a sphere is (4/3)πr³] During a storm, raindrops fall into a cylinder which stands on horizontal ground. The cylinder was empty before the storm started. The cylinder has radius 20mm. Each raindrop is a sphere of radius 2mm. After the storm, the depth of water in the cylinder is 16mm. Calculate the number of raindrops that fell into the cylinder.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23a",
+    "Question_text": "Calculate the area of the shaded card.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23b",
+    "Question_text": "Calculate the perimeter of the shaded card.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24a",
+    "Question_text": "Find x",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24b",
+    "Question_text": "Find y",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24c",
+    "Question_text": "Find z",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24d",
+    "Question_text": "Find t",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25a",
+    "Question_text": "Find the coordinates of A.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.1 Coordinates",
+    "Sub_topic": [
+      "Use and interpret Cartesian coordinates in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25b",
+    "Question_text": "The shaded region R is defined by five inequalities. Two of these are x ≤6 and y≤6. Write down the other three inequalities.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25c",
+    "Question_text": "The point P is in the shaded region R. Given that AP is as large as possible, write down the coordinates of P.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.1 Coordinates",
+    "Sub_topic": [
+      "Use and interpret Cartesian coordinates in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26ai",
+    "Question_text": "Find an expression, in terms of n, for the nth term.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26aii",
+    "Question_text": "The kth term of this sequence is 841. Find the value of k.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26bi",
+    "Question_text": "Find the fourth term of this sequence.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26bii",
+    "Question_text": "Find the fifth term of this sequence.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27a",
+    "Question_text": "Find the retardation when t = 10.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27b",
+    "Question_text": "Find the distance travelled by the car between t = 0 and t = 20.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27c",
+    "Question_text": "The distance travelled by the car between t = 20 and t = k is 60 m. Find the value of k.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": []
+  }
+]

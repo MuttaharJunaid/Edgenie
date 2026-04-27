@@ -1,0 +1,208 @@
+[
+  {
+    "QuestionNumber": "5054/31/May-June/2024/Q1",
+    "Question_text": "You will find the volume of a small glass ball (marble) by two different methods. You are provided with: • six similar small glass balls (marbles) • a metre rule fixed in place on the bench • two set squares • a 50 cm³ measuring cylinder • a 100 cm³ beaker containing water • access to a top-pan (electronic) balance • paper towels.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Measuring Density",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "method 1",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Use the set squares to help you take readings on the metre rule of the positions of points A and B, as shown in Fig. 1.1. Give your readings to the nearest 0.1 cm. position of point A = .............................................................. cm position of point B = .............................................................. cm",
+        "image": "A diagram showing six small glass balls placed in a line, touching each other, by the side of a metre rule. The leftmost ball's start is labelled 'A' and the rightmost ball's end is labelled 'B'. The metre rule shows markings from 0 to 100 cm. A dashed line indicates the length 'l' between points A and B."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The length l is the distance between points A and B. The average diameter d of one ball can be found using the equation: l = 6d Use your answers to (a)(i) to find length l and diameter d. Give your answers to the nearest 0.1 cm. l = .............................................................. cm d = .............................................................. cm",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The average volume V of one glass ball found using this method is given by the equation: V = 3.14d³/6 Calculate V. V = .............................................................. cm³",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "method 2",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Pour water into the measuring cylinder until it is just over half full. Record the volume V₁ of the water in the measuring cylinder. V₁ = .............................................................. cm³",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Carefully add the six glass balls to the water in the measuring cylinder. Record the new volume V₂ of the water and glass balls in the measuring cylinder. V₂ = .............................................................. cm³ The volume Vₜ of the six balls is given by the equation: Vₜ = V₂ - V₁ Calculate Vₜ. Vₜ = .............................................................. cm³",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Remove the glass balls from the measuring cylinder and dry them using the paper towel. Calculate the average volume V of one ball found using this method. V = .............................................................. cm³",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest whether method 1 or method 2 gives the more accurate value for the volume of the ball. Explain your answer. method giving more accurate value ........................................................................................ explanation ........................................................................................................................ ........................................................................................................................................... ...........................................................................................................................................",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The average mass of a glass ball can be found using a small beaker and a top-pan balance. Find the average mass of one glass ball using the small beaker and the top-pan balance supplied. Describe your method and record the readings you take. method ............................................................................................................................... ........................................................................................................................................... ........................................................................................................................................... readings .............................................................................................................................. ........................................................................................................................................... ........................................................................................................................................... mass of one glass ball = .............................................................. g",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/May-June/2024/Q2",
+    "Question_text": "In this experiment, you will investigate how the temperature of the surroundings affects the rate of cooling of water. You are provided with: • stop-watch • a 250 cm³ beaker • a larger beaker (500 cm³ or 600 cm³) • a thermometer • a supply of hot water • a supply of mixed ice and water • paper towels to mop up spillages.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Ask the supervisor to pour approximately 100 cm³ of hot water into the 250 cm³ beaker.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure the temperature θ of the water and immediately start the stop-watch. Record this temperature in the first row of Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Record in Table 2.1 the temperature θ of the water every 30s for 4 minutes. Table 2.1 t/s | θ/°C --- | --- 0 | 30 | 60 | 90 | 120 | 150 | 180 | 210 | 240 | Empty the 250 cm³ beaker when you have finished taking the temperature of the water in it.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the average cooling rate C₁ of the water for the first 90s of the experiment. Use your readings in Table 2.1 and the equation: C₁ = (θ₀ - θ₉₀)/t where θ₀ is the temperature at 0s, θ₉₀ is the temperature at 90s and t is the time of 90 s. Give the unit for C₁. C₁ = .............................................................. unit ....................",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Calculate the average cooling rate C₂ of the water for the final 90s of the experiment. Use the equation: C₂ = (θ₁₅₀ - θ₂₄₀)/t where θ₁₅₀ is the temperature of the water at 150s, θ₂₄₀ is the temperature of the water at 240s and t is the time of 90 s. C₂ = .............................................................. unit ....................",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Compare your values of C₁ and C₂. Explain any difference in these values. ........................................................................................................................................... ........................................................................................................................................... ...........................................................................................................................................",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Pour approximately 100 cm³ of iced water into the larger beaker. Ask the supervisor to pour approximately 100 cm³ of hot water into the 250 cm³ beaker. Carefully place the 250 cm³ beaker of hot water into the larger beaker of iced water as shown in Fig. 2.1. Make sure that the water from the larger beaker does not spill into the smaller beaker.",
+        "image": "A diagram showing a smaller 250 cm³ beaker containing hot water, placed inside a larger beaker (500 cm³ or 600 cm³) containing iced water. A thermometer is immersed in the hot water. The setup illustrates the cooling of hot water by iced water in the surroundings."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure the temperature θ of the hot water and immediately start the stop-watch. Record, in Table 2.2, the temperature at times t = 0s, 30s, 60s, 90s and 120s. Table 2.2 t/s | θ/°C --- | ---",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the average cooling rate C₃ for the first 90s of the experiment. Use your readings in Table 2.2 and the equation: C₃ = (θ₀ - θ₉₀)/t C₃ = .............................................................. unit ....................",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Describe how C₃ differs from C₁. Explain your answer. ........................................................................................................................................... ...........................................................................................................................................",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "State one variable that you should keep constant to make a valid comparison of C₁ and C₃. ...........................................................................................................................................",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/May-June/2024/Q3",
+    "Question_text": "In this experiment, you will find the focal length of a convex lens. You are provided with: • a lamp • a piece of card with a shape cut out to be the illuminated object • a screen • a convex lens • a metre rule.",
+    "image": "A diagram showing the experimental setup for finding the focal length of a convex lens. From left to right: a lamp, an illuminated object, a convex lens in a holder, and a screen. The distance between the illuminated object and the convex lens is labeled 'u'. The distance between the convex lens and the screen is labeled 'v'. The total distance between the illuminated object and the screen is labeled 'D'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Switch on the lamp. Place the screen a distance D = 60.0 cm from the illuminated object. Place the lens between the object and the screen so that the lens is about 10cm away from the illuminated object. Move the lens slowly away from the illuminated object until a clearly focused image is formed on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe two differences between the illuminated object and its image on the screen. 1 ........................................................................................................................................ 2 ........................................................................................................................................",
+        "image": "A diagram showing the shape of the illuminated object, which is a stylized capital 'L' shape."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Measure the distance u between the centre of the lens and the illuminated object for D = 60.0 cm. Record your value for u to the nearest 0.1 cm in Table 3.1. Table 3.1 D/cm | u/cm | v/cm | (u x v)/cm² --- | --- | --- | --- 60.0 | | | 70.0 | | | 80.0 | | | 90.0 | | | 100.0 | | |",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Deduce the distance v between the centre of the lens and the screen for D = 60.0 cm. Record your value for v to the nearest 0.1 cm in Table 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Repeat the procedure in the stem of (a), (a)(ii) and (a)(iii) using values of D = 70.0 cm, 80.0 cm, 90.0 cm and 100.0 cm. Record all your values for u and v in Table 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Calculate (u x v) for each value of D and record your answers in Table 3.1. Give your values to 3 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Use the grid provided in Fig. 3.3 on page 11 to plot a graph of (u × v)/cm² on the y-axis against D/cm on the x-axis. You do not need to start your axes at the origin (0,0). Draw the straight line of best fit.",
+        "image": "A blank grid with horizontal and vertical lines for plotting a graph, labelled Fig. 3.3."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The focal length f of the lens is numerically equal to the gradient of the line. Calculate the gradient of the line. Show all working and indicate on your graph in Fig. 3.3 the values you use. f = .............................................................. cm",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The lens manufacturer states that the focal length of the lens is 15.0cm ± 10%. Decide, with a calculation, whether your value of f agrees with this statement and tick the box that shows your answer. calculation: ........................................................................................................................................... ........................................................................................................................................... my value for f agrees with the manufacturer's statement ☐ my value for f does not agree with the manufacturer's statement. ☐",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/May-June/2024/Q4",
+    "Question_text": "Plan an experiment to investigate how the thickness of a metal wire affects its resistance. The resistance of a wire can be found using the equation: resistance of wire = potential difference (p.d.) across wire / current in the wire The following apparatus is available: • six lengths of metal wire, each of different thickness • an ammeter • a voltmeter • a power supply • several connecting leads • a micrometer. Other apparatus normally available in a school laboratory can also be used. You are not required to do this experiment. In your plan, you should: • draw a circuit diagram to show how you will use the apparatus • explain briefly how to carry out the investigation • state the key variables to keep constant • draw a table, with column headings, to show how to display readings (you are not required to enter any readings in the table) • explain how to use these readings to reach a conclusion.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  }
+]

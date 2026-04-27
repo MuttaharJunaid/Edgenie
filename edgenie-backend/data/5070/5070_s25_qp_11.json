@@ -1,0 +1,469 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Four gases are listed. 1 CH4 2 NH3 3 CO2 4 N2 What is the order of their rate of diffusion at room temperature and pressure?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.2 Diffusion",
+    "Sub_topic": [
+      "Effect of molecular mass on diffusion rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Sodium is added to water and a chemical reaction occurs. Hydrogen and aqueous sodium hydroxide are produced. Which row describes the reactants and products in this reaction?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Identifying redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "An atom of element X is shown. Which element is X?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure",
+      "Proton number / atomic number"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Which definition of isotopes is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.3 Isotopes",
+    "Sub_topic": [
+      "Definition of isotopes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A pure sample of element X has a relative atomic mass of 51.8. The sample consists of three isotopes. The table shows the relative masses and percentage abundances of two of the isotopes. What is the relative mass of the third isotope?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.3 Isotopes",
+    "Sub_topic": [
+      "Relative atomic mass from isotopes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Magnesium reacts with oxygen to form magnesium oxide. 2Mg + O2 2MgO Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions",
+      "Formation of ionic bonds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Which statement about solid calcium chloride is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Properties of ionic compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which description of metallic bonding is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "The ions Ca2+ and PO4³ combine to form an ionic compound. What is the formula of the compound?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formula of ionic compound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Magnesium reacts with aqueous copper(II) sulfate to form copper and aqueous magnesium sulfate. What is the correct equation for this reaction?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "An organic compound has an M₁ of 88. What is the molecular formula of this compound?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Molecular formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "10 cm³ of hydrogen gas is mixed with xcm³ of chlorine gas. The equation for the reaction that takes place is shown. H2(g) + Cl2(g) → 2HCl(g) All the hydrogen reacts. The total volume of gas at the end of the reaction is 40 cm³. All measurements are at room temperature and pressure. What is the value of x?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "100 cm³ of aqueous potassium hydroxide with a concentration of 1.00mol/dm³ reacts with excess dilute sulfuric acid. 2KOH(aq) + H2SO4(aq) → K2SO4(aq) + 2H2O(I) 3.48 g of pure anhydrous potassium sulfate is produced. What is the percentage yield of potassium sulfate?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations",
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Which statement about electrolysis is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition",
+      "Anode, cathode and electrolyte"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "The diagram shows an electrolysis experiment using inert electrodes. Which row shows what happens to the concentration of the electrolyte in L and in M as the electrolysis proceeds?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which row is correct for a chemical reaction in which ∆H is negative?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions",
+      "Bond breaking and making"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The diagram shows apparatus used to investigate two different reactions that produce gases. The reactants for each experiment are mixed and the mass of flask plus contents for each experiment is recorded every 30 seconds. A graph of the mass against time is drawn. In experiment 1, solid X is calcium carbonate. In experiment 2, solid X is magnesium. Which graph is correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction",
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "In a closed flask, gases Q and R reach a dynamic equilibrium. Q(g) 2R(g) ΔΗ is positive Which change will move the equilibrium to the right?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Which row shows the typical conditions used for the conversion of sulfur dioxide to sulfur trioxide in the Contact process?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation",
+      "Conditions in Contact process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "The pH of dilute ethanoic acid is measured. The equation for the partial dissociation of ethanoic acid is shown. CH3COOH(aq) CH3COO¯(aq) + H+(aq) Aqueous sodium ethanoate, CH3COONa, is added to the dilute ethanoic acid and the pH is measured again. What is the initial pH of the dilute ethanoic acid and how does it change after the addition of the aqueous sodium ethanoate?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Strong acid definition",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which element reacts with oxygen to produce an amphoteric oxide?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Amphoteric oxides",
+      "Classifying oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Element X is in Period 2 of the Periodic Table. X reacts with magnesium to form an ionic compound with the formula MgX2. What is X?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Periodic Table arrangement",
+      "Group number and ion charge",
+      "Predicting properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Rubidium is an element in Group I of the Periodic Table. Which statement about rubidium is correct?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.2 Group I properties",
+    "Sub_topic": [
+      "Group I trends",
+      "Predicting Group I properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Group VII trends",
+      "Appearance of halogens",
+      "Displacement reactions",
+      "Predicting Group VII properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "M is a metal that forms coloured compounds. M is extracted from its oxide either by heating with carbon or by electrolysis. M reacts with dilute hydrochloric acid. What is M?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.4 Transition elements",
+    "Sub_topic": [
+      "Properties of transition elements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which statement about brass is correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.3 Alloys and their properties",
+    "Sub_topic": [
+      "Alloy definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Iron is galvanised with zinc to prevent rusting. Which type of protection is provided by galvanising?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Galvanising with zinc",
+      "Sacrificial protection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Iron is extracted from its ore hematite in a blast furnace. Which statement about this extraction process is correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Extraction of iron"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Chlorine and carbon are both used in the treatment of the domestic water supply. Which row describes one reason for the use of each substance?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Which row states an adverse effect for the named pollutant?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Adverse effects of pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Three statements about global warming and greenhouse gases are listed. 1 Global warming is occurring because more of the Earth's thermal energy is released to space. 2 Greenhouse gases both absorb and emit thermal energy. 3 Greenhouse gas levels in the atmosphere may be reduced by replacing fossil fuels with hydrogen. Which statements are correct?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Greenhouse gases mechanism",
+      "Strategies to reduce effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Which compound is an alcohol?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Functional group definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "An ester has the structural formula CH3COOCH2CH2CH3. What is the name of this ester?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing esters"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "Petroleum is separated into fractions in a fractionating column. Which property of the fractions increases from the bottom to the top of the column?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fractional distillation",
+      "Properties of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "Three statements about alkanes are listed. 1 They contain carbon and hydrogen only. 2 They contain only single covalent bonds. 3 They are saturated hydrocarbons. Which statements are correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Bonding in alkanes",
+      "Properties of alkanes",
+      "Saturated compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "The flowchart shows some reactions of hydrocarbons. saturated hydrocarbon process 1 unsaturated hydrocarbons + H₂ saturated hydrocarbons with large molecules with small condition 2 with small molecules molecules Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Manufacture by cracking",
+      "Addition reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "The structure of a condensation polymer is shown. Which two monomers form this polymer?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Condensation polymer structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "A titration is completed. 25.0 cm³ of aqueous sodium hydroxide is added to a conical flask. A few drops of methyl orange indicator are added. Dilute hydrochloric acid is added slowly to the mixture until the colour changes. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration",
+      "End-point identification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "An impure sample of compound X has a melting point of 120 °C. X is purified and its melting point is measured again. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Purity assessment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Samples of two compounds, P and Q, are tested. The result of each test is shown. Which row shows the identities of the ions present in P and Q?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Flame tests for cations"
+    ],
+    "Parts": []
+  }
+]

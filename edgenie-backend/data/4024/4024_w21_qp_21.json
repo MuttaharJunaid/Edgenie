@@ -1,0 +1,554 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "In October, Sara is charged $84.25 for water. A tax of 8% is added to this amount. Calculate the total amount Sara is charged for water in October including tax.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "The table shows the rates that Sara is charged for her gas and electricity supply. She is charged a fixed amount each day plus an amount for each unit used.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1bi",
+    "Question_text": "Sara uses a total of 960 units of gas in the 30 days of November. Calculate the total amount, in dollars, Sara is charged for gas in November.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1bii",
+    "Question_text": "Sara is charged a total of $30.80 for electricity in the 30 days of November. Calculate the number of units of electricity she used.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "The amount of electricity generated is measured in Gigawatt hours (GWh). The table shows information about the amount of electricity generated in different countries.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1ci",
+    "Question_text": "Calculate how much more electricity was generated in Japan than in Australia in 2016. Give your answer in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1cii",
+    "Question_text": "Calculate the percentage increase in electricity generated in Turkey from 2010 to 2016.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1ciii",
+    "Question_text": "There was a 4% decrease in the amount of electricity generated in Spain from 2013 to 2016. Calculate the amount of electricity generated in Spain in 2013.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate reverse percentages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "The table shows the number of exercise classes attended in one week by each of 80 members of a gym.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ai",
+    "Question_text": "Find the mode.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aii",
+    "Question_text": "Find the median.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aiii",
+    "Question_text": "A pie chart is drawn to show this information. Calculate the angle representing 5 classes attended.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret pie charts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Some members of the gym were surveyed about how much time they spent at the gym. The histogram shows the times, t minutes, they spent on their last visit.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bi",
+    "Question_text": "Thirty members spent between 30 and 60 minutes at the gym. Calculate the number of members surveyed.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Calculate with frequency density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bii",
+    "Question_text": "Rohit says: One tenth of these members spent longer than 1 1/2 hours at the gym on their last visit. Is he correct? Justify your answer.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Points A, B and C are on the circle, centre O. AOC and OBE are straight lines. DE is a tangent to the circle at C. ABO = 34°.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3ai",
+    "Question_text": "Explain why triangle AOB is isosceles.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3aii",
+    "Question_text": "Find BÊC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "OPS and OOR are sectors of circles each with centre O. OPQ and OSR are straight lines. OP = 7.4cm, PQ = 1.2cm and QÔR = 96°. Calculate the shaded area.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "The diagram shows the positions of three villages, P, Q and R. R is due west of P and Q is on a bearing of 140° from P. PR = 3.8 km and QR = 7.5 km.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4ai",
+    "Question_text": "Calculate angle PRQ.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4aii",
+    "Question_text": "Work out the bearing of R from Q.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "The distance by road from village P to village T is 16.5 km. Kwesi leaves village P at 1030 and drives to village T at an average speed of 45 km/h. He stops in village T for 15 minutes. He then drives back to village P and arrives there at 1135. Calculate Kwesi's average speed, in km/h, for the journey back from village T to village P.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Khalid has these 10 number cards. He takes a card at random, notes the number and replaces it. He then takes a second card.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5ai",
+    "Question_text": "Find the probability that the first card Khalid takes shows an even number.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5aii",
+    "Question_text": "Complete the tree diagram.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5aiii",
+    "Question_text": "Work out the probability that Khalid takes one odd number and one even number.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Basma has a bag containing 5 yellow counters, 3 pink counters and 4 black counters. She takes two counters from the bag at random, without replacement. Find the probability that she takes one yellow counter and one pink counter. Give your answer as a fraction in its simplest form.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "The diagram shows a right-angled triangle, with dimensions given in centimetres.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6ai",
+    "Question_text": "Show that 5x²+30x-39 = 0.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6aii",
+    "Question_text": "Solve the equation 5x²+30x-39 = 0. Show your working and give your answers correct to 2 decimal places.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6aiii",
+    "Question_text": "Calculate the area of the triangle.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "The diagram shows a different right-angled triangle. The length of the hypotenuse is 12cm. Calculate the shortest distance from A to BC.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know perpendicular distance from point to line is shortest distance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "On the grid below, draw the graph of y = 2^x for 0 ≤ x ≤ 4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Draw and interpret graphs representing exponential growth and decay problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "The diagram shows the graph of y = 1/(2x^2) +3x for -1 ≤ x ≤ 3.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Draw and interpret graphs representing exponential growth and decay problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7bi",
+    "Question_text": "By drawing a tangent, estimate the gradient of the curve at x = 0.5 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7bii",
+    "Question_text": "Use the graph to estimate the solution of the equation 1/(2x^2) + 3x = 2.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7biii",
+    "Question_text": "By drawing a suitable line on the grid, estimate the solutions of the equation 1/(2x^2) = 7-4x.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "A is the point (−2, 3) and B is the point (4, 5). Find the coordinates of the midpoint of AB.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Show that the equation of line AB is 3y = x+11.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.5 Equations of linear graphs",
+    "Sub_topic": [
+      "Interpret and obtain the equation of a straight-line graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "Find the equation of the perpendicular bisector of line AB.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.7 Perpendicular lines",
+    "Sub_topic": [
+      "Find the gradient and equation of a straight line perpendicular to a given line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Solve 3x-8 = 7.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Solve the inequality 7x < 3(2-x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9c",
+    "Question_text": "Solve 3/(x-2) + x/(x+5) = 1.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve fractional equations with numerical and linear algebraic denominators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9d",
+    "Question_text": "Simplify (2x²+3x+4xy+6y)/(2x²+11x+12)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "A cuboid measures 6.2 cm by 4.8 cm by 2.5 cm. Each measurement is given correct to the nearest millimetre. Calculate the upper bound of the surface area of the cuboid.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "[Volume of a pyramid = 1/3 × base area × height] The diagram shows a square-based pyramid ABCDE. Vertex E is vertically above X, the centre of the square base. The height of the pyramid, EX, is 17 cm. EC = 19 cm.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10bi",
+    "Question_text": "Show that the length of the base is 12 cm.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10bii",
+    "Question_text": "Calculate the volume of the pyramid.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10biii",
+    "Question_text": "Calculate angle CBE.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.4 Pythagoras’ theorem and trigonometry in 3D",
+    "Sub_topic": [
+      "Carry out calculations and solve problems in three dimensions using Pythagoras’ theorem and trigonometry, including angle between line and plane"
+    ],
+    "Parts": []
+  }
+]

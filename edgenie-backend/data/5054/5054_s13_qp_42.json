@@ -1,0 +1,180 @@
+[
+  {
+    "QuestionNumber": "May-June/2013/5054/42/Q1",
+    "Question_text": "A student determines the focal length of a lens. The apparatus is set up as shown in Fig. 1.1. The illuminated object is fixed at the 0cm mark on the metre rule. The perpendicular distance u of the object from the lens is fixed at 15.0cm.",
+    "image": "Fig. 1.1 shows a diagram of an optical bench setup. From left to right: an illuminated object, a lens (represented by a vertical line with arrows), and a screen on the right. The screen shows a 'blurred image' and is supported by a 'wooden block' on a 'metre rule'. A distance 'u' is indicated between the illuminated object and the lens. The diagram is labeled 'not to scale'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 1.1, mark u and label it 15.0 cm.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The image on the screen is not clear and the centre of the image is above the centre of the lens. Explain how the apparatus is adjusted",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "to produce a focussed image on the screen,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "so that the centre of the image is level with the centre of the lens.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The image on the screen is in focus. The student measures the distance from the object to the screen. Fig. 1.2 shows an enlarged view of part of the screen and the metre rule.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State the reading on the metre rule at the position of the screen.",
+        "image": "Fig. 1.2 shows an enlarged view of a metre rule with markings in centimeters, from 43 to 47. A vertical dashed line labeled 'screen' is positioned at 45.4 cm, and a 'wooden block' supports it."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use your answer to (c)(i) to calculate the distance v of the image from the lens.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student repeats the experiment for increasing values of u. The results are recorded in Fig. 1.3.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "In the spaces in Fig. 1.3, write your value of v from (c)(ii) and the corresponding value of u.",
+        "image": "Fig. 1.3 is a table with two columns, 'u/cm' and 'v/cm'. It contains pairs of values: (20.0, 19.8), (25.0, 16.5), (30.0, 15.1), (35.0, 14.2), (40.0, 13.3). There is an empty row at the bottom for an additional data point."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "On Fig. 1.4, plot the graph of v/cm on the y-axis against u/cm on the x-axis. Start your graph from v = 10cm and u = 10cm. Draw a curved line of best fit.",
+        "image": "Fig. 1.4 is a Cartesian coordinate graph with x-axis labeled 'u/cm' and y-axis labeled 'v/cm'. The axes range from 10 to approximately 47-48 for both u and v, with a grid of small squares."
+      },
+      {
+        "part_label": "e",
+        "part_text": "Suggest two practical techniques that the student uses to make the readings for v as accurate as possible.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "When u = v, theory shows that the focal length f of the lens is given by f = u/2. Use your graph to determine a value for f.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2013/5054/42/Q2",
+    "Question_text": "A student walks to school. He sketches a distance-time graph of his journey. Fig. 2.1 shows the first part of the journey. He walks 500m in the first 5 minutes, as shown on Fig. 2.1. He then meets a friend and, as they talk, they take 10 minutes to walk the next 500m at constant speed. They then stop for 7 minutes to look at some fish in a river. They run at constant speed for the last 500 m so as not to be late for school. The total journey time of the student is 25 minutes.",
+    "image": "Fig. 2.1 is a distance-time graph. The x-axis is labeled 'time/min' and the y-axis is labeled 'distance/m'. The graph shows a straight line segment starting from (0,0) and going up to (5, 500). The x-axis ranges from 0 to about 15, and the y-axis ranges from 0 to about 650.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.1, plot the remainder of the journey.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the total distance the student travels to school.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest a method of measuring the distance travelled by the student to the school.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Without calculating any values, explain how the graph is used to find his fastest speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2013/5054/42/Q3",
+    "Question_text": "Fig. 3.1 shows a bottle with a solid glass stopper.",
+    "image": "Fig. 3.1 shows a diagram of a glass bottle with a solid glass stopper inserted. The stopper is shaped like an inverted cone with a flat top, and the bottle has a narrow neck. Labels point to 'solid glass stopper' and 'bottle'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density",
+      "Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe a laboratory experiment to determine the volume of the glass stopper. In your answer, state clearly • the equipment used, • the readings taken, • how the volume is calculated.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe one way to make the measurement of the volume accurate.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "To determine the density of the glass in the stopper, one more quantity must be measured. State the name of this quantity and the instrument used to measure it.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2013/5054/42/Q4",
+    "Question_text": "A solar cell converts light energy into electrical energy. A student investigates the maximum e.m.f. produced by a solar cell in the laboratory. Fig. 4.1 shows the symbol for a solar cell.",
+    "image": "Fig. 4.1 shows the circuit symbol for a solar cell. It consists of a circle with a diagonal line through it, and two smaller arrows pointing towards the circle, indicating light input. It has two terminals extending from the circle.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Measurement",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student uses a voltmeter to measure the e.m.f. produced by the solar cell.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Draw a diagram of the circuit he uses. Include a switch in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "When the student closes the switch, he notices that the voltmeter needle moves backwards, as shown in Fig. 4.2. Explain why this happens and how the student can correct this.",
+        "image": "Fig. 4.2 shows a voltmeter with a circular scale. The scale ranges from 0 to 1.0 V, marked with increments of 0.1 V, and further subdivided. The needle is pointing backwards, to the left of 0, indicating a negative reading or reversed polarity. Two terminals are shown, one labeled '+' and the other 'O' (which usually implies common or negative)."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The student corrects the problem and, when the switch is closed, the voltmeter now reads 0.96V. On Fig. 4.2, mark the new position of the needle.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "To investigate the solar cell, the student uses light entering the laboratory through a window. When the student moves his head to read the voltmeter, there is a large decrease in the reading. Suggest a reason for this, and explain how the student can prevent this happening when he moves.",
+        "image": null
+      }
+    ]
+  }
+]

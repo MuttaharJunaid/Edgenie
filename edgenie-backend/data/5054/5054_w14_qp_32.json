@@ -1,0 +1,248 @@
+[
+  {
+    "QuestionNumber": "October-November/32/2014/Q1",
+    "Question_text": "In this experiment, you will determine the density of the material of a length of wire. You are provided with • a length of wire, • a metre rule, • a 30 cm ruler, • four pieces of adhesive tape, • a wooden rod.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Using two pieces of adhesive tape, stick the wire to the bench and ensure that it is straight. Measure the length L of the wire. L = ................................................................ [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Carefully wind the wire around the wooden rod, ensuring that the turns of wire are as close as possible. This is shown in Fig. 1.1. You may use adhesive tape to fix the ends of the wire to prevent the turns unwinding.",
+        "image": "Fig. 1.1 shows a diagram of a wooden rod with wire tightly wound around it. The wound section is labeled 'turns of wire', and a length 'x' is indicated with arrows spanning across the turns. The wooden rod is labeled."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Count the number N of turns of wire on the rod. N = ................................................................",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Measure the length x of the coil as shown in Fig. 1.1. x = ................................................................",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the diameter d of the wire using d = x/N d = ................................................................ [2]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Remove the coil of wire from the rod.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Using the top-pan balance, measure the mass m of the coil of wire. m = ................................................................",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the density p of the material of the wire using the equation ρ = 4m/(πd²L) ρ = ................................................................ [2] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2014/Q2",
+    "Question_text": "In this experiment, you will investigate virtual images using a converging lens. You are provided with • a converging lens, • a stand, boss and clamp to hold the lens, • a half-metre rule, • a boss and clamp to hold the half-metre rule, • a small piece of Blu-Tack, • a set square.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 2.1 consists of six printed lines and a black square. Determine, as accurately as possible, the average separation s of the lines on Fig. 2.1. s = ................................................................ [1]",
+        "image": "Fig. 2.1 shows six horizontal parallel lines of equal spacing with a solid black square positioned centrally between the third and fourth lines from the top. The lines extend across the width of the diagram."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the stand, boss and clamp on this page of the question paper and set up the apparatus as shown in Fig. 2.2. The centre of the converging lens should be held horizontally directly above the black square on Fig. 2.1. The distance x between the centre of the lens and the black square should be as small as possible.",
+        "image": "Fig. 2.2 shows a diagram of an experimental setup for optics. A stand is placed on a bench. A half-metre rule is clamped vertically to the stand using a boss and clamp. Another boss and clamp assembly is attached to the half-metre rule, holding a converging lens. The lens is positioned above a question paper, with a dotted line indicating the distance 'x' from the lens to the paper, specifically to a black square on the paper. A small piece of Blu-Tack is attached to the half-metre rule, possibly marking a position."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Keep your eye between 30 cm and 40 cm above the page. You may mark this position on the half-metre rule with the Blu-Tack if you wish. Observe the black square through the lens.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe any difference between the image that you see through the lens and the object.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Release the boss holding the lens and slowly raise the lens, keeping your eye between 30 cm and 40 cm above the page. State what happens to the magnification of the image and describe how your observations show this. [2]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "With your eye in the same position, adjust the height x of the lens above the paper in order to view a magnified image of the spacing between the lines.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "When the separation of the lines seen through the lens appears to be double the separation of the lines on the paper, tighten the boss and measure x. x = ................................................................",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Describe how to obtain a more accurate value for x and determine this accurate value. accurate x = ................................................................ [2] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2014/Q3",
+    "Question_text": "In this experiment, you will find the frictional force opposing the motion of a block of wood across the bench. You are provided with • a block of wood labelled A, with a small hook at the end, • a 10 g slotted mass hanger, nine 10 g slotted masses and one 100 g slotted mass, • a pulley arrangement, • string passing over the pulley, with loops attached to the block A and the mass hanger, • a stopwatch, • a metre rule, • a stand, boss and clamp to hold the metre rule, • a set square.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Acceleration",
+      "Newton's Second Law",
+      "Kinetic Energy",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The Supervisor has set up the apparatus as shown in Fig. 3.1. Move the block away from the pulley until the mass hanger is just below the pulley. Clamp the metre rule vertically close to, but not touching, the mass hanger. Measure the distance y from the base of the mass hanger to the floor. Give your answer in metres. y = .................................................... m [1]",
+        "image": "Fig. 3.1 shows a diagram of an experiment to investigate friction. A block labeled 'block A' rests on a bench and is connected by a string passing over a pulley to a suspended 'mass hanger'. The mass hanger is shown above the floor, and the vertical distance from the base of the mass hanger to the floor is labeled 'y'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Place sufficient slotted masses on the mass hanger to ensure block A accelerates across the bench when released. It should take between 1 s and 2 s for the mass hanger to fall to the floor. Record the total mass m of the mass hanger and the slotted masses. Give your answer in kg. m = .................................................... kg",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Move the block away from the pulley until the base of the mass hanger is at the same height y above the floor. Release block A. Determine the average time t for the mass hanger to fall to the floor. t = .................................................... [2]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Record the mass M of block A, which is written on the label on the block. M = .................................................... kg",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "the final velocity v of the block using v = 2y/t. v = .................................................... m/s",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "the final kinetic energy Ek of the block and falling mass using Ek = ½ (M + m) v² Ek = ................................................................",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "the potential energy Ep lost by the falling mass using Ep = mgy, where the gravitational field strength g is 10 N/kg, Ep = ................................................................",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "the average resistive force F opposing the motion of the block using F = (Ep - Ek)/y F = ................................................................ [2] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2014/Q4",
+    "Question_text": "In this experiment, you will determine the resistance of a resistor. You have been provided with a circuit consisting of • a cell, • a resistor X, • a length of resistance wire attached to a metre rule, • two crocodile clips, • a switch. The circuit is shown in Fig. 4.1.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Graph Plotting"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "You are also provided with • a voltmeter, • connecting leads, • a card giving the resistance R of a 1.000 m length of the resistance wire.",
+        "image": "Fig. 4.1 shows a circuit diagram. A cell is connected in series with a switch, a resistor X, and a resistance wire. Crocodile clip C is at one end of the resistance wire, and crocodile clip D is placed at some distance 'L' along the wire from C. Points A and B are shown on either side of resistor X. The resistance wire is laid out along a metre rule."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Use the additional connecting leads to connect the voltmeter between points A and B. With the switch open, record the reading V0 on the voltmeter. V0 = ................................................................ [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Record the total length L of resistance wire between the crocodile clips C and D. Give your answer in metres. L = ................................................................ m",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "In this experiment the ratio L/V0 = K m/V. Calculate the value of K. K = ................................................................ [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "(i) Disconnect the voltmeter from points A and B. Connect the voltmeter between points C and D. Move the crocodile clip at D to a point that is a distance l = 0.900 m from C. This is shown in Fig. 4.2.",
+        "image": "Fig. 4.2 shows a circuit diagram. A cell is connected in series with a resistor X and a resistance wire. A voltmeter is connected in parallel across a segment of the resistance wire of length 'l', between crocodile clips C and D. The resistance wire is shown above a metre rule."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Close the switch and record the reading V on the voltmeter. V = ................................................................ [1] Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "By placing the crocodile clip D at different positions on the wire, repeat (b)(ii) for a wide range of values of l. The minimum value of l that you should use is 0.300 m. (If you go below this length, the current will be high and the wire will get hot.) Record your results for l and V in Fig. 4.3. The values of l should be recorded in metres. Include columns for 1/V and 1/l. Also include your results from (b)(ii) in Fig. 4.3. [4]",
+        "image": "Fig. 4.3 shows a blank table with multiple rows and columns. It is intended for recording experimental data, specifically values for 'l', 'V', '1/V', and '1/l', and is large enough to accommodate several sets of measurements."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of l/(1/V) against l/(1/m). Draw the straight line of best fit. [4]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Determine the gradient G of the line of best fit. G = ................................................................ [2]",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "The resistance Rx of X may be found using the equation Rx = GR/K where R is the resistance of the resistance wire, which is given on the card.",
+        "image": null
+      },
+      {
+        "part_label": "f(i)",
+        "part_text": "Record R. R = ................................................................",
+        "image": null
+      },
+      {
+        "part_label": "f(ii)",
+        "part_text": "Using your answers to (a)(iii), (e) and (f)(i), calculate Rx. Rx = ................................................................ [2] [Total: 15]",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "QuestionNumber": "May-June/23/2010/Q1",
+    "Question_text": "A journey consists of two displacements: the first is 500m in a northerly direction and the second is 200m in an easterly direction.",
+    "image": "The image shows a compass rose with the letter 'N' indicating the northerly direction, providing an orientation for vector diagrams.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Calculating with Vectors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below draw, to scale, a vector diagram of these displacements. State the scale of your diagram. On your diagram, show the two displacements and the resultant displacement. Determine the size (magnitude) and direction of the resultant displacement.",
+        "image": "The image shows a blank space below the question text, with lines for 'scale =', 'size =', and 'direction =' to be filled in. A compass rose with 'N' (North) pointing upwards is also provided to aid in drawing the vector diagram."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Another journey covers a distance of 700m. Describe how it is possible that this journey has no resultant displacement.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q2",
+    "Question_text": "Fig. 2.1 shows a motor used to operate a lift (elevator). There is a man in the lift. The input power to the motor is 6200 watts.",
+    "image": "Fig. 2.1 shows a diagram of a motor operating a lift system. A motor is positioned at the top, connected to a cable which extends downwards to a lift (elevator) car. A human figure is depicted inside the lift car. Labels indicate 'motor', 'cable', and 'lift'. The diagram is labeled as 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Efficiency",
+      "Gravitational Potential Energy",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define the watt.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The lift and the man have a total mass of 580kg. The lift moves up a distance of 12m in 15s. Calculate the tension in the cable when the lift is moving at constant speed.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the increase in potential energy of the lift and man.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the efficiency of the motor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q3",
+    "Question_text": "Fig. 3.1 shows a metal roof. One side is facing the Sun.",
+    "image": "Fig. 3.1 shows a diagram of a triangular-shaped metal roof. Rays of 'sunlight' are depicted as parallel arrows striking one inclined side of the roof, which is explicitly labeled 'metal roof'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Thermal Conduction",
+      "Convection",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the means by which thermal energy (heat) is transferred from the Sun to the Earth and explain why other means of thermal energy transfer are not involved.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how thermal energy is transferred through the metal roof from the heated surface.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "During the night, the metal roof loses 1.2 × 10^6 J of thermal energy and its temperature falls by 20°C. The specific heat capacity of the metal in the roof is 400 J/(kg°C). Calculate the mass of metal in the roof.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q4",
+    "Question_text": "A student notices puddles of water on a road, as shown in Fig. 4.1. Later in the day, he passes the puddles again and some of the water has evaporated.",
+    "image": "Fig. 4.1 shows an aerial perspective of a road with several irregular shapes representing 'puddle of water' scattered along its surface. Trees are visible in the background and along the edges of the road.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two changes to the atmospheric conditions that would cause the water to evaporate faster.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain, in terms of molecules, what happens during evaporation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q5",
+    "Question_text": "Fig. 5.1 shows a ray of light entering a semi-circular glass block and striking the glass at M, the mid-point of the straight face.",
+    "image": "Fig. 5.1 displays a semi-circular glass block with its flat face at the bottom. A ray of light enters the curved side of the block and travels towards point 'M', which is located at the center of the flat face. The block is labeled 'glass block', and the point on the flat face is labeled 'M'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection",
+      "Snell's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The ray of light strikes the glass surface at M with an angle of incidence C equal to the critical angle of light in glass. State what is meant by critical angle.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 5.1, mark and label the angle C.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "On Fig. 5.1, continue the ray of light after it strikes the glass surface at M.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 5.2 shows a second ray of light striking M. This ray has an angle of incidence at M smaller than the critical angle. On Fig. 5.2, continue this ray of light after it strikes the glass surface at M.",
+        "image": "Fig. 5.2 shows a semi-circular glass block, identical in shape to Fig. 5.1. A ray of light is shown entering the curved side and striking point 'M' on the flat face. The angle of incidence is visibly smaller than the critical angle, implying refraction will occur. Point M is labeled."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The refractive index of this glass is 1.5. A third ray of light enters the block from air with an angle of incidence of 50°. Calculate the angle of refraction.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q6",
+    "Question_text": "An aeroplane becomes positively-charged as it flies through the air, because particles from its metal surface.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of the particles lost from the metal surface.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The tyres of the aeroplane are made from an electrical conductor. Explain what happens to the charge on the aeroplane when it lands.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest why it is necessary to keep an aeroplane connected electrically to earth during refuelling.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q7",
+    "Question_text": "Fig. 7.1 shows a compass. The compass needle is a small magnet free to rotate. The head of the arrow on the compass needle is an N-pole.",
+    "image": "Fig. 7.1 shows a simple, circular compass with a magnetic needle inside. The needle is depicted as an arrow, with its head marked as the 'N-pole', and the entire component is labeled 'compass needle'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnetic Fields",
+      "Electromagnetic Effects",
+      "Electric Circuits",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A bar magnet is placed between two compasses, as shown in Fig. 7.2. On Fig. 7.2, draw the needles inside the two compasses and mark the N-pole of both compass needles.",
+        "image": "Fig. 7.2 shows a bar magnet placed horizontally between two empty circular compass casings. The bar magnet is labeled with 'N' on its left end and 'S' on its right end. The label 'bar magnet' is positioned above it."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 7.3 shows the structure of a relay. Explain how closing the switch causes the contacts to close.",
+        "image": "Fig. 7.3 illustrates the internal structure of an electromagnetic relay. It shows a coil of wire wrapped around a 'soft iron' core. Above this, a pivot mechanism holds another 'soft iron' piece that, when attracted by the energized coil, causes 'contacts' to close."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Fig. 7.4 is a circuit that includes a relay. When light shines on the light-dependent resistor (LDR), the relay contacts C close. State what happens to the resistance of the LDR when light falls on it.",
+        "image": "Fig. 7.4 depicts an incomplete circuit diagram. A battery is connected in series with an LDR (Light-Dependent Resistor) and the coil of a relay. The relay includes a pair of open contacts labeled 'C'. Separately, a lamp is shown, awaiting connection to the contacts and a power source."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The circuit for the lamp, as shown in Fig. 7.4, is not complete. On Fig. 7.4, draw the connections to the lamp, the contacts C and the battery that cause the lamp to switch on when light shines on the LDR.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q8",
+    "Question_text": "A radioactive rock emits gamma-rays. A teacher plans an experiment to show a class that the emission of gamma-rays from the rock is random in time.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Detection of Radioactivity",
+      "Radioactive Decay",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the apparatus that the teacher needs to detect the gamma-rays.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one safety precaution that the teacher must take.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe how the experiment is performed.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe what is meant by a gamma-ray.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q9",
+    "Question_text": "Fig. 9.1 shows a car braking on a road and coming to rest.",
+    "image": "Fig. 9.1 shows a car viewed from a slight angle, driving on a road. Dashed lines behind the car indicate motion and braking as it approaches a stop. The setting appears to be outdoors on a paved road.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances",
+      "Friction",
+      "Acceleration",
+      "Speed & Velocity",
+      "Speed-Time Graphs",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain what is meant by the thinking distance,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain what is meant by the braking distance.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "An engineer conducts a test on the car and finds that the braking distance is greater when the car is fully loaded than when it is unloaded. Apart from the road conditions, state what must be kept the same in the test.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the car has a greater braking distance when fully loaded.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State and explain how one road condition affects the braking distance of the car. Use ideas about friction in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Explain how wider tyres affect the pressure of the car on the surface of the road.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "The car has a total mass of 900kg and is travelling at 20m/s. At time t = 0, the sees an accident ahead. He applies the brakes at t = 0.60s to stop the car. After brakes are applied, the car comes to rest in a further 4.0s. Calculate the deceleration of the car as it brakes.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Calculate the braking force acting on the car.",
+        "image": null
+      },
+      {
+        "part_label": "e(iii)",
+        "part_text": "On Fig. 9.2, draw a speed-time graph for the car as it brakes.",
+        "image": "Fig. 9.2 presents a large, empty grid with clearly marked horizontal and vertical axes, labeled for drawing a speed-time graph."
+      },
+      {
+        "part_label": "e(iv)",
+        "part_text": "State how your graph in (iii) can be used to find the total distance travelled by the car.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q10",
+    "Question_text": "Describe a method for measuring the speed of sound in air. In your answer, state clearly how the sound is made, what measurements are taken, how the result is calculated, and one precaution to produce an accurate result.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Measuring the Speed of Sound",
+      "Ultrasound",
+      "Reflection of Sound Waves",
+      "The Wave Equation",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe a method for measuring the speed of sound in air. In your answer, state clearly how the sound is made, what measurements are taken, how the result is calculated, and one precaution to produce an accurate result.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Ultrasound is used in quality control to detect cracks in metal. Pulses of ultrasound are sent into the metal from a transmitter. A detector is placed next to the transmitter on the front surface of the metal. Fig. 10.1 shows the oscilloscope trace of the ultrasound pulses produced if the metal contains no cracks. Pulses labelled S are the pulses initially sent out from the transmitter. Each pulse labelled R is the reflection from the back surface of the metal of the previous pulse S. State what is meant by ultrasound.",
+        "image": "Fig. 10.1 displays an oscilloscope trace. The horizontal axis represents time, with one division equivalent to '1.0 x 10^-6 s'. The trace shows a series of identical 'S' pulses (transmitted) followed by 'R' pulses (reflected) at regular intervals, indicating a repeating pattern of transmitted and received ultrasonic signals."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Use Fig. 10.1 to calculate the number of pulses sent out by the source in one second.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest two reasons why the amplitude of R is less than the amplitude of S.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Some time later, the piece of metal is tested again. It now has a small crack half-way between the front surface and the back surface. On Fig. 10.1, draw the position and size of the pulses produced by this crack. Label each of these pulses C.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "A second beam of ultrasound has a frequency of 8.0 × 10^6 Hz and a speed of 4000 m/s in the metal. Calculate the wavelength of this ultrasound in the metal.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q11",
+    "Question_text": "Describe an experiment, including an ammeter and a voltmeter, to show how the resistance of a wire varies with temperature. Draw a circuit diagram.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe an experiment, including an ammeter and a voltmeter, to show how the resistance of a wire varies with temperature. Draw a circuit diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The filament in a lamp is made from metal wire. Describe the variation with temperature of the resistance of the filament lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 11.1, sketch a graph of the variation of the current in the filament against the potential difference (p.d.) across it.",
+        "image": "Fig. 11.1 shows a blank graph with a horizontal axis labeled 'p.d.' (potential difference) and a vertical axis labeled 'current'. Both axes originate from zero, providing a coordinate system for sketching a graph."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Fig. 11.2 is a circuit used to monitor changes in room temperature. A thermistor is connected in series with a 6.0V battery and a 2000 Ω resistor. The temperature of the room increases. State and explain what happens to 1. the reading on the ammeter, 2. the reading on the voltmeter.",
+        "image": "Fig. 11.2 illustrates a series circuit comprising a 6.0 V battery, an ammeter (A), a thermistor, and a 2000 Ω fixed resistor. A voltmeter (V) is connected in parallel across the 2000 Ω resistor to measure the potential difference across it."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "At a certain temperature, the reading on the voltmeter is 3.8V. Calculate the resistance of the thermistor at this temperature.",
+        "image": null
+      }
+    ]
+  }
+]

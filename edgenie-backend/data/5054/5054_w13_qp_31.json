@@ -1,0 +1,208 @@
+[
+  {
+    "QuestionNumber": "October-November/31/2013/Q1",
+    "Question_text": "In this experiment, you will determine the density of the rubber from which a stopper (bung) is made. You have been provided with: • a rubber stopper, • a 30 cm ruler. You also have access to a top-pan balance. Fig. 1.1 shows the stopper.",
+    "image": "A diagram of a truncated cone or a stopper, showing its dimensions. The top diameter is labeled d2, the bottom diameter is labeled d1, and the height is labeled h. The object is depicted in a 2D cross-section view.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine, for the stopper, average values for the smallest diameter d₁.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine, for the stopper, average values for the largest diameter d₂.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Determine, for the stopper, average values for the height h.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State and explain a precaution that you took to ensure that your values of d₁ and d₂ were as accurate as possible.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use the top-pan balance to measure the mass m of the stopper.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate z, where z = (d₁ + d₂)/4.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Calculate an approximate value of the density ρ of the rubber using ρ = m/(πz²h).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2013/Q2",
+    "Question_text": "In this experiment, you will investigate the thermal power from a candle flame. You have been provided with: • a beaker, • a thermometer held in a clamp, • a supply of water at room temperature, • a measuring cylinder, • a candle, • a means of lighting the candle, • a plastic stirrer, • a stopwatch or stop-clock, • a stand with a clamp and two bosses. The thermometer should stay in the clamp throughout the experiment.",
+    "image": "A diagram labeled Fig. 2.1 showing an experimental setup. A beaker containing water is held by a clamp attached to a stand. A thermometer is suspended vertically in the water, held by another clamp and boss. A lit candle is placed directly beneath the beaker, with its flame touching the base of the beaker. Labels indicate the 'clamp holding thermometer', 'boss', 'thermometer', 'beaker', 'water', 'stand', 'clamp holding beaker', and 'candle'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Hold the thermometer and clamp in the beaker so that the thermometer is vertical and does not touch the sides or base of the beaker. Pour sufficient water into the beaker to just cover the bulb of the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Remove the thermometer from the beaker. Measure the volume V of the water in the beaker using the measuring cylinder. Pour all the water back into the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "A volume of 1.0cm³ of water has a mass of 1.0 g. Write down the mass m of water in the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Light the candle.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Set up the apparatus as shown in Fig. 2.1 with the candle away from the beaker. The base of the beaker should be level with the top of the candle flame.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Record the temperature θ_R of the water in the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Carefully place the lit candle under the beaker and start the stopwatch or stop-clock. After a time t = 120s, remove the candle from under the beaker and record the highest temperature θ_H reached by the water. Extinguish the candle.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the power P used to heat the water using the equation P = mc(θ_H - θ_R)/t, where the specific heat capacity c of water is 4.2J/(g°C).",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Explain why P is less than the thermal power provided by the candle flame.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2013/Q3",
+    "Question_text": "In this experiment, you will investigate resistors connected in series. You have been provided with a circuit containing: • a 3V power supply, • a switch, • a resistor labelled X, • a resistor labelled Y, • an ammeter. You also have been provided with: • a voltmeter with two connecting leads, • a flying lead connected to one point in the circuit. The circuit is shown in Fig. 3.1.",
+    "image": "A circuit diagram labeled Fig. 3.1. It shows a series circuit connected to a power supply (battery symbol) and an ammeter (labeled A). Two resistors, X and Y, are connected in series. Points A, B, and C are marked in the circuit. A flying lead, with one end labeled D, is shown extending from the main circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Resistance",
+      "Combined Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Connect the voltmeter between points A and C. Close the switch and record the voltmeter reading V and the current I in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Open the switch. Calculate the total resistance R of the resistors using the equation R = V/I.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Connect the loose end D of the flying lead to point A. Close the switch and record the new voltage V_Y between points A and C and the new current I_Y in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Open the switch. Calculate the resistance R_Y of resistor Y using the equation R_Y = V_Y/I_Y.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Determine the resistance R_X of resistor X.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2013/Q4",
+    "Question_text": "In this experiment, you will investigate the frictional force opposing the motion of a wooden block. You have been provided with: • a wooden block with a small hook at one end, • a length of string with a loop at each end, • a pulley arrangement at the edge of the bench, • a 10g mass hanger with nine 10g slotted masses, • eight 100 g slotted masses.",
+    "image": "A diagram labeled Fig. 4.1 showing an experimental setup to measure frictional force. A wooden block rests on a bench. A string is attached to a hook on one end of the block, passes over a pulley at the edge of the bench, and then hangs vertically. A mass hanger with slotted masses is suspended from the free end of the string. Labels include 'wooden block', 'hook', 'loop of string' (twice), 'pulley', 'bench', and '10g mass hanger'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Place the loop at one end of the string over the small hook on the block. Pass the string over the pulley and suspend the 10g mass hanger from the loop at the other end of the string. A diagram of the apparatus is shown in Fig. 4.1. Face A of the block should be uppermost.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Give the wooden block a push for a short distance towards the pulley. The block will stop. Add 10g masses to the mass hanger until the block moves at approximately constant velocity after it is given a short push towards the pulley. If the bench surface exerts a large frictional force, you may need to use one or more of the 100 g slotted masses in addition to the 10g slotted masses. Record, in kg, the total mass M suspended from the string.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Repeat the experiment and obtain an average value for M.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Calculate the weight W of the mass using the relationship W = Mg, where g = 10N/kg.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "The weight W can be taken as the frictional force opposing the motion of the block. Explain how the experiment could be improved to obtain a more accurate value of the frictional force.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When a mass P is placed on top of the block it changes the frictional force opposing the motion of the block. Use some of the 100g masses to change the value of P. For each value of P, find the corresponding value of M required to move the block at constant speed. You will need to use some of the 100g masses to increase P and others, with the 10g slotted masses, to increase M. Record your results in a table. Include in your table columns for P, M and W. Also include your result from (a).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using the grid opposite, plot a graph of W/N against P/g. Draw a straight line of best fit through your points.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Determine the gradient of your graph.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Determine the intercept on the W axis.",
+        "image": null
+      }
+    ]
+  }
+]

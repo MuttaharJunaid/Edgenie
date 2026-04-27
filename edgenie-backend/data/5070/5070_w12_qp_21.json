@@ -1,0 +1,499 @@
+[
+  {
+    "QuestionNumber": "A1a",
+    "Question_text": "Define the term element.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.1 Elements, compounds and mixtures",
+    "Sub_topic": [
+      "Differences between elements, compounds and mixtures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A1b",
+    "Question_text": "Choose from the following elements to answer the questions below... Which element...",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions",
+      "Noble gases, outer electrons and occupied shells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A1c",
+    "Question_text": "Draw the electronic structure of an aluminium atom.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2a",
+    "Question_text": "What are the essential conditions for the corrosion of iron?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Conditions for rusting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2b",
+    "Question_text": "Ships' hulls can be prevented from corroding by attaching pieces of magnesium to them. Explain why this prevents the hulls from corroding.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Sacrificial protection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2c",
+    "Question_text": "Steel is an alloy. Explain the meaning of the term alloy.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.3 Alloys and their properties",
+    "Sub_topic": [
+      "Alloy definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2d",
+    "Question_text": "The table shows how the speed of corrosion of iron varies with the pH of the solution. Describe how pH affects the speed of corrosion of iron.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Conditions for rusting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A3a",
+    "Question_text": "Deduce the formula of the sixth member of the alcohol homologous series. Predict the boiling point of this alcohol.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Homologous series characteristics"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A3b",
+    "Question_text": "Ethanol can be made industrially by fermentation. Describe one other method of making ethanol industrially, stating the conditions required for the reaction.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Manufacture of ethanol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A3c",
+    "Question_text": "Ethanol can be oxidised to ethanoic acid by atmospheric oxygen. Name one other suitable oxidising agent which can be used.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Formation of ethanoic acid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A4a",
+    "Question_text": "Name two dissolved substances that occur naturally in unpolluted water from lakes and rivers.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Substances in natural water",
+      "Beneficial substances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A4b",
+    "Question_text": "Pollution in lakes and rivers can be caused by leaching of fertilisers from farmland. This can cause eutrophication. Name two ions present in fertilisers which cause eutrophication.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "Ammonium salts and nitrates as fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A5a",
+    "Question_text": "Complete the equation for the formation of oxygen at the anode.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products at cathode and anode"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A5b",
+    "Question_text": "When the power pack is replaced by a voltmeter, the apparatus acts like a fuel cell. State the direction of the electron flow in the external circuit. Give a reason for your answer.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.2 Hydrogen–oxygen fuel cells",
+    "Sub_topic": [
+      "Hydrogen–oxygen fuel cell"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A5c",
+    "Question_text": "Suggest two advantages of using a fuel cell rather than petrol to power a car.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.2 Hydrogen–oxygen fuel cells",
+    "Sub_topic": [
+      "Advantages and disadvantages of fuel cells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A6a",
+    "Question_text": "Construct an equation for this reaction. Include state symbols.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A6bi",
+    "Question_text": "Name the catalyst used in this reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A6bii",
+    "Question_text": "Explain why increasing the pressure shifts the position of equilibrium further to the right.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A6biii",
+    "Question_text": "Explain why the reaction is carried out at atmospheric pressure even though an increase in pressure shifts the position of equilibrium further to the right.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Conditions explanation in processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A6biv",
+    "Question_text": "Explain why the reaction is carried out at 450°C and not at a higher or lower temperature.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Conditions explanation in processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A6c",
+    "Question_text": "Construct an equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A6d",
+    "Question_text": "Calculate the concentration, in mol/dm³, of the aqueous sulfuric acid. Give your answer to 3 significant figures.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration from titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7a",
+    "Question_text": "Draw a labelled diagram to show the structure of a metal.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7b",
+    "Question_text": "Explain why metals conduct electricity",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7ci",
+    "Question_text": "Construct an equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Reactions with water, steam and acid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7cii",
+    "Question_text": "Explain the meaning of the term amphoteric oxide.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Amphoteric oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7di",
+    "Question_text": "Concentrated nitric acid reacts with tin to form tin(IV) oxide, SnO2, nitrogen dioxide and water. Construct an equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Reactions with water, steam and acid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7dii",
+    "Question_text": "Describe a test for nitrate ions. Give the result of a positive test.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8a",
+    "Question_text": "Explain how fractional distillation separates petroleum into different fractions.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fractional distillation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8bi",
+    "Question_text": "Explain the meaning of the term homologous series.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Homologous series characteristics"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8bii",
+    "Question_text": "Draw the structure, showing all atoms and bonds, of the two isomers of butane, the fourth member of the alkane homologous series.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural isomers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8c",
+    "Question_text": "Construct an equation for the complete combustion of hexane, C6H14.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fossil fuels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8di",
+    "Question_text": "Explain why the process of cracking needs to be carried out.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Reasons for cracking"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8dii",
+    "Question_text": "Describe a chemical test to distinguish between an alkane and an alkene.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Test for unsaturation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9a",
+    "Question_text": "Define the term relative atomic mass.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative atomic mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9b",
+    "Question_text": "The relative atomic mass of magnesium can be determined in the laboratory by finding the volume of hydrogen given off when magnesium reacts with hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative atomic mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9ci",
+    "Question_text": "If the yield of the reaction is 75% calculate the mass of magnesium oxide formed when 12kg of magnesium burns in excess air.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9cii",
+    "Question_text": "Deduce the formula for magnesium nitride.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formula of ionic compound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9di",
+    "Question_text": "Construct an equation for the reaction of magnesium silicide with water.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9dii",
+    "Question_text": "Draw a 'dot-and-cross' diagram for silane. Show only the outer shell electrons.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Formation of covalent bonds in molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9diii",
+    "Question_text": "Silane reacts with oxygen to form silicon dioxide and water. Construct an equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B10a",
+    "Question_text": "Explain why limestone is used in the blast furnace for the extraction of iron. Include any relevant equations in your answer.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Extraction of iron"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B10bi",
+    "Question_text": "Which one of these carbonates is least likely to decompose on heating?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.2 Group I properties",
+    "Sub_topic": [
+      "Group I trends"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B10bii",
+    "Question_text": "Describe how the thermal stability of these carbonates changes with the reactivity of the metal.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.2 Group I properties",
+    "Sub_topic": [
+      "Group I trends"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B10c",
+    "Question_text": "Draw a labelled diagram of the apparatus you could use to follow the course of this reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Practical methods for rate"
+    ],
+    "Parts": []
+  }
+]

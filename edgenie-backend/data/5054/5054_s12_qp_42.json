@@ -1,0 +1,171 @@
+[
+  {
+    "QuestionNumber": "May-June/42/2012/Q1",
+    "Question_text": "A student investigates the cooling of water. Some of the apparatus is set up as shown in Fig. 1.1. A volume of 100cm³ of boiling water is poured into the beaker. The student starts the stopclock when the temperature of the water is 90°C. The water is allowed to cool and its temperature θ is recorded every 2 minutes.",
+    "image": "Fig. 1.1 displays a laboratory setup on a bench. On the left side, there is a stopclock with a circular dial, marked from 0 to 60 seconds (with major markings every 5 seconds). To the right of the stopclock, a beaker is placed, containing water. A stirrer is shown partially immersed in the water. Labels within the diagram identify 'stirrer', 'beaker', 'water', 'stopclock', and 'bench'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer",
+      "Measurement",
+      "Specific Heat Capacity",
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 1.1, draw the thermometer in the most suitable position for measuring the temperature of the water as it cools.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest a reason why the thermometer should be held in a clamp.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe how the student avoids parallax error when reading the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The stopclock measures to the nearest second. Suggest why, in this experiment, the student does not need to use a digital stopwatch measuring to 0.01 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the student places the stopclock close to the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 1.3, plot the graph of θ/°C on the y-axis against t/minutes on the x-axis. Start your graph from θ = 40 °C and t = 0. Draw a curved line of best fit.",
+        "image": "Fig. 1.2 is a table showing recorded data for time (t/minutes) and temperature (θ/°C). The data points are (0, 90), (2, 76), (4, 69), (6, 65), (8, 61), (10, 58), (12, 55). Fig. 1.3 shows an empty graph grid with the x-axis starting at '0' and the y-axis starting at '40' at the origin, prepared for plotting the cooling curve."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the temperature of the water does not fall to 0°C.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Use your graph to determine the time taken for the temperature of the water to fall from 90 °C to 80 °C.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The experiment is repeated with the same volume of water in a wider beaker, as shown in Fig. 1.4. State and explain the effect of using the wider beaker on the time taken for the temperature of the water to fall from 90 °C to 80 °C.",
+        "image": "Fig. 1.4 illustrates two beaker setups side-by-side, comparing an 'original beaker' and a 'wider beaker'. Both show water inside with a stirrer. The wider beaker has a larger diameter compared to the original, while the water level appears to indicate the same volume in both, implying a lower height in the wider beaker."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2012/Q2",
+    "Question_text": "A student uses a pendulum to obtain a value for the acceleration of free fall g. Fig. 2.1 shows the pendulum hanging from a fixed support.",
+    "image": "Fig. 2.1 (not to scale) depicts a simple pendulum setup. A string is suspended from a 'support' at the top, and a spherical 'pendulum bob' is attached to the bottom of the string. A horizontal line labelled 'bench' is shown below the bob, indicating the reference level.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Measurement",
+      "Acceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.1, mark and label the length l of the pendulum.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe a method of measuring l accurately.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Three measurements are taken of the time for 20 complete swings of the pendulum. Explain how to find the average time T for one complete swing.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The value obtained for l is 0.450 m and for T is 1.33 s. Using the relationship g = 4π²l / T² calculate a value for g. Give your answer to 3 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest an improvement to this experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2012/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Electromotive Force & Potential Difference",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A student connects a cell, a switch and three resistors to make a circuit. The resistors are labelled A, B and C. Resistors A and B, the cell and the switch are all in series. Resistor C is in parallel with the cell. In the space below, draw the circuit diagram.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On your circuit diagram, draw the symbol for a voltmeter, connected to measure the voltage across resistor A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A student connects the circuit shown in Fig. 3.1. X, Y and Z are three identical lamps. The student closes the switch. Lamp Z lights dimly. Lamp X and lamp Y do not light. Tick TWO of the following which are possible explanations: both lamp X and lamp Y are faulty only lamp X is faulty only lamp Y is faulty the cell is running down a connecting lead from the cell is broken the current in lamp X and in lamp Y is too small",
+        "image": "Fig. 3.1 shows an electrical circuit diagram. The circuit includes a cell, a switch, and three components represented by lamp symbols, labelled X, Y, and Z. The cell and switch are connected in series. Following the switch, component X is in series. After component X, the circuit branches into two parallel paths: one path contains component Y, and the other path contains component Z. These two parallel branches then rejoin to complete the circuit back to the cell."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2012/Q4",
+    "Question_text": "A student finds an old magnet at the back of a drawer containing other magnets. He designs an experiment to find out if it is still magnetised.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "He brings a plotting compass near to end A of the old magnet, as shown in Fig. 4.1. State the polarity of end A of the old magnet.",
+        "image": "Fig. 4.1 shows an 'old magnet' in the shape of a bar, with its ends labelled 'B' and 'A'. A 'plotting compass' is positioned near end A. The north pole (darker end) of the compass needle is pointing away from end A, indicating repulsion."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The plotting compass is then brought near to end B, as shown in Fig. 4.2. State the polarity of end B.",
+        "image": "Fig. 4.2 shows the same 'old magnet' with ends labelled 'B' and 'A'. A 'plotting compass' is positioned near end B. The north pole (darker end) of the compass needle is pointing towards end B, indicating attraction."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest a possible explanation for the student's results.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the student can use the plotting compass to plot the shape of the magnetic field around a new magnet. You may use a diagram in your explanation.",
+        "image": null
+      }
+    ]
+  }
+]

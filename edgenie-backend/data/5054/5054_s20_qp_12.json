@@ -1,0 +1,493 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2020/Q1",
+    "Question_text": "Which quantity is a vector?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q2",
+    "Question_text": "The diagram shows the resultant R of a 3.0N force and a 4.0N force that act at a point P. The angle between the 3.0N force and the 4.0N force can be any value from 0° to 90°. Which value of R is not possible?",
+    "image": "A diagram showing two force vectors, 3.0 N and 4.0 N, originating from a point P, with a resultant vector R. The two force vectors are drawn at an angle, and the resultant R forms the third side of a triangle.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q3",
+    "Question_text": "What is measured using a micrometer?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q4",
+    "Question_text": "Stop-watches are used to time the runners in a race. The stop-watches show the times recorded for the winner and another runner. What is the difference in time between the winner and the other runner?",
+    "image": "Two digital stopwatches are shown. The first, labeled 'winner', displays '00:57:76' (0 minutes, 57 seconds, 76 hundredths of a second). The second, labeled 'other runner', displays '01:03:84' (1 minute, 3 seconds, 84 hundredths of a second).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q5",
+    "Question_text": "Two cameras are a known distance apart. The exact time that a vehicle passes each of the cameras is recorded. What can be obtained from the information?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q6",
+    "Question_text": "A car of weight 11000N moves with constant velocity along a horizontal road. A driving force of 5000 N acts on the car. What is the force opposing the motion of the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's First Law",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q7",
+    "Question_text": "A man with an open parachute falls to Earth at constant speed. The following forces act: P the upward force of the parachute on the man, Q the upward force of the man on the Earth, R the downward force of the Earth on the parachute, S the downward force of the man on the parachute. Which two forces are a Newton's third law pair?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q8",
+    "Question_text": "The diagram shows a motorcyclist leaning over in order to turn the corner to the left. Which force causes him to turn?",
+    "image": "A diagram of a motorcyclist leaning left to turn a corner. Four forces are indicated: A is a horizontal arrow pointing left at the contact point of the tires with the ground (representing friction/centripetal force). B is an arrow pointing diagonally upwards and right from the contact point (representing the normal reaction force). C is a horizontal arrow pointing right from the center of mass. D is a vertical arrow pointing downwards from the center of mass (representing weight).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Friction",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q9",
+    "Question_text": "An object weighs 40 N on Earth, where the gravitational field strength is 10N/kg. The object is taken to a planet where the gravitational field strength is 4.0 N/kg. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q10",
+    "Question_text": "The diagram shows the equipment used to determine the density of a liquid. Which equation is used to calculate the density of the liquid?",
+    "image": "A digital balance displays '175.03' (presumably grams), with a beaker containing a liquid placed on its pan. This setup is for determining the mass of the liquid.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q11",
+    "Question_text": "Which single item can be used to find the centre of mass of a plane lamina of irregular shape?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q12",
+    "Question_text": "A student makes a model toy which balances on the end of a metal rod. Why are the weights needed?",
+    "image": "A diagram shows a model toy balancing on the end of a metal rod. The toy has a main body with two extended arms downwards, at the end of which are circular weights, positioned below the pivot point on the rod. Labels indicate 'weight' and 'metal rod'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q13",
+    "Question_text": "An unstretched elastic cord of length 15.0cm stretches by 4.0cm when a weight of 6.0N is suspended from it. The cord does not exceed the limit of proportionality. What is the total length of the cord when the weight is 3.0N?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q14",
+    "Question_text": "An object is placed at different depths in liquids of different densities. In which liquid and at what depth is the pressure on the object the greatest?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q15",
+    "Question_text": "A small vessel of volume 3.0 cm³ contains air at a pressure of 100kPa. The small vessel is connected to a syringe. The piston is fully inserted into the syringe. The piston is moved slowly to the right so that the air in the syringe has a volume of 12cm³. The temperature of the air does not change. What is the pressure of the air in the syringe?",
+    "image": "A diagram illustrates a small vessel of 3.0 cm³ and 100 kPa connected to a syringe. A piston is shown, with an arrow indicating movement to the right, increasing the volume of the contained air.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Gases & Absolute Temperature",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q16",
+    "Question_text": "A rocket of mass M when empty carries a mass M of fuel. The rocket and fuel travel at speed v. The engine of the rocket is fired and all of the fuel is expelled. The speed of the rocket increases to 2v. What happens to the kinetic energy of the rocket?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Conservation of Energy",
+      "Momentum"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q17",
+    "Question_text": "A car of mass 1000 kg is driven 200 m up an incline so that it rises 50 m vertically. The acceleration of free fall g is 10 m/s². What is the gain in gravitational potential energy?",
+    "image": "A diagram shows an inclined plane with a base length that suggests a hypotenuse of 200 m and a vertical height of 50 m. A line representing the path of a car goes up this incline.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q18",
+    "Question_text": "In which situation is energy being released by the fusion of hydrogen nuclei to form helium?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q19",
+    "Question_text": "The main stages in the operation of a coal-fired power station are listed. They are not in the correct order. 1 The turbine turns a generator. 2 Water in the boiler becomes hot. 3 Steam turns a turbine. 4 Burning coal produces thermal energy. 5 Electromagnetic induction produces electrical energy. 6 Steam is produced. The flow chart shows the first two stages: 4 -> 2. What is the correct order for the remaining stages?",
+    "image": "A flowchart displays two connected boxes, '4' and '2', with an arrow indicating flow from 4 to 2. Following box 2, four empty boxes are shown, also connected by arrows, representing the subsequent stages of a process.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Fuels",
+      "Conservation of Energy",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q20",
+    "Question_text": "In which situation is there no transfer of energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q21",
+    "Question_text": "The 200 V battery of an electric car is charged with a current of 33 A for 4.0 hours. The efficiency of the charging process is 90%. How much useable energy is transferred to the battery?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power",
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q22",
+    "Question_text": "In an experiment to measure the power output of a small steam engine, a known load is lifted by the engine. Which two measuring instruments are also required?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Work",
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q23",
+    "Question_text": "Four metal containers, with identical dimensions, are filled with water at 90 °C. All the faces, except one, of each container are covered in a very good insulator. The one exposed face on each container is painted either black or white. In which container does the water cool the fastest?",
+    "image": "Four diagrams of rectangular metal containers, each filled with water, are shown. Each container has one exposed face and all other faces insulated. The exposed faces differ in size (large or small) and color (painted black or white): A shows a large black face, B a large white face, C a small black face, and D a small white face.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q24",
+    "Question_text": "Thermal energy is used to turn water at 100 °C to steam at 100 °C. Which of the following occurs? 1 The forces between the molecules decrease. 2 The speed of the molecules increases. 3 The separation of the molecules increases.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q25",
+    "Question_text": "The thermal energy produced by an electric heater in three minutes is used to melt wax. The solid wax is initially at its melting point of 60 °C. The specific latent heat of the wax is 220 J/g. The heater supplies 7700 J of thermal energy to the wax. Some of the wax melts. How much wax melts?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q26",
+    "Question_text": "What always happens when the temperature increases?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q27",
+    "Question_text": "Which row explains why a liquid has a fixed volume but does not have a fixed shape?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q28",
+    "Question_text": "The air in a sealed can is heated. Which statement explains the increase in pressure inside the can?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q29",
+    "Question_text": "The diagram shows how the height above the ground of a rope transmitting a wave varies with distance from the source of vibrations at one instant in time. What is the amplitude of the wave shown?",
+    "image": "A graph titled 'height above ground/cm' vs 'distance from source/cm' depicts a sinusoidal wave. The wave oscillates between a minimum height of approximately 20 cm and a maximum height of approximately 80 cm. The x-axis ranges from 0 to 120 cm, and the y-axis from 0 to 80 cm.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q30",
+    "Question_text": "A vibrator produces 12 wavelengths on the surface of water in 10s. The spacing between the first crest and the third crest is 60 cm. What is the speed of the wave?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q31",
+    "Question_text": "The diagram shows a ray of light incident on the boundary between two mediums W and X. The mediums have different refractive indexes. Some light is reflected and some passes along the surface between the two mediums. Angle y is greater than angle z. Which statement is correct?",
+    "image": "A ray diagram illustrating light incident from medium W onto medium X. A normal line separates the two mediums. Angle 'z' is shown as an angle of incidence in W, and angle 'y' is also shown in W, representing another angle of incidence. A reflected ray is visible in W, and a refracted ray is shown traveling along the boundary between W and X.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q32",
+    "Question_text": "Light enters a glass block at an angle of incidence i and it produces an angle of refraction r in the glass. Several different values of i and r are measured, and a graph is drawn of sin i against sin r. Which graph is correct?",
+    "image": "A ray diagram depicts a light ray entering a glass block from air. The angle of incidence 'i' is shown in the air, and the angle of refraction 'r' is shown inside the glass, both measured relative to the normal line.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q33",
+    "Question_text": "A converging glass lens is used to produce a virtual, magnified image. Which ray diagram shows the rays passing through the converging lens?",
+    "image": "Four ray diagrams are presented, each illustrating light rays passing through a lens. Diagrams A and B show converging lenses, while C and D show diverging lenses. Diagram A specifically demonstrates an object placed inside the focal length of a converging lens, resulting in a virtual, magnified image.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses",
+      "Linear Magnification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q34",
+    "Question_text": "A metal lightning conductor is placed on the top of a tall building. The conductor is connected to Earth. When a charged cloud passes over the building, the metal lightning conductor becomes positively charged. What happens to the lightning conductor to produce a positive charge at its top?",
+    "image": "A diagram shows a tall building equipped with a lightning conductor extending from its roof and connected to the Earth. A cloud carrying positive charges is positioned above the building, and the tip of the lightning conductor is depicted with positive charges due to induction.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q35",
+    "Question_text": "Two insulated and uncharged metal spheres X and Y are touching. A positively charged rod is held near X and then the spheres are moved apart. X now has a negative charge. What is the charge on Y?",
+    "image": "A diagram illustrates two touching, insulated, uncharged metal spheres, X and Y. A positively charged rod is placed near sphere X. Negative charges accumulate on sphere X (near the rod), and positive charges accumulate on sphere Y (away from the rod), demonstrating charge separation by induction.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q36",
+    "Question_text": "A stationary negative charge in an electric field experiences an electric force in the direction shown. What is the direction of the electric field?",
+    "image": "A negative charge symbol ('-') is shown, with an arrow labeled 'force' pointing to the right from the charge. 'Left' and 'right' directions are also indicated.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q37",
+    "Question_text": "A metal wire of length l and cross-sectional area A has resistance R. A second wire is made from the same metal. It has a length 2l and a cross-sectional area 4A. What is the resistance of the second wire?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q38",
+    "Question_text": "The diagram shows a circuit. What effect does closing the switch have on the readings of ammeters X and Y?",
+    "image": "An electrical circuit diagram featuring a battery and two ammeters, X and Y. Ammeter X is in the main circuit path. A parallel branch contains ammeter Y in series with a resistor. Another parallel branch contains only a switch. When the switch is open, current flows through ammeter Y and the resistor. When the switch is closed, it creates a short circuit across ammeter Y and the resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q39",
+    "Question_text": "A rectangular current-carrying coil is pivoted between the poles of an electromagnet. Which action does not, on its own, increase the size of the turning effect exerted on the coil?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Force on a Current-Carrying Conductor",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2020/Q40",
+    "Question_text": "The diagram shows a coil connected to a very sensitive ammeter. A magnet is next to the coil. Which action results in a zero reading on the ammeter?",
+    "image": "A diagram illustrating a coil of wire connected to a sensitive ammeter. A bar magnet is positioned adjacent to the coil. Labels 'magnet', 'coil', and 'ammeter' (with an 'A' symbol) are present.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  }
+]

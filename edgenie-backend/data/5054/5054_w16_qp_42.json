@@ -1,0 +1,156 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/42/2016/Q1",
+    "Question_text": "A student is to determine the density of a liquid. She pours the liquid into a measuring cylinder, as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a measuring cylinder containing a liquid. The cylinder has a vertical scale marked in cm³ from 10 to 100, increasing upwards. The liquid level is visible at approximately 54 cm³.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the volume V of the liquid in the measuring cylinder. V= __________ cm³ [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Her friend also measures the same volume of liquid in the measuring cylinder and she records a larger volume than the correct value in (a)(i). Suggest how she makes this error. .................................................................................................................................................................................................................................................[1]",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State another piece of apparatus that the student needs in order to determine the density of the liquid. .................................................................................................................................................................................................................................................[1]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain in detail how she uses her apparatus to determine the density. ................................................................................................................................................................................................................................................. ................................................................................................................................................................................................................................................. .................................................................................................................................................................................................................................................[2]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Her friend also determines the density using her incorrect value for the volume. State how her density value compares to that of the student. .................................................................................................................................................................................................................................................[1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2016/Q2",
+    "Question_text": "The inner core of a pencil is known as the pencil lead. It is made of carbon, a conductor of electricity.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A student measures the resistance of a 12cm length of the lead, as shown in Fig. 2.1. Suggest how the connecting wires can be connected to the pencil lead at A and at B. .................................................................................................................................................................................................................................................[1]",
+        "image": "Fig. 2.1 shows a diagram of a pencil lead, 12 cm long, with points A and B marked. Connecting wires are shown extending towards points A and B on the pencil lead."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "A micrometer is used to determine the average diameter of the pencil lead. Explain how it is used. ................................................................................................................................................................................................................................................. ................................................................................................................................................................................................................................................. .................................................................................................................................................................................................................................................[2]",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The measured resistance X is 341 Ω. The diameter D of the pencil lead is 0.050 cm. The length s of the pencil lead between points A and B is 12cm. A constant P for the material of the pencil lead is given by the relationship P = ΧπD² / 4s Calculate P in Ωcm. Give your answer to two significant figures. P = __________ Ωcm [2]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student uses the same pencil lead to draw a thick black line, 0.20cm wide, on a sheet of paper. He measures the resistance R between two points that are 20cm apart, as shown in Fig. 2.2. He repeats the measurement of resistance for different lengths l of the black line. The student's results are shown in Fig. 2.3.",
+        "image": "Fig. 2.2 shows a thick black line, 20 cm long, drawn on paper, with arrows indicating two points for resistance measurement. Fig. 2.3 is a table displaying experimental results with two columns: 'l/cm' (20.0, 16.0, 12.0, 8.0, 4.0, 0) and 'R/kΩ' (1865, 1470, 1052, 781, 330, 0)."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.4 opposite, plot the graph of R/kΩ on the y-axis against l/cm on the x-axis. Start your graph from the origin. Draw the straight line of best fit. [4]",
+        "image": "Fig. 2.4 is a blank grid with horizontal and vertical axes prepared for plotting a graph, with the origin (0,0) indicated."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the gradient G of the line. Show clearly on the graph how you determined G. G = .....................................................[2]",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Use your value of P from (a)(iii) and G from (b)(ii) to obtain a value for the depth d of the carbon layer in the pencil line using the relationship d = P / 200G cm. Give your answer in standard form. d = __________ cm [2]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2016/Q3",
+    "Question_text": "A student investigates current in a diode.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The shape of the student's graph is shown in Fig. 3.1. The student has a resistor of resistance 330Ω. The resistor has three coloured bands to indicate the value of its resistance, as shown in Fig. 3.2(a). Use the colour code chart in Fig. 3.2(b) to state the colour of the bands on the resistor. band 1 ........................................................... band 2 ........................................................... band 3 .................................................................[2]",
+        "image": "Fig. 3.1 shows a current-voltage (I-V) characteristic graph for a diode, with current on the y-axis and voltage on the x-axis, illustrating a non-linear curve where current rises sharply after a certain forward voltage. Fig. 3.2(a) depicts a resistor with three labeled colored bands: band 1, band 2, and band 3. Fig. 3.2(b) is a table for resistor color codes, showing color bands (black, brown, red, orange, yellow) and their corresponding values (0, 1, 2, 3, 4)."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student uses the resistor in series with the diode to protect the diode. He sets up a circuit to measure different values of the current in the diode and the voltage across the diode. In the space below, draw the circuit diagram the student can use. .................................................................................................................................................................................................................................................[3]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain how the student can take readings for different values of V. .................................................................................................................................................................................................................................................[1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The diode conducts current in one direction and does not conduct in the other direction. State how the circuit can be changed to show this. .................................................................................................................................................................................................................................................[1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2016/Q4",
+    "Question_text": "A student is given a lump of Blu-Tack which he moulds into a cube. The front face of the cube is shown full size in Fig. 4.1.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "By taking measurements from the front face of the cube in Fig. 4.1, determine the volume in cm³ of the Blu-Tack. volume = __________ cm³ [1]",
+        "image": "Fig. 4.1 shows a solid grey square, labeled 'full size', which represents the front face of a cube."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student rolls the Blu-Tack into a cylinder, as shown in Fig. 4.2. He places one of the ends of the cylinder on a piece of 2 mm graph paper and draws round it, as shown in Fig. 4.3. He counts the squares on the graph paper to estimate the cross-sectional area A of the end of the cylinder.",
+        "image": "Fig. 4.2 shows a simple diagram of a cylinder, labeled 'cylinder of Blu-Tack'. Fig. 4.3 displays a grid representing 2 mm graph paper with an irregularly shaped outline (circular) drawn on it, indicating the cross-section of the cylinder."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using Fig. 4.3, count and record the number of 2mm x 2mm squares occupied by the end of the cylinder. number of squares = .....................................................[2]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using your answer to (b)(i), estimate A. A = .....................................................[1]",
+        "image": null
+      }
+    ]
+  }
+]

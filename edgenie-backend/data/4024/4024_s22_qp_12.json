@@ -1,0 +1,445 @@
+[
+  {
+    "QuestionNumber": "1(a)",
+    "Question_text": "Work out 2/3 + 1/6",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(b)",
+    "Question_text": "Work out 0.4 x 0.2",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(a)",
+    "Question_text": "Complete the table and pictogram about favourite fruits.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)",
+    "Question_text": "Write down the mode for favourite fruit.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(a)",
+    "Question_text": "Find the difference between two temperatures.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(b)",
+    "Question_text": "Find the upper bound of the temperature outside at midnight.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give upper bounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(a)",
+    "Question_text": "Find the actual distance between village A and village B, given a scale.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(b)",
+    "Question_text": "Measure the bearing of B from A.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Kabir invests $250 in a savings account with simple interest. Calculate the total amount of interest he will receive at the end of 4 years.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate simple interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Calculate the shaded area, given the areas of a rectangle and triangle.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Find the value of a, given the diagram shows a pentagon and angle values.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(a)",
+    "Question_text": "Complete the table for a sequence of patterns using counters.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(b)",
+    "Question_text": "Find an expression, in terms of n, for the number of counters in Pattern n.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(c)",
+    "Question_text": "Shani has 100 counters. She uses some of the counters to make Pattern 20. She uses all the remaining counters to make Pattern k. Find the value of k.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "A bag contains red balls, blue balls and green balls. The ratio red: blue = 3:8. The ratio green : blue = 2:5. Work out the fraction of the balls that are blue.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(a)",
+    "Question_text": "Use a straight edge and compasses only to construct the bisector of angle PSR.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(b)",
+    "Question_text": "Point X lies inside quadrilateral PQRS and is closer to PS than to RS. Shade the region in which X must lie.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(a)",
+    "Question_text": "Write 0.00203561 correct to 3 significant figures.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(b)",
+    "Question_text": "By writing each number correct to 1 significant figure, estimate the value of sqrt(3.93) x 63.7/0.425",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12(a)",
+    "Question_text": "Evaluate (sqrt(9) x sqrt(64))^2",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate squares",
+      "Calculate square roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12(b)",
+    "Question_text": "Write down an irrational value of n that satisfies this inequality. 4.5 <= n <= 5.5",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify irrational numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13(a)",
+    "Question_text": "Write these numbers in order of size, starting with the smallest. 2000, 0.002, 2 x 10^-4, 2 x 10^-2",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13(b)",
+    "Question_text": "This is a calculation using numbers in standard form. a x 10^-7 x 5 x 10^b = 4 x 10^-16. Find the value of a and the value of b.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "y is directly proportional to (x-1)^2. When x=5, y=32. Find the value of y when x=-2.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15(a)",
+    "Question_text": "By drawing a tangent, estimate the gradient of the curve at x = -1.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15(b)",
+    "Question_text": "By drawing a suitable straight line on the graph, find the solutions of the equation x^3/5 - 3x = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16(a)",
+    "Question_text": "Each diagonal of quadrilateral Q divides it into two congruent isosceles triangles. Draw a ring around each of the quadrilaterals in the list for which Ryan's statement is always true.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16(b)",
+    "Question_text": "AXB and CXD are straight lines. X is the midpoint of AB. AC is parallel to DB. Show that triangle AXC is congruent to triangle BXD.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "f(x) = 3x - 7 Find f^-1(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18(a)",
+    "Question_text": "Find P U Q with given set information",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18(b)",
+    "Question_text": "Find n(P' ∩ (Q U R)) with given set information",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Use set notation to describe the shaded subset in the Venn diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Find ADB and BCD angles on a circle",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21(a)",
+    "Question_text": "Factorise 4x^2 + 5x - 6",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax² + bx + c"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21(b)",
+    "Question_text": "Simplify (16/x^4)^-1/2",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use indices (positive, zero, negative and fractional)",
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22(a)",
+    "Question_text": "A bag contains these 9 letter tiles. Nur takes one tile from the bag at random. She notes the letter and then puts the tile back in the bag. Find the probability that she does not take a letter E.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22(b)",
+    "Question_text": "Nur now takes two of the 9 letter tiles at random without replacement. Find the probability that both tiles show the same letter.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "The diagram shows the major sector of a circle with centre O and radius 3 cm. Calculate the area of this sector. Give your answer in the form kn, where k is an integer.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24(a)",
+    "Question_text": "Solve (2 - 5x) / (3x + 10) = 3",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24(b)",
+    "Question_text": "Express as a single fraction in its simplest form: 3/(x-2) - 5/(2x+1)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Manipulate algebraic fractions"
+    ],
+    "Parts": []
+  }
+]

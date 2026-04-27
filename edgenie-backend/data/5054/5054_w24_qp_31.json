@@ -1,0 +1,192 @@
+[
+  {
+    "QuestionNumber": "October/November/2024/Q1",
+    "Question_text": "In this experiment, you will measure the volume of a straw by two different methods. You are provided with: • two identical round straws • two set squares • a 30 cm ruler • a 50 cm³ measuring cylinder • scissors • paper towels to mop up any spillage. A container of water is available for you to use.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure and record the length l of one of the straws. Give your answer to the nearest 0.1 cm.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Cut one of the straws into 5 pieces that are approximately equal in length. Line up the pieces of straw as shown in Fig. 1.1. Ensure the pieces of straw are touching. Length D is the width of the 5 pieces of straw placed side by side. Measure and record the length D for your 5 pieces of straw.",
+        "image": "Fig. 1.1 shows 5 identical cylindrical straw pieces arranged side-by-side in a horizontal line, touching each other. A horizontal double-headed arrow labeled 'D' spans the entire width of the arrangement of the 5 straws. A smaller double-headed arrow labeled 'd' is shown above a single straw piece, representing its diameter."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Use your answer to (a)(ii) to determine the diameter d of one straw.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Some of the apparatus on your bench is used to ensure that your measurement of D is as accurate as possible. Explain how you use this apparatus to make sure your measurement of D is as accurate as possible. You may draw a diagram to help your explanation.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "The volume V₁ of the straw is given by the equation: V₁ = 3.14d²l / 4 Use your answers from (a)(i) and (a)(iii) to calculate V₁. Give your answer to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Take the second straw. Immerse the straw fully in the container of water as shown in Fig. 1.2. Move the straw backwards and forwards in the water several times so that the water enters the straw. Put a finger firmly over one end of the straw and remove the straw from the water. Put the straw above the open end of the measuring cylinder and remove the finger so that the water is transferred into the measuring cylinder. Repeat this process 5 more times for a total of 6 transfers.",
+        "image": "Fig. 1.2 shows a cylindrical straw fully submerged horizontally in a container of water. The water level is indicated."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure and record the volume of water VT in the measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the average volume of water V2 in one straw.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest two reasons why V₁ and V₂ are different.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2024/Q2",
+    "Question_text": "In this experiment you will investigate series and parallel combinations of resistors. You are provided with: • the circuit shown in Fig. 2.1 which includes two resistors X and Y • two extra connecting leads. The resistors are not identical.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The circuit shown in Fig. 2.1 has been assembled for you.",
+        "image": "Fig. 2.1 shows an electrical circuit diagram. A power supply (represented by a long and short parallel line) is connected in series with an open switch, an ammeter (labeled 'A'), resistor X, and resistor Y. A voltmeter (labeled 'V') is connected in parallel across resistor X."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Close the switch. Measure and record the potential difference Vx across X and the current Is in the circuit. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the resistance Rx, the resistance of resistor X, using the equation: Rx = Vx / Is",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest why the switch is opened after the readings of potential difference and current are taken.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Disconnect the voltmeter and reconnect it across Y. Close the switch. Measure and record the potential difference Vy across Y. Open the switch. Calculate the resistance Ry of Y.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete the circuit diagram in Fig. 2.2 to show the resistors X and Y connected in parallel between W and Z. Draw the voltmeter connected to measure the potential difference Vp across both resistors.",
+        "image": "Fig. 2.2 shows a partial electrical circuit diagram. A power supply (long and short parallel lines) is connected to an open switch, then to an ammeter (labeled 'A'). From the ammeter, a wire leads to point 'W'. Another wire leads from point 'Z' back to the power supply. The space between W and Z is empty, awaiting the parallel connection of resistors X and Y, and a voltmeter."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Disconnect the resistors and the voltmeter from the circuit on your bench and rearrange them to make the circuit shown in your circuit diagram in (b)(i). Close the switch. Measure and record the potential difference Vp across the resistors and the total current through the resistors Ip. Open the switch. Calculate the total resistance Rp of the resistors in parallel, using the equation: Rp = Vp / Ip",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Theory suggests that, if the two resistors are arranged in parallel, the total resistance of the resistors RT is given by: RT = (Rx * Ry) / (Rx + Ry) Use the equation and your values of Rx and Ry from (a)(ii) and (a)(iv) to calculate RT.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Two quantities can be considered to be equal within the limits of experimental accuracy if their values are within 10% of each other. State whether your value of Rp from (b)(ii) can be considered equal to RT calculated in (c)(i). Support your statement with a calculation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2024/Q3",
+    "Question_text": "In this experiment you will determine the mass of a metre rule. You are provided with: • a metre rule • a fixed mass taped to the rule at the 5.0 cm mark • a pivot • six 10g slotted masses • a piece of modelling clay. The fixed mass has been taped to the metre rule at the 5.0 cm mark. Do not change the position of this mass.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Place the pivot below the 25.0cm mark on the metre rule, as shown in Fig. 3.1. Place two 10g masses together to make a 20g mass. Place the 20g mass on the metre rule and adjust the position of the mass until the rule is as close to balance as possible.",
+        "image": "Fig. 3.1 shows a metre rule balanced on a pivot. A fixed mass is taped to the rule at the 5.0 cm mark. The pivot is placed at the 25.0 cm mark. The metre rule is placed on a bench. The pivot is under the rule, implying it's supporting the rule."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the distance d of the centre of the 20g mass from the pivot when the metre rule is as close to balance as possible.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe the technique you use to balance the metre rule with the 20g mass.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Record in Table 3.1 the distance d of the centre of the mass from the pivot for mass m = 20g. Find the distance d of the centre of the mass from the pivot for values of mass m = 30g, 40g, 50g and 60g, using the 10g masses provided. Record all values of d in Table 3.1. Calculate 1/d for each mass and record all values in Table 3.1. Give your answers to an appropriate number of significant figures.",
+        "image": "Table 3.1 is shown with three columns: 'm/g', 'd/cm', and '1/d cm⁻¹'. Rows for m values 20, 30, 40, 50, and 60 are provided for data entry."
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Suggest why a value of d cannot be found for mass m = 10g.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using the grid provided in Fig. 3.2 on page 11, plot a graph of 1/d on the y-axis against m on the x-axis. Start your axes from the origin (0, 0). Draw the straight line of best fit.",
+        "image": "Fig. 3.2 is an empty grid suitable for plotting a graph, with space for axes and data points."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the gradient G of your line. Indicate on the graph the points you use. Show all your working.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The mass M of the metre rule can be calculated using the equation: M = 160 - (0.040 / G) Use your value of G in (b)(ii) to calculate M.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Remove all the 10g masses from the metre rule. Do not remove the mass fixed to the rule. You have been provided with a piece of modelling clay. Use the apparatus in (a) and your graph in (b)(i) to find the mass of the piece of modelling clay. Record any measurements you make and show your working.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2024/Q4",
+    "Question_text": "A student uses ice cubes to investigate the time taken for different masses of ice to melt when the ice cubes are placed in water. Plan an experiment using ice cubes to investigate how the mass of ice affects the time taken for the ice to melt. You are not required to do this experiment. The following apparatus is available: top pan balance supply of ice cubes 250 cm³ beaker supply of cold water stopwatch. You may also use other apparatus and materials that are usually available in a school laboratory. In your plan, you should: • explain briefly how to do the investigation • state the key variables to keep constant • draw a table, with column headings, to show how to display readings (you are not required to enter any readings in the table) • explain how to use these readings to reach a conclusion. You do not have to include a diagram of the apparatus you use but you may do so if it helps your plan.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  }
+]

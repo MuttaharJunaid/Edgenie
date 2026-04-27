@@ -1,0 +1,490 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Work out 6+4÷2.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Order operations correctly"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Work out 40×0.3.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Write these numbers in order of size, starting with the smallest. 1/5, 3/25, 13%, 0.1",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Work out the temperature that is 20 degrees higher than -12 °C.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Work out the difference between -4 °C and 10°C.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Kasia buys 12 apples. Each apple costs 65 cents. Work out how much Kasia pays. Give your answer in dollars.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Yasmin asks 20 people how many pets they own. The results are shown in the bar chart. Find the range.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Yasmin asks 20 people how many pets they own. The results are shown in the bar chart. Find the fraction of the 20 people who own 3 pets.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use proper fractions",
+      "Use fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "The diagram shows a straight line crossing two parallel lines. Work out the value of x.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "The diagram shows a straight line crossing two parallel lines. Work out the value of y.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles on a straight line (180°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "By writing each number correct to 1 significant figure, estimate the value of 53.7 / (2.61 + 7.48).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Convert 78 mm to cm.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of length in practical situations and convert quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Convert 3 m² to cm².",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of area in practical situations and convert quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "The scatter diagram shows the ages of ten people and the time they each take to complete a task. Write down the type of correlation shown on the scatter diagram.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Understand positive, negative and zero correlation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "The scatter diagram shows the ages of ten people and the time they each take to complete a task. By drawing a line of best fit, estimate the time taken by a person aged 50 to complete the task.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "Four exterior angles of a pentagon are 150°, 100°, 45° and 35°. Calculate the size of the remaining exterior angle.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of irregular polygons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "Calculate the interior angle of a regular decagon.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular polygons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "Evaluate 4² + √27.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate squares",
+      "Calculate square roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "Evaluate 5⁻¹ × 5³.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand negative indices",
+      "Use rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "The scale drawing shows the positions of two boats A and B. The scale is 1:20000. Find the actual distance of boat A from boat B in kilometers.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "The scale drawing shows the positions of two boats A and B. The scale is 1:20000. Using compasses and a straight edge only, construct the locus of points that are equidistant from A and B.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12c",
+    "Question_text": "The scale drawing shows the positions of two boats A and B. A ship, S, is equidistant from A and B. S is on a bearing of 105° from A. Mark and label the position of S on the scale drawing.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Work out 3 2/3 - 2 1/5.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14a",
+    "Question_text": "Write 36 as a product of its prime factors.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify prime numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14b",
+    "Question_text": "Bus A leaves the bus station every 36 minutes. Bus B leaves the bus station every 48 minutes. The two buses both leave the bus station at 0930. Find the next time when the two buses leave the bus station together.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify common multiples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15a",
+    "Question_text": "B, C and D are points on the circle, centre O. AB and AC are tangents to the circle. Angle BAC = 38°. Work out angle ABC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15b",
+    "Question_text": "B, C and D are points on the circle, centre O. AB and AC are tangents to the circle. Angle BAC = 38°. Work out angle BOC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15c",
+    "Question_text": "B, C and D are points on the circle, centre O. AB and AC are tangents to the circle. Angle BAC = 38°. Work out angle BDC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "The region R is defined by these inequalities. 1≤x≤3, 2≤ y ≤3, y≥ x/2 +1. Find and label region R.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "y is directly proportional to the square root of x. When x = 16, y = 2. Find y when x = 25.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18a",
+    "Question_text": "In a sports club of 40 members: 22 members run (R), 24 cycle (C), 14 sail (S), 3 cycle and sail but do not run, 9 run and cycle but do not sail, 5 run and sail but do not cycle, 6 run only. Complete the Venn diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18b",
+    "Question_text": "Use set notation to describe the shaded subset in the Venn diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19a",
+    "Question_text": "The diagram shows the speed-time graph for part of a car journey. Calculate the acceleration of the car in the first 10 seconds of the journey.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b",
+    "Question_text": "The diagram shows the speed-time graph for part of a car journey. The car travels 700m in T seconds. Find the value of T.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20a",
+    "Question_text": "A = (2 1, 4 3) Find A⁻¹",
+    "image": null,
+    "Unit": "UNIT UNKNOWN",
+    "Topic": "TOPIC UNKNOWN",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20b",
+    "Question_text": "A = (2 1, 4 3), B=(5 2, -1 1). Find AB",
+    "image": null,
+    "Unit": "UNIT UNKNOWN",
+    "Topic": "TOPIC UNKNOWN",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21a",
+    "Question_text": "Factorise 6a-9.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21b",
+    "Question_text": "Factorise 4b² -25.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21c",
+    "Question_text": "Simplify (2c² - 8c)/(2c² - 5c - 12)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22a",
+    "Question_text": "f(x) = x/4 +3, g(x) = 2(x-1). Find f(-8).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22b",
+    "Question_text": "f(x) = x/4 +3, g(x) = 2(x-1). Find f⁻¹(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22c",
+    "Question_text": "f(x) = x/4 +3, g(x) = 2(x-1). f(p) = g(p+5). Find the value of p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Form composite functions as defined by gf(x) = g(f(x))"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23a",
+    "Question_text": "In the diagram, OABC is a parallelogram. OA = a and OC = c. X is the midpoint of AC. Y is the point on AB where AY : YB = 2 : 1. Express, as simply as possible, in terms of a and c: AC",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23b",
+    "Question_text": "In the diagram, OABC is a parallelogram. OA = a and OC = c. X is the midpoint of AC. Y is the point on AB where AY : YB = 2 : 1. Express, as simply as possible, in terms of a and c: the position vector of X",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use position vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23c",
+    "Question_text": "In the diagram, OABC is a parallelogram. OA = a and OC = c. X is the midpoint of AC. Y is the point on AB where AY : YB = 2 : 1. Express, as simply as possible, in terms of a and c: YX",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  }
+]

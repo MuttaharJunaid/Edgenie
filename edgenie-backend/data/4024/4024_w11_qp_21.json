@@ -1,0 +1,488 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q1",
+    "Question_text": "ABC is a triangle in which ABC = 90°, BÂC = 40° and BC = 10 cm. P is the point on AB such that PĈB = 20°.",
+    "image": "A right-angled triangle ABC, with the right angle at B. Angle BAC is 40 degrees, and the length of side BC is 10 cm. A point P lies on the side AB. A line segment PC is drawn, forming angle PCB equal to 20 degrees.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate PB,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate AP,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the perimeter of triangle PBC.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown",
+      "Solve simultaneous linear equations in two unknowns",
+      "Manipulate algebraic fractions",
+      "Factorise and simplify rational expressions",
+      "Factorise expressions of the form: ax² + bx + c"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve 5t(3t + 7) = 0.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve the simultaneous equations. 3x + 4y = 1, 5x - 8y = 9",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Express as a single fraction 5/(p-2) - 4/(2p+3)",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Simplify (q²-1)/(2q²-3q+1)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q3",
+    "Question_text": "P, Q, R and S are four points on level ground. PQ is parallel to RS and QPS = 60°. PS and RQ intersect at T.",
+    "image": "A diagram showing four points P, Q, R, S on a level ground. A North arrow points upwards. Line segment PQ is parallel to RS. Angle QPS is 60 degrees. Line segments PS and RQ intersect at point T, forming two triangles PQT and SRT.",
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°",
+      "Use and interpret three-figure bearings",
+      "Solve problems and give simple explanations involving similarity",
+      "Calculate lengths of similar shapes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the value of PŚR. Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The bearing of Q from P is 070°. Find the bearing of S from P,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The bearing of Q from P is 070°. Find the bearing of P from S,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The bearing of Q from P is 070°. Find the bearing of R from S.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain why triangles PQT and SRT are similar.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Given that PT = 54 m, TS = 36m and RQ = 85 m, find TQ.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q4",
+    "Question_text": "A fair five-sided spinner is numbered 1, 3, 5, 7 and 9.",
+    "image": "A five-sided spinner with its sectors numbered 1, 3, 5, 7, and 9.",
+    "Unit": "Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event",
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Maria spins it once. Find the probability that the number obtained is 7,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Maria spins it once. Find the probability that the number obtained is an odd number.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Pedro spins it twice and adds the two numbers obtained. Some of the results are shown in the possibility diagram below. Complete the possibility diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(a)",
+        "part_text": "Find the probability that the sum of the two numbers is odd,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(b)",
+        "part_text": "Find the probability that the sum of the two numbers is 14 or more.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Katrina spins it three times. Calculate the probability that the three numbers obtained are the same. Express your answer as a fraction in its lowest terms.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q5",
+    "Question_text": "In the diagram, OBC is the sector of a circle, centre O, and BÔC = 60°. A and D are the midpoints of OB and OC respectively, and AB = DC = 6 cm. AED is a semicircle with AD as diameter.",
+    "image": "A circular sector OBC with centre O and angle BOC = 60 degrees. Points A and D are the midpoints of OB and OC respectively. This means OA = AB = 6cm and OD = DC = 6cm, making OB = OC = 12cm. A semicircle AED is drawn such that AD is its diameter, and this semicircle is cut out from the sector, creating a shaded region.",
+    "Unit": "Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes",
+      "Calculate unknown angles using ... triangle sum (180°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Show that AD = 6 cm.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The length of the arc BC is nπ centimetres. Find n.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find the length of the arc AED / the length of the arc BC",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Find the area of the sector BOC.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Hence find the area of the shaded region.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply",
+      "Calculate percentage change",
+      "Calculate reverse percentages",
+      "Calculate with money",
+      "Use common rates",
+      "Express as percentage"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Ada and Bill own a company. In 2008 Ada invests $22500 in the company and Bill invests $37500. Express 22500:37500 in the form m:n, where m and n are the smallest possible integers.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The profit made by the company in 2008 is shared in the ratio of the amounts invested. Given that Ada's share of the profit is $3600, calculate the total profit made by the company.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Ada's investment in 2008 is 12% more than the amount she invested in 2007. Calculate the amount that Ada invested in 2007.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Rashid buys one of these lawnmowers for $2395. Sayeed buys one of these lawnmowers using Plan A. In total, how much more than Rashid will Sayeed pay?",
+        "image": "An image showing a lawnmower priced at $2395. Two payment plans are offered: Plan A requires a deposit of $595 and 12 monthly payments of $171.04. Plan B requires a deposit of $395 and 24 monthly payments of an unspecified amount."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "When one of these lawnmowers is bought using Plan B, the total cost is $3054.20. Calculate the monthly payment.",
+        "image": "An image showing a lawnmower priced at $2395. Two payment plans are offered: Plan A requires a deposit of $595 and 12 monthly payments of $171.04. Plan B requires a deposit of $395 and 24 monthly payments of an unspecified amount."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "In a sale, the price of the lawnmower is reduced from $2395 to $1595. Calculate the percentage discount.",
+        "image": "An image showing a lawnmower priced at $2395. Two payment plans are offered: Plan A requires a deposit of $595 and 12 monthly payments of $171.04. Plan B requires a deposit of $395 and 24 monthly payments of an unspecified amount."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: ... congruent ...",
+      "Use relationships between ... areas of similar shapes ...",
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, ... cyclic quadrilateral opposite sum 180°",
+      "Calculate unknown angles using ... triangle sum (180°)",
+      "Calculate unknown angles using ... quadrilateral sum (360°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "In the diagram, ABC is an equilateral triangle. The points P, Q and R lie on AB, BC and CA respectively, such that AP = BQ = CR. Show that triangles APR, BQP and CRQ are congruent.",
+        "image": "A diagram of an equilateral triangle ABC. Points P, Q, and R are located on sides AB, BC, and CA respectively. Line segments PR, PQ, and RQ form an inner triangle PQR. The text specifies AP = BQ = CR."
+      },
+      {
+        "part_label": "a(ii)(a)",
+        "part_text": "It is given that AB = 5 cm and PQ = 4 cm. Find Area of triangle PQR / Area of triangle ABC",
+        "image": "A diagram of an equilateral triangle ABC. Points P, Q, and R are located on sides AB, BC, and CA respectively. Line segments PR, PQ, and RQ form an inner triangle PQR. The text specifies AP = BQ = CR."
+      },
+      {
+        "part_label": "a(ii)(b)",
+        "part_text": "It is given that AB = 5 cm and PQ = 4 cm. Find Area of triangle APR / Area of triangle ABC",
+        "image": "A diagram of an equilateral triangle ABC. Points P, Q, and R are located on sides AB, BC, and CA respectively. Line segments PR, PQ, and RQ form an inner triangle PQR. The text specifies AP = BQ = CR."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In the diagram, ABCD is a square. The point P lies on the circle through A, B, C and D. Explain why APC = 90°.",
+        "image": "A square ABCD inscribed within a circle. Point P is located on the circumference of the circle. Lines are drawn from P to the vertices of the square (PA, PB, PC, PD)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "In the diagram, ABCD is a square. The point P lies on the circle through A, B, C and D. Explain why APB = BPC.",
+        "image": "A square ABCD inscribed within a circle. Point P is located on the circumference of the circle. Lines are drawn from P to the vertices of the square (PA, PB, PC, PD)."
+      },
+      {
+        "part_label": "b(iii)(a)",
+        "part_text": "In the diagram, ABCD is a square. The point P lies on the circle through A, B, C and D. Hence find APB,",
+        "image": "A square ABCD inscribed within a circle. Point P is located on the circumference of the circle. Lines are drawn from P to the vertices of the square (PA, PB, PC, PD)."
+      },
+      {
+        "part_label": "b(iii)(b)",
+        "part_text": "In the diagram, ABCD is a square. The point P lies on the circle through A, B, C and D. Hence find APD.",
+        "image": "A square ABCD inscribed within a circle. Point P is located on the circumference of the circle. Lines are drawn from P to the vertices of the square (PA, PB, PC, PD)."
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "PC and AD intersect at R. Given that ARC = 127°, find PÍC.",
+        "image": "A square ABCD inscribed within a circle. Point P is located on the circumference. The line segment PC intersects the side AD at point R. Angle ARC is indicated as 127 degrees."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q8",
+    "Question_text": "The variables x and y are connected by the equation y = 2x - 5/(2x). The table below shows some values of x and the corresponding values of y. The values of y are correct to 1 decimal place where appropriate. (Table of x and y values from 0.25 to 2).",
+    "image": "A Cartesian coordinate grid with x-axis ranging from -2 to 2 and y-axis ranging from -10 to 10. The grid is empty, intended for plotting points and drawing graphs.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Estimate gradients of curves by drawing tangents",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Understand functions, domain and range, and use function notation",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the grid, plot the points given in the table and join them with a smooth curve.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "By drawing a tangent, find the gradient of the curve at the point (0.75, -1.8).",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The line y = 2-x intersects the curve y = 2x - 5/(2x) at the point P. On the grid, draw the graph of the straight line y = 2 – x.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Write down the x coordinate of P.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "This value of x is a solution of the equation 6x² – Bx − C = 0. Find B and C.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Let f(x) = 2x - 5/(2x). Given that f(a) = b, show that f(-a) = −b.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Hence, using the table on the previous page, draw the graph of y = 2x - 5/(2x) for -2 ≤ x ≤ - 0.25.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q9",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the diagram, AC = 11 cm, BC = 5.5 cm and BÂC = 25°. It is given that ABC is an obtuse angle. Calculate ABC.",
+        "image": "A triangle ABC. Side AC is 11 cm, side BC is 5.5 cm, and angle BAC is 25 degrees. Angle ABC is indicated as obtuse."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In the diagram, DF = 12 cm, DE = x centimetres and EF = (5 + x) centimetres. Form an equation in x and show that it reduces to 3x² + 15x – 119 = 0.",
+        "image": "A triangle DEF. Side DF is 12 cm, side DE is x cm, and side EF is (5+x) cm. Angle DEF is 120 degrees."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Solve the equation 3x² + 15x − 119 = 0, giving each answer correct to 3 decimal places.",
+        "image": "A triangle DEF. Side DF is 12 cm, side DE is x cm, and side EF is (5+x) cm. Angle DEF is 120 degrees."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Find the length of EF in millimetres, correct to the nearest millimetre.",
+        "image": "A triangle DEF. Side DF is 12 cm, side DE is x cm, and side EF is (5+x) cm. Angle DEF is 120 degrees."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q10",
+    "Question_text": "The distribution of the masses of 140 eggs is given in the table below. (Table with mass ranges and number of eggs).",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Calculate with frequency density",
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams",
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Using a scale of 1 cm to represent 5 grams, draw a horizontal axis for 30 ≤ m ≤ 70. Using a scale of 1 cm to 1 unit, draw a vertical axis to represent frequency density. Draw a histogram to represent the information in the table.",
+        "image": "An empty grid provided for drawing a histogram. The horizontal axis is for 'Mass (m grams)' and the vertical axis for 'Frequency Density'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete the cumulative frequency table below.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On the grid on the next page, draw a smooth cumulative frequency curve to represent this information.",
+        "image": "A Cartesian coordinate grid with the x-axis labeled 'Mass (m grams)' from 30 to 70 and the y-axis labeled 'Cumulative frequency' from 0 to 140. The grid is empty, intended for drawing a cumulative frequency curve."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use your graph to find the median mass of the eggs,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use your graph to find the interquartile range.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The 12 eggs with the greatest mass are classed as extra large. The 30 eggs with the least mass are classed as small. Use your graph to find an estimate of the smallest difference in mass between an extra large egg and a small egg.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2011/Q11",
+    "Question_text": "Some transformations of the plane are given in the following table. (Table lists transformations: Mx - Reflection in the x-axis, My - Reflection in the y-axis, Md - Reflection in the line y = -x, R90 - Rotation of 90°, anti-clockwise, centre the origin, R180 - Rotation of 180°, centre the origin, R270 - Rotation of 270°, anti-clockwise, centre the origin). You may use the grid on the next page to help answer the following questions.",
+    "image": null,
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°",
+      "Use and interpret Cartesian coordinates in two dimensions",
+      "Calculate the length of a line segment"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)(a)",
+        "part_text": "The point A has coordinates (2, 3). Find the coordinates of My(A).",
+        "image": null
+      },
+      {
+        "part_label": "a(i)(b)",
+        "part_text": "The point A has coordinates (2, 3). Find the coordinates of Md(A).",
+        "image": null
+      },
+      {
+        "part_label": "a(i)(c)",
+        "part_text": "The inverse of R90 maps B onto A. Find the coordinates of B.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(a)",
+        "part_text": "Write down the matrix which represents Mx.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(b)",
+        "part_text": "Which single transformation given in the table is equivalent to R180Mx?",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The points P and Q have coordinates (4, 0) and (9, 0) respectively. The points P' and Q' have coordinates (4, 4) and (7, 8) respectively. Write down the length of PQ.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the length of P'Q'.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)(a)",
+        "part_text": "PQ is mapped onto P'Q' by a single rotation. By using the grid below, find, by drawing, the coordinates of the centre of this rotation,",
+        "image": "A Cartesian coordinate grid with x-axis ranging from -2 to 10 and y-axis ranging from -2 to 8. The grid is empty, intended for plotting points and finding the center of rotation."
+      },
+      {
+        "part_label": "b(iii)(b)",
+        "part_text": "PQ is mapped onto P'Q' by a single rotation. By using the grid below, measure the clockwise angle of rotation.",
+        "image": "A Cartesian coordinate grid with x-axis ranging from -2 to 10 and y-axis ranging from -2 to 8. The grid is empty, intended for plotting points and finding the center of rotation."
+      }
+    ]
+  }
+]

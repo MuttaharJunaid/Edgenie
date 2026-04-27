@@ -1,0 +1,475 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2020/Q1",
+    "Question_text": "The diagram shows the resultant R of a 3.0N force and a 4.0 N force that act at a point P. The angle between the 3.0N force and the 4.0 N force can be any value from 0° to 90°. Which value of R is not possible?",
+    "image": "A vector diagram showing two forces, 3.0 N and 4.0 N, originating from a point P. A dashed parallelogram indicates their resultant R. The forces are shown generally, not with a specific angle, but the problem states the angle can be from 0° to 90°.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q2",
+    "Question_text": "What is measured using a micrometer?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q3",
+    "Question_text": "The graph shows a short journey. It is a speed-time graph. What is the greatest speed reached?",
+    "image": "A speed-time graph. The x-axis is 'time/s' from 0 to 100. The y-axis is 'speed m/s' from 0 to 4. The graph shows a line starting at (0,0), increasing linearly to (20,2), remaining constant at speed 2 m/s until (50,2), then decreasing linearly to (80,0), and remaining at 0 m/s until (100,0).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q4",
+    "Question_text": "A car of weight 11000N moves with constant velocity along a horizontal road. A driving force of 5000 N acts on the car. What is the force opposing the motion of the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's First Law",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q5",
+    "Question_text": "A man with an open parachute falls to Earth at constant speed. The following forces act: P the upward force of the parachute on the man Q the upward force of the man on the Earth R the downward force of the Earth on the parachute S the downward force of the man on the parachute Which two forces are a Newton's third law pair?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q6",
+    "Question_text": "A box is pulled up a rough slope, as shown. In which direction does friction act on the box?",
+    "image": "A diagram showing a box on a rough inclined slope. An arrow labeled 'direction of movement' points up the slope. Four other arrows (A, B, C, D) originate from the box: A points generally upwards and to the left (up the slope but angled), B points perpendicular to the slope upwards, C points downwards and to the right (down the slope), D points perpendicularly into the slope.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q7",
+    "Question_text": "The diagram shows a motorcyclist leaning over in order to turn the corner to the left. Which force causes him to turn?",
+    "image": "A diagram showing a motorcyclist on a motorcycle, leaning to the left while turning. The road is labeled 'left' and 'right'. Four arrows originate from the motorcyclist/motorcycle: A points downwards, B points upwards, C points to the right, D points to the left, acting at the contact point with the ground.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q8",
+    "Question_text": "Which type of force causes the Earth to orbit the Sun?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "Gravitational Effects on Orbits",
+      "Orbiting Bodies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q9",
+    "Question_text": "Four objects of different masses are on different planets. The weight of each object on its planet is determined. Which object is on the planet with the smallest gravitational field strength?",
+    "image": "A table with two columns: 'mass/kg' and 'weight/N'. Rows A-D show values: A (5, 125), B (15, 150), C (20, 220), D (25, 225).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q10",
+    "Question_text": "Which physical quantity does not change when a piece of copper is heated?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q11",
+    "Question_text": "A single metal bolt has a mass of 34 g. Three of the bolts are immersed in a measuring cylinder that contains 30 cm³ of water. The reading on the measuring cylinder rises to 42 cm³. What is the density of the metal?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density",
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q12",
+    "Question_text": "A rocket of mass M when empty carries a mass M of fuel. The rocket and fuel travel at speed v. The engine of the rocket is fired and all of the fuel is expelled. The speed of the rocket increases to 2v. What happens to the kinetic energy of the rocket?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q13",
+    "Question_text": "A car of mass 1000kg is driven 200 m up an incline so that it rises 50 m vertically. The acceleration of free fall g is 10 m/s². What is the gain in gravitational potential energy?",
+    "image": "A diagram showing a car on an incline. The length of the incline is 200 m. The vertical rise is 50 m. There are labels for '200 m' and '50 m'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q14",
+    "Question_text": "A fish is swimming 15m below the surface of a lake, as shown. The density of the water is 1000 kg/m³. Atmospheric pressure is 100 000 Pa. The acceleration of free fall g is 10 m/s². What is the total pressure on the fish?",
+    "image": "A cross-section of a lake with a fish swimming at a depth of 15 m below the surface. Labels indicate '15m' and 'fish'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q15",
+    "Question_text": "The diagram shows a mercury manometer. The tube is open to the atmosphere on the right-hand side. The left-hand side is connected to a container containing a gas at pressure P. Atmospheric pressure on its own supports a column of mercury of height 756 mm. Which height of column does pressure P on its own support?",
+    "image": "A diagram of a mercury manometer. The left arm is connected to a 'gas at pressure P', and the right arm is open to the atmosphere. The mercury level in the left arm is at a height of 60 mm from the lowest point of the U-bend. The mercury level in the right arm is at a height of 80 mm from the lowest point of the U-bend.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q16",
+    "Question_text": "In a weightlifting contest, an athlete lifts a metal bar of mass 20 kg fitted with a mass of 80 kg on each end. The lift from ground to a height of 2.5m takes 0.50 s. The gravitational field strength g is 10N/kg. What average power does the weightlifter exert in providing the gravitational potential energy during this lift?",
+    "image": "A diagram of a weightlifter lifting a barbell. The barbell consists of a central bar (20 kg) and two weights (80 kg each) on the ends. The barbell is shown at a height of 2.5 m above the ground. Labels indicate '80 kg', '20 kg', '80 kg', '2.5 m', and 'ground'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q17",
+    "Question_text": "A boy is standing by the side of a lake. The boy drops a heavy stone from a height of 2.0 m above the water surface. The acceleration due to gravity is 10 m/s². What is the speed of the stone when it hits the surface of the water?",
+    "image": "A diagram showing a boy standing on a cliff next to a lake. A stone is indicated as being dropped from a height of 2.0 m above the water surface. Labels indicate 'stone', '2.0 m', and 'water surface'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q18",
+    "Question_text": "In which situation is energy being released by the fusion of hydrogen nuclei to form helium?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q19",
+    "Question_text": "The diagram shows a block being pulled up a slope by a force F. The block reaches the new position at the top of the slope. What is the work done by force F in moving the block to its new position?",
+    "image": "A diagram showing a block on an inclined plane. A force F pulls the block up the slope. The initial position is at the bottom, and the 'new position of block' is at the top. The slope has a length 'r' (the distance along the slope). The horizontal displacement is 'q', and the vertical displacement is 'p'. The force F is parallel to the slope.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q20",
+    "Question_text": "Which statement about a mercury-in-glass clinical thermometer is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q21",
+    "Question_text": "Which description of a dull black surface is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q22",
+    "Question_text": "The temperature of a body increases by 1 °C. Which other quantity also increases?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q23",
+    "Question_text": "The thermal energy produced by an electric heater in three minutes is used to melt wax. The solid wax is initially at its melting point of 60 °C. The specific latent heat of the wax is 220 J/g. The heater supplies 7700 J of thermal energy to the wax. Some of the wax melts. How much wax melts?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q24",
+    "Question_text": "Which row explains why a liquid has a fixed volume but does not have a fixed shape?",
+    "image": "A table with two columns: 'force between molecules in the liquid' and 'movement of molecules in the liquid'. Rows A-D present combinations of 'large' or 'small' for force, and 'free to move within the liquid' or 'vibrate at fixed positions' for movement.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q25",
+    "Question_text": "A fixed mass of gas is enclosed in a cylinder by a piston which is free to move. Which combination of changes to the pressure and to the temperature must increase the density of the gas?",
+    "image": "A table with two columns: 'pressure' and 'temperature'. Rows A-D present combinations of 'decrease' or 'increase' for pressure and temperature.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q26",
+    "Question_text": "Light enters a glass block at an angle of incidence i and it produces an angle of refraction r in the glass. Several different values of i and r are measured, and a graph is drawn of sin i against sin r. Which graph is correct?",
+    "image": "A diagram showing a ray of light entering a 'glass block' from air. An angle of incidence 'i' and an angle of refraction 'r' are indicated, along with the normal line. Below are four graphs (A, B, C, D) plotting sin i (y-axis) vs sin r (x-axis). Graph A shows a linear relationship with slope > 1. Graph B shows a decreasing linear relationship. Graph C shows a non-linear increasing relationship. Graph D shows a linear relationship with slope < 1.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q27",
+    "Question_text": "A swimming pool is lit by an underwater light. A ray of light is incident on the water surface. What is the correct path for the ray of light?",
+    "image": "A diagram showing a swimming pool with an underwater light. A ray of light originates from the underwater light and is incident on the water surface. Four possible paths (A, B, C, D) are shown. Path A shows the light ray passing straight through the surface. Path B shows the light ray bending towards the normal in the air. Path C shows total internal reflection. Path D shows the light ray bending away from the normal in the air.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q28",
+    "Question_text": "Which diagram shows the action of a converging lens on a parallel beam of light?",
+    "image": "Four diagrams (A, B, C, D) showing light rays passing through lenses. In A, parallel rays diverge after passing through a converging lens. In B, parallel rays converge to a focal point after passing through a converging lens. In C, parallel rays pass through a diverging lens and diverge. In D, parallel rays pass through a diverging lens and converge to a focal point.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q29",
+    "Question_text": "What is a feature of red light compared with that of violet light?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q30",
+    "Question_text": "What is the ratio of the longest sound wavelength audible to a healthy human ear to the shortest?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q31",
+    "Question_text": "Ultrasound is used to clean jewellery in a liquid. What is another use of ultrasound?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q32",
+    "Question_text": "Bar magnets and various non-magnetic and demagnetised metal bars are placed in the different arrangements shown. In which arrangement do the bars repel?",
+    "image": "Four diagrams (A, B, C, D) each showing two bars. In A, a bar magnet (S N) next to an 'iron' bar. In B, a bar magnet (S N) next to a 'copper' bar. In C, two bar magnets (N S and S N) placed with adjacent poles S and S. In D, two bar magnets (S N and N S) placed with adjacent poles N and N.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q33",
+    "Question_text": "There is varying current in the coil of the loudspeaker shown. The loudspeaker is producing a sound. The magnet is clamped. What is vibrating to produce the sound?",
+    "image": "A diagram of a loudspeaker. It shows a 'coil' wound around a cylinder, placed within a 'magnet'. The coil is attached to a larger 'cone'. The magnet is clamped.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q34",
+    "Question_text": "Two insulated and uncharged metal spheres X and Y are touching. A positively charged rod is held near X and then the spheres are moved apart. X now has a negative charge. What is the charge on Y?",
+    "image": "A diagram showing two touching insulated metal spheres, X and Y. A positively charged rod is held near sphere X. Arrows indicate positive charges accumulating on the side of Y furthest from the rod, and negative charges accumulating on the side of X closest to the rod.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q35",
+    "Question_text": "A stationary negative charge in an electric field experiences an electric force in the direction shown. What is the direction of the electric field?",
+    "image": "A diagram showing a negative charge (-) at the center. An arrow labeled 'force' points to the right. The field is implied horizontally, with 'left' and 'right' labels.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q36",
+    "Question_text": "A battery consists of three identical cells in parallel. What is the unit of electromotive force (e.m.f.) and to what is the e.m.f. of the battery equal?",
+    "image": "A table with two columns: 'unit' and 'e.m.f. of the battery is equal to'. Rows A-D present combinations of units (J/C or N/V) and descriptions of the e.m.f. (sum of cells or e.m.f. of one cell).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q37",
+    "Question_text": "The nuclide notation for an isotope of X is A_Z X. How many neutrons are there in a nucleus?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q38",
+    "Question_text": "Radioactivity is used in several activities that take place in hospitals. Which activity never uses radioactivity?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Uses of Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q39",
+    "Question_text": "14C is a natural radioactive isotope of carbon and is present in all living things. It has a half-life of 5700 years. How old is a bone that is found to have only 1/4 of the natural proportion of 14C?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2020/Q40",
+    "Question_text": "A kettle is connected to the 240 V mains supply using a plug containing a 13 A fuse. The kettle contains water. When it is switched on, the fuse blows. This happens again after a new fuse is fitted. Someone replaces the fuse with a nail, and the kettle works. What else might happen as a result of replacing the fuse with a nail?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Current"
+    ],
+    "Parts": []
+  }
+]

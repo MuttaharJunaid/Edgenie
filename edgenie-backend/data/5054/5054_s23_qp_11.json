@@ -1,0 +1,461 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2023/Q1",
+    "Question_text": "A student wishes to measure directly the circumference of a football. What is the most suitable instrument to use?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q2",
+    "Question_text": "Which equation contains two vector quantities?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q3",
+    "Question_text": "Forces of 6.0 N and 8.0 N act as shown. Which diagram shows the resultant R of these two forces?",
+    "image": "A diagram showing two forces: one 6.0 N force acting vertically upwards from an origin, and another 8.0 N force acting horizontally to the right from the same origin. Below this, there are four options (A, B, C, D) each depicting vector diagrams to find the resultant force R. Each option shows two component force vectors (6.0 N and 8.0 N) and a resultant vector R. Specifically, option D shows the 6.0 N vector vertically upwards, followed by the 8.0 N vector horizontally to the right from the head of the 6.0 N vector, and the resultant R connecting the tail of the 6.0 N vector to the head of the 8.0 N vector, forming a right-angled triangle.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q4",
+    "Question_text": "A speed-time graph for the journey of a car is shown. What is the distance-time graph for the journey?",
+    "image": "The top image shows a speed-time graph: speed increases linearly from 0, then remains constant. Below this, there are four distance-time graphs (A, B, C, D). Graph A shows distance increasing with an upward curve, followed by a straight line with a positive slope. Graph B shows distance increasing with a straight line, followed by an upward curve. Graph C shows distance increasing with a continuous upward curve. Graph D shows distance increasing with an upward curve, followed by a horizontal line.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Distance-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q5",
+    "Question_text": "The gravitational field strength on Earth is 9.8 N/kg. The gravitational field strength on Mars is 3.7 N/kg. The difference between the weight of an object on Earth and the weight of the same object on Mars is 25 N. What is the mass of the object?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q6",
+    "Question_text": "A student determines the density of a solid metal cube. Which pieces of equipment does the student use?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q7",
+    "Question_text": "The diagram shows the only two horizontal forces acting on a trolley that is accelerating at 0.12 m/s². What is the mass of the trolley?",
+    "image": "A diagram showing a trolley with two opposing horizontal forces. A force of 3.6 N acts to the left, and a force of 6.0 N acts to the right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q8",
+    "Question_text": "A spring is stretched to different lengths by a variable force. The graph shows how the size of the force depends on the length to which the spring is stretched. What is the spring constant k of the spring?",
+    "image": "A graph showing force/N on the y-axis (from 0 to 8) against length of spring/cm on the x-axis (from 0 to 30). The graph is a straight line passing through the origin (0,0) and extending to approximately (20 cm, 8 N).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q9",
+    "Question_text": "A uniform horizontal beam, pivoted at its right-hand end, is in equilibrium. A force of 60 N acts vertically upwards on the beam as shown. What is the weight of the beam?",
+    "image": "A diagram showing a uniform horizontal beam pivoted at its right-hand end. A 60 N force acts vertically upwards at the left end of the beam. The distance from the 60 N force to the point where the weight of the beam acts is 20 cm, and the distance from the point where the weight acts to the pivot is 30 cm. The weight of the beam acts downwards at its center.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q10",
+    "Question_text": "A constant frictional force acts on a moving object for a short amount of time causing the momentum of the object to decrease. Which expression is used to calculate the time for which the force acts?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Momentum",
+      "Impulse"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q11",
+    "Question_text": "A large stone is rolled onto a lorry using a ramp. The length of the ramp is l. The stone is lifted a height of h. The mass of the stone is m. The weight of the stone is W. Which expression is equal to the useful work done on the stone?",
+    "image": "A diagram showing a ramp leading up to a lorry. A stone is on the ramp. The length of the ramp is labeled 'l' and the vertical height gained by the stone is labeled 'h'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q12",
+    "Question_text": "The diagram shows a burning candle. Which energy store is associated with the burning candle?",
+    "image": "A simple diagram of a burning candle, showing a candle stick with a flame at the top.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q13",
+    "Question_text": "An African elephant has a mass of 6000 kg and each of its four feet has an area of 0.20 m². The gravitational field strength g is 9.8 N/kg. What is the average pressure due to the elephant when it is standing stationary on all four feet on level ground?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q14",
+    "Question_text": "Which row describes the shape and the volume of a liquid at constant temperature?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q15",
+    "Question_text": "Which row shows how the forces and the distances between the particles in a solid generally compare with the forces and distances in a liquid?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q16",
+    "Question_text": "An incomplete statement about latent heat is given. Latent heat is the ....1... required to overcome the bonds between molecules and change the ......2...... of a substance. Which words are inserted into gap 1 and gap 2 to correctly complete the sentence?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q17",
+    "Question_text": "A cold solid is placed on top of a hot solid. Thermal energy is transferred from the hot solid to the cold one. What is the explanation for this?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q18",
+    "Question_text": "A house is to be thermally insulated to reduce thermal energy loss and reduce fuel costs. Which type of thermal insulation pays back the cost of installation in the shortest time?",
+    "image": "A diagram illustrating a house with different thermal insulation options (loft insulation, double glazing, cavity wall insulation, draught proofing) along with their respective installation costs and annual energy cost savings. Loft insulation: installation $300, saving $300/year. Double glazing: installation $7000, saving $400/year. Cavity wall insulation: installation $700, saving $200/year. Draught proofing: installation $100, saving $30/year.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q19",
+    "Question_text": "The diagram shows two divergent rays of light from an object O being reflected from a plane mirror. At which position is the image formed?",
+    "image": "A diagram showing an object O emitting two divergent rays towards a plane mirror. The reflected rays are shown. Behind the mirror, four potential image positions (A, B, C, D) are marked. The reflected rays, when extended backwards, converge at position C, which is behind the mirror and equidistant from it as the object O.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q20",
+    "Question_text": "Light is incident on a mirror at an angle of 45° as shown. The mirror can be rotated about an axis into the page through point X. The mirror is rotated until the light is reflected back along its original path. Through which angle is the mirror rotated?",
+    "image": "A diagram showing a light ray incident on a plane mirror. The angle between the incident ray and the mirror surface is 45°. A point X on the mirror is indicated as the axis of rotation.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q21",
+    "Question_text": "A ray of light is incident on a plastic block in air, at an angle of incidence i. The refractive index of the plastic is n. The light ray refracts along the plastic-air boundary when it reaches X. Which equation is correct?",
+    "image": "A diagram showing a light ray incident on a plastic block from air. The angle of incidence in air is 'i'. Inside the plastic block, a refracted ray is shown. The ray then hits point X on an internal boundary. At point X, a normal to the boundary is drawn. The angle between the ray inside the plastic and the normal at X is 41°, while the angle between the ray and the surface at X is 49°. The ray is shown to refract along the plastic-air boundary.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Snell's Law",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q22",
+    "Question_text": "The diagram shows white light entering a prism. What happens at point X and what is the colour of the light that strikes the screen at point Z?",
+    "image": "A diagram showing white light entering a triangular prism at point X. The light then disperses into a spectrum as it exits the prism and hits a screen at point Z, showing different colors. The diagram indicates that the light ray at the top of the spectrum (least refracted) is red, and the light ray at the bottom of the spectrum (most refracted) is blue/violet. Point Z is hit by the least refracted light, which is red.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q23",
+    "Question_text": "Which row names a region of the electromagnetic spectrum with a wavelength longer than that of visible light and a region with a frequency that is greater than that of visible light?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q24",
+    "Question_text": "Sound travels at different speeds in different states of matter. Which list gives the three states of matter arranged in order of the speed of sound from slowest to fastest?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q25",
+    "Question_text": "Bar magnets and various non-magnetic and demagnetised metal bars are placed in the different arrangements shown. In which arrangement do the bars repel?",
+    "image": "Four diagrams (A, B, C, D) showing two horizontal bars placed vertically above each other. In each diagram, the top bar is either a magnet (N-S or S-N) or a specified material (iron, copper). The bottom bar is also either a magnet or a specified material. Diagram D shows two bar magnets, both labeled S-N, placed such that their south poles are adjacent and their north poles are adjacent, indicating repulsion.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q26",
+    "Question_text": "A student uses a wooden clamp and a stand to hold a freely suspended bar magnet. The diagrams show that: in experiment 1, the student holds a bar magnet next to the suspended magnet; in experiment 2, the student holds an iron bar next to the suspended magnet; in experiment 3, the student holds a steel bar next to the suspended magnet. In which experiments does the suspended magnet move?",
+    "image": "A diagram showing a suspended bar magnet (N-S). Three separate experiment setups are shown. Experiment 1: another bar magnet (N-S) is brought near the suspended magnet. Experiment 2: an iron bar is brought near the suspended magnet. Experiment 3: a steel bar is brought near the suspended magnet. In all three cases, the suspended magnet will experience a force.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q27",
+    "Question_text": "In an electrostatics experiment, a plastic rod is rubbed with a cloth. The cloth becomes negatively charged. Which diagram shows the charge on the rod and describes the movement of charge?",
+    "image": "Four diagrams (A, B, C, D) each showing a plastic rod and a cloth with associated charges and a description of charge movement. Diagrams A and C show the rod as positively charged (++++), the cloth as negatively charged (----), and state that 'electrons move from the rod on to the cloth'. Diagrams B and D show the rod as negatively charged (----), the cloth as positively charged (++++), and state that 'protons move from cloth on to the rod' or 'protons move from rod on to the cloth' respectively.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity",
+      "Electrical Charge",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q28",
+    "Question_text": "Object X is stationary and positively charged. It experiences a force due to the field produced by object Y. The arrows show the direction of the field produced by Y. Which statement about the direction of the force on X is correct?",
+    "image": "A diagram showing a central object Y with electric field lines represented by arrows pointing inwards towards Y. A positively charged object X is placed to the right of Y.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q29",
+    "Question_text": "The diagram shows a battery of three 1.5 V cells. What is an advantage of this arrangement of cells?",
+    "image": "A circuit diagram showing three 1.5 V cells connected in series, forming a battery.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q30",
+    "Question_text": "A potential divider consists of a light-dependent resistor (LDR) and a resistor connected to a 6.0 V battery. The output is 3.0 V. What is the resistance of the LDR?",
+    "image": "A circuit diagram showing a 6.0 V battery connected to a potential divider. The potential divider consists of a light-dependent resistor (LDR) at the top and a fixed resistor of 10000 Ω at the bottom. The output voltage is measured across the 10000 Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q31",
+    "Question_text": "Three students each suggest a consequence of wiring lamps in parallel rather than in series. Which students are correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q32",
+    "Question_text": "When wire XY is moved downwards between the poles of a stationary magnet, an e.m.f. is produced across X and Y. Which action produces an e.m.f. across X and Y in the opposite direction?",
+    "image": "A diagram showing a straight wire XY placed horizontally between the poles of a magnet. The magnetic field lines would be vertical. The wire is shown moving downwards, cutting these field lines.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q33",
+    "Question_text": "An a.c. voltage is displayed on an oscilloscope screen. The Y-gain is set at 2.0 V/cm. What is the maximum value of the voltage?",
+    "image": "An oscilloscope screen displaying an AC waveform. The peak amplitude of the waveform from the center line is shown as 1.0 cm.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q34",
+    "Question_text": "The results of a scattering experiment show that a very small nucleus contains most of the matter in an atom. What is scattered in this experiment?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q35",
+    "Question_text": "Atoms P and Q are isotopes of the same element. How does the composition of an atom of P compare with the composition of an atom of Q?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q36",
+    "Question_text": "The nucleus of an atom emits an alpha-particle. How do the proton number and nucleon number change?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q37",
+    "Question_text": "The diagram shows how the thickness of paper is measured during manufacture. If the sheet is too thick, fewer beta-particles can reach the detector. Why are beta-particles used for this purpose?",
+    "image": "A diagram illustrating a system for measuring paper thickness during manufacturing. It shows paper pulp being fed between rollers, then passing over a source of beta-particles and under a detector. The beta-particles pass through the paper to the detector.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Uses of Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q38",
+    "Question_text": "A sample of tritium has a mass of 32 mg. Tritium has a half-life of 12 years. How much of the sample of tritium decays in 36 years?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q39",
+    "Question_text": "It takes 27 days for the Moon to orbit the Earth. The average value of the radius of the Moon's orbit is 3.8 x 10⁸ m. What is the average orbital speed of the Moon?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "Calculating Orbital Speeds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2023/Q40",
+    "Question_text": "What is the nuclear reaction that takes place in stable stars?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion"
+    ],
+    "Parts": []
+  }
+]

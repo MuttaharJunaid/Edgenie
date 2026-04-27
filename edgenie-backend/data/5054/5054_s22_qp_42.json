@@ -1,0 +1,188 @@
+[
+  {
+    "QuestionNumber": "5054/42/M/J/2022/Q1",
+    "Question_text": "A student determines the thickness of the glass in a test-tube.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student uses a ruler and two rectangular wooden blocks to help him measure the external diameter D of the test-tube. Describe, with the aid of a diagram, how the student determines an accurate value for D.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student: • clamps the test-tube in a stand • fills a measuring cylinder to the 100cm³ mark with water • pours some water from the measuring cylinder into the test-tube. The arrangement of apparatus is shown in Fig. 1.1. The test-tube containing water is also shown full size in Fig. 1.1. Measure the height h of the water in the full size test-tube in Fig. 1.1. Record h in centimetres to the nearest millimetre in the second row in Table 1.1.",
+        "image": "Fig. 1.1 shows an experimental setup. On the left, a test-tube is clamped vertically in a stand. A smaller, magnified view of the test-tube is shown on the right, labeled 'FULL SIZE'. Inside the test-tube, there is water up to a height 'h'. The external diameter of the test-tube is labeled 'D'. Both views show the test-tube containing water."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 1.2 shows the volume VR of water remaining in the measuring cylinder.",
+        "image": "Fig. 1.2 displays a measuring cylinder filled with water. The cylinder is marked in cm³. The water level is between 80 cm³ and 90 cm³, specifically at the 87 cm³ mark. The label 'water' points to the water in the cylinder."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Record VR in Table 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the volume V of water in the test-tube. Record your answer in Table 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student: • adds more water from the measuring cylinder into the test-tube • measures and records the new values of h and VR in Table 1.1 • repeats the procedure for three more values of h and VR. The student’s results are shown in Table. 1.1. On the grid provided, plot a graph of V on the y-axis against h on the x-axis. Start both axes from the origin (0, 0). Draw the best-fit straight line.",
+        "image": "A large grid for plotting a graph is provided. The y-axis is labeled 'V/cm³' and the x-axis is labeled 'h/cm'. Both axes start from 0 at the origin (0,0)."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Calculate the gradient m of your line. Show all working and indicate on the graph the values you use.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "If the test-tube is a perfect cylinder, then the internal diameter d is given by the equation: d = √(4m/π) Use your value of m from (e)(i) and the equation to calculate d.",
+        "image": null
+      },
+      {
+        "part_label": "f(i)",
+        "part_text": "Your value for d is approximate. State one difficulty in measuring the height h of the water in the test-tube and suggest how this difficulty can be overcome.",
+        "image": null
+      },
+      {
+        "part_label": "f(ii)",
+        "part_text": "Suggest another reason why your calculated value for d is only approximate.",
+        "image": null
+      },
+      {
+        "part_label": "g(i)",
+        "part_text": "Measure the external diameter D of the full size test-tube in Fig. 1.1. Record D in centimetres to the nearest millimetre.",
+        "image": null
+      },
+      {
+        "part_label": "g(ii)",
+        "part_text": "Use your answers for (e)(ii) and (g)(i) to calculate the thickness of the glass in the test-tube.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/M/J/2022/Q2",
+    "Question_text": "A student investigates the cooling of hot water in a beaker. The student measures the room temperature before starting the investigation. The room temperature is 24.0°C. The student: pours 150 cm³ of hot water into a beaker places a thermometer into the hot water waits for 30 s reads the initial temperature of the hot water and starts a stop-watch records the temperature θ of the hot water every 60s for 300 s. The student’s readings are shown in Table 2.1.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest why the student waits for 30s before reading the initial temperature of the hot water.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the average rate of cooling R₁ of the hot water during the first 60s. Use the equation: R₁ = (θ₀ - θ₆₀)/60 where θ₀ is the temperature of the hot water at the start, and θ₆₀ is the temperature of the hot water after 60 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the average rate of cooling R₂ of the hot water between t = 240s and t = 300 s.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use the values you calculated in part (b) to describe how the rate of cooling of the hot water changes as the hot water cools.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "At the end of the investigation, the student leaves the water in the beaker. Predict the final temperature of the water 2 hours later.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Suggest how the student ensures that the temperature readings are as accurate as possible.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/M/J/2022/Q3",
+    "Question_text": "Three students, A, B and C, measure the speed of sound in air. • Students A and B stand at opposite ends of a football pitch. • Student A strikes two large blocks of wood together. • Student B starts a stop-watch when she sees the blocks hit each other and stops the stop-watch when she hears the sound. • The students repeat this procedure twice. • Student C measures the distance d between students A and B. The times t recorded are shown. 0.45 s 0.41 s 0.51 s",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Measuring the Speed of Sound",
+      "Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the average value of t. Give your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The distance d between students A and B is 119m. Suggest a device that can be used for measuring this distance.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate a value for v, the speed of sound in air. Use the equation: v = d/t",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest one reason why the value calculated in (b)(ii) for the speed of sound in air is only approximate.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/M/J/2022/Q4",
+    "Question_text": "A student investigates how the resistance of a filament lamp changes when the current through it is varied. The student connects the circuit shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows an electrical circuit diagram. The circuit includes a battery (represented by two cells), a switch, a filament lamp (represented by a circle with a cross), an ammeter (labeled 'A') connected in parallel with the lamp, and a voltmeter (labeled 'V') connected in series with the lamp and a rheostat (variable resistor) in series with the lamp. This initial configuration is stated to be incorrect.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student has connected the circuit incorrectly. In the space below re-draw the circuit with the voltmeter and ammeter connected in the correct positions.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the switch is closed in the corrected circuit, the student observes that the lamp does not appear to light up. The filament of the lamp is not broken, and the battery is not run down.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "What observation does the student make to confirm quickly that the filament of the lamp is not broken?",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest why the lamp does not appear to light.",
+        "image": null
+      }
+    ]
+  }
+]

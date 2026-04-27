@@ -1,0 +1,461 @@
+[
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q1",
+    "Question_text": "In an experiment, a ball is rolled down a curved track that is about half a metre long. Which measuring device is used to measure the length accurately?",
+    "image": "A diagram showing a curved track with a ball resting on it. The track has a length indicated as 0.5 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q2",
+    "Question_text": "Which row describes acceleration, displacement, distance and speed?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q3",
+    "Question_text": "What is the size of the resultant of the two forces shown?",
+    "image": "A diagram showing two forces acting perpendicularly from a common point. One force is 3.0 N acting vertically upwards, and the other is 4.0 N acting horizontally to the right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q4",
+    "Question_text": "The curved line on the distance-time graph shows the motion of a toy car. The straight line is the tangent to the curve at 10s. What is the speed of the toy car at 10 s?",
+    "image": "A distance-time graph. The x-axis represents time in seconds from 0 to 20. The y-axis represents distance in metres from 0 to 10. A curved line starts at (0,0) and increases with a decreasing gradient. A straight dashed line is drawn tangent to the curve at the point corresponding to 10 seconds on the x-axis. The tangent line passes through approximately (5s, 0.5m) and (15s, 6.5m).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q5",
+    "Question_text": "The diagrams show four balances, W, X, Y and Z. The scales of all the balances are calibrated on the Earth to measure mass. Which balances also measure mass correctly when used on the Moon?",
+    "image": "Four diagrams of different types of balances labeled W, X, Y, and Z. W is a spring balance. X is a digital top-pan balance with a digital display showing '00.00'. Y is a lever-arm balance with a pivot point. Z is a two-pan balance with a pivot point.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q6",
+    "Question_text": "A spacecraft carries a probe to Mars where the gravitational field strength is 3.7 N/kg. The weight of the probe on Mars is 370 N. The gravitational field strength on Earth is 9.8 N/kg. What are the mass and the weight of the probe on Earth?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q7",
+    "Question_text": "A student determines the density of a liquid. Which equipment does the student use?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q8",
+    "Question_text": "Newton's third law describes a pair of forces. Which row shows whether the two forces are of the same type and whether they act on the same object?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q9",
+    "Question_text": "The stopping distance of a car is the sum of the thinking distance and the braking distance. Which factors affect the braking distance?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q10",
+    "Question_text": "A load-extension graph for a spring is shown. Which point is the limit of proportionality for the spring and what is the spring constant of the spring equal to?",
+    "image": "A load-extension graph. The x-axis is labeled 'extension' and the y-axis is labeled 'load'. The graph starts at the origin (0,0) and shows a straight line segment labeled PQ, followed by a curved segment labeled QR. Point P is at the origin, Q is where the line starts to curve, and R is a point further along the curve.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q11",
+    "Question_text": "A uniform beam is pivoted at its midpoint. An object weighing 40 N is placed on the beam 20 cm to the left of the pivot as shown. Which force and position balances the system?",
+    "image": "A diagram showing a uniform beam pivoted at its midpoint. An object is placed 20 cm to the left of the pivot, exerting a downward force of 40 N. The ends of the beam are labeled 'left' and 'right'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q12",
+    "Question_text": "A worker pulls a rope with a force P through a distance d in the direction of the force as shown. This causes a block of weight W to move vertically upwards through a height h. How much work is done by the worker?",
+    "image": "A diagram of a pulley system. A rope is shown with a force P applied horizontally, pulling it a distance d. The rope goes over a pulley, and a block of weight W is attached to the other end. The block moves vertically upwards through a height h.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q13",
+    "Question_text": "A battery is connected in a circuit to light a lamp. What is the energy store in the battery?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q14",
+    "Question_text": "What is a property of both liquids and gases?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q15",
+    "Question_text": "In an experiment, the volume of a gas in a cylinder is measured as the pressure of the gas is increased. The values obtained are shown. What is a possible explanation for these results?",
+    "image": "A diagram showing a gas contained within a cylinder, with a piston at one end. The components are labeled 'gas', 'cylinder', and 'piston'. Below the diagram is a table showing: pressure P/Pa values (1.0 x 10^5, 2.0 x 10^5, 3.0 x 10^5, 4.0 x 10^5) and corresponding volume V/m^3 values (20 x 10^-5, 10 x 10^-5, 6.0 x 10^-5, 4.0 x 10^-5).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q16",
+    "Question_text": "The diagrams show examples of thermal expansion. In which diagrams is the thermal expansion useful?",
+    "image": "Three diagrams showing examples of thermal expansion: P shows the expansion of liquid in a thermometer. Q shows the expansion of a tight lid on a glass container, with a hairdryer suggesting heating to loosen it. R shows the expansion of long metal beams supporting a roof, with one end fixed and the other on rollers to allow for expansion.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q17",
+    "Question_text": "Which statement about copper explains why it is a better thermal conductor than glass?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Demonstrating Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q18",
+    "Question_text": "Which statement describes the transfer of thermal energy in a liquid by convection?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q19",
+    "Question_text": "Which characteristics describe the image formed by a vertical plane mirror?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q20",
+    "Question_text": "A ray of light passes into a block of transparent material as shown. What is the refractive index of the transparent material?",
+    "image": "A diagram showing a ray of light incident on a flat surface of a transparent block. The angle between the incident ray and the normal to the surface is 35 degrees. The angle between the refracted ray inside the block and the normal is 60 degrees. (Note: For physical plausibility, it's assumed 35 is angle of incidence with surface (so i=55) and 60 is angle of refraction with surface (so r=30), leading to n = sin(55)/sin(30) approx 1.64.)",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q21",
+    "Question_text": "The diagrams show light incident on the straight edge of a semi-circular glass block after passing through it. Which diagram shows refraction and an angle i equal to the critical angle of the glass?",
+    "image": "Four diagrams (A, B, C, D) each depicting a semi-circular glass block with a light ray incident on its flat edge. A normal line is drawn at the point of incidence. In diagram A, an incident ray from inside the glass hits the flat edge at angle 'i' to the normal, and the refracted ray travels along the interface (angle of refraction is 90 degrees). In diagram B, an incident ray from inside the glass hits the flat edge at angle 'i' and refracts out into the air, bending away from the normal. In diagrams C and D, incident rays from inside the glass undergo total internal reflection.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q22",
+    "Question_text": "Which radioactive isotope can be used for measuring cracks or flaws in metal components?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Uses of Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q23",
+    "Question_text": "Ultrasound is a type of sound wave that is not audible to a healthy human ear. Which range of frequencies contains only ultrasound?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q24",
+    "Question_text": "What proves that a metal bar is a permanent magnet?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q25",
+    "Question_text": "The diagram shows a bar magnet and four labelled arrows. Which arrow shows the direction of the magnetic field at the point where the arrow is shown?",
+    "image": "A diagram of a bar magnet with its North (N) and South (S) poles labeled. Four arrows (A, B, C, D) are drawn around the magnet. Arrow B originates from near the North pole and points away from it. Arrow A points towards the North pole. Arrow C points towards the South pole. Arrow D originates from near the South pole and points away from it.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q26",
+    "Question_text": "A shoe becomes positively charged by friction when it rubs against a carpet. What happens as the shoe becomes charged?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q27",
+    "Question_text": "A metal conductor is connected between the positive and negative terminals of a battery. Which row gives the direction of movement of the particles that flow in the conductor and their name?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q28",
+    "Question_text": "Three identical cells are connected in parallel to a resistor. What is the advantage of using three cells in parallel rather than using a single cell?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q29",
+    "Question_text": "A student has three 15Ω resistors. She connects the resistors together in different arrangements. What is the minimum resistance and what is the maximum resistance of the arrangements that the student can produce?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q30",
+    "Question_text": "The circuit diagram shows a variable resistor R connected in parallel to the lower section of a potential divider. The resistance of R increases. What happens to the two voltmeter readings V₁ and V₂?",
+    "image": "A circuit diagram showing a potential divider. A battery is connected to two series resistors. A variable resistor R is connected in parallel across the lower of these two series resistors. Voltmeter V₁ is connected across the upper series resistor, and voltmeter V₂ is connected across the parallel combination of the lower series resistor and R.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q31",
+    "Question_text": "The power consumption of a microwave oven is 1500 W. The cost of 1.0 kWh of electrical energy is 24 cents. What is the cost of using the microwave oven for 10 minutes?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q32",
+    "Question_text": "A coil of wire above a magnet is dropped. As the coil falls over the magnet, an e.m.f. is induced across the coil. What does not affect the magnitude of the e.m.f. induced across the coil?",
+    "image": "A diagram showing a coil of wire suspended above a bar magnet. The magnet's North (N) pole is at the top and South (S) pole at the bottom. A vertical distance 'h' is indicated between the bottom of the coil and the top of the magnet.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q33",
+    "Question_text": "The results of the alpha-particle scattering experiment give evidence for which of the following?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q34",
+    "Question_text": "A nucleus of an isotope of cobalt is represented by the symbol ⁵⁹₂₇Co. What is the composition of this nucleus?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q35",
+    "Question_text": "The only stable isotope of gold, Au, has 79 protons and 118 neutrons in a nucleus of an atom. How many elecrons are there in a neutral atom of this isotope?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q36",
+    "Question_text": "A sample of a radioactive isotope with a very long half-life is placed next to a detector. Sheets of different materials are inserted, one at a time, between the radioactive sample and the detector. The background count rate is subtracted from the readings on the detector and the corrected count rates are recorded in the table. Which types of radiation are emitted by the radioactive sample?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Detection of Radioactivity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q37",
+    "Question_text": "In a fission reactor, which particle causes a uranium-235 nucleus to split?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q38",
+    "Question_text": "What is the purpose of moderators in nuclear reactors?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q39",
+    "Question_text": "In which region of the electromagnetic spectrum does the Sun radiate the most energy?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June 2023/Q40",
+    "Question_text": "Four of the stages in the life cycle of a star, until it becomes a red giant, are shown. W Inward force of gravitational attraction is balanced by an outward force from its centre. X Internal gravitational collapse produces an increase in temperature. Y It expands. Z Most of the hydrogen has been converted to helium. In which order do these stages occur, starting with the earliest?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "Stars",
+      "The Sun as a Star"
+    ],
+    "Parts": []
+  }
+]

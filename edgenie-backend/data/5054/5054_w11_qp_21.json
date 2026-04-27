@@ -1,0 +1,424 @@
+[
+  {
+    "QuestionNumber": "O-N/21/2011/Q1",
+    "Question_text": "Fig. 1.1 shows an ice cube at 0°C. The sides of the cube are of length 0.040 m. Ice at 0°C has a density of 920kg/m³.",
+    "image": "Fig. 1.1 displays a three-dimensional isometric drawing of an ice cube. The cube has its side lengths labeled as 0.040 m on all three visible axes, indicating a perfect cube.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Density",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the mass of the ice cube,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the weight of the ice cube.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The specific latent heat of fusion of ice is 3.4 × 10⁵J/kg. Calculate the thermal energy (heat) absorbed by the ice cube as it melts.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q2",
+    "Question_text": "Fig. 2.1 shows an elevator (lift) that is supported by a cable. The cable passes around the axle of an electric motor and over a pulley. The cable is then attached to a concrete block that has the same mass as the empty elevator. As the elevator moves up, the concrete block moves down.",
+    "image": "Fig. 2.1 shows a diagram of an elevator system. A 'motor' is at the top, connected to a 'pulley' via an 'axle'. A 'cable' runs from the pulley, down around a 'concrete block', then up over the pulley again, and finally down to an 'elevator'. The diagram indicates that the concrete block and elevator are suspended, with the motor controlling the movement of the cable.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Power",
+      "Mass & Weight",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why very little work is done by the electric motor when lifting up the empty elevator.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Several people of total weight 4900 N are travelling upwards at constant speed in the elevator. They rise through a distance of 24 m in 28 s. Calculate the minimum power output of the electric motor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q3",
+    "Question_text": "Fig. 3.1 shows the flame of a Bunsen burner. A thermocouple thermometer contains a voltmeter. It is used to measure the temperature in the flame of the Bunsen burner.",
+    "image": "Fig. 3.1 illustrates a Bunsen burner with a visible flame at its top. The main body of the Bunsen burner and the flame are labeled.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.1, draw a labelled diagram of the structure of the thermocouple thermometer as it measures the temperature in the flame.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the fixed points and the reading of the voltmeter are used to determine the value of the temperature in the flame.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The thermocouple thermometer is used to measure the temperature in the flame because it can measure very high temperatures. State and explain one other advantage of using a thermocouple thermometer to determine temperature.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q4",
+    "Question_text": "Fig. 4.1 shows a glass lens in air and its two focal points F₁ and F₂. Three rays of light pass through F₁ to the lens.",
+    "image": "Fig. 4.1 shows a converging lens with a horizontal principal axis. Two focal points, F1 on the left and F2 on the right, are marked equidistant from the lens. Three parallel incident rays approach the lens from the left, passing through F1. The lens itself is labeled 'lens' and the incident rays are labeled 'three rays'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Refraction of Light",
+      "The Wave Equation",
+      "Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 4.1, continue the three rays through the lens and into the air.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what happens to the speed of light on entering the glass lens from air,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "leaving the lens and returning to the air.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Light of wavelength 6.0 × 10⁻⁷m travels in air at a speed of 3.0 x 10⁸m/s. Calculate the frequency of this light.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State the effect, if any, on the frequency as the light enters the glass from air.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q5",
+    "Question_text": "Fig. 5.1 shows a nylon rod being rubbed with a woollen cloth. The rod becomes negatively charged.",
+    "image": "Fig. 5.1 depicts a hand holding a 'woollen cloth' and rubbing it along a 'rod', illustrating the process of charging by friction.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity",
+      "Electrical Charge",
+      "Electric Fields",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain how rubbing the nylon rod makes it negatively charged.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State what happens to the cloth as the rod becomes negatively charged.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 5.2 shows the negatively-charged rod placed near to a conducting sphere. The sphere is suspended by an insulating thread.",
+        "image": "Fig. 5.2 displays a 'negatively-charged rod' held horizontally, positioned close to a 'conducting sphere'. The sphere is suspended by an 'insulating thread' from a horizontal support, indicating it is isolated electrically."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 5.2, draw the distribution of positive and negative charges on the sphere.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the sphere is attracted to the rod.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q6",
+    "Question_text": "When a car is moving, its electrical equipment is powered by an a.c. generator.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromagnetic Induction",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On the axes in Fig. 6.1, sketch a graph of the output voltage of the coil against time for two rotations of the coil of the generator.",
+        "image": "Fig. 6.1 shows a blank graph with 'output voltage' on the y-axis and 'time' on the x-axis, both starting from 0, provided for the candidate to sketch a graph."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The speed of the car increases and so does the speed of rotation of the coil. State two changes that this causes to the output voltage.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the car engine is off, the current in a lamp from a 12V battery is 0.50 A. Calculate the resistance of the lamp.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q7",
+    "Question_text": "Fig. 7.1 is the circuit diagram for the volume control of a loudspeaker. The circuit includes a variable potential divider (potentiometer). The input voltage is connected across the ends of the potential divider. The loudspeaker is connected between the sliding contact S and the terminal C.",
+    "image": "Fig. 7.1 shows a circuit diagram for a volume control. It consists of a potentiometer, represented by a resistor with a sliding contact 'S'. An 'input voltage' is connected across the full length of the potentiometer. A 'loudspeaker' is connected between the sliding contact 'S' and one end of the potentiometer, labeled 'C'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Circuit Diagrams & Circuit Components",
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The sliding contact S is moved towards C. State and explain the effect on the sound produced.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The loudspeaker emits a sound of constant pitch. Over a period of time, this sound becomes louder and louder. State the effect, if any, on the amplitude and on the frequency of the sound wave during this time.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q8",
+    "Question_text": "One radioactive isotope of iodine is ¹³¹I. As a nucleus of this isotope decays, it emits a beta-particle (symbol: β) and it becomes a nucleus of an isotope of xenon (symbol: Xe). Complete the equation in nuclide form, for this decay. A sample of a radioactive isotope emits both beta-particles and gamma-rays. The direction of the magnetic field is into the page. Emission from a radioactive source is a random process.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Detection of Radioactivity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the equation in nuclide form, for this decay. ¹³¹I → Xe + β",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 8.1 shows these two types of radiation entering a magnetic field. On Fig. 8.1, mark and label the path taken by (i) the beta-particles, (ii) the gamma-rays.",
+        "image": "Fig. 8.1 shows a square region where a 'magnetic field' is indicated as pointing 'into the page'. From the left, 'beta-particles and gamma-rays' are shown entering this region, with blank space provided for drawing their paths within the magnetic field."
+      },
+      {
+        "part_label": "c",
+        "part_text": "State two ways in which the process is random.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q9",
+    "Question_text": "Fig. 9.1 is the speed-time graph for a rocket from the moment that the fuel starts to burn at time t = 0.",
+    "image": "Fig. 9.1 presents a speed-time graph. The y-axis represents 'speed' in m/s, ranging from 0 to 1400. The x-axis represents 't' in s, ranging from 0 to 100. A curve starts at (0,0) and rises, with its gradient gradually increasing, indicating increasing acceleration, reaching a speed of approximately 1200 m/s at 80s and 1400 m/s at 100s. Grid lines are present for precise reading.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Energy Stores & Transfers",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the principal energy changes taking place as the rocket accelerates upwards.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the size of the acceleration of the rocket at t = 0.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State what happens to the acceleration of the rocket between t = 5s and t = 80s.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the acceleration of the rocket at t = 80s.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The total mass of the rocket at t = 80s is 1.6 × 10⁶ kg. Calculate the resultant force on the rocket at this time.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "The total weight of the rocket at t = 80s is 1.6 × 10⁷ N. Calculate the upward force on the rocket at this time, caused by the burning fuel.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "As the rocket burns fuel, it ejects hot gas downwards. State Newton's third law of motion.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain how Newton's third law of motion applies to the upward force on the rocket and to the force on the hot gas.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q10",
+    "Question_text": "Fig. 10.1 is the circuit diagram of a fan oven that works from a 230V a.c. mains supply. The oven contains a 3500W electric heater, an electric fan operated by a 200W fan motor and two switches S₁ and S₂.",
+    "image": "Fig. 10.1 displays a circuit diagram. A '230 V a.c. supply' is connected to two switches, S1 and S2, which are in series. The 'heater' is connected in series with S1. The 'fan motor (M)' is connected in parallel with the heater and S1, but in series with S2. This arrangement implies S1 controls the heater and S2 controls the fan motor, with the heater only operating if S1 is closed and the fan motor is operating.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy",
+      "Electrical Safety",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "When switches S₁ and S₂ are open, both the heater and the fan motor are off, as shown in Fig. 10.2. Complete Fig. 10.2 by writing “open” or “closed” in the boxes.",
+        "image": "Fig. 10.2 is a table with columns 'S₁', 'S₂', 'heater', and 'fan motor'. The first row shows 'open', 'open', 'off', 'off'. Two more rows are partially filled, requiring the status of S1 and S2 to achieve 'heater: off, fan motor: on' and 'heater: on, fan motor: on'."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how the circuit represented by Fig. 10.1 ensures that the heater cannot be switched on when the fan motor is off.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest one reason why the circuit is designed so that the heater cannot be switched on when the fan motor is off.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The heater and the fan motor are both switched on. Calculate the current supplied to the oven.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 1",
+        "part_text": "Suggest a suitable rating for the fuse to be used with this oven.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 2",
+        "part_text": "The fuse is placed in one of the three wires in the mains lead. State the wire in which it is placed.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain how earthing the metal case of the oven makes it safer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The cost of 1kWh of electrical energy is 35 cents. Calculate the cost of leaving just the fan motor switched on for 12 hours.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/21/2011/Q11",
+    "Question_text": "A crankshaft is a shaped metal bar that is part of a car engine. It is free to rotate about an axis, as shown in Fig. 11.1. When the crankshaft is horizontal, a vertical force F of 8200N acts downwards on the crankshaft at P. This causes the crankshaft to rotate. The distance between P and the axis of the crankshaft is 0.050 m.",
+    "image": "Fig. 11.1 shows a diagram of a 'crankshaft', a shaped metal bar, connected to an 'axis of crankshaft' which is free to rotate. A point 'P' on the crankshaft has a downward 'force F' applied to it. The perpendicular distance from P to the axis of crankshaft is labeled as '0.050 m'. An arrow indicates the 'direction of rotation'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Pressure & Forces",
+      "Atmospheric pressure",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by the moment of a force.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The crankshaft is horizontal. Calculate the moment of F about the axis of the crankshaft.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The size and direction of the vertical force F, acting on the crankshaft at P, remain constant. Explain why the moment of F decreases as the crankshaft rotates through a small angle.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The force F on the crankshaft at P is exerted by a metal rod connected to a piston. The piston traps high-pressure gas in a cylinder, as shown in Fig. 11.2. The force F, of 8200N, acts because the high-pressure gas pushes down on the piston. The air pressure outside the cylinder is 1.0 × 10⁵ Pa and the cross-sectional area of the piston is 0.0067 m².",
+        "image": "Fig. 11.2 shows a cross-section of a cylinder with a 'piston' inside. Above the piston is 'high-pressure gas'. A 'metal rod' extends downwards from the piston, connected to point 'P'. A downward 'force F' is indicated acting at P, representing the force transmitted from the piston. The cylinder itself is labeled, showing the confinement of gas."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the minimum value of the pressure of the gas in the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest why, in practice, the pressure of the gas in the cylinder is greater than the value calculated in (i).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The piston moves in the cylinder and the gas expands. State and explain what happens to the force F.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Explain, in molecular terms, why heating a gas at constant volume causes its pressure to increase.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "QuestionNumber": "October-November/31/2020/Q1",
+    "Question_text": "In this experiment you will investigate the images in mirrors. You are provided with: • a pair of mirrors joined together • a small piece of modelling clay • a sheet of paper • a protractor. Place the piece of modelling clay between the mirrors. Adjust the angle between the mirrors until you see the object plus four reflected images of the object. The images must be equally spaced as shown in Fig. 1.1.",
+    "image": "A top-down view diagram showing two plane mirrors joined at an angle to form a V-shape. A small spherical object, labeled 'modelling clay (object)', is placed in the space between the mirrors. Several reflected images of the object are visible within the mirrors, arranged symmetrically and appearing equally spaced. The reflective surfaces are labeled 'mirror'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure the angle θ between the mirrors. angle θ = __________ ° [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how to investigate the relationship between the number of reflected images and the angle θ. [4]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2020/Q2",
+    "Question_text": "In this experiment you will investigate the height gained by a mass held in the jaws of a clamp. You are provided with: • a mass and thread • a stand, boss and clamp • a 30 cm ruler or a half-metre rule. The supervisor has set up the apparatus as shown in Fig. 2.1. The mass is resting on the base of the stand. Rotate the screw so that the jaws of the clamp begin to close together. Stop rotating the screw when the mass is approximately 1.0mm above the base of the stand.",
+    "image": "A diagram showing a retort stand with a boss and a clamp attached to its vertical rod. The clamp has a screw mechanism. A thread hangs from the clamp, and a mass is attached to the end of the thread, resting on the base of the stand. Labels indicate 'screw' at the top of the clamp, 'thread' hanging from the clamp, and 'mass' at the bottom.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Gravitational Potential Energy",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe a method for determining when the screw has rotated through exactly one complete revolution. [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Determine the vertical height h gained by the mass when the screw rotates through two complete revolutions. h = __________ mm [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how you determined the vertical height gained by the mass. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The horizontal distance k between the stand and the thread is shown in Fig. 2.2. Measure k. k = __________ [1]",
+        "image": "A diagram of the apparatus from Fig. 2.1, showing a retort stand with a screw clamp, a thread, and a mass. An arrow indicates the horizontal distance 'k' between the vertical rod of the stand and the hanging thread."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Continue to rotate the screw and observe what happens to h and k. Explain why the vertical height gained h is not constant every time the screw is rotated through two revolutions. [1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2020/Q3",
+    "Question_text": "In this experiment you will investigate the balancing of a beam using three masses. You are provided with: • a metre rule • a rod to act as a pivot • a stand and boss • a 30 cm ruler. The supervisor has set up the apparatus shown in Fig. 3.1. (The metre rule may not be horizontal.) You are also provided with one small, one medium and one large mass. The masses are attached to loops of thread so that they may be suspended from the metre rule, as shown in Fig. 3.2.",
+    "image": "Fig. 3.1: A diagram showing a retort stand with a boss supporting a rod which acts as a pivot. A metre rule is balanced horizontally on this pivot. The left end of the rule is marked 'zero mark'. The base of the stand rests on a surface labeled 'bench'. Labels point to 'stand', 'rod acting as a pivot', and 'metre rule'. Fig. 3.2: A diagram illustrating how a mass is suspended from a metre rule using a loop of thread. A label indicates 'one end of metre rule' and another points to '-loop of thread' which holds a 'mass'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suspend the large mass at the 25.0cm mark on the metre rule to the left of the pivot. Suspend the medium mass at the 75.0cm mark on the metre rule to the right of the pivot. Suspend the small mass on the end of the metre rule to the right of the pivot. Adjust the position of the small mass so that the metre rule is balanced horizontally. Record the reading on the metre rule at the position of the thread holding the small mass. position of the thread holding the small mass = __________ cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Keep the small mass in the same position as recorded in (a). Move the large mass to the 20.0cm mark on the metre rule to the left of the pivot. Adjust the position of the medium mass so that the metre rule is balanced in the horizontal position. Determine: the distance L moved by the large mass L = __________ cm [1] the distance M moved by the medium mass. M = __________ cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the weight W_m of the medium mass using the equation W_m = 0.50 L / M. W_m = __________ N [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe how you ensure that the metre rule is horizontal. [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Remove all the masses from the metre rule. Suspend the medium mass on the metre rule to the left of the pivot. Suspend the small mass on the metre rule to the right of the pivot. Adjust the position of both masses so that the metre rule is balanced horizontally. Determine: the distance d_m from the pivot to the thread holding the medium mass d_m = __________ the distance d_s from the pivot to the thread holding the small mass. d_s = __________ Calculate d_m / d_s. d_m / d_s = __________ [1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2020/Q4",
+    "Question_text": "In this experiment you will investigate the resistance of a solution. You must wear safety goggles for parts (a) and (b). You are provided with: • a power supply • a beaker of water with two wooden rods wrapped in wire • a voltmeter • an ammeter • a switch • connecting leads. The supervisor has set up the apparatus shown in Fig. 4.1. You are also provided with: • a small beaker containing salt solution • a syringe • a stop-watch • a stirring rod.",
+    "image": "A circuit diagram showing a power supply connected in series with a switch and an ammeter (labeled 'A'). The circuit then connects to two vertical wooden rods, each wrapped with wire, which are immersed in a beaker containing water. The beaker is placed on a 'bench'. Labels indicate 'power supply', 'A' for ammeter, 'wooden rod', 'beaker', 'water', and 'bench'. The positive terminal of the power supply is connected to the switch.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Connect the voltmeter across the terminals of the power supply. Record the voltage reading V on the voltmeter. V = __________ V [1] Remove the voltmeter from the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Use the syringe to add 1.0cm³ (1.0ml) of the salt solution to the water in the beaker and stir gently. Close the switch. After one minute, record the current reading I on the ammeter. Give the unit. Open the switch immediately. I = __________ [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The resistance R of the solution is given by the equation: R = V/I. Calculate R. Give your answer in KΩ. R = __________ KΩ [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "In Table 4.1 on page 10, record the volume X of salt solution added and your readings and calculation from (a)(i), (ii) and (iii). Add appropriate headings with units to the table. [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Describe how to use the syringe to add exactly 1.0cm³ of the salt solution to the water in the beaker. [2]",
+        "image": null
+      },
+      {
+        "part_label": "a(vi)",
+        "part_text": "Suggest why the reading on the ammeter is recorded one minute after the salt solution is added to the water in the beaker. [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Continue the investigation. Repeat a(ii) and a(iii) until you have added a total of 8.0cm³ (8.0ml) of the salt solution to the beaker. Assume that the voltage V across the terminals of the power supply recorded in (a)(i) remains unchanged throughout the investigation. Record your readings and calculations in Table 4.1. [2]",
+        "image": "An empty table, titled 'Table 4.1', with multiple rows and columns provided for recording experimental data, including readings and calculations."
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid on page 11, plot a graph of the current I on the y-axis against the volume X of salt solution added on the x-axis. Draw the straight line of best fit. [4]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Determine the gradient of the line of best fit. Show your working. Give your answer to an appropriate number of significant figures. gradient = __________ [2]",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,360 @@
+[
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q1",
+    "Question_text": "A jet ski is a type of boat that carries one or two people and travels at high speed on water. Fig. 1.1 shows a student riding on a jet ski. A high-speed jet of water is forced backwards out of the back of the jet ski by a pump inside the jet ski.",
+    "image": "Fig. 1.1 shows a side view of a person riding a jet ski on water. An arrow indicates 'direction of movement' towards the right. A 'jet of water' is expelled from the back of the jet ski towards the left. Key labels are 'jet ski' and 'jet of water'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Momentum",
+      "Impulse",
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Resultant Forces",
+      "Speed & Velocity",
+      "Acceleration",
+      "Kinetic Energy",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The pump increases the momentum of the water that is forced backwards out of the back of the jet ski. Complete the word equation to show the relationship between the resultant force on an object and the change in momentum of the object. resultant force =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "In 2.0s, the pump increases the backwards speed of 180 kg of water by 30m/s. Calculate the backwards force exerted on the water.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using Newton's third law of motion, explain why there is a forwards force on the jet ski.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student has a mass of 70kg and the jet ski has a mass of 280 kg. Use your answer from (a)(ii) to determine the acceleration of the student and jet ski when no resistive forces are acting.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The jet ski reaches a speed of 20 m/s. Calculate the total kinetic energy of the student and jet ski at this speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q2",
+    "Question_text": "A glass beaker of mass m is at rest on a horizontal surface. The base of the beaker is a circle with a radius r.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Mass & Weight",
+      "Distance-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The beaker exerts a pressure on the horizontal surface. Determine an expression for the pressure in terms of the gravitational field strength g, m and r.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 2.1 shows the beaker being filled with a liquid from container X. Initially, the beaker is empty. At time t = 0, the tap is opened and liquid from container X flows slowly into the beaker at a constant rate. At time t = T, the liquid stops flowing into the beaker. Sketch on Fig. 2.2 to show how the pressure exerted on the horizontal surface varies between t = 0 and t = 2T.",
+        "image": "Fig. 2.1 is a diagram showing a beaker being filled with liquid from a container X via a tap. The beaker is on a 'horizontal surface'. Labels include 'beaker', 'tap', 'container X', and 'horizontal surface'. Fig. 2.2 is a blank graph with y-axis 'pressure' and x-axis 't'. The x-axis is marked with 0, T, and 2T. A point (0,0) is marked on the graph."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q3",
+    "Question_text": "Fig. 3.1 shows a laboratory freezer. The door is closed and the freezer is switched on. A cold liquid is pumped through the copper pipe at the top of the freezer. The temperature of the air next to the copper pipe decreases quickly.",
+    "image": "Fig. 3.1 shows a cutaway diagram of a laboratory freezer. A 'copper pipe' is located at the top inside. The walls of the freezer are thick and labeled 'thick insulation'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection",
+      "Thermal Conduction",
+      "Consequences of Thermal Energy Transfer",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how the temperature of the rest of the air in the freezer decreases.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The thick insulation shown in Fig. 3.1 is made from a plastic material. The plastic material in the insulation is a poor thermal conductor. Describe how thermal energy is transferred through a plastic material.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The plastic material also contains a large number of small air bubbles. Explain how the air bubbles reduce the transfer of thermal energy through the insulation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q4",
+    "Question_text": "Fig. 4.1 shows a large syringe that is sealed at the nozzle by wax. There is a piston inside the syringe. The pressure of the air inside the syringe is equal to atmospheric pressure, 1.0 × 10⁵ Pa. The volume of the air inside the syringe is 1.2 × 10⁻⁴ m³. The area of the end of the piston that is in contact with the air is 3.5 × 10⁻³ m². The friction between the piston and the syringe is negligible.",
+    "image": "Fig. 4.1 shows a cross-section of a syringe. The left end is sealed by 'wax' in the 'nozzle'. A 'piston' is inside, with its 'face of piston' interacting with 'air' inside the syringe. Labels include 'syringe', 'nozzle', 'wax', 'air', 'face of piston', 'piston'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Atmospheric pressure",
+      "Resultant Forces",
+      "Newton's First Law",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the force on the piston due to the pressure of the air inside the syringe.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The force on the piston in (a)(i) acts to the right. Explain why the piston does not move to the right.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The piston is now pulled to the right by an additional force. The temperature of the air in the syringe does not change. Explain, in terms of particles, why the pressure of the air in the syringe decreases.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the pressure of the air inside the syringe when the volume of the air is 1.5 x 10⁻⁴ m³.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q5",
+    "Question_text": "Some glass lenses are converging lenses, and others are diverging lenses.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw the cross-section of a diverging lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 5.1 shows the cross-section of a converging lens, the principal axis and the two principal focuses (focal points) F₁ and F2 on a full-scale grid. A student places an object of height 2.1 cm at a distance of 3.0 cm from the centre of the lens. Using Fig. 5.1, determine the focal length of the lens.",
+        "image": "Fig. 5.1 shows a converging lens drawn on a grid. A horizontal 'principal axis' passes through the center of the lens. Two principal focuses, 'F1' and 'F2', are marked on the axis, equidistant from the lens. A scale indicates '1 cm' for grid squares."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 5.1, draw a vertical arrow of height 2.1 cm that is 3.0 cm from the centre of the lens and label the arrow O. The arrow is the object.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "On Fig. 5.1, draw two rays from the tip of the object arrow to find the tip of the image. Draw another arrow to show the image.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Using the image marked on Fig. 5.1 in (b)(iii), determine the linear magnification produced.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "Explain whether the image of the object is real or virtual.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q6",
+    "Question_text": "Fig. 6.1 shows the circuit symbol for a relay and two labelled terminals. The heater transfers energy at a rate of 40W when it is connected to a 12V supply.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Electromagnetic Induction",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Resistance",
+      "Electrical Power",
+      "Electrical Energy",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "By referring to Fig. 6.1, explain the effect of a current passing from A to B.",
+        "image": "Fig. 6.1 shows a circuit symbol for a relay. It consists of a 'magnetising coil' with terminals 'A' and 'B', and a 'relay switch' which is a normally open switch."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 6.2 shows two circuits linked by a relay. Switch S is closed. The variable resistor is adjusted so that its resistance R increases from 0. Fig. 6.3 shows how the power transferred in the 40W heater varies as R increases from 0. The graph shows a sharp decrease when the resistance R reaches RH. Explain the shape of the graph in Fig. 6.3.",
+        "image": "Fig. 6.2 shows two circuits linked by a relay. The primary circuit has a 'variable resistor' and a 'switch S' connected to a 'magnetising coil' of the relay. The secondary circuit has a '12V' supply connected to a 'heater' through the 'relay switch'. Fig. 6.3 is a graph with y-axis 'power/W' (0, 20, 40) and x-axis 'R' (0, RH). The graph shows power is constant at 40W from R=0 up to RH, and then sharply drops to 0 at RH and beyond."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The 40W heater connected to the 12V supply is switched on. Calculate: the energy transferred in the heater in 2.0 minutes",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate: the resistance of the heater.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q7",
+    "Question_text": "The frequency of an alternating current mains electricity supply is 50 Hz. The maximum voltage of the supply is 300 V.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromotive Force & Potential Difference",
+      "Transformers",
+      "Transformer Calculations",
+      "Electromagnetic Induction",
+      "Magnetic Effect of a Current",
+      "Magnetic Fields",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Using the axes in Fig. 7.1, sketch a graph to show how the voltage of the supply varies in a time of 0.05 s.",
+        "image": "Fig. 7.1 is a blank graph with y-axis 'voltage/V' (from -400 to 400) and x-axis 'time/s' (from 0 to 0.05). The x-axis is marked with 0, 0.01, 0.02, 0.03, 0.04, 0.05."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 7.2 shows the mains power supply connected to the primary coil of a transformer. The primary coil consists of 750 turns. The core of the transformer is made from iron. Explain why iron is a suitable material for the core of the transformer.",
+        "image": "Fig. 7.2 is a diagram of a transformer. It shows a rectangular 'iron core' with a 'primary coil' on the left and a 'secondary coil' on the right. The 'mains supply' is connected to the primary coil."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why there is a voltage across the secondary coil.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "There are 60 turns on the secondary coil. Calculate the maximum value of the voltage across the secondary coil.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q8",
+    "Question_text": "The isotope thorium-230 (²³⁰Th) decays by alpha particle (α-particle) emission.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "Half-Life",
+      "Electric Fields",
+      "Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe the composition of an α-particle.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the name of the particle that is identical in composition to an α-particle.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The α-particle decay of thorium-230 produces an isotope of radium. Deduce: the number of neutrons in a neutral atom of this isotope of radium",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Deduce: the number of electrons in a neutral atom of this isotope of radium.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The half-life of thorium-230 is 75000 years. A radioactive sample contains 7.2 × 10¹⁶ thorium-230 atoms. Determine the time it takes for the number of thorium-230 atoms to decrease to 9.0 × 10¹⁵.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "When it decays, thorium-230 also emits gamma radiation (γ-radiation). Fig. 8.1 shows a narrow beam of γ-radiation passing into an electric field. On Fig. 8.1, sketch the path of the γ-radiation in the electric field.",
+        "image": "Fig. 8.1 shows a narrow beam labeled 'beam of γ-radiation' entering an electric field, represented by positive charges (+) at the top and negative charges (-) at the bottom, indicating 'electric field direction' downwards."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Fig. 8.2 shows the electric field replaced with a magnetic field that is directed into the page. On Fig. 8.2, sketch the path of the γ-radiation in the magnetic field.",
+        "image": "Fig. 8.2 shows a narrow beam labeled 'beam of γ-radiation' entering a region with a magnetic field, represented by crosses (X) indicating 'magnetic field into the page'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/2024/Q9",
+    "Question_text": "The Earth has a radius of 6.4 × 10⁶ m and rotates on its axis once in every 24 hours.",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "The Earth, Moon & Sun",
+      "Calculating Orbital Speeds",
+      "Orbiting Bodies",
+      "Gravitational Effects on Orbits",
+      "Circular Motion",
+      "Speed & Velocity",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Fig. 9.1 shows that as the Earth rotates, objects on the surface of the Earth move in circular paths around the axis of rotation. Calculate the speed of an object at the equator as it moves in a circular path around the axis of rotation.",
+        "image": "Fig. 9.1 shows a globe representing the Earth. The 'axis of rotation' is tilted. The 'equator' is marked, and a dashed line indicates 'distance from equator' for an arbitrary point on the surface, moving in a circular path."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the speed around the axis of rotation of an object on the Earth decreases as the distance of the object from the equator increases.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The Earth moves around the Sun because a force acts on the Earth. State what provides this force.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The orbit of the Earth around the Sun is an ellipse. Describe what happens to the magnitude of the force that acts on the Earth as it moves in this elliptical orbit.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain why the Earth travels the slowest when it is at its furthest distance from the Sun.",
+        "image": null
+      }
+    ]
+  }
+]

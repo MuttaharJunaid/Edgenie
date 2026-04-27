@@ -1,0 +1,430 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q1",
+    "Question_text": "A builder needs to determine the density of a solid cube of wood. He places the 50 cm mark of a uniform metre rule on a pivot, so that the rule balances. He then places the cube on the rule with its centre of gravity directly above the 75cm mark. A mass of 0.050 kg is moved along the rule until balance is restored. This is shown in Fig. 1.1. The rule is balanced when the 0.050kg mass is at the 10cm mark.",
+    "image": "A diagram (Fig. 1.1) showing a uniform metre rule balanced on a pivot at the 50 cm mark. A cube is placed on the rule with its center of gravity directly above the 75 cm mark. A 0.050 kg mass is suspended from the 10 cm mark. The rule is shown in a balanced horizontal position. The rule is marked with 0 cm, 10 cm, 50 cm, 75 cm, and 100 cm.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Moments",
+      "Centre of Gravity",
+      "Equilibrium",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the mass of the cube.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The cube has a volume of 1.6 × 10–4 m³. Determine the density of the wood.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q2",
+    "Question_text": "Fig. 2.1 shows a skier of mass 85kg skiing down a very steep slope. The skier starts from rest at the top T of the slope. The force of gravity accelerates him down the slope. When he reaches the bottom B of the slope, his kinetic energy is 5.5 × 10⁴ J.",
+    "image": "A diagram (Fig. 2.1) illustrating a skier on a steep slope. Point T is at the top of the slope, and point B is at the bottom. The slope then flattens, and a horizontal distance of 33 m is indicated between point B and point P, where the skier comes to a stop.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Work",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The gravitational field strength is 10N/kg. Calculate the weight of the skier,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the minimum possible difference in height between T and B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "At B, the skier digs his skis into the snow and stops at the point P after travelling 33m horizontally. Calculate the average horizontal force that acts on the skier between B and P.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q3",
+    "Question_text": "A helium balloon carries scientific instruments high up in the atmosphere. Fig. 3.1 shows the partially inflated helium balloon leaving the ground.",
+    "image": "A diagram (Fig. 3.1) depicting a large, partially inflated helium balloon connected to a vehicle (possibly a truck or launch platform) on the ground.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Gases & Absolute Temperature",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A completely deflated balloon contains no gas. The helium to inflate it is stored in a very large cylinder at a pressure p₁ of 2.5 × 10⁷ Pa. Helium that occupies a volume V₁ of 18m³ in the cylinder is slowly released into the balloon until the pressure p₂ in the balloon is 1.0 × 10⁵ Pa. The temperature of the helium remains constant. State the equation that relates the volume V₂ of the helium in the balloon at launch to p₁, p₂ and V₁.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate V₂.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When it leaves the ground, the balloon is only partially inflated. Suggest and explain why this is necessary.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q4",
+    "Question_text": "Fig. 4.1 represents a microwave travelling in air through points A and B. The distance between A and B is 40 cm.",
+    "image": "A transverse wave diagram (Fig. 4.1) showing a microwave travelling. The horizontal axis is labelled 'distance'. Point A is at a trough (minimum displacement). Point B is at the next crest (maximum positive displacement) after one full wavelength from A, indicating that the distance from A to B spans 1.5 wavelengths.",
+    "Unit": "Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the speed of microwaves in air.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Determine the wavelength of the microwave shown in Fig. 4.1.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe how microwaves are used in the transmission of television signals by satellite.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State two properties common to all electromagnetic waves.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q5",
+    "Question_text": "Fig. 5.1 shows part of an electric bell. A switch and a cell are in series with a length of wire coiled around an iron core. The switch is closed and the current in the wire produces a south pole S and a north pole N at the ends of the core, as shown in Fig. 5.1. Magnetic poles are also produced in a small iron bar, placed near to the ends of the core.",
+    "image": "A diagram (Fig. 5.1) of an electromagnet consisting of a U-shaped iron core wrapped with wire coils. A switch and a cell are connected in series with the coils. The ends of the U-shaped core are labeled S (left) and N (right), indicating their magnetic polarity when current flows. An iron bar is positioned between the open ends of the U-shaped core.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 5.1, mark with an N the position of the north pole produced in the iron bar and mark with an S the position of the south pole produced in the iron bar.",
+        "image": "The diagram from Fig. 5.1, requiring the addition of N and S labels to the iron bar to indicate induced magnetic poles."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State and explain what happens to the iron bar once it is magnetised.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The switch is opened and there is no current in the wire. State what happens to the magnetic poles in the iron bar.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q6",
+    "Question_text": "An electrical engineer measures the potential difference across a length of metal wire and the current in the wire. He does this for different values of the current.",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Draw a labelled circuit diagram of a circuit that enables the engineer to do this.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the circuit is used.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State the equation that defines resistance.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The engineer performs the experiment and notices that the potential difference across the wire is directly proportional to the current in it. He calculates the resistance of the wire and plots a graph of the resistance against the current. On Fig. 6.1, sketch the shape of this graph.",
+        "image": "An empty graph (Fig. 6.1) with the y-axis labelled 'resistance' and the x-axis labelled 'current'. The axes intersect at the origin (0,0), and the graph requires a sketch to be drawn on it."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q7",
+    "Question_text": "The current in the transmission line used to supply electrical power to a village is 65 A. The power is transmitted at a voltage of 23000V.",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Electrical Safety"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the power supplied to the village.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The transmission line has a resistance of 3.0Ω. Calculate the potential difference across a 3.0Ω resistor that carries a current of 65 A,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the thermal energy (heat) produced in 1.0s in a 3.0Ω resistor that carries a current of 65 A.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State one advantage of transmitting electrical power at a high voltage.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest one reason why the mains power supply to the houses in the village is at a voltage much lower than 23000V.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q8",
+    "Question_text": "Fig. 8.1 shows a short-sighted eye. Rays of light from a distant star are parallel as they reach the lens of the eye. Refraction of light as it enters the eye has been ignored in Fig. 8.1.",
+    "image": "A diagram (Fig. 8.1) illustrating a short-sighted eye. Parallel rays of light enter the eye and are shown converging before the retina, implying a blurred image on the retina.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 8.1, continue the rays to show their paths inside the short-sighted eye until they strike the retina.",
+        "image": "The diagram from Fig. 8.1, requiring the light rays to be continued to show their path inside the short-sighted eye to the retina."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how your diagram shows that the image of the star seen by the observer is blurred.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 8.2 shows three parallel rays of light. On the line P in Fig. 8.2, draw the shape of a lens that is used to correct short sight.",
+        "image": "A diagram (Fig. 8.2) showing three parallel horizontal rays of light. A vertical dashed line labelled 'P' is placed to the right of the rays, indicating the position where a lens should be drawn."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 8.2, continue the three rays through the lens that you have drawn.",
+        "image": "The diagram from Fig. 8.2, requiring the three parallel light rays to be continued through the lens drawn in part b(i)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q9",
+    "Question_text": "Fig. 9.1 is the speed-time graph for a racing car of total mass 650kg as it sets off from rest at the start of a race. The car travels in a straight line until time t = 9.0 s.",
+    "image": "A speed-time graph (Fig. 9.1) for a racing car. The y-axis represents 'speed m/s' (from 0 to 80), and the x-axis represents 'time/s' (from 0 to 10). The graph shows a straight line originating from (0,0) and rising to approximately (9.0s, 70m/s), indicating constant acceleration.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration",
+      "Speed & Velocity",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Newton's Second Law",
+      "Resultant Forces",
+      "Circular Motion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the speed of the car at time t = 9.0 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate, for the car between times t = 0 and t = 9.0s, the distance travelled,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the acceleration of the car,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "the resultant force acting on the car.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The acceleration of the car is constant between t = 0 and t = 9.0 s. Suggest and explain why the driving force on the car must increase to keep the acceleration constant.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "After t = 9.0s, the car starts to turn a corner and follows a circular path at constant speed. Explain why the car is accelerating even though its speed is constant.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State the direction of this acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "State and explain what causes the car to accelerate as it turns the corner.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q10",
+    "Question_text": "A lead bullet of mass 1.9g is fired from a rifle in a sports club. The bullet misses the target and embeds itself in a wall behind the target. The bullet melts as it is stopped by the wall. The specific latent heat of fusion of lead is 2.2 × 10⁴ J/kg.",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Kinetic Energy",
+      "States of Matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by melting point.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the energy required to melt the bullet, at its melting point, without raising its temperature.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Assume that the energy that melts the bullet is equal to its kinetic energy just before it strikes the wall. Calculate the speed of the bullet just before it strikes the wall.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest two reasons why the speed of the bullet as it leaves the rifle is greater than the value calculated in (ii).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe how the molecular structure of the lead changes as it melts.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "On another occasion, lead bullets of twice the mass are used. One of these heavier bullets hits the wall with the speed calculated in (b)(ii). State and explain whether this bullet melts as it is stopped by the wall.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q11",
+    "Question_text": "Fig. 11.1 illustrates a neutron hitting a uranium-235 nucleus. The uranium-235 nucleus splits into a nucleus of barium (Ba) and a nucleus of krypton (Kr) and three neutrons are released.",
+    "image": "A diagram (Fig. 11.1) illustrating nuclear fission. A neutron is shown colliding with a uranium-235 nucleus, causing it to split into a krypton nucleus, a barium nucleus, and three smaller neutrons.",
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "Half-Life",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of this process.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "This process may be represented by a nuclear equation. An incomplete version of this equation is shown below. ²³⁵₉₂U + ¹₀n → ⁵⁶Ba + ⁹²Kr + 3 ¹₀n",
+        "image": null
+      },
+      {
+        "part_label": "b(i)1",
+        "part_text": "Calculate the number of neutrons in a nucleus of uranium-235,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)2",
+        "part_text": "the proton number (atomic number) of krypton,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)3",
+        "part_text": "the nucleon number (mass number) of the barium nucleus.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "During this process, there is a decrease in mass. Energy is released. The decrease in mass is 3.1 × 10⁻²⁸ kg and the speed of light is 3.0 × 10⁸ m/s. Calculate the energy released in this process.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A nuclear power station generates electrical energy. In the power station, steam is used to drive a turbine. Describe how the splitting of uranium-235 is used to produce the steam. You may include a block diagram.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Some of the waste products from a nuclear power station are radioactive and have very long half-lives. State the meaning of half-life.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Describe one safety precaution that is taken when radioactive waste products are handled.",
+        "image": null
+      }
+    ]
+  }
+]

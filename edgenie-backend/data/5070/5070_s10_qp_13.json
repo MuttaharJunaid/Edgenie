@@ -1,0 +1,443 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "The diagram shows a simple laboratory apparatus for the preparation and collection of a dry gas. What is the gas?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Changes of state in kinetic particle theory"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "What correctly describes the molecules in very dilute sugar solution at room temperature?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Structures of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A mixture containing equal volumes of two liquids that mix completely but do not react together is placed in the apparatus shown and heated until the thermometer first shows a steady reading. At which position will there be the highest proportion of the liquid with the higher boiling point?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Which is an anion that is present in the solution formed when an excess of dilute hydrochloric acid is added to calcium carbonate?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction",
+      "Neutralisation equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Which graph shows the number of electrons in the outer shell of an atom, plotted against the proton (atomic) number for the first ten elements in the Periodic Table?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A metal consists of a lattice of positive ions in a 'sea of electrons'. What changes, if any, take place to the electrons and positive ions in a metal wire when an electric current is passed through it?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Which pair of elements, when combined together, do not form a covalent compound?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The diagram shows the structure of a covalent compound containing the element hydrogen, H, and the unknown elements X, Y and Z. To which groups of the Periodic Table do these three elements, X, Y and Z, belong?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Two different hydrocarbons each contain the same percentage by mass of hydrogen. It follows that they have the same",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural isomers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "What is the mass of one mole of carbon-12?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "The diagram shows the electrolysis of a concentrated aqueous solution containing both copper(II) ions and sodium ions. Which metal is deposited at the negative electrode and why?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products at cathode and anode"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "The diagram shows the apparatus used to electrolyse lead(II) bromide using inert electrodes. Why does the lamp light up only when the lead(II) bromide is melted?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products for molten binary compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "When a solution containing silver ions is added to a solution containing iron(II) ions, an equilibrium is set up. The addition of which substance would not affect the amount of silver precipitated?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Equilibrium in closed system"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Which reaction does not involve either oxidation or reduction?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox reactions definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "A student performs two reactions. reaction 1 10g of magnesium ribbon with excess 2.0mol/dm³ dilute hydrochloric acid reaction 2 5g of magnesium powder with excess 2.0mol/dm³ dilute hydrochloric acid In both experiments, the volume of hydrogen produced, V, is measured against time, t, and the results plotted graphically. Which set of graphs is correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which statement about catalysts is correct for a typical equilibrium reaction?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Catalyst effect"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Which pair of compounds could be used in the preparation of calcium sulfate?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Titration of an acid against a base is a method often used in the preparation of salts. Which properties of the acid, the base and the salt are required if this method is to be used?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "A metal reacts with dilute hydrochloric acid to produce a gas. What is used to identify this gas?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "The oxide of an element X increases the rate of decomposition of hydrogen peroxide. At the end of the reaction the oxide of X is unchanged. Which details are those of X?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Catalyst effect"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which element is sodium?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Which row shows the correct number of protons and electrons in the ion of an element in Group II of the Periodic Table?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "The diagram shows part of the Periodic Table. Which pair of letters represents elements that are in the same period?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Periodic Table arrangement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "From your knowledge of the manufacture of both aluminium and iron, what is the order of chemical reactivity of aluminium, carbon and iron towards oxygen?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "An alloy of copper and zinc is added to an excess of dilute hydrochloric acid. Which observations are correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.3 Alloys and their properties",
+    "Sub_topic": [
+      "Alloy definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "In the extraction of iron, carbon monoxide acts as",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Extraction of iron"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which substances react together to give hydrogen?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Reactions with water, steam and acid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "The diagram shows apparatus for measuring the volume of hydrogen given off when an excess of dilute hydrochloric acid is added to powdered metal. The volume of gas is measured at room temperature and pressure. The experiment is carried out three times, using the same mass of powder each time but with different powders: pure magnesium pure zinc a mixture of magnesium and zinc Which powder gives the greatest volume of hydrogen and which the least volume?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Practical methods for rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Which gas burns in air to form only one product?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Why is carbon used in the purification of drinking water?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Which compound will not produce ammonia when heated with ammonium sulfate?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "These reactions are used in the manufacture of sulfuric acid. Which reactions are speeded up by using a catalyst?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Catalyst effect"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Which substances will burn in air and give carbon dioxide amongst the combustion products?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Hydrocarbons definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "The two statements are about the fractional distillation of crude oil. The statements may or may not be correct. They may or may not be linked. What is correct about these two statements?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fractional distillation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "When butanol, represented by C4HWOH, burns in air, carbon dioxide and water are formed. Which values of w, x and y balance the equation?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "An aqueous solution of a compound of formula C2H4O2 reacts with sodium carbonate, liberating carbon dioxide. What is the structural formula of the compound?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "How does the number of carbon, hydrogen and oxygen atoms in an ester differ from the total number of carbon, hydrogen and oxygen atoms in the alcohol and carboxylic acid from which the compound was derived?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reaction with alcohol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "The list shows three chemical reactions. In which reactions is water a product?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Combustion of alcohols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "The diagram shows a reaction scheme. What is the final compound, Z?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Uses of ethanol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "The macromolecules of proteins, fats and carbohydrates can all be broken down into their simple units by a similar process. What is the process called?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Proteins as polyamides"
+    ],
+    "Parts": []
+  }
+]

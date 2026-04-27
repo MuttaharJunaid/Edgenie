@@ -1,0 +1,471 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2012/Q1",
+    "Question_text": "A manufacturer measures accurately the dimensions of a wooden floor tile. The approximate dimensions of the tile are shown. Which instruments are used to measure accurately each of these dimensions?",
+    "image": "An isometric drawing of a rectangular wooden tile with dimensions labeled: length 0.4 m, width 0.08 m, thickness 0.005 m. The longest side is 0.4 m, the medium side is 0.08 m, and the shortest side (thickness) is 0.005 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q2",
+    "Question_text": "Which pair of quantities includes one scalar and one vector?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q3",
+    "Question_text": "The speed-time graph represents the journey of a car. The dots separate different sections of the journey. There are six different sections. How many sections represent the car moving with non-uniform acceleration?",
+    "image": "A speed-time graph showing speed on the y-axis and time on the x-axis. The graph starts at (0,0) and proceeds through six distinct sections, marked by dots. The line segments between dots are curved or straight. Non-uniform acceleration implies a curved line segment on a speed-time graph.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q4",
+    "Question_text": "A steel ball is released just below the surface of thick oil in a cylinder. During the first few centimetres of travel, what is the acceleration of the ball?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q5",
+    "Question_text": "A hard stone hits the ground and comes to rest almost immediately. As the stone hits the ground, what is the direction and the size of the force acting on the ground?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q6",
+    "Question_text": "A car of mass 1500 kg is towing a trailer of mass 1100 kg along a level road. The acceleration of the car is 1.30 m/s². Ignoring friction and air resistance, what is the driving force on the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q7",
+    "Question_text": "A beam pivoted at one end has a force of 5.0 N acting vertically upwards on it as shown. The beam is in equilibrium. What is the weight of the beam?",
+    "image": "A diagram showing a horizontal beam pivoted at its left end. An upward force of 5.0 N is applied at 2.0 cm from the pivot. The weight of the beam, acting downwards, is positioned at 3.0 cm from the pivot, labeled 'weight of beam'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q8",
+    "Question_text": "Four objects of equal mass rest on a table. The centre of mass of each object is labelled G. Which object is the least stable?",
+    "image": "Four diagrams of different geometric shapes (A: triangle, B: tall rectangle, C: wide rectangle, D: trapezoid) resting on a surface. The centre of mass 'G' is marked in each. The relative height of 'G' and the width of the base determine stability.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q9",
+    "Question_text": "A 100 g mass is suspended from a spring next to a vertical metre rule. The top of the spring is level with the 0.0 cm mark. The bottom of the spring is level with the 27.2 cm mark. The 100 g mass is replaced with a 600 g mass. The length of the spring is now 89.7 cm. The spring has not reached the limit of proportionality. The 600 g mass is replaced with a 200 g mass. What is the length of the spring?",
+    "image": "A diagram showing a spring suspended vertically, with a 100 g mass attached to its bottom. A metre rule is placed next to the spring, where the top of the spring aligns with 0.0 cm and the bottom of the mass aligns with 27.2 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q10",
+    "Question_text": "A block of metal is taken from the Earth to the Moon. Which property of the block changes?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q11",
+    "Question_text": "The diagram shows a mercury manometer connected to a gas container. The density of mercury is 13600 kg/m³. The gravitational field strength g is 10N/kg. What is the pressure difference between the gas in the container and the atmosphere?",
+    "image": "A U-tube manometer containing mercury. The left arm is open to the atmosphere, and the right arm is connected to a gas container. The mercury level in the left arm is at 0.600 m from the bottom of the U-bend, and in the right arm it is at 0.200 m from the bottom of the U-bend. The difference in mercury levels is 0.400 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q12",
+    "Question_text": "A partially-inflated balloon is placed inside a bell jar. The bell jar is connected to an air pump. The air pump is switched on and air is removed from the bell jar. What happens to the pressure and to the volume of the gas inside the balloon?",
+    "image": "A bell jar enclosing a partially-inflated balloon. A tube connects the bell jar to an air pump.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q13",
+    "Question_text": "A ball is held at rest on one side of a curved track. The ball is released. It rolls down one side of the track and part of the way up the other side. It then stops, before rolling back down again. The height of the stopping point is less than that of the starting point. What is the sequence of energy changes between starting and stopping for the first time?",
+    "image": "A curved track with a ball at a high 'starting point' on the left side and a lower 'stopping point' on the right side, indicating energy loss.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q14",
+    "Question_text": "A transformer connected to a 240V mains supply is used to light a 24 W lamp. The input current to the transformer is 0.11A and the input voltage is 240 V. The useful output power of the transformer is 24 W. What is the efficiency of the transformer?",
+    "image": "A circuit diagram showing a transformer connected to an AC supply (240V, 0.11A) on the primary side and a 24 W lamp on the secondary side.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations",
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q15",
+    "Question_text": "A gas is enclosed in a container of fixed volume. It gains heat energy from an external source. What happens to the molecules of the gas?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q16",
+    "Question_text": "Four containers are filled with equal volumes of water at the same temperature. Containers A and B are shaded by a tree. Sunlight falls on containers C and D. From which container does all the water evaporate first?",
+    "image": "A diagram showing four open containers (A, B, C, D) filled with water. A tree shades containers A and B. Sunlight falls on containers C and D. Container B is wider and shallower than A. Container D is wider and shallower than C. Container D has the largest surface area exposed to sunlight.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q17",
+    "Question_text": "A rod of metal is heated at one end. Which statement best describes the conduction of heat through the metal?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q18",
+    "Question_text": "Many gas appliances such as ovens and heaters use a small flame to ignite the main burner. To make sure that the small flame is burning, a temperature-measuring device is inserted into the flame. What is the most suitable device to use?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q19",
+    "Question_text": "A hot liquid is allowed to cool. The graph shows the cooling curve. In which part of the curve is latent heat released?",
+    "image": "A cooling curve graph with temperature on the y-axis and time on the x-axis. The curve shows temperature decreasing (segment PQ), then flattening (segment QR), then decreasing again (segment RS), then flattening again at a lower temperature (segment ST), before decreasing further. A dashed line marks 'room temperature' below segment ST.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q20",
+    "Question_text": "For the same temperature rise and the same original volume, which of the three states of matter expands the most and which state expands the least?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q21",
+    "Question_text": "The speed of radio waves is c. A radio station transmits waves with a wavelength λ. What is the frequency of the transmission?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q22",
+    "Question_text": "Light is incident on a mirror and is reflected as shown. What is the angle of incidence and the angle of reflection?",
+    "image": "A diagram illustrating a light ray incident on a plane mirror and its reflection. The angle between the incident ray and the mirror surface is 80°. A normal line is implicitly perpendicular to the mirror surface.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q23",
+    "Question_text": "Light is incident on one face of a glass block at an angle of incidence of 40°. The glass block is in air. The refractive index of the glass is 1.46. What is the angle of refraction inside the glass block?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q24",
+    "Question_text": "In a short-sighted eye, light from distant objects is not focused on the retina. Where is this light focused and what type of lens is needed to correct the problem?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q25",
+    "Question_text": "Below are four statements about the uses of electromagnetic radiation. Gamma rays are used in medical treatment. Infra-red waves are used in sunbeds. Microwaves are used in satellite television. X-rays are used in intruder alarms. How many of these statements are correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q26",
+    "Question_text": "Two straight electrical conductors are parallel to one another. Each carries a current, one into the plane of the paper and one out of the plane of the paper. Which diagram shows the magnetic field around the two wires?",
+    "image": "Four diagrams illustrating magnetic field lines around two parallel straight electrical conductors. A key explains 'current into plane of paper' (cross) and 'current out of plane of paper' (dot). Each diagram shows two circles representing the wires, with either a cross or a dot. Option A shows one cross and one dot, with field lines suggesting attraction. Option B shows one cross and one dot, with field lines suggesting repulsion. Options C and D show both crosses and both dots respectively, with field lines suggesting repulsion.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Fields Around Parallel Conductors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q27",
+    "Question_text": "A polythene rod is rubbed with a duster. The duster then attracts small pieces of paper. Are the rod and the duster charged or uncharged?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q28",
+    "Question_text": "The voltage/current graph for a filament lamp is shown. The voltage across the lamp increases. What happens to the temperature of the lamp and the resistance of the lamp?",
+    "image": "A graph of voltage (V) on the y-axis against current (A) on the x-axis for a filament lamp. The curve starts from the origin and bends upwards, indicating a non-linear relationship where resistance increases with current/voltage.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q29",
+    "Question_text": "A 12V battery is connected across a parallel arrangement of two resistors. What is the reading on the ammeter?",
+    "image": "A circuit diagram showing a 12V battery connected to a parallel combination of a 6Ω resistor and a 3Ω resistor. An ammeter is placed in the main circuit branch to measure the total current.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q30",
+    "Question_text": "The circuit shown is set up and then all the switches are closed. One switch is now opened and all the lamps are lit. Which switch is opened?",
+    "image": "A circuit diagram containing a battery, four switches (A, B, C, D) and three lamps (indicated by circles with crosses). Switch D is in series with the battery. Switch C is in series with the top-left lamp. Switches A and B are each in parallel with one of the two lamps on the right side of the circuit. When all switches are closed, the lamps parallel to A and B are shorted (off), and the lamp in series with C is on.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q31",
+    "Question_text": "A lamp connected to a 12V supply converts energy at a rate of 36 W. How much energy will be converted in 10s?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q32",
+    "Question_text": "What causes the fuse to blow in a mains electrical circuit?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q33",
+    "Question_text": "A current-carrying wire is placed between the poles of a magnet. What is the direction of the force on the wire due to the current?",
+    "image": "A diagram showing a straight current-carrying wire placed horizontally between the North (N) and South (S) poles of a magnet. The current direction is out of the page. Four arrows (A, B, C, D) indicate possible directions of force: A points up, B points right, C points down, D points left.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q34",
+    "Question_text": "A simple d.c. motor consists of a coil that rotates between the poles of a permanent magnet. The turning effect is increased by winding the coil on a metal cylinder. Which metals are used to make the magnet and the cylinder?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q35",
+    "Question_text": "A current is produced when a wire is moved between two magnets as shown. Which device uses this effect?",
+    "image": "A diagram showing a wire loop (connected to an ammeter 'A') placed within the magnetic field between a North (N) and South (S) pole. An arrow indicates the 'movement of wire' downwards into the field, causing a current to be induced.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q36",
+    "Question_text": "Why is a transformer used to connect a generator in a power station to a long-distance transmission line?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q37",
+    "Question_text": "Which electrical component is used to store charge?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q38",
+    "Question_text": "The radioactive isotope radium-226 may be shown as 226/88 Ra. How many protons does an atom of radium contain?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q39",
+    "Question_text": "When dealing with radioactive materials there are possible dangers. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Dangers of Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2012/Q40",
+    "Question_text": "An isotope X is radioactive and has a half-life of 4 years. A sample initially contains 8000 atoms of X. After how many years will the sample contain 1000 atoms of X?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  }
+]

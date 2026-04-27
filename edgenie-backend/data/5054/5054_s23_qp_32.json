@@ -1,0 +1,190 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2023/Q1",
+    "Question_text": "In this experiment you will measure the capacity of a drinks cup by three different methods. The capacity of a cup is the maximum volume of liquid that it can hold. You are provided with: • a drinks cup with a capacity of approximately 200 cm³ • a 30 cm ruler • a metre rule • approximately 80 cm of thin string • a 250 cm³ measuring cylinder • a supply of water.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Fig. 1.1 shows the measurements to be taken. Measure the height h, the diameter D and the diameter d of the cup provided.",
+        "image": "A diagram, labeled Fig. 1.1, shows a frustum-shaped cup (tapered beaker). The height 'h' is indicated as the vertical distance of the cup. The top diameter is labeled 'D' and the bottom diameter is labeled 'd'. These dimensions (h, D, d) are crucial for calculating the cup's capacity."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the average diameter d_A of the cup using your readings from (a)(i) and the equation: d_A = (D + d) / 2",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate a value for the capacity V_1 of the cup using the equation: V_1 = (π d_A² h) / 4",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "method 2 Use the string and the metre rule to determine the average circumference C of the cup.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe the method you use and show your working. You may draw a diagram, if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate a value for the capacity V_2 of the cup using the equation: V_2 = (C²h) / (4π)",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "method 3 Pour water into the measuring cylinder up to a level that is greater than 200 cm³ and record the volume. This is reading R_1. Pour water from the measuring cylinder into the cup until it is full and record the volume of water left in the measuring cylinder. This is reading R_2. Determine the volume of water V_3 in the cup. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "All three methods of determining the capacity of the drinks cup give values which are approximate. State one reason why the volume calculated in method 2 and one reason why the volume calculated in method 3 are not accurate.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2023/Q2",
+    "Question_text": "In this experiment you will investigate the effective resistance of different combinations of resistors and lamps in circuits. You are provided with: • power source • a switch • an ammeter • a voltmeter • three identical resistors • three identical lamps • one additional connecting lead. The supervisor has set up the apparatus as shown in Fig. 2.1.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Close the switch. Record the potential difference V₁ across the resistors, and the current I₁ in the circuit. Open the switch.",
+        "image": "A circuit diagram, labeled Fig. 2.1, shows a power supply connected in series with an open switch, an ammeter (A), and two resistors connected in series. A voltmeter (V) is connected in parallel across the two series resistors. This represents the initial setup with two resistors in series."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the effective resistance R₁ of the combination of resistors using the equation: R₁ = V₁ / I₁",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest why the switch is opened after the readings of potential difference and current have been taken.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Rearrange the circuit so that the resistors are connected as shown in Fig. 2.2.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Close the switch. Record the potential difference V₂ across the resistors and the current I₂ in the circuit. Open the switch.",
+        "image": "A circuit diagram, labeled Fig. 2.2, shows a power supply connected in series with an open switch, an ammeter (A), and two resistors connected in parallel. A voltmeter (V) is connected in parallel across the two parallel resistors. This diagram shows two resistors connected in parallel."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the effective resistance R₂ of the combination of resistors using the equation: R₂ = V₂ / I₂. Record your answer on the answer line. Write down the value of 2R₂.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "If the resistors are identical, theory suggests that R₁ = 2R₂. Two quantities can be considered to be equal within the limits of experimental accuracy if their values are within 10% of each other. State whether your results indicate that the resistors are identical. Support your statement with a calculation.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Set up the circuit shown in Fig. 2.1 on page 6, replacing the resistors with the lamps. Close the switch. Calculate the effective resistance R₃ of the combination of lamps. Record any readings you take and show your working.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Rearrange the circuit as shown in Fig. 2.2 on page 7, replacing the resistors with the lamps. Close the switch. Calculate the effective resistance R₄ of the combination of lamps. Record any readings you take and show your working.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "The teacher explains that the resistance of the lamp filaments changes due to a heating effect and therefore R₃ is not equal to 2R₄. Describe one observation that you made while doing the experiment that supports the teacher's explanation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2023/Q3",
+    "Question_text": "In this experiment you will investigate the image formed by a converging lens. You are provided with: • a converging lens in a lens holder • a metre rule • a 30 cm ruler • a white screen • a triangular object in a piece of white card • a lamp with a power supply to illuminate the triangular object. Set up the apparatus as shown in Fig. 3.1.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure and record the height H of the triangular object provided.",
+        "image": "A diagram, labeled Fig. 3.1, illustrates the setup for a converging lens experiment. It shows a lamp illuminating a triangular object, followed by a converging lens, and then a white screen. The distance from the object to the lens is labeled 'u'. The height of the object is labeled 'H'. The components are arranged along a horizontal optical axis."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Switch on the lamp and place the lens a distance u = 20.0 cm from the triangular object. Adjust the position of the screen until a sharp, focussed image of the triangular object is formed on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure the height h of the image on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the value of 1/h. Give your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Repeat (b) for values of u between u = 25.0 cm and u = 50.0 cm. Record all your readings and calculations in Table 3.1. Include your readings from (b). Add appropriate headings with units to each column.",
+        "image": "An empty table, labeled Table 3.1, is shown with three columns and several rows. The column headings are blank, indicated by dotted lines, to be filled by the student. This table is for recording measurements of 'u', 'h', and '1/h'."
+      },
+      {
+        "part_label": "d",
+        "part_text": "On the grid provided, plot a graph of 1/h on the y-axis against u on the x-axis. Start both axes from the origin (0, 0). Draw the straight line of best fit.",
+        "image": "A Cartesian coordinate grid is provided, suitable for plotting a graph. Both the x-axis and y-axis start from the origin (0,0), marked by '+0' on the image."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Calculate the gradient m of your line. Show all working and indicate on the graph the values you use.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Calculate the focal length f of the lens. Use your value of H from (a) and the equation: f = 1 / (mH)",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "When measuring the height of the image on the screen, your hand and the ruler may obstruct the light from the object and prevent it from reaching the screen. Suggest one improvement to the apparatus provided to overcome this problem.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2023/Q4",
+    "Question_text": "A student investigates the time taken for ice cubes to melt when they are placed in a beaker of hot water. Plan an experiment to investigate how the thickness of the cardboard insulation around a beaker affects the time taken for the ice cubes in the beaker to melt. You are not required to do this experiment. The following apparatus is available: • 250 cm³ beaker • supply of hot water • supply of ice cubes • thermometer • stopwatch • supply of 2 mm thick cardboard sheets. In your plan you should: • explain briefly how to carry out the investigation • state the key variables to keep constant • draw a table with column headings to show how to display the readings • explain how to use your readings to reach a conclusion.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Consequences of Thermal Energy Transfer",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  }
+]

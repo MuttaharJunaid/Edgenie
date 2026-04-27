@@ -1,0 +1,177 @@
+[
+  {
+    "QuestionNumber": "October-November/42/2013/Q1",
+    "Question_text": "A student investigates how a magnetic force varies with distance. A bar magnet is attracted to the iron base of a clamp stand, as shown in Fig. 1.1. A newton meter is attached to the magnet. The student pulls the newton meter vertically upwards and measures the force F required to pull the magnet off the iron base.",
+    "image": "Fig. 1.1 shows a diagram of the experimental setup. A clamp stand with an iron base is depicted. A bar magnet rests on the iron base, attached by a string to a newton meter held vertically above it. A piece of tape is shown around the magnet. Labels include 'newton meter', 'string', 'tape', 'magnet', and 'iron base'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnets",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why it is difficult to measure F accurately.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe a method the student can use to measure F more accurately.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 1.2 shows the maximum reading on the newton meter as the magnet is pulled off the base. Record the force F shown on the newton meter.",
+        "image": "Fig. 1.2 displays a close-up of a newton meter scale, calibrated in Newtons (N) from 0 to 10. The pointer indicates a reading of 6.6 N, positioned between the 6 N and 7 N marks."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student places one sheet of paper between the magnet and the iron base and measures the force F to pull the magnet off the base. He repeats the experiment, each time increasing the number n of sheets of paper. The results obtained are recorded in Fig. 1.3. On Fig. 1.3, add your value for F from (b).",
+        "image": "Fig. 1.3 is a table titled 'n' and 'F/N'. It shows data for the number of sheets of paper (n) and the corresponding force (F/N). The table includes rows for n=1, F=3.5; n=2, F=2.5; n=3, F=1.5; n=4, F=1.0; n=5, F=0.5. The entry for n=0 and F/N is left blank for the student to fill in."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 1.4, plot a graph of F/N on the y-axis against n on the x-axis. Start your axes from the origin. Draw a smooth curve of best fit.",
+        "image": "Fig. 1.4 is a blank grid for plotting a graph, with both the x-axis and y-axis originating from (0,0)."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe how F varies with n.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The newton meter shown in Fig. 1.2 is not suitable for measuring F when there are more than 5 sheets of paper. Suggest why.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "The student repeats the experiment using paper of a different thickness. His new value of F when n = 1 is 3.0N. State which paper is thicker. Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Explain how using very thin paper improves the experiment.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Very thin sheets may be made from aluminium foil. State and explain whether aluminium foil is a suitable material for this experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2013/Q2",
+    "Question_text": "A student investigates the reflection of light. The student has available: a pin board, a sheet of plain paper, a plane mirror, optical pins, a pencil, ruler and protractor.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student uses the apparatus to verify that the angles of incidence and reflection are equal. Include a clear labelled diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student carries out the experiment carefully. Describe one practical technique that improves the accuracy of the experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2013/Q3",
+    "Question_text": "A student uses a lemon to make a simple electric cell. He inserts a copper strip and an iron nail into the lemon, as shown in Fig. 3.1. The student connects a centre-zero voltmeter between the copper strip and the iron nail to measure the e.m.f. produced by the lemon cell.",
+    "image": "Fig. 3.1 shows a diagram of a lemon with a copper strip and an iron nail inserted into it, forming a simple electric cell. The copper strip and iron nail are labelled.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Record the e.m.f. shown on the voltmeter.",
+        "image": "Fig. 3.2 shows a centre-zero voltmeter scale. The scale ranges from -3 V to +3 V, marked with major divisions at 0, 1, 2, 3 and corresponding negative values. The pointer indicates a positive reading between 0 and 1, specifically at 0.9 V."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest how the connecting leads from the voltmeter can be securely attached to the strip and to the nail.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State what happens if the connections to the voltmeter are reversed.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest one reason why lemons are not used to power simple electronic equipment such as digital watches.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)1",
+        "part_text": "The student connects three lemon cells in series and measures the total e.m.f. with the voltmeter. State the total e.m.f. that you would expect.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)2",
+        "part_text": "On Fig. 3.3, draw the connections that the student uses.",
+        "image": "Fig. 3.3 shows three schematic representations of lemon cells arranged vertically, one below the other. Each lemon has a copper strip and an iron nail inserted, serving as electrodes. Below the cells, a voltmeter symbol 'V' is shown. The task is to draw connections for a series circuit."
+      },
+      {
+        "part_label": "c(ii)1",
+        "part_text": "The student connects three lemon cells in parallel and measures the total e.m.f. with the voltmeter. State the total e.m.f. that you would expect.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)2",
+        "part_text": "On Fig. 3.4, draw the connections that the student uses.",
+        "image": "Fig. 3.4 shows three schematic representations of lemon cells arranged vertically, one below the other. Each lemon has a copper strip and an iron nail inserted, serving as electrodes. Below the cells, a voltmeter symbol 'V' is shown. The task is to draw connections for a parallel circuit."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2013/Q4",
+    "Question_text": "A student is given a bag of ten similar marbles.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student uses a 30 cm ruler to determine the average diameter of the marbles. Describe how the student obtains an accurate value. Include a labelled diagram showing how any additional apparatus is used.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student then measures the diameter d of one marble accurately using a micrometer. The scale of the micrometer is shown in Fig. 4.1.",
+        "image": "Fig. 4.1 shows a detailed diagram of a micrometer screw gauge scale. The sleeve scale shows divisions up to 10 mm, with a half-millimeter mark visible after 10 mm. The thimble scale, numbered from 20 to 40, shows its edge aligned with the 36th division. The micrometer is labelled."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the reading shown on the micrometer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the student checks that the marble is spherical.",
+        "image": null
+      }
+    ]
+  }
+]

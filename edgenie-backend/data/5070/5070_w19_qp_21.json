@@ -1,0 +1,547 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Write the symbol for an element which: forms a stable ion by gaining three electrons",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Write the symbol for an element which: is extracted from haematite",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Extraction of iron"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Write the symbol for an element which: forms an ion which gives a red-brown precipitate on addition of aqueous ammonia",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Write the symbol for an element which: has chemical properties similar to those of calcium",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Similarities in groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "Write the symbol for an element which: can have lubricating properties.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide",
+      "Uses of graphite and diamond"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "State two physical properties of sodium which are different from most other metals.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Complete the electronic configuration of a sodium atom. Show all electrons.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Calculate the minimum mass of sodium, in grams, needed to produce 300 cm³ of hydrogen gas at room temperature and pressure.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume",
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Explain, in terms of movement of electrons, how Na2O is formed by the reaction of sodium with oxygen.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidation definition",
+      "Reduction definition",
+      "Identifying redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e",
+    "Question_text": "(i) Suggest one other physical property of sodium chloride. (ii) State the products formed at the anode and cathode when concentrated aqueous sodium chloride is electrolysed. (iii) Describe a test for chloride ions.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis",
+      "Tests for halide compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Describe how and explain why water can be separated from aqueous copper(II) sulfate by distillation.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "What method is used to separate excess copper(II) oxide from the reaction mixture?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Use this information to deduce the empirical formula of this copper compound.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Empirical formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Describe a practical method by which the concentration of hydrochloric acid can be determined in a sample.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "(i) Deduce the concentration of hydrochloric acid four hours from the start of the experiment. (ii) At which point on the graph, A, B, C or D, is the rate of reaction fastest?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c",
+    "Question_text": "Describe and explain, using ideas about collisions between particles, how the rate of a reaction changes when the temperature is decreased.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d",
+    "Question_text": "Describe the effect of hydrochloric acid on Universal Indicator paper.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Effects on indicators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4e",
+    "Question_text": "Name a metal chloride that is insoluble in water.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4f",
+    "Question_text": "Describe the effect of CFCs on the atmosphere and explain why this is a problem.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Adverse effects of pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "(i) Complete the table by estimating the boiling point of bromine and the density of liquid chlorine at its boiling point. (ii) Use the information in the table to suggest the colour of astatine.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Group VII trends",
+      "Predicting Group VII properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Explain why chlorine is used in water treatment.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "(i) Construct the ionic equation for this reaction. (ii) Explain why potassium chloride does not react with iodine.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Displacement reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5d",
+    "Question_text": "Calculate the value of x in this formula.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Hydrated and anhydrous substances",
+      "Water of crystallisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "What is the meaning of the term weak when applied to acids?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Strong acid definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Describe the arrangement and movement of the particles in a solid.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Structures of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c",
+    "Question_text": "Deduce the physical state of ethanoic acid at 130.0°C.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases",
+      "Structures of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6d",
+    "Question_text": "Show by calculation that sodium carbonate is in excess.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6e",
+    "Question_text": "Construct the equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6f",
+    "Question_text": "(i) Name the ester formed when ethanoic acid reacts with butanol. (ii) Draw the structure of this ester.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing esters"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "Describe how and explain why the position of equilibrium changes.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Explain why the change in pressure has no effect on this equilibrium.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Draw a labelled energy profile diagram for the reaction to show:",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Reaction pathway diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b(ii)",
+    "Question_text": "Complete the equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "Describe how the combustion of fossil fuels leads to the formation of acid rain.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Adverse effects of pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c(ii)",
+    "Question_text": "Describe one effect of acid rain on buildings.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Adverse effects of pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Deduce the number of electrons, neutrons and protons in one atom of this isotope of silicon.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.3 Isotopes",
+    "Sub_topic": [
+      "Proton number / atomic number",
+      "Mass number / nucleon number"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Construct the equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9c",
+    "Question_text": "Describe two similarities in the structures of silicon dioxide and diamond.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide",
+      "Similarity between diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9c(ii)",
+    "Question_text": "Explain why silicon dioxide has a high melting point.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9d",
+    "Question_text": "Deduce the molecular formula of this compound.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Molecular formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9e",
+    "Question_text": "Draw a 'dot-and-cross' diagram for a silicon(IV) chloride molecule, SiCl4.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Formation of covalent bonds in molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "What is meant by the term condensation reaction?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Condensation polymer structure",
+      "Addition vs condensation polymerisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "Draw a circle around an ester linkage; Draw the structures of the two monomers used to produce this polymer.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Repeat units and linkages",
+      "Condensation polymer structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b(iii)",
+    "Question_text": "State one common use of Terylene.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Plastics from polymers",
+      "Properties and disposal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "Explain, by referring to the groups present, why polymers with different linkages can be formed from threonine.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Proteins as polyamides",
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d(i)",
+    "Question_text": "Draw the structure of ethene, showing all of the atoms and all of the bonds.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Bonding in alkenes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d(ii)",
+    "Question_text": "What is meant by the term non-biodegradable?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Properties and disposal",
+      "Environmental challenges of plastics"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d(iii)",
+    "Question_text": "Describe one pollution problem caused by the disposal of non-biodegradable plastics.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Properties and disposal",
+      "Environmental challenges of plastics"
+    ],
+    "Parts": []
+  }
+]

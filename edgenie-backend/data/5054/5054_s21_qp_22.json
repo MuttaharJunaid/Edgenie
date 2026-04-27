@@ -1,0 +1,436 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2021/Q1",
+    "Question_text": "State the difference between a scalar quantity and a vector quantity. State two examples of each type of quantity. Fig. 1.1 shows the direction and size of two vectors P and Q. In the space next to Fig. 1.1, draw a labelled vector diagram to show the resultant vector obtained by adding vector P to vector Q. Draw vector P, vector Q and the resultant vector to the same scale as in Fig. 1.1.",
+    "image": "Fig. 1.1 shows two vectors, P and Q. Vector P is an upward-right arrow. Vector Q is a downward-right arrow of shorter length. There is an empty space next to the vectors, intended for drawing the resultant vector diagram.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Calculating with Vectors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the difference between a scalar quantity and a vector quantity.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State two examples of each type of quantity.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the space next to Fig. 1.1, draw a labelled vector diagram to show the resultant vector obtained by adding vector P to vector Q. Draw vector P, vector Q and the resultant vector to the same scale as in Fig. 1.1.",
+        "image": "Fig. 1.1 shows two vectors, P and Q. Vector P is an upward-right arrow. Vector Q is a downward-right arrow of shorter length. The task requires drawing the resultant vector based on P and Q on this figure."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q2",
+    "Question_text": "A car approaches a set of traffic lights. The lights change to red at time t = 0. Fig. 2.1 shows how the speed of the car changes with time.",
+    "image": "Fig. 2.1 is a speed-time graph. The x-axis is time (t/s) from 0 to 8s. The y-axis is speed (m/s) from 0 to 24 m/s. The graph shows a horizontal line at 20 m/s from t=0 to t=2s, indicating constant speed. From t=2s to t=7s, the speed decreases from 20 m/s to 0 m/s along a curve, which becomes steeper towards the end, indicating non-uniform deceleration. After t=7s, the speed remains 0 m/s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The car starts to slow down a short time after the lights change to red. Determine the time between the lights changing to red and the car starting to slow down.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by uniform acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State how Fig. 2.1 shows that the deceleration of the car between t = 2s and t = 7s is non-uniform.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Determine the distance the car travels from the moment the car starts to slow down until it stops.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q3",
+    "Question_text": "Fig. 3.1 shows a small brick hanging from a newton meter. The reading on the newton meter is 3.0N. The same brick and newton meter are used in the apparatus shown in Fig. 3.2. The meter rule is pivoted at its centre and is balanced. The reading on the newton meter is not shown. A beaker of water is placed so that the brick is partly submerged in the water, as shown in Fig. 3.3. The apparatus is adjusted to keep the rule horizontal.",
+    "image": "Fig. 3.1 shows a newton meter with a brick hanging from it, indicating a reading of 3.0N. Fig. 3.2 shows a uniform metre rule pivoted at its centre, with a newton meter and brick hung 10 cm to the left of the pivot. Fig. 3.3 is similar to Fig. 3.2, but a beaker of water is placed such that the brick is partly submerged, and the rule is adjusted to remain horizontal.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight",
+      "Moments",
+      "Equilibrium",
+      "Pressure & Forces",
+      "Pressure in a Liquid"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the reading on the newton meter is used to find the mass of the brick.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the principle of moments for a body in equilibrium.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the reading on the newton meter shown in Fig. 3.2.",
+        "image": "Fig. 3.2 shows a uniform metre rule pivoted at its centre. A newton meter, with the brick still attached, is hung 10 cm to the left of the pivot."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest why the reading on the newton meter is less than your answer in (b)(ii).",
+        "image": "Fig. 3.3 shows a setup similar to Fig. 3.2, but with the brick partly submerged in a beaker of water, indicating buoyant force acting on the brick."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q4",
+    "Question_text": "In a demonstration, a teacher uses a loud ticking clock, two hollow tubes A and B, a barrier and a smooth surface. The clock is used as a source of sound. Fig. 4.1 shows tube A and the clock, both fixed in position on the left of the barrier. Sound from the ticking clock passes along tube A and is incident on the smooth surface. A student listens to the sound passing along tube B, which is on the right of the barrier.",
+    "image": "Fig. 4.1 shows a setup for demonstrating sound reflection. A ticking clock is placed near one end of hollow tube A, which is directed towards a smooth surface. A barrier is positioned on the smooth surface. Hollow tube B is shown to the right of the barrier, with an 'ear' symbol at its end, indicating a listener's position. The arrangement suggests an experiment to find the angle of reflection for sound.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Reflection of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 4.1, draw tube B in the position where the sound heard by the student is loudest.",
+        "image": "Fig. 4.1 shows a setup for demonstrating sound reflection. A ticking clock is placed near one end of hollow tube A, which is directed towards a smooth surface. A barrier is positioned on the smooth surface. Hollow tube B is shown to the right of the barrier, with an 'ear' symbol at its end, indicating a listener's position. The task requires drawing the position of tube B."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain your answer to (i).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The speed of sound in air is 330 m/s. State a typical value for the speed of sound in a solid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q5",
+    "Question_text": "Fig. 5.1 shows a method of producing sandpaper using static electricity. Glue is sprayed on to moving paper. The sticky paper then passes between two metal plates. One of the plates is positive and the other plate is negative. There is an electric field between the plates. Grains of sand are present just below the sticky paper. Each grain of sand is a conductor of electricity. Fig. 5.3 shows two layers of sand grains in the space between the two plates. A student receives an electric shock by walking across a certain type of carpet and then nearly touching a piece of earthed metal with his hand. The potential difference between the hand and the metal is 2000V and the charge transferred is 4.0 × 10⁻⁴ C.",
+    "image": "Fig. 5.1 illustrates a process for producing sandpaper using static electricity, showing glue on paper passing between negative and positive metal plates, with sand attracted upwards to the paper. Fig. 5.2 provides an empty diagram of two metal plates for drawing electric field lines. Fig. 5.3 shows a magnified view of sand grains between the metal plates and sticky paper.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Demonstrating Electric Charges",
+      "Static Electricity",
+      "Electric Fields",
+      "Investigating Conductors & Insulators",
+      "Electromotive Force & Potential Difference",
+      "Electrical Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 5.2, draw the electric field between the two metal plates. Show the direction of the electric field.",
+        "image": "Fig. 5.2 shows two parallel, angled metal plates. The upper plate is labeled 'negative metal plate' and the lower plate is labeled 'positive metal plate'. This is an empty diagram for drawing electric field lines."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain, using ideas about the movement of charge, why the top layer of sand becomes positively charged.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State why the top layer of sand moves towards the sticky paper.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the energy transferred when the spark jumps across the air gap from the metal onto his hand.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q6",
+    "Question_text": "The power input to a filament lamp when connected to a 12V supply is 20W. The filament in another lamp is made from thinner wire of the same length and made from the same material. Both lamps are connected to a 12V supply.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by power.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate: the current in the filament",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the resistance of the filament.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State and explain how using thinner wire in the filament affects the power input to the lamp.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q7",
+    "Question_text": "Fig. 7.1 shows part of a simple d.c. electric motor. The motor is connected to a battery with the positive terminal of the battery connected to terminal A.",
+    "image": "Fig. 7.1 shows a diagram of a simple DC electric motor. It consists of a coil with terminals A and B, placed between the North (N) and South (S) poles of a magnet. An axis of rotation is indicated. The coil is positioned to turn clockwise when current flows from A to B through the coil, with the positive terminal of the battery connected to A.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why the coil turns in the direction shown.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The turning effect is increased when the coil is wound around a soft-iron cylinder. Explain why this happens.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest one other way to increase the turning effect of the motor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q8",
+    "Question_text": "Fig. 8.1 shows a potential divider circuit containing two resistors R₁ and R₂. There is an input voltage of 6.0V. In the circuit shown in Fig. 8.1, resistor R₁ is replaced by a light dependent resistor (LDR). A potential divider circuit can also be used to produce an output voltage that changes with temperature. A simple bistable circuit contains NOR gates.",
+    "image": "Fig. 8.1 shows a potential divider circuit. An input voltage of 6.0 V is applied across two resistors, R₁ and R₂, connected in series. The output voltage is taken across resistor R₂.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete Table 8.1 to show the output voltage for different values of the resistances of the two resistors. Table 8.1 lists R₁/Ω as 8.0 and 800, and R₂/Ω as 8.0 and 1200, with empty cells for output voltage/V.",
+        "image": null
+      },
+      {
+        "part_label": "b(i) [EITHER]",
+        "part_text": "In the space below, draw the circuit symbol for an LDR.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) [EITHER]",
+        "part_text": "The LDR is moved from darkness into daylight. State what happens to the resistance of the LDR and the output voltage.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii) [EITHER]",
+        "part_text": "State the name of the component that is used instead of the LDR.",
+        "image": null
+      },
+      {
+        "part_label": "b(i) [OR]",
+        "part_text": "In the space below, draw the circuit symbol of a NOR gate.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) [OR]",
+        "part_text": "Describe what is meant by a bistable circuit.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q9",
+    "Question_text": "Fig. 9.1 represents the conversion of energy in a mobile phone. When the battery is in use, the average current is 1.3mA. A student estimates the thermal energy produced in the battery when the mobile phone is used and uses this value to estimate the efficiency of the battery. He measures a temperature rise of 5.0°C within the battery in a period of time when the useful energy output from the battery is 5200 J. The mass of the battery is 110g and its specific heat capacity is 830J/(kg°C).",
+    "image": "Fig. 9.1 illustrates energy conversion in a mobile phone. A 'BATTERY PACK' is shown on the left with an arrow pointing to a 'mobile phone'. The mobile phone then has arrows pointing outwards labeled 'energy output'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Efficiency",
+      "Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the form of energy stored in the battery.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the useful form of output energy from the battery.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State two useful forms of output energy from the mobile phone.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Determine the charge that passes through the battery in a time of 2.0 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the thermal energy (heat) needed to raise the temperature of the battery by 5.0°C.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State what is meant by efficiency.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Calculate the efficiency of the battery.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Suggest and explain one reason why the value for the efficiency calculated in (iii) is larger than the actual efficiency of the battery.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q10",
+    "Question_text": "Fig. 10.1 shows a water wave moving from shallow into deep water. The wavefronts shown represent the crests of the wave. The water wave is made by dipping a wooden bar up and down in the water. The bar makes 10 complete up and down movements in 5.0s. The direction of the boundary is now altered. The water wave now enters the deep water from the shallow water at an angle, as shown in Fig. 10.3. White light is made up of different colours. Fig. 10.4 shows rays of white light emitted from a lamp.",
+    "image": "Fig. 10.1 shows water waves refracting from shallow to deep water, with wavefronts and a 12 cm wavelength marked in shallow water. Fig. 10.2 is a matching diagram for wave properties (wavelength, frequency, speed) changing at a boundary. Fig. 10.3 shows waves approaching an angled boundary between shallow and deep water, with space for drawing refracted wavefronts. Fig. 10.4 shows a lamp emitting white light, with space for illustrating how a narrow beam is produced and dispersed into a spectrum on a screen.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Refraction of Light",
+      "Dispersion of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the wavelength of the wave in the shallow water.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the frequency of the wave produced.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Determine the speed of the water wave in the shallow water.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "On Fig. 10.2, draw lines to show what happens to the wavelength, the frequency and the speed of the water wave as it enters the deep water. One line has been drawn for you.",
+        "image": "Fig. 10.2 is a matching exercise diagram with three wave properties (wavelength, frequency, speed) on the left and three possible outcomes (decreases, stays the same, increases) on the right. One line connects 'wavelength' to 'decreases'."
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "On Fig. 10.3, draw the wavefronts in the deep water.",
+        "image": "Fig. 10.3 shows a diagram of water waves moving from shallow water into deep water. The boundary between shallow and deep water is now angled. Parallel wavefronts are shown in the shallow water, approaching the boundary at an angle. The deep water region is empty, awaiting drawing of refracted wavefronts."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the name of four of the colours in the visible spectrum and place them in order from the smallest wavelength to the largest wavelength.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Complete Fig. 10.4 to show how a narrow beam is produced from these rays and how a spectrum is shown on the screen. Label your diagram.",
+        "image": "Fig. 10.4 shows a lamp emitting divergent rays of white light towards an empty space on the left, and a screen on the right. This diagram is for completing a setup to show dispersion of light."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2021/Q11",
+    "Question_text": "A highly radioactive source that emits beta-particles is placed a few centimetres away from a detector, as shown in Fig. 11.1. A nucleus of strontium-90 (Sr-90) decays by beta emission to a nucleus of yttrium (Y). Nuclear fusion and nuclear fission both release large amounts of energy.",
+    "image": "Fig. 11.1 shows a radioactive source placed inside a metal casing, which is positioned a few centimetres from a detector connected to a counter. The counter displays '000000'. The diagram indicates it is 'Not to scale'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Nucleus",
+      "Detection of Radioactivity",
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "Fusion",
+      "Fission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the particle which has the same mass and charge as a beta-particle.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State and explain why the metal casing in Fig. 11.1 is used.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State and explain what happens to the number of particles detected in a minute as the radioactive source is moved: a few centimetres further away from the source",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "more than a metre away from the source.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Complete the decay equation for this decay. ⁹⁰₃₈Sr → ______Y + ⁰₋₁β",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Describe how the process of nuclear fusion differs from the process of nuclear fission.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Describe the conditions needed for nuclear fusion to take place.",
+        "image": null
+      }
+    ]
+  }
+]

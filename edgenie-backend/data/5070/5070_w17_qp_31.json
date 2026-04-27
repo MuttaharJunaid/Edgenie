@@ -1,0 +1,92 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Put P into the burette. Pipette a 25.0cm³ (or 20.0cm³) portion of Q into a flask and titrate with P, using the indicator provided. Record your results in the table, repeating the titration as many times as you consider necessary to achieve consistent results.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Using your results from (a), calculate the concentration, in mol/dm³, of nitric acid in P. Give your answer to three significant figures. Na2CO3 + 2HNO3 2NaNO3 + H2O + CO2",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Using your answer from (b), calculate the number of moles of nitric acid in 10.0cm³ of concentrated nitric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Using your answer from (c), calculate the concentration, in mol/dm³, of concentrated nitric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "Using your answer from (d), calculate the mass, in g, of nitric acid in 1 dm³ of concentrated nitric acid. [The relative formula mass of nitric acid is 63.]",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Carry out the following tests and record your observations in the table. You should test and name any gas evolved. To 2 cm depth of the solution in a test-tube, add aqueous sodium hydroxide until a change is seen. To the mixture from (a), add excess aqueous sodium hydroxide.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "To 1 cm depth of the solution in a test-tube, add an equal volume of dilute nitric acid. Pour half of the mixture from (a) into a test-tube and add an equal volume of aqueous barium nitrate. To the other half of the mixture from (a), add an equal volume of aqueous silver nitrate.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Identify the compound in solution R. Identify the compound in solution S.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases",
+      "Tests for cations",
+      "Tests for anions"
+    ],
+    "Parts": []
+  }
+]

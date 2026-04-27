@@ -1,0 +1,418 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2018/Q1",
+    "Question_text": "A cyclist travels along a straight, horizontal road, as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a diagram of a cyclist riding a bicycle on a straight, horizontal road. The road is depicted as a dashed line extending horizontally, with the cyclist moving to the right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the average speed of the cyclist can be measured. In your account, suggest what equipment is used, the measurements that are made and how the average speed is calculated.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "For part of the journey, the cyclist has a constant, negative acceleration. State what is meant by a negative acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The size of the acceleration is 1.8m/s². Calculate the change in speed of the cyclist in a time of 2.5s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q2",
+    "Question_text": "Fig. 2.1 shows a man pushing a heavy box with a force P. A frictional force F acts in a horizontal direction.",
+    "image": "Fig. 2.1 shows a man pushing a large, rectangular wooden box across a horizontal surface. The man stands behind the box, applying a force P to push it to the right. A frictional force F is indicated acting to the left, opposing the motion or tendency of motion of the box.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The forces on the box are balanced and the box is stationary. State what is meant by balanced forces.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The frictional force in Fig. 2.1 does not produce any heating effect. State what must happen for the frictional force to produce heating.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Apart from being stationary, describe one other possible state of motion of the box when the forces are balanced.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When P = 100 N and F = 85N, the box accelerates. The mass of the box is 25 kg. Calculate the acceleration of the box.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q3",
+    "Question_text": "A passenger in an aircraft closes a plastic bag with some air inside, as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a plastic bag filled with air, sealed at the top with a knot or tie, and appearing inflated.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Atmospheric pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how the molecules of air in the bag exert a pressure on the inside of the bag.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "When the bag is closed, the pressure of the air inside the aircraft is 80kPa and the bag contains 500 cm³ of air. When the aircraft is on the ground, the pressure of the air inside the aircraft is 100 kPa. Calculate the volume of air inside the bag when the aircraft is on the ground.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State two assumptions that you made in your calculation in (b)(i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q4",
+    "Question_text": "A woman does work as she raises a flag by pulling downwards on a rope. This is shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows a woman raising a flag on a flagpole. The flagpole stands vertically, and the flag is partially raised. The woman is shown pulling downwards on a rope which passes over a pulley at the top of the pole to lift the flag.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define what is meant by work done.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The mass of the flag is 0.35kg and the flag is raised through a height of 6.0 m. The gravitational field strength g is 10N/kg. Calculate the increase in gravitational potential energy of the flag.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest and explain a reason why the work done on the rope is larger than the value calculated in (b).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q5",
+    "Question_text": "A student has three resistors; each resistor is labelled 3.9Ω, 3W. She checks the value of the resistance of one of the resistors.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Electrical Power",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a circuit diagram of a circuit that she can use to find this resistance. Include a battery, a variable resistor, a voltmeter and an ammeter in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "When the circuit is turned on, the potential difference (p.d.) across the resistor is 4.2V and the current in the resistor is 1.2A. Calculate the resistance of the resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Shortly after the circuit is turned on, the resistor overheats and gives off smoke. Explain why it overheats. Include a calculation in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The other two resistors are also labelled 3.9Ω, 3W. The first resistor is now removed and the student connects these other two resistors in series to the p.d. of 4.2V. State and explain whether these resistors overheat.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q6",
+    "Question_text": "A steel rod is magnetised using an electrical method.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnetic Fields",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how this is done. You may draw a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how you can check that the steel rod is magnetised.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q7",
+    "Question_text": "Electrostatics can be a nuisance but is also useful.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A person walks across a carpet. As he touches a door handle he receives an electric shock. Suggest why this happens.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In spray painting, small drops of paint with a positive charge emerge from a nozzle. The drops are used to paint the leg of a metal chair, which has a negative charge, as shown in Fig. 7. 1. Fig. 7.2 shows what happens when there is no charge on the nozzle, or on the drops or on the leg of the chair.",
+        "image": "Fig. 7.1 depicts a spray painting setup where a 'paint nozzle' emits positively charged paint drops (marked with '++') towards a 'leg of chair' which is negatively charged. Curved lines illustrate the electric field attracting the drops to the chair leg. Fig. 7.2 shows a similar setup, but the paint nozzle and drops are uncharged, and the chair leg is represented by a simple rectangle, indicating no charge on any component and a less directed spray pattern."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The drops in Fig. 7.1 spread out more as they leave the nozzle than those in Fig. 7.2. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the paint reaches the back of the leg in Fig. 7.1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q8",
+    "Question_text": "Fig. 8.1 shows a transformer connecting an overhead 25000 V electrical power line to a house.",
+    "image": "Fig. 8.1 shows an electrical power transmission system. An 'overhead power line 25000 V' is connected to coil A of a transformer. The transformer has an 'iron core' and a second coil, coil B, which is connected to a house. Coil A appears to have more turns than coil B, indicating it is a step-down transformer.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Electromagnetic Induction",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State whether coil A or coil B in the transformer has the larger number of turns. Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "One purpose of using an iron core in the transformer is to increase the magnetic field inside coil A. State one other purpose of using the iron core.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe briefly how an output voltage is induced in coil B.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest one advantage and one disadvantage of burying a power line underground rather than having an overhead power line.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q9",
+    "Question_text": "Electromagnetic radiation is produced by the Sun and travels from the Sun to the Earth.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Dangers of Electromagnetic Waves",
+      "Dispersion of Light",
+      "Speed & Velocity",
+      "Electrical Charge",
+      "Electrical Current",
+      "The Three Types of Emission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Some of the statements below are true and some of them are false. Put a tick (✔) in the box after each statement to show whether it is true or false. Gamma rays are used to kill cancerous cells but can also cause cancer. Infra-red is used in sun-beds. Radio waves have the highest frequency in the electromagnetic spectrum. The higher the frequency of the radiation the smaller is the wavelength in air.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The glass prism in Fig. 9.1 is used to split white light from the Sun into different colours.",
+        "image": "Fig. 9.1 shows a triangular glass prism with a white light ray incident from the left, heading towards the prism face."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Draw, on Fig. 9.1, to show the action of the prism on the light as it passes through the prism.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the prism splits white light into different colours.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The Earth is 1.5 × 10⁸ km from the Sun. State the speed of light in a vacuum.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the time taken for light to travel from the Sun to the Earth.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The Sun also produces a solar wind, which is a stream of charged particles. In one part of space, the solar wind is due to the movement of protons and alpha-particles away from the Sun. A charge of 180 C passes through a small volume of space in 2.0 minutes. Calculate the electric current in this volume of space.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Complete the table in Fig. 9.2 for an alpha-particle, a proton and a gamma ray.",
+        "image": "Fig. 9.2 shows a table with three columns: 'nature', 'charge', and 'stopped by'. It has three rows for 'alpha-particle', 'proton', and 'gamma ray'. The row for 'proton' is partially pre-filled with 'a proton' under 'nature' and 'positive' under 'charge', and 'thin metal' under 'stopped by'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q10",
+    "Question_text": "Answer two questions from this section. Answer in the spaces provided. Describe two differences between boiling and evaporation.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Evaporation",
+      "Particle Model",
+      "Specific Heat Capacity",
+      "Density",
+      "Efficiency",
+      "Electrical Safety"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe two differences between boiling and evaporation.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain, using ideas about molecules, why thermal energy is needed to boil a liquid.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In one type of bathroom shower, cold water passes through a metal pipe which contains an electric heater. The cold water is heated and emerges from the shower head. The temperature of the cold water before heating is measured and the hot water emerging from the shower in 1.0 minute is collected in a container. Measurements and other data are: temperature of water before heating = 16°C temperature of water after heating = 37 °C volume of water collected in 1.0 minute = 4.6×10⁻³ m³ specific heat capacity of water = 4200 J/(kg°C) density of water = 1000 kg/m³",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the mass of water leaving the shower in 1.0s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the thermal energy (heat) gained by the water in 1.0s.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii) 1",
+        "part_text": "To calculate the efficiency of the shower, the value in (b)(ii) and the value of one other quantity are needed. State what other quantity is needed.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii) 2",
+        "part_text": "Describe how these two values are used to calculate the efficiency of the shower.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The metal pipe that contains the electric heater is earthed. Explain why this is necessary.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2018/Q11",
+    "Question_text": "A water wave is produced in a ripple tank.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Ripple Tank",
+      "Wave Behaviour",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Draw a diagram of a ripple tank and describe how it is used to produce and observe the wave.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The water wave in the ripple tank transfers energy. Describe how to show that there is a transfer of energy.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State what is meant by a wavefront.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 11.1 shows the variation with time t of the height of water at the same place in the tank for two waves P and Q. The height is sometimes above and sometimes below the mean level which is marked as 0.",
+        "image": "Fig. 11.1 displays two time-series graphs, 'wave P' and 'wave Q', showing the vertical displacement (height of water) over time in milliseconds. Both are sinusoidal waves oscillating around a zero mean level. Wave P has a peak height of about 0.8 units and a period of approximately 200 ms. Wave Q has a slightly larger peak height of about 1 unit and also a period of approximately 200 ms. The horizontal axis for both graphs is time (t/ms) from 0 to 600 ms, and the vertical axis is 'height of water'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State one difference and one similarity of the two waves.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 1",
+        "part_text": "The speed of the water wave is 0.20 m/s. Determine the frequency of wave P,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 2",
+        "part_text": "the wavelength of wave P.",
+        "image": null
+      }
+    ]
+  }
+]

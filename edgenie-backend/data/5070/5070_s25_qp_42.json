@@ -1,0 +1,246 @@
+[
+  {
+    "QuestionNumber": "1a(i)",
+    "Question_text": "State the measurement that the student needs to make.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(ii)",
+    "Question_text": "Estimate the mass of potassium nitrate dissolved in 100cm³ of water at 55°C.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(iii)",
+    "Question_text": "The student observes that when the solution made at 75°C is left at room temperature a solid appears in the beaker. Explain why.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Suggest why the student does not do the experiment at 115°C.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Explain why the method the student uses gives a higher value for the solubility than the true value.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Explain why it is important to use distilled water and not tap water for the experiment.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Substances in natural water"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Complete Table 2.1 by: writing the initial and final readings for titration 1 calculating the volume of X used in each titration ticking (✔) the best titration results.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b(ii)",
+    "Question_text": "Use the best titration results (✔) to calculate the average volume of X used.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Calculate the number of moles of NaOH in 25 cm³ of 0.100 mol/dm³ NaOH.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Calculate the number of moles of H3A that react with 25.0 cm³ of 0.100 mol/dm³ NaOH.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e",
+    "Question_text": "Calculate the number of moles of H3A in the sample of W.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2f",
+    "Question_text": "Calculate the mass of H3A in the sample of W.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2g",
+    "Question_text": "Explain why using the measuring cylinder makes the volume of distilled water used inaccurate. Suggest an improvement.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2h(i)",
+    "Question_text": "Explain why the burette is rinsed with distilled water.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2h(ii)",
+    "Question_text": "Suggest and explain the effect on the titration results if the burette is not rinsed with X after rinsing with distilled water.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a(i)",
+    "Question_text": "Describe how to do a flame test on a solid.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Flame tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a(ii)",
+    "Question_text": "Identify the cation present in A.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Flame tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(i)",
+    "Question_text": "Describe the observations the student makes. Describe the chemical test and the positive result used to identify the gas formed.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(ii)",
+    "Question_text": "Explain how the student knows when the reaction has finished.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Explain how the student uses aqueous ammonia to confirm the metal ion present in C. Include the observations you expect.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "Identify the anion in B.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Plan an investigation to obtain pure copper(II) sulfate crystals and pure lead sulfate solid from Q.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts",
+      "Preparation of insoluble salts",
+      "Solubility rules"
+    ],
+    "Parts": []
+  }
+]

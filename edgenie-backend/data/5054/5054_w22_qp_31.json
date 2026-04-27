@@ -1,0 +1,142 @@
+[
+  {
+    "QuestionNumber": "5054/31/O/N/2022/Q1",
+    "Question_text": "In this experiment you will investigate the range of a magnetic field using a plotting compass. You are provided with: • a bar magnet • a plotting compass • a metre rule.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 shows a plotting compass. The magnetic needle is mounted on a pivot so that it can rotate. Without removing the compass from the table, check that the magnetic needle is able to rotate freely. Describe how you did this.",
+        "image": "A diagram labeled Fig. 1.1 shows a side view of a plotting compass. It consists of a circular base with a pivot in the center. A magnetic needle is mounted on the pivot, able to rotate freely. The needle is oriented horizontally and labeled 'magnetic needle'. The central support is labeled 'pivot'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the plotting compass over the 1cm mark on the metre rule. Arrange the apparatus so that the scale markings on the rule point in the same direction as the needle as shown in Fig. 1.2. Describe an experiment to find the maximum distance from the compass at which the bar magnet causes the magnetic needle to start to deflect.",
+        "image": "A diagram labeled Fig. 1.2 shows a top-down view of a metre rule with scale markings. A small, circular plotting compass is placed at the 1cm mark. The metre rule's scale markings are aligned with the direction of the compass needle, indicating that the compass needle is pointing along the length of the rule."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/O/N/2022/Q2",
+    "Question_text": "In this experiment you will investigate the temperature of water. You are provided with: • two boiling tubes in a rack • two thermometers • a stand, weight, boss and clamp • a beaker to use to fill the boiling tubes with hot water • stop-watch • paper towel to mop up any spillages.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Set up the apparatus as shown in Fig. 2.1. Thermometer A is the thermometer in boiling tube A and thermometer B is the thermometer in boiling tube B. Thermometer A must be held by the clamp and positioned so that the bulb of the thermometer is about 1 cm below the water-level mark on the side of the boiling tube. Thermometer B must rest gently on the bottom of the boiling tube. Measure and record the temperature: TA on thermometer A TB on thermometer B. TA = TB =",
+        "image": "A diagram labeled Fig. 2.1 shows an experimental setup on a bench. A stand with a clamp and boss holds a thermometer (labeled 'thermometer A') vertically. This thermometer is inserted into boiling tube A, which is held in a rack. The bulb of thermometer A is positioned just below a 'water-level mark' on boiling tube A. Next to boiling tube A, boiling tube B is also in the rack, containing 'thermometer B' which rests on its bottom. A 'weight' is shown on the stand base. The rack contains two boiling tubes, labeled A and B. The components are clearly labeled: 'bench', 'weight', 'thermometer A', 'thermometer B', 'water-level mark', 'boiling tube', 'rack'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Do not change the position of the thermometers. Ask the supervisor to fill your beaker with hot water. Carefully pour hot water from the beaker into both boiling tubes until the water is level with the marked line on each tube. Observe the temperature on the thermometers. Measure and record the maximum temperature reached by each thermometer: TA (MAX) on thermometer A TB (MAX) on thermometer B. TA (MAX) = TB (MAX) = Start the stop-watch and wait for 4 minutes. Read and record the temperature on the thermometers after 4 minutes. State which thermometer has shown the smaller temperature decrease from the maximum temperature. temperature on thermometer A after 4 minutes = temperature on thermometer B after 4 minutes = thermometer which has the smaller temperature decrease =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest two reasons why one thermometer shows a smaller temperature decrease after 4 minutes. 1. 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/O/N/2022/Q3",
+    "Question_text": "In this experiment you will investigate the magnification produced by a lens. You are provided with: • a lens • a mirror • a stand, clamp and two bosses • a rod • a 30 cm ruler • a metre rule. The supervisor has set up the apparatus as shown in Fig. 3.1.",
+    "image": "A diagram labeled Fig. 3.1 (side view) shows an apparatus setup on a bench. A vertical stand holds a horizontal rod by a clamp and boss. Below the rod, a lens is held by another clamp and boss. The lens is positioned between the rod and a mirror placed vertically on the bench. The distance from the center of the rod to the mirror is labeled 'y'. The diameter of the lens is labeled 'd', and the width of the rod is labeled 'w'. An 'eye position' is indicated above the lens, looking towards the mirror through the lens. Key components are labeled: 'bench', 'w', 'lens', 'd', 'y', 'rod', 'mirror', 'eye position'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure and record the diameter d of the lens and the width w of the rod to the nearest millimetre. d = mm w = mm",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the ratio r using the equation: r = d/w r =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Adjust the height of the rod on the stand so that the distance y from the centre of the rod to the mirror is 40.0 cm. Rotate the clamp holding the lens around the clamp stand so that the lens is beside and just below the rod. Look through the lens beside the rod. Ensure that the image of the rod formed in the mirror can be seen through the lens. Move the lens slowly down towards the mirror. Observe that the image of the rod in the mirror seen through the lens becomes magnified. Stop moving the lens when the width of the image of the rod is equal to the diameter of the lens. In this position, the ratio r calculated in (a)(ii) is equal to the magnification of the rod produced by the lens. Measure and record the distance x between the rod and the lens. x = cm",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A student says that the magnification m of the rod produced by the lens can also be calculated using the equation: m = 2y/x - 1 Calculate the value of m using the equation. m =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State if the values of r and m can be considered to be the same. Give a reason for your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/O/N/2022/Q4",
+    "Question_text": "In this experiment you will find the resistance of a length of wire. You are provided with: • a power supply with voltage Vs • a card with the voltage of the power supply Vs recorded on it. • a resistor X • a length of resistance wire attached to a metre rule • a switch • voltmeter • connecting leads with crocodile clips. The supervisor has set up the circuit as shown in Fig. 4.1 using the supplied apparatus.",
+    "image": "A circuit diagram labeled Fig. 4.1 shows a power supply connected in series with a switch and a resistor labeled 'X'. The circuit then splits, with a resistance wire of length 'L' connected in parallel with a voltmeter labeled 'V'. The resistance wire is shown mounted on a 'metre rule' from 0 cm to 100 cm. A 'jockey (crocodile clip)' is shown making contact with the resistance wire at a variable point, allowing measurement of voltage across a specific length 'L' of the wire. The connections are clearly labeled: 'power supply', 'X', '0 cm', 'L', '100 cm', 'metre rule', 'resistance wire', 'V', 'jockey (crocodile clip)'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State whether the voltmeter is analogue or digital. Tick one box. analogue [ ] digital [ ] State the range and precision of the voltmeter. range: precision:",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Close the switch. Length L is the distance along the ruler from the 0cm mark. Clip the jockey on to the resistance wire at a length L = 100.0cm from the 0cm end of the metre rule. Vs is the voltage of the power supply written on the card. VL is the reading on the voltmeter with the jockey clipped at length L. Record Vs and VL. Vs = V VL = V",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "There is a reading on the voltmeter when the jockey just touches the resistance wire as well as when it is clipped to the resistance wire. Explain why it is important to clip the jockey to the resistance wire when taking and recording the voltage.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "In Table 4.1, record the value of VL at 100.0 cm from (b). For a range of different lengths L in cm of the resistance wire, measure and record the new values of VL. Record all of your results in Table 4.1. Add appropriate headings with units to each column. Table 4.1 (table with empty cells)",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Plot a graph of VL in V on the y-axis against L in cm on the x-axis on the graph grid on page 11. Draw the straight line of best fit through your points.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Determine the gradient G of the line of best fit. Show your working and indicate on the graph the values you use to calculate the gradient G. G =",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "The resistance Rw of the wire is calculated using the equation: Rw = 22/N where N = Vs / (100G) - 1. Use your value of Vs recorded in (b) and your value of G calculated in (f) to calculate Rw. Show your working. Rw = Ω",
+        "image": null
+      }
+    ]
+  }
+]

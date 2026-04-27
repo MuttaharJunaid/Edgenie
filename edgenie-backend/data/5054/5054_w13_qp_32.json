@@ -1,0 +1,222 @@
+[
+  {
+    "QuestionNumber": "October-November/5054/32/2013/Q1",
+    "Question_text": "In this experiment, you will determine the weight of a metal stand. You have been provided with • a metal stand labelled A, • a knife-edge to act as a pivot, • a support for the knife-edge, • a metre rule, • a spring, • a clamp, boss and stand labelled B to support the spring.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight, 1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight",
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure the unstretched length l of the coil of the spring as shown in Fig. 1.1.",
+        "image": "A diagram showing a coiled spring with its unstretched length 'l' indicated by a double-headed arrow below the coil. The spring has multiple turns."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Set up the apparatus as shown in Fig. 1.2. Move the rod of stand A along the knife-edge until the rod balances horizontally, as shown in Fig. 1.2. Measure the distance x from the top of the base of stand A to the position of the knife-edge.",
+        "image": "A diagram showing a metal rod (rod of stand A) balanced on a knife-edge. The knife-edge is supported by a block, labeled 'support', resting on a 'bench surface'. The rod extends horizontally. A distance 'x' is marked from the left end of the rod's base to the knife-edge position."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "the distance y from the top of the base of stand A to the spring,",
+        "image": "A diagram showing a metal stand (stand A) with a horizontal rod balanced on a knife-edge and supported by a block ('support') on a 'bench surface'. An extended spring is attached to the right end of the rod and supported by a 'clamp' and 'boss' on 'stand B'. The spring is vertical. Distances 'L' (stretched length of spring), 'y' (from the top of the base of stand A to the spring attachment point), and 'z' (from the top of the base of stand A to the knife-edge) are indicated."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the distance z from the top of the base of stand A to the knife-edge,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "the stretched length L of the coil of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the weight W of stand A using the equation W = k(L-l)(y-z) / (x-z) where the constant k is 0.25 N/cm and all distances are in cm.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/5054/32/2013/Q2",
+    "Question_text": "In this experiment, you will investigate the mixing of hot and cold water. You have been provided with • an empty 250 cm³ beaker labelled A, • a 250 cm³ beaker containing water at room temperature, • a supply of hot water, • a 100 cm³ measuring cylinder, • a thermometer, • a plastic stirrer, • a stand, boss and clamp to hold the thermometer.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter, 2.2 Thermal properties & Temperature, 2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Specific Heat Capacity",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure the temperature θ₁ of the water at room temperature.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Pour 50 cm³ of the water at room temperature into the measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Place the thermometer in the clamp and carefully tighten the jaws. The bottom of the bulb of the thermometer should be about 1 cm above the bench.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Pour hot water into beaker A until the water level reaches the 100cm³ mark. Place the thermometer in the hot water as shown in Fig. 2.1. Stir the water. Record the maximum temperature θ₂ shown on the thermometer before the temperature starts to fall.",
+        "image": "A diagram showing a thermometer held by a clamp and boss on a stand. The thermometer bulb is immersed in hot water within beaker A, which rests on a bench surface. The setup includes labels for 'clamp', 'boss', 'stand', 'thermometer', 'beaker A', 'hot water', and 'bench surface'."
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Immediately pour the 50cm³ of water from the measuring cylinder into beaker A. Stir the mixture. The reading on the thermometer will fall quickly at first and then at a slower rate. As soon as it starts to fall at the slower rate, record the temperature θ₃ of the mixture.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The mass of 1.0cm³ of water is 1.0g. When water at room temperature is added to the hot water, thermal energy (heat) is lost by the hot water and thermal energy is gained by the water at room temperature. The amount of thermal energy transferred is given by the equation thermal energy transfer = mass × specific heat capacity x change in temperature. The specific heat capacity of water is 4.2J/(g°C). Calculate",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the thermal energy lost by the hot water,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the thermal energy gained by the water at room temperature.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain any difference between your answers to (b)(i) and (b)(ii).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/5054/32/2013/Q3",
+    "Question_text": "In this experiment, you will investigate the resistance of a filament lamp. You have been provided with • a 3V power supply, • a switch, • a 3.3Ω resistor, • a 33Ω resistor, • a filament lamp in a holder, • an ammeter, • a voltmeter with two connecting leads, • two further connecting leads. The Supervisor has set up the circuit shown in Fig. 3.1.",
+    "image": "A circuit diagram showing a series circuit. It includes a 3V power supply, a switch, an ammeter (labeled 'A'), and a filament lamp. There are three points labeled A, B, and C, with a component placeholder between A and B, and the filament lamp between B and C. The circuit is currently open.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities, 4.3 Electric Circuits",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Using the two spare leads, connect the 3.3Ω resistor between A and B. Connect the voltmeter between points B and C. Close the switch and record the potential difference (voltage) V₁ across the lamp and the current I₁ in the circuit. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the resistance R₁ of the lamp using the equation R₁ = V₁ / I₁",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Remove the 3.3Ω resistor from the circuit and replace it with the 33Ω resistor. Close the switch and record the new voltage V₂ across the lamp and the new current I₂ in the circuit. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the new resistance R₂ of the lamp using the equation R₂ = V₂ / I₂",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Explain any difference between your values for R₁ and R₂.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/5054/32/2013/Q4",
+    "Question_text": "In this experiment, you will investigate refraction in a transparent block and find a value for the refractive index of the material of the block. You have been provided with • a rectangular block, • four optics pins, • a soft board, • a protractor, • a 30 cm ruler.",
+    "image": null,
+    "Unit": "UNIT 3: Waves, UNIT 1: Motion, Forces & Energy",
+    "Topic": "3.2 Light, 1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "draw a normal to the line XY at the point M, above and below the line XY,",
+        "image": "A diagram showing a horizontal line segment labeled 'XY'. A point 'M' is marked on the line. Points X and Y are at the ends of the segment. This diagram is meant for drawing on."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "draw a line from M, at an angle of 50° to the normal, towards the top left of the page. Label this line L. This line represents the ray incident on the block. The angle of incidence i is 50°.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the block, with one of its long sides on the line XY, on Fig. 4.2. The top left-hand corner of the block should be at X, as shown in Fig. 4.1.",
+        "image": "A diagram (Fig. 4.1) showing a rectangular block placed on a line 'XY'. The top left corner of the block is aligned with point 'X'. Point 'M' is on the line within the block's width, and point 'Y' is further to the right on the line. The block is labeled 'block'."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Draw the outline of the block on Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Remove the block and place page 9 of the question paper on the soft board. Replace the block in the position shown by the outline and place two optics pins vertically into the page on the line L. These pins should be as far apart as possible. On line L, label the positions of the two pins P₁ and P₂. View the two pins through the block from the bottom of the block. Move your head until the images of P₁ and P₂ are in line. Place two more pins in line with the single image that you can see. Label these two pins P₃ and P₄. These two pins indicate the position of the emergent ray. They should be placed below the block in such positions that the path of the emergent ray is determined as accurately as possible.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Remove the block. Draw a line through P₃ and P₄ that just touches the outline of the block at a point. Label this point N.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Draw a straight line from M to N. This represents the refracted ray in the block.",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "Measure the angle of refraction r at M.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Repeat (d) for different angles of incidence at M. For each angle of incidence i, obtain the corresponding angle of refraction r. Record your results in a table. Include in your table columns for i, r, sin i and sin r. Also include your result from (d).",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Using the grid opposite, plot a graph of sin i against sin r. Draw a straight line of best fit through your points.",
+        "image": "A large square grid with numerous fine lines is provided on the opposite page, intended for plotting a graph."
+      },
+      {
+        "part_label": "g",
+        "part_text": "Determine the gradient of the line of best fit.",
+        "image": null
+      }
+    ]
+  }
+]

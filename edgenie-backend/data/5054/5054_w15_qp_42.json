@@ -1,0 +1,203 @@
+[
+  {
+    "QuestionNumber": "October-November/42/2015/Q1",
+    "Question_text": "A student performs an experiment to obtain an accurate value for the focal length of a converging lens. His school has lenses with focal lengths 10cm and 15cm. The student is given a lens from a packet labelled ‘focal length 10cm'.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe a simple method the student can use in order to check that the lens has a focal length of 10 cm. You may use a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student then uses the apparatus in Fig. 1.1 to obtain an accurate value for the focal length f of the lens. The student places the lens a measured distance u from the illuminated object. He then adjusts the position of the screen until a clear focused image is seen on the screen. He measures the distance D from the object to the focused image on the screen.",
+        "image": "A diagram showing an experimental setup for determining the focal length of a converging lens. It includes an illuminated object on the left, a converging lens in a lens holder, and a screen on the right. A metre rule is shown along the base. Light rays are depicted originating from the object, passing through the lens, and forming an image on the screen. The diagram is labeled 'metre rule', 'screen', 'lens', 'lens holder', 'illuminated object', and 'light'. It is marked 'Fig. 1.1 (not to scale)'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 1.1, mark and label the lengths u and D.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The distance u is set at 85.0cm and the student measures the distance D. He repeats the experiment and obtains the following values, in cm, for D. 96.5 96.3 96.2 96.1 96.2 Calculate Dav, the average value of D. Give your answer to three significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State one way in which the student can ensure that each measurement of D is accurate.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student repeats the experiment for a range of values of u and obtains a value for Dav each time. The results are recorded in Fig. 1.2.",
+        "image": "A table labeled Fig. 1.2, showing two columns: 'u/cm' and 'Dav/cm'. The table contains several rows of data, pairing u values with their corresponding average D values. The u values are 85.0, 70.0, 50.0, 25.0, 18.0, 15.0, 12.0. The Dav values are blank for 85.0, then 81.0, 62.3, 41.6, 40.5, 45.1, 69.5."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 1.2, add your value of Dav for u = 85.0cm from (b)(ii).",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 1.3, plot the graph of Dav/cm on the y-axis against u/cm on the x-axis. Start your axes from (0, 30). The graph shows that Dav has a minimum value. Draw the smooth curve of best fit.",
+        "image": "A large grid for plotting a graph, labeled 'Fig. 1.3'. The y-axis starts from 30 and the x-axis starts from 0. Both axes are currently unlabeled but are implied to be Dav/cm on y-axis and u/cm on x-axis based on the question text. The grid is fine-grained, suitable for plotting experimental data."
+      },
+      {
+        "part_label": "c(iii) 1",
+        "part_text": "Use your graph to find the minimum value of Dav, minimum value of Dav =",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) 2",
+        "part_text": "Um, the value of u when Dav is minimum. Um =",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Theory shows that the minimum value for Dav is when Dav = 4f and when um = 2f. Calculate Dav/4 and um/2 from the values you have given in (c)(iii). Comment on your answers.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2015/Q2",
+    "Question_text": "A group of students is asked to determine the diameter of a large inflatable beach ball. One student uses a long piece of string to find the circumference of the ball. He then calculates the diameter. Fig. 2.1 shows the student with the beach ball.",
+    "image": "A diagram labeled Fig. 2.1 (not to scale) showing a person kneeling down, using a long piece of string to measure the circumference of a large inflatable beach ball. The student appears focused on wrapping the string around the ball.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest one practical difficulty in measuring the circumference of the ball.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe a different method that another student may use to measure directly the diameter of the beach ball. You may include a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest two ways in which the student in (b)(i) can make the measurement of the diameter accurate. 1 2",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2015/Q3",
+    "Question_text": "The length of a school laboratory is between 5 m and 6 m. Three students A, B and C are asked to measure the length of the laboratory.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Student A is given two metre rules. Describe how he can use these to measure the length of the laboratory.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Student B is given a 10 m flexible tape, as shown in Fig. 3.1. Describe how he can use the tape to measure the length of the laboratory.",
+        "image": "A diagram labeled Fig. 3.1 showing a flexible tape measure. The tape is coiled inside a round casing and a portion of the tape is extended outwards."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Student C is given an electronic measuring device, as shown in Fig. 3.2. The manufacturers claim that the device is accurate to 0.5 mm and has a range of 60 m. The device emits pulses of laser light that reflect from the opposite wall of the laboratory and return back to the device. It measures the time taken for a pulse to return. The device calculates the distance to the wall using the time taken for the pulse to return.",
+        "image": "A diagram labeled Fig. 3.2 showing a handheld electronic measuring device. It is shaped like a small, ergonomic remote control with buttons on top and a red light (implied laser emitter) at the front. Labels point to 'electronic measuring device' and 'red laser light'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State one piece of additional information needed by the device to calculate this distance.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest a reason why the device uses visible light rather than infra-red radiation.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Describe how student C uses the device to measure the length of the laboratory.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Suggest one disadvantage of using the electronic measuring device.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2015/Q4",
+    "Question_text": "A student is asked to determine the resistance R of a resistor. The student is provided with the following apparatus: • the resistor with unknown resistance R • four 1.5 V cells • an ammeter • a voltmeter • connecting leads",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student uses one of the 1.5 V cells in a circuit to determine the value of the resistance R. In the space below, draw the circuit diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The ammeter has one red terminal and one black terminal. The red terminal is marked '+'.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why the terminals of the ammeter are different colours.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On your circuit diagram in (a), label, with the letter B, the black terminal of the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student has four 1.5 V cells.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In addition to 1.5 V, state three other voltages that the student could use in her circuit.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Draw the arrangement of cells that produces the largest voltage.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student repeats her experiment using the largest voltage. State and explain whether this produces a different value for the resistance R.",
+        "image": null
+      }
+    ]
+  }
+]

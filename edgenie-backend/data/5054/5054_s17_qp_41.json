@@ -1,0 +1,154 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2017/Q1",
+    "Question_text": "A strip of paper is attached to a small toy car. As the toy car moves, it pulls the strip of paper through a timer. The timer marks a dot on the paper every 0.020 s. Fig. 1.1 shows a section of the paper strip with the first four dots marked. The first of these dots to be marked on the paper is labelled A.",
+    "image": "Fig. 1.1 shows a section of a paper strip with four dots marked. The first dot is labeled A. The spacing between the dots increases progressively from A towards the right, indicating increasing distance covered in equal time intervals.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Distance-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Tick the box that describes the motion of the car.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The distance of each dot from A is d. Dot A was marked on the strip at time t = 1.000 s. Take measurements from Fig. 1.1 and, in the space below, draw a table of results for d against t.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use your data to calculate the average speed of the car between t = 1.000s and t = 1.060 s. Use the equation average speed = distance travelled / time taken",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2017/Q2",
+    "Question_text": "A student investigates the flow of water through a hole in the bottom of a straight-sided plastic bottle. A small circular hole is drilled in the bottom of the bottle. A scale is drawn on the side of the bottle, as shown in Fig. 2.1. The bottle is held in a clamp and placed above a sink.",
+    "image": "Fig. 2.1 shows a laboratory setup for investigating water flow. A plastic bottle with a scale (0 to 16 cm) is clamped vertically above a sink. The bottle is filled with water, and a bung is placed at its bottom, which can be removed to allow water to flow out. Point P is marked a few centimeters above the base of the bottle.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Pressure in a Liquid"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The time t for the water level to fall a distance h is measured three times. When h = 14.0cm, the times measured in seconds are: 35.4, 35.6, 35.3. Calculate the average time tav.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The experiment is repeated for a range of values of h. The results are shown in Fig. 2.2. On Fig. 2.2, add your value for tav from (a). On Fig. 2.3, plot a graph of tav/s on the y-axis against h/cm on the x-axis. Start both axes from the origin. Draw the smooth curve of best fit.",
+        "image": "Fig. 2.2 shows a table with two columns: h/cm and tav/s. The table contains data points for h (2.0, 4.0, 6.0, 8.0, 10.0, 12.0, 14.0) and corresponding tav values (6.5, 12.5, 18.4, 23.1, 27.1, 32.1). Fig 2.3 is an empty grid for plotting a graph with x-axis h/cm and y-axis tav/s, starting from the origin."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The diameter d of the bottle is 10.0cm. The average flow rate R of water is given by the equation R = (πd²h) / (4t_av). Use your answer to (a) to find the average flow rate for h = 14.0cm. Give your answer to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student increases the diameter of the hole in the bottle and repeats the experiment. On Fig. 2.3, draw a possible second curve to represent the results you expect from this larger hole. Label this line S.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Suggest why the student did not measure the time taken for the bottle to empty completely.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2017/Q3",
+    "Question_text": "The lines AB and CD, as shown in Fig. 3.1, represent mirrors. A student traces a ray of light that reflects off both the mirrors. The student places two optics pins P₁ and P₂ on the ray that is incident on the mirror AB. The student places two other optics pins P3 and P4 on the ray after reflection by the mirror CD.",
+    "image": "Fig. 3.1 shows two parallel lines, AB and CD, representing mirrors. A light ray is shown incident on mirror AB, marked by pins P1 and P2. The ray then reflects off AB and travels towards mirror CD. After reflection from CD, the ray is marked by pins P3 and P4.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection",
+      "Ray Diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.1, using the positions of pins P1, P2, P3 and P4, draw lines to show the path of the ray through the mirror system.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe the steps that you took to draw these lines.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State a precaution that you took to ensure that the lines are drawn accurately.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The ray meets mirror AB at Q. On Fig. 3.1,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain how the student could improve the positions of P3 and P4 to achieve a more accurate value for the angle r.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2017/Q4",
+    "Question_text": "A student determines the resistance R of a resistor. Fig. 4.1 shows the circuit used.",
+    "image": "Fig. 4.1 shows an electrical circuit diagram. It consists of a power supply, a resistor labeled 'R', and two meters, 'meter 1' and 'meter 2'. Meter 1 is connected in series with the resistor and power supply. Meter 2 is connected in parallel across the resistor R.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "He uses two meters. In the boxes above, write the names of the meters.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the quantities that are measured by these meters. meter 1 measures ... meter 2 measures ...",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 4.2 shows the readings on the meters. Record the readings below. meter 1 ... meter 2 ...",
+        "image": "Fig. 4.2 displays two analog meter dials. Meter 1, on the left, is an ammeter with a scale from 0 to 1.0, marked at 0.2, 0.4, 0.6, 0.8. Its needle points to 0.5. Meter 2, on the right, is a voltmeter with a scale from 0 to 10, marked at 2, 4, 6, 8. Its needle points to 7.0."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Use your readings to find the value of the resistance R using the equation R = V/I.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Describe a precaution the student should take to ensure that the value for R is accurate.",
+        "image": null
+      }
+    ]
+  }
+]

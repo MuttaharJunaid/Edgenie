@@ -1,0 +1,50 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "A student investigates the electrolysis of concentrated aqueous sodium chloride.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition",
+      "Anode, cathode and electrolyte",
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Sulfuric acid, H2SO4, is neutralised when it is added to aqueous sodium hydroxide, NaOH.",
+    "image": null,
+    "Unit": "\"UNIT 7: Acids, bases and salts\"",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction",
+      "Neutralisation equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A student investigates solid Y and solution Z.",
+    "image": null,
+    "Unit": "\"UNIT 7: Acids, bases and salts\"",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules",
+      "Hydrated and anhydrous substances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Copper(II) sulfate is a salt used to kill pests on plant leaves.",
+    "image": null,
+    "Unit": "\"UNIT 7: Acids, bases and salts\"",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts"
+    ],
+    "Parts": []
+  }
+]

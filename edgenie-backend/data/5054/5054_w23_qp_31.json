@@ -1,0 +1,171 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/23/Q1",
+    "Question_text": "In this experiment you will determine the speed of a wave on the surface of water. You are provided with: • a plate filled with water • a dropping pipette • a stop-watch • a 30 cm ruler • a small beaker of water • paper towels to mop up any spillages.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "The Wave Equation",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 shows a scale marked on the side of the dropping pipette. Describe the technique you use to put 1.0cm³ of water into the dropping pipette.",
+        "image": "A diagram of a dropping pipette with a scale marked from 0.5 cm³ to 2.0 cm³ in increments of 0.5 cm³."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 1.2 shows a wavefront moving outwards from the centre of the plate. The wavefront is produced by one drop of water from the dropping pipette. Using the dropping pipette, let one drop of water fall into the centre of the plate. Observe a wavefront travel to the edge of the plate, reflect back to the centre and then travel back out again. The wavefront will move in and out several times.",
+        "image": "A diagram showing a circular plate filled with water, labeled 'water drop', with a dropping pipette above it from which a drop of water is falling into the center. Circular wavefronts are shown expanding outwards, labeled 'wavefront'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Take measurements to determine an accurate time t for the wavefront to travel once from the centre of the plate and back to the centre.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using your answer to (b)(i) calculate the speed of the wavefront. You will need to make and record an additional measurement. Use the equation: speed = distance / time",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Identify two causes of uncertainty in this experiment.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest one improvement that could be made to this experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/23/Q2",
+    "Question_text": "In this experiment you will investigate the resistance of a resistance wire. You are provided with: • a power source • a length of resistance wire attached to a metre rule • a resistor of resistance 10Ω • a voltmeter • connecting leads • a switch • a flying lead with a crocodile clip at the free end. The supervisor has assembled the apparatus as shown in Fig. 2.1.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Close the switch. • Connect the crocodile clip attached to the flying lead to the resistance wire at the 100.0 cm mark on the metre rule. • Read the voltage V shown on the voltmeter and then remove the crocodile clip from the wire. • Record in Table 2.1 your reading of voltage V. • Repeat and record V for lengths L = 80.0 cm, 60.0 cm, 40.0 cm and 20.0 cm of the resistance wire. Remove the crocodile clip from the wire between each reading. Open the switch after you have recorded V for all lengths L. Table 2.1 shows columns for L, V, I, and 1/I. Calculate the current I for each length L shown in Table 2.1, using the equation I = V/10. Record your answers in Table 2.1. Calculate values of 1/I for each length L shown in Table 2.1 and record your answers in Table 2.1. Write the units in the top row of the table.",
+        "image": "A circuit diagram showing a power source connected to a switch, then to a 10 Ohm resistor in series with a resistance wire (labeled 'resistance wire') of length ranging from 0 cm to 100 cm. A voltmeter (labeled 'V') is connected in parallel across the resistance wire, with one terminal connected to the 0 cm mark and the other to a flying lead with a crocodile clip that can be moved along the resistance wire. The 10 Ohm resistor is labeled '10 Ω'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On the grid on page 7, plot a graph of 1/I on the y-axis against L on the x-axis. Start both axes from the origin (0,0).",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Draw the straight line of best fit. Extend this line to intercept the y-axis.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Determine the gradient G and y-intercept c of this line. Show clearly on the graph the values you choose and show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Theory suggests that: R_w = 1000 G / c where R_w is the resistance of the resistance wire. Use your values in (b)(iii) to determine R_w. Show your working.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/23/Q3",
+    "Question_text": "In this experiment you will investigate the indentation made by a glass ball in the surface of some modelling clay. You have been provided with: • a glass ball • two 100g masses • a small lump of adhesive putty • a metre rule • a set square.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Forces",
+      "Moments",
+      "Equilibrium",
+      "Mass & Weight",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe briefly how to use the apparatus in Fig. 3.1 to determine the diameter of the glass ball. Draw a labelled diagram of the arranged apparatus to help your explanation.",
+        "image": "A diagram showing a metre rule placed horizontally. A glass ball is positioned on the rule, and a set square is used to determine its diameter. Separately shown are two 100g masses and a lump of adhesive putty."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Measure and record the diameter D of the glass ball.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "You are also provided with: • a stand, boss, clamp and G-clamp • a wooden strip • a piece of modelling clay • a loop of string • a 30 cm ruler • a mass hanger. The supervisor has clamped the wooden strip. Ensure that the clamp is able to rotate freely in the boss. • Place the glass ball and the modelling clay between the centre of the wooden strip and the bench as shown in Fig. 3.2. • Put the two 100g masses onto the mass hanger. The combined weight F_1 of the mass hanger and both 100g masses is 3.0N. • Place the mass hanger and masses directly above the glass ball for about one minute. • Remove the mass hanger and masses. • Raise the wooden strip and remove the ball from the modelling clay. Observe a small circle where the ball has been pressed into the surface of the clay. This is an indentation.",
+        "image": "A diagram showing a laboratory stand with a boss and clamp holding a wooden strip horizontally. A G-clamp secures the wooden strip to a bench. A glass ball is placed on a piece of modeling clay, which rests on the bench directly under the wooden strip. A mass hanger with 100g masses is suspended from the wooden strip by a loop of string, positioned above the glass ball, demonstrating a lever system."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure and record the diameter d_1 of the indentation.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The area of a circle can be calculated using the equation: A = πd²/4 where A is the area and d is the diameter of the circle. Calculate the area A_1 of the indentation with diameter d_1.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Replace the ball on a different part of the modelling clay under the wooden strip. Lower the strip so that it rests on top of the wooden ball. Using the loop of string attach the mass hanger and masses near the end of the wooden strip as shown in Fig. 3.3. Measure and record x and y in metres to the nearest mm.",
+        "image": "A diagram showing a wooden strip acting as a lever. It is supported by a clamp on a stand. A glass ball rests on modelling clay under the strip at a distance 'y' from the pivot (clamp). A mass hanger with masses (representing weight W) is suspended from the strip at a distance 'x' from the pivot. The setup is designed to apply a force to the glass ball through the lever system."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the force F_2 exerted on the modelling clay using the equation: F_2 = 3y/x. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Measure and record the diameter d_2 of the indentation produced by the ball in the clay. Using the equation in (b)(ii), calculate the area A_2 of the circle with diameter d_2.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "A student claims that: A_2 = kA_1 and F_2 = kF_1 where k is a constant and F_1 = 3.0N. Using your values of F_2, A_1 and A_2 from (c)(ii), (b)(ii) and (c)(iii) calculate two values of k. Record your answers to a suitable number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Values of k are assumed to be the same within the limits of experimental accuracy if they are within 10% of each other. Explain whether these results show that the student's claim is correct.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Students in another laboratory obtain different values of A_1 and A_2 using the same arrangement of the apparatus. Identify two variables that should be controlled to ensure similar values of A_1 and A_2 when using modelling clay.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/23/Q4",
+    "Question_text": "A student investigates the factors affecting the bend angle θ of a metal strip. The student places a thin straight metal strip on two supports and attaches a mass of weight W to the middle of the strip. The metal strip bends as shown in Fig. 4.1. Plan an experiment to investigate one variable affecting the bend angle θ shown on Fig. 4.1. You are not required to do this investigation. In your plan, you should: • explain briefly how to carry out the investigation, including how you will measure θ • state the variables to control • draw a table, or tables, with column headings, to show how to display your readings (you are not required to enter any readings in the table) • explain how to use your readings to reach a conclusion. You may draw a diagram if you think this will help your plan.",
+    "image": "A diagram showing a horizontal metal strip resting on two supports, forming a simple beam. A mass of weight W is suspended from the center of the strip, causing it to bend downwards. The bend angle θ is indicated, as is the distance D between the supports and the distance d from one support to the point where the mass is suspended (which appears to be D/2).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "QuestionNumber": "October-November/42/2019/Q1",
+    "Question_text": "A student in a laboratory investigates how the length l of a spring varies when different loads L are added to it. He sets up a spring in a clamp with a load of 1.0N attached to its lower end, as shown in Fig. 1.1.",
+    "image": "Fig 1.1 shows a retort stand with a clamp holding a spring. A load of 1.0N is attached to the bottom of the spring. The stand is labeled \"stand\" and the clamp \"clamp\". The load is labeled \"L=1.0N\".",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure the length l of the spring shown in the diagram in Fig. 1.1. Do not include the loops at each end of the spring in your measurement. Record your answer in Table 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On the diagram in Fig. 1.1, draw a ruler in the correct position for the student to measure the length l in the laboratory.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The student determines as accurately as possible the reading on the ruler at the bottom of the spring. On Fig. 1.1, mark with an X the position of the student's eye.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student varies the load and takes a series of measurements of L and l. His results are shown in Table 1.1. Table 1.1 shows two columns: \"load L/N\" and \"spring length l/mm\". The rows contain data: 1.0 (empty), 3.0 (130), 5.0 (198), 2.0 (100), 4.0 (163).",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State one way to improve the table of results.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On the grid in Fig. 1.2, plot a graph of L (y-axis) against l (x-axis). Start both axes from the origin (0,0). Draw the best-fit straight line.",
+        "image": "Fig. 1.2 is a large empty grid for plotting a graph of L (y-axis) against l (x-axis)."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State whether l is directly proportional to L. Explain your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Use your graph to determine the length l₀ of the unstretched spring. Show on your graph how you did this.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Using your graph in Fig. 1.2, determine the extension e of the spring for a load of 3.6 N.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On the axes in Fig. 1.3, sketch a graph of L against e.",
+        "image": "Fig. 1.3 shows a blank graph with L/N on the y-axis and e/mm on the x-axis, with the origin at (0,0)."
+      },
+      {
+        "part_label": "d",
+        "part_text": "The gradient of your graph in Fig. 1.2 measures the force constant of the spring. The greater the force constant, the harder it is to stretch the spring. A second spring has the same unstretched length but a greater force constant. Using the same axes, draw on Fig. 1.2 a line to show how the length of this second spring changes as loads are added to it. Label this line S.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2019/Q2",
+    "Question_text": "A student performs an experiment to measure the density of water.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "She places an empty test-tube on a top-pan balance, as shown in Fig. 2.1. Record the mass m of the test-tube to three significant figures.",
+        "image": "Fig. 2.1 shows a test-tube on a digital top-pan balance, which displays \"13.56 g\". The test-tube is labeled \"test-tube\"."
+      },
+      {
+        "part_label": "b",
+        "part_text": "She pours a volume V₁ = 65 cm³ of water into a measuring cylinder. She lowers the empty test-tube into the water in the measuring cylinder, so that it floats.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 2.2 shows the new reading on the measuring cylinder. Read and record the new water level V₂ in the measuring cylinder.",
+        "image": "Fig. 2.2 shows a measuring cylinder with markings from 20 to 100 cm³. Water is present, and a test-tube is floating in it. The water level with the floating test-tube is at 60 cm³. The labels are \"cm³\", \"test-tube\", \"measuring cylinder\"."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the increase in the volume reading V in the measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest one source of experimental inaccuracy in reading the scale on the measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Theory suggests that the density ρ of water is given by the equation: ρ = m/V. Use your answers to (a) and (b)(ii) to calculate ρ. State the unit of your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2019/Q3",
+    "Question_text": "A student investigates the resistance of different lengths l of a metal wire PQ of total length 1.000 m. She sets up the circuit shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows an electrical circuit. A power supply (battery) is connected to a switch and then to a metal wire PQ of length 100 cm, which is placed on a metre rule. An ammeter (A) is in series with the wire. A sliding contact S is placed on the wire at a distance 'l' from P. A voltmeter (V) is connected in parallel across the length 'l' of the wire between P and S. Labels include \"A\", \"l\", \"0 cm S\", \"100 cm\", \"V\", \"metal wire\", \"metre rule\".",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "She places the sliding contact S a distance l = 10.0cm from end P of the wire and records the readings on the ammeter and the voltmeter. The reading on the voltmeter is shown in Fig. 3.2. Read the voltmeter scale and record your answer in Table 3.1.",
+        "image": "Fig. 3.2 shows a voltmeter scale with markings from 0 to 1.0 V, with 0.5 V in the middle. The needle points to 0.4 V."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the resistance of a length l = 10.0cm of the wire. Use the equation R = V/I. Record your answer in Table 3.1. Table 3.1 shows columns for \"length l/cm\", \"current I/A\", \"p.d. V/V\", \"resistance R/Ω\". Data includes: 10.0 (0.25, empty V, empty R), 20.0 (0.25, 0.41, 1.64), 40.0 (0.25, 0.84, 3.36).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student repeats the procedure for lengths l = 20.0cm and l = 40.0 cm of wire and records her results in Table 3.1. Look at the results in Table 3.1. Within the limits of experimental error, suggest the relationship between l and R.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student notices that the wire is warm at the end of the investigation. Describe one precaution that the student can take to minimise this heating effect.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2019/Q4",
+    "Question_text": "A student investigates the refraction of light by a right-angled glass prism WXY. He uses a ray box to direct a ray of light towards side WY of the prism, as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows a triangular prism WXY. A ray box directs a ray of light towards the side WY. Labels include \"W\", \"X\", \"Y\", \"ray of light\", \"ray box\". The ray hits WY.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "introduction",
+        "part_text": "He places two pins P₁ and P₂ on the incident ray and marks each position with a cross. He places another two pins P₃ and P₄ on the emergent ray and marks each position with a cross. He removes the ray box. He draws around the outline of the prism and then removes it. The student uses a ruler to trace the path of the incident ray until it reaches side WX of the glass prism. He labels the point where the ray hits side WX with the letter Z, as shown in Fig. 4.2. Fig. 4.2 shows the outline of the triangular prism WXY. Pins P1 and P2 are marked on the incident ray before it enters the prism at point Z on side WX. Pins P3 and P4 are marked on the emergent ray after it leaves the prism from side XY. \"Z\" is labeled on side WX. \"W\", \"X\", \"Y\" are labeled on the prism corners. A small cross is visible near P1 (labeled *P1) and P2 (labeled *P2), and P3 (labeled *P3) and P4 (labeled *P4).",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Draw the normal to the prism at point Z.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Use a ruler to draw the path of the ray from Z until after it emerges from the prism.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe the overall effect of the prism on the direction of the ray.",
+        "image": null
+      }
+    ]
+  }
+]

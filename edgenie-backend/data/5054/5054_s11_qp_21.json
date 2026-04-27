@@ -1,0 +1,481 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2011/Q1",
+    "Question_text": "Fig. 1.1 shows the speed-time graph for a car. The cyclist leaves town A at time t = 0 and arrives at town B at t = 4.0 hours. At time t = 15s, the brakes are applied and the car comes to rest with uniform deceleration.",
+    "image": "A speed-time graph titled 'Fig. 1.1'. The x-axis is 't/s' (time in seconds) ranging from 0 to 30. The y-axis is 'speed m/s' (speed in meters per second) ranging from 0 to 20. The graph shows a horizontal line at 10 m/s from t=0 to t=15s, indicating constant speed. From t=15s, the speed decreases linearly to 0 m/s at t=20s, indicating uniform deceleration. The grid lines are spaced every 5 units on both axes.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Distance-Time Graphs",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the speed of the car just before the brakes are applied.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain what is meant by uniform deceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A lorry travels at a constant speed of 18m/s for 15s. At time t = 15s, the brakes are applied and the lorry slows down with the same deceleration as the car.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 1.1, draw the speed-time graph for the lorry.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how your graph shows that, while braking, the lorry travels further than the car.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q2",
+    "Question_text": "Fig. 2.1 shows a sky-diver falling vertically downwards at terminal velocity. Arrows X and Y show the two main forces acting on the sky-diver.",
+    "image": "A diagram titled 'Fig. 2.1' showing a sky-diver in a spread-eagle position, falling downwards. An upward pointing arrow labeled 'Y' originates from the sky-diver's center of mass, representing air resistance or drag. A downward pointing arrow labeled 'X' also originates from the sky-diver's center of mass, representing weight or gravitational force.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity",
+      "Newton's First Law",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of force X and the name of force Y.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why force Y acts upwards.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the sky-diver first started to fall, forces X and Y were unbalanced.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe and explain the effect of the unbalanced forces on the motion of the sky-diver.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State what happened to the size of force X and the size of force Y as the sky-diver fell and reached terminal velocity.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q3",
+    "Question_text": "Fig. 3.1 shows part of a small hydroelectric system that generates electricity from moving water.",
+    "image": "A diagram titled 'Fig. 3.1' depicting a small hydroelectric system. Water flows through a horizontal 'pipe' which narrows at its end. The water then strikes a 'turbine', shown with blades that would rotate. The turbine is connected by a shaft to a 'generator', which is a cylindrical component. Arrows indicate the direction of water flow and the connection between the turbine and generator.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Power",
+      "Efficiency",
+      "Energy Resources",
+      "Energy from Water"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Every minute, water with kinetic energy 14000J emerges from the pipe. The water turns a turbine that is connected to the generator. Half of the kinetic energy of the water is given to the generator.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the power input to the generator.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest a reason why only some of the kinetic energy of the water is given to the generator.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Hydroelectric systems use sources of renewable energy.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by renewable energy.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one source of non-renewable energy.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q4",
+    "Question_text": "Water at a temperature of 16°C enters an ice-making machine and emerges as ice cubes at a temperature of -5°C. The melting point of ice is 0°C. specific heat capacity of liquid water = 4.2 × 10^3J/(kg°C) specific latent heat of fusion of water = 3.4 × 10^5J/kg specific heat capacity of ice = 2.1 x 10^3J/(kg °C)",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Particle Model",
+      "States of Matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the total energy removed from 1.0kg of water as it cools from 16°C, changes into ice, and then cools to –5°C.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Using ideas about molecules,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "explain why energy is needed to change ice into water,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "suggest why less energy is needed to change ice into water than to change the same mass of water into steam.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q5",
+    "Question_text": "The fluorescent tube shown in Fig. 5.1 converts electrical energy into light more efficiently than a filament lamp.",
+    "image": "A diagram titled 'Fig. 5.1' showing a fluorescent tube. It consists of a long, narrow glass cylinder. The interior surface of the tube is labeled 'fluorescent coating', and the gas inside is labeled 'gas'. One end of the tube shows a narrower section with electrodes inside, typical of a fluorescent lamp structure.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain the purpose of the fluorescent coating.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the name of one region of the electromagnetic spectrum with wavelengths shorter than ultra-violet radiation.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The ultra-violet radiation inside the tube has a wavelength of 3.6 × 10^–7m. Calculate the frequency of the ultra-violet radiation. (speed of light = 3.0 × 10^8m/s)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q6",
+    "Question_text": "Fig. 6.1 shows a bat. Bats emit short bursts of ultrasound. The echoes of the ultrasound help the bat find insects and prevent the bat flying into objects.",
+    "image": "Fig. 6.1 shows an illustration of a bat with its wings spread, possibly in flight or hanging. The bat is depicted realistically.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Reflection of Sound Waves",
+      "Ultrasound",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by an echo.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 6.2 shows the variation with time of air pressure caused by a burst of ultrasound. On Fig. 6.2, draw a possible echo formed by this burst of ultrasound.",
+        "image": "A graph titled 'Fig. 6.2' with the y-axis labeled 'air pressure' and the x-axis labeled 'time'. It shows a decaying sinusoidal wave starting at time t=0 and lasting for approximately 4 cycles. The amplitude decreases over time, representing a burst of ultrasound. The x-axis has tick marks but no numerical values, representing time intervals."
+      },
+      {
+        "part_label": "c",
+        "part_text": "State",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "the approximate range of frequencies of sound audible to humans,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "how the frequency of ultrasound differs from frequencies in this audible range.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q7",
+    "Question_text": "Fig. 7.1 shows the structure of a circuit-breaker that uses an electromagnet. The circuit-breaker operates when the current is 10A.",
+    "image": "A diagram titled 'Fig. 7.1' illustrating the structure of a circuit-breaker. It shows 'current in' flowing into a coil wrapped around an 'electromagnet'. Adjacent to the electromagnet is an 'iron bar' that is pivoted at its top end and has a 'spring' attached to its lower end. The iron bar is also connected to 'contacts' which are part of a 'copper bar'. The copper bar is pivoted and eventually leads to 'current out'. A 'fixed bar' is also shown. The setup is designed so that when the electromagnet is strong enough, it pulls the iron bar, causing the contacts to open and break the circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 7.1, mark with an arrow the force on the iron bar caused by the electromagnet.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest one reason why the iron bar does not move when the current is less than 10A.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When the current is greater than 10A, the circuit-breaker stops the current. Explain what happens in the circuit-breaker when this occurs.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State and explain how the electromagnet can be altered so that the circuit-breaker stops the current at less than 10A.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q8",
+    "Question_text": "(a) A wire carrying a current in a magnetic field experiences a force due to the current. On Fig. 8.1, insert the words current, field and force in the boxes to show the relative directions of the current, the magnetic field and the force.",
+    "image": "Fig. 8.1 shows a right hand, specifically a hand gesture similar to Fleming's Left-Hand Rule or the right-hand grip rule, with the thumb and first two fingers extended perpendicularly to each other. Three empty boxes are placed next to the thumb, forefinger, and middle finger, respectively, to be filled with 'current', 'field', and 'force'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors",
+      "Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A wire carrying a current in a magnetic field experiences a force due to the current. On Fig. 8.1, insert the words current, field and force in the boxes to show the relative directions of the current, the magnetic field and the force.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 8.2 shows a current-carrying coil ABCD in a magnetic field. Each side of the coil is 4.0cm in length. The force on AB is 20N and the force on CD is 20N.",
+        "image": "A diagram titled 'Fig. 8.2' illustrating a current-carrying coil ABCD placed within a magnetic field. An 'N-pole' is on the left and an 'S-pole' is on the right, creating a magnetic field from left to right. Side AB of the coil experiences a downward force of '20 N', and side CD experiences an upward force of '20 N'. The distance between the forces (width of the coil) is not explicitly labeled but implied by the drawing."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the total moment caused by these forces.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The moment is increased by using a stronger magnetic field. State two other ways to increase the moment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q9",
+    "Question_text": "Fig. 9.1 shows a rotating magnet in an alternating current generator that is used to power a lamp.",
+    "image": "A diagram titled 'Fig. 9.1' showing an AC generator. A bar magnet with 'N' (North) and 'S' (South) poles is depicted rotating about a vertical axis. This magnet is enclosed by a 'soft iron' core, around which a 'coil' of wire is wound. The ends of the coil are connected to a 'lamp'. Arrows indicate the rotation of the magnet.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Transformers",
+      "Transformer Calculations",
+      "Electrical Safety",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State how an alternating current differs from a direct current.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain, in detail, how alternating current is produced by the apparatus shown in Fig. 9.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State two ways in which the current in the lamp may be increased.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The generators at a power station produce a voltage of 25000V. This voltage is stepped up to 400000V by a transformer for long-distance transmission on overhead power lines. The voltage is later stepped down to 240V.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State and explain why the voltage is stepped up for long-distance transmission.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the ratio of the number of turns in the primary coil of the step-up transformer to the number of turns in its secondary coil.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State one advantage and one disadvantage of using thicker wire in the overhead power lines.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "An electric drill of power 1000W is used in a country where the mains voltage is 240V. State and explain the most appropriate fuse to use with this drill. You should select a fuse from the following values: 1A, ЗА, 4А, 13A.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q10",
+    "Question_text": "(a) A 1500Ω resistor is used on an electronic circuit board in a television. Fig. 10.1 shows the bands on a resistor. The table of Fig. 10.2 shows the colour code for the bands.",
+    "image": "Fig. 10.1 shows a cylindrical resistor with three distinct colour bands labeled 'band 1', 'band 2', and 'band 3'. Fig. 10.2 is a table with two columns: 'digit or multiplier' (ranging from 0 to 9) and 'colour'. The colours listed are black, brown, red, orange, yellow, green, blue, violet, grey, and white, corresponding to digits 0 through 9 respectively.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Electrical Power",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the colours of the bands on a 1500 Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine the maximum value of resistance that can be shown with this three-band colour code.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The 1500Ω resistor on the electronic circuit board has a correct power rating of 0.25W. State a disadvantage of using a different 1500Ω resistor with a power rating that is 1. much less than 0.25 W, 2. much greater than 0.25W.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 10.3 shows part of a circuit that includes a variable resistor R and a battery of e.m.f. 9.0V.",
+        "image": "A circuit diagram titled 'Fig. 10.3'. It shows a battery providing an electromotive force (e.m.f.) of 9.0V. A variable resistor 'R' is connected in series. Two open terminals, 'X' and 'Y', are shown across which another component could be connected. The variable resistor is depicted with an arrow indicating its adjustability."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State one similarity and one difference between electromotive force (e.m.f.) and potential difference (p.d.).",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A light-emitting diode (LED) is connected between points X and Y, so that it emits light. On Fig. 10.3, draw the symbol for the LED connected between points X and Y.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The resistance of R is increased. State what happens to the p.d. across the LED and to the current in the LED.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The LED is marked “maximum current 25mA when the p.d. is 1.7V\". Calculate the minimum value of the resistance of R.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q11",
+    "Question_text": "An atom of one isotope of sodium contains 11 protons, 13 neutrons and 11 electrons.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Detection of Radioactivity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the nucleon number (mass number) of this isotope.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the number of protons is equal to the number of electrons in a neutral atom.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A nucleus of this isotope undergoes radioactive decay by the emission of a beta-particle.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the energy change that occurs during radioactive decay.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Complete the nuclear equation that represents this decay by filling in the appropriate numbers in the blank spaces. Na is the chemical symbol for sodium. ^..._11 Na → ^..._... β + ^..._... Mg",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "At the start of an experiment, the count rate due to a sample of this isotope of sodium is found to be 1200 counts per minute. This is shown on Fig. 11.1 by a point plotted at time t = 0. The half-life of this isotope is 15 hours.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 11.1, draw a smooth line to show how the count rate is expected to change between t = 0 and t = 30 hours.",
+        "image": "A graph titled 'Fig. 11.1'. The y-axis is labeled 'count rate counts per minute' with values 0, 400, 800, 1200. The x-axis is labeled 't/hours' with values 0, 10, 20, 30. A single data point is plotted at (0, 1200)."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why readings taken in an actual experiment may not follow a smooth line.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Determine the count rate due to this isotope 30 hours before the start of the experiment.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "In the space below, draw a labelled diagram of the apparatus used to measure the count rate of the radioactive isotope.",
+        "image": null
+      }
+    ]
+  }
+]

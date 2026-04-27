@@ -1,0 +1,476 @@
+[
+  {
+    "QuestionNumber": "October-November/11/2022/Q1",
+    "Question_text": "The diagram shows three forces acting on a block. The resultant force is 6 N to the right. Which additional force produces a resultant force of 3 N to the left?",
+    "image": "A block is shown with three horizontal forces acting on it: 3 N to the left, 2 N to the left, and 11 N to the right. The combined effect of these forces gives a net force of (11 - 3 - 2) = 6 N to the right.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q2",
+    "Question_text": "Velocity is given by the change in displacement divided by the change in time. How many vector quantities appear in this statement?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q3",
+    "Question_text": "A car of mass 1000 kg is travelling down a steep hill. The brakes fail and the driver uses a horizontal sand-filled safety road to stop the car. The car enters the sand at a speed of 10m/s and experiences a constant stopping force of 2500 N. How far does the car travel in the sand before coming to rest?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Kinetic Energy",
+      "Stopping Distances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q4",
+    "Question_text": "Which part of the distance-time graph shows the fastest constant speed?",
+    "image": "A distance-time graph with time on the x-axis and distance on the y-axis. Segment A is a straight line with a moderate positive slope. Segment B is a horizontal straight line. Segment C is a curve with an increasing positive slope, starting less steep than A and ending steeper than D. Segment D is a straight line with a steep positive slope, steeper than A.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q5",
+    "Question_text": "An object is accelerating along a straight, horizontal track. The acceleration is uniform. Which speed-time graph represents the motion of the object?",
+    "image": "Four speed-time graphs are presented. Graph A shows speed increasing linearly with time, starting from zero. Graph B shows speed remaining constant over time. Graph C shows speed increasing with an upward curve, indicating increasing acceleration. Graph D shows speed increasing with a downward curve, indicating decreasing acceleration.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q6",
+    "Question_text": "What causes the frictional effects experienced by a cyclist to increase?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q7",
+    "Question_text": "The diagram shows a car at the moment the driver sees a hazard ahead. Which expression is equal to the stopping distance?",
+    "image": "A diagram illustrates a car on a road. An arrow labeled 'thinking distance' shows the distance covered before braking starts, and an arrow labeled 'braking distance' shows the distance covered while braking. The total distance from seeing the hazard to stopping is the sum of these two distances.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q8",
+    "Question_text": "A planet orbits the Sun. The planet moves in a circular path at constant speed, but is accelerating because it is changing direction. In which direction does the resultant force act to cause this acceleration?",
+    "image": "A diagram shows a planet orbiting the Sun. The 'direction of planet's motion' is indicated by a tangential arrow. Four other arrows (A, B, C, D) originate from the planet. Arrow A points forward along the orbit, B points outwards from the orbit, C points inwards towards the Sun, and D points backward against the direction of motion.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q9",
+    "Question_text": "X is the result of Y divided by Z. What are X, Y and Z?",
+    "image": "A table with three columns labeled X, Y, and Z. Each row represents an option (A, B, C, D) with different combinations of 'mass', 'weight', and 'gravitational field strength' listed under X, Y, and Z.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q10",
+    "Question_text": "The graph shows how the extension of a spring changes with the masses suspended from it when the spring is on planet X and when the spring is on planet Y. Which conclusion can be drawn from these graphs?",
+    "image": "A line graph showing 'extension / cm' on the y-axis and 'mass / kg' on the x-axis. Two straight lines originating from the origin are shown. The line labeled 'planet X' is steeper than the line labeled 'planet Y'. For example, at 3 kg, planet X shows 45 cm extension, and planet Y shows 15 cm extension.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q11",
+    "Question_text": "A uniform beam is pivoted at its centre. Two weights are placed on the beam in the positions shown and the beam is balanced by an upward force F. What is the size of F?",
+    "image": "A diagram of a uniform beam, pivoted at its center. A 30 N weight is placed 40 cm to the left of the pivot. A 60 N weight is placed 20 cm to the right of the pivot. An upward force F is applied 30 cm to the right of the pivot.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q12",
+    "Question_text": "Four objects of equal mass rest on a table. The centre of mass of each object is labelled G. Which object is the least stable?",
+    "image": "Four objects (A, B, C, D) are shown resting on a flat surface, with their center of mass (G) indicated. Object A is a triangle with a relatively low G. Object B is a tall, narrow rectangular block with a high G. Object C is a wide, short rectangular block with a low G. Object D is a parallelogram tilted on its edge, with a low G.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q13",
+    "Question_text": "Each tyre of a car has an area of 100 cm² in contact with the ground. The car has a mass of 1600 kg. The weight of the car is equally distributed amongst the four tyres. The gravitational field strength g is 10 N/kg. What is the pressure exerted on the ground?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q14",
+    "Question_text": "The pressure P of some trapped air is varied. The mass and the temperature of the trapped air remain constant. Which graph shows how the volume V of the air varies with the pressure P?",
+    "image": "Four graphs are shown, each with P on the y-axis and V on the x-axis, or P on the y-axis and 1/V on the x-axis. Graph A shows P increasing linearly with V. Graph B shows P increasing linearly with V, with a steeper slope than A. Graph C shows a curve where P decreases as V increases, resembling an inverse relationship. Graph D shows P increasing linearly with 1/V.",
+    "Unit": "Thermal Physics",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q15",
+    "Question_text": "A constant force F pulls a block of weight W up the slope shown. How much work is done by F in pulling the block up the slope?",
+    "image": "A block on an inclined plane. A force F pulls the block up the slope, covering a distance l along the slope. The vertical height gained is h, and the horizontal distance covered is d. The weight of the block is W, acting vertically downwards.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q16",
+    "Question_text": "X and Y are both 40W, 240 V lamps. Lamp X is more efficient than lamp Y. Which statement correctly compares X with Y?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Electrical Power",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q17",
+    "Question_text": "The diagram shows a radiator heating the air in a room. What is the name of this process?",
+    "image": "A diagram illustrates a radiator heating a room. Arrows indicate that 'hot air' rises from the radiator towards the ceiling, moves across the ceiling, cools down, and then descends as 'cool air' towards the floor, returning to the radiator, forming a convection current.",
+    "Unit": "Thermal Physics",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q18",
+    "Question_text": "What is a process of heat transfer that can take place in a vacuum?",
+    "image": null,
+    "Unit": "Thermal Physics",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q19",
+    "Question_text": "The diagrams represent four thermometers. Which thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+    "image": "Four liquid-in-glass thermometers are shown, labeled P, Q, R, S, each with a different temperature scale. Thermometer P has a range of 0°C to 25°C. Thermometer Q has a range of 0°C to 40°C. Thermometer R has a range of 0°C to 250°C. Thermometer S has a range of 100°C to 300°C. P and Q have finer markings (more divisions per degree) than R and S.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q20",
+    "Question_text": "A piece of iron of mass m is placed in a mixture of ice and water. Its temperature decreases from θ₁ to θ₂. How much thermal energy is lost by the piece of iron?",
+    "image": null,
+    "Unit": "Thermal Physics",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q21",
+    "Question_text": "A kilogram of a substance has a fixed shape. Thermal energy supplied to the substance weakens the forces of attraction between its molecules. What is happening?",
+    "image": null,
+    "Unit": "Thermal Physics",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q22",
+    "Question_text": "Which conditions produce the greatest rate of evaporation from a liquid?",
+    "image": null,
+    "Unit": "Thermal Physics",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q23",
+    "Question_text": "Which statement is correct?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Wave Behaviour"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q24",
+    "Question_text": "A mirror is placed in the path of a ray of light. Through which angle does the direction of the ray of light change?",
+    "image": "A diagram shows a mirror with a normal line drawn perpendicular to its surface. An incident ray strikes the mirror at an angle of 40° to the normal. A reflected ray leaves the mirror. A dashed line indicates the 'path of light without the mirror', which is the continuation of the incident ray.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q25",
+    "Question_text": "An oscilloscope is used to demonstrate a sound. Which feature of the oscilloscope trace is affected by the quality (timbre) of the sound?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q26",
+    "Question_text": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field. One compass appears like this [image of compass with arrow pointing SW]. What is a possible position for this compass?",
+    "image": "A bar magnet is shown horizontally with its North pole on the left (S) and South pole on the right (N). Four points, A, B, C, D, are marked around the magnet. A compass needle image is provided, showing its North pole pointing roughly southwest relative to its casing.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q27",
+    "Question_text": "A plastic rod and a cloth are initially uncharged. The rod is then rubbed with the cloth and the cloth becomes positively charged. What is the sign of the charge on the plastic rod and why does it become charged?",
+    "image": "A diagram illustrates a plastic rod being rubbed with a cloth. The cloth is depicted with multiple '+' signs, indicating it has become positively charged.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q28",
+    "Question_text": "Which expression gives the electromotive force (e.m.f.) of a battery?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q29",
+    "Question_text": "A circuit contains two cells and two lamps. The cells are new and are fully charged. In which arrangement of the cells and lamps do the cells discharge the most quickly?",
+    "image": "Four circuit diagrams (A, B, C, D) are shown, each containing two identical cells and two identical lamps. Diagram A has cells in series, lamps in series. Diagram B has cells in parallel, lamps in parallel. Diagram C has cells in series, lamps in parallel. Diagram D has cells in parallel, lamps in series.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Combined Resistance",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q30",
+    "Question_text": "A lamp is connected in series with a battery and a variable resistor. The resistance of the variable resistor is decreased gradually. Which statement is correct?",
+    "image": "A circuit diagram shows a battery, a lamp, and a variable resistor connected in series.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Resistance",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q31",
+    "Question_text": "In the circuits shown all the cells are identical and all the lamps are identical. The switches are closed. In which circuit are both lamps the brightest?",
+    "image": "Four circuit diagrams (A, B, C, D) are shown, each containing two identical cells and two identical lamps. Diagram A has cells in parallel and lamps in series. Diagram B has cells in series and lamps in parallel. Diagram C has cells in series and lamps in series. Diagram D has cells in parallel and lamps in parallel.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q32",
+    "Question_text": "Why is a fuse used in an electrical appliance?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q33",
+    "Question_text": "Which statement about a transformer is correct?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q34",
+    "Question_text": "The diagram shows the output from an a.c. generator displayed on an oscilloscope screen. The generator is turned at a slower rate. The settings on the oscilloscope controls are not changed. Which diagram shows the new output?",
+    "image": "Four oscilloscope screen diagrams showing AC waveforms. The first diagram (A) shows the original output, a sine wave with a certain amplitude and frequency. Diagrams B, C, and D show modified waveforms. Diagram B shows a waveform with a longer period (lower frequency) and smaller amplitude. Diagram C shows a waveform with a longer period and the same amplitude. Diagram D shows a waveform with a shorter period and the same amplitude.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromagnetic Induction",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q35",
+    "Question_text": "The sound wave produced by a note is displayed on the screen of a cathode-ray oscilloscope. The time-base is set at 5 ms for one division. What is the frequency of the note?",
+    "image": "An oscilloscope screen displays a sinusoidal waveform. One complete cycle of the wave spans four horizontal divisions. The time-base setting indicates that each horizontal division represents 5 ms.",
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q36",
+    "Question_text": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves and electrons. What are these three types of radiation?",
+    "image": "A table with three columns: 'helium nuclei', 'electromagnetic waves', and 'electrons'. Underneath these are rows for options A, B, C, D, listing different combinations of 'alpha', 'gamma', and 'beta' in each column, corresponding to the respective particle/wave type.",
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q37",
+    "Question_text": "A beam of electrons is fired into a uniform magnetic field as shown. The direction of the magnetic field is into the page. Which path do the electrons follow?",
+    "image": "A diagram shows an 'electron beam' moving horizontally from left to right into a region marked with crosses, indicating a uniform magnetic field directed 'into the page'. Four possible curved paths (A, B, C, D) are shown originating from the entry point of the electron beam.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q38",
+    "Question_text": "Which statement about all three types of radioactive emissions is correct?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q39",
+    "Question_text": "What is meant by the half-life of a radioactive substance?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2022/Q40",
+    "Question_text": "Radioactive isotopes that emit alpha-particles, beta-particles and gamma rays are stored in wooden boxes that are lined with a material that prevents most radiation escaping from the box. Which material is used for the lining?",
+    "image": "A cross-sectional diagram of a container designed for storing radioactive isotopes. It consists of an outer 'wooden box', an inner 'lid lining', and a 'box lining' which encapsulates the 'radioactive isotope' in the center.",
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Dangers of Radiation",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,517 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2013/Q1",
+    "Question_text": "A ball rolls down a slope, as shown in Fig. 1.1. The metre rule shows the position of the ball at times t = 0, 1.0s, 2.0 s and 3.0 s.",
+    "image": "Fig. 1.1 shows a ball rolling down a sloped metre rule. The metre rule is marked from 0 cm to 90 cm. The ball's position is indicated at four different times: t=0 (at approximately 5 cm), t=1.0s (at approximately 15 cm), t=2.0s (at approximately 38 cm), and t=3.0s (at approximately 75 cm). A wavy line indicates the slope.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Speed & Velocity",
+      "Friction",
+      "Mass & Weight",
+      "terminal velocity",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain how Fig. 1.1 shows that the ball is accelerating.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the average speed of the ball between t = 1.0 s and 3.0s.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Two of the forces that act on the ball are air resistance and weight. State what, if anything, happens to these forces as the ball accelerates. air resistance: weight:",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Explain why, if the slope is long enough, the ball eventually reaches a constant speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Newton's Third Law",
+      "Resultant Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by the moment of a force.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 2.1 shows a system for raising a heavy piece of metal into a vertical position. A man pulls on the rope with a horizontal force T. The piece of metal has a weight of 2000 N and is freely pivoted at A. The system is in equilibrium.",
+        "image": "Fig. 2.1 (not to scale) shows a system for raising a piece of metal. A rope is pulled horizontally by a force T. The rope is attached to the top of a triangular frame, which is pivoted at point A on the ground. The piece of metal hangs vertically from the frame, with its weight (2000 N) acting downwards. The horizontal distance from the pivot A to the vertical line of action of the weight is 2.0 m. The vertical distance from the pivot A to the line of action of force T is 8.0 m."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "By taking moments about A, calculate T.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The force T and the force that the rope exerts on the man are related by Newton's third law. State the relationship between these forces.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q3",
+    "Question_text": "Fig. 3.1 shows a man using a chest expander to increase the strength of his arms. The chest expander may be considered to be a single spring. Fig. 3.2 shows the force needed to produce different extensions of the spring.",
+    "image": "Fig. 3.1 shows a cartoon drawing of a man using a chest expander. He is holding handles on either side, stretching a spring between them horizontally across his chest.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Work",
+      "Power",
+      "Elastic Potential Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The man increases the force on the spring from 0 to 180 N. The spring extends by 30 cm and the average force exerted during this process is 90 N.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the work done on the spring.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Twenty extensions are made in 1.0 minute. Calculate the power used to extend the spring.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The force at the limit of proportionality of the spring is 800 N.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the extension of the spring when the force is 800 N.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The force on the spring is increased from 800 N to 860 N. Suggest what happens to the extension.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The list below contains three components of the electromagnetic spectrum. infra-red gamma rays visible light Arrange the components in order of increasing wavelength.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Satellites are used in the transmission of some television signals. Fig. 4.1 shows a satellite above the television station where a television signal is generated.",
+        "image": "Fig. 4.1 (not to scale) shows a satellite orbiting above the Earth. A line indicates a signal being sent from a 'television station' on the Earth's surface upwards towards the satellite. Another line indicates the satellite transmitting a signal outwards."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State which component of the electromagnetic spectrum is used to transmit the television signal to the satellite.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how the satellite is used.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest one advantage of using a satellite to transmit television signals.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q5",
+    "Question_text": "A student rubs a polythene rod with a dry cloth. The polythene rod becomes negatively charged and the cloth becomes positively charged.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe, in terms of the movement of electrons, what happens during the charging process.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "There is an electric field around the charged rod. Explain what is meant by an electric field.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The charged rod is placed near a stream of water from a tap, as shown in Fig. 5.1. The stream of water bends because the rod is charged.",
+        "image": "Fig. 5.1 shows a tap with a stream of water flowing downwards. A charged rod is placed horizontally near the stream, causing the stream of water to bend towards the rod."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain how the charge on the rod causes positive and negative particles in the water to move.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 5.1, draw the charge present on the stream of water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q6",
+    "Question_text": "Fig. 6.1 shows the current-voltage graph for a filament lamp.",
+    "image": "Fig. 6.1 displays a current-voltage graph for a filament lamp. The x-axis is labeled 'voltage/V' ranging from 0 to 12. The y-axis is labeled 'current/A' ranging from 0 to 0.4. The graph starts at the origin (0,0) and shows a curved line with increasing gradient, indicating that current increases with voltage, but not linearly. The curve flattens out towards higher voltages, showing current reaching approximately 0.38 A at 12 V.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the range of voltages where the resistance increases.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State why the resistance of the lamp increases as the voltage increases.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The filament lamp is connected in the circuit shown in Fig. 6.2. There are currents in the lamp, the 20Ω resistor and the ammeter.",
+        "image": "Fig. 6.2 shows an electrical circuit. A 6.0 V power supply is connected to a parallel combination of a 20 Ω resistor and a filament lamp (represented by a circle with a cross). An ammeter (A) is placed in the main circuit before the parallel branches."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by an electric current.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Use Fig. 6.1 to determine the current in the filament lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Determine the current in the ammeter.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q7",
+    "Question_text": "Fig. 7.1 shows a view, from above, of two wires X and Y. These wires carry equal currents vertically downwards through a piece of card. One complete magnetic field line is drawn around each wire. In this question, ignore the effects of the Earth's magnetic field.",
+    "image": "Fig. 7.1 shows a top-down view of two parallel wires, X and Y, passing vertically downwards through a piece of card. Wire X is on the left, and wire Y is on the right. Both wires are represented by circles with a cross inside, indicating current flowing into the page. Around each wire, a concentric circle represents a magnetic field line, drawn clockwise. Point A is located between the two wires, closer to X. Point B is located exactly midway between the two wires.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnetic Effect of a Current",
+      "Fields Around Parallel Conductors",
+      "Force on a Current-Carrying Conductor",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 7.1, draw the complete magnetic field line due to the current in wire X that passes through point A. Mark the direction of this field line.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Point B is midway between the two wires. Explain why the magnetic field at B is zero.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "There is a force on wire Y due to the current in wire X.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State the direction of the force on wire Y.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why there is a force on wire Y.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q8 (EITHER)",
+    "Question_text": "Fig. 8.1 shows a simple a.c. generator. The coil is turning and an e.m.f. is induced in the coil.",
+    "image": "Fig. 8.1 shows a schematic diagram of a simple A.C. generator. It consists of a rectangular coil placed between the north (N) and south (S) poles of a permanent magnet. The coil is connected to two slip rings, which are in turn connected to an external output circuit. An arrow indicates the rotation of the coil around an axis. At the instant shown, the plane of the coil is vertical, meaning it's moving parallel to the magnetic field lines.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The generator contains a permanent magnet. State the name of a metal used in a permanent magnet.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "At the instant shown in Fig. 8.1, the induced e.m.f. is a maximum.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why the induced e.m.f. is a maximum.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the position of the coil where there is no induced e.m.f.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q9",
+    "Question_text": "Fig. 9.1 shows a flask, partly full of a liquid and partly full of air. When the flask is heated, the pressure of the air inside the flask increases and the liquid rises up the tube.",
+    "image": "Fig. 9.1 shows a flask with a narrow tube inserted through its stopper. The flask contains some liquid at the bottom and air above it. The tube extends above the flask, with the liquid level marked 'X' and a lower point 'Y' indicated at 0.15 m below X. The overall setup is labeled as 'flask', 'liquid', 'air', and 'tube'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Thermal Expansion",
+      "Mass & Weight",
+      "Density",
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Melting, Boiling & Evaporation",
+      "Evaporation",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain, using ideas about molecules, why heating the air inside the flask causes the pressure to increase.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A teacher uses the flask as a thermometer. He marks the liquid level at 0°C and at 100 °C.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how the teacher obtains these temperatures.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State two ways in which the thermometer can be made more sensitive. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The thermometer has a non-linear scale. Explain what is meant by a non-linear scale on a thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The inner cross-sectional area of the tube is 5.0 × 10–5m². The density of liquid in the tube is 1200kg/m³. The distance between X and Y is 0.15m. The gravitational field strength g is 10N/kg. Calculate",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "the mass of liquid in the tube,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the weight of liquid in the tube,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "the pressure at the bottom of the tube caused by the liquid column between X and Y.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "When the flask is completely full of liquid, the liquid moves up the tube a smaller distance for the same temperature rise. State why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q10",
+    "Question_text": "A student traces the path of a ray of blue light as it enters and as it leaves a glass prism. Fig. 10.1 shows the trace obtained by the student.",
+    "image": "Fig. 10.1 shows a diagram of a triangular glass prism. A ray of blue light, labeled 'blue light', enters the prism at point B, having traveled along a path labeled 'AB'. The light then exits the prism at point C, continuing along a refracted path. The points A, B, and C are marked.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Refraction of Light",
+      "Snell's Law",
+      "Dispersion of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 10.1, draw and label, at the point B, the normal, the angle of incidence i and the angle of refraction r.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State, in terms of the properties of light waves, why the light refracts at B.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The angle of incidence for the ray of blue light at B is 45°. The refractive index of the glass is 1.5. Calculate the angle of refraction at B.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student performs another experiment with a ray of red light along the line AB. On Fig. 10.1, show the path taken by this ray of light as it passes through and leaves the prism.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The student performs another experiment with a semicircular glass block and a ray of white light. Fig.10.2 shows the path taken by this ray of light as it enters the glass at P until it hits the straight edge at Q. The student finds that there is no change in direction as the ray enters the glass at P and that no light passes out of the glass at Q.",
+        "image": "Fig. 10.2 shows a semicircular glass block. A ray of white light enters the curved surface at point P, perpendicular to the surface, and travels straight to the center of the straight edge at point Q. A normal is drawn at Q, and the angle of incidence at Q is labeled 'θ'."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Explain why the ray does not change direction at P.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Explain why no light passes out of the glass at Q.",
+        "image": null
+      },
+      {
+        "part_label": "e(iii)",
+        "part_text": "On Fig. 10.2, draw the complete path followed by this ray.",
+        "image": null
+      },
+      {
+        "part_label": "e(iv)",
+        "part_text": "The student directs the ray of white light into the glass along different paths, so that the angle θ is slowly reduced. Describe what happens to the ray at Q.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2013/Q11",
+    "Question_text": "A student places a small electrical heater inside a cup of water, as shown in Fig. 11.1. The student determines the electrical power of the heater.",
+    "image": "Fig. 11.1 shows a cross-section of a cup containing water. An electrical heater, depicted as small rectangular blocks, is submerged in the water inside the cup.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electrical Power",
+      "Electrical Energy",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Evaporation",
+      "Melting, Boiling & Evaporation",
+      "Particle Model",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space above the cup on Fig. 11.1, draw the electrical circuit that the student uses. Include an ammeter, a voltmeter and a power supply.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The voltage of the power supply is 12V and the current is 4.2 A.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the electrical power input to the heater.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the energy input to the heater in 8.0 minutes. Give your answer in kWh.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "During heating, the student notices that some of the water evaporates from the cup.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe, using ideas about molecules of water, what happens during evaporation.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The student finds that the amount of evaporation increases when the temperature of the water is higher. State and explain one other change that increases the amount of evaporation.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "State two differences between evaporation and boiling. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student turns off the power supply and the water cools. Describe and explain how convection in the air causes the water to cool.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2022/Q1",
+    "Question_text": "Fig. 1.1 shows a model of the human arm. The rubber band represents the muscle that moves part of the arm XY up. A mass is suspended from XY, as shown in Fig. 1.2. The weight of section XY is negligible and the model is at rest.",
+    "image": "Fig. 1.1 is a diagram showing a model of a human arm. It consists of a rigid bar labeled XY, pivoted at one end (X). A rubber band connects a point on the rigid bar (near X) to an elevated point above the pivot, representing a muscle. The other end Y is free.\nFig. 1.2 is a diagram showing the same human arm model as Fig. 1.1, but with a mass suspended from end Y. The rubber band is stretched. Dimensions are given: the distance from the pivot X to the point where the rubber band attaches is 2.0 cm, and the distance from the pivot X to where the mass is suspended (Y) is 16 cm. The labels 'rubber band', 'pivot', 'X', 'Y', and 'mass' are present.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Elastic Potential Energy",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State two ways in which the dimensions of the rubber band change as the mass is added to section XY.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the form of energy stored in the stretched rubber band.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the principle of moments.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the force that the rubber band exerts on section XY is larger than the weight of the mass.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The mass suspended from section XY in Fig. 1.2 has a weight of 4.0N. Calculate the force that the rubber band exerts on section XY.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Explain how your answer to (b)(iii) is different if the weight of section XY is not negligible.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2022/Q2",
+    "Question_text": "Fig. 2.1 shows a wind turbine.",
+    "image": "Fig. 2.1 is a diagram of a wind turbine with three blades, labeled 'blades', and a circular area swept out by the blades, labeled 'circular area'. Two small trees are shown on either side of the turbine base, indicating an outdoor setting.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Energy Resources",
+      "Energy from Wind",
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The wind blows directly towards the turbine with a speed of 12 m/s. In one second, 60000 kg of air passes through the circular area swept out by the blades. Calculate the kinetic energy of this mass of air.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A wind turbine releases no carbon dioxide into the atmosphere while generating electricity. Compared with a coal-fired power station, this is an advantage of using a wind turbine. State one reason why it is important to reduce the amount of carbon dioxide produced.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest one advantage of using a coal-fired power station compared with a wind turbine.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A coal-fired power station releases 0.96 kg of carbon dioxide when it generates 1.0 kWh of electrical energy. Define the kilowatt-hour (kWh).",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the mass of carbon dioxide saved when the wind turbine has a power output of 2000 kW and operates for 12 hours.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Wind energy is a form of renewable energy. State the name of one other form of renewable energy.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2022/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define latent heat of fusion.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A sample of metal P at 100°C is heated steadily until its temperature reaches 400 °C. The melting point of the metal is 250 °C. On Fig. 3.1, sketch a graph to show how the temperature of the metal changes with time.",
+        "image": "Fig. 3.1 is a blank graph with 'temperature/°C' on the y-axis (ranging from 0 to 400 °C, marked at 50 °C intervals) and 'time' on the x-axis (starting from 0)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A sample of a different metal Q has a greater latent heat of fusion than the sample of P. P and Q are metals with the same melting points and the samples have the same heat capacity. The experiment is repeated with the sample of Q. This sample is supplied with the same amount of energy per second as is supplied to the sample of P. Explain how the graph of temperature against time for Q differs from the graph in (b)(i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2022/Q4",
+    "Question_text": "Two parallel rays of light, one red and one blue, enter a glass prism. Fig. 4.1 shows both rays of light before they enter the prism. The blue ray is also shown incident on a different side of the prism after passing through the prism.",
+    "image": "Fig. 4.1 is a diagram of a glass prism. Two parallel rays, labeled 'red light' and 'blue light', are shown incident on one face of the prism. The blue light ray is shown entering the prism, refracting, and then hitting an internal face at an angle labeled 'c'. A normal is drawn at the point of incidence for the blue ray. The diagram also shows the general outline of the 'glass' material.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection",
+      "Snell's Law",
+      "Dispersion of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 4.1, mark and label the angle of incidence i and the angle of refraction r for the blue light as it enters the prism.",
+        "image": "Fig. 4.1 is a diagram of a glass prism with incident red and blue light rays. The blue light ray is shown entering the prism, and a normal is drawn at its point of incidence. This part requires marking the angle of incidence 'i' and angle of refraction 'r' on this diagram."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 4.1, continue the path of the blue light after it strikes the left side of the prism.",
+        "image": "Fig. 4.1 is a diagram of a glass prism with incident red and blue light rays. The blue light ray enters and refracts, then strikes an internal face at an angle 'c'. This part requires continuing the path of the blue light ray from that internal strike point."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The refractive index of glass for red light is smaller than the refractive index for blue light. On Fig. 4.1, draw the path of the red light as it travels in the prism and after it strikes the left side of the prism.",
+        "image": "Fig. 4.1 is a diagram of a glass prism with incident red and blue light rays. This part requires drawing the path of the red light ray as it refracts into the prism and then exits, considering its different refractive index compared to blue light."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by the critical angle.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The refractive index of glass for blue light is 1.5. Calculate the critical angle c for blue light in glass. Show your working.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2022/Q5",
+    "Question_text": "Fig. 5.1 shows a simple d.c. motor used in a toy car.",
+    "image": "Fig. 5.1 is a schematic diagram of a simple DC motor. It shows a rectangular coil placed between the North (N) and South (S) poles of a permanent magnet. The coil is connected to an axle, and terminals A and B are indicated for power supply connection. Two empty boxes are present, one pointing to the split-ring commutator and brushes assembly, and another pointing to the axle.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Magnetic Effect of a Current",
+      "Force on a Current-Carrying Conductor",
+      "Speed & Velocity",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 5.1, add labels inside the boxes to identify the parts of the motor indicated.",
+        "image": "Fig. 5.1 is a schematic diagram of a simple DC motor, showing a coil, magnet poles, axle, and terminals A and B. It has empty boxes pointing to the commutator/brushes and the axle, which need to be labeled."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what happens to the rotation of the coil when: the number of turns on the coil is increased",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the magnetic field between the poles of the magnet is reversed.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The power supply to the motor is switched on and off at a steady rate. Fig. 5.2 shows how the speed of the toy car varies with time as a result of the power supply being switched on and off. Describe the motion of the toy car.",
+        "image": "Fig. 5.2 is a speed-time graph. The x-axis is labeled 'time' and the y-axis is labeled 'speed'. The graph starts at (0,0) and shows a repetitive pattern where the speed increases, then decreases (but not to zero), then increases again, cycling through periods of acceleration and deceleration without coming to a complete stop after the initial movement."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The voltage supplied to the motor is switched on for a longer period of time and off for a longer period of time, at a steady rate. Suggest what happens to the motion of the toy car.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2022/Q6",
+    "Question_text": "(a) A light-dependent resistor (LDR) is used to sense the amount of light in a room. Fig. 6.1 shows part of the circuit used. The LDR is not shown.",
+    "image": "Fig. 6.1 is a partial circuit diagram showing a battery (power supply), a voltmeter (V) connected in parallel across two points P and Q, and an empty space between P and Q where an LDR is meant to be inserted.\nFig. 6.2 is a circuit diagram showing three resistors connected in a mixed series-parallel arrangement. A 6.0 Ω resistor is in series with a parallel combination of a 4.0 Ω resistor and a 5.0 Ω resistor. The current entering the parallel branch through the 4.0 Ω resistor is stated as 2.4 A. Points X and Y are marked on either side of the entire combination of three resistors.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Resistance",
+      "Potential Dividers",
+      "Combined Resistance",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete Fig. 6.1 by drawing the circuit symbol for an LDR between points P and Q.",
+        "image": "Fig. 6.1 is a partial circuit diagram showing a battery, a voltmeter across points P and Q, and an empty space between P and Q. This part requires drawing the symbol for an LDR in this space."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how the voltmeter reading changes as the amount of light falling on the LDR increases.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The current in the 4.0 Ω resistor is 2.4 A. Show that the current in the 5.0 Ω resistor is 1.9 A.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the potential difference (p.d.) between points X and Y.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2022/Q7",
+    "Question_text": "Fig. 7.1 shows a toy helicopter. It can hover and travel through the air. A student flies the toy helicopter on a journey from A to B to C to D at a constant height.",
+    "image": "Fig. 7.1 is a photograph or realistic drawing of a quadcopter toy helicopter.\nFig. 7.2 is a scale drawing of a path taken by a helicopter, viewed from above, with a compass direction 'North' indicated upwards. The path consists of three segments: A to B (10m, horizontally right), B to C (35m, vertically down relative to the page), and C to D (40m, horizontally left relative to the page).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Freefall",
+      "terminal velocity",
+      "Scalars & Vectors",
+      "Friction",
+      "Resultant Forces",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the total distance travelled by the toy helicopter.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The toy helicopter makes the journey in 40 s. Calculate its average speed during the journey.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the difference between distance and displacement.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the scale used to construct Fig. 7.2 and complete the sentence. 1 cm on the diagram represents .......... on the path.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Using Fig. 7.2, determine the size of the displacement of point D from point A. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Determine the angle between North and the direction of the displacement of point D from point A.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "State what is meant by velocity.",
+        "image": null
+      },
+      {
+        "part_label": "b(vi)",
+        "part_text": "Another toy helicopter flies directly from point A to point D in 40 s. Explain why the magnitude of the velocity of this toy helicopter is smaller than the answer in (a)(ii).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When the toy helicopter hovers at D, its motor fails and it falls. It reaches terminal velocity as it falls. Explain, in terms of the forces and acceleration, what happens as the helicopter falls and reaches terminal velocity.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2022/Q8",
+    "Question_text": "Fig. 8.1 shows a water manometer. When the water manometer is connected to a sealed container of gas and the tap is opened, the water levels change, as shown in Fig. 8.2.",
+    "image": "Fig. 8.1 is a diagram of a U-shaped tube manometer containing water. A metre rule is shown next to one arm, indicating distances in cm. The water levels in both arms are at the same height, around 50 cm on the metre rule. The open end of the tube is shown.\nFig. 8.2 is a diagram of the same U-shaped tube manometer, now connected to a sealed container of gas via a gas tap. The water levels are no longer equal; the water level in the arm connected to the gas container is lower, and the level in the other arm (open to the atmosphere) is higher. A metre rule shows the difference in height, with the gas tap shown open.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why the water levels are the same on both sides of the manometer in Fig. 8.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the water levels change when the gas tap is opened with the manometer connected as in Fig. 8.2.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain why the water levels stop changing at the levels shown in Fig. 8.2.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The water in the manometer has a density of 1000 kg/m³. Atmospheric pressure is 1.00 × 10⁵ Pa and the gravitational field strength g is 10 m/s². Calculate the pressure of the gas inside the sealed container. Give your answer to 3 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The temperature of the gas inside the sealed container increases. Using ideas about molecules explain why the water levels change.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "This manometer is not suitable for measuring a gas pressure of 2.5 × 10⁵ Pa. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "State one change to this manometer that allows it to measure a gas pressure of 2.5 × 10⁵ Pa in a normal school laboratory.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2022/Q9",
+    "Question_text": "Table 9.1 shows details of seven different nuclides.",
+    "image": "Table 9.1 is a table with three columns: 'nuclide', 'radiation emitted', and 'half-life'. It lists seven nuclides (hydrogen-2, hydrogen-3, francium-223, iridium-192, phosphorus-32, radon-222, and technetium-99). For each nuclide, the table specifies the type of radiation emitted (none, beta, gamma, alpha) and its half-life (e.g., 12 year, 22 min, 74 day, 14 day, 4 day, 6 hour).",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactivity",
+      "Radioactive Decay",
+      "Half-Life",
+      "The Three Types of Emission",
+      "Background Radiation",
+      "Uses of Radiation",
+      "Dangers of Radiation",
+      "Fusion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Hydrogen-2 and hydrogen-3 are isotopes of the element hydrogen. Define the term isotope.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The equation for the decay of phosphorus-32 (P-32) as it emits a beta particle is: ³²₁₅P → ⁰₋₁β + ³²₁₆Q Explain whether the equation shows that Q is another isotope of phosphorus. Q is not the chemical symbol for the atom.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "One of the sources in Table 9.1 is used in a medical procedure to detect unusual bone structures. It is injected into a patient and the radiation emitted is detected outside the body. State which source in Table 9.1 is most suitable for this type of medical use.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain two reasons for your choice",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Radon gas is one natural source of background radiation. Some causes of background radiation are man-made, for example, X-rays. State one other natural source of background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State one other man-made source of background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "State one harmful effect of background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "One fusion reaction that occurs is: ²₁H + ³₁H → ⁴₂He + ...X Complete the equation to show the missing proton and nucleon numbers.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Deduce the name of particle X.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Suggest where this fusion reaction takes place.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Compare the properties of alpha-particles and beta-particles in terms of their: • ability to penetrate through materials • ionising effects • deflection in a magnetic field.",
+        "image": null
+      }
+    ]
+  }
+]

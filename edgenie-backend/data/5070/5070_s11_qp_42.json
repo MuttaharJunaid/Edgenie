@@ -1,0 +1,447 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "What volume of carbon dioxide is collected in one minute?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Will the volume collected during the second minute be less than, the same, or more than the volume collected during the first minute? Explain your answer.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1ci",
+    "Question_text": "Calculate the number of moles in 50 cm³ of 0.20 mol/dm³ hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1cii",
+    "Question_text": "Calculate the relative formula mass of calcium carbonate.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1iii",
+    "Question_text": "Using your answers to (c)(i) and (c)(ii) and the equation for the reaction, calculate the mass of calcium carbonate required to completely react with 50cm³ of 0.20mol/dm³ hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1iv",
+    "Question_text": "Calculate the maximum volume of carbon dioxide that is produced when 50cm³ of 0.20mol/dm³ of hydrochloric acid reacts completely with the excess calcium carbonate.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations",
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1di",
+    "Question_text": "Suggest how the speed of this reaction can be increased by changing the particle size of calcium carbonate",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1dii",
+    "Question_text": "Suggest how the speed of this reaction can be increased by changing the concentration of hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "Suggest another way in which the student can increase the speed of the reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Catalyst effect",
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "What colour is aqueous copper(II) sulfate?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bi",
+    "Question_text": "In which cell, A or B, is a colour change not seen in the solution?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bii",
+    "Question_text": "Describe what is seen at each electrode in this cell, as the electrolysis proceeds?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2biii",
+    "Question_text": "Explain why a colour change is not seen in the solution in this cell.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ci",
+    "Question_text": "What colour change is seen in the solution in the other cell?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2cii",
+    "Question_text": "At which electrode H, I, J or K is a gas produced?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ciii",
+    "Question_text": "Name this gas. Give a test for this gas",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2civ",
+    "Question_text": "What is seen at the other electrode in this cell?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A sample of zinc sulfate contains zinc powder as an impurity. Which of the following methods will produce zinc sulfate crystals?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "5.00 g of an organic compound G contains 2.73g of carbon, 0.45g of hydrogen, and 1.82g oxygen. Its empirical formula is",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Empirical formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A student is given some propanol. He reacts half of it with acidified potassium dichromate(VI) to produce an acid. He then adds this acid to the remaining propanol, together with a few drops of concentrated sulfuric acid, to make an ester. The formula for the ester is",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing esters"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A student adds 5.0cm³ of 0.20 mol/dm³ hydrochloric acid to an excess of zinc pieces. The volume of hydrogen evolved is recorded at regular time intervals until no more gas is produced. The experiment is repeated using 20.0cm³ of 0.10mol/dm³ hydrochloric acid and an excess of zinc powder. This is experiment Q. Which one of the following is obtained?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction",
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "A student sets up the apparatus shown below in order to separate two hydrocarbons by fractional distillation. What error is the student making in setting up the apparatus?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fractional distillation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Potassium manganate(VII), which is purple, oxidises the iron(II) ions in the mixture. Why does potassium manganate(VII) not react with iron(III) ions?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidising agent definition",
+      "Identifying in redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "A sample of M is added to a previously weighed container, which is then reweighed. Calculate the mass of M used in the experiment.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "The sample of M is placed in a flask, dissolved in 100cm³ of dilute sulfuric acid and mixed thoroughly. The solution is made up to 250cm³ with distilled water. This is solution P. 25.0 cm³ of P is transferred into a conical flask. What piece of apparatus should be used to transfer 25.0 cm³ of P?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8di",
+    "Question_text": "Solution S is put into a burette and run into the conical flask containing P until the end-point is reached. What is the colour of the solution in the conical flask before S is added",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "End-point identification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8dii",
+    "Question_text": "Solution S is put into a burette and run into the conical flask containing P until the end-point is reached. What is the colour of the solution in the conical flask at the end-point when S is just in excess?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "End-point identification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9e",
+    "Question_text": "Three titrations are done. Use the diagrams to complete the following table.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9f",
+    "Question_text": "S is 0.0180 mol/dm³ potassium manganate(VII). Calculate the number of moles of potassium manganate(VII) in the average volume of S in (e).",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9g",
+    "Question_text": "One mole of potassium manganate(VII) reacts with five moles of iron(II) sulfate. Deduce the number of moles of iron(II) sulfate in 25.0 cm³ of P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10h",
+    "Question_text": "Calculate the number of moles of iron(II) sulfate in 250 cm³ P, the mass of iron(II) sulfate in 250 cm³ of P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10i",
+    "Question_text": "Using your answers to (b) and (h)(ii), calculate the mass of iron(II) sulfate in 1000 g of M.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "The following table shows the tests a student does on compound V and the conclusions made from observations. Complete the table by stating the conclusion in test (a), the observation in test (c) and suggest both the tests and observations that lead to the conclusions in tests (b) and (d).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "The reaction between aqueous barium chloride and dilute sulfuric acid produces a precipitate of barium sulfate. State the colour of this precipitate.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "The table below shows the results of these experiments. Complete the final column.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13c",
+    "Question_text": "Plot the mass of precipitate against the volume of K on the grid. Join the points with two best fit straight lines.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13d",
+    "Question_text": "One of the results is incorrect. Circle this result on your grid and suggest what the correct result should be.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13e",
+    "Question_text": "Use the data on your grid to deduce the volume of K which would produce 1.50 g of precipitate, the maximum mass of precipitate that is produced, the minimum volume of K which reacts completely with the maximum mass in (ii).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14f",
+    "Question_text": "Write the equation for the reaction between barium chloride and sulfuric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14g",
+    "Question_text": "Using your answers to (e)(iii) and (f), calculate the concentration of the sulfuric acid, K, used in the experiment.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  }
+]

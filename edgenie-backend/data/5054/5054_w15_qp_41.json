@@ -1,0 +1,166 @@
+[
+  {
+    "QuestionNumber": "October-November/41/2015/Q1",
+    "Question_text": "When freely suspended, a bar magnet will come to rest pointing in a north-south direction.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State which pole of the bar magnet points towards the geographic north of the Earth.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In order to find the direction of geographic north, the magnet must be able to rotate freely in a horizontal plane.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe a method of supporting the magnet in air so that it can rotate horizontally. You may use a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "One student suggests floating the magnet on water. Describe how the magnet can be supported on water so that it is able to rotate freely. You may use a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State and explain which of the methods in (b) allows the magnet to stop rotating in the shortest time.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2015/Q2",
+    "Question_text": "The manufacturer of ‘Super Quilted Paper Towels' claims that these white paper towels are more absorbent than another brand of yellow towels. A student designs an experiment to investigate the absorbency of paper towels. The student pours 30 cm³ of water into a small shallow dish. He then cuts one paper towel into sixteen identical small squares. One small square is immersed in the water and then lifted out using tongs, as shown in Fig. 2.1. The student lifts the wet square above the water and gently shakes it twice before placing it in a beaker. He repeats the procedure using more squares until all of the water has been removed from the shallow dish. He records the number of squares needed to remove all of the water.",
+    "image": "Fig. 2.1 is a diagram showing the experimental setup for testing paper towel absorbency. On the left, a beaker contains a 'wet paper towel' which is a small square. To its right, a shallow dish, labeled 'shallow dish', holds 'water'. A pair of tongs is depicted holding a small square of paper towel, partially submerged in the water within the shallow dish. Above and to the right of the shallow dish, a 'stack of paper squares' is shown. This diagram illustrates the process of immersing, lifting, and transferring the paper towel squares.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Suggest a reason why the student shakes each square of towel before placing them in the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the student cuts the towel into small squares rather than using a whole towel.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest why the student does not cut the towel into very small squares.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student repeats the experiment using different volumes V of water and measures the number N of squares needed to remove all of the water from the dish.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.3, plot the graph of N on the y-axis against V/cm³ on the x-axis. Start your axes from the origin. Draw the straight line of best fit.",
+        "image": "Fig. 2.2 shows a table with two columns: V/cm³ and N. The data points are (30, 15), (25, 10), (20, 10), (15, 7), (10, 5), and (5, 3). Fig. 2.3 is a blank graph grid with labeled '0' at the origin for both the x and y axes, prepared for plotting the experimental data from Fig. 2.2."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the gradient of your line. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest a reason why the student decides to repeat the reading for V = 25 cm³.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The paper towel was cut into 16 identical small squares. Use your graph to find the volume of water that can be absorbed by a whole paper towel.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student repeats the experiment using the other brand of yellow towels. The graph of N against V/cm³ for the yellow towels is steeper than the graph for white towels. State and explain whether the white or yellow paper towels are more absorbent.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The yellow paper towels are smaller than the white paper towels. Explain whether the student should either: A cut each yellow towel into 16 small squares, or B cut the yellow towel into squares the same size as the squares of the white towel.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2015/Q3",
+    "Question_text": "A student uses a pin-hole camera to produce an image. The pin-hole camera consists of a light-proof box with a small hole (pin-hole) on one side and a very thin paper screen on the opposite side, as shown in Fig. 3.1. The student points the pin-hole of the camera towards a bright window, as shown in Fig. 3.2.",
+    "image": "Fig. 3.1 displays a schematic diagram of a pin-hole camera. It shows a rectangular 'light-proof box' with a 'pin-hole' on one side and a 'thin paper screen' on the opposite side. An 'observer's' eye is positioned to view the screen from behind. The distance between the pin-hole and the screen inside the box is labeled '20 cm'. Fig. 3.2 shows the pin-hole camera set up facing a window. The window is represented by a rectangle with its top corner marked 'A' and bottom corner marked 'B'. The pin-hole camera is depicted as a rectangular box with the pin-hole oriented towards the window, and an observer's eye is shown at the back of the camera.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Ray Diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.2, 1. draw a ray of light from the top A of the window, through the pin-hole to the screen, 2. draw a ray of light from the bottom B of the window, through the pin-hole to the screen, 3. measure the angle between the two rays of light.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how you measured the angle as accurately as possible.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain why the image of the window on the screen is inverted.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The pin-hole allows only a small amount of light into the camera, so that the image of the window is not very bright. The student decides to make the pin-hole larger to allow more light into the camera, as shown in Fig. 3.3. The image formed on the paper screen is now blurred. On Fig. 3.3, draw two rays from A that enter the camera. Use your diagram to explain why the image is blurred.",
+        "image": "Fig. 3.3 illustrates a pin-hole camera setup similar to Fig. 3.2, with a window (labeled with top 'A' and bottom 'B' points) and the camera. The key difference in this diagram is that the pin-hole opening on the camera is drawn significantly larger than in Fig. 3.2, indicating an increased aperture. An observer's eye is shown behind the camera screen."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2015/Q4",
+    "Question_text": "A student measures the volume of glass used to make a small beaker. Fig. 4.1 shows a full-size diagram of the beaker.",
+    "image": "Fig. 4.1 shows a full-size cross-sectional diagram of a beaker. It depicts a U-shaped container with a flat base and uniformly thick walls, representing the profile of a typical laboratory beaker.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 4.1, mark and label 1. the external diameter d of the beaker, 2. the internal depth h of the beaker, 3. the thickness t of the glass.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "By taking measurements from Fig. 4.1, find the values of d, h and t. Give your answers to the nearest millimetre.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "An approximate value for the volume V of the glass used to make the beaker is given by the relationship V = πdt(h + d/4). Using your values from a(ii), calculate V. Show your working and give your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest suitable measuring instruments to measure t and h accurately on an actual beaker.",
+        "image": null
+      }
+    ]
+  }
+]

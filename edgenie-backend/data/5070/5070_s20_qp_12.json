@@ -1,0 +1,458 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "The diagram shows four pieces of apparatus that are used to measure the volume of a gas or liquid. Which piece of apparatus should always be filled to the same level?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Aqueous sodium thiosulfate reacts with acid to make a precipitate of sulfur. A student investigates the effect of temperature on the rate of this reaction. Which apparatus is needed for this investigation?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Practical methods for rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A paper chromatography experiment is carried out to find an R₁ value for Fe3+(aq). To make the spot containing Fe³+(aq) more visible, the paper is sprayed with aqueous sodium hydroxide so that a precipitate of iron(III) hydroxide forms. Under the conditions of the experiment, the Rf of Fe3+(aq) is given by ......1...... and the colour of the precipitate is ......2.......",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography",
+      "Rf equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "The diagram shows two experiments. What are the results of adding an excess of NaOH(aq) in each experiment?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Which methods of separation require a change of state from liquid to gas?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Hydrogen sulfide, H2S, and hydrogen chloride, HCl, are both gases at temperatures above -50 °C. Which gas will diffuse most rapidly at the temperature given?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.2 Diffusion",
+    "Sub_topic": [
+      "Diffusion in kinetic particle theory",
+      "Effect of molecular mass on diffusion rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "The diagram shows the relative mass and the relative charge of two particles, O and, present in atoms and ions. Which of these particles are present in a hydrogen atom and in a hydrogen ion?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Relative charges and masses of subatomic particles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which ion has the most shells that contain electrons?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Which substance conducts electricity both when solid and when molten?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "When they react together, which pair of elements form an ionic compound?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of ionic bonds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "How many shared electrons are in one carbon dioxide molecule?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation",
+      "Formation of covalent bonds in molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Element X has a lattice of positive ions and a 'sea of electrons'. Which property will X have?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition",
+      "Properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Which row shows the correct state symbols for the reaction between calcium carbonate and dilute hydrochloric acid? (The conditions are room temperature and pressure.)",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "The expression shown for the value of Ar for fluorine is incomplete. How should the gaps in the expression be correctly completed?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative atomic mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "A mixture of 5 cm³ of CH4 and 100 cm³ of air is exploded. Assume air is 80% N2 by volume and 20% O2 by volume. The resulting mixture is cooled. All volumes are measured at room temperature and pressure. What is the composition of the resulting gas?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume",
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which arrangement is used to electroplate copper onto a steel key?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electroplating purpose",
+      "Electroplating metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The chloride of metal X is dissolved in water. A concentrated solution of this chloride is electrolysed using inert electrodes. X is above sodium in the reactivity series. In addition to chlorine, which gas is liberated and at which electrode?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis",
+      "Products at cathode and anode"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Which change in conditions, for the reaction between zinc and dilute sulfuric acid, increases the rate of reaction by lowering the activation energy?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Catalyst effect"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Many reactions can be classified as redox reactions. Which equations show redox reactions?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox reactions definition",
+      "Identifying redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Which row correctly shows whether the hydrogen ion concentration and the pH of ethanoic acid are higher or lower than those of hydrochloric acid of the same concentration?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Strong acid definition",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which aqueous reagent liberates ammonia from ammonium nitrate on warming?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Two fertilisers are made by mixing chemical compounds. Which fertiliser contains the higher percentage of nitrogen by mass and which contains the higher percentage of sulfur by mass?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "NPK fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Which processes occur in the manufacture of sulfuric acid?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation",
+      "Sources in Contact process",
+      "Conditions in Contact process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "A lump of element X can be cut by a knife. During its reaction with water, X floats and melts. What is X?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.2 Group I properties",
+    "Sub_topic": [
+      "Group I trends",
+      "Predicting Group I properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Chlorine is passed into separate samples of aqueous potassium iodide and aqueous potassium bromide. In which solutions is there a colour change?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Displacement reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which diagram shows the structure of an alloy?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.3 Alloys and their properties",
+    "Sub_topic": [
+      "Alloy definition",
+      "Representations of alloys"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which element can only be extracted from its ore using electrolysis?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Ease of extraction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Which equation shows a thermal decomposition that occurs in the blast furnace?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Extraction of iron"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Which diagram correctly shows the conditions necessary for the rusting of iron and also the metal that can be used to prevent rusting by sacrificial protection?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Conditions for rusting",
+      "Sacrificial protection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Aluminium is produced by the electrolysis of pure aluminium oxide. One of the electrodes in the process has to be replaced often. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Extraction of aluminium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Which row correctly compares carbon dioxide and methane?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Greenhouse gases mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Sea water has to be purified in order to obtain drinking water from it. Which processes are used to purify the sea water?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Which structure represents an isomer of butane?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural isomers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "Which statement about the organic compounds CH4, C2H4, C2H6 and C3H8 is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Hydrocarbons definition",
+      "Petroleum as hydrocarbons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "The alkenes are a homologous series. Which statement about alkenes is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Bonding in alkenes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "Which organic compound is used as a solvent, a renewable fuel and in the production of vinegar?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Uses of ethanol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "Which structure shows the carboxylic acid with the lowest relative molecular mass?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reactions of carboxylic acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "What is the name of the ester shown?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing esters"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "The diagram shows the structure of a monomer. Which diagram shows the partial structure of its polymer?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Addition polymer structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Which statement about polymers is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Polymers definition"
+    ],
+    "Parts": []
+  }
+]

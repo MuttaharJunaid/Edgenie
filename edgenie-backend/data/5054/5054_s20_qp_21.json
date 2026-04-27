@@ -1,0 +1,407 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2020/Q1",
+    "Question_text": "Fig. 1.1 shows the thinking distance and the braking distance for a car being driven along a dry road and along a wet road at the same speed.",
+    "image": "A diagram titled 'Fig. 1.1' showing a table or bar chart comparing thinking distance and braking distance for dry and wet roads. For dry road: thinking distance is 18m, braking distance is 43m. For wet road: thinking distance is 18m, braking distance is 60m. There are labels for 'thinking distance' and 'braking distance' at the top.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the total stopping distance for the car on the wet road.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete the sentence. The thinking distance is the distance travelled between seeing a hazard and ..................",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Suggest why the thinking distance is the same on both roads.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the braking distance is larger when the road is wet.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q2",
+    "Question_text": "A student performs an experiment to mark the centre of mass C on a thin piece of card. There are two holes in the card. Fig. 2.1 shows the card and two lines that the student draws on the card.",
+    "image": "A diagram titled 'Fig. 2.1' showing a thin pentagonal piece of card with two holes. Two lines are drawn from the holes to the opposite vertices, intersecting at a point labelled 'C'. A key indicates '○ = hole' and 'C = centre of mass'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe a method used to draw these two lines in their correct positions on the card. Make clear what extra apparatus is needed. You may draw a diagram, if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student holds the card loosely between her fingers. The card is vertical, resting with its lower edge on a bench as shown in Fig. 2.2. The card is tilted slightly, as shown in Fig. 2.3, and then released.",
+        "image": "Fig. 2.2 depicts a pentagonal card resting vertically on a bench, held by fingers at its top edge. The center of mass 'C' is marked inside the card, located above the base. Fig. 2.3 shows the same pentagonal card tilted to the left, with the bottom edge still on the bench. An angle θ is indicated between the vertical and a line through the center of mass C and the pivot point on the bench. An anticlockwise arrow indicates the direction of initial tilt, and a clockwise arrow indicates the direction the card falls when θ is small. The center of mass C is still marked."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "When angle θ is small, the card falls clockwise, back to the position shown in Fig. 2.2. Explain why the card falls anticlockwise when θ is large.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one change to the card that makes it more stable.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q3",
+    "Question_text": "A student suspends a spring from a support. He attaches different loads to the lower end of the spring. For each load attached, he measures the extension of the spring. Fig. 3.1 shows the extension–load graph obtained.",
+    "image": "A graph titled 'Fig. 3.1' plotting extension/cm on the y-axis (0 to 6.0 cm) against load/N on the x-axis (0 to 8.0 N). A straight line passes through the origin (0,0) up to (8.0 N, 5.0 cm), indicating direct proportionality. The line goes slightly beyond 8.0N with a slightly reduced slope (though the question text implies it reaches its limit at 8.0N).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Newton's Second Law",
+      "Acceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The extension of the spring is directly proportional to the load. State the two features of the graph that show this.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the student can show that the spring reaches its limit of proportionality at 8.0N.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The spring is used in a simple device known as an accelerometer, shown in Fig. 3.2. The spring is fixed at one end and attached to a mass of 5.0kg at the other end. The mass rests on a smooth, horizontal surface. There is no friction between the mass and the surface. The whole device is placed in a car. The car accelerates and the student notices that the extension of the spring is 3.0cm. Using Fig. 3.1, calculate the acceleration of the car.",
+        "image": "A diagram titled 'Fig. 3.2' shows a simple accelerometer setup. A 5.0 kg mass is connected by a spring to a fixed point on a smooth horizontal surface. An arrow labeled 'direction of the acceleration' points to the right. The spring is shown in its coiled state, under tension or compression, indicating movement with acceleration."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q4",
+    "Question_text": "Glass and iron are both conductors of heat. However, glass is a poor conductor of heat and iron is a good conductor of heat.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Thermal Expansion",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe, using ideas about particles, how the conduction of heat takes place in glass and in iron. You should make it clear why iron is a better conductor of heat.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 4.1 shows apparatus used to show expansion. The glass flask, full of water, is heated. A student is surprised when the liquid level X in the glass tube falls for a few seconds before it rises.",
+        "image": "A diagram titled 'Fig. 4.1' illustrates a glass flask, full of water, with a narrow glass tube extending upwards from its neck. The water level in the glass tube is marked 'X', and below it, the 'liquid level' is indicated. An arrow pointing upwards below the flask is labeled 'heat', indicating the flask is being heated."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suggest why the liquid level falls and why it then rises.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how heat is transferred throughout the water in the glass flask.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q5",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Use the relationship between pressure, force and area to explain why it is harder to cut something with a blunt knife than with a sharp knife.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Experimental measurements on gas pressures were made by Robert Boyle. He showed that p₁ V₁ = p₂V₂ where p₁ and p₂ are the initial and final pressures of a gas, and V₁ and V₂ are the initial and final volumes of the gas.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State two quantities that must remain constant when this equation is used.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 5.1 shows the molecules of a gas as the volume of the gas is halved. The equation suggests that when the volume of a gas halves the pressure doubles. Using ideas about molecules, explain why this happens.",
+        "image": "A diagram titled 'Fig. 5.1 (not to scale)' shows two rectangular containers. The left container is larger and contains a sparse distribution of gas molecules (represented by circles with arrows indicating motion). The right container is half the volume of the left, and it contains the same number of gas molecules, which are now more densely packed and still depicted with motion arrows. An arrow points from the larger container to the smaller one, indicating the volume is halved."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q6",
+    "Question_text": "A dentist uses a plane mirror to see the back of a tooth.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Ray Diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A plane mirror produces an image of an object. Describe the position of this image.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 6.1 shows the plane mirror used by the dentist to see the point labelled X on the tooth. On Fig. 6.1: (i) mark the position of the image of X formed by the mirror (ii) draw a ray of light from X to show how the dentist can see the tooth.",
+        "image": "A diagram titled 'Fig. 6.1' shows a dentist's eye looking towards a small plane mirror. The mirror is positioned next to a molar tooth, which has a point 'X' marked on its back surface. The setup illustrates how the mirror is used for indirect viewing."
+      },
+      {
+        "part_label": "c",
+        "part_text": "State one characteristic of the image formed by the plane mirror other than its position.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q7",
+    "Question_text": "Two isotopes of carbon are carbon-12 and carbon-14. One of these isotopes, carbon-14, undergoes radioactive decay.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe what is meant by radioactive decay.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Carbon-12 has a proton number (atomic number) of 6 and a nucleon number (mass number) of 12. Complete Table 7.1 for a neutral atom of each of these two isotopes.",
+        "image": "A table titled 'Table 7.1' with three rows ('number of protons', 'number of neutrons', 'number of electrons') and two columns ('carbon-12', 'carbon-14'). The cell for 'number of protons' under 'carbon-12' is pre-filled with '6'."
+      },
+      {
+        "part_label": "c",
+        "part_text": "A sample of carbon-14 is contained in a thin aluminium container of thickness 0.2 mm. Radiation from the sample is detected outside the container. When the thickness of the aluminium is increased to 6 mm, no radiation from the sample is detected outside the container.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State the type of radiation which is stopped by increasing the thickness of the aluminium.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain how you know that the sample does not emit one other type of radiation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q8",
+    "Question_text": "Fig. 8.1 shows a lamp from a car. It contains two metal filaments.",
+    "image": "A diagram titled 'Fig. 8.1' shows a cross-section of a car lamp bulb, illustrating two distinct metal filaments labeled 'filament 1' and 'filament 2' inside the glass envelope.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Combined Resistance",
+      "Electrical Energy",
+      "Electrical Power",
+      "Efficiency",
+      "Magnetic Effect of a Current",
+      "Electric Motors",
+      "Electromagnetic Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the boxes to describe the transfer of energy that takes place when the lamp is switched on. [energy] -> [ ] and [ ] -> [energy]",
+        "image": "A flowchart diagram with three boxes connected by arrows. The first box is pre-filled with 'energy'. The second and third boxes are empty. An arrow points from the first box to the second, and from the second to the third, which is pre-filled with 'energy'. An arrow also points from the second box to a location above the third box, indicating another energy output. This visual shows the energy transformation process within the lamp."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The efficiency of the metal filament lamp is less than 10%. State what is meant by efficiency.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The two filaments are usually connected in parallel to a car battery. A student investigates what happens when the filaments are connected in series, rather than in parallel. He uses the same battery for the investigation. State whether the current, the voltage across each filament and the total power produced increases, decreases or stays the same when the two filaments are connected in series.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 8.2 shows the current–voltage graph for the two filaments.",
+        "image": "A graph titled 'Fig. 8.2' plots current/A on the y-axis (0 to 2.0 A) against voltage/V on the x-axis (0 to 12.0 V). Two distinct curves originate from the origin. One curve (for one filament) shows current increasing non-linearly with voltage, reaching about 0.6A at 12V. The second curve (for the other filament) shows a much steeper increase in current, reaching about 1.9A at 12V."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the total resistance of the two filaments when they are connected in parallel to a voltage of 12V.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The two filaments are made from the same type of metal and have the same length, when uncoiled. They both operate at the same temperature. Suggest why one filament has a resistance that is greater than that of the other filament.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Fig. 8.3 shows a relay used to switch on a car headlamp. Explain why headlamp H lights up when switch S is closed.",
+        "image": "A circuit diagram titled 'Fig. 8.3' shows a relay connected to a switch 'S' and a battery in a control circuit, and a headlamp 'H' connected to a separate battery via the relay's contacts in a power circuit. The relay consists of an iron core surrounded by a coil of high resistance, an iron armature, a pivot, and flexible contacts. When switch S is closed, current flows through the coil, magnetizing the iron core, which attracts the iron armature, causing the flexible contacts to close and complete the circuit for headlamp H."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q9",
+    "Question_text": "Ultrasound and X-rays are both used in medical imaging.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Electromagnetic Waves",
+      "The Wave Equation",
+      "Uses of Electromagnetic Waves",
+      "Dangers of Electromagnetic Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Define what is meant by ultrasound.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe what happens to ultrasound waves as they meet the boundary between two different materials.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "To produce the image of an unborn child, an ultrasound emitter and receiver are placed close together on the mother's skin. Fig. 9.1 shows pulses detected by the receiver. Pulse A is the emitted pulse and pulse B is the first pulse that returns from the unborn child. The average speed of ultrasound in human tissue is 1500m/s. Calculate the distance between the emitter and the child.",
+        "image": "A graph titled 'Fig. 9.1' plots pulse amplitude on the y-axis against time/ms on the x-axis (0 to 0.08 ms). Two distinct pulses are shown as vertical lines: Pulse A at approximately 0.03 ms and Pulse B at approximately 0.057 ms. Pulse A represents the emitted pulse, and Pulse B represents the first returned pulse."
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The speed of ultrasound in human tissue is close to the speed of sound in water. Suggest approximate values for the speed of sound in gases and solids.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 9.2 shows an X-ray image of a hand. An X-ray detector is placed just below the hand. An image of the bones and human tissue around the bones is formed on a screen by the detector.",
+        "image": "An image titled 'Fig. 9.2' shows a monochrome X-ray image of a human hand. The bones of the hand and fingers are clearly visible as brighter regions, while the surrounding soft tissue is darker. A label 'screen' points to the overall image area."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe what happens to the X-rays to produce the image.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The wavelength of the X-rays used is 2.0 × 10⁻⁹m. The speed of electromagnetic waves is 3.0 x 10⁸m/s. Calculate the frequency of the X-rays.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest one reason why X-rays are not used to form an image of an unborn child.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2020/Q10",
+    "Question_text": "Fig. 10.1 shows a motor lifting a mass. Fig. 10.2 shows part of the circuit diagram of the connections to the motor.",
+    "image": "Fig. 10.1 shows a diagram of a motor connected by a string to a mass, indicating the motor's function of lifting the mass. Fig. 10.2 shows a partial circuit diagram with a switch, a motor symbol 'M', and a power source (battery), indicating the electrical connections for the motor operation.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Electromagnetic Induction",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Energy",
+      "Gravitational Potential Energy",
+      "Efficiency",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The current in the motor is 1.5A and the voltage supplied by the battery is 8.0V.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the circuit diagram in Fig. 10.2 to show an ammeter and a voltmeter in the correct positions to take these measurements while the motor is working.",
+        "image": "Fig. 10.2, which shows a partial circuit diagram for a motor. It includes a switch, a motor symbol 'M', and a battery. The task is to add an ammeter and voltmeter to this diagram."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The motor takes 4.0s to lift the mass. Calculate the electrical energy transferred to the motor in this time.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The motor lifts the 150g mass through a height of 80cm in the 4.0s. Calculate the gravitational potential energy gained by the mass. The gravitational field strength g = 10N/kg.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "State two reasons why the gravitational potential energy gained by the mass is less than the electrical energy supplied to the motor.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 10.3 shows the structure of the motor. When the mass reaches the top of its motion, the switch is opened. This disconnects the battery and causes the mass to fall. The coil turns as the mass falls.",
+        "image": "A diagram titled 'Fig. 10.3' illustrates the internal structure of a simple DC motor. It shows a rectangular coil labeled 'coil', free to rotate about an 'axle', positioned between the North (N) and South (S) poles of a permanent magnet. Points 'A' and 'B' are marked at the ends of the coil. This setup depicts the components involved in electromagnetic induction when the coil rotates within the magnetic field."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "As the coil turns, a small voltage is produced. Explain why a voltage is produced as the coil turns.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "As the mass falls, a student connects a wire between the points A and B shown in Fig. 10.3. He notices that the mass takes a longer time to fall when the wire is connected. The student suggests that this is an example of Lenz's law. State Lenz's law and suggest why the mass takes longer to fall.",
+        "image": null
+      }
+    ]
+  }
+]

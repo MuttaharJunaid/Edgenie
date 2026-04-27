@@ -1,0 +1,685 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "The rate of exchange between dollars ($) and pounds (£) is $1.56 = £1. The rate of exchange between euros (€) and pounds is €1.10 = £1. Amy changes £300 into dollars. Calculate how many dollars Amy receives.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(ii)",
+    "Question_text": "Ben changes €770 into pounds. Calculate how many pounds Ben receives.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(iii)",
+    "Question_text": "Chris changes $780 into euros. Calculate how many euros Chris receives.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Debbie changed some dollars into Japanese yen. The rate of exchange was 81 dollars = 1 yen. Emma changed the same number of dollars into yen. The rate of exchange for Emma was 82 dollars = 1 yen. Emma received 3 fewer yen than Debbie. Given that the number of dollars changed each time is x, find x.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Construct the triangle ABC in which BẬC = 40° and AC = 8 cm. C is above the line AB, which is drawn for you.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Construct the locus of all the points outside the triangle that are 2 cm from the perimeter of the triangle.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Find and label the point P, inside the triangle, that is 6.5 cm from A and equidistant from B and C.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "The line AB joins the point A (–2, 1) to the point B (6, 5). Find the coordinates of the midpoint of AB.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Find the gradient of AB.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.3 Gradient of linear graphs",
+    "Sub_topic": [
+      "Find the gradient of a straight line",
+      "Calculate the gradient of a straight line from the coordinates of two points on it"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "AB intersects the y-axis at the point (0, c). Find c.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.5 Equations of linear graphs",
+    "Sub_topic": [
+      "Interpret and obtain the equation of a straight-line graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "Express AB as a column vector.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Describe translation using vector"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3e",
+    "Question_text": "C is the point (5, 2) and D is the point (h, k). The lines AB and CD are equal in length and parallel. Find the coordinates of each of the possible points D.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.6 Parallel lines",
+    "Sub_topic": [
+      "Find the gradient and equation of a straight line parallel to a given line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "The table shows the distribution of the masses of 100 babies at birth. Write down the modal class.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Identify modal class from grouped frequency distribution"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "For this part of the question use the grid below. Using a scale of 4 cm to represent 1 kg, draw a horizontal x-axis for 1 ≤ x ≤ 5. Using a scale of 2 cm to represent 5 babies, draw a vertical axis for frequency from 0 to 30. Using your axes, draw a frequency polygon to represent these results.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret simple frequency distributions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c(i)",
+    "Question_text": "Complete the cumulative frequency table below.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c(ii)",
+    "Question_text": "On the grid below draw a smooth cumulative frequency curve to represent these results.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d(i)",
+    "Question_text": "Use your curve to estimate the median mass",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d(ii)",
+    "Question_text": "Use your curve to estimate the 10th percentile.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Solve 2/(3-x) = 1",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b(i)",
+    "Question_text": "Factorise 5x + 5y",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b(ii)",
+    "Question_text": "Factorise 9x² - 16",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c(i)",
+    "Question_text": "Factorise 2x² + 5x - 12.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax² + bx + c"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c(ii)",
+    "Question_text": "Use your answer to part (c)(i) to solve the equation 2x² + 5x-12 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5d",
+    "Question_text": "A source of light is observed from a distance of d metres. The amount of light received, L units, is inversely proportional to the square of the dista Given that L = 9 when d = 2, find the value of L when d = 3.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a(i)",
+    "Question_text": "In the triangle ABC, ABC = 90°, ACB = 50° and BC = 31 m. D is the point on AC such that BDA = 90°. Show that CD = 19.93 m, correct to 2 decimal places.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a(ii)",
+    "Question_text": "Calculate AD.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b(i)",
+    "Question_text": "Two boats are at the points P and Q . RS is a vertical cliff of height 52 m. PŜQ = 10° and QŜR = 55°. State the angle of depression of P from S.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Carry out calculations involving angles of elevation and depression"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b(ii)",
+    "Question_text": "Calculate the distance, PQ, between the boats.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a(i)",
+    "Question_text": "In triangle ABC, D is the point on BC such that AD bisects BAC and E is the point on AB such that AE = AC. Show that triangles AED and ACD are congruent.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a(ii)",
+    "Question_text": "Given that ABD = x°, EDB = y° and ACB = z°, find x in terms of y and z.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "In triangle PQR, QS bisects PQR and RS bisects PRO. PQR = 42° and PRQ = 54°. Find reflex angle QSR.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "In the diagram, the circles each have centre O. AB is a chord of the larger circle and also a tangent to the smaller circle. AB = 14 cm and the radius of the larger circle is 10cm. Find the radius of the smaller circle.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.8 Circle theorems II",
+    "Sub_topic": [
+      "Use circle symmetry properties: equal chords equidistant from centre, perpendicular bisector of chord through centre, tangents from external point equal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b(i)",
+    "Question_text": "In the diagram, PQ and RS are chords of a circle that intersect at T. Show that triangles PST and RQT are similar.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b(ii)",
+    "Question_text": "ST= 5 cm, TR = 11 cm and TQ = x cm. Given that PQ = 18 cm, show that x satisfies the equation x² - 18x + 55 = 0.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b(iii)",
+    "Question_text": "Solve the equation x² - 18x + 55 = 0. Give each solution correct to 1 decimal place.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b(iv)",
+    "Question_text": "Find the difference between the lengths of PT and TQ.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "The number of bacteria in a colony trebles every hour. The colony starts with 50 bacteria. The table below shows the number of bacteria (y) in the colony after t hours. Complete the table.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.17 Exponential growth and decay",
+    "Sub_topic": [
+      "Use exponential growth"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "On the grid on the opposite page plot the points in the table, and join them with a smooth curve.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9c",
+    "Question_text": "Use your graph to find the number of bacteria in the colony when t = 3.2 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9d(i)",
+    "Question_text": "By drawing a tangent, estimate the gradient of the curve when t = 2.5 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9d(ii)",
+    "Question_text": "What does this gradient represent?",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9e",
+    "Question_text": "Given that the equation of the graph is y = ka', find k and a.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9f(i)",
+    "Question_text": "The number of bacteria in another colony is given by the equation y = 500+ 500t. On the same axes, draw a graph to represent the number of bacteria in this colony.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Draw graphs from given data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9f(ii)",
+    "Question_text": "State the value of t when the number of bacteria in each colony is the same.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a(i)",
+    "Question_text": "A fuel tanker delivers fuel in a cylindrical container of length 9.5 m and radius 0.8 m. After several deliveries, the fuel remaining in the container is shown in the diagram. AB is horizontal, O is the centre of the circular cross-section and AÔB = 90°. Calculate the curved surface area of the container that is in contact with the fuel.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a(ii)",
+    "Question_text": "Calculate the volume of fuel remaining in the container.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a(iii)",
+    "Question_text": "Calculate this volume remaining as a percentage of the volume of the whole container.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b(i)",
+    "Question_text": "The fuel is pumped through a cylindrical pipe of radius 4.5 cm at a rate of 300 cm/s. Calculate the volume pumped in 1 second.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b(ii)",
+    "Question_text": "Calculate the time taken, in minutes, to pump 25000 litres of fuel. Give your answer correct to the nearest minute.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a(i)",
+    "Question_text": "The diagram shows triangles A and B. Describe fully the single transformation that maps triangle A onto triangle B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a(ii)",
+    "Question_text": "Find the matrix that represents this transformation.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b(i)",
+    "Question_text": "Triangle B is mapped onto triangle C by the transformation represented by the matrix (2 0)(0 1). On the grid above, draw and label triangle C.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b(ii)",
+    "Question_text": "Give the name of this transformation.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b(iii)",
+    "Question_text": "Find the matrix that represents the inverse transformation that maps triangle C triangle B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b(iv)",
+    "Question_text": "Find the ratio area of triangle C: area of triangle B.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11c",
+    "Question_text": "Find the matrix that represents the single transformation that maps triangle A onto triangle С.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a(i)",
+    "Question_text": "In triangle ABC, ABC = 45° and BẬC = 65°. AC is 5 cm shorter than BC. Show that BC = 5 sin 65/ sin 65 - sin 45",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a(ii)",
+    "Question_text": "Find the length of BC.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b(i)",
+    "Question_text": "In triangle PQR, PQ = 13 cm, QR = 6cm and RP = 10cm. QR is produced to S. Find the value of cos PRQ, giving your answer as a fraction in its lowest terms.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b(ii)",
+    "Question_text": "Hence write down the value of cos PRS.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12c",
+    "Question_text": "Triangle DEG has the same area as triangle DEF, but is not congruent to triangle DEF. The point G is lower than DE and GE = EF. Draw the triangle DEG in the diagram above.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12d",
+    "Question_text": "In triangle LMN, LMN = 30° and ML = 2MN. When the area of triangle LMN is 18 cm², calculate MN.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  }
+]

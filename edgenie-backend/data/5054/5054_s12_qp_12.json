@@ -1,0 +1,490 @@
+[
+  {
+    "QuestionNumber": "May/June/2012/Q1",
+    "Question_text": "A reel of copper wire is labelled 'length 30m' and 'diameter 2mm'. A student calculates the volume of the copper wire. Which instruments does he use to measure accurately the length and the diameter of the wire?",
+    "image": "A table with two columns: 'length' and 'diameter', and four rows (A, B, C, D) listing different pairs of instruments (rule/calipers, rule/micrometer, tape/calipers, tape/micrometer).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q2",
+    "Question_text": "Which row correctly shows examples of a vector quantity and a scalar quantity?",
+    "image": "A table with two columns: 'vector' and 'scalar', and four rows (A, B, C, D) listing pairs of physical quantities (area/force, mass/density, velocity/acceleration, weight/volume).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q3",
+    "Question_text": "A cyclist travels along a hilly road without using the pedals or brakes. Air resistance and friction are negligible. The speed/time graph of the cyclist is shown. At which point did he reach the bottom of the first hill?",
+    "image": "A speed-time graph with time on the x-axis and speed on the y-axis. The graph shows a curve starting at 0, increasing to a peak, then decreasing, increasing again to a lower peak, and then decreasing to 0. Points A, B, C, D are marked on the curve. Point B is at the first peak, and point D is at the end.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q4",
+    "Question_text": "A student drops a table-tennis ball in air. What happens to the velocity and to the acceleration of the ball during the first few seconds after release?",
+    "image": "A table with two columns: 'velocity' and 'acceleration', and four rows (A, B, C, D) indicating combinations of 'decreases' and 'increases'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Acceleration",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q5",
+    "Question_text": "A coin falls through the air from rest, and eventually reaches a constant speed. Two forces P and Q act on the coin. What happens to the force P and to the resultant force acting on the coin before it reaches constant speed?",
+    "image": "A diagram showing a coin falling. An upward arrow labeled 'P' represents air resistance, and a downward arrow labeled 'Q' represents weight. Below, a table with two columns: 'force P' and 'resultant force', and four rows (A, B, C, D) indicating combinations of 'decreases' and 'increases'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Freefall",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q6",
+    "Question_text": "The diagram shows a motorcyclist leaning over in order to move around a corner. Which force causes him to move around the corner?",
+    "image": "A diagram of a motorcyclist leaning into a turn. Force A is shown as a horizontal arrow pointing towards the center of the turn, representing friction. Force B is shown as an arrow perpendicular to the ground, pointing upwards from the wheel, representing the normal force. Force C is shown as a vertical arrow pointing downwards from the motorcyclist's center, representing weight. Force D is not clearly indicated but is likely an option for a force acting on the motorcyclist.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q7",
+    "Question_text": "The diagram shows a uniform balanced beam, pivoted about its centre. What is the value of force P?",
+    "image": "A diagram of a uniform beam balanced on a pivot at its center. On the left side, a downward force of 3N is applied at a distance of 6cm from the pivot. An unknown downward force P is applied at a distance of 2cm from the pivot. On the right side, a downward force of 4N is applied at a distance of 2cm from the pivot.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q8",
+    "Question_text": "The diagram shows four shapes, cut from the same piece of card. Which shape has its centre of mass nearest to the base line?",
+    "image": "Four two-dimensional shapes (A, B, C, D) are shown above a horizontal 'base line'. Shape A is a tall, narrow rectangle. Shape B is a circle. Shape C is a wide, flat 'I' shape. Shape D is a wide, flat 'T' shape. All shapes appear to have the same overall height, but their mass distribution differs.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q9",
+    "Question_text": "A metal wire, of initial length 1000mm, extends by 4 mm when a load of 2N is added to it. What is the length of the wire when a further 3 N is added, assuming that the wire does not extend beyond the limit of proportionality?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q10",
+    "Question_text": "The mass of a paper-clip is 0.50g and the density of its material is 8.0 g/cm³. The total volume of a number of clips is 20 cm³. How many paper-clips are there?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q11",
+    "Question_text": "The pressure of a gas in a cylinder is found using a water manometer. The density of water is 1000 kg/m³ and the gravitational field strength g is 10 N/kg. What is the pressure, above atmospheric pressure, of the gas in the cylinder?",
+    "image": "A diagram of a U-shaped water manometer connected to a gas cylinder on the left. The water level on the side connected to the gas is higher than on the open side. The height difference between the two water levels is labeled as 20 cm. The open side is labeled 'to gas cylinder'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q12",
+    "Question_text": "Two cylinders are connected by a thin pipe. One cylinder has a volume of 200 cm³ and contains air at pressure P. The other cylinder has a volume of 100 cm³ and contains a vacuum (no air). Initially, the tap is closed. What is the final pressure of the air after the tap is opened?",
+    "image": "A diagram showing two cylinders connected by a thin pipe with a tap in the middle. The left cylinder is labeled 'air, volume 200 cm³, pressure P'. The right cylinder is labeled 'vacuum, 100 cm³'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q13",
+    "Question_text": "Two major components of a coal-fired power station are a turbine and a generator. What are the output forms of energy from the turbine and from the generator?",
+    "image": "A table with two columns: 'turbine' and 'generator', and four rows (A, B, C, D) listing combinations of energy output forms (electrical/electrical, electrical/kinetic, heat/kinetic, kinetic/electrical).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Energy Resources",
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q14",
+    "Question_text": "What is efficiency?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q15",
+    "Question_text": "A fixed mass of gas is enclosed in a cylinder by a movable piston. The piston is moved so that the volume occupied by the gas increases. The temperature remains constant. What happens to the pressure of the gas and why does this happen?",
+    "image": "A diagram showing a cylinder containing 'gas' with a movable 'piston' on top. A table below has two columns: 'pressure' and 'reason', and four rows (A, B, C, D) describing changes in pressure and corresponding reasons.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q16",
+    "Question_text": "Four wet towels are hung out to dry as shown. Which towel dries most quickly?",
+    "image": "Four diagrams (A, B, C, D) each showing a wet towel hanging on a clothesline. Each diagram has icons indicating weather conditions (sun/cloud), wind (windy/no wind), and the state of the towel (unfolded/folded).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q17",
+    "Question_text": "How is heat conducted in a metal?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Demonstrating Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q18",
+    "Question_text": "The diagram shows four thermometers. Which thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+    "image": "Four diagrams of thermometers (P, Q, R, S) with different temperature scales and likely different bulb/capillary properties. Thermometer P shows a range from 25°C to 50°C. Thermometer Q shows a range from 30°C to 40°C. Thermometer R shows a range from 0°C to 250°C. Thermometer S shows a range from 0°C to 100°C. Below, a table with columns 'greatest sensitivity' and 'greatest range', and rows for options A, B, C, D using P, Q, R, S.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q19",
+    "Question_text": "Ice at -10°C is heated until it is water at +10°C. Which graph shows how the temperature changes with time?",
+    "image": "Four graphs (A, B, C, D) of temperature/°C versus time. Each graph shows a heating curve. Graph A shows an initial rise, a plateau, then another rise. Graph B shows an initial rise, a plateau, then a curve upwards. Graph C shows an initial rise, a plateau, then a horizontal line. Graph D shows an initial rise, a curve upwards, then a plateau.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat",
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q20",
+    "Question_text": "A substance has a melting point of -17°C and a boiling point of 117°C. In which state does the substance exist at -10°C and at 110°C?",
+    "image": "A table with two columns: 'at -10°C' and 'at 110°C', and four rows (A, B, C, D) listing combinations of states (solid/liquid, solid/gas, liquid/liquid, liquid/gas).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q21",
+    "Question_text": "A wave has a frequency of 2 Hz. How many waves are produced in one minute?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q22",
+    "Question_text": "The diagram shows a ray of light directed at a plane mirror. What are the angle of incidence and the angle of reflection?",
+    "image": "A diagram showing a plane mirror and a ray of light incident on it. The angle between the incident ray and the mirror surface is labeled 40°. A table below has two columns: 'angle of incidence' and 'angle of reflection', and four rows (A, B, C, D) listing combinations of angles.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q23",
+    "Question_text": "Light travels through a glass block as shown. Which angle is the critical angle for light in the glass?",
+    "image": "A diagram showing a glass block with light rays interacting at its surface. An incident ray (A) travels from air into glass, refracting. Another ray inside the glass is shown incident on the glass-air interface at angle D, where it undergoes total internal reflection. Angle C is the angle of refraction inside the glass. Angle B is the angle of reflection at the internal interface.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q24",
+    "Question_text": "A man is short-sighted. Which ray diagram shows what happens in his eye when he looks at a distant object?",
+    "image": "Four ray diagrams (A, B, C, D) each depicting light rays entering an eye. In diagram A, parallel rays focus in front of the retina. In diagram B, parallel rays focus on the retina. In diagram C, parallel rays diverge before reaching the retina. In diagram D, parallel rays focus behind the retina.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Uses of Lenses",
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q25",
+    "Question_text": "Which device uses ultra-violet radiation?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q26",
+    "Question_text": "Two long, straight wires hang vertically, close to each other. The wires carry currents in opposite directions. Which diagram shows the magnetic field pattern around the wires?",
+    "image": "Two central circles represent the cross-sections of the wires. The left wire has 'current out of page' (dot symbol) and the right wire has 'current into page' (cross symbol). Four diagrams (A, B, C, D) show different configurations of concentric and overlapping magnetic field lines around these two wires.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Fields Around Parallel Conductors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q27",
+    "Question_text": "A positively-charged insulated metal sphere is brought close to, but does not touch, a similar uncharged metal sphere. Which diagram shows the charge distribution on the spheres?",
+    "image": "A diagram showing two spheres: a left 'positively-charged sphere' and a right 'uncharged sphere'. Below this, four diagrams (A, B, C, D) illustrate different charge distributions on the two spheres when brought close to each other. In option A, the right sphere has negative charges accumulated on the left side and positive charges on the right side.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q28",
+    "Question_text": "The current/voltage graphs are for different electrical components. Which graph is for a resistor at constant temperature and which is for a filament lamp?",
+    "image": "Three current/voltage graphs (1, 2, 3). Graph 1 shows a curve where current increases more steeply than voltage (concave up). Graph 2 shows a straight line passing through the origin (linear relationship). Graph 3 shows a curve where current increases less steeply than voltage (concave down). Below, a table with columns 'resistor' and 'lamp', and rows for options A, B, C, D pairing the graphs.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q29",
+    "Question_text": "The diagram shows an ammeter connected in a circuit. What is the current in the ammeter?",
+    "image": "A circuit diagram showing a voltage source of 10V connected in series with an ammeter (labeled 'A') and a resistor of 2 kΩ.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q30",
+    "Question_text": "In the circuit shown, the potential difference (p.d.) across the 4Ω resistor is 8 V. What is the p.d. across the 2Ω resistor?",
+    "image": "A circuit diagram showing a 12V voltage source connected to two resistors in series: a 4Ω resistor and a 2Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Difference in Circuits",
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q31",
+    "Question_text": "A lamp is rated at 12V, 600 mW. What is the current in the lamp?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q32",
+    "Question_text": "A water heater uses 6 kW of electric power when connected to a 240 V circuit. Which fuse is most suitable for use in this circuit?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Power",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q33",
+    "Question_text": "The diagram shows a beam of electrons entering a magnetic field. The direction of the field is into the page. In which direction are the electrons deflected?",
+    "image": "A diagram showing a horizontal beam of electrons moving to the right, entering a rectangular region representing a magnetic field. The magnetic field is indicated by 'x' symbols within the region, denoting a field directed 'into the page'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Magnetic Fields",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q34",
+    "Question_text": "A rectangular coil is placed between the poles of a magnet. A current passes through the coil, as shown. What happens to the coil?",
+    "image": "A diagram showing a rectangular coil situated between the North (N) and South (S) poles of a magnet. Current direction is indicated by arrows on the coil, entering from the left side and exiting from the right side, suggesting a conventional current flowing upwards on the side near the N pole and downwards on the side near the S pole.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q35",
+    "Question_text": "A bar magnet is pushed into one end of a long coil connected to a sensitive meter. Which of the following affects the magnitude of the deflection of the meter?",
+    "image": "A diagram showing a bar magnet moving into a long coil. The coil is connected to a 'sensitive meter' (indicated by an arrow pointing upwards from a central zero). A horizontal arrow labeled 'bar magnet' indicates the magnet's motion towards the coil.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q36",
+    "Question_text": "Which graph represents the voltage output of a simple a.c. generator?",
+    "image": "Four graphs (A, B, C, D) of 'voltage' versus 'time'. Graph A shows a constant positive voltage (DC). Graph B shows a sinusoidal alternating voltage (AC). Graph C shows a pulsating positive voltage (rectified AC). Graph D also shows a pulsating positive voltage, similar to C but with a different waveform or amplitude.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q37",
+    "Question_text": "The electrical circuit shown consists of a cell connected to a resistor. What are the directions of the electron flow and of the conventional current in the resistor?",
+    "image": "A simple circuit diagram showing a cell (battery) connected to a resistor. The cell's positive terminal is on the right, and its negative terminal is on the left. A table below has two columns: 'electron flow' and 'conventional current', and four rows (A, B, C, D) indicating combinations of left/right directions.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q38",
+    "Question_text": "The nucleus of a helium atom is represented as He. What does a neutral atom of helium contain?",
+    "image": "A table with three columns: 'electrons', 'protons', 'neutrons', and four rows (A, B, C, D) listing different counts of these particles.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q39",
+    "Question_text": "What is the safest way to dispose of a large quantity of highly radioactive waste?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Dangers of Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2012/Q40",
+    "Question_text": "The count rate from a radioactive material falls from 400 counts per second to 50 counts per second in 12 minutes. What is its half-life?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2011/Q1",
+    "Question_text": "A student investigates the behaviour of a capacitor as it is charged. The student connects a capacitor C and a resistor R in series with an ammeter and a d.c. power supply, as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a series electrical circuit diagram. A d.c. power supply is connected to a capacitor (C), a resistor (R), and an ammeter (A), all in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student notices that the reading on the ammeter decreases to zero.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why there is no current in the circuit after some time.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The student disconnects the circuit using a movable lead, as shown in Fig. 1.2. In order to discharge the capacitor, the student may connect the end P of the movable lead to either point X, Y or Z. State and explain which connection will discharge the capacitor the fastest.",
+        "image": "Fig. 1.2 shows a modified electrical circuit diagram. A d.c. power supply is connected to a movable lead (P). The circuit itself contains a capacitor (C), a resistor (R), and an ammeter (A) in series. Points X, Y, and Z are marked: X is on the wire connecting the ammeter to the capacitor, Y is between the ammeter and the resistor, and Z is between the resistor and the capacitor. The movable lead P is shown as disconnected from the main circuit, implying it can be connected to X, Y, or Z."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The capacitor is now fully discharged. The student reconnects the circuit of Fig. 1.1 and observes the initial ammeter reading. The ammeter is shown in Fig. 1.3. State the reading on the ammeter.",
+        "image": "Fig. 1.3 shows an analog ammeter with a circular dial. The scale ranges from 0 to 100 mA, marked with major divisions at 10, 20, 30, 40, 50, 60, 70, 80, 90, and 100 mA, and minor divisions every 5 mA. The needle points to 85 mA."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student observes the needle as the current in the ammeter begins to fall and starts timing when the current is 80 mA. The time t for the current to fall from 80mA to a value I is measured. Readings of current I and time t are shown in Fig. 1.4.",
+        "image": "Fig. 1.4 displays a table with two columns: 'I/mA' (current in milliamperes) and 't/s' (time in seconds). The data provided is: (80, 0), (60, 6.33), (40, 15.25), (30, 21.58), (20, 30.50), (10, 45.75), and (5, 61.00)."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 1.5, plot the graph of I/mA on the y-axis against t/s on the x-axis. Draw the curved line of best fit.",
+        "image": "Fig. 1.5 shows a large square grid with x and y axes starting from 0, prepared for plotting a graph of I/mA against t/s."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use your graph to describe the relationship between I and t.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The resistance of resistor R is 100Ω. Use your graph to find the potential difference V across the resistor at time t = 40 s. You may use the relationship V = IR.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2011/Q2",
+    "Question_text": "A displacement can is a container with a spout, used to determine the volume of an object. Fig. 2.1 shows a displacement can and a cross-section of the can. The can is filled with water to the level of its spout.",
+    "image": "Fig. 2.1 shows two diagrams side-by-side. The left diagram, labeled 'displacement can', shows a cylindrical container with a spout extending from its upper side. The right diagram, labeled 'cross-section', shows the interior of the displacement can, indicating water filled up to the level of the spout.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain how the displacement can is used to measure the volume of an irregular object such as a glass stopper. State any additional apparatus that is required.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one possible difficulty in using a can that has 1. a very small diameter, 2. a spout that is attached near the bottom of the can.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe two precautions that will make the result more accurate.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "To determine the density of the glass, an additional quantity must be measured. State",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the quantity to be measured,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the measuring instrument used.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2011/Q3",
+    "Question_text": "A student investigates the frictional force on a block of wood sliding along a bench. The block of wood has sides of length 15cm by 10cm by 5cm and has a hook attached, as shown in Fig. 3.1. Fig. 3.2 is a list of apparatus available to the student.",
+    "image": "Fig. 3.1 shows a rectangular block of wood with a hook attached, resting on a flat surface labeled 'bench'. Fig. 3.2 lists the available apparatus: 'block of wood with hook', 'newton meters with different ranges', '1N, 0.5N, 0.1N weights and hangers', 'thin string', 'pulley', 'stands, clamps and bosses'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Investigating Force & Extension",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The student measures the force needed to make the block of wood just start moving along the bench. Choosing apparatus from Fig. 3.2, describe a procedure that the student can use.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe one way to make the experiment more accurate.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student now repeats the experiment, varying the surface area of the block of wood in contact with the bench. State how the student does this with the same block of wood.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A teacher suggests that the frictional force F is related to the weight W of the block by the equation F = kW where k is a constant. The student varies W by placing additional weights on top of the block and measures F.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 3.3, write the headings in the table used to record the results.",
+        "image": "Fig. 3.3 shows an empty table with two columns, provided for recording experimental results."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain how the student can obtain the value of k using a graph of the results.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2011/Q4",
+    "Question_text": "A student walks away from a street lamp at night and notices that his shadow changes. The student investigates shadows in a darkened laboratory. He uses a lamp on a stand and a vertical card, as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows a laboratory setup for investigating shadows. A 'lamp' is positioned on a stand to the left. A 'vertical card' is placed further to the right, between the lamp and a surface labeled 'bench'. Light rays from the lamp are depicted reaching the bench, forming a shadow behind the card.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Ray Diagrams",
+      "Wave Behaviour"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 4.1, draw a ray of light from the lamp to the bench, just passing over the top of the card.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The region of the bench that does not receive light from the lamp is the 'shadow' of the card. On Fig. 4.1, draw a line on the surface of the bench to indicate this shadow.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The card is moved along the bench away from the lamp. State what happens to the shadow of the card.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The shadow of the card produced in the laboratory is much darker than the shadow of the student in the street. Suggest a reason for this.",
+        "image": null
+      }
+    ]
+  }
+]

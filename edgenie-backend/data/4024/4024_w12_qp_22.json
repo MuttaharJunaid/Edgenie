@@ -1,0 +1,296 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q1",
+    "Question_text": "In triangle ABC, AB = 10m, BC = 6.5 m and ABC = 90°.",
+    "image": "A right-angled triangle labeled ABC. The right angle is at B. Side AB is 10 m and side BC is 6.5 m.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find ACB.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Substitute numbers into expressions and formulas",
+      "Change the subject of formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Factorise 4x² - 1.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "P = (2Q + R) / R. Find P when R = Q.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Rearrange the formula to make R the subject.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q3",
+    "Question_text": "In 2009 the cost of posting a letter was 36 cents.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Calculate percentage change",
+      "Calculate reverse percentages"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A company posted 3000 letters and was given a discount of 4%. Calculate the total discount given. Give your answer in dollars.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "In 2010, the cost of posting a letter was increased from 36 cents to 45 cents. Calculate the percentage increase.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "After the price increase to 45 cents, the cost to the company of posting 3000 letters was $1302.75. Calculate the new percentage discount given.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q4",
+    "Question_text": "AB and CD are parallel. EGHF is a straight line. HCF = 46° and HFC = 32°.",
+    "image": "A diagram with two parallel lines, labeled AB and CD, and a transversal line EGHF. Point G is on line AB and H is on line CD. A line segment CF is drawn. Angles HCF (46°) and HFC (32°) are indicated.",
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°)",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find CHF.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find GHD.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Find HGB.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q5",
+    "Question_text": "AD and BC are arcs of circles with centre O. A is a point on OB, and D is a point on OC. OA = 20 cm and AB = 25 cm. AÔD = 150°.",
+    "image": "A shaded region in the shape of a sector of an annulus (a segment of a ring). It has a common center O. The outer arc is BC, and the inner arc is AD. The radius OA is 20 cm, and AB is 25 cm (meaning OB = OA + AB = 45 cm). The angle AOD (which is also BOC) is 150 degrees.",
+    "Unit": "Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the perimeter of the shaded shape ABCD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q6",
+    "Question_text": "The heights of 150 children are measured. The results are summarised in the table.",
+    "image": "A frequency table showing heights (h cm) and corresponding frequencies. Height groups are: 130<h≤140 (Frequency: 10), 140<h≤150 (Frequency: 30), 150<h≤155 (Frequency: 20), 155<h<160 (Frequency: 30), 160<h≤170 (Frequency: 35), 170<h≤190 (Frequency: 25).",
+    "Unit": "Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate estimate of mean for grouped discrete or continuous data",
+      "Calculate probability of single event",
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate an estimate of the mean height.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "One child is chosen at random. Find the probability that this child has a height greater than 160cm.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Two children are chosen at random without replacement. Find the probability that the height of one child is greater than 160 cm and the height of the other is 150 cm or less.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q7",
+    "Question_text": "A cylindrical, open container has a diameter of 21 cm and height of 8 cm.",
+    "image": "A diagram of an open cylindrical container. Its diameter is labeled as 21 cm and its height as 8 cm.",
+    "Unit": "Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the total external surface area of this container.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "A manufacturer receives an order for 30000 containers. He needs an extra 150cm² of material for each container to cover wastage. Calculate the area of material needed to make these containers. Give your answer in square metres.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q8",
+    "Question_text": "The variables x and y are connected by the equation y = 1 + 2x² - x³. The table below shows some values of x, and the corresponding values of y, correct to 1 decimal place where appropriate.",
+    "image": "A table with two rows. The first row contains x-values: -1, -0.5, 0, 0.5, 1, 1.5, 2, 2.5. The second row contains corresponding y-values: 4, 1.6, 1, 1.4, 2, 2.1, 1, p.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate p. Give your answer correct to 1 decimal place.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the graph paper opposite, using a scale of 2 cm to represent 1 unit on both axes, draw a horizontal x-axis for −2 ≤ x ≤ 3, and draw a vertical y-axis for −3 ≤ y ≤ 5. On your axes, plot the points given in the table and join them with a smooth curve.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use your graph to find all the solutions of 1 + 2x² − x³ = 2.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "By drawing a tangent, find the gradient of the curve at the point where x = −0.5.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "By drawing an appropriate straight line on the grid, solve the equation 1 + 2x² − x³ = x.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Find the range of values of k such that 1 + 2x² − x³ = k has 3 solutions.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q9",
+    "Question_text": "A, B, C and D are four points on level ground. BDC is a straight line. AD = 30 m and DC = 64 m. ABD = 37° and ADB = 58°.",
+    "image": "A diagram showing a triangle ABC with point D on side BC, making BDC a straight line. A line segment AD is drawn. Given angles are ABD = 37° and ADB = 58°. Given lengths are AD = 30 m and DC = 64 m.",
+    "Unit": "Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Use area of triangle formula (1/2 ab sin C)",
+      "Carry out calculations involving angles of elevation and depression"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate AB.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate AC.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q10",
+    "Question_text": "ABCD is a square. AP = BQ = CR = DS.",
+    "image": "A large square ABCD. Inside this square, another square PQRS is formed by points P on AB, Q on BC, R on CD, and S on DA, such that the segments AP, BQ, CR, and DS are all of equal length.",
+    "Unit": "Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids",
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Giving reasons, show that triangles PAS and QBP are congruent.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2012/Q11",
+    "Question_text": "B is the midpoint of OD and E is the midpoint of OA. C is the point on AB such that AC : CB = 2 : 1. OA = p and OB = q.",
+    "image": "A triangle ODA. Point B is on OD such that OB is vector q. Point E is on OA such that OA is vector p. Point C is on the line segment AB, dividing it in the ratio 2:1.",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)(a)",
+        "part_text": "Find, in terms of p and q, AB.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)(b)",
+        "part_text": "Find, in terms of p and q, CD.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)(c)",
+        "part_text": "Find, in terms of p and q, ED.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Use your answers to parts (i)(b) and (i)(c) to make two statements about the points E, C and D.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q1",
+    "Question_text": "What makes choice an important element in the basic economic problem?",
+    "image": null,
+    "Unit": "UNIT 1: The basic economic problem",
+    "Topic": "1.1 The nature of the economic problem",
+    "Sub_topic": [
+      "Finite resources unlimited wants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q2",
+    "Question_text": "What is a factor of production?",
+    "image": null,
+    "Unit": "UNIT 1: The basic economic problem",
+    "Topic": "1.2 The factors of production",
+    "Sub_topic": [
+      "Definitions rewards"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q3",
+    "Question_text": "A government is faced with the choice of spending on either education or healthcare. Of what is this an example?",
+    "image": null,
+    "Unit": "UNIT 1: The basic economic problem",
+    "Topic": "1.3 Opportunity cost",
+    "Sub_topic": [
+      "Definition examples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q4",
+    "Question_text": "A farmer pays a landowner for the use of a field. What is the income to the landowner called?",
+    "image": null,
+    "Unit": "UNIT 1: The basic economic problem",
+    "Topic": "1.2 The factors of production",
+    "Sub_topic": [
+      "Definitions rewards"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q5",
+    "Question_text": "The table shows the contribution to Gross Domestic Product made by different sectors for four countries. Which statement is correct?",
+    "image": "A table with 5 rows and 4 columns. The header row is 'country', 'services %', 'industry %', 'agriculture %'. The subsequent rows provide data for Bangladesh, China, Philippines, and US, showing the percentage contribution of services, industry, and agriculture to their respective Gross Domestic Products. Specifically: Bangladesh (40% services, 13% industry, 47% agriculture), China (18% services, 45% industry, 37% agriculture), Philippines (42% services, 36% industry, 22% agriculture), US (66% services, 32% industry, 2% agriculture).",
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.5 Firms",
+    "Sub_topic": [
+      "Classification sectors size"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q6",
+    "Question_text": "The diagram shows demand and supply curves for a product at its equilibrium price P. How would the introduction of a subsidy be shown?",
+    "image": "A standard economic diagram showing a market with price on the vertical axis and quantity on the horizontal axis. There are two downward-sloping demand curves labeled D and D1, and an upward-sloping demand curve labeled D2. There are also three upward-sloping supply curves labeled S, S1, and S2. The initial equilibrium is at point P (price) and Q (quantity) where demand curve D intersects supply curve S. D1 is to the right of D (increase in demand), D2 is to the left of D (decrease in demand). S1 is to the left of S (decrease in supply), S2 is to the right of S (increase in supply).",
+    "Unit": "UNIT 2: The allocation of resources",
+    "Topic": "2.4 Supply",
+    "Sub_topic": [
+      "Conditions shifts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q7",
+    "Question_text": "Which statement could explain a decrease in the demand for natural rubber?",
+    "image": null,
+    "Unit": "UNIT 2: The allocation of resources",
+    "Topic": "2.3 Demand",
+    "Sub_topic": [
+      "Conditions shifts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q8",
+    "Question_text": "The table illustrates the demand and supply for rice in a market in Africa. When the price rises from $20 to $30 per kg, what is the approximate price elasticity of demand for rice?",
+    "image": "A table with 5 rows and 4 columns. The header row is 'price per kg ($)', 'quantity demanded (kg)', 'quantity supplied (kg)'. The subsequent rows show data for different prices: at $10, quantity demanded is 50kg, quantity supplied is 10kg; at $20, quantity demanded is 40kg, quantity supplied is 20kg; at $30, quantity demanded is 30kg, quantity supplied is 30kg; at $40, quantity demanded is 20kg, quantity supplied is 40kg.",
+    "Unit": "UNIT 2: The allocation of resources",
+    "Topic": "2.7 Price elasticity of demand (PED)",
+    "Sub_topic": [
+      "Definition calculation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q9",
+    "Question_text": "The diagram shows that when a tax of $2 on a good raises the supply curve from S₁ to S2, the price to the consumer rises from $4 to $5. What is the total tax yield to the government?",
+    "image": "A standard economic diagram showing a market with price on the vertical axis and quantity on the horizontal axis. There is a downward-sloping demand curve labeled D. There are two upward-sloping supply curves, S1 and S2. S2 is to the left of S1. An initial equilibrium is shown at the intersection of D and S1, with price $4 and quantity 100. A new equilibrium after the tax (S2) is shown at the intersection of D and S2, with price $5 and quantity 75. The vertical distance between S1 and S2 at quantity 75 is $2, representing the tax per unit. The price to the consumer increases by $1 (from $4 to $5).",
+    "Unit": "UNIT 2: The allocation of resources",
+    "Topic": "2.11 Mixed economic system",
+    "Sub_topic": [
+      "Policy measures effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q10",
+    "Question_text": "The diagrams show different conditions of demand and supply for an agricultural product. In which diagram would market price remain unchanged if consumers' incomes fell?",
+    "image": "Four separate economic diagrams (A, B, C, D), each showing a market with price on the vertical axis and quantity on the horizontal axis. Each diagram contains a downward-sloping demand curve (D) and an upward-sloping supply curve (S), intersecting to form an equilibrium. Diagram A shows relatively elastic demand and inelastic supply. Diagram B shows relatively inelastic demand and elastic supply. Diagram C shows perfectly inelastic demand (vertical D curve) and an upward sloping supply curve. Diagram D shows a downward sloping demand curve and a perfectly inelastic supply (vertical S curve).",
+    "Unit": "UNIT 2: The allocation of resources",
+    "Topic": "2.3 Demand",
+    "Sub_topic": [
+      "Conditions shifts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q11",
+    "Question_text": "A government intends to build a new international airport in an area of outstanding natural beauty. What would be an external cost of this decision?",
+    "image": null,
+    "Unit": "UNIT 2: The allocation of resources",
+    "Topic": "2.10 Market failure",
+    "Sub_topic": [
+      "Definition causes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q12",
+    "Question_text": "A stock exchange is a market in which",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.1 Money and banking",
+    "Sub_topic": [
+      "Banking roles importance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q13",
+    "Question_text": "'Savers suffer as inflation rises to 4.4%.' Which function of money is most involved in this statement?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.1 Money and banking",
+    "Sub_topic": [
+      "Money forms functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q14",
+    "Question_text": "What is the most likely reason for a worker preferring to be employed by the government rather than by a firm in the private sector?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.3 Workers",
+    "Sub_topic": [
+      "Occupation choice factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q15",
+    "Question_text": "'There are actors who earn extremely high incomes.' What best explains this?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.3 Workers",
+    "Sub_topic": [
+      "Earnings differences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q16",
+    "Question_text": "What might be a direct benefit to the individual worker of a specialised job?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.3 Workers",
+    "Sub_topic": [
+      "Division labour specialisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q17",
+    "Question_text": "Which change would be most likely to cause the earnings of hotel managers in Mauritius to rise more than the earnings of sugar cane workers in Mauritius?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.3 Workers",
+    "Sub_topic": [
+      "Earnings differences",
+      "Wage determination"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q18",
+    "Question_text": "A milk processing company takes over a group of dairy farms before merging with a chain of supermarkets. Which types of integration have taken place?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.5 Firms",
+    "Sub_topic": [
+      "Mergers types"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q19",
+    "Question_text": "What is usually an advantage of a small firm?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.5 Firms",
+    "Sub_topic": [
+      "Small firms advantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q20",
+    "Question_text": "In 2008, XL, the UK's third largest tour operator went out of business. What would have been the effect of this on the level of competition in the industry, the external economies of scale experienced by the remaining firms and the level of business confidence in the UK?",
+    "image": "A table with 5 rows and 4 columns. The header row is 'level of competition', 'external economies of scale', 'UK business confidence'. The first column lists options A, B, C, D. The remaining columns contain values for each option: A: increase, increase, reduce; B: increase, reduce, increase; C: reduce, increase, increase; D: reduce, reduce, reduce.",
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.5 Firms",
+    "Sub_topic": [
+      "Economies diseconomies scale",
+      "Growth causes forms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q21",
+    "Question_text": "In 2008, the world's largest metal mining company, BHP, increased its profits by 20%. What could have helped that happen?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.7 Firms’ costs, revenue and objectives",
+    "Sub_topic": [
+      "Objectives influences",
+      "Revenue definitions calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q22",
+    "Question_text": "The table shows a firm's fixed and variable costs at four levels of output. At which level of output is average cost at its lowest?",
+    "image": "A table with 5 rows and 3 columns. The header row is 'output (units)', 'fixed costs ($)', 'variable costs ($)'. The subsequent rows show data for different output levels: 2 units (fixed costs $50, variable costs $110); 3 units (fixed costs $50, variable costs $130); 4 units (fixed costs $50, variable costs $210); 5 units (fixed costs $50, variable costs $300).",
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.7 Firms’ costs, revenue and objectives",
+    "Sub_topic": [
+      "Costs definitions calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q23",
+    "Question_text": "What is unlikely to be a feature of a large firm in a monopoly position in a market?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.8 Market structure",
+    "Sub_topic": [
+      "Monopoly characteristics advantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q24",
+    "Question_text": "Direct taxes can be used to",
+    "image": null,
+    "Unit": "UNIT 4: Government and the macroeconomy",
+    "Topic": "4.3 Fiscal policy",
+    "Sub_topic": [
+      "Taxation reasons classifications",
+      "Principles impact"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q25",
+    "Question_text": "Brazil is a highly taxed economy. Some Brazilian economists have suggested that if the government were to cut tax rates, the government would actually receive more tax revenue. Why may cutting taxes increase revenue?",
+    "image": null,
+    "Unit": "UNIT 4: Government and the macroeconomy",
+    "Topic": "4.3 Fiscal policy",
+    "Sub_topic": [
+      "Policy measures",
+      "Effects macroeconomic aims"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q26",
+    "Question_text": "What is most likely to be the responsibility of a central government?",
+    "image": null,
+    "Unit": "UNIT 4: Government and the macroeconomy",
+    "Topic": "4.1 The role of government",
+    "Sub_topic": [
+      "Local national international roles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q27",
+    "Question_text": "In September 2008, the Chinese government increased the sales tax on cars with large engines whilst it reduced the sales tax on cars with small engines. Most cars in China with large engines are imported whilst most cars with small engines are home produced. Which effects would the changes in sales tax be expected to have on China's trade surplus and the demand for home produced cars?",
+    "image": "A table with 5 rows and 3 columns. The header row is 'trade surplus', 'demand for home produced cars'. The first column lists options A, B, C, D. The remaining columns contain values for each option: A: increase, increase; B: increase, reduce; C: reduce, increase; D: reduce, reduce.",
+    "Unit": "UNIT 4: Government and the macroeconomy",
+    "Topic": "4.3 Fiscal policy",
+    "Sub_topic": [
+      "Policy measures",
+      "Effects macroeconomic aims"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q28",
+    "Question_text": "Which policy would be most likely to reduce the rate of inflation in Malaysia?",
+    "image": null,
+    "Unit": "UNIT 4: Government and the macroeconomy",
+    "Topic": "4.8 Inflation and deflation",
+    "Sub_topic": [
+      "Policies control"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q29",
+    "Question_text": "Which government policy would most likely lead to a redistribution of income?",
+    "image": null,
+    "Unit": "UNIT 5: Economic development",
+    "Topic": "5.2 Poverty",
+    "Sub_topic": [
+      "Policies alleviation redistribution"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q30",
+    "Question_text": "In Germany's 2007 retail price index, transport received a higher weighting than clothing and footwear. What does this difference indicate?",
+    "image": null,
+    "Unit": "UNIT 4: Government and the macroeconomy",
+    "Topic": "4.8 Inflation and deflation",
+    "Sub_topic": [
+      "Definitions measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q31",
+    "Question_text": "How is the pattern of employment likely to change when a country becomes more developed?",
+    "image": null,
+    "Unit": "UNIT 5: Economic development",
+    "Topic": "5.4 Differences in economic development between countries",
+    "Sub_topic": [
+      "Causes impacts income productivity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q32",
+    "Question_text": "In 2008, the US had a higher GDP per head than Iceland, but a lower Human Development Index ranking than Iceland. What could explain this difference?",
+    "image": null,
+    "Unit": "UNIT 5: Economic development",
+    "Topic": "5.1 Living standards",
+    "Sub_topic": [
+      "Indicators GDP HDI",
+      "Comparing distribution differences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q33",
+    "Question_text": "The number of people unemployed in an economy fell by 600000 and the number employed rose by 400 000. Which change could explain this difference?",
+    "image": null,
+    "Unit": "UNIT 4: Government and the macroeconomy",
+    "Topic": "4.7 Employment and unemployment",
+    "Sub_topic": [
+      "Patterns level changes",
+      "Measurement rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q34",
+    "Question_text": "The table shows four countries in 2007. Which country is most likely to have the lowest standard of living?",
+    "image": "A table with 5 rows and 4 columns. The header row is 'country', 'GDP (US$ billion)', 'population (million)'. The first column lists options A, B, C, D. The subsequent rows provide data for Bangladesh (GDP 206.7 billion, population 153.5 million), India (GDP 2989.1 billion, population 1147.9 million), Nigeria (GDP 292.7 billion, population 138.3 million), and South Africa (GDP 467.1 billion, population 43.8 million).",
+    "Unit": "UNIT 5: Economic development",
+    "Topic": "5.1 Living standards",
+    "Sub_topic": [
+      "Indicators GDP HDI",
+      "Comparing distribution differences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q35",
+    "Question_text": "What will be the likely effect on the remaining population of a developing country when newly trained, skilled workers migrate to developed countries?",
+    "image": null,
+    "Unit": "UNIT 5: Economic development",
+    "Topic": "5.3 Population",
+    "Sub_topic": [
+      "Effects size structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q36",
+    "Question_text": "What is most likely to indicate that an economy is developed rather than developing?",
+    "image": null,
+    "Unit": "UNIT 5: Economic development",
+    "Topic": "5.4 Differences in economic development between countries",
+    "Sub_topic": [
+      "Causes impacts income productivity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q37",
+    "Question_text": "What is more likely to result from rather than cause economic development?",
+    "image": null,
+    "Unit": "UNIT 5: Economic development",
+    "Topic": "5.4 Differences in economic development between countries",
+    "Sub_topic": [
+      "Causes impacts income productivity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q38",
+    "Question_text": "One argument for protectionism is to prevent dumping. What is meant by dumping?",
+    "image": null,
+    "Unit": "UNIT 6: International trade and globalisation",
+    "Topic": "6.2 Globalisation, free trade and protection",
+    "Sub_topic": [
+      "Protection methods reasons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q39",
+    "Question_text": "What might cause the balance on the current account of Mauritius to improve?",
+    "image": null,
+    "Unit": "UNIT 6: International trade and globalisation",
+    "Topic": "6.4 Current account of balance of payments",
+    "Sub_topic": [
+      "Deficit surplus causes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2010/Q40",
+    "Question_text": "Firms often advertise saying that they specialise in providing a certain product or service. What is an advantage of such specialisation to the firm?",
+    "image": null,
+    "Unit": "UNIT 3: Microeconomic decision makers",
+    "Topic": "3.5 Firms",
+    "Sub_topic": [
+      "Economies diseconomies scale"
+    ],
+    "Parts": []
+  }
+]

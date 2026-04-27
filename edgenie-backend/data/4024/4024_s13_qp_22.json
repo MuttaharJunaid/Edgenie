@@ -1,0 +1,471 @@
+[
+  {
+    "QuestionNumber": "May/June/22/2013/Q1",
+    "Question_text": "The question involves currency exchange rates and simple interest calculations. Part (a) deals with currency conversion using given exchange rates. Part (b) deals with simple interest calculations for two different savings accounts over a period of two years.",
+    "image": "A table showing two accounts: 'Super Saver' with 3.4% simple interest per year and 'Extra Saver' with 3.5% simple interest per year.",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money",
+      "Convert currencies"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Manraj changes 25200 rupees into dollars ($). Calculate how many dollars he receives. Exchange rates: £1 = $2.06, £1 = 72 rupees.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Misja changes 380 euros into dollars ($). He receives $551. How many dollars does he receive for each euro?",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On 31 March 2011, Lydia and Simone each had $8000 in an account. Lydia's money is in a Super Saver Account. Simone's money is in an Extra Saver Account. How much money did Lydia have in her account on 31 March 2012 after the interest had been added?",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On 31 March 2012, Lydia transferred this money to an Extra Saver Account. How much money did she have in this account on 31 March 2013 after the interest had been added?",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Simone kept her money for the two years in the Extra Saver Account, which earned simple interest of 3.5% per year. After all interest had been added, who had more money in their account on 31 March 2013 and by how much?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q2",
+    "Question_text": "Small triangles are formed by placing rods between dots as shown in the diagrams.",
+    "image": "Four diagrams (Diagram 1 to Diagram 4) showing a sequence of growing triangular patterns made of dots and rods. Diagram 1 has 1 small triangle, Diagram 2 has 4, Diagram 3 has 9, and Diagram 4 has 16. Each diagram is formed by arranging smaller equilateral triangles.\nA table is also provided with columns for 'Diagram n', 'Number of small triangles (T)', 'Number of dots (D)', and 'Number of rods (R)', showing values for n=1, 2, 3, 4, 5.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Find and use the nth term of sequences",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the table.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find an expression, in terms of n, for the number of small triangles (T) formed in Diagram n.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Given that R = D + T - 1, find the value of n when D = 561 and R = 1584.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The nth term of the sequence 1, 3, 6, 10, 15, ... is (1/2)n(n + 1). Hence find an expression for R in terms of n.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "How many rods are there in Diagram 15?",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Find an expression for D in terms of n.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q3",
+    "Question_text": "The question involves solving algebraic equations and inequalities.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas",
+      "Solve fractional equations with numerical and linear algebraic denominators",
+      "Solve linear equations in one unknown",
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve 3(x - 5) = 5x – 7.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Solve (4y - 3) / 2 < 7.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the integers that satisfy both (4y - 3) / 2 < 7 and y > 2.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Solve the simultaneous equations: 2x - y = 6 4x + 3y = -3",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q4",
+    "Question_text": "ABCDEF is a hexagon with BE as its only line of symmetry. AF is parallel to CD and DF intersects BE at G. BE = 16 cm and DG = GF = 6cm. The area of the hexagon ABCDEF is 138 cm².",
+    "image": "A diagram of an irregular hexagon ABCDEF. The line segment BE is shown as a line of symmetry. Points D, G, F are on a line segment. Line AF is parallel to CD. Lengths DG and GF are marked as 6 units. The diagonal BE is also shown.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor",
+      "Use and interpret vocabulary of a circle",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate AF.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The area of the hexagon ABCDEF is four times the area of the triangle DEF. Find EG.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find EG : GB, giving your answer in the form m : n where m and n are integers.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q5",
+    "Question_text": "Mr Chan wants a fence along the side of his garden which is 8 metres long. He buys 4 fence panels and 5 posts. Each fence panel is 180cm wide, correct to the nearest centimetre. Each post is 15 cm wide, correct to the nearest centimetre.",
+    "image": "A diagram showing a fence structure. It consists of multiple fence panels and posts. The width of a post is indicated as 15 units, and the width of a panel is indicated as 180 units. These are placed end-to-end.",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change",
+      "Calculate percentage of quantity",
+      "Calculate reverse percentages",
+      "Calculate simple interest",
+      "Express as percentage"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "If there are no gaps between the panels and the posts, is it possible for the fence to be longer than 8 metres? Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A shop buys the posts from a manufacturer and sells them at a profit of 30%. The shop sells each post for $35.10. How much does each post cost from the manufacturer?",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Mr Chan buys 4 fence panels and 5 posts. He hires a builder to put up the fence. The builder charges 220% of the total cost of the fence panels and posts to do the work. What is the total amount Mr Chan pays for his fence?",
+        "image": "A table showing 'Fence panels' at $50.70 each and 'Posts' at $35.10 each."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q6",
+    "Question_text": "The diagram shows the positions, P, Q, R and S, of four hotels.The bearing of Q from P is 065° and the bearing of R from Q is 210°. PQ = 500m, SQ = 335m and angle PQS = 90°.",
+    "image": "A diagram showing four points P, Q, R, S representing hotels. North directions are indicated at P and Q. Bearings and distances are marked: Bearing of Q from P is 065°. Bearing of R from Q is 210°. PQ = 500m, SQ = 335m. Angle PQS = 90° (right angle at Q for triangle PQS). A 210° angle is marked clockwise from North at Q to the line QR. A 65° angle is marked clockwise from North at P to the line PQ.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings",
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate angle PQR.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the shortest distance from P to QR.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the bearing of S from P.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q7",
+    "Question_text": "The distribution of the times spent by 200 customers at a restaurant one evening is shown in the table.",
+    "image": "A partially completed histogram. The horizontal axis is 'Time (t minutes)' ranging from 30 to 120. The vertical axis is 'Frequency density' ranging from 0 to 6. Bars are drawn for 30≤t<60 (frequency density 0.8) and 80≤t<90 (frequency density 4.2). The table also shows 'Time (t minutes)' intervals and 'Frequency': 30<t<60 (24), 60<t<80 (p), 80<t<90 (q), 90<t<100 (58), 100≤t<120 (28).",
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Calculate with frequency density",
+      "Draw and interpret histograms"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the histogram.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find p and q.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Estimate the probability that a customer, chosen at random, spent more than 95 minutes in the restaurant.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The table below shows the distribution of the ages of these customers. State the modal class.",
+        "image": "A table showing 'Age (y years)' intervals and 'Frequency': 0<y≤20 (34), 20<y≤40 (57), 40<y≤60 (85), 60<y≤80 (24)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate an estimate of the mean age of these customers.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q8",
+    "Question_text": "The scale diagram shows the positions, A and B, of two buoys. B is due South of A and AB = 1500m.",
+    "image": "A vertical line segment representing the positions of two buoys, A and B. A is at the top, B is at the bottom. A scale drawing, implying it can be used for measurement.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the scale of the diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A third buoy is positioned at C which is due East of B and 1800m from A. Mark the position of C on the diagram.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the actual distance BC. Give your answer correct to the nearest metre.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A boat travels from C to A at an average speed of x m/s. A second boat travels from B to A at an average speed 1 m/s faster than the first boat. It takes the first boat 1 minute longer to reach A than the second boat. Write down an equation in x and show that it simplifies to x² – 4x – 30 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Solve x² – 4x – 30 = 0, giving each answer correct to two decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "How long did it take the first boat to reach A? Give your answer in seconds.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q9",
+    "Question_text": "ABCD is a parallelogram.Vectors are given: AB = (-4, 2) and BC = (1, 4).",
+    "image": "A diagram of a parallelogram ABCD, with vertices labeled clockwise starting from top left A, B, C, D. It's an abstract representation of a parallelogram.",
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Describe translation using vector",
+      "Multiply vector by scalar"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find BD.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate |AC|.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)(a)",
+        "part_text": "The parallelogram ABCD is mapped onto the parallelogram PBQR. PB = (-12, 6) and BQ = (3, 12). Describe fully the single transformation that maps the parallelogram ABCD onto the parallelogram PBQR.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "S is the midpoint of PQ. Find SR.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Given f(x) = (3x + 2) / 5. Find f(-4).",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The value of g such that f(g) = 7.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Find f⁻¹(x).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q10",
+    "Question_text": "A bag contains red and blue pegs. Altogether there are 25 pegs of which n are red. Rashid picks two pegs without replacement. The tree diagram shows the possible outcomes and their probabilities.",
+    "image": "A partially completed probability tree diagram. The first branch shows 'First peg' with possibilities 'red' (probability n/25) and 'blue' (probability (25-n)/25). The second set of branches for 'Second peg' shows probabilities for drawing red or blue after the first draw, without replacement. For example, after 'red' first, the next branch for 'red' has probability (n-1)/24, and for 'blue' has probability (25-n)/24.",
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the tree diagram.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(a)",
+        "part_text": "Write an expression, as a single fraction in terms of n, for the probability that Rashid picks a red peg then a blue peg in that order.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(b)",
+        "part_text": "The probability that Rashid picks a red peg then a blue peg in that order is 1/p. Given that the number of red pegs, n, satisfies the equation n² – 25n + 150 = 0, find p.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Solve n² – 25n + 150 = 0 to find the possible values of n.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Given that at the start there are more blue pegs than red pegs in the bag, find the probability that Rashid picks two red pegs.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Each member of a group of children was asked their favourite colour. The pie chart represents the results. The number of children whose favourite colour is red is 75. Find the number of children in the group.",
+        "image": "A pie chart divided into sectors representing favourite colours: yellow, red, green, pink, blue. Angles are shown for some sectors: 108° (yellow), 54° (pink), 78° (blue), 30° (green)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find, in its simplest form, the fraction of children whose favourite colour is green.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "How many more children answered yellow than answered blue?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q11",
+    "Question_text": "The table shows some values of x and the corresponding values of y for y = 2x³ – 3x² + 5.",
+    "image": "A table of values for x and y. x values are -1.5, -1, -0.5, 0, 0.5, 1, 1.5, 2. Corresponding y values are provided, with one missing: -1.5 (0), -1 (4), -0.5 (blank), 0 (5), 0.5 (4.5), 1 (4), 1.5 (5), 2 (9).",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer",
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Draw and interpret graphs representing exponential growth and decay problems",
+      "Estimate gradients of curves by drawing tangents",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the table.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Using a scale of 4 cm to represent 1 unit, draw a horizontal x-axis for -1.5 ≤ x ≤ 2. Using a scale of 2 cm to represent 5 units, draw a vertical y-axis for -10 ≤ y ≤ 10. Draw the graph of y = 2x³ – 3x² + 5 for -1.5 ≤ x ≤ 2.",
+        "image": "A blank grid for drawing a graph with axes for x and y."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Use your graph to estimate the gradient of the curve when x = 1.5.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "By drawing a suitable line on your graph, find the solution of the equation 2x³ – 3x² + 4 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The graph shows a sketch of the curve y = p/x. Two points on the curve are (3, 0.4) and (q, 2.4). Find p and q.",
+        "image": "A sketch of a reciprocal graph y = p/x in the first quadrant. Two points are marked on the curve: (3, 0.4) and (q, 2.4). The axes are labeled O, x, y."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the gradient of the straight line joining the points (3, 0.4) and (q, 2.4).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2013/Q12",
+    "Question_text": "A cylindrical tank of height 46 cm and radius r cm has a capacity of 70 litres.",
+    "image": "A diagram of a cylinder. Its height is labeled as 46 and its radius as r.",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the radius correct to the nearest centimetre.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A triangular prism has length 20 cm. The sides of the shaded cross-section are 4 cm, 11 cm and x cm. The angle between the sides of length 4 cm and 11 cm is 125°. Calculate the area of the shaded cross-section.",
+        "image": "A diagram of a triangular prism. The front face is a triangle with sides 4 cm, 11 cm, and x cm. The angle between the 4 cm and 11 cm sides is 125°. The length of the prism (depth) is 20 cm. The triangular cross-section is shaded."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the volume of the prism.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate x.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Calculate the surface area of the prism.",
+        "image": null
+      }
+    ]
+  }
+]

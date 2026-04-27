@@ -1,0 +1,194 @@
+[
+  {
+    "QuestionNumber": "5054/31/Oct-Nov/2016/Q1",
+    "Question_text": "In this experiment, you will determine a value for the density of a piece of modelling clay. You are provided with • a 30 cm ruler, • a spring, • a stand, boss and clamp to support the spring, • a piece of modelling clay attached to a length of string with a loop at the top of the string, • an S-hook, • a glass beaker, • a supply of water, • paper towels or cloths to mop up spillages. (a) Set up the apparatus as shown in Fig. 1.1.",
+    "image": "A diagram showing a stand with a clamp and a boss. A spring is suspended vertically from the clamp. An S-hook is attached to the lower end of the spring. The length Lo is indicated as the length of the coiled part of the spring. The stand is placed on a bench. The setup is labeled Fig. 1.1.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Investigating Force & Extension"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Suspend the S-hook from the lower end of the spring. Measure the length Lo of the coiled part of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suspend the modelling clay from the hook using the loop. The modelling clay should not touch the bench. Measure the new length L₁ of the coiled part of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the extension e₁ of the spring using e₁ = L₁ – Lo.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the empty beaker below the suspended modelling clay. Lower the clamp until the modelling clay is in the beaker and the string becomes completely slack (no tension). Pour water into the beaker until the modelling clay is fully immersed and is covered by about 1 cm of water. If the clay starts to float, then lower the clamp further. Raise the clamp slowly until the modelling clay rises from the bottom of the beaker but is still fully immersed. Ensure that the modelling clay does not touch the sides of the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure the new length L₂ of the coiled part of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the new extension e₂ using e₂ = L₂ - Lo.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the density ρ of the modelling clay using ρ = e₁ / (e₁ - e₂) × 1.0 g/cm³.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/Oct-Nov/2016/Q2",
+    "Question_text": "In this experiment, you will investigate the oscillations of a half-metre rule. You are provided with • a half-metre rule, • two lengths of thread with loops at one end, • two split corks, • two stands, bosses and clamps to support the split corks, • a 30 cm ruler, • an optical pin in a cork, • a stopwatch, • a set square. (a) The Supervisor has assembled the apparatus. Do not adjust the position of the bosses and clamps on the stands. Move the loops of thread so that they are at the 10.0 cm and 40.0 cm marks on the half-metre rule. Adjust the separation of the stands so that the two lengths of thread are vertical, as shown in Fig. 2.1.",
+    "image": "A diagram showing a half-metre rule suspended horizontally by two vertical lengths of thread. Each thread is attached to a split cork, which is held by a boss and clamp on a stand. The threads are positioned at the 10.0 cm and 40.0 cm marks on the half-metre rule. This setup is labeled Fig. 2.1.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Measurement",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain how you ensured that the two lengths of thread were vertical. You may draw on Fig. 2.1 if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how to check that the half-metre rule is horizontal.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 2.2 shows the rule oscillating about a central axis. To make the rule oscillate move end A a small distance away from you and end B the same distance towards you. Release the rule.",
+        "image": "A diagram showing a horizontal half-metre rule labeled A at one end and B at the other. It has dashed lines indicating a central axis about which the rule rotates. An eye symbol with a triangle indicates the 'position of eye' for observation. This setup is labeled Fig. 2.2."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "One complete oscillation occurs when end A moves from the position where it is closest to you to the position where it is furthest away and then back again to the closest position. The time for 10 complete oscillations is t. Take measurements to determine an accurate value of t.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the time T for one complete oscillation. Give your answer to a suitable number of significant figures.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/Oct-Nov/2016/Q3",
+    "Question_text": "In this experiment, you will investigate the resistance of a diode at two values of current. You are provided with • a power supply, • a switch, • a resistor labelled Y, • a 10 Ω resistor, • a diode, • an ammeter, • a voltmeter, • connecting leads. The Supervisor has set up the incomplete circuit shown in Fig. 3.1.",
+    "image": "A circuit diagram labeled Fig. 3.1. It shows a d.c. power supply connected to a switch. After the switch, the circuit goes to an ammeter (A). From the ammeter, it connects to point P. Between points P and Q, a diode is placed, with a voltmeter (V) connected in parallel across the diode. After point Q, a resistor labeled Y is connected in series, and then the circuit returns to the d.c. power supply.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Connect the terminals P and Q together. Close the switch. Record the voltmeter reading V₁, the ammeter reading I₁, and then open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the resistance R₁ of the diode using the equation R₁ = V₁ / I₁.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Disconnect the terminals P and Q. Connect the 10 Ω resistor between P and Q. Close the switch. Record the voltmeter reading V₂, the ammeter reading I₂, and then open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the new resistance R₂ of the diode using the equation R₂ = V₂ / I₂.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "By changing the resistance between P and Q, the current in the circuit changes. State how this change in current affects the voltage across the diode and the resistance of the diode.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/Oct-Nov/2016/Q4",
+    "Question_text": "In this experiment, you will determine the focal length of a converging lens. You are provided with • a converging lens, • an illuminated cross-wire object, • a lens holder, • a light source, • a screen, • a metre rule, • a set square. (a) Set up the apparatus as shown in Fig. 4.1. The cross-wire object is at the 0.0 cm end of the rule and the screen is at the 100.0 cm end.",
+    "image": "A diagram showing the setup for determining the focal length of a converging lens. From left to right along a metre rule, there is a light source, an illuminated cross-wire object, a converging lens in a holder, and a screen. The overall distance between the object and the screen is labeled D. The distance between the object and the lens is also indicated. This setup is labeled Fig. 4.1.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "By only changing the position of the lens obtain an image on the screen that is smaller than the object. Describe the technique that you use to obtain an image that is in sharp focus.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine an accurate value for the distance uS between the object and the lens when the image is smaller than the object and is in sharp focus on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "By only changing the position of the lens obtain an image on the screen that is larger than the object.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Determine the new value for the object distance uL when the image is larger than the object and in sharp focus on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii).1",
+        "part_text": "In order to change from an image that is smaller than the object to an image that is larger than the object the lens has been moved a distance d. Calculate d using d = uS – uL.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii).2",
+        "part_text": "Calculate y using y = D² – d², where D is the distance between the object and the screen.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Repeat (a)(ii) and (b) using different values of D in the range 60 cm ≤ D ≤ 100 cm. The object should remain at the 0.0 cm mark on the rule and the position of the screen should be changed to give different values of D. Record your results for D, uS, uL, d and y in the table of Fig. 4.2. Include headings in your table and your initial results from (a)(ii) and (b).",
+        "image": "A blank table with several columns and rows, specifically designed to record experimental data for D, uS, uL, d, and y. It is labeled Fig. 4.2."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of y/cm² (y-axis) against D/cm (x-axis). Draw the straight line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Determine the gradient G of your graph.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Calculate the numerical value f of the focal length of your lens using f = G/4.",
+        "image": null
+      }
+    ]
+  }
+]

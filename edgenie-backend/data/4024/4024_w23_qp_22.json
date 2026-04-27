@@ -1,0 +1,225 @@
+[
+  {
+    "QuestionNumber": "1(b)",
+    "Question_text": "Idris invests $6200 in an account paying compound interest at a rate of 1.7% per year. Calculate the total amount of interest earned at the end of 4 years.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate compound interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(a)",
+    "Question_text": "Laila asks a group of people what type of exercise they prefer. The results are shown in the pie chart. (i) 90 people prefer running. Calculate the total number of people Laila asks.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret pie charts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(b)",
+    "Question_text": "Laila records the number of steps she walks each day for 60 days. The table shows the results. Complete the histogram to represent the data.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(a)",
+    "Question_text": "Solve 5x+6 = 3x",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(b)",
+    "Question_text": "The mass of a plum is n grams. The mass of an apple is twice the mass of the plum. The mass of a banana is 50 grams more than the mass of the apple. The total mass of the plum, the apple and the banana is 450 grams. Form an equation in n and solve it to find the mass of the plum.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas",
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(c)",
+    "Question_text": "Solve by factorisation. x²-4x-21 = 0",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(a)",
+    "Question_text": "A bag contains 40 balls. 28 of the balls are red and the rest are green. Aisha takes a ball from the bag at random, notes its colour and replaces it. Find the probability that this ball is green.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(b)",
+    "Question_text": "A bag contains 9 blue balls and 7 yellow balls. Sergio takes two balls from the bag at random without replacement. Complete the tree diagram. Second ball First ball",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(a)",
+    "Question_text": "Complete the table for y = 4x / 10.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(b)",
+    "Question_text": "This is a sketch of the graph of y = x² + ax + b . Find the value of a and the value of b.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.11 Sketching curves",
+    "Sub_topic": [
+      "Recognise, sketch and interpret graphs of the following functions: (b) quadratic"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(a)",
+    "Question_text": "Point A and point B are shown on a centimetre square grid. ABC is a triangle. Here are five possible coordinates for point C. Tick (✔) the two coordinates from the list that make ABC an isosceles triangle.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(b)",
+    "Question_text": "The equation of line P is y = 4x -3 . Line L is perpendicular to line P. Line L passes through the point (6, 4). Find the coordinates of the point where line L crosses the x-axis.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.7 Perpendicular lines",
+    "Sub_topic": [
+      "Find the gradient and equation of a straight line perpendicular to a given line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(a)",
+    "Question_text": "The diagram shows a small rectangle inside a large rectangle. The height of the large rectangle is x cm. The length of the large rectangle is 4 times its height. The width of the shaded border is 3 cm. The area of the small rectangle is 80 cm². Form an equation in x and show that it simplifies to 2x² - 15x-22 = 0 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(b)",
+    "Question_text": "Solve the equation 2x²-15x-22 = 0 . Show your working and give your answers correct to 2 decimal places.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(c)",
+    "Question_text": "Calculate the shaded area.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9(a)",
+    "Question_text": "ABCD is a rectangular field. C is due south of A. AB = 450 m and BC = 210m. Martha walks at an average speed of 5.2km/h. Calculate the time Martha takes to walk once around the perimeter of the field. Give your answer correct to the nearest minute.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9(b)",
+    "Question_text": "PQR is a triangle and S is a point on PR. PS = 10.3cm, QR = 12.6cm, QPS = 42° and QRS = 35°. Calculate QS.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(a)",
+    "Question_text": "A solid is formed from a large cone with a small cone removed from the centre. The small cone is mathematically similar to the large cone. The vertex of the large cone is vertically below the vertex of the small cone. The height of the large cone is 21 cm and the diameter of the top is 18 cm. The height of the small cone is 14cm. Show that the volume of the solid is 3997cm³.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(b)",
+    "Question_text": "The height of a cylinder is 13 cm, correct to the nearest centimetre. The radius of the base of the cylinder is 4.5 cm, correct to the nearest 0.1 centimetre. Calculate the upper bound of the volume, in cm³, of the cylinder.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give upper bounds",
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "f(x) = 4x+1 g(x) = 2x-3 Find f(-3).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  }
+]

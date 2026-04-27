@@ -1,0 +1,183 @@
+[
+  {
+    "QuestionNumber": "October-November/31/2012/Q1",
+    "Question_text": "In this experiment, you will determine the specific latent heat of fusion of ice. You have been provided with • a supply of ice, • a cup, • a supply of water at room temperature, • a measuring cylinder, • a plastic spoon, • a thermometer, • a stirrer, • some paper towels.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure 80 cm³ of water from the supply, using the measuring cylinder. This water has a mass m_w = 80g. Pour the water into the cup. Measure the temperature θ₁ of the water.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Take a spoonful of ice, pour off excess water and dry the ice with a paper towel. Place the ice into the cup. Stir the mixture and note the temperature when all the ice has melted. Continue adding spoonfuls of dried ice and stirring until the temperature of the water after the ice has melted is below 15°C. Record the final temperature θ₂ of the water.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Carefully pour the water from the cup into the empty measuring cylinder and determine the final volume of water.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the volume of water produced from the melted ice.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "A volume of 1.0cm³ of water has a mass of 1.0g. Calculate the mass m_i of ice that was added to the water.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the thermal energy (heat) Q₁ lost by the water, initially at room temperature, using the relationship Q₁ = m_w c_w (θ₁-θ₂) where c_w = 4.2J/(g°C) and m_w = 80g.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Using your value from (b)(iii), calculate the thermal energy Q₂ gained by the water formed from the melted ice, using the relationship Q₂ = m_i c_w θ₂.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the specific latent heat of fusion L of ice using the relationship L = (Q₁-Q₂)/m_i",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2012/Q2",
+    "Question_text": "In this experiment, you will investigate the relationship between the resistance and the cross-sectional area for two resistance wires. You have been provided with • a power supply, • two lengths of resistance wire of the same material, attached to a metre rule, • two crocodile clips, • an ammeter, • a voltmeter, • a resistor, • connecting wires. A diagram of the circuit is shown in Fig. 2.1.",
+    "image": "A circuit diagram showing a power supply connected in series with an ammeter, a resistor, and a length of resistance wire (Wire A) attached to a metre rule. A voltmeter is connected in parallel across a 1.00 m section of Wire A using two crocodile clips. Below Wire A, there is Wire B, also attached to the metre rule, for later measurements. Crocodile clips, metre rule, and adhesive tape are labeled.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Connect the crocodile clips between two points that are 1.00 m apart on wire A. Measure the current I in the circuit and the potential difference (p.d.) V across the 1.00m length of wire A. Immediately disconnect the crocodile clips from the wire.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the resistance R_A of wire A, using the relationship R_A = V/I.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Connect the crocodile clips between two points that are 1.00m apart on wire B. Determine the resistance R_B of wire B, using the method described in (a) and (b).",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The ratio cross-sectional area of wire A / cross-sectional area of wire B is given on the card supplied by the Supervisor. Theory states that R_B / R_A = cross-sectional area of wire A / cross-sectional area of wire B. Suggest whether your results support this theory.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2012/Q3",
+    "Question_text": "In this experiment, you will investigate the images formed by a converging lens. You have been provided with • a converging lens, • an illuminated cross-wire object, • a lens holder, • a screen, • a metre rule, • a set square. (a) Set up the apparatus as shown in Fig. 3.1.",
+    "image": "A diagram illustrating the setup for investigating a converging lens. An illuminated cross-wire object is placed at the 0.0 cm end of a metre rule. A converging lens is held in a holder, and a screen is positioned at the 100.0 cm end of the metre rule. The object distance 'u' is shown between the object and the lens, and the image distance 'v' is shown between the lens and the screen.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The illuminated object should be at the 0.0cm end of the rule and the screen should be at the 100.0 cm end. Adjust the position of the lens to produce an image on the screen that is smaller than the object. Describe the technique that you use to obtain an image that is in sharp focus.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The distance between the object and the lens is u and the distance between the lens and the screen is v, as shown in Fig. 3.1. Determine accurate values for u and v when the image is in sharp focus on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Without moving the position of the object and the screen, adjust the position of the lens until an image is formed on the screen that is larger than the object. Determine accurate values for u and v when the image is in sharp focus on the screen.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2012/Q4",
+    "Question_text": "In this experiment, you will determine the mass of a half-metre rule. You have been provided with • a half-metre rule with holes at the 1.0cm mark and at the 49.0 cm mark, • a length of thin string that is tied through the hole at the 49.0cm mark and has a loop at the other end, • a pivot in the form of a nail, • a pulley arrangement, • a stand that is clamped to the bench, which has a boss that holds the nail, • a 10g mass hanger with five 10g slotted masses, • a plumb-line consisting of a length of thin string with a mass at the end, • a metre rule, • a set square, • a stand, boss and clamp to support the metre rule. The half-metre rule is suspended from the nail using the hole at the 1.0cm mark. The plumb-line is also suspended from the nail. Pass the free end of the string over the pulley and hang the hook on the 10g mass hanger from the loop in the free end of the string, as shown in Fig. 4.1. Adjust the height of the pulley and the distance of the pulley from the fixed stand until the section of the string labelled AB is horizontal.",
+    "image": "A diagram illustrating an experimental setup to determine the mass of a half-metre rule. The rule is suspended from a pivot (nail) at the 1.0 cm mark, which is held by a boss on a fixed stand. A plumb-line also hangs from the pivot. A string is tied through the hole at the 49.0 cm mark of the rule (point A), passes over a pulley (point B), and has a mass hanger attached to its free end. The section of the string labeled AB is shown horizontal. A bench, G-clamp, and an additional metre rule (for measurement) are also part of the setup. Distances 'y' (vertical distance between holes), 'x' (horizontal distance between holes), 'h1' (height of string AB above bench), and 'h2' (height of the center of the nail above bench) are indicated.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how you made sure that the string AB was horizontal. You may add to Fig. 4.1 if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure and record the height h₁ of the string AB above the bench,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the height h₂ of the centre of the nail above the bench,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "the horizontal distance x between the centres of the two holes in the half-metre rule, as shown in Fig. 4.1 (the plumb-line will help you to do this).",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate a value for the vertical distance y between the centres of the two holes as shown in Fig. 4.1,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "a value for tan θ, where θ is the angle between the rule and the vertical, using the relationship tan θ = x/y",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Repeat (b) and (c) for a range of values of the total mass m suspended from the string. In each case ensure that the section AB of the string is horizontal. Record your results in Fig. 4.2. Include column headings for m, h₁, h₂, x, y and tan θ. Also include your results for m = 10g from (b) and (c).",
+        "image": "A blank table labeled Fig. 4.2 with rows and columns provided for recording experimental data. Column headings expected are m, h₁, h₂, x, y and tan θ."
+      },
+      {
+        "part_label": "e",
+        "part_text": "Using the grid opposite, plot a graph of tan θ on the y-axis against m/g on the x-axis. Draw the straight line of best fit through your points.",
+        "image": "A blank grid spanning an entire page, intended for plotting a graph of tan θ against m/g. It has a dense mesh of lines for precise plotting."
+      },
+      {
+        "part_label": "f(i)",
+        "part_text": "Determine the gradient of the line of best fit,",
+        "image": null
+      },
+      {
+        "part_label": "f(ii)",
+        "part_text": "the mass M of the half-metre rule using the relationship M = 2/gradient",
+        "image": null
+      }
+    ]
+  }
+]

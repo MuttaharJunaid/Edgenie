@@ -1,0 +1,175 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2020/Q1",
+    "Question_text": "In this experiment you will investigate the heating of water. You are provided with: • a power supply • a switch • an ammeter • a voltmeter • an arrangement of resistors to act as a heater. The supervisor has set up the circuit shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a circuit diagram. A power supply is connected in series with a switch, an ammeter (labelled 'A'), and a heater. A voltmeter (labelled 'V') is connected in parallel across the heater. This setup is used to investigate the heating of water.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Electrical Energy",
+      "Work",
+      "Specific Heat Capacity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Close the switch. Record the current I and the voltage V.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Open the switch. You are also provided with: • a beaker of water held in a clamp, boss and stand • a thermometer • a stop-watch • another boss and clamp. Draw a diagram in the space provided on page 3 to show how this apparatus is arranged to measure the temperature of the water.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Measure and record the temperature θ₁ of the water. Remove the thermometer from the water. Place the heater in the water. Close the switch and start the stop-watch. Open the switch at time t = 200 seconds. Remove the heater from the water. Replace the thermometer in the water. Gently swirl the water until the reading on the thermometer stops increasing. Measure and record the temperature θ₂ of the water. Calculate the temperature change θ₂ – θ₁.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the electrical energy E_e supplied to the heater, given that E_e = V I t.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Calculate the thermal energy E_T gained by the water. Use the equation: E_T = m c (θ₂ – θ₁) where m = 50g and c = 4.2 J/(g°C).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2020/Q2",
+    "Question_text": "In this experiment you will investigate the size of images produced by lenses. You are provided with: • a single lens mounted on a slotted mass • a double lens arrangement • an object A, marked with horizontal lines • a half-metre rule • small pieces of Blu Tack • a 30 cm ruler. Attach object A to the half-metre rule at the 10.0cm mark, using a small piece of Blu Tack. Place the single lens on the slotted mass on the rule somewhere between the 10cm mark and the 50 cm mark, as shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows an experimental setup on a half-metre rule. An object A, marked with horizontal lines, is placed at the 10 cm mark. The distance between two adjacent lines on object A is labelled 'd_o'. A single lens, mounted on a slotted mass, is positioned somewhere between the 10 cm and 50 cm marks. An eye is positioned over the 50 cm mark to observe the image of the object through the lens. The distance between the images of two adjacent lines is labelled 'd_i'. Blu Tack is indicated as being used.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Linear Magnification",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure the distance d_o between two adjacent lines on object A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Position your eye over the 50cm mark on the rule, and observe the image of two adjacent lines through the lens. Observe how the distance d_i between the images of the adjacent lines changes when you move the lens along the rule between the 10cm mark and the 50 cm mark. Move the lens to a position between the 10cm mark and the 50cm mark so that d_i = 2 × d_o.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe the method you used to ensure that d_i = 2 × d_o. You may draw a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "With the lens in this position, measure and record the distance P between object A and the centre of the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Remove the single lens from the rule and replace it with the double lens arrangement. Repeat the procedure at the beginning of (b). Measure and record the distance Q between object A and the centre of the double lens.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A student suggests that because the number of lenses is double, P/Q = 2. Using your results from b(ii) and (iii), state whether you agree with the student. Explain your reasoning.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2020/Q3",
+    "Question_text": "In this experiment you will investigate the average diameter of a ball. You are provided with: • a ball • a metre rule • two set squares.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Examine the ball. Explain why it is difficult to determine the diameter of this ball.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe a method to determine an accurate diameter of the ball using the apparatus provided. You may draw a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Determine the average diameter of the ball. Record all your measurements and show your working and the unit of your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2020/Q4",
+    "Question_text": "In this experiment you will investigate the equilibrium of a load attached to a spring. You have been provided with • a 100 g mass hanger and three 100g masses • a metre rule attached to a hook with thread looped through the rule • a half-metre rule and a 30 cm ruler • a stand and boss • 2 identical springs • a clamp or a rod used as a pivot. The supervisor has set up the apparatus as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 illustrates an experimental setup investigating equilibrium. A metre rule is shown, with its top end attached to a spring, which is connected to a stand. The metre rule rests on a pivot at point A. A loop of thread is attached at point B. The distance between the pivot point A and the loop of thread at point B is labelled 'p'. The length of the stretched spring is labelled 'L'. The rod of the stand and the pivot are indicated as being 70 cm apart. An arrow points downwards and to the right from the metre rule, indicating a pulling direction, and the text says 'pull this way'. Fig. 4.2 shows a single coiled spring, with its unstretched length 'l' being measured.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Moments",
+      "Equilibrium",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Two distances L and p are shown on Fig. 4.1. Ensure that the rod of the stand and the pivot are 70cm apart. Gently pull the metre rule one or two centimetres down to the right in the direction indicated by the arrow shown on Fig. 4.1. The spring exerts an opposing force. Release the metre rule and observe it slide back along the pivot and come to rest.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure and record, with units: • the length L of the stretched spring • the distance p between point A, where the metre rule comes to rest in contact with the pivot, and point B where the loop of thread is attached.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "A second spring, identical to the one attached to the stand and metre rule, is on the bench. Measure the length l of the coil of the unstretched spring, as shown in Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the extension x of the spring using the equation: x = (L− l) Calculate the force F in the stretched spring using the equation: F = kx where k = 0.25 N/cm and x is measured in cm.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Write appropriate headings with units in the spaces provided in Table 4.1. Record your results from (a) in the first row of the table, for mass = 0g.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Hang the 100g mass hanger from the loop of thread suspended from point B. Gently pull the metre rule down to the right in the direction indicated on Fig. 4.1. The spring exerts an opposing force. Release the metre rule and observe it slide back along the pivot and come to rest. Repeat (a)(i) and (a)(iii) to obtain new values for L, p, x and F. Complete the table by finding results for masses of 200g, 300g and 400 g. Table 4.1: mass/g, L/..., p/..., x/..., F/...",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On the grid on page 11, plot a graph of F on the y-axis against p on the x-axis. Draw the straight line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Determine the gradient of this straight line. Include a unit in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest why this investigation does not use masses greater than 400 g.",
+        "image": null
+      }
+    ]
+  }
+]

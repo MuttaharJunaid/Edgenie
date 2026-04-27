@@ -1,0 +1,154 @@
+[
+  {
+    "QuestionNumber": "5054/31/M/J/2021/Q1",
+    "Question_text": "In this experiment you will investigate reflection and refraction of light. You are provided with: a transparent block an illuminated slit or ray box a ruler a protractor.",
+    "image": "Fig. 1.1 shows a diagram with a dashed vertical line labelled 'A A' and a curved line labelled 'F F' at the bottom. A dashed rectangle labelled 'transparent block' is positioned near the top of the 'A A' line, partially obscuring it. The block has a corner labelled 'B' and a point 'C' on its long edge, where the 'A A' line intersects. The diagram implies a setup for tracing light rays through a block.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 is on page 3 of your question paper. On Fig. 1.1: switch on the lamp or ray box and position the slit at the top of the page so that a single ray of light lines up with the line A A place the block on Fig. 1.1 and line up the corner of the block with the corner at B so that the ray of light passes through the long edge of the block at the point labelled C mark with the letter D the point where the refracted ray emerges from the other side of the block mark with the letter E the point where this refracted ray passes through line FF draw a line from point D to point E mark with the letter G the point where the reflected ray from point C passes through line FF draw a line from point C to point G.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Measure and record the distance d between point E and point G.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Remove the block. On Fig. 1.1, draw the normal to the surface of the block at point C and label with an i the angle of incidence of the ray of light with the block. Measure and record the angle of incidence i.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Place the block again on page 3 with its corner lined up at corner B. Carefully rotate the long edge of the block about the point C and observe how this changes the position of the refracted and reflected rays that pass through FF. Switch off the lamp. Describe the relationship between i and d.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/M/J/2021/Q2",
+    "Question_text": "In this experiment you will investigate an electrical circuit. You are provided with: components connected together in an electrical circuit an ammeter a voltmeter. The supervisor has set up the circuit.",
+    "image": "Table 2.1 displays common electrical symbols: battery of cells (multiple cells in series), switch (open), ammeter (circle with 'A'), voltmeter (circle with 'V'), junction of conductors (dot on a line), light-emitting diode (diode with outgoing arrows), fixed resistor (rectangle), variable resistor (rectangle with diagonal arrow), thermistor (rectangle with T and diagonal line), light-dependent resistor (rectangle with arrows pointing towards it).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Close the switch and record the reading on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "One component in the circuit is resting on the piece of card labelled X. Carefully move your hand over the surface of this component. State and explain what happens to the component on the piece of card labelled Y. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Some electrical symbols are shown in Table 2.1: battery of cells, switch, ammeter, voltmeter, junction of conductors, light-emitting diode, fixed resistor, variable resistor, thermistor, light-dependent resistor. Using some or all of the symbols in Table 2.1, draw a circuit diagram of the circuit.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/M/J/2021/Q3",
+    "Question_text": "In this experiment you will investigate the power developed by a falling mass. You are provided with: a pulley attached to a stand two 100g mass hangers a length of string a metre rule a stop-watch a set-square heavy weight or G-clamp to keep stand in position. The supervisor has set up the apparatus as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows an experimental setup. A vertical stand is clamped to a bench using a heavy weight. A pulley is attached to the top of the stand. A string passes over the pulley. One end of the string is attached to a mass hanger A, which is suspended in the air. The other end of the string is attached to a mass hanger B, which is resting on the floor. The vertical distance from mass hanger A to the floor is labelled 'h'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Gravitational Potential Energy",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Adjust the position of the clamp so that h = 1.000m and mass hanger B is at rest on the floor. Describe how you ensured an accurate measurement of h.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "You are also provided with a small piece of modelling clay. Carefully place the piece of modelling clay on mass hanger A and hold this mass hanger in position. Release the mass hanger and start the stop-watch. (You may have to give the mass hanger a gentle push downwards to start the movement.) Measure and record an accurate value for the time t for the mass hanger to fall to the floor.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The mass m of the piece of modelling clay is written on the piece of card. Record the total mass M in kilograms of the mass hanger and the modelling clay.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the power P produced as mass hanger A falls, using the equation: P = Mgh / t where g = 10 N/kg.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/M/J/2021/Q4",
+    "Question_text": "In this experiment you will investigate the speed of a ball on a track. You are provided with: a glass ball a sloping track made from two metre rules a half-metre rule a stop-watch. The supervisor has set up the track as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows an experimental setup. A glass ball rests at the top of a sloping track. The track is made from two metre rules and is elevated at one end, forming a ramp. The height of the elevated end above the bench is labelled 'h'. The width of the track is labelled 'w'. The lower end of the track is supported by a block of modelling clay, and there is also some adhesive putty near the bottom end of the track, possibly to secure it.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Measurement",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure and record the height h of the track above the bench at the 100cm mark. the width w of the track at the 5 cm mark.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "As the ball rolls down the track, h and w remain constant. Describe two features of the apparatus that enable h and w to remain constant.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Release the ball from rest at the top of the track at the 100cm mark. Determine an accurate average time t_av from two readings for the ball to reach the 0cm mark at the bottom of the track. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The distance d is the distance travelled by the ball as it rolls down the track. In Table 4.1 on page 10, record the height of the track h from (a)(i), your two time readings and t_av from (b) for d = 100 cm. Calculate and record, in a separate column of Table 4.1 on page 10, the average speed v of the ball using the equation: v = d / t_av. Add appropriate headings with units to each column of Table 4.1 on page 10.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Continue the procedure in (c)(i) by measuring and recording the value of h at the 90cm mark, the 80 cm mark and so on until the 10cm mark on the metre rule. Release the ball from rest at each of these positions and record two time readings and t_av for each position. Calculate and record the average speed v for each starting position.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid on page 11, plot a graph of v on the y-axis against h on the x-axis. Draw the straight line of best fit.",
+        "image": "An empty grid for plotting a graph, suitable for plotting speed (v) on the y-axis against height (h) on the x-axis."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "A student suggests that, in theory, the average speed v, in m/s, of the ball when it rolls from the 100 cm mark to the 0 cm mark can be calculated using the equation: v = 10h t_av where h = your value of h from (a)(i), expressed in metres, and t_av = your value from (b) in seconds. Calculate the average speed v using this equation.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Determine whether the student is correct by comparing the average speed v calculated in (e)(i) with your value of v for d = 100 cm calculated in (c)(i). Explain your reasoning.",
+        "image": null
+      }
+    ]
+  }
+]

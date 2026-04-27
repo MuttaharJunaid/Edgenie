@@ -1,0 +1,180 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2015/Q1",
+    "Question_text": "A student investigates a ball bouncing on a bench. The student drops the ball from a height H of 100cm above the bench, as shown in Fig. 1.1a. He measures the height h of the ball at the top of the first bounce. The motion of the ball is shown in Fig.1.1a, b and c.",
+    "image": "Fig. 1.1a shows a ball held above a metre rule, ready to be dropped towards a bench, labeled 'ball before release'. The height 'H' from the ball's bottom to the bench is indicated. Fig. 1.1b shows the ball in contact with the bench, labeled 'ball hitting the bench'. Fig. 1.1c shows the ball at the peak of its first bounce, having risen above the bench, labeled 'ball at top of first bounce'. All figures include a metre rule placed vertically beside the ball and a bench below.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Freefall",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State how the student can check that the metre rule is vertical.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State and explain which part of the ball the student should use when measuring h.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "On Fig. 1.1c, mark and label h.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "On Fig. 1.1c, draw the position of the student's eye when measuring h.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Suggest two reasons why it is difficult for the student to measure h accurately.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student repeats the experiment for different values of H. For each value of H, he takes three readings for h. He records his results in Fig. 1.2.",
+        "image": "Fig. 1.2 is a table with four columns: 'H/cm', 'h/cm' (with three sub-columns for individual readings), and 'hav/cm'. Rows list H values from 100 cm down to 20 cm, with corresponding h readings (e.g., for H=100, h values are 64, 67, 69). The 'hav/cm' column is mostly empty, requiring completion."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "For each value of H, the average value of h is hav. Complete Fig. 1.2, giving your values of hav to 3 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 1.3, plot a graph of hav/cm on the y-axis against H/cm on the x-axis. Start your axes from (0,10). Draw the straight line of best fit.",
+        "image": "Fig. 1.3 shows a blank graph grid with an x-axis labeled '0' at the origin and '10' at the bottom left, indicating the starting point for the axes from (0,10). The y-axis and the rest of the x-axis are not yet labeled, awaiting the plot."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The quantity e is given by e = √(hav/H). Theory shows that e is constant. Using two points from the graph, calculate two values of e. Comment on whether e is constant for the student's results.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2015/Q2",
+    "Question_text": "A rain-gauge is used to measure the amount of rain that falls. Fig. 2.1 shows a typical rain-gauge.",
+    "image": "Fig. 2.1 shows a cross-section of a typical rain-gauge. It consists of a funnel-like 'rain-gauge' opening at the top, leading to a narrower cylindrical collection tube with a clear plastic wall. A scale in mm is marked on the side of the plastic cylinder, ranging from 5 to 30 mm. The cylinder narrows towards the bottom, where a pointed 'spike' anchors it into the 'ground'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The shape of the rain-gauge causes the scale to be non-linear. With reference to Fig. 2.1, explain what is meant by a non-linear scale.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest why this non-linear scale is useful in a rain-gauge.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On one day, the rain-gauge measures 7.5 mm of rain.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.1, show the level of water in the rain-gauge.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A student picks up the rain-gauge to read it. Suggest one possible source of error this causes in reading the rain-gauge.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest a reason why the rain-gauge",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "is made from a transparent material,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "has a spike.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2015/Q3",
+    "Question_text": "A student determines the refractive index of the glass in a semi-circular block. The student uses the relationship refractive index = sin(angle of incidence) / sin(angle of refraction). Describe an experiment the student can perform to obtain an accurate value for the refractive index of the glass. Normal laboratory equipment is available. In your description of the experiment you should • state the equipment used, • describe how the equipment is used, • state the readings taken, • explain how the refractive index is obtained from the readings, • describe how the student makes the experiment accurate. The semi-circular glass block is drawn for you in Fig. 3.1. You may draw on Fig. 3.1.",
+    "image": "Fig. 3.1 shows a clear outline of a semi-circular glass block, which can be used for drawing rays to illustrate an experiment on refraction.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "",
+        "part_text": "Describe an experiment the student can perform to obtain an accurate value for the refractive index of the glass. Normal laboratory equipment is available. In your description of the experiment you should state the equipment used, describe how the equipment is used, state the readings taken, explain how the refractive index is obtained from the readings, describe how the student makes the experiment accurate. The semi-circular glass block is drawn for you in Fig. 3.1. You may draw on Fig. 3.1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2015/Q4",
+    "Question_text": "A student measures the time for which a 1.5 V cell can provide a steady current of 0.3 A.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Electrical Safety",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student sets up a circuit including the cell. She measures the current produced by the cell and varies the resistance of the circuit to keep the current constant.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "In the space below, draw the circuit she uses.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Name the equipment the student uses to 1. measure the current, 2. vary the resistance, 3. measure the time.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The student chooses from three analogue meters to measure the current. The meters have ranges 0 to 10A, 0 to 1 A and 0 to 0.1 A. Explain why the 0 to 1 A meter is the most suitable.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Describe how the student adjusts the circuit to keep the current constant.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A second student repeats the experiment using a much larger current. Suggest one hazard this may cause.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "QuestionNumber": "October/November/2010/Q1",
+    "Question_text": "A student performs an experiment to measure an elastic property of wood. (a) A metre rule is clamped with its 10.0cm mark at the edge of a bench, as shown in Fig. 1.1. ho = 75.5 cm",
+    "image": "Fig. 1.1 shows a diagram of a metre rule clamped at the 10.0 cm mark to the edge of a bench. The free end of the rule extends over the bench. A vertical dashed line indicates the height `h0` from the floor to the free end, labeled as 75.5 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 1.1, draw a second rule positioned to measure the height `h0` above the floor of the free end of the clamped metre rule.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 1.1, draw the position of the eye of the student when measuring `h0`.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A mass m is hung from the 95.0cm mark on the clamped metre rule, as shown in Fig. 1.2. The end of the rule moves down a distance d, where d = `h0` – h. The student takes readings of h for different values of m. Values of m and h are recorded in the table of Fig. 1.3.",
+        "image": "Fig. 1.2 shows the same setup as Fig. 1.1, but with an additional mass `m` hanging from the metre rule at the 95.0 cm mark. The rule is shown bent downwards. A vertical dashed line from the floor to the deflected end of the rule is labeled `h`. Another vertical dashed line from the floor to the original position of the free end is labeled `h0`, with `h0 = 75.5 cm`. A small `d` is indicated between `h` and `h0`, representing the deflection."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete Fig. 1.3 to show the values of d.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 1.4, plot the graph of d/cm on the y-axis against m/g on the x-axis. Start your graph from the origin and draw the straight line of best fit.",
+        "image": "Fig. 1.4 is a large empty grid with horizontal and vertical axes, clearly marked for plotting a graph of `d/cm` against `m/g`."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain how the graph shows that d is not directly proportional to m.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Find the gradient of your graph. Show your working clearly.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use information from (b) to find the length L along the clamped metre rule from the edge of the bench to the point where the hanging mass is attached.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The elastic property E of the wood is given by the relationship E = (0.72 x L^3) / gradient Calculate the value of E. You do not need to give the unit of your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q2",
+    "Question_text": "A group of students measures the speed of a wave along a slinky spring. A teacher and a student hold the ends of a slinky spring stretched along a bench, as shown in Fig. 2.1. The teacher moves one end of the spring to make a wave pulse travel along the spring. Five metre rules are placed end-to-end alongside the spring. Five students with stopwatches stand together near the centre of the spring to measure the time t taken by the wave pulse to travel the distance of 5.0 m.",
+    "image": "Fig. 2.1 shows a long slinky spring stretched horizontally on a bench. A teacher stands at one end, and a student at the other, holding the spring ends. Five metre rules are laid end-to-end along the length of the spring. Five other students are standing along the length of the spring, each with a stopwatch, observing the wave travel.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The five students record the following values for t, measured in seconds. 1.71 1.64 1.78 1.75 1.67",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Find the average time `t_av` for the wave to travel 5.0m along the spring.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the average speed `v_av` of the wave pulse along the spring. Give your answer to a suitable number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why, in practice, the position of the students and the metre rules causes a parallax error.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why this parallax error causes the measured values of t to be too small.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain one other reason why the times recorded by the students are not all exactly the same.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Describe how the students could measure the time t more accurately.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "One student suggests that the speed of a slower wave pulse can be measured more accurately. Suggest a method of making a wave pulse travel more slowly along the spring.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q3",
+    "Question_text": "The variation of the resistance of a thermistor with temperature is investigated.",
+    "image": "Fig. 3.1 shows a drawing of a thermistor, which is a bulb-shaped component with two leads, labeled 'thermistor'. Adjacent to it, its circuit symbol is shown, which is a resistor symbol with a diagonal line through it, labeled 'circuit symbol'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw the circuit diagram of a circuit used to measure the resistance of the thermistor.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain, with the aid of a diagram, how the temperature of the thermistor may be measured and varied from room temperature to 90°C.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A student measures the resistance of the thermistor at different temperatures and plots a graph of resistance against temperature. Explain why the resistance must be measured at more than two different temperatures.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q4",
+    "Question_text": "A student investigates pressure using a pencil and two blocks of modelling clay. The pencil is pushed gently into the clay. The pencil leaves a dent. The flat end of the pencil is used first and then the pointed end. This is shown in Fig. 4.1.",
+    "image": "Fig. 4.1 displays two side-by-side scenarios. In the left scenario, a pencil is shown with its flat eraser end being pushed downwards into a block of modelling clay, creating a shallow, wide dent. In the right scenario, the same pencil is shown with its pointed lead end being pushed downwards into another block of modelling clay, creating a narrow, deep dent. Both scenarios are labeled with 'push', 'pencil', and 'modelling clay'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe a simple method for pushing the pencil gently into the clay with the same force each time. You may use a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 4.1, draw the side view of the dent produced in each piece of clay when the pencil is pushed gently into the clay with the same force each time.",
+        "image": null
+      }
+    ]
+  }
+]

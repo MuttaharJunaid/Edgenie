@@ -1,0 +1,475 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "An experiment is done to measure the rate of reaction between calcium carbonate and dilute hydrochloric acid. The gas formed is collected in a gas syringe. Which additional pieces of apparatus are essential to measure how the rate of the reaction changes with temperature and the amount of acid used?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Practical methods for rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "After acidification with dilute nitric acid, a colourless solution of X reacts with aqueous silver nitrate to give a white precipitate. What could X be?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A paper chromatography experiment is carried out to separate and identify the mixture of amino acids produced from the hydrolysis of a protein. Which apparatus is needed?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Which conditions will give the highest rate of diffusion of a gas?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.2 Diffusion",
+    "Sub_topic": [
+      "Diffusion in kinetic particle theory"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Cobalt is a transition element. A particle of cobalt contains 24 electrons and has a nucleon number of 60. Which statement about this particle is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure",
+      "Proton number / atomic number",
+      "Mass number / nucleon number",
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Diamond and graphite are two different forms of the element carbon. They each have different uses. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide",
+      "Uses of graphite and diamond"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Which diagram shows the outer electron arrangement in calcium fluoride?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions",
+      "Formation of ionic bonds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "What is the number of shared pairs of electrons in an ammonia molecule?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation",
+      "Formation of covalent bonds in molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Two statements about metals are given. 1 Metals contain a lattice of negative ions in a 'sea of electrons'. 2 The electrical conductivity of metals is related to the mobility of the electrons in the structure. Which is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition",
+      "Properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Powdered calcium carbonate reacts with dilute hydrochloric acid to produce calcium chloride, water and carbon dioxide. What is the correct ionic equation, including state symbols, for this reaction?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "In a volumetric experiment, 25.0cm³ of 0.100mol/dm³ sodium hydroxide reacts exactly with 20.0 cm³ of sulfuric acid. 2NaOH + H2SO4 → Na2SO4 + 2H2O What is the concentration of the sulfuric acid?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration from titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "The reaction for the conversion of bromoethane to ethanol is shown. C2H5Br + NaOH → C2H5OH + NaBr In an experiment, 10.90 g of bromoethane is converted into 3.45 g of ethanol. What is the percentage yield of ethanol?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "One mole of a sugar, (CH2O)6, is burned. Which volume of oxygen, measured at room temperature and pressure, is required for complete combustion of the sugar?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Which statement about the purification of copper by electrolysis is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electroplating metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Which negative ions are present in aqueous copper(II) sulfate?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "The diagram shows the energy profile for a reaction. Which statement about this reaction is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions",
+      "Activation energy",
+      "Reaction pathway diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The table shows the energy released by the complete combustion of some compounds. Which compound releases the least energy when 1 g is completely burned?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Three experiments are carried out in which the same mass of magnesium is reacted with the same volume of dilute sulfuric acid at room temperature. The magnesium is in excess. Graphs of the results are shown. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction",
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "The equations show four reversible reactions. For which reaction would the equilibrium move to the right for both an increase in pressure and an increase in temperature?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Gas X turns acidified potassium manganate(VII) from purple to colourless. Gas Y turns aqueous potassium iodide from colourless to brown. What do these observations show about gas X and gas Y?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox reactions definition",
+      "Oxidation definition",
+      "Reduction definition",
+      "Oxidising agent definition",
+      "Reducing agent definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Why is ethanoic acid described as a weak acid?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Strong acid definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "What is the best method to prepare a pure sample of copper(II) sulfate?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "What is the percentage by mass of nitrogen in ammonium nitrate, NH4NO3?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "A student makes three suggestions about the Haber process and the Contact process. Which suggestions are correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Haber process equation",
+      "Sources in Haber process",
+      "Conditions in Haber process",
+      "Contact process equation",
+      "Sources in Contact process",
+      "Conditions in Contact process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Which uses for sulfuric acid are correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Element X forms: a covalent compound, H2X an ionic compound, Na2X oxides XO2 and XO3. To which group of the Periodic Table does X belong?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Periodic Table arrangement",
+      "Group number and ion charge",
+      "Predicting properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which property is common to 40Ca, 39K and 23Na?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Group number and ion charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Palladium is an element, atomic number 46. Some of its properties, and the properties of its compounds, can be predicted from its position in the Periodic Table. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Predicting properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Three different elements react by losing electrons. The ions formed all have the electronic configuration 2,8. Which statement about these elements is correct?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Group number and ion charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "A power cable requires an element that: conducts electricity has a relatively low density is resistant to aerial oxidation. Which of these conditions does aluminium satisfy?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison",
+      "Chemical properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Some atmospheric pollutants are listed. Which substances could be removed by reacting with calcium carbonate?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Sources of air pollutants",
+      "Adverse effects of pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "River water contains many impurities. Which process alone can produce pure water from river water?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Compound Q is a hydrocarbon that has no isomers. Compound Q does not decolourise bromine in the dark. Which compound could be Q?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural isomers",
+      "Saturated compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "Which organic compound requires the least number of moles of oxygen for the complete combustion of one mole of the compound?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Combustion of alcohols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "When a molecule of a saturated hydrocarbon is cracked, it forms two molecules X and Y. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Manufacture by cracking",
+      "Reasons for cracking"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "The structures and names of three alcohols, P, Q and R are shown. The structures may not be named correctly. Which structures are correctly named?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing unbranched compounds",
+      "Identifying compound type"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "What is the empirical formula of ethanoic acid?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Empirical formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "What is the structure of propyl methanoate?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing esters"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "Which substance, on combustion, produces oxides of nitrogen?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Sources of air pollutants",
+      "Adverse effects of pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "The monomer used to manufacture polystyrene is shown. By which type of polymerisation is polystyrene formed and what is a possible partial structure of the polymer?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Addition polymer structure",
+      "Polymers definition"
+    ],
+    "Parts": []
+  }
+]

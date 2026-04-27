@@ -1,0 +1,470 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2021/Q1",
+    "Question_text": "A list of various quantities is shown. acceleration displacement force length mass velocity How many of these quantities are vectors?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q2",
+    "Question_text": "A student determines the circumference of a football. Which instrument gives a reading that is the circumference of the football?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q3",
+    "Question_text": "A train sets off from a station at time t = 0. The graph shows how the distance between the train and the station varies with time. Which statement about the movement of the train between time t₁ and t2 is correct?",
+    "image": "A distance-time graph. The y-axis is labeled 'distance' and the x-axis is labeled 'time t'. The graph starts at (0,0), curves upwards, reaches a peak at t1, and then curves downwards, crossing the x-axis at a later time. A vertical dashed line is drawn from the downward curve to the x-axis at t2. Between t1 and t2, the distance is decreasing, and the absolute slope (speed) is increasing.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q4",
+    "Question_text": "A coin falls from rest through the air and eventually reaches a constant speed. There is a resultant force acting on the coin due to the two forces P and Q shown in the diagram. What happens to force P and what happens to the resultant force before the coin reaches constant speed?",
+    "image": "A diagram showing a coin. An upward arrow labeled 'P' originates from the bottom of the coin. A downward arrow labeled 'Q' originates from the top of the coin, indicating the weight of the coin. P represents air resistance.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q5",
+    "Question_text": "A satellite is shown moving around the Earth in a circular path at a constant speed. Which arrow shows the direction of the force on the satellite?",
+    "image": "A diagram showing the Earth at the center and a satellite orbiting it in a circular path. An arrow indicates the 'direction of motion' of the satellite, which is tangential to the orbit. Four arrows, A, B, C, and D, originate from the satellite. Arrow A points roughly away from the Earth. Arrow B points tangential to the orbit in the direction of motion. Arrow C points directly towards the Earth. Arrow D points tangential to the orbit, opposite to the direction of motion.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q6",
+    "Question_text": "Which row shows the mass and the weight of an object on the Earth's surface? [gravitational field strength g = 10 N/kg]",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q7",
+    "Question_text": "Water is added to a measuring cylinder containing 100 cm³ of liquid paraffin. (The density of paraffin is 0.80 g/cm³ and that of the water is 1.0 g/cm³.) As the water is added, the level of the paraffin rises to 150 cm³. The paraffin and water do not mix. What finally is the total mass of liquid in the measuring cylinder?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q8",
+    "Question_text": "A horizontal beam is pivoted at X. A mass of 200 g rests on the beam as shown. The centre of mass of the beam is 50 cm from the right-hand end of the beam. The beam is balanced. What is the mass of the beam?",
+    "image": "A diagram showing a horizontal beam pivoted at point X. A mass of 200 g is placed on the left side of the pivot, 20 cm from X. The beam extends 20 cm to the left of the mass and 60 cm to the right of the pivot, with the overall length of the beam beyond the 200g mass being 80cm. The center of mass of the beam is 50 cm from the right-hand end of the beam.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q9",
+    "Question_text": "Where on the graph is the limit of proportionality for an elastic solid?",
+    "image": "A graph with 'extension' on the y-axis and 'load' on the x-axis. The graph starts at origin O, is a straight line up to point P, and then curves as it goes from P to Q.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q10",
+    "Question_text": "A sealed gas syringe contains a fixed mass of gas. The piston is moved and the volume of the gas doubles. The temperature of the gas does not change. What happens to the pressure of the gas?",
+    "image": "A diagram of a gas syringe. A piston is shown, with 'gas' inside and a 'sealed end'. The piston can move within the syringe body.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q11",
+    "Question_text": "Which expression for pressure is correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q12",
+    "Question_text": "At a depth d in sea-water, the total pressure experienced by a diver is 2P, where P is atmospheric pressure. At which depth is the pressure 4P?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q13",
+    "Question_text": "The work done by a force F on a body is calculated by multiplying F by a quantity q. What is q?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q14",
+    "Question_text": "Some solar panels have a total area of 12 m². Each 1.0 m² of the panels receives 0.85 kJ of energy from the Sun in 1.0 s. The efficiency of the panels is 16%. How much power do they produce?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Efficiency",
+      "Energy from the Sun"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q15",
+    "Question_text": "A copper rod is heated at one end. Which statement describes how heat transfer occurs in the copper?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q16",
+    "Question_text": "The diagram shows a clinical thermometer. Which factor affects the sensitivity of the thermometer?",
+    "image": "A diagram of a clinical thermometer, with a bulb containing 'mercury', a 'constriction' above the bulb, a narrow 'bore' running up the center, and an outer 'glass tube'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q17",
+    "Question_text": "Which row is correct for a thermocouple thermometer?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q18",
+    "Question_text": "What is the heat capacity of a body?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q19",
+    "Question_text": "Which statement about water is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Melting, Boiling & Evaporation",
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q20",
+    "Question_text": "A water wave in a ripple tank refracts as it moves from deep water into shallower water. What happens to the speed and to the frequency of the wave as it moves into shallower water?",
+    "image": "A diagram showing parallel wavefronts in 'deep water' entering a region of 'shallower water'. The wavefronts in the shallower water are closer together and appear to have changed direction, indicating refraction.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q21",
+    "Question_text": "Light refracts from a liquid into air as shown. The refractive index for light moving from air to the liquid is 1.4. What is the angle of incidence in the liquid?",
+    "image": "A diagram showing a light ray refracting from a 'liquid' into 'air'. The interface between the liquid and air is horizontal. A normal line is drawn perpendicular to the interface. The refracted ray in the air makes an angle of 32° with the normal. The incident ray in the liquid is closer to the normal.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q22",
+    "Question_text": "A ray of red light in air enters a semi-circular block. Which diagram shows the partial reflection and the refraction of the ray?",
+    "image": "Four diagrams (A, B, C, D) each showing a semi-circular block. A ray of red light enters the flat surface of the block from the air. Each diagram illustrates both partial reflection and refraction, with varying angles and directions for the reflected and refracted rays relative to the normal.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q23",
+    "Question_text": "Which statement about human vision is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q24",
+    "Question_text": "White light enters a prism and forms a spectrum. The rays in the air are labelled. Which diagram shows how the white light is dispersed by the prism?",
+    "image": "Four diagrams (A, B, C, D) each showing a triangular prism. White light enters from the left, and inside and upon exiting the prism, it is shown dispersing into separate red and violet rays. The relative angles of refraction and the order of colors vary between diagrams.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q25",
+    "Question_text": "The sound from a ship is reflected by a cliff. An echo is heard by a sailor on the ship 4.0s after the sound is made. The speed of sound in air is 320 m/s. How far from the cliff is the ship?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q26",
+    "Question_text": "End X of a metal rod attracts the North pole of a compass needle. Which statement about the rod is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q27",
+    "Question_text": "Which diagram shows the pattern and direction of the electric field lines near a positive charge?",
+    "image": "Four diagrams (A, B, C, D) each showing a central positive charge. Diagrams A and B show radial field lines, while C and D show concentric circular field lines. Arrows indicate the direction of the field lines in each diagram.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q28",
+    "Question_text": "A positively charged rod is held close to an insulated metal sphere. The sphere is earthed as shown. The earth connection is removed and then the rod is removed. Which diagram shows the charges on the sphere after the rod is removed?",
+    "image": "The top part of the image shows a positively charged rod held near an insulated metal sphere, which is connected to the earth. The bottom part shows four diagrams (A, B, C, D) representing the distribution of charges on the sphere after the earthing and the rod are removed.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q29",
+    "Question_text": "The diagram shows an electrostatic precipitator. It can be used to remove dust from air. What happens at the negative grid?",
+    "image": "A diagram of an electrostatic precipitator. Air containing dust particles enters from the bottom. It passes through a 'negative metal grid' and then between two 'positive plates'. 'Clean air' exits from the top. Dust particles are shown collecting on the positive plates.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q30",
+    "Question_text": "A 100 W lamp is switched on for five hours each day for three weeks. The cost of one unit of electricity is $0.24. How much does it cost to run the lamp for this time?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q31",
+    "Question_text": "The information on the back of an electric room heater is shown. What is a suitable fuse rating for this room heater?",
+    "image": "A box containing text providing electrical specifications: 'rating 220-240 V', '~50 Hz', '4.2 A'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q32",
+    "Question_text": "The diagram shows a horizontal rectangular wire coil WXYZ between the poles of a magnet. There is a current in the coil in the direction shown. Which statement is correct?",
+    "image": "A diagram showing a rectangular wire coil WXYZ placed horizontally between the North (N) and South (S) poles of a magnet. The N pole is to the left, and the S pole is to the right. Current flows in the sequence W→X→Y→Z. Side WX is a vertical segment on the left, XY is a horizontal segment at the top, YZ is a vertical segment on the right, and ZW is a horizontal segment at the bottom.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q33",
+    "Question_text": "Which energy transfer takes place in an electric kettle?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q34",
+    "Question_text": "The diagram shows a current-carrying conductor between the poles of a magnet. The force on the wire acts downwards. Four changes are possible. 1 The current is increased. 2 A stronger magnet is used. 3 The current is reversed. 4 The poles exchange positions. Which two changes made together keep the force acting downwards?",
+    "image": "A diagram showing a straight current-carrying conductor placed horizontally between two magnetic poles (top and bottom). An arrow indicates the 'direction of current'. The magnetic poles are from a horseshoe magnet, with magnetic field lines running vertically between the poles. The force on the wire is indicated as acting downwards.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q35",
+    "Question_text": "In an alternating current (a.c.) generator, a magnet rotates near a coil of wire. The induced electromotive force (e.m.f.) in the coil is displayed on an oscilloscope screen. Which trace is produced as the magnet slows down?",
+    "image": "Four oscilloscope traces (A, B, C, D) are shown. Each trace displays a sinusoidal alternating current (AC) waveform. The diagrams vary in the amplitude and frequency (period) of the waves.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q36",
+    "Question_text": "A student uses a transformer to light a filament lamp using a 230 V a.c. supply. The lamp has a maximum voltage rating of 6.0 V. What happens when the circuit is switched on?",
+    "image": "A circuit diagram showing a step-down transformer. The primary coil has 300 turns and is connected to a 230 V a.c. supply. The secondary coil has 20 turns and is connected to a filament lamp.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q37",
+    "Question_text": "Which statement about nuclear fusion is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q38",
+    "Question_text": "In one radioactive decay, radium-226 decays to radon-222 as shown. Which particles are also produced?",
+    "image": "A nuclear decay equation: '226/88 Ra → 222/86 Rn'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q39",
+    "Question_text": "The count rate from a radioactive source falls from 4000 counts per minute to 500 counts per minute in 72 minutes. What is the half-life of the source?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2021/Q40",
+    "Question_text": "Which particles are found inside the nucleus of an atom?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

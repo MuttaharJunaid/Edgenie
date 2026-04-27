@@ -1,0 +1,149 @@
+[
+  {
+    "QuestionNumber": "May-June/2016/Q1",
+    "Question_text": "A student makes an electromagnet by wrapping a length of wire around a piece of soft iron and connects it into a circuit, as shown in Fig. 1.1. He closes the switch and finds the maximum number of paperclips that stay on one end of the soft iron.",
+    "image": "Fig. 1.1 shows a circuit diagram for an electromagnet experiment. It includes a 1.5 V cell, a switch, a variable resistor, an ammeter (displaying 0.00 A), a coil of wire wrapped around a soft-iron core, and a pot of paperclips beneath the soft-iron core.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest two changes to the apparatus that increase the current. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 1.2 shows the paperclips that stay on the soft iron for three different currents. In the space below, draw a table to show the results of this experiment.",
+        "image": "Fig. 1.2 displays three vertical stacks of paperclips attached to the bottom of a soft iron core. From left to right, the stacks correspond to currents of 1 A, 3 A, and 2 A. The stack at 1 A has the fewest paperclips, the stack at 3 A has the most paperclips, and the stack at 2 A has an intermediate number, more than 1A but less than 3A, indicating that a higher current results in more paperclips being attracted."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2016/Q2",
+    "Question_text": "A student makes a pendulum using paperclips. He joins 14 identical paperclips together, end to end. He suspends them vertically from a pin attached securely to a bench, as shown in Fig. 2.1. He moves the bottom paperclip to the side and releases it. The paperclip pendulum swings freely from side to side. Using a stopwatch, he measures the time t taken for 10 complete swings of the pendulum.",
+    "image": "Fig. 2.1 shows a diagram of a simple pendulum setup. A pin is attached to a bench, from which a chain of paperclips is suspended vertically. The diagram shows a 'front view'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Measurement",
+      "Features of Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The student repeats the experiment and obtains the following three values for t, measured in seconds. 10.62 10.84 10.75 Calculate t_av, the average value of t. Give your answer to 1 decimal place.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The time taken for one complete swing is called the period T. Calculate T.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The student has a reaction time of about 0.2s. Explain why the student measures the time for ten swings rather than the time for one swing.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student reduces the number of paperclips N and repeats the experiment to find T for each value of N. Fig. 2.2 shows the student's results. Complete the table with your answer for (a)(ii).",
+        "image": "Fig. 2.2 presents a table with two columns: 'N' (number of paperclips) and 'T/s' (period in seconds). The rows show data points: N=2, T=0.38; N=4, T=0.58; N=6, T=0.73; N=8, T=0.82; N=10, T=0.91; N=12, T=0.98; N=14, T=."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 2.3, on page 5, plot the graph of T/s on the y-axis against N on the x-axis. Start your axes from (0,0). Draw a smooth curve of best fit.",
+        "image": "Fig. 2.3 shows a large grid, presumably for plotting a graph. The axes are not labeled but are expected to be T/s on the y-axis and N on the x-axis, starting from (0,0) as instructed in Q2(b)(ii)."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Describe the relationship between T and N.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Use your graph to estimate the value of T when 5 paperclips are used. Show on your graph how you obtain your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest one effect of using paperclips that are not identical.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2016/Q3",
+    "Question_text": "A student investigates the density of different liquids. Fig. 3.1 shows a table of her results.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student has lost her measurement for the mass of liquid P. Calculate the mass of liquid P used in the experiment. Give your answer correct to 2 significant figures.",
+        "image": "Fig. 3.1 is a table showing results for an investigation into the density of different liquids. It has columns for 'liquid', 'volume/cm³', 'mass/g', and 'density g/cm³'. Rows contain data for 'water' (volume 10, mass 10, density 1.0), 'oil' (volume 34, mass 31, density 0.9), 'liquid P' (volume 19, mass missing, density 1.2), 'liquid Q' (volume 30, mass 21, density 0.7), and 'liquid R' (volume 10, mass 8, density 0.8)."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student has two identical beakers A and B. She puts 100cm³ of water into each of A and B. State the name of the measuring instrument used to measure the volume of water accurately.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "She then adds 100cm³ of oil to beaker A. The oil floats on top of the water. She also adds 100cm³ of one of the other liquids to beaker B. The liquids do not mix. Fig. 3.2 shows the two beakers after the liquids have settled.",
+        "image": "Fig. 3.2 shows two identical beakers, Beaker A and Beaker B, each containing two immiscible liquids. Beaker A contains a bottom layer of water and a top layer of oil. Beaker B contains a bottom layer of water and a top layer labeled 'unknown liquid'. Both beakers appear to have equal volumes of both liquids, with the top layer floating on the bottom layer."
+      },
+      {
+        "part_label": "b(ii) 1.",
+        "part_text": "State and explain which liquid P, Q or R, is the unknown liquid.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 2.",
+        "part_text": "State and explain which beaker and contents have the greater mass.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student then adds a small block of wood to beaker A, as shown in Fig. 3.3. State what the position of the block of wood tells you about the density of the wood.",
+        "image": "Fig. 3.3 shows Beaker A containing two layers of liquid: water at the bottom and oil on top. A small rectangular block of wood is shown floating at the interface between the oil and the water, with part of it submerged in the water and part in the oil."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2016/Q4",
+    "Question_text": "A student investigates whether black surfaces or silver surfaces are better at emitting infra-red radiation. The student is given two identical test tubes, one with a silver surface and one with a black surface, and a supply of hot water.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State one other piece of apparatus that is required to carry out this investigation.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how she carries out the investigation. You may include a diagram to help your description. State the readings she takes.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State two quantities that the student keeps constant during the experiment you have described in (b). 1. 2.",
+        "image": null
+      }
+    ]
+  }
+]

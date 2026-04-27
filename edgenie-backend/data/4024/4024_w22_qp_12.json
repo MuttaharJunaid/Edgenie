@@ -1,0 +1,483 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Work out 80÷0.02.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Evaluate ∛1000.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate cube roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Put one pair of brackets into this calculation to make it correct. 4 + 4 ÷ 4 − 4 = 4",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Order operations correctly",
+      "Use brackets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Work out -6×(-3+7).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers",
+      "Use brackets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Write 7.54×10-4 as an ordinary number.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert from standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Sam has six square tiles labelled A, B, C, D, E and F. Write down the two tiles that Sam should place side by side to make a rectangle that has one line of symmetry only",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Sam has six square tiles labelled A, B, C, D, E and F. Write down the two tiles that Sam should place side by side to make a rectangle that has rotational symmetry of order 2",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "The perimeter of a regular hexagon is equal to the perimeter of a regular octagon. Each edge of the octagon is 9 cm long. Find the length of one edge of the hexagon.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "Work out 11/15 - 2/3",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Work out 3/10 ÷ 6. Write your answer as a fraction in its simplest form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "In the diagram, AD, AB and BC are three sides of a regular pentagon and DC is a diagonal of the pentagon. AB is parallel to DC. Find the value of x.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "In the diagram, AD, AB and BC are three sides of a regular pentagon and DC is a diagonal of the pentagon. AB is parallel to DC. Find the value of y.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "ABC is an isosceles triangle with AB = BC. The ratio ABC : BAC = 2 : 5. Find ABC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "triangle sum (180°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "By writing each number correct to 1 significant figure, estimate the value of (47.5+36.1) / (64.9-17.7)",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy",
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "Write 420 as the product of its prime factors.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify prime numbers",
+      "Identify common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "Given that 1512 = 23 ×33×7, find the highest common factor of 420 and 1512.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "Azra has a spinner. The sections are coloured red, blue, yellow or green. The relative frequency of the spinner landing on red, blue or yellow is shown in the table. Find the relative frequency of the spinner landing on green.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Understand probability of event not occurring = 1 – probability of occurring"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "Azra has a spinner. The sections are coloured red, blue, yellow or green. The relative frequency of the spinner landing on red, blue or yellow is shown in the table. Azra spins the spinner 150 times. How many times would she expect the spinner to land on blue?",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.2 Relative and expected frequencies",
+    "Sub_topic": [
+      "Calculate expected frequencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "Represent the inequality -4 < x < 2 on the number line below.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Solve the inequality. 10-n <= 2n-5",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Sophie cycles 2600 metres in 12 minutes. Work out Sophie's average speed in kilometres per hour.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14a",
+    "Question_text": "A path crosses the land. The path is equidistant from SP and SR. Use a straight edge and compasses only to construct the path.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14b",
+    "Question_text": "Priya walks from point P to the path on a bearing of 104°. (i) Draw a line to represent Priya's walk. (ii) Find the actual distance from P to where Priya meets the path.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14c",
+    "Question_text": "A car park is to be built on the plot of land. On the scale drawing the area of the car park will be 2cm². Find the actual area of the car park.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15a",
+    "Question_text": "The diagram shows the points A (0, 6), B(p, 0) and C(p, 6). The equation of the line AB is 3y+4x = 18. Find the value of p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15b",
+    "Question_text": "Write down the three inequalities that define the region inside triangle ABC.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16a",
+    "Question_text": "P is the point (-2, 1) and Q is the point (6, 13). M is the midpoint of the line PQ. Find the coordinates of M.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b",
+    "Question_text": "P is the point (-2, 1) and Q is the point (6, 13). (i) Find the gradient of the line PQ. (ii) Write down the gradient of a line that is perpendicular to the line PQ.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.7 Perpendicular lines",
+    "Sub_topic": [
+      "Find the gradient and equation of a straight line perpendicular to a given line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17a",
+    "Question_text": "Simplify. (x2)3",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17b",
+    "Question_text": "t-2 = 9 Find the value of t.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use indices (positive, zero, negative and fractional)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17c",
+    "Question_text": "√5×5° = 5k Find the value of k.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use indices (positive, zero, negative and fractional)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "x is directly proportional to the square of (y+1). When y = 2, x = 45. Find x when y = 4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Solve. (3x-1)/6 + (x+2)/4 = 5/3",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve fractional equations with numerical and linear algebraic denominators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20a",
+    "Question_text": "The table shows some information about the times each of 100 children spent reading in one day. Find the value of x in the interval x < t ≤ 30.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Calculate with frequency density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20b",
+    "Question_text": "On the grid, draw a histogram to represent the data for the 100 children.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21a",
+    "Question_text": "f(x) = 1 - (3x / (1+3)) g(x) = 2/(1-x) Find f-1(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21b",
+    "Question_text": "f(x) = 1 - (3x / (1+3)) g(x) = 2/(1-x) Solve g(x) = f(-4).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22a",
+    "Question_text": "Factorise. 9p²-q²",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22b",
+    "Question_text": "Factorise. ac-3bc+a-3b",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23a",
+    "Question_text": "Adam and Ben buy tickets for the cinema and the theatre. (a) Adam buys 5 cinema tickets and 4 theatre tickets. Ben buys 7 cinema tickets and 9 theatre tickets. Complete the matrix, X, to represent this information.",
+    "image": null,
+    "Unit": "",
+    "Topic": "",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23b",
+    "Question_text": "Adam and Ben buy tickets for the cinema and the theatre. Cinema tickets cost $11 each and theatre tickets cost $30 each. The matrix Y represents this information. (i) P = XY Find the matrix P. (ii) Explain what the elements in matrix P represent.",
+    "image": null,
+    "Unit": "",
+    "Topic": "",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "sinx° = sin 50° and 90 < x < 180. Find the value of x.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Simplify (x²-4x) / (x²-x-12)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "OAC is a triangle and B is a point on AC such that AB : BC = 3 : 2. OA = a and OB = b. Find OC in terms of a and b, giving your answer in its simplest form. D is a point on OC such that OD = b - 2/5 a. Show that OABD is a trapezium.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": []
+  }
+]

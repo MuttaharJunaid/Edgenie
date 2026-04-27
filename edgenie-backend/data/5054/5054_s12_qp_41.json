@@ -1,0 +1,175 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2012/Q1",
+    "Question_text": "A teacher and a group of students investigate the behaviour of a copper wire when stretched by heavy loads. A long thin copper wire is clamped at one end and passes over a pulley. A 1.0N load is attached to the other end of the wire, as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a diagram of the experimental setup for investigating the behavior of a copper wire under tension. A long, thin copper wire is clamped tightly by wooden blocks at one end on a bench. The wire extends horizontally, passes over a pulley located at the other end of the bench, and a 1.0N load is suspended from its free end. A paper marker is attached to the wire, and a metre rule is placed parallel to the wire on the bench. The diagram labels indicate 'clamp', 'wooden blocks', 'l' (denoting the length of the wire from the blocks to the marker), 'bench', 'wire', 'paper marker', 'metre rule', 'pulley', and 'load'. The diagram is labeled 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why one end of the wire has to be clamped tightly.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the students watching the experiment must wear safety glasses.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by extension.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the marker is attached a long distance from the clamped end of the wire.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain why some distance is left between the marker and the pulley.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use Fig. 1.2 to find the position of the marker.",
+        "image": "Fig. 1.2 shows a magnified view of the wire, paper marker, and a metre rule. The wire runs horizontally with the marker positioned on it. Below them, a metre rule shows markings from 47 cm to 52 cm. The left edge of the paper marker aligns closely with the 50.3 cm mark on the ruler. The rule indicates 'cm'."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest why a small 1.0N load is added before the initial reading of the position of the marker is found.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Explain why it is difficult for a student to read the position of the marker accurately.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Describe one change to the apparatus to make it easier to read the position of the marker accurately.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "On Fig. 1.4, plot the graph of e/mm on the y-axis against F/N on the x-axis. Start your axes from the origin. Draw the line of best fit.",
+        "image": "Fig. 1.3 is a table titled 'Fig. 1.3' displaying a series of readings for load (F/N) and extension (e/mm). The data provided is: F=1.0N, e=0mm; F=6.0N, e=7mm; F=11.0N, e=13mm; F=16.0N, e=21mm; F=21.0N, e=26mm; F=26.0N, e=33mm. Fig. 1.4 is a large empty square grid with an origin marked '0' at the bottom-left, intended for plotting a graph with 'e/mm' on the y-axis and 'F/N' on the x-axis."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Describe the relationship between F and e that is shown by your graph.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The teacher continues to increase the load. Describe what happens as the load becomes very large.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2012/Q2",
+    "Question_text": "A student uses a ticker-timer to measure g, the acceleration of free fall. The ticker-timer makes a dot on a piece of paper tape every 0.020 s. The tape is pulled through the ticker-timer by a falling mass, as shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a diagram of a ticker-timer setup to measure the acceleration of free fall. A ticker-timer device is mounted at the top. A vertical strip of paper tape passes through the ticker-timer. A falling mass is attached to the lower end of the paper tape, pulling it downwards. The labels include 'ticker-timer', 'paper-tape', and 'falling mass attached to tape'. The diagram is labeled 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Freefall",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The student measures the distance l₁ between dots A and B, and the distance l₂ between dots D and E. By taking measurements from Fig. 2.2, find the distances l₁ and l₂. Give your answers in metres.",
+        "image": "Fig. 2.2 shows a segment of a ticker-timer tape, horizontal, with five labeled dots: A, B, C, D, E. The spacing between consecutive dots increases, indicating acceleration. The approximate distances are: A to B = 1.0 cm, B to C = 2.3 cm, C to D = 3.6 cm, D to E = 4.9 cm. The diagram is labeled 'full size'."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Using the relationship g = (2.5 x 10^3 / 3) * (l₂ – l₁) calculate a value for g. Give your answer to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The accepted value for g is 9.81 m/s². State whether the value calculated for g in (a)(ii) is too large or too small. Suggest a reason for this difference.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2012/Q3",
+    "Question_text": "A student compares the conduction of heat through different metals. Fig. 3.1 shows the apparatus used.",
+    "image": "Fig. 3.1 illustrates an apparatus for comparing the thermal conduction of different metals. A rectangular metal box, labeled 'metal box', contains 'hot water'. Four metal rods, labeled 'metal rod', are inserted through a cork into one side of the metal box, with their other ends extending outwards horizontally. Each rod has a small pea attached to its outer end by a dab of 'wax'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Demonstrating Conduction",
+      "Thermal Conduction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Heat from the hot water is conducted to the end of each rod. Describe what happens to the wax and to the pea on one of the rods.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State two factors that should be the same for all the rods in this experiment.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State how the experiment shows which of the metals is the best conductor of heat.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Explain how this gives a better comparison of the conduction of heat through the different metals.",
+        "image": "Fig. 3.2 shows an improved experimental setup for comparing heat conduction. Similar to Fig. 3.1, a metal box containing 'hot water' is depicted. A single metal rod extends horizontally from the box. Along the length of this rod, multiple peas are attached at regular intervals using wax. This modification is suggested for improving the comparison of heat conduction."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2012/Q4",
+    "Question_text": "A semi-circular glass block is used to measure the critical angle for light in glass. Fig. 4.1 on page 11 shows the semi-circular block on a sheet of white paper. A student shines a narrow ray of light from a ray-box through the semi-circular block and draws two crosses M₁ and M₂ on the emergent ray.",
+    "image": "Fig. 4.1 shows a semi-circular glass block placed on a flat surface, with a 'ray box' positioned to direct a ray of light towards its curved edge. The ray enters the block perpendicularly to the curved surface and travels towards the flat face. Two crosses, 'M1 X' and 'M2 X', are marked on the paper, indicating the path of the light ray after it has emerged from the block.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 4.1, complete the path of the ray after it emerges from the block.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 4.1, draw the path of the ray through the block.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Using Fig. 4.1, measure the angle of incidence i where the light passes from glass to air.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the student adjusts the apparatus to measure the critical angle for glass. You may use a diagram to help your explanation.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain why it is more difficult to measure the critical angle with this arrangement than with the arrangement in (b).",
+        "image": "Fig. 4.2 shows a semi-circular glass block with an incident ray of light. The ray enters the block from the curved side and is directed towards the center of the flat surface of the block, striking the glass-air interface at what is indicated to be the critical angle."
+      }
+    ]
+  }
+]

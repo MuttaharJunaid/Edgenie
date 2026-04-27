@@ -1,0 +1,146 @@
+[
+  {
+    "QuestionNumber": "October-November/41/2014/Q1",
+    "Question_text": "A student hangs two pendulums A and B from a metre rule, as shown in Fig. 1.1. Pendulum A has length 85.0cm and its length does not change during the experiment. Pendulum B is shorter than pendulum A, by a length x. The student pulls A and B towards him and releases them at exactly the same time. Pendulum A takes longer to complete one swing than pendulum B. At the start, A and B swing backwards and forwards together, in step. They then become out of step and, after a while, A is swinging forwards when B is swinging backwards. They then become back in step swinging backwards and forwards together. The student counts the number N of swings of A until A and B are exactly back in step. The student repeats the experiment and finds N for different values of x.",
+    "image": "A diagram (Fig. 1.1) shows a horizontal metre rule clamped at two points near its ends. From the rule, two pendulums (A and B) are suspended by thin strings. Pendulum A is to the left and longer, while Pendulum B is to the right and shorter. Both pendulums hang towards the floor. The image shows labels for 'clamp', 'metre rule', 'thin string', 'A', 'B', and 'floor'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Features of Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student checks that the metre rule is horizontal. You may draw on Fig. 1.1 if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 1.1, mark and label the length x.",
+        "image": "On Fig 1.1, a label 'x' is marked as the difference in length between pendulum A and pendulum B, specifically the vertical distance from the bottom of pendulum B's bob to the bottom of pendulum A's bob, while both are suspended from the metre rule."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the student can measure x accurately.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On Fig. 1.3, plot the graph of N on the y-axis against x/cm on the x-axis. Start your axes from the origin. Draw the smooth curve of best fit.",
+        "image": "Fig. 1.2 is a table showing values of x/cm and N. The values are: (3.0, 55), (5.0, 32), (7.0, 22), (9.0, 17), (11.0, 13), (13.0, 10). Fig. 1.3 is a large blank grid with an origin (0,0) marked at the bottom left, intended for plotting the graph."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Before taking any readings, the student attached the pendulums A and B close together on the metre rule. Give one reason why it is helpful to have the strings close together.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Suggest one problem this may cause.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "The length LA of pendulum A is 85.0cm. The length LB of pendulum B is 75.0cm. Use your graph in Fig. 1.3 to obtain a value for N.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Theory shows that N = √(LB) / (√(LA) - √(LB)). Calculate the value for N when LA is 85.0cm and LB is 75.0cm. Give your answer to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "e(iii)",
+        "part_text": "Comment on whether your two values for N are in agreement.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2014/Q2",
+    "Question_text": "A group of students measure the heights of the seats of five similar laboratory stools. The stools are shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows five laboratory stools of similar design but varying slightly in height and orientation. They have four legs and a circular seat.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of a suitable instrument for measuring the heights.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain what is meant by parallax error.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the student can avoid parallax error when measuring the height of a stool.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The students obtain the following results. The heights are measured in centimetres. 62.2 37.6 61.9 62.5 62.1 One of the results is very different from the other four. Suggest how the student used the measuring instrument incorrectly to obtain this result.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the average value of the height of a stool. Give your answer to 3 significant figures.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2014/Q3",
+    "Question_text": "A student calibrates a thermometer. Fig. 3.1 shows the thermometer with no scale marked on the stem.",
+    "image": "Fig. 3.1 shows a diagram of a simple thermometer bulb at the left, a thin capillary tube extending horizontally to the right, and an empty space for a scale along the tube. There are no markings on the stem.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student finds the correct positions for the 0°C and the 100°C points on the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 3.2 shows the thermometer with 0°C and the 100°C marked by the student. The thermometer in Fig. 3.2 is at room temperature. By taking measurements from Fig. 3.2, calculate a value for room temperature. Show your working.",
+        "image": "Fig. 3.2 shows the same thermometer as Fig. 3.1, but now with a '0' mark at the left end of the capillary tube and a '100' mark further along the tube to the right. The mercury column extends past the '0' mark but not all the way to the '100' mark, indicating room temperature."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one assumption made in calculating the room temperature.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2014/Q4",
+    "Question_text": "A student is given a 1 m length of thin wire of approximate diameter 1 mm. She is asked to measure accurately the diameter of the wire. The other apparatus available is shown below.",
+    "image": "An 'Apparatus List' table is shown. Column 1: marker pen, metre rule, 30 cm ruler, thin string, thick string, wooden rods of various diameters. Column 2: pencil, scissors, Blu-Tack, Sellotape, lined paper, plain paper.",
+    "Unit": "UNIT 1: Motion, Forces & & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe in detail how the student can obtain an accurate value for the diameter of the wire using some of this apparatus. In your account you should • state the equipment used, • explain how the equipment is used, • state any readings taken, • explain how the value for the diameter is obtained, • describe how to make the measurement accurate.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the name of a measuring instrument that the student can use to find the diameter of the wire more accurately.",
+        "image": null
+      }
+    ]
+  }
+]

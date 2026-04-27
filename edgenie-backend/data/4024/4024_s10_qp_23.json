@@ -1,0 +1,563 @@
+[
+  {
+    "QuestionNumber": "May-June/23/2010/Q1",
+    "Question_text": "Sarah bought some soup, apples and mushrooms from her local shop. The table shows some of the amounts and prices. Items: p cans of soup at 90 cents per can, Price ($): 6.30; Items: 1.5 kilograms of apples at $q per kilogram, Price ($): 4.35; Items: r kilograms of mushrooms at $6.40 per kilogram, Price ($): 1.60. Lavin decides to buy this washing machine. Washing Machine $980. Finance offer: Pay a 20% deposit and 24 monthly payments of $36 each. Asif deposits $650 into a bank paying simple interest. He leaves the money there for 5 years. At the end of the 5 years, the amount in the bank is $763.75.",
+    "image": "A table displays three items: 'p cans of soup at 90 cents per can' costing $6.30, '1.5 kilograms of apples at $q per kilogram' costing $4.35, and 'r kilograms of mushrooms at $6.40 per kilogram' costing $1.60. Below the table, there are two rectangular boxes. The first box, labeled 'Washing Machine', shows a price of '$980'. The second box, labeled 'Finance offer', states 'Pay a 20% deposit and 24 monthly payments of $36 each'.",
+    "Unit": "Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Calculate simple interest",
+      "Calculate with money",
+      "Use common rates",
+      "Use decimals"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find the values of p, q and r.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Sarah gives the shopkeeper $20.00 to pay for all these items. How much change does she receive?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "How much more would it cost Lavin if he paid for the washing machine using the finance offer instead of paying the $980 immediately?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the percentage rate of interest the bank paid per year.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q2",
+    "Question_text": "The parallelogram ABCD forms part of the pentagon ABCDE. ABC = 70° and BÂE = 120°.",
+    "image": "A polygon ABCDE is shown. The quadrilateral ABCD is stated to be a parallelogram. Angle BAE is labeled as 120° at vertex A. Angle ABC is labeled as 70° at vertex B. A right angle symbol is shown at vertex C, between sides BC and CD. A line segment from E to A is drawn. A line segment from E to D is drawn. A line segment from D to C is drawn. A line segment from C to B is drawn. A line segment from B to A is drawn.",
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using quadrilateral sum (360°)",
+      "Know and use angle properties of regular and irregular polygons",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids",
+      "Calculate unknown angles using sum of angles at a point (360°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find BCD,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find EAD.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "EDC is twice AÊD. Find AÊD,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find EDA.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q3",
+    "Question_text": "The mass and diameter of the planets in the inner solar system are shown in the table. Planet: Mercury, Mass (kg): 3.30 × 10^23, Diameter (km): 4880; Planet: Venus, Mass (kg): 4.87 × 10^24, Diameter (km): 12100; Planet: Earth, Mass (kg): 5.97 × 10^24, Diameter (km): 12800; Planet: Mars, Mass (kg): 6.42 × 10^23, Diameter (km): 6790. [Volume of a sphere = (4/3)πr³]",
+    "image": "A table provides data for four inner solar system planets: Mercury, Venus, Earth, and Mars. For each planet, its Mass (in kg, given in standard form) and Diameter (in km) are listed.",
+    "Unit": "Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Order by magnitude",
+      "Use A × 10^n form",
+      "Calculate with standard form",
+      "Carry out calculations and solve problems involving surface area and volume of ... sphere",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Round to accuracy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "List the planets in order of mass, starting with the lowest.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the radius, in kilometres, of Mars, giving your answer correct to 1 significant figure.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Giving your answer in standard form, find the total mass, in kilograms, of Venus and Mars.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Giving your answer in standard form, find the volume, in cubic kilometres, of the Earth.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q4",
+    "Question_text": "The shaded region, R, contained inside the dotted boundary lines, is defined by three inequalities. One of these inequalities is x > 2. The points (c, d), where c and d are integers, lie in the shaded region R.",
+    "image": "A 2D coordinate graph with an x-axis from 0 to 7 and a y-axis from 0 to 14. A triangular region labeled 'R' is shaded. This region is defined by three dotted boundary lines: a vertical line at x=2, a horizontal line at y=12, and a diagonal line connecting approximately (2,4) to (7,14). The shaded region R is to the right of x=2, below y=12, and above the diagonal line.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region",
+      "Interpret and obtain the equation of a straight-line graph",
+      "Use and interpret Cartesian coordinates in two dimensions",
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the other two inequalities.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Find the maximum value of c + d,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find the value of d given that d = 3c.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q5",
+    "Question_text": "Bertie goes shopping and buys three different types of fruit. The first matrix below shows the number of kilograms of each fruit bought during two different weeks. The second matrix shows the price per kilogram, in cents, of each fruit. Week 1: (1.5 2 0.5), Week 2: (1 2 1) - bananas, apples, grapes. price/kg: (290 bananas, 160 apples, 640 grapes). F=(matrix for week 1 and 2) * (price matrix). The matrix M satisfies the equation 8 * (matrix (3; -1)) + 5M = M. ξ = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16}. A = {x : x is a multiple of 3}. B = {x: x is a factor of 24}. C = {x: x is an odd number}.",
+    "image": "Two matrices are shown: a 2x3 matrix representing quantities of bananas, apples, and grapes for Week 1 and Week 2 respectively (Week 1: [1.5, 2, 0.5]; Week 2: [1, 2, 1]), and a 3x1 column matrix representing prices per kilogram for bananas, apples, and grapes respectively ([290], [160], [640]).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Expand products of algebraic expressions",
+      "Solve linear equations in one unknown",
+      "Calculate with money",
+      "Convert currencies",
+      "Understand set language",
+      "Use set notation",
+      "Identify common factors",
+      "Calculate probability of single event",
+      "Use operations with decimals",
+      "Know that letters can be used to represent generalised numbers",
+      "Identify common multiples",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find F.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain the meaning of the information given by the matrix F.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Find the total amount of money, in dollars, that Bertie spent on fruit during the two weeks.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find M.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)a",
+        "part_text": "Find n(B),",
+        "image": null
+      },
+      {
+        "part_label": "c(i)b",
+        "part_text": "Find (A ∪ B ∪ C)'.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A number, k, is chosen at random from ξ. Find the probability that k ∈ A ∩ B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q6",
+    "Question_text": "Answer the WHOLE of this question on a sheet of graph paper. The table below shows some values of x and the corresponding values of y for y = (2^x) / 4. Table: x values from -1 to 5, y values are m, 1/4, 1/2, 1, 2, 4, n. The equation y = (2^x) / 4 can be written in the form y = 2^t.",
+    "image": "A table displays x-values from -1 to 5 and corresponding y-values for the function y = 2^x / 4. The y-values include 'm' for x=-1, '1/4' for x=0, '1/2' for x=1, '1' for x=2, '2' for x=3, '4' for x=4, and 'n' for x=5.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c",
+      "Draw graphs from given data",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Understand positive indices",
+      "Understand negative indices",
+      "Understand zero indices",
+      "Use rules of indices",
+      "Substitute numbers into expressions and formulas",
+      "Change the subject of formulas",
+      "Interpret and obtain the equation of a straight-line graph",
+      "Use operations with fractions",
+      "Draw and interpret graphs representing exponential growth and decay problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the values of m and n.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Using a scale of 2cm to represent 1 unit, draw a horizontal x-axis for −1 ≤ x ≤ 5. Using a scale of 2cm to represent 1 unit, draw a vertical y-axis for_ 0 ≤ y ≤ 8. On your axes, plot the points given in the table and join them with a smooth curve.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use your graph to solve the equations 2^x / 4 = 3,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use your graph to solve the equations 2^x = 6.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Find an expression for t in terms of x.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Hence, find the equation of the line that can be drawn on your graph to evaluate y when t = -3/4.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q7",
+    "Question_text": "PQRS is a trapezium. PQ = 17 cm, QR = 8 cm, SR = 29 cm and SRQ = 90°. In the diagram, triangle KLM is similar to triangle LNM. KL = 15 cm, LM = 18 cm and LN = 10 cm. P is the point on LM such that PN is parallel to LK.",
+    "image": "Two separate diagrams are shown. The first diagram shows a trapezium PQRS with side PQ parallel to SR. Side QR is perpendicular to SR, indicated by a 90° angle at R. The lengths given are PQ = 17 cm, QR = 8 cm, and SR = 29 cm. An unlabeled vertex P completes the shape, with an implied perpendicular from P to SR to form a right-angled triangle. The second diagram shows a large triangle KLM with a point N on side LM. A line segment from L to N is drawn, forming triangle LNM. The lengths given are KL = 15 cm, LM = 18 cm, and LN = 10 cm. Point P is marked on LM such that the line segment PN is parallel to LK. Vertex K is top-left, L is top-middle, M is far-right, and N is on LM between L and M.",
+    "Unit": "Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of ... trapezium",
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Know and use Pythagoras’ theorem",
+      "Calculate lengths of similar shapes",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids",
+      "Solve problems and give simple explanations involving similarity",
+      "Carry out calculations involving perimeter and area of ... triangle",
+      "Use and interpret vocabulary of ... special quadrilaterals"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the area of PQRS,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate PŚR.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Find KM.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find KN.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Find the area of triangle NPM / the area of trapezium KLPN. Give your answer as a fraction in its simplest form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q8",
+    "Question_text": "Ahmed throws a ball to John. The ball travels 10 metres at an average speed of x metres per second. John then throws the ball to Pierre. The ball travels 15 metres. The ball's average speed is 0.5 metres per second greater than the ball's average speed from Ahmed to John. The time taken between John catching the ball and then throwing it to Pierre is 2 seconds. The total time taken for the ball to travel from Ahmed to Pierre is 7 seconds.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas",
+      "Solve average speed problems",
+      "Solve fractional equations with numerical and linear algebraic denominators",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Manipulate algebraic fractions",
+      "Substitute numbers into expressions and formulas",
+      "Round to accuracy",
+      "Calculate with time units",
+      "Expand products of algebraic expressions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write an expression, in terms of x, for the time taken, in seconds, for the ball to travel from Ahmed to John.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write an expression, in terms of x, for the time taken, in seconds, for the ball to travel from John to Pierre.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Write down an equation in x, and show that it simplifies to 2x² – 9x - 2 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Solve the equation 2x² – 9x - 2 = 0, giving each answer correct to 2 decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Find the average speed, in metres per second, of the ball as it travels from John to Pierre.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "How much longer does it take for the ball to travel from John to Pierre than from Ahmed to John? Give your answer in seconds.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q9",
+    "Question_text": "The diagram shows two ports, P and Q, and a lighthouse L. PQ = 20 km, PL = 17 km, QPL = 50° and the bearing of Q from P is 075°. A boat leaves P and sails in a straight line to Q. It takes 4 hours and 53 minutes to sail from P to Q. It arrives at Q at 0223.",
+    "image": "A triangular diagram displays three points: P (port), Q (port), and L (lighthouse). A vertical 'North' line originates from point P. The bearing of Q from P is indicated as 75° (angle from North line clockwise to PQ). The internal angle QPL is 50°. The length of side PL is 17 km, and PQ is 20 km. The side QL is unknown.",
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings",
+      "Calculate unknown angles using sum of angles at a point (360°)",
+      "Calculate unknown angles using triangle sum (180°)",
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Calculate with time units",
+      "Use 24-hour clock",
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry",
+      "Know perpendicular distance from point to line is shortest distance",
+      "Calculate unknown angles for parallel lines: co-interior sum to 180°"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the bearing of P from L.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate QL.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate PLQ.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Hence find the bearing of Q from L.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "At what time does it leave P?",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Calculate the shortest distance between the boat and the lighthouse.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q10",
+    "Question_text": "The diagrams above show the first four flowerbeds in a sequence. Each flowerbed contains two types of plant, pansies (+) and primroses (O). The table shows the number of plants in the first three flowerbeds. Table: Flowerbed number (n) from 1 to 5, Number of pansies (10, 14, 18), Number of primroses (2, 6, 12), Total number of plants (12, 20, 30). There are 306 plants in flowerbed k.",
+    "image": "Four diagrams show flowerbeds in a sequence. Each flowerbed is a rectangular arrangement of '+' symbols (pansies) and 'O' symbols (primroses). Flowerbed 1 has a pattern of 10 '+' and 2 'O'. Flowerbed 2 has 14 '+' and 6 'O'. Flowerbed 3 has 18 '+' and 12 'O'. Flowerbed 4 has 22 '+' and 20 'O'. The '+' symbols typically form a border or larger block, while 'O' symbols are in the interior.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences",
+      "Construct expressions, equations and formulas",
+      "Expand products of algebraic expressions",
+      "Factorise expressions of the form: ax² + bx + c",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Copy and complete the columns for flowerbeds 4 and 5.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Find an expression, in terms of n, for the number of pansies in flowerbed n,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find an expression, in terms of n, for the number of primroses in flowerbed n.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Hence show that the total number of plants in flowerbed n can be expressed in the form (n + 2) (n + 3).",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the total number of plants in flowerbed 10.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Show that k satisfies the equation k²+5k-300 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Solve the equation k²+5k-300 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "e(iii)",
+        "part_text": "Hence find the number of pansies in flowerbed k.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q11",
+    "Question_text": "Answer the WHOLE of this question on a sheet of graph paper. The time taken by 140 children to run 200 metres was recorded. The results are summarised in the table below. Time (t seconds): 22<t<24, 24<t<26, 26<t<31, 31<t<36, 36<t<46. Frequency: 12, 18, 42, 28, 40. Some boys were put into five groups, A, B, C, D and E, based on the times they took to run 100 metres. The pie chart shows the proportion of boys in each group. Group A contains 1/5 of the boys. Group B contains 35% of the boys. Group C is represented by a sector with an angle of 42°. Group D contains 9 boys.",
+    "image": "A frequency table displays time intervals (t seconds) for children running 200 metres, along with the frequency for each interval. Intervals are 22<t<24 (Freq 12), 24<t<26 (Freq 18), 26<t<31 (Freq 42), 31<t<36 (Freq 28), and 36<t<46 (Freq 40). A pie chart is divided into five sectors labeled A, B, C, D, and E. Sector C has an angle of 42° indicated. Group B is mentioned as 35%.",
+    "Unit": "Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Calculate with frequency density",
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Calculate probability of single event",
+      "Calculate probability of combined events using ... tree diagrams",
+      "Draw and interpret pie charts",
+      "Calculate reverse percentages",
+      "Write fractions simply"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Using a scale of 1 cm to represent 2 seconds, draw a horizontal axis for time from 22 seconds to 46 seconds. Using a scale of 1 cm to represent 1 unit, draw a vertical axis for frequency density from 0 to 9 units. On your axes, draw a histogram to represent the information in the table.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Estimate the number of children who took less than 25 seconds to run 200 metres.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "One child was chosen at random. Calculate the probability that the time taken by this child was less than 36 seconds. Express your answer as a fraction in its lowest terms.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Out of the 30 children who took less than 26 seconds, two were chosen at random. Calculate the probability that they both took less than 24 seconds.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Find the fraction of boys in group C. Give your answer in its lowest terms.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Given that the number of boys in group B is 21, find the total number of boys who ran the 100 metres.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the number of boys in group E.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/23/2010/Q12",
+    "Question_text": "[Volume of a cone = (1/3)πr²h] [Curved surface area of a cone = πrl] Diagram I shows a solid cone with C as the centre of its base. B is the vertex of the cone and A is a point on the circumference of its base. AC = 9 cm and BC = 12 cm. The cone in Diagram I is cut, parallel to the base, to obtain a small cone shown in Diagram II and a frustum shown in Diagram III. Y is the centre of the base of the small cone. X is the point on the circumference of this base and on the line AB such that XY = 3 cm.",
+    "image": "Three diagrams of cones/frustums are shown. Diagram I shows a right circular cone. The vertex is labeled B, and the center of the circular base is C. A point A is on the circumference of the base. The height BC is given as 12, and the radius AC is given as 9. The slant height AB is also depicted. A right angle symbol is at C, formed by BC and AC. Diagram II depicts a smaller cone, which is the top portion of the original cone from Diagram I after a horizontal cut. The vertex is B, the center of its base is Y, and X is a point on its base circumference. The radius XY is labeled as 3. Diagram III illustrates a frustum, which is the remaining part of the original cone from Diagram I after the small cone (Diagram II) has been removed. It shows the original larger base with center C and radius AC, and the new smaller top base with center Y and radius XY.",
+    "Unit": "Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem",
+      "Carry out calculations and solve problems involving surface area and volume of ... cone",
+      "Carry out calculations involving circumference and area of a circle",
+      "Use and interpret vocabulary of a circle",
+      "Use and interpret vocabulary of ... cones",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids",
+      "Carry out calculations and solve problems involving surface areas and volumes of compound solids and parts of solids",
+      "Calculate lengths of similar shapes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate AB,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the total surface area of the cone,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the volume of the cone.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate BY,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate AX,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the circumference of the base of the small cone,",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Calculate the volume of the frustum.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2025/Q1",
+    "Question_text": "Which list contains only vector quantities?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q2",
+    "Question_text": "The diagram shows the distance-time graph for a moving object. What is a description of the moving object?",
+    "image": "A distance-time graph. The y-axis represents distance and the x-axis represents time. The graph starts at the origin (0,0), then curves upwards with a decreasing gradient, eventually becoming a horizontal line (zero gradient) at a constant, non-zero distance. This indicates the object's speed is decreasing, and it eventually comes to a stop at a certain distance from the origin.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q3",
+    "Question_text": "The speed-time graph for a falling skydiver is shown. As he falls, the skydiver spreads out his arms and legs and then opens his parachute. Which part of the graph shows the skydiver falling with terminal velocity?",
+    "image": "A speed-time graph for a falling skydiver. The y-axis represents speed and the x-axis represents time. The graph shows several phases: Section A shows increasing speed from rest. Section B shows constant speed after initial acceleration, labeled as 'B'. Section C shows a decrease in speed. Section D shows a period of constant, but much lower, speed, labeled as 'D'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q4",
+    "Question_text": "A car driver travelling at constant speed in a straight line sees a hazard in the road ahead at time = 0. The speed-time graph shows how the speed of the car changes from time = 0. Three students suggest what area X and area Y represent. student 1 Area X represents the thinking distance. student 2 Area Y represents the stopping distance. student 3 Area X + area Y represents the stopping distance. Which students are correct?",
+    "image": "A speed-time graph. The y-axis represents speed and the x-axis represents time. The graph starts at a constant non-zero speed from time 0, continuing for a period labeled 'X'. After this period, the speed decreases linearly to zero over a period labeled 'Y'. Both X and Y denote areas under the graph.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Stopping Distances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q5",
+    "Question_text": "The diagram shows a graph of load against extension for a material. At which point is the limit of proportionality?",
+    "image": "A load-extension graph. The y-axis represents load and the x-axis represents extension. The graph starts from the origin, is a straight line up to point A, then curves upwards through points B and C, and continues to point D, where the curve flattens out. Points A, B, C, and D are marked on the curve.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q6",
+    "Question_text": "There is no atmosphere on the Moon. Two metal spheres of identical volume but different mass are at rest at the same height above the ground on the Moon. The two spheres are dropped at the same time. How do the spheres move after they are dropped?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q7",
+    "Question_text": "A student determines the density of a small rock. The weight of the small rock is 1.2 N. She pours 100 cm³ of water into a measuring cylinder. She carefully submerges the rock in the 100 cm³ of water. The new reading on the measuring cylinder is 147 cm³. What is the density of the rock?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q8",
+    "Question_text": "A rock of mass 20 kg is travelling in space at a speed of 6.0 m/s. What is its kinetic energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q9",
+    "Question_text": "Which row shows an advantage and a disadvantage of using nuclear fuel to generate electrical power?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q10",
+    "Question_text": "Which row gives the definition of work done and the unit of work done?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q11",
+    "Question_text": "A hammer hits a nail into a piece of wood. The weight of the nail is negligible. The hammer exerts a force FH and a pressure pH on the nail. The nail exerts a force Fw and a pressure pw on the wood. How do these forces and pressures compare?",
+    "image": "A diagram illustrating a hammer hitting a nail into a piece of wood. The hammer head is shown striking the broad end of the nail, which has a pointed tip penetrating the wood.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q12",
+    "Question_text": "The pressure at a point beneath the surface of a liquid varies with the depth of the point and with the density of the liquid. Which changes both increase the pressure beneath the surface of a liquid?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q13",
+    "Question_text": "The diagram shows a cylinder containing air. The piston is free to move inside the cylinder and atmospheric pressure acts outside the cylinder. As the air inside the cylinder is heated, the piston moves to the right. Which quantity decreases?",
+    "image": "A diagram of a horizontal cylinder containing air, with a movable piston at one end. Thermal energy is indicated as being transferred into the air within the cylinder, causing the piston to move to the right.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q14",
+    "Question_text": "A fixed mass of air has a volume of 150 cm³ and a pressure of 120 kPa. The volume of the air is now changed to 100 cm³. The temperature of the air remains constant. What is the new pressure of the air?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q15",
+    "Question_text": "The diagram shows four changes of state, W, X, Y and Z. Which row gives the names of the four changes of state?",
+    "image": "A diagram illustrating the three states of matter (gas, liquid, solid) and the transitions between them. Arrows labeled W, X, Y, Z represent the changes of state: W points from gas to liquid, X points from liquid to gas, Y points from liquid to solid, and Z points from solid to liquid.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q16",
+    "Question_text": "The diagram shows a metal pan on a hotplate. The pan is heated by the hotplate. How is the thermal energy transferred from the hotplate to the metal pan?",
+    "image": "A diagram showing a metal pan sitting directly on top of a hotplate. The pan contains water. Labels indicate 'metal pan', 'water', and 'hotplate'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q17",
+    "Question_text": "A beaker of cold water is heated at its base. What happens to the heated water?",
+    "image": "A diagram showing a beaker of water being heated from below by a Bunsen burner flame.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q18",
+    "Question_text": "The graph shows, at one instant, the pressure variation along a sound wave. Which point on the diagram represents a rarefaction and what is the wavelength of the sound wave?",
+    "image": "A graph illustrating pressure variation along a sound wave. The y-axis represents pressure, with a horizontal dashed line indicating atmospheric pressure. The x-axis represents distance. The wave is sinusoidal. Point P is at a peak (maximum pressure, compression). Point Q is at a trough (minimum pressure, rarefaction). Distance X is from P to Q (half a wavelength). Distance Y is from P to the next peak (one full wavelength).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q19",
+    "Question_text": "A cork on the surface of water moves up and down as a wave passes across the surface. The diagram shows how the height of the cork above the average level of the surface varies with time. The numerical value of the wavelength of this wave is equal to the numerical value of the amplitude of this wave. What is the speed of the wave?",
+    "image": "A graph of height (cm) versus time (s). The y-axis ranges from -2.0 to 2.0 cm, and the x-axis from 0 to 2.0 s. The graph shows a sinusoidal oscillation, starting at 0, rising to a peak of 2.0 cm at 0.25 s, returning to 0 at 0.5 s, dropping to a trough of -2.0 cm at 0.75 s, and returning to 0 at 1.0 s. The cycle repeats.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q20",
+    "Question_text": "A water wave travels from deep water to shallow water in a ripple tank. What happens to the speed and to the wavelength of the wave?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q21",
+    "Question_text": "The diagram shows a ray of light directed at a plane mirror. What are the angle of incidence and the angle of reflection?",
+    "image": "A diagram showing a ray of light incident on a plane mirror. The mirror surface is drawn horizontally. The incident ray approaches the mirror from above and to the left, striking the surface. The angle between the incident ray and the mirror surface is marked as 40°.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q22",
+    "Question_text": "A ray of light in glass is incident on the surface at an angle c. The angle c is the critical angle. Which diagram shows what happens to the light?",
+    "image": "Four diagrams (A, B, C, D) illustrating a ray of light traveling from glass to air, incident on the glass-air boundary at an angle 'c', which is stated to be the critical angle. Each diagram shows a different outcome: A shows both reflection and refraction into air (bending away from normal); B shows only refraction into air; C shows both reflection and refraction along the boundary (at 90 degrees to the normal); D shows only total internal reflection.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q23",
+    "Question_text": "An object O is placed between a converging lens and one principal focus F of the lens. What is the magnification of the image formed?",
+    "image": "A ray diagram on a grid. A converging lens is shown vertically in the center. A horizontal principal axis passes through the center of the lens. Principal foci (F) are marked symmetrically on both sides of the lens at a distance of 2 grid units. An object 'O' (an upward arrow) is placed on the left side, 1 grid unit to the left of the lens and has a height of 1 grid unit. The grid lines are spaced 1 cm apart, with markings for 1 cm along both axes.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q24",
+    "Question_text": "Which statement about red light and violet light is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q25",
+    "Question_text": "Ultrasound is used to clean jewellery in a liquid. What is another use of ultrasound?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q26",
+    "Question_text": "A ship that is stationary on the surface of the sea sends pulses of sound vertically downwards towards the sea bed. Each pulse that reflects from the sea bed is received 1.0 s after it is sent out. A whale swims under the boat and a pulse is received 0.60 s after it is sent out. The speed of sound in sea water is 1500 m/s. What is the distance of the whale above the sea bed?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound",
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q27",
+    "Question_text": "Which row describes ultrasound waves?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Transverse & Longitudinal Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q28",
+    "Question_text": "A quantity is defined as the work done by a source in moving unit charge around a complete circuit. What is the quantity and what is its unit?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q29",
+    "Question_text": "A student connects the circuit shown. The switch S is closed. What is the reading on the voltmeter?",
+    "image": "A circuit diagram showing a 6.0 V battery in series with a switch S. The current then splits into two paths: one through a 3.0 Ω resistor, and the other through a parallel combination of two 6.0 Ω resistors. A voltmeter is connected in parallel across this parallel combination of 6.0 Ω resistors. All components are arranged to form a complete circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q30",
+    "Question_text": "Two resistors connected in series act as a potential divider as shown. The resistors have resistances R₁ and R₂ and the potential differences across them are V₁ and V₂ respectively. Which expression is equal to V₁/V₂?",
+    "image": "A circuit diagram illustrating a potential divider. Two resistors, R1 and R2, are connected in series. A voltmeter is shown across R1, measuring V1, and another voltmeter is shown across R2, measuring V2.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q31",
+    "Question_text": "There is an electric current of 1.5 A in a 4.0 Ω resistor. How much energy is transferred electrically to thermal energy in 1.0 minute?",
+    "image": "A simple circuit diagram showing a current of 1.5 A flowing through a 4.0 Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q32",
+    "Question_text": "A square coil is placed in a horizontal uniform magnetic field. The plane of the coil is perpendicular to the magnetic field. The coil is now rotated about an axis through P at a steady rate. The coil rotates through 180°. Which diagram shows how the electromotive force (e.m.f.) induced in the coil varies as it rotates through 180°?",
+    "image": "A diagram illustrating a square coil in a uniform horizontal magnetic field. The coil is positioned such that its plane is perpendicular to the magnetic field lines. An axis of rotation passes through point P, located at the midpoint of one side of the square coil. Four graphs show possible variations of electromotive force (e.m.f.) with the angle of rotation, all covering a 180° rotation.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q33",
+    "Question_text": "Three pieces of equipment made of magnetic materials are listed. 1 the core of a transformer 2 the needle of a compass 3 iron filings used to show a magnetic field pattern Which pieces of equipment act as temporary magnets when in use?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q34",
+    "Question_text": "Students are asked to suggest factors that affect the speed of rotation of a direct current (d.c.) motor. Three of their suggestions are listed. 1 the strength of the magnetic field 2 the current 3 the number of turns on the coil Which suggestions are correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q35",
+    "Question_text": "A transformer is used to power a lamp. There are more turns on the secondary coil than on the primary coil. Which statement is correct?",
+    "image": "A diagram of a transformer. It shows a primary coil and a secondary coil wound around an iron core. An AC source is connected to the primary coil, and a lamp is connected to the secondary coil. The secondary coil is depicted with more turns than the primary coil.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q36",
+    "Question_text": "In an electric field, a beta (ẞ)-particle follows the path shown. Which path does an alpha (a)-particle travelling at the same speed follow?",
+    "image": "A diagram showing a uniform electric field represented by horizontal parallel lines. A beta (β)-particle is shown entering the field horizontally from the left and being deflected upwards in a curved path. Four other hypothetical paths (A, B, C, D) are shown, starting from the same point and initial direction as the beta particle, but with different deflections (downwards, varying curvature) or no deflection.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q37",
+    "Question_text": "Which row gives the sign of the charge on the nucleus of an atom and the sign of the charge of an electron?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q38",
+    "Question_text": "An isotope has a half-life of 6000 years. How much time passes before the count rate due to emissions from a sample of the isotope decreases to 1/16 of the initial value?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q39",
+    "Question_text": "What is the approximate time taken by light from the Sun to travel to the Earth?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth & The Solar System",
+    "Sub_topic": [
+      "The Solar System",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2025/Q40",
+    "Question_text": "Where in the Solar System is the asteroid belt?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth & The Solar System",
+    "Sub_topic": [
+      "The Solar System",
+      "Orbiting Bodies"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,613 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "contains a cation with a charge of 2+",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "reacts with aqueous sodium hydroxide to form a red-brown precipitate",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases",
+      "Neutralisation reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "is insoluble in water",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules",
+      "Preparation of insoluble salts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "reacts with sodium hydroxide when warmed to produce a gas which turns damp red litmus paper blue",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "when added to water can form an aqueous solution with a pH of 1.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "State which two gases in the list show that incomplete combustion has taken place in this car engine.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fossil fuels",
+      "Hydrocarbons definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Describe a test for carbon dioxide.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Give one other natural source of methane in the atmosphere.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Sources of air pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Complete this sentence about the effect of an increase in the concentration of methane in the atmosphere.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Greenhouse gases mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e",
+    "Question_text": "Describe how catalytic converters remove pollutant gases from car exhausts.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Oxides of nitrogen in cars",
+      "Strategies to reduce effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Draw a line on the grid to show how the volume of hydrogen gas produced changes with time when the reaction is done with a lower concentration of hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction",
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3bi",
+    "Question_text": "Describe and explain, using ideas about collisions between particles, how the rate of the reaction changes when magnesium powder is used instead of magnesium ribbon.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3bii",
+    "Question_text": "Describe and explain, using ideas about collisions between particles, how the rate of the reaction changes when the temperature of the reaction mixture is decreased.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Calculate the maximum volume, in dm³, of hydrogen formed when 1.68g of magnesium react with excess dilute hydrochloric acid at room temperature and pressure.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations",
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "Describe a test for reducing agents.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Identifying in redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4ai",
+    "Question_text": "Give one other physical property of alkanes which increases as the number of carbon atoms increases.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Properties of alkanes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4aii",
+    "Question_text": "Give two other characteristics of a homologous series.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Homologous series characteristics"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "State the name of another typical chemical reaction of alkanes and the reactant needed to react with the alkanes.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Substitution reaction",
+      "Substitution with chlorine"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4ci",
+    "Question_text": "State two conditions needed for cracking alkanes.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Manufacture by cracking",
+      "Reasons for cracking"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4cii",
+    "Question_text": "Construct an equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Manufacture by cracking"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d",
+    "Question_text": "Calculate the empirical formula of this compound.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Empirical formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Explain, by referring to the equation, why this reaction involves both oxidation and reduction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox reactions definition",
+      "Oxidation definition",
+      "Reduction definition",
+      "Identifying redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "State the observations made.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5ci",
+    "Question_text": "Name the products of this reaction.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Displacement reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5cii",
+    "Question_text": "Explain why aqueous bromine does not react with aqueous zinc chloride.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Displacement reactions",
+      "Predicting Group VII properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "Complete the energy profile diagram for this reaction.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Reaction pathway diagrams",
+      "Endothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Explain, in terms of bond breaking and bond forming, why the reaction is endothermic.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Bond breaking and making",
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c",
+    "Question_text": "Complete the equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "State two differences in the physical properties of sodium and diamond.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Deduce the number of protons, neutrons and electrons in this ion.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Proton number / atomic number",
+      "Mass number / nucleon number"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7c",
+    "Question_text": "Complete the equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7di",
+    "Question_text": "Describe and explain the effect, if any, on the position of equilibrium when the temperature is increased.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7dii",
+    "Question_text": "Describe and explain the effect, if any, on the position of equilibrium when the pressure is decreased.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Deduce the molecular formula of compound T.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Molecular formula definition",
+      "Formulae of elements and compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "State the colour change when excess compound T is added to aqueous bromine.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Test for unsaturation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "Suggest a suitable oxidising agent for this reaction.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Formation of ethanoic acid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "Draw the partial structure of the polymer of compound T. Show two repeat units.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Addition polymer structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8e",
+    "Question_text": "Complete the structure of this ester to show all the atoms and all the bonds.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reaction with alcohol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8fi",
+    "Question_text": "Give the formula of the positive ion that is present in all acids.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8fii",
+    "Question_text": "Explain why the rate of reaction of 1.0mol/dm³ methanoic acid with magnesium is less than the rate of reaction of 1.0mol/dm³ hydrochloric acid with magnesium.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8g",
+    "Question_text": "Construct the equation for the reaction of methanoic acid with magnesium.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9ai",
+    "Question_text": "Name two other raw materials used to make sulfuric acid.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Sources in Contact process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9aii",
+    "Question_text": "Name the catalyst used in the Contact process.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9bi",
+    "Question_text": "Define the term electrolysis.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9bii",
+    "Question_text": "Construct the equation for the reaction taking place at the cathode.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products at cathode and anode",
+      "Ionic half-equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9c",
+    "Question_text": "Show by calculation that the sodium hydroxide is in excess.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9d",
+    "Question_text": "State the names of the three products formed in this reaction.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction",
+      "Neutralisation equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10ai",
+    "Question_text": "predict the density of antimony",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Predicting properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10aii",
+    "Question_text": "suggest why it is difficult to predict the melting point of arsenic.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Trends in groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10bi",
+    "Question_text": "Explain in terms of structure and bonding why compound R has a high melting point and compound S has a low melting point.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Giant lattice structure of ionic compounds",
+      "Ionic bond definition",
+      "Properties of ionic compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10bii",
+    "Question_text": "Explain why compound R conducts electricity when molten.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Giant lattice structure of ionic compounds",
+      "Ionic bond definition",
+      "Properties of ionic compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10biii",
+    "Question_text": "Draw a dot-and-cross diagram for a molecule of compound S.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Formation of covalent bonds in molecules",
+      "Covalent bond formation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "Calculate the percentage by mass of phosphorus in this compound.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  }
+]

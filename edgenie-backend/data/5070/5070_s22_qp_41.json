@@ -1,0 +1,351 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Name apparatus A.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Name a suitable piece of apparatus to measure the 25 cm³ of acid.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Name a suitable piece of apparatus to measure the temperature.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1di",
+    "Question_text": "Label the axes on the grid. Include the appropriate units.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1dii",
+    "Question_text": "Plot the results on the grid.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1diii",
+    "Question_text": "Draw a curve of best fit.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1div",
+    "Question_text": "Use the graph to: determine the time taken at 25°C, extend your curve of best fit to determine the temperature at which the reaction takes 180 s suggest why an experiment at 70°C is not done.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Draw a diagram to show how the student separates the colourless solution from the black solid. Label the apparatus, the black solid and the colourless solution in your diagram.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bi",
+    "Question_text": "Complete the table. Name any gas formed and describe the tests used to identify the gas.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bii",
+    "Question_text": "Use the conclusions from tests 2 and 3 only to name an ionic compound in the mixture.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "The student tests the insoluble black solid as shown in the table. Complete the table.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A student has three colourless organic liquids, W, X and Y. One is an alkene, one is an alcohol and one is a carboxylic acid but the student does not know which liquid is which. Describe a series of tests to determine which liquid, W, X or Y, is the alkene, which is the alcohol and which is the carboxylic acid. Each liquid must be identified by a positive test.You are provided with: separate samples of liquids W, X and Y acidified aqueous potassium manganate(VII) aqueous bromine solid calcium carbonate the apparatus normally found in a school laboratory.In your answer include: a description of the tests the apparatus needed for the tests how the results of the tests are used to identify W, X and Y a safety risk that is involved in doing one of the tests and a precaution to avoid the risk.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Properties of alkanes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "The student uses an incorrect piece of apparatus to measure a volume. Identify the incorrect piece of apparatus and suggest a more accurate piece of apparatus.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Explain why the contents of the volumetric flask are shaken in step 5.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c",
+    "Question_text": "Explain why the indicator is needed in step 9.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "End-point identification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d",
+    "Question_text": "Calculate the mass of citric acid added to the beaker.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4e",
+    "Question_text": "Calculate the number of moles of citric acid added to the beaker.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4f",
+    "Question_text": "Calculate the concentration, in mol/dm³, of citric acid in the volumetric flask.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4g",
+    "Question_text": "The diagrams show parts of the burette with the liquid levels at the beginning and end of titration 1. Use the diagrams to enter the values for titration 1 in the results table shown.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4h",
+    "Question_text": "The table also shows the results of three other titrations. Complete the table by ticking the best titration results. Explain why you have ticked these values.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4i",
+    "Question_text": "Use the best titration results to calculate the average volume of NaOH(aq) used.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4j",
+    "Question_text": "Use your answer to (f) to calculate the number of moles of citric acid in 25.0cm³ of solution P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4k",
+    "Question_text": "The equation for the reaction between citric acid, C6H8O7, and NaOH is shown. Calculate the number of moles of NaOH that react with the citric acid in 25.0cm³ of solution P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4l",
+    "Question_text": "Calculate the concentration, in mol/dm³, of the NaOH(aq).",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4mi",
+    "Question_text": "25 cm³ of the NaOH(aq) is added to an excess of iron(II) sulfate, FeSO4(aq). Use the equation and your answer from (I) to calculate the number of moles of Fe(OH)2(s) that is made.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4mii",
+    "Question_text": "State the colour of the precipitate.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "The diagram shows the initial and final temperatures.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Use the information in the table in (a) to suggest what type of reaction is taking place.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "The student repeats the experiment using 2.0mol/dm³ instead of 1.0mol/dm³ hydrochloric acid. Predict the temperature change in this new experiment. Explain your answer.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5di",
+    "Question_text": "The temperature change measured is lower than expected. Suggest a reason for the temperature change being lower than expected.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5dii",
+    "Question_text": "Suggest an improvement to the experiment which will make the measured temperature closer to the expected value.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,456 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Identify two errors in the student's apparatus.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1bi",
+    "Question_text": "Name apparatus A.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1bii",
+    "Question_text": "What is the purpose of apparatus A?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1biii",
+    "Question_text": "Name apparatus B.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1biv",
+    "Question_text": "What is the purpose of apparatus B?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1ci",
+    "Question_text": "What is the reading on the thermometer when the first few drops of liquid appear in C?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1cii",
+    "Question_text": "Name this liquid.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fractional distillation",
+      "Properties of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Suggest which method should be used to heat the mixture and explain your choice.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Give a test and observation to identify the presence of the nitrate ion, NO3(aq).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Describe briefly how pure crystals of potassium nitrate may be made from aqueous potassium nitrate.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation",
+      "Suggesting techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ci",
+    "Question_text": "Complete the table and calculate the temperature change.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2cii",
+    "Question_text": "What type of process does this temperature change indicate?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3ai",
+    "Question_text": "Calculate the mass of zinc used in the experiment.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3aii",
+    "Question_text": "Calculate the mass of zinc oxide produced.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3aiii",
+    "Question_text": "Using your answers to (i) and (ii), calculate the mass of oxygen that combines with the zinc.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3aiv",
+    "Question_text": "Using your answers to (i) and (iii), calculate the formula of zinc oxide. Show all your working.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Empirical and molecular formulae"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "When zinc reacts with dilute hydrochloric acid, a gas is produced. Name the gas. Give a test and observation to identify the gas.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Chromatography can be used to separate the dyes present in black ink. Which diagram shows the correct arrangement at the beginning of the experiment?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A student is given a sample of damp soil which is known to be acidic. Which of the following substances may be used to neutralise the soil?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction",
+      "Neutralisation equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A small piece of calcium is added to a test-tube containing water coloured green by Universal Indicator. A gas is given off and the indicator changes colour. Which pair of observations is correct?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "What is the colour in the conical flask before R is added, at the end-point?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration",
+      "End-point identification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "The student does three titrations. The diagrams show parts of the burette with the liquid levels at the beginning and end of each titration.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "Calculate the number of moles of sodium hydroxide in 25.0cm³ of S.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations",
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "Given that 1 mol of acid neutralises 1 mol of sodium hydroxide, use your answer in (c) to deduce the number of moles of the organic acid in the average volume of R.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8e",
+    "Question_text": "Calculate the number of moles of the acid in 1.00dm³ of R.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations",
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9f",
+    "Question_text": "Using your answer to (e) and the information that R contains 8.00g/dm³ of the acid, calculate the relative molecular mass of the acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9g",
+    "Question_text": "The organic acid has the formula CnH2n+1CO2H where n is a whole number. Using your answer to (f), deduce the value of n and hence the molecular formula and the name for the organic acid.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming organic compounds",
+      "Identifying compound type"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "M is dissolved in water and the resulting solution is divided into three parts for tests (b), (c) and (d).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations",
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10bi",
+    "Question_text": "To the first part, aqueous sodium hydroxide is added until a change is seen.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10bii",
+    "Question_text": "An excess of aqueous sodium hydroxide is added to the mixture from (i).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10ci",
+    "Question_text": "To the second part, aqueous ammonia is added until a change is seen.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10cii",
+    "Question_text": "An excess of aqueous ammonia is added to the mixture from (i).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10e",
+    "Question_text": "Conclusion: the formula of M is",
+    "image": null,
+    "Unit": "",
+    "Topic": "",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "State the colour of this precipitate.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Complete the final column by calculating the mass of precipitate formed in each experiment.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9c",
+    "Question_text": "Plot the mass of precipitate against the volume of W on the grid. Draw two intersecting straight lines through the points.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9di",
+    "Question_text": "the volume of W that would produce 1.20g of precipitate,",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9dii",
+    "Question_text": "the maximum mass of precipitate that is produced,",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9diii",
+    "Question_text": "the minimum volume of W that reacts completely to produce the maximum mass in (ii).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9e",
+    "Question_text": "Using your answer to (d)(iii) and the equation for the reaction, calculate the concentration of the sulfuric acid, W, used in the experiment.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  }
+]

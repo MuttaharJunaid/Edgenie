@@ -1,0 +1,204 @@
+[
+  {
+    "QuestionNumber": "October/November/2018/Q1",
+    "Question_text": "In this experiment, you will determine the power developed when sliding a wooden block across the bench. You are provided with: • a wooden block • five 100 g masses • a spring attached to the block with a piece of string • a 30 cm ruler • a metre rule • a stopwatch. Set up the apparatus as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a laboratory setup for an experiment. A wooden block rests on a bench, with several masses placed on top of it. A spring is attached to the wooden block via a loop of string and an eye hook. A hand is shown pulling the spring to the right. A metre rule is placed parallel to the wooden block on the bench, indicating measurements.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Work",
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Pull the spring slowly to the right as shown in Fig. 1.1. The spring stretches, as shown in Fig. 1.2, and the block just begins to slide. Hold the spring steady in this position. Measure the stretched length ls of the spring at this position.",
+        "image": "Fig. 1.2 shows a diagram of a stretched spring in a horizontal orientation. A double-headed arrow beneath the spring indicates its stretched length, labeled 'ls'."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "For the spring provided, measure the unstretched length lu of the spring, as shown in Fig. 1.3. Use the equation e = ls – lu to calculate the extension e of the spring.",
+        "image": "Fig. 1.3 shows a diagram of an unstretched spring in a horizontal orientation. A double-headed arrow beneath the spring indicates its unstretched length, labeled 'lu'."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Use the equation F = ke to calculate the force F applied by the spring, where k = 0.25 N/cm. Give the unit of your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Pull the spring slowly to the right until the block just begins to slide on the bench. Start the stopwatch and pull the block along the bench, keeping the extension of the spring constant. Stop the stopwatch when the block has moved 20 cm. Repeat and find the average value t for the time taken. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use the equation P = (0.20 F) / t to calculate the power P developed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q2",
+    "Question_text": "In this experiment, you will investigate filament lamps in series and in parallel. You are provided with: • a power supply • a switch • three identical filament lamps each in a holder • an ammeter • a voltmeter • connecting leads • a resistor, labelled R. The Supervisor has set up the circuit as shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a circuit diagram. A power supply is connected in series with a switch and a resistor labeled R. An ammeter labeled A is connected in series after the switch. Two points, P and Q, are indicated in the circuit, between which components can be connected. A voltmeter labeled V is connected in parallel across points P and Q. The circuit forms a closed loop.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Resistance",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Connect one filament lamp between points P and Q. Switch on the circuit. Record the potential difference V and the current I in the table of Fig. 2.2. Switch off.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Repeat the procedure in (a) with: • 2 filament lamps in series • 2 filament lamps in parallel • 3 filament lamps in parallel. Switch off the circuit when you have completed your measurements.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use the equation RL = V/I to calculate the resistance RL of each arrangement. Record your answers in the table of Fig. 2.2.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "When the circuit with a single filament lamp is switched on, the ammeter reading rises. The reading then decreases very slightly to a constant value within a very short period of time. Suggest why the reading decreases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q3",
+    "Question_text": "In this experiment, you will determine the magnification produced by a lens. You are provided with: • a power supply • a lamp in a lamp holder • a converging lens in a lens holder • a screen • a 30 cm ruler • a metre rule. (a) The apparatus is set up as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a top-down view of an optical experiment setup. From left to right, a lamp with its filament is followed by a converging lens in a holder, and then a screen. A metre rule is placed beneath these components, running parallel to the optical axis.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Check that the filament of the lamp is at the 0.0cm mark on the rule and that the screen is at the 100.0 cm mark on the rule so that the distance between the filament and the screen is 100.0 cm. The filament should be perpendicular to the metre rule and parallel to the screen, as shown in Fig. 3.2. Switch the lamp on. Move the lens slowly towards the lamp until a sharply focussed magnified image of the filament is formed on the screen.",
+        "image": "Fig. 3.2 (plan view) shows a detailed setup of the optical experiment. A filament lamp is on the left, followed by a lens in a lens holder, and then a screen on the right. The filament of the lamp is oriented perpendicularly to the metre rule which runs along the setup, and parallel to the screen."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.2, mark the distance x from the filament to the lens.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On the apparatus, measure the distance x between the filament and the lens.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Measure the length li of the image of the filament formed on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Switch off the lamp. The filament of the lamp is shown in Fig. 3.3 (not to scale).",
+        "image": "Fig. 3.3 shows a diagram of a filament lamp. A double-headed arrow indicates the actual length of the filament, labeled 'lo'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure the length lo for the filament lamp provided.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest why your measurement of lo may not be accurate.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use the equation m = li / lo to calculate the magnification m produced by the lens.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "For this arrangement, where the lamp and the screen are 100.0cm apart, theory states that m = (100 - x) / x where x is the distance measured in (a)(ii). Explain whether your results support this theory.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q4",
+    "Question_text": "In this experiment, you will use the results of moment calculations to determine the density of cooking oil. You are provided with: • a metre rule to act as a balance beam • a 30 cm ruler • a 200 g mass attached to a loop of string • a 250 cm³ beaker attached to a loop of string • a stand, boss and pivot • a measuring cylinder • a supply of cooking oil. The Supervisor has set up the apparatus as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 illustrates a moments experiment setup. A metre rule functions as a balance beam, supported by a pivot near its center. On the left side, a beaker of mass MB is suspended at a fixed distance of 40.0 cm from the pivot. On the right side, a 200 g mass is suspended at a variable distance labeled 'd₀' from the pivot. The setup is designed to be balanced horizontally.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "If necessary, move the 200 g mass to ensure that the beam is horizontal. Measure the horizontal distance d0 from the pivot to the 200g mass.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Use the equation MB = 5d0 to calculate the mass MB of the 250 cm³ beaker.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use the measuring cylinder to pour a volume V of 30cm³ of cooking oil into the beaker. Record the volume that you have added in the first column of the results table of Fig. 4.2. Rebalance the beam by moving the 200 g mass. Measure the horizontal distance d from the 200 g mass to the pivot. Record d in the second column in Fig. 4.2. Use your answer to (b) and the equation M = 5d – MB, to calculate the mass M of 30 cm³ of oil. Record M in the third column of the results table.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Continue to add approximately 30 cm³ of oil at a time until there is a total of 150 cm³ of oil in the beaker. Record the total volume V of oil in the first column of Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Rebalance the beam each time you add some oil by moving the 200 g mass. Record the corresponding values of d in Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Use the equation in (c) to calculate the mass M of the volume of the oil in the beaker. Record your answers in the third column of Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "Write headings in the top row of the results table of Fig. 4.2.",
+        "image": "Fig. 4.2 shows a blank table with three columns and several rows. The top row is empty, intended for headings related to experimental data (e.g., volume, distance, mass). The remaining rows are also blank for recording results."
+      },
+      {
+        "part_label": "e",
+        "part_text": "On the grid opposite, plot a graph of M on the y-axis against V on the x-axis. Draw the straight line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "f(i)",
+        "part_text": "Determine the gradient G of your graph.",
+        "image": null
+      },
+      {
+        "part_label": "f(ii)",
+        "part_text": "The equation used to calculate the density ρ of a substance is ρ = M/V. State the relationship between the gradient of your graph and the density of the oil.",
+        "image": null
+      }
+    ]
+  }
+]

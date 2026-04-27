@@ -1,0 +1,200 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Put Q into the burette. Pipette a 25.0 cm³ (or 20.0cm³) portion of P into a flask and titrate with Q, using the indicator provided. Record your results in the table, repeating the titration as many times as you consider necessary to achieve consistent results.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration from titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Q is 0.105mol/dm³ sulfuric acid. Calculate the number of moles of sulfuric acid present in the average volume of Q.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Using your answer from (b) and the equation shown, calculate the number of moles of sodium hydroxide in the volume of P used in the titration.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Using your answer from (c), calculate the concentration, in mol/dm³, of sodium hydroxide in P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "Using your answer from (d), calculate the mass, in g, of sodium hydroxide in 1.00dm³ of P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1f",
+    "Question_text": "Using your answer from (e), calculate the mass of water present in the 9.82g of damp sodium hydroxide used to make P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1g",
+    "Question_text": "Calculate the percentage by mass of water present in the damp sodium hydroxide used to make P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.1",
+    "Question_text": "Test a sample of R with Universal Indicator paper.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Effects on indicators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.2",
+    "Question_text": "To 1 cm depth of aqueous zinc sulfate in a test-tube, add R slowly with mixing until no further change occurs.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.3",
+    "Question_text": "To 1 cm depth of aqueous chromium(III) chloride in a test-tube, add R slowly with mixing until no further change occurs.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.4",
+    "Question_text": "Gently warm 2cm depth of R in a hard-glass test-tube.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.1 Physical and chemical changes",
+    "Sub_topic": [
+      "Physical and chemical changes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.5a",
+    "Question_text": "To 1 cm depth of aqueous sodium chloride in a test-tube, add a few drops of aqueous silver nitrate.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.5b",
+    "Question_text": "To the mixture from (a), add R until no further change occurs.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.6a",
+    "Question_text": "To 1 cm depth of aqueous potassium iodide in a test-tube, add an equal volume of dilute sulfuric acid and then one or two drops of S.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.6b",
+    "Question_text": "To the mixture from (a) add an equal volume of S and allow to stand for a few minutes.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Identifying redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.7",
+    "Question_text": "To 2cm depth of acidified aqueous potassium manganate(VII) in a test-tube, add an equal volume of S.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox by colour changes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.8a",
+    "Question_text": "To 1 cm depth of aqueous iron(II) sulfate in a test-tube, add an equal volume of S.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox by colour changes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2.8b",
+    "Question_text": "Add R to the mixture from (a) until no further change occurs.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox by colour changes"
+    ],
+    "Parts": []
+  }
+]

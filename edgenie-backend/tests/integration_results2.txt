@@ -1,0 +1,161 @@
+﻿
+==================================================
+  FLOW 0: HEALTH CHECK
+==================================================
+  Γ£à Health endpoint ΓÇö status=healthy
+  Γ£à Database OK
+  Γ£à Cache OK
+
+==================================================
+  FLOW 1: ONBOARDING + AUTH
+==================================================
+  Γ£à Register (user exists) ΓÇö User already registered ΓÇö OK for re-run
+  Γ£à Login fallback ΓÇö token=yes
+  Γ£à Login ΓÇö 200
+  Γ£à Login ΓÇö access token
+  Γ£à Login ΓÇö refresh token
+  Γ£à Login ΓÇö streak field
+  Γ£à GET /me/ ΓÇö 200 ΓÇö email=flowtest@edgenie.io
+  Γ£à /me/ ΓÇö email match
+  Γ£à /me/ ΓÇö has studentprofile
+  Γ£à /me/ ΓÇö profile has subjects
+  Γ£à /me/ ΓÇö profile has streak
+
+==================================================
+  FLOW 2: SUBJECT SELECTION
+==================================================
+  Γ£à GET /subjects/ ΓÇö 200
+  Γ£à Subjects has results
+  Γ¥î Subjects ΓÇö has data ΓÇö No subjects in DB
+
+==================================================
+  FLOW 3: DASHBOARD + STATS
+==================================================
+  Γ£à GET /me/stats/ ΓÇö 200 ΓÇö code=200
+  Γ£à Stats has total_questions_practiced
+  Γ£à Stats has overall_accuracy
+  Γ£à Stats has streak_days
+  Γ£à Stats has topics_covered_count
+  Γ£à Stats has total_practice_time_minutes
+  Γ£à GET /analytics/dashboard/ ΓÇö 200
+  Γ£à Dashboard has subject_performance
+  Γ£à Dashboard has recent_activity
+  Γ£à Dashboard has improvement_rate
+  Γ£à GET /analytics/weak-topics/ ΓÇö 200
+
+==================================================
+  FLOW 4: SEARCH
+==================================================
+  Γ£à GET /search/trending/ ΓÇö 200
+  Γ£à Trending has key
+  Γ£à GET /search/suggestions/ ΓÇö 200
+  Γ£à Suggestions is list
+  Γ£à POST /search/questions/ ΓÇö 200
+  Γ£à Search has count
+  Γ£à Search has results
+  Γ£à Search has query_understood
+  Γ£à Search has has_next
+  Γ£à Search results ΓÇö count=1
+  Γ£à Result has id
+  Γ£à Result has text
+  Γ£à Result has difficulty
+  Γ£à Result has marks
+
+==================================================
+  FLOW 5: QUESTION DETAIL
+==================================================
+  Γ£à Got question ID ΓÇö id=d47f6305-f31f-4101-a1fb-1b2b56b5bb36
+  Γ¥î GET /questions/<id>/ ΓÇö 200
+
+==================================================
+  FLOW 6: AI CHAT TUTOR
+==================================================
+  Γ£à Create chat session ΓÇö 201
+  Γ£à Session has ID
+  Γ£à Chat message ΓÇö 201
+  Γ£à Response role=assistant
+  Γ£à Response has content ΓÇö len=59
+  Γ£à Response has references
+  Γ£à Follow-up message ΓÇö len=59
+
+==================================================
+  FLOW 7: MOCK EXAM
+==================================================
+  Γ¥î Mock exam (skipped) ΓÇö No subject ID available
+
+==================================================
+  FLOW 8: ANALYTICS
+==================================================
+  Γ£à GET /analytics/activity/ ΓÇö 200
+  Γ£à GET /analytics/topics/ ΓÇö 200
+
+==================================================
+  FLOW 9: ANSWER GRADING
+==================================================
+  Γ£à Create submission ΓÇö 201
+  Γ£à Submission has ID
+  Γ£à Status is pending
+    Poll 1: grading
+    Poll 2: failed
+  Γ¥î Grading completed ΓÇö FAILED ΓÇö check Celery logs
+
+==================================================
+  ADMIN DASHBOARD FLOWS
+==================================================
+  Γ£à Admin login
+  Γ£à Admin dashboard ΓÇö 200 ΓÇö code=200
+  Γ£à Dashboard has total_users
+  Γ£à Dashboard has total_questions
+  Γ£à Dashboard has system_health
+  Γ£à Admin users list ΓÇö 200
+  Γ£à User has id
+  Γ£à User has email
+  Γ£à User has role
+  Γ£à User has plan
+  Γ£à Admin AI stats ΓÇö 200
+  Γ£à Admin logs ΓÇö 200
+  Γ£à Admin settings ΓÇö 200
+  Γ£à Student blocked from admin ΓÇö code=403
+
+==================================================
+  LANDING PAGE FLOWS
+==================================================
+  Γ£à Waitlist join ΓÇö 201
+  Γ£à Waitlist has position ΓÇö pos=5
+  Γ£à Duplicate email blocked
+  Γ£à Contact form ΓÇö 201
+  Γ£à Public stats ΓÇö 200
+  Γ£à Stats has total_students ΓÇö val=1
+  Γ£à Stats has total_questions ΓÇö val=0
+  Γ£à Stats has total_subjects ΓÇö val=0
+  Γ£à Stats has waitlist_count ΓÇö val=2
+
+==================================================
+  TOKEN REFRESH FLOW
+==================================================
+  Γ£à Token refresh ΓÇö 200
+  Γ£à New access token
+  Γ¥î Logout ΓÇö 200/205 ΓÇö code=400
+  Γ£à Blacklisted refresh fails ΓÇö code=401
+
+==================================================
+  INTEGRATION TEST REPORT
+==================================================
+
+  Total tests:  85
+  Passed:       80 Γ£à
+  Failed:       5 Γ¥î
+  Pass rate:    94%
+
+  FAILED TESTS:
+    Γ¥î Subjects ΓÇö has data
+    Γ¥î GET /questions/<id>/ ΓÇö 200
+    Γ¥î Mock exam (skipped)
+    Γ¥î Grading completed
+    Γ¥î Logout ΓÇö 200/205
+
+  INTEGRATION READINESS: 94%
+  LAUNCH DECISION: Γ£à READY
+
+==================================================
+

@@ -1,0 +1,174 @@
+[
+  {
+    "QuestionNumber": "May-June/31/2025/Q1",
+    "Question_text": "You will investigate the resistance of a lamp. You are provided with a circuit consisting of: • a power supply • a lamp • a switch in the 'off' position • an ammeter • a voltmeter. You are also provided with a 10 Ω resistor and an additional connecting lead.",
+    "image": "Fig. 1.1 shows a circuit diagram. A power supply with positive and negative terminals is connected in series with a switch and an ammeter (A). The ammeter is connected to point P. From point P, a lamp (represented by a circle with a cross) is connected to point Q. A voltmeter (V) is connected in parallel across the lamp, between points P and Q.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Close the switch. Record the readings of current I_L and potential difference V_L. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest why you are instructed to open the switch after you have recorded the readings.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Use the equation: R = V/I to calculate the resistance R_L of the lamp. Give your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Disconnect the voltmeter at point P. Add the 10 Ω resistor into the circuit in series with the lamp and reconnect the voltmeter as shown in Fig. 1.2.",
+        "image": "Fig. 1.2 shows a circuit diagram. It's similar to Fig. 1.1 but with a 10 Ω resistor added in series with the lamp. A power supply is connected in series with a switch and an ammeter (A). The ammeter is connected to point P. From point P, a 10 Ω resistor is in series with a lamp (represented by a circle with a cross) which is connected to point Q. A voltmeter (V) is connected in parallel across both the 10 Ω resistor and the lamp, between points P and Q."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Repeat (a)(i) to find the readings of I_C and V_C. Use the equation given in (a)(iii) to find the combined resistance R_C of the lamp and the resistor connected in series.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Theory states that the value of the resistance of the lamp R_L in the circuit shown in Fig. 1.2 is given by: R_L = R_C – 10 Ω. Find the resistance of the lamp R_L predicted by theory.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Use your values of the current in the circuits and any observations about the brightness of the lamp to explain why the value of R_L in (b)(ii) is lower than in (a)(iii).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2025/Q2",
+    "Question_text": "You will investigate the light reflected from a plane mirror. You are provided with: • a plane mirror in a holder • a slit cut into card and a lamp to illuminate it, or a ray box and a single slit • a protractor • a 30 cm ruler.",
+    "image": "Fig. 2.1 shows a straight horizontal line segment labelled 'A' on the left and 'B' on the right.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Draw a line from point A at an angle of 30° in an anticlockwise direction from AB. This line should be more than 10cm long. Label the end of the line as point C.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Mark a point D on the line AB, 4.0 cm from point A. Draw a line perpendicular to AB through point D. This line must also pass through the line AC that you have drawn in part (a)(i). Label, with an E, the point where the line through point D passes through AC.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Place the front surface of the mirror along the line AC on Fig. 2.1 with the reflective surface facing point B. Using the illuminated slit, pass a ray of light along the line DE towards the mirror. The ray should reflect from the mirror. Mark with crosses (X) two points on the reflected ray. Label these points P₁ and P₂.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Remove the mirror. Draw a line through points P₁ and P₂ and extend it to meet line AC. This is the reflection of the line DE.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Describe how points P₁ and P₂ are chosen to give as accurate a reflected line as possible.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Label the angle between CE and EP₁ as θ. Measure and record angle θ.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Fig. 2.2 shows a second line labelled A'B'. On Fig. 2.2, draw a line from point A' at an angle of 60° in an anticlockwise direction from line A'B'. This line should be more than 10cm long. Label the end of the line with a C'. Mark a point D' on the line A'B', 4.0cm from point A'. Draw a line perpendicular to A'B' through point D'. This line must also pass through the line A'C' that you have drawn. Label the point where the line through point D' passes through A'C' with an E'. Place the front surface of the mirror along the line A'C' on Fig. 2.1, with the reflective surface facing point B'. Using the illuminated slit, pass a ray of light along the line D'E' towards the mirror. The ray should reflect from the mirror. Mark with crosses (X) two points on the reflected ray. Label these points P₃ and P₄. Remove the mirror. Draw a line through points P₃ and P₄ and extend it to meet line A'C'. This is the reflection of the line D'E'.",
+        "image": "Fig. 2.2 shows a straight horizontal line segment labelled 'A'' on the left and 'B'' on the right."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Label the angle between C'E' and E'P₃ on Fig. 2.2 as α. Measure and record angle α.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Assume that the line E'P₃ has been drawn accurately. State one practical precaution, other than your answer to (b)(iii), that you take to ensure that the drawn angle α can be measured accurately.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Theory suggests that: θ = 2α where θ is the answer to (b)(iv) and α is the answer to (c)(ii). State whether your results support this theory. Give a reason for your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2025/Q3",
+    "Question_text": "You will investigate the time taken for water to flow through a small hole in the bottom of a can. You are provided with: • a clamp, boss and stand • a can with a small hole at the bottom • a supply of water in a 250 cm³ beaker labelled 'supply of water' • a 50 cm³ measuring cylinder • a 100 cm³ measuring cylinder • a funnel • a stopwatch • paper towels to mop up spillage. Some of the apparatus has been arranged for you as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows an experimental setup. A can with a small hole at the bottom is clamped to a retort stand. Below the can, a funnel is placed, which directs the flowing water into a 50 cm³ measuring cylinder. To the left, a 100 cm³ measuring cylinder is shown, indicating it's for initial volume measurement.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Use the 100 cm³ measuring cylinder to measure a volume V = 70 cm³ of water. Hold your finger under the hole at the bottom of the can. Pour the volume V of water into the can. Remove your finger and start the stopwatch immediately. Stop the stopwatch when the volume of water in the 50cm³ measuring cylinder is 30cm³. Put your finger back over the hole in the bottom of the can. Unclamp the can and empty the water remaining in it, and the water in the measuring cylinder, back into the beaker labelled 'supply of water'. The reading on the stopwatch is time t₁.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Repeat (a)(i) one more time. Record the time as t₂. Find the average time t_av of t₁ and t₂. Give your answer to the nearest 0.1 s.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The average flow rate R is given by: R = 30 cm³/t_av. Calculate R and give the unit of your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Repeat (a)(i) and (a)(ii) for values of V = 100 cm³, 90 cm³, 80 cm³, 60 cm³ and 50 cm³. Record all your results, including those you obtained for volume V = 70cm³ in (a)(i) and (a)(ii), in Table 3.1. Calculate t_av for each value of volume V and enter your answers into Table 3.1. Complete Table 3.1 by writing appropriate headings, with units, in the top row.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid provided in Fig. 3.2, plot a graph of t_av on the y-axis against V on the x-axis. You do not need to start your axes at (0, 0). Draw the curve of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest why values of t₁ and t₂ for values of V below 50 cm³ are not measured.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "On your graph, sketch the line you would expect to see if the small hole in the can is made slightly bigger. Label this line L.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2025/Q4",
+    "Question_text": "When a table tennis ball is dropped as shown in Fig. 4.1, it will bounce back upwards. Some of the initial gravitational potential energy (GPE) of the ball is lost in the bounce. Plan an experiment to investigate how the height from which the ball is dropped affects the percentage of GPE lost in each bounce. You may use any apparatus commonly found in a school laboratory in addition to the apparatus shown in Fig. 4.1. GPE is given by the equation: GPE = mgh where m is the mass of the ball, g is the gravitational field strength and h is the height above the bench from which the ball is dropped. You are not required to do this experiment. In your plan, you should: • state what you will measure (dependent variable) and any additional apparatus you may use • state any key variables to keep constant • explain how you will ensure the results are as accurate as possible • draw a table with column headings to display the results • explain how you will use the results to draw a conclusion.",
+    "image": "Fig. 4.1 shows a diagram of a table tennis ball held at a height above a bench, next to a retort stand with a meter rule clamped to it.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Conservation of Energy",
+      "Measurement"
+    ],
+    "Parts": []
+  }
+]

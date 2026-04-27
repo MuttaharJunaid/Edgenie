@@ -1,0 +1,536 @@
+[
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q1",
+    "Question_text": "",
+    "image": "A Venn diagram showing a universal set E. Inside E, there are two overlapping ellipses, A and B. A smaller ellipse C is entirely contained within ellipse A and does not overlap with ellipse B, as implied by the set definitions and information provided in part a(ii)(a).",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams",
+      "Identify integers",
+      "Identify natural numbers",
+      "Identify common multiples"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The sets A, B and C are shown in the Venn diagram. E = { x : x is an integer, 1 ≤ x ≤ 18 } A = { x : x is an even number } B = { x :x is a multiple of 5 } Find n(A∪ B).",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(a)",
+        "part_text": "Given that A ∩ B' ∩ C' = {2, 6, 14, 18}, list the members of C.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(b)",
+        "part_text": "Describe the set C in words.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A school offers piano lessons and flute lessons to a group of 50 children. Of these children, 28 attend piano lessons 17 attend flute lessons 12 attend neither piano lessons nor flute lessons. By drawing a Venn diagram, or otherwise, find the number of children who attend only the piano lessons.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate with money",
+      "Calculate simple interest",
+      "Calculate with time units",
+      "Use proportional reasoning"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Sunil needs to hire a digger from Monday to Thursday one week and on Monday and Tuesday the following week. The Hire company charges $48 each time the digger is hired plus $13 per day. He has two options. Option 1: Hire the digger for four days, return it and then hire it again for two days. Option 2: Hire it continuously from the first Monday to the second Tuesday. Which is the cheaper option and by how much?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Tina invests some money in an account that earns simple interest at 3% per year. At the end of one year the investment is worth $2781. How much money did she invest?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Construct expressions, equations and formulas",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Round answers reasonably",
+      "Solve fractional equations with numerical and linear algebraic denominators"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Factorise 9x² - 64y².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The product of three numbers 4, x and (x + 3) is 55. Form an equation in x and solve it to find the possible values of x.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Given that (x-1)/3 - 5/(x+2) = 1 show that x² – 2x - 23 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Solve x² – 2x – 23 = 0. Give your answers correct to one decimal place.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q4",
+    "Question_text": "The entrance to a zoo has this sign above it.",
+    "image": "A stylized drawing of the word 'ZOO' in block letters, contained within an oval shape. The letter 'Z' is a polygon with vertices A, H, G, C, D, E, F. Dimensions are indicated on the Z: 10 units for the segment from G to C, and 10 units for the perpendicular distance between BC and GF. The letters 'OO' are represented by two concentric circles each. The image serves as the context for geometric calculations.",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions",
+      "Use and interpret geometrical terms: perpendicular",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes",
+      "Calculate lengths of similar shapes",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The letter Z has rotational symmetry order 2 and DE is perpendicular to FE and CD. CD = 35 cm, FE = 50cm, DE = 10cm and BC = 81 cm. The perpendicular distance between BC and GF is 10cm. Calculate the area of the letter Z.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The shaded area of one letter O is 1206cm². The radius of the unshaded inner circle is 15 cm. Calculate the radius of the outer circle.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The sign above the exit of the zoo is geometrically similar to the one above the entrance. The radius of the inner circle of the letter O on the sign above the exit is 10cm. The length of the base of the letter Z on the sign above the entrance is 50 cm. Calculate the length of the base of the letter Z on the sign above the exit.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The area of the sign above the entrance is A cm². The area of the sign above the exit is kA cm². Write down the value of k as a fraction in its simplest form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q5",
+    "Question_text": "A, B, C and D are points on the circumference of a circle, centre O. EF is the tangent to the circle at D and is parallel to BC. ABC = 86° and CDF = 58°.",
+    "image": "A circle with center O. Points A, B, C, D are on the circumference. Lines AB, AD, BD, BC, OC, OD, OB are drawn. A line EF is drawn tangent to the circle at point D. Angles ABC = 86° and CDF = 58° are marked. Point E is outside the circle, connected to A and D. Point F is outside the circle, connected to D.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Use and interpret vocabulary of a circle",
+      "Use and interpret geometrical terms: parallel",
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°",
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Use circle symmetry properties: equal chords equidistant from centre, perpendicular bisector of chord through centre, tangents from external point equal"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find ODC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why OĈB = 26°.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Find AÎC,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "ADE,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "AÔD,",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "BÂO.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q6",
+    "Question_text": "Triangle R has vertices (–2, -1), (2, 1) and (4, −1).",
+    "image": "A Cartesian coordinate plane showing the x-axis from -8 to 8 and y-axis from -6 to 6. A triangle labeled R is plotted with vertices at (-2, -1), (2, 1), and (4, -1). The region shaded on the graph is a quadrilateral bounded by the lines y = -1, x + y = 3, and the line segment connecting (-2, -1) to (2, 1), and the line segment connecting (2, 1) to (4, -1).",
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Use and interpret Cartesian coordinates in two dimensions",
+      "Calculate the gradient of a straight line from the coordinates of two points on it",
+      "List inequalities that define a given region",
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The gradients of the sides of triangle R are 0, -1 and k. Find k.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "One of the inequalities that defines the shaded region is x + y ≤ 3. Write down the other two inequalities that define this region.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Triangle R is mapped onto triangle P by a reflection in the line y = -2. Draw and label triangle P.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Triangle R is mapped onto triangle Q by a stretch where the invariant line is the y-axis. This transformation maps the vertex (2, 1) onto (4, 1). For this stretch, state the scale factor.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Find the coordinates of the vertex (4, –1) when it is transformed by this stretch.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Find the area of triangle Q.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q7",
+    "Question_text": "ABCDEF is a regular hexagon with centre O.",
+    "image": "A regular hexagon ABCDEF with its center O. The vertices are labeled clockwise from A to F. In part (b) of the question, a diagram shows the same hexagon, but with vectors 'a' from O to A and 'b' from O to B indicated. Points G on AB and H on BC are also marked, with G dividing AB in ratio 1:3 and H being the midpoint of BC. Arrows indicate the vector directions for a and b.",
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use and interpret vocabulary of polygons",
+      "Know and use angle properties of regular and irregular polygons",
+      "Recognise line symmetry and order of rotational symmetry in two dimensions",
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Represent vectors by directed line segments",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find AÔB.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why AO = BC.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "OA = a and OB = b. G is the point on AB such that AG : GB is 1 : 3. H is the midpoint of BC. Express, as simply as possible, in terms of a and b, AB.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "FB,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "OG,",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "OH,",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "GH.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q8",
+    "Question_text": "",
+    "image": "A diagram showing a quadrilateral JKLM. Side KL is labeled 7 cm and angle KLM is 72°. A sector of a circle, KLN, is drawn with center L and radius LN, where N is on LM. An arc from K to N is shown. The diagram also includes loci construction lines for parts (iii) and (iv).",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings",
+      "Use and interpret three-figure bearings",
+      "Use and interpret geometrical terms: bearing",
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Measure and draw lines and angles",
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Three towns, A, B and C, are located such that AB = 90km, BC = 100 km and AC = 85km. The bearing of B from A is 127°. Write down the bearing of A from B.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Of the three towns, A is the furthest north. Using a scale of 1 cm to 10km, construct a scale drawing to show the positions of the three towns.",
+        "image": "A vertical line with an arrow pointing upwards, labeled 'North', and a point A marked on it, indicating the starting point for the scale drawing."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Measure the bearing of B from C.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "JKLM is a quadrilateral with KL = 7 cm and KLM = 72°. N is the point on LM such that KLN is a sector of a circle, centre L. Calculate the area of the sector KLN.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the perimeter of the sector KLN.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "On the diagram, construct the locus of points inside the quadrilateral JKLM which are I 5 cm from JM, II equidistant from JK and KL.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The point P is inside JKLM, less than 5 cm from JM, nearer to KL than JK, less than 7 cm from L. Shade the region containing the possible positions of P.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q9",
+    "Question_text": "A group of 80 music students recorded the time each spent practising last week. The results are summarised in this table.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Classify and tabulate statistical data",
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Calculate estimate of mean for grouped discrete or continuous data",
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams",
+      "Calculate probability of single event"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate an estimate of the mean.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete the cumulative frequency table below.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "For this part of the question use the graph paper opposite. Using a scale of 1 cm to represent 10 minutes, draw a horizontal m-axis for 0 < m < 120. Using a scale of 2 cm to represent 10 students, draw a vertical axis for cumulative frequency from 0 to 80. Using your axes draw a smooth cumulative frequency curve to illustrate the information.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Use your graph to estimate the median,",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "the interquartile range,",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "the probability that a student, chosen at random, practised for more than 75 minutes.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q10",
+    "Question_text": "A cuboid has a square cross-section, shown shaded in the diagram. The length of the cuboid is x cm. The sum of the length of the cuboid and one of the sides of the square is 10cm.",
+    "image": "A 3D diagram of a cuboid. Its cross-section is shaded, indicating a square face. The length of the cuboid is labeled 'x'.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid",
+      "Construct expressions, equations and formulas",
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Recognise, sketch and interpret graphs of the following functions: cubic",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Use and interpret graphs in practical situations",
+      "Carry out calculations and solve problems involving surface area and volume of sphere"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Show that the volume of the cuboid, y cm³, is given by y = x³ – 20x² + 100x.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The table shows some values of x and the corresponding values of y for y = x³ – 20x² + 100x. Complete the table.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On the grid opposite, plot the graph of y = x³ – 20x² + 100x for 1≤x≤9.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use your graph to find the maximum volume of the cuboid,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the possible values of x when the volume of the cuboid is 120 cm³.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "[The volume of a sphere = (4/3)π r²] For this part of the question take π as 3. A sphere has a radius of (1/2)x cm. By drawing a suitable graph on the grid, estimate the value of x when the sphere and the cuboid have the same volume.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q11",
+    "Question_text": "A vertical mast, AB, is 15m tall and is attached to the top of a building at B. The top of the mast is attached to the roof of the building at E using a wire. ABE = 90° and BE = 11 m.",
+    "image": "A diagram illustrating a vertical mast AB, with point A at the top and B at the base, which is on top of a building. A wire connects A to E, a point on the roof of the building. The angle ABE is a right angle (90°). The length AB is 15. The length BE is 11. Point D is on the ground, connected to A and B with lines. Length AD is 60.5 and BD is 50. In part (b), an additional point F is shown on the roof, with a wire connecting A to F. Angles FBE = 75° and BEF = 55° are indicated, along with ABF = 90°.",
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Know and use Pythagoras' theorem",
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Carry out calculations involving angles of elevation and depression"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate AE.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "D is a point on the ground such that AD = 60.5m and BD = 50m. Calculate ADB.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The top of the mast is also attached to the roof of the building at F using a wire. FBE = 75°, BÊF = 55° and ABF = 90°. Calculate BÊE.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate FB.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the angle of depression of F from the top of the mast.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/2012/Q12",
+    "Question_text": "",
+    "image": "A distance-time travel graph. The x-axis represents 'Time of day' from 13:00 to 19:00. The y-axis represents 'Distance (km)' from home, ranging from 0 to 70 km. The graph shows a journey starting at 13:00 at 0km. It increases linearly to 60km by 14:00, stays at 60km until 16:30, then decreases linearly to 40km by 17:00, stays at 40km until 17:30, and then decreases linearly to 0km by 19:00.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms",
+      "Expand products of algebraic expressions",
+      "Solve linear equations in one unknown",
+      "Solve average speed problems",
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate with time units"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A = [[-3, 0], [-2, 2]] B = [[-1, 0], [1, -2]] Find A + 2B,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "A⁻¹.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Mark and Luke spend three days training for a cycling event. Mark cycles at an average speed of 24 km/h on the first two days and 26 km/h on the third day. Luke cycles at an average speed of 25 km/h on the first day, 24km/h on the second day and 27km/h on the third day. They each cycle for 1 hour on the first day and increase their cycling time by 1/2 hour each day. This information is represented by the matrices P and Q below. P = [[24, 24, 26], [25, 24, 27]] Q = [[1], [m], [n]] Find m and n.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find PQ.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the difference between the numbers in the matrix PQ and explain what this number represents.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The travel graph represents Sahid's journey to and from a football match. He travels from home straight to the football stadium and watches the match. On his way home he stops at a café. How many minutes does Sahid spend at the football stadium?",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "What is his speed, in kilometres per hour, on his journey to the football stadium?",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "What is the distance between the football stadium and the café?",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Between which two places does he travel the fastest?",
+        "image": null
+      }
+    ]
+  }
+]

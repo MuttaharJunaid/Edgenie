@@ -1,0 +1,471 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2013/Q1",
+    "Question_text": "Forces of 3 N and 4 N act as shown in the diagram. Which diagram shows the resultant R of these two forces?",
+    "image": "A diagram showing a 3 N force acting upwards and a 4 N force acting to the right from a common origin. The question asks to identify the correct resultant vector from four options (A, B, C, D) which are also diagrams showing 3 N and 4 N forces and a resultant R. Option A shows the resultant R incorrectly drawn as an open path. Option B shows the resultant R correctly drawn as the diagonal of the parallelogram formed by the two forces. Options C and D show the resultant R drawn incorrectly as a vector connecting the tips of the two force vectors in different directions.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q2",
+    "Question_text": "Before marking the finishing line on a running track, a groundsman measures out its 100 m length. Which instrument is the most appropriate for this purpose?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q3",
+    "Question_text": "The speed-time graph for a falling skydiver is shown below. As he falls, the skydiver spreads out his arms and legs and then opens his parachute. Which part of the graph shows the skydiver falling with terminal velocity?",
+    "image": "A speed-time graph with speed on the y-axis and time on the x-axis. The graph starts at speed 0 and time 0, increases sharply (labeled A), then the slope decreases (labeled B), then it sharply drops (labeled C) before becoming a horizontal line at a lower speed (labeled D).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q4",
+    "Question_text": "The diagram shows the speed-time graph of the motion of a car for four seconds. What is the distance travelled by the car in the four seconds?",
+    "image": "A speed-time graph with speed (m/s) on the y-axis (from 0 to 10) and time (s) on the x-axis (from 0 to 4). The graph shows the speed starting at 0 m/s at t=0, increasing linearly to 10 m/s at t=1s, remaining constant at 10 m/s until t=2s, and then decreasing linearly to 0 m/s at t=4s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q5",
+    "Question_text": "A car of mass 1500 kg travels along a horizontal road. It accelerates steadily from 10 m/s to 25 m/s in 5.0 s. What is the force needed to produce this acceleration?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Acceleration",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q6",
+    "Question_text": "Balanced forces are acting on a moving body. What happens to the direction of movement and to the speed of the body?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's First Law",
+      "Resultant Forces",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q7",
+    "Question_text": "A particle P is moving in a horizontal circle about O. P moves at constant speed. Which statement is true?",
+    "image": "A diagram showing a particle P moving in a horizontal circle around point O. An arrow indicates the direction of motion tangentially, and another arrow points from O to P.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q8",
+    "Question_text": "A measuring cylinder contains 20 cm³ of water. A stone is placed in the water and the water level rises to 38 cm³. What is the volume of the stone?",
+    "image": "Two diagrams showing measuring cylinders. The first one contains water up to the 20 cm³ mark. The second one contains water and a submerged stone, with the water level risen to the 38 cm³ mark.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q9",
+    "Question_text": "Which chair is the least stable if the child moves?",
+    "image": "Four diagrams of chairs with children sitting on them. Each chair and child's posture is slightly different, affecting the center of gravity and base of support to illustrate stability.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q10",
+    "Question_text": "The graph shows extension-load curves for four fibres. Which fibre is the hardest to stretch over the range of loads shown?",
+    "image": "A graph showing extension (y-axis) versus load (x-axis) for four different fibres, labeled A, B, C, D. All curves start from the origin. Curve A shows a large extension for small load, B shows moderate, C shows smaller, and D shows the smallest extension for the largest load range, indicating it is the stiffest.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q11",
+    "Question_text": "Four beakers contain the same liquid. At which point is the pressure greatest?",
+    "image": "Four diagrams of beakers, all containing the same liquid. Points A, B, C, D are marked at different depths within the liquid across the four beakers.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q12",
+    "Question_text": "An airtight container holds a fixed mass of gas. Its pressure and volume are measured on four occasions when the temperature is 20°C. The results are shown in the table. Three sets of readings are correct. Which set of readings is not correct?",
+    "image": "A table with two columns: 'pressure/kPa' and 'volume/cm³'. It shows four rows (A, B, C, D) with corresponding values: A (120, 36), B (100, 48), C (80, 60), D (60, 80).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q13",
+    "Question_text": "A swimmer dives into a very deep pool at high speed. He slows down as he moves towards the bottom of the pool. What is the overall energy transformation as the diver moves downwards through the water?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q14",
+    "Question_text": "A lorry of mass 10000 kg takes 5000 kg of sand to the top of a hill 50m high, unloads the sand and then returns to the bottom of the hill. The gravitational field strength is 10N/kg. What is the overall gain in potential energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q15",
+    "Question_text": "The diagram shows the energy transfer through a machine. The machine is 50% efficient. Which equation is correct?",
+    "image": "A block diagram showing 'input energy' going into a 'machine' box. From the machine box, two arrows emerge: 'useful output energy' and 'wasted energy'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q16",
+    "Question_text": "Two identical metal plates are painted, one matt (dull) white and the other matt black. These are placed at equal distances from a radiant heater as shown. The heater is turned on for five minutes. Which metal plate absorbs more energy and which plate emits more energy in this time?",
+    "image": "A diagram showing a radiant heater in the center. To its left is a 'matt white metal plate' and to its right is a 'matt black metal plate', both placed at equal distances from the heater.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q17",
+    "Question_text": "A liquid-in-glass thermometer contains mercury. Which physical property of the mercury varies with temperature, enabling the thermometer to operate?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q18",
+    "Question_text": "Thermal energy of 12000 J is supplied to a 2.0 kg mass of copper. The specific heat capacity of copper is 400 J/(kg°C). What is the rise in temperature?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q19",
+    "Question_text": "Using an electric kettle, 200 g of water at 100 °C is converted into steam at 100°C in 300 seconds. The specific latent heat of steam is 2250J/g. What is the average electrical power used?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q20",
+    "Question_text": "The diagram shows a fixed mass of gas in a cylinder fitted with a piston that can move easily. What is the change, if any, in the pressure and volume of the gas after it is heated?",
+    "image": "A diagram showing a cylinder with a fixed mass of gas and a movable piston at the top. An arrow labeled 'heat' points towards the bottom of the cylinder, indicating that heat is supplied to the gas.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q21",
+    "Question_text": "What happens to the molecules of a gas when the gas changes into a liquid?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q22",
+    "Question_text": "Energy can be transferred in many different ways. In which situation is energy transferred by wave motion?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q23",
+    "Question_text": "A wave has a frequency of 10 kHz. Which pair of values of its speed and wavelength is possible?",
+    "image": "A table showing two columns: 'speed m/s' and 'wavelength m', with four rows (A, B, C, D) of values.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q24",
+    "Question_text": "Which of the following travels as a longitudinal wave?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q25",
+    "Question_text": "Which characteristics describe an image formed by a vertical plane mirror?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q26",
+    "Question_text": "Which length is the focal length of the lens?",
+    "image": "A ray diagram showing a converging lens. Parallel rays of light enter from the left, pass through the lens, and converge at a point on the principal axis to the right of the lens. Distances are marked with labels A, B, C, D along the principal axis relative to the lens and the convergence point.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q27",
+    "Question_text": "What is a possible frequency of an ultrasound wave?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q28",
+    "Question_text": "A guitar string is made to vibrate. What makes the pitch of the note rise?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q29",
+    "Question_text": "The magnetic field around two bar magnets is shown. Which diagram represents the correct arrangement of magnetic poles?",
+    "image": "A diagram showing magnetic field lines around two parallel bar magnets. The field lines indicate an attraction between the adjacent poles of the two magnets.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q30",
+    "Question_text": "Which material is used to magnetically screen electrical equipment from unwanted magnetic fields?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q31",
+    "Question_text": "A student rubs a rod held in his hand. Which action causes the rod to gain a large electrostatic charge?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q32",
+    "Question_text": "A lightning flash carries 40 C of charge and lasts for 5.0 ms. What is the average current in the flash?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q33",
+    "Question_text": "The diagram shows the current-voltage graph of two filament lamps. Which statement is correct?",
+    "image": "A current-voltage graph with current on the y-axis and voltage on the x-axis. Two non-linear curves are shown, labeled 'lamp P' and 'lamp Q'. For any given voltage, the current for lamp P is higher than for lamp Q, indicating lower resistance for P.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q34",
+    "Question_text": "A circuit containing two lamps L₁ and L2 is connected as shown. A voltmeter measures the potential difference across the lamp L₁. The filament of lamp L₁ breaks. What happens to the readings of the ammeter and of the voltmeter?",
+    "image": "A circuit diagram showing a power supply, an ammeter (A) in series, and two lamps L1 and L2 connected in series with each other. A voltmeter (V) is connected in parallel across lamp L1.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q35",
+    "Question_text": "In the circuits P and Q below, resistors R₁, R₂ and R₃ have different resistances. In which circuit are the currents in the resistors equal and in which circuit are the potential differences across the resistors equal?",
+    "image": "Two circuit diagrams. Circuit P shows three resistors (R1, R2, R3) connected in series to a power supply. Circuit Q shows the same three resistors (R1, R2, R3) connected in parallel to a power supply.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q36",
+    "Question_text": "Five electrical appliances are connected to the same socket and there is a very large current. Why is this dangerous?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q37",
+    "Question_text": "A wire hangs between the poles of a magnet. When there is a current in the wire, in which direction does the wire move?",
+    "image": "A diagram showing a straight wire placed horizontally between the North (N) and South (S) poles of a magnet. The N pole is on the left and the S pole is on the right. An arrow labeled 'current in wire' indicates the current is flowing downwards. Four directional arrows A, B, C, D are shown in the plane perpendicular to the current, representing possible directions of motion for the wire.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q38",
+    "Question_text": "In a darkened room, a 1000Ω resistor and a light-dependent resistor (LDR) are connected in series with a 12V power supply. The curtains are opened and light falls on the LDR. What happens to the voltage across the LDR?",
+    "image": "A circuit diagram showing a 12V power supply connected in series with a 1000 Ω resistor and a Light Dependent Resistor (LDR). Light arrows are shown pointing at the LDR symbol.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q39",
+    "Question_text": "The count rate from a radioactive source falls from 4000 counts per minute to 500 counts per minute in 72 minutes. What is the half-life of the source?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q40",
+    "Question_text": "In the Geiger-Marsden experiment, a beam of alpha-particles is fired at a thin sheet of gold in a vacuum. The majority of the alpha-particles pass straight through the sheet without being deflected. What does this show?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

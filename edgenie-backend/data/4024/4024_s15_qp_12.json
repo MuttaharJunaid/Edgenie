@@ -1,0 +1,618 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Evaluate 1 3. . + 2 9 / 0 2. .",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Evaluate 24/1 * 1/5",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Write these numbers in order of size, starting with the smallest. 13/20, 0.7, 7/12, 0.64, 5/8",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "The diagram shows a trapezium with lengths in centimetres. The area of the trapezium is 120cm². Find the value of b.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "A bag contains red counters, blue counters and yellow counters. There are 60 counters in the bag. The probability that a counter taken at random from the bag is red is 2/5. The probability that a counter taken at random from the bag is blue is 5/12. How many yellow counters are in the bag?",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Fariza travels from London to Astana. The time in Astana is 5 hours ahead of the time in London, so when it is 1000 in London the local time in Astana is 1500. She flies from London to Moscow and then from Moscow to Astana. The flight leaves London at 1225 and takes 4 hours to reach Moscow. Fariza waits 4 1/2 hours in Moscow for the flight to Astana. She arrives in Astana at 0525 local time. How long did the flight from Moscow to Astana take?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "By writing each number correct to one significant figure, estimate the value of 29.3^2 / (2.04 × 0.874)",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "y is inversely proportional to the square of x. Given that y = 24 when x = 2, find y when x = 8.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "The Venn diagram shows the sets A, B and C. List the elements of AUB,",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "The Venn diagram shows the sets A, B and C. List the elements of B' ∩ C.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Write 0.00000521 in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Giving your answer in standard form, evaluate (6×107) × (5 × 10¯³)",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "These two triangles are congruent. The lengths are in centimetres, correct to the nearest 0.1 cm. Find p and q.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "The diagram shows the line y = 2x + 1 . The point P has coordinates (a, b) where a and b are both positive integers. The values of a and b satisfy the inequalities a < 2, b <7 and b > 2a + 1 . Write down all the possible coordinates of P.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "Omar has a pack of number cards. He picks these five cards. -2, -4, -2, 4, 1 Write down the mode of the five numbers.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Omar has a pack of number cards. He picks these five cards. -2, -4, -2, 4, 1 He takes another card from the pack. If the mean of the six numbers is −1, what number did he pick?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12bii",
+    "Question_text": "Omar has a pack of number cards. He picks these five cards. -2, -4, -2, 4, 1 He takes another card from the pack. If the difference between the highest and lowest of the six numbers is 12, what are the two possible numbers he could have picked?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13a",
+    "Question_text": "Express 60 as a product of its prime factors.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify prime numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13b",
+    "Question_text": "Find the smallest possible integer m such that 60m is a square number.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify square numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13c",
+    "Question_text": "The lowest number that is a multiple of both 60 and the integer n is 180 . Find the smallest possible value of n.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify common multiples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14a",
+    "Question_text": "In triangle ABC, AB = 5cm and AC = 6cm. Construct triangle ABC. Line BC is drawn for you.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14b",
+    "Question_text": "In triangle ABC, AB = 5cm and AC = 6cm. Measure BAC in your triangle.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15a",
+    "Question_text": "c = √8a-3b Find c when a = 3 and b=-4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15b",
+    "Question_text": "Rearrange the formula to make b the subject. c = √8a-3b",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16a",
+    "Question_text": "Evaluate 2° +23",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand zero indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16aii",
+    "Question_text": "Evaluate (1/9)^(-1/2)",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand fractional indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b",
+    "Question_text": "Simplify (4x^2)^-2.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17a",
+    "Question_text": "The matrix (4 0/0 1) represents the transformation T. Describe fully the transformation T.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17b",
+    "Question_text": "The matrix (4 0/0 1) represents the transformation T. The transformation T maps triangle A onto triangle B. The area of triangle B is x cm². Find, in terms of x, the area of triangle A.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18a",
+    "Question_text": "Factorise completely p^2q - pq.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18bi",
+    "Question_text": "Factorise 5x^2 + x – 4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax² + bx + c"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18bii",
+    "Question_text": "Hence solve 5x^2 + x – 4 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19a",
+    "Question_text": "Luis works in an office. For normal time he is paid $8 per hour. For overtime he is paid the same rate as normal time plus an extra 50%. One month he works 140 hours normal time and 10 hours overtime. Work out how much he is paid for that month’s work.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b",
+    "Question_text": "Sara invests $240 in an account that pays 3% per year simple interest. She leaves the money in the account for 5 years. Work out how much money Sara has at the end of 5 years.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate simple interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20ai",
+    "Question_text": "The times taken for 200 people to complete a 5km race were recorded. The results are summarised in the cumulative frequency diagram. Use the diagram to estimate the median time,",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20aii",
+    "Question_text": "The times taken for 200 people to complete a 5km race were recorded. The results are summarised in the cumulative frequency diagram. Use the diagram to estimate the interquartile range of the times.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20b",
+    "Question_text": "The times taken for 200 people to complete a 5km race were recorded. The results are summarised in the cumulative frequency diagram. It was found that the recording of the times was inaccurate. The correct times were all one minute more than recorded. Write down the median and interquartile range of the correct times.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21a",
+    "Question_text": "Express as a single matrix 1/3 (3 -2/-1 5) * (4 0/2 -1).",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21bi",
+    "Question_text": "A = (3 -2/p -1) The determinant of A is 2. Find p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21bii",
+    "Question_text": "A = (3 -2/p -1) The determinant of A is 2. Find A-1.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22a",
+    "Question_text": "The scale of a map is 1 : 25000. The scale can be written as 1 cm : dkm . Find d.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22b",
+    "Question_text": "The distance between two villages is 8km. Find the distance, in centimetres, between the two villages on the map.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22c",
+    "Question_text": "The distance between the peaks of two mountains is measured on the map as 76mm. Calculate the distance, in kilometres, between the two peaks.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23a",
+    "Question_text": "Solve the inequalities. -4 <= 2x-5 < 7",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23b",
+    "Question_text": "Solve the simultaneous equations. 3x + 4y = 3, 2x - y = 13",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24a",
+    "Question_text": "[Volume of a cone = 1/3 πr²h, curved surface area of a cone = πrl] [Volume of a sphere = 4/3 πr³, surface area of a sphere = 4πr²] The solid is formed from a hemisphere of radius rcm fixed to a cone of radius rcm and height hcm. The volume of the hemisphere is one third of the volume of the solid. Find h in terms of r.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24b",
+    "Question_text": "[Volume of a cone = 1/3 πr²h, curved surface area of a cone = πrl] [Volume of a sphere = 4/3 πr³, surface area of a sphere = 4πr²] The solid is formed from a hemisphere of radius rcm fixed to a cone of radius rcm and height hcm. The volume of the hemisphere is one third of the volume of the solid. The slant height of the cone can be written as r√k cm, where k is an integer. Find the value of k.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24c",
+    "Question_text": "[Volume of a cone = 1/3 πr²h, curved surface area of a cone = πrl] [Volume of a sphere = 4/3 πr³, surface area of a sphere = 4πr²] The solid is formed from a hemisphere of radius rcm fixed to a cone of radius rcm and height hcm. The volume of the hemisphere is one third of the volume of the solid. Find an expression, in terms of r and π, for the total surface area, in cm², of the solid.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25a",
+    "Question_text": "In the diagram, A is the midpoint of OC and B is the point on OD where OB = 1/3 OD. OA = a and OB = b. Express, as simply as possible, in terms of a and b AB,",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25aii",
+    "Question_text": "In the diagram, A is the midpoint of OC and B is the point on OD where OB = 1/3 OD. OA = a and OB = b. Express, as simply as possible, in terms of a and b CD.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25bi",
+    "Question_text": "In the diagram, A is the midpoint of OC and B is the point on OD where OB = 1/3 OD. OA = a and OB = b. E is the point on CD where CE : ED = 1 : 2 . Express BE, as simply as possible, in terms of a and/or b.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25bii",
+    "Question_text": "In the diagram, A is the midpoint of OC and B is the point on OD where OB = 1/3 OD. OA = a and OB = b. E is the point on CD where CE : ED = 1 : 2 . What special type of quadrilateral is ABЕС?",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26ai",
+    "Question_text": "The first four terms of a sequence, S, are 89, 83, 77, 71. Find an expression for Sₙ, the nth term of this sequence.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26aii",
+    "Question_text": "The first four terms of a sequence, S, are 89, 83, 77, 71. Find the smallest value of n for which Sₙ < 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26bi",
+    "Question_text": "The nth term of a different sequence, T, is given by Tₙ = n² - 4n . Find and simplify an expression for Tₙ₊₁ - Tₙ .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26bii",
+    "Question_text": "The nth term of a different sequence, T, is given by Tₙ = n² - 4n . The difference between Tₚ₊₁ and Tₚ is 75. Find the value of p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  }
+]

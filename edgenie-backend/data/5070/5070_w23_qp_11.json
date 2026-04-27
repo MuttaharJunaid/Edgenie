@@ -1,0 +1,460 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "In which changes do the particles move further apart? 1 A gas is heated from 0°C to 25 °C. 2 Pressure is applied to a gas at a constant temperature. 3 Steam condenses to form water. 4 Water evaporates at room temperature.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Changes of state in kinetic particle theory"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Data about two compounds is given. Both compounds have a simple molecular structure. compound melting point /°C boiling point /°C H2S -85 -61 PC13 -112 76 Two bottles are placed, close together, inside a large container at a temperature of 90 °C. One bottle contains 1.0 g of H2S, the other bottle contains 1.0 g of PCl3. A detector is placed in the container 2.0m away from the two bottles. The two bottles are opened at the same time. Which row is correct? compound that reaches detector first explanation gases diffuse faster than liquids H2S has a lower Mr than PCl3 gases diffuse faster than liquids PCl3 has a lower Mr than H2S",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.2 Diffusion",
+    "Sub_topic": [
+      "Effect of molecular mass on diffusion rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Substances can be elements, compounds or mixtures. Which row is correct? element compound mixture",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.1 Elements, compounds and mixtures",
+    "Sub_topic": [
+      "Differences between elements, compounds and mixtures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "The letters X, Y and Z represent different atoms. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure",
+      "Proton number / atomic number",
+      "Mass number / nucleon number"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A student makes three statements. 1 Calcium ions have a 2+ charge and oxide ions have a 2- charge. 2 Magnesium ions and oxide ions have the same electronic configuration as neon. 3 Calcium ions have three full electron shells and magnesium ions have two full electron shells.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Four statements about graphite, diamond and silicon(IV) oxide are listed. 1 Diamond and silicon(IV) oxide are both very hard and have similar structures. 2 In diamond, each carbon atom is joined to four other carbon atoms. 3 Silicon(IV) oxide forms a giant structure of silicon and oxygen atoms. 4 Diamond and graphite both conduct electricity because they are both forms of carbon.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide",
+      "Similarity between diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Which row is correct? compound molecular formula",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formulae of elements and compounds",
+      "Molecular formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Compound Y is the only substance formed when 500 cm³ of ammonia reacts with 250 cm³ of carbon dioxide. All measurements are at r.t.p. What is the formula of Y?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "How many sodium ions are there in 30 g of sodium sulfate?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant",
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Three compounds are listed. copper(II) nitrate, Cu(NO3)2 zinc sulfate, ZnSO4 sodium thiosulfate, Na2S2O3 Which row shows the element that is present in the greatest percentage by mass in each compound?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "The complete combustion of 20 cm³ of a gaseous alkane, X, requires 130 cm³ of oxygen. Both volumes are measured at r.t.p. What could be the identity of X?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume",
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Aqueous copper(II) sulfate is electrolysed with copper electrodes. What is the equation for the reaction occurring at the anode?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products at cathode and anode"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Three statements about fuel cells are given. 1 A hydrogen-oxygen fuel cell requires a continuous input of fuel and oxygen. 2 In a hydrogen-oxygen fuel cell, hydrogen is burned in oxygen to produce electricity. 3 When a hydrogen-oxygen fuel cell is operating, water is the only chemical product.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.2 Hydrogen–oxygen fuel cells",
+    "Sub_topic": [
+      "Hydrogen–oxygen fuel cell"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Under certain conditions, nitrogen reacts with oxygen to form N2O. The reaction pathway diagram is shown.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Reaction pathway diagrams",
+      "Activation energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Hydrogen and bromine react to form hydrogen bromide. Bond energy data is given in the table. What is the enthalpy change, ∆H, for this reaction?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Bond breaking and making",
+      "Enthalpy change using bond energies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Octane, C8H18, is a hydrocarbon. When octane is mixed with an excess of oxygen, no change takes place unless energy is supplied. If energy is supplied, in the form of heat or an electric spark, a change takes place quickly. The products of this change include carbon dioxide. Which part of this description shows that the change is a chemical change?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.1 Physical and chemical changes",
+    "Sub_topic": [
+      "Physical and chemical changes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "A student plans to investigate how the rate of the reaction changes when hydrochloric acid and calcium carbonate react. Which methods could be used to measure how the rate of reaction changes?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Practical methods for rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Aqueous bromine is an equilibrium mixture. Aqueous bromine is orange in colour. The species on the right-hand side of the equation are colourless. Changes are made to three separate portions of the equilibrium mixture. Which row shows how the colour of the mixture changes when a small amount of each substance is added?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Changing direction in reversible reactions",
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "In which substance does the nitrogen atom have the same oxidation number as the nitrogen atom in HNO2?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidation number",
+      "Identifying redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Limewater is aqueous calcium hydroxide. Which statement about limewater is correct?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which two oxides will both react with aqueous sodium hydroxide?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Classifying oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "A solution of sodium carbonate is added to tap water. A white precipitate forms. Which ion present in the tap water causes the precipitate to form?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "The characteristic properties of elements change from left to right across Period 2 of the Periodic Table. On the left of the period, the charge on the ion formed by an element is: 1 the same as the group number 2 negative.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Metallic to non-metallic change",
+      "Group number and ion charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Which statement about the Group VII halogens is correct?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Group VII trends",
+      "Appearance of halogens",
+      "Displacement reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "A power cable requires an element that: 1 conducts electricity 2 has a relatively low density 3 is ductile. Which of these properties does aluminium have?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which diagram represents the structure of an alloy?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.3 Alloys and their properties",
+    "Sub_topic": [
+      "Alloy definition",
+      "Representations of alloys"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Most metals react with oxygen in the air to form a metal oxide. Which metal forms a metal oxide layer that reduces its apparent reactivity?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Unreactivity of aluminium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Which statement about corrosion of metals is correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Barrier methods",
+      "Sacrificial protection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Some metals and the compounds in their ores are shown. Which type of reaction occurs in the extraction of each of these metals from its ore?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Ease of extraction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Which statement about natural sources of water and the domestic water supply is correct?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Gases that may be present in the air are listed. Which gases are atmospheric pollutants?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Sources of air pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Which compounds are in the same homologous series?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Homologous series characteristics"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "The diagrams show four structures of C4H8. Which structures represent the same molecule?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural isomers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "The displayed formulae of two organic compounds are shown. What are the names of these compounds?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing unbranched compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "Two products of the separation of petroleum are the lubricating oil fraction and the kerosene/paraffin fraction. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fractional distillation",
+      "Properties of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "An incomplete equation for the reaction of propane with chlorine is shown. A student writes three statements about this reaction. Which statements are correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Substitution reaction",
+      "Substitution with chlorine"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "Glycerol is an alcohol with three -OH groups per molecule. What is the equation for the combustion of glycerol?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Combustion of alcohols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "Compound X decolourises acidified aqueous potassium manganate(VII). Compound X has the empirical formula C2H5O. Some possible structures of X are shown. Which structures could be correct for compound X?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Test for unsaturation",
+      "Addition reactions of alkenes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "A student does two experiments. Which row correctly shows the colour of both pieces of litmus paper at the end of each experiment?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  }
+]

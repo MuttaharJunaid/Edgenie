@@ -1,0 +1,375 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Evaluate 4/5 - 2/3",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Evaluate 2.7x0.2",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Find the fraction which lies exactly halfway between 3/5 and 5/7.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use proper fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Factorise 12t^2-4t",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Factorise a(x-y)+b(y-x)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Factorise x^2-2x-3",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax² + bx + c"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Write these lengths in order of size, starting with the smallest. 0.043km, 433cm, 4340mm, 4 1/4m",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Sandra buys a vase for $40 and sells it for $200. Calculate her percentage profit.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "These are the minimum temperatures, in °C, recorded by a weather station each day during one week. -2.3 -4.6 -1.2 -0.7 -1.4 -2.4 -3.5. Find the range of these temperatures.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "How many of these temperatures are between -4°C and -2°C?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.1 Classifying statistical data",
+    "Sub_topic": [
+      "Classify and tabulate statistical data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "By writing each number correct to 1 significant figure, estimate the value of 6.044^2 / (212 x 0.304)",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "In the diagram, the time on the clock is 2.30pm. Calculate the reflex angle between the two hands of the clock.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Read clocks and timetables"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Simplify 3(3a-4)+2(2-a)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms",
+      "Expand products of algebraic expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Given that 4x = 3y, find the numerical value of (8x + y) / y",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Solve the simultaneous equations: 3x-2y=12, 4x+y=5",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "Express 340000 in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "Evaluate (4 x 10^7) / (8 x 10^-1), giving your answer in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11c",
+    "Question_text": "7 x 10^0 - 3 x 10^-1 = k x 10^0. Find k.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand zero indices",
+      "Understand negative indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "Simplify (2x^2)^3",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Simplify 6t^3 / (1/3 t^2)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13a",
+    "Question_text": "P = {1, 2, 3, 4, 5, 6, 7, 8}, Q = {1, 3, 5, 7, 9, 11}. Find n(P U Q)",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13b",
+    "Question_text": "p \\in A \\cap B, q \\in (A \\cup B)', r \\in A \\cap B'. On the Venn diagram below, write each of the letters p, q and r in its appropriate subset.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "This net is folded to make a triangular prism. (a) Which vertices join with A? (b) Which edge joins with DE? (c) FH = 2cm, GH = 2 cm and JH = 5 cm. Find the volume of the triangular prism.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Draw, use and interpret nets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Two bags contain beads. The first bag contains 7 beads, of which 3 are red and 4 are white. The second bag contains 5 beads, of which 2 are red and 3 are blue. One bead is taken, at random, from each bag. The tree diagram is shown below. (a) both beads are red, (b) both beads are white, (c) exactly one bead is red.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "The heights of a sample of plants were measured. The results are shown in the table and in the histogram. Height (h cm) 5<h<10 10<h<15 15 <h<25 25 <h≤ 40 Frequency 15 25 p 30. (a) Use the histogram to find the value of p. (b) Complete the histogram.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The diagram shows the positions of three boats A, B and C. (a) By measurement, find the bearing of B from A. (b) CX is the bisector of angle ACB. (i) Using compasses and a straight edge only, construct the locus of points inside triangle ABC that are equidistant from B and C. (ii) A ship is • nearer to AC than to BC and • nearer to C than to B. Shade the region in which this ship is situated.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "The diagram is the distance-time graph of Safira's journey from home to a shop and back again. She leaves home at 08 15 and returns at 08 50. (a) How many minutes does she stay in the shop? (b) At 0830, her brother leaves home and goes to the shop. He walks at the same speed as Safira. (i) On the grid, draw the graph of his journey to the shop. (ii) How far is he from the shop when he meets Safira? (c) Calculate the speed Safira walks to the shop. Give your answer in km/h.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Triangle A, triangle B and the point P (–2, 2) are drawn on the grid. (a) (i) Describe, fully, the single transformation that maps triangle A onto triangle B. (ii) Write down the matrix that represents this transformation. (b) Triangle A is mapped onto triangle C by an enlargement, centre P, scale factor 1/2. On the grid, draw and label triangle C.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor",
+      "Recognise, describe and draw translation of shape by vector"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "The diagram shows a sequence of patterns. Each pattern has one more row, and two more dots in each row, than the pattern before it. (a) On the diagram, draw Pattern 4. (b) (i) Complete the table for the first four patterns in this sequence. (ii) Find an expression, in terms of n, for p. (iii) Find an expression, in terms of n, for q. (iv) Find an expression, in terms of n, for the total number of dots in Pattern n.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "The diagram shows a triangle formed by joining the points A (1, 2), B (13, 2) and C (4, 8). The equation of the line BC is 2x+3y = 32. (a) The region inside triangle ABC is defined by three inequalities. One of these is 2x+3y <32. Write down the other two inequalities. (b) The point (k, 7), where k is an integer, lies inside triangle ABC. Find the possible values of k.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "In the diagram, A, B, C, D and E lie on the circle, centre O. AOB = 48°, DEB = 54°. (a) Find x. (b) Find y. (c) Find z.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "In the diagram, the circles with centres O and Q touch at P where OPQ is a straight line. The line ORT intersects the smaller circle at R and is a tangent to the larger circle at T. OR = 4 cm and RT = 6 cm. The radius of the larger circle is x cm. Calculate the value of x.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret vocabulary of a circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "A = (2 1; -3 -2). (a) Find A^2 (b) The matrix X satisfies the equation X (2 1; -3 -2) = (1 0). Find X.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,491 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q1",
+    "Question_text": "A heavy nail is fixed firmly to a wall. It is pulled by a string at 40° to the vertical. The nail does not move. Three forces act on the nail: its weight W, the tension T in the string, the force R exerted by the wall. Which diagram, drawn to scale, represents the three forces?",
+    "image": "A diagram showing a nail pulled by a string at 40 degrees to the vertical. Below this, there are four force diagrams (A, B, C, D) each showing three forces W (weight, downwards), T (tension, along the string at 40 degrees to vertical), and R (reaction force from the wall) as vectors. The forces are arranged as a triangle, representing equilibrium if closed. The diagrams differ in the relative directions and magnitudes of R, W, and T.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Scalars & Vectors",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q2",
+    "Question_text": "A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q3",
+    "Question_text": "The speed-time graph for a car's journey is shown. During which part of the journey is the car moving with non-uniform acceleration?",
+    "image": "A speed-time graph showing speed on the y-axis and time on the x-axis. The graph has four segments labeled A, B, C, D. Segment A shows increasing speed with a constant positive gradient (uniform acceleration). Segment B shows increasing speed with a decreasing positive gradient (decreasing acceleration). Segment C shows decreasing speed with a constant negative gradient (uniform deceleration). Segment D shows a constant speed (zero acceleration).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q4",
+    "Question_text": "A car is travelling forwards at high speed. The brakes are applied and the car skids along the road surface. In which direction and where does the friction force act?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q5",
+    "Question_text": "A car of mass 800 kg has a forward acceleration of 2.5 m/s². A frictional force of 1200 N opposes the motion of the car. What is the driving force due to the engine of the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q6",
+    "Question_text": "A satellite orbits a planet in a circular path as shown. It has constant speed. There is a force on the planet due to the satellite. In which direction is the force on the planet?",
+    "image": "A diagram showing a planet at the center and a satellite orbiting it in a circular path. The satellite is depicted at the top-right position. Points A, B, C, D are marked as arrows originating from the planet's center, pointing outwards. Point B points towards the satellite's current position.",
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "Gravitational Effects on Orbits",
+      "Orbiting Bodies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q7",
+    "Question_text": "A block is hung on a spring balance. The marker inside the balance is pulled down by the block. What can the position of the marker be used to determine?",
+    "image": "A diagram of a spring balance with a block hanging from its hook. The balance has a scale marked from 0 to 10.0 in increments of 1.0, and a marker pointing to approximately 3.5. The units on the scale are not explicitly given but are implicitly Newtons for weight measurement.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q8",
+    "Question_text": "There is an astronaut on a planet which has a gravitational field strength one fifth of the value on Earth. He hangs samples of rock from a spring balance designed for use on Earth. Each sample has a mass of 0.1 kg. The spring balance reads 1.0 kg. How many samples of rock are there?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q9",
+    "Question_text": "An electrically charged plastic ball is at rest. Which types of field are caused by the ball?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electric Fields",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q10",
+    "Question_text": "Which list contains only quantities that can be changed by a force?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Hooke's Law",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q11",
+    "Question_text": "An extension-load graph is plotted for a spring. Which point marks the limit of proportionality for this spring?",
+    "image": "An extension-load graph with extension on the y-axis and load on the x-axis. The graph shows a linear region from the origin up to point A, where the gradient starts to decrease slightly. The curve continues through points B and C, becoming progressively less steep, indicating non-linear elastic deformation. Point D is at a much higher load and extension, beyond the elastic limit.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q12",
+    "Question_text": "The diagram shows a diver 20m below the surface of a lake. The total pressure at this depth is 3.0 x 10⁵ Pa. An air bubble has a volume of 0.60 cm³ as it leaves the diver. It rises to the surface of the lake where the pressure is 1.0 × 10⁵ Pa. The temperature of the air in the bubble remains constant. What is the volume of the air bubble at the surface of the lake?",
+    "image": "A diagram showing a diver 20m below the surface of a lake. An air bubble is shown leaving the diver. The diagram is labeled 'surface of lake', 'diver', and 'air bubble', and a note indicates '(not to scale)'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q13",
+    "Question_text": "A ball is dropped from a height as shown. Ignoring the effects of air resistance, which statement about the total energy of the ball is correct?",
+    "image": "A diagram showing a ball at three different points (1, 2, 3) as it falls downwards. Point 1 is the highest, point 2 is in the middle, and point 3 is the lowest, just before hitting the ground. An arrow indicates the downward motion.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Conservation of Energy",
+      "Kinetic Energy",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q14",
+    "Question_text": "A student uses an average force of F to push a box a distance of d across a horizontal table. The mass of the box is m and the gravitational field strength is g. How is the work done by the student pushing the box calculated?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q15",
+    "Question_text": "A workman rolls a barrel of weight 2000 N up a plank of length 2.0 m and onto a lorry. The back of the lorry is 0.80 m above the horizontal surface of the road. What is the work done on the barrel against gravity?",
+    "image": "A diagram showing a lorry with its back raised, forming a ramp. A barrel is being rolled up a plank (ramp) onto the lorry. The length of the plank is 2.0 m, and the height of the lorry back is 0.80 m above the ground.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q16",
+    "Question_text": "What is power?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Work",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q17",
+    "Question_text": "The diagram shows a glass tube filled with water and suspended above a bench. The water is free to circulate around the tube. At point P, there is a convection current moving in a downwards direction. At which point is the tube heated to cause this convection current?",
+    "image": "A diagram of a rectangular glass tube (labeled 'glass tube') filled with water (labeled 'water'), suspended by a clamp above a bench. The tube has four points labeled A, B, C, D. A is at the bottom left, B at the top left, C at the top right, and D at the bottom right. Point P is located at the bottom right vertical section. Arrows indicate water flowing downwards at P.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q18",
+    "Question_text": "Which physical property cannot be used for the measurement of temperature?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Temperature & Pressure",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q19",
+    "Question_text": "A student performs an experiment to find out how much energy is needed to change the temperature of a steel nail by 1.0 °C. Which quantity is the student determining?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q20",
+    "Question_text": "A substance has a melting point of –17 °C and a boiling point of 117°C. In which state does the substance exist at –10 °C and at 110°C?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q21",
+    "Question_text": "Which description of a liquid is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q22",
+    "Question_text": "A mass of gas is trapped inside a cylinder by a moving piston. As the piston moves in, the volume of the gas decreases but the temperature stays the same. What happens to the gas pressure, and why?",
+    "image": "A diagram showing a cylinder with a gas trapped inside by a moving piston. The piston is labeled 'moving piston', and the gas inside is labeled 'gas'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q23",
+    "Question_text": "A plane mirror on a vertical wall forms an image of an object placed in front of it. Which characteristics describe the image?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q24",
+    "Question_text": "Which statement about light passing from air to glass is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q25",
+    "Question_text": "Applications use different components of the electromagnetic spectrum. Which shows correct applications for X-rays, ultraviolet light and microwaves?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q26",
+    "Question_text": "Where does sound travel the fastest?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q27",
+    "Question_text": "A scientific research boat uses pulses of ultrasound to detect fish underneath it. A pulse of ultrasound is bounced from a group of fish 6000 m directly below the boat. The next pulse is sent out 2.0 s after the echo from the previous pulse has been received. The speed of ultrasound in water is 1500 m/s. What is the interval between the two pulses?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q28",
+    "Question_text": "Which row correctly describes ultrasound?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Sound Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q29",
+    "Question_text": "What is stored in a battery and what is its unit?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q30",
+    "Question_text": "A car battery delivers 150 kC to a circuit before it needs recharging. Two headlamps connected in parallel to the battery are switched on. There is a current of 4.0 A in each lamp. How much time passes before the battery needs recharging?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Electrical Charge",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q31",
+    "Question_text": "Three identical lamps and three ammeters are connected as shown. The readings on the ammeters are I₁, I₂ and I₃. How are the readings related?",
+    "image": "A circuit diagram showing a battery connected to three ammeters (I₁, I₂, I₃) and three identical lamps. Ammeter I₁ measures the total current from the battery. The circuit then splits into two parallel branches. Ammeter I₂ is in series with one lamp in the top branch, and ammeter I₃ is in series with another lamp in the bottom branch. The third lamp appears to be in the main circuit before I1, or implied to be part of the total load.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q32",
+    "Question_text": "A thermistor and a light-dependent resistor (LDR) are connected in series. A potential difference (p.d.) of 6.0 V is applied across them as shown. The thermistor has a resistance of 6000 Ω in a cold room and 1000 Ω in a warm room. The LDR has a resistance of 2000 Ω in dim light and 500 Ω in bright light. When is the p.d. across the LDR equal to 2.0 V?",
+    "image": "A circuit diagram showing a 6.0 V power supply connected in series to a thermistor (symbol for thermistor) and an LDR (symbol for LDR). The output voltage is measured across the LDR.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Combined Resistance",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q33",
+    "Question_text": "A 240V mains circuit contains eight 60W lamps in parallel. At the time when the lamps are switched on, the filaments are cold and the current is four times as large as the final steady current in the circuit. What is the initial current supplied by the mains?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q34",
+    "Question_text": "What is used with a magnet to create an induced electromotive force (e.m.f.) in a simple a.c. generator?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q35",
+    "Question_text": "What changes kinetic (movement) energy into electrical energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Energy from Wind",
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q36",
+    "Question_text": "A transformer has 4800 turns on its primary coil and 480 turns on its secondary coil. The primary coil is connected to a 240 V a.c. supply. The secondary coil is connected to a lamp. How does the output current in the lamp compare with the input current?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q37",
+    "Question_text": "A cathode-ray oscilloscope with the Y-gain set at 2 V/division is connected to a generator. Which row describes the signal from the generator and its amplitude?",
+    "image": "A diagram of a Cathode Ray Oscilloscope (CRO) screen displaying a sinusoidal wave. The screen has a grid, and the Y-gain setting is given as 2 V/division. The peak of the wave extends 1.5 divisions from the central horizontal line.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q38",
+    "Question_text": "A potential divider uses a power supply of voltage 12 V. The resistors X and Y initially have equal resistances. The resistance of X is halved. What is the change in the output voltage?",
+    "image": "A circuit diagram showing a 12 V power supply connected to a potential divider consisting of two resistors, X and Y, in series. The output voltage is measured across resistor Y.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Combined Resistance",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q39",
+    "Question_text": "What is the definition of the half-life of a radioactive element?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2020/Q40",
+    "Question_text": "Which row shows the atomic structure of a neutral atom with a nucleon number of 9?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

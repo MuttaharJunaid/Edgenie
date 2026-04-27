@@ -1,0 +1,435 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "The price of an electric drill is $78. In a sale, the price is reduced by 15%. Calculate the sale price.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "The exchange rate between dollars ($) and euros (€) is $1 = €0.85. Michael changes $100 to euros. He buys a clock costing €58.99. He changes the remaining money back to dollars. Calculate the amount, in dollars, he has left.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies",
+      "Calculate with money"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Pietro invests $3500 in the Ace Simple account for 4 years. Eliana invests $3500 in the Cool Compound account for 4 years. At the end of the 4 years, who has more money in their account and by how much?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate simple interest",
+      "Calculate compound interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Complete the scatter diagram.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw and interpret scatter diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Describe the relationship between the midday temperature and the number of cups of hot chocolate Natcha sells.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Understand positive, negative and zero correlation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "By drawing a line of best fit, estimate the number of cups of hot chocolate sold when the midday temperature is 17°C.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Simplify 4a-b+6b-7a.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Solve m/2 - 4 = 5",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Rearrange u = (t+4)/3 to make t the subject.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "Expand 3y(2y² + 5).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Expand products of algebraic expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Find the mode.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Calculate the mean.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c",
+    "Question_text": "One of these adults is chosen at random. Find the probability that they received fewer than 4 emails that day.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d",
+    "Question_text": "The town has 18000 adults. Use the survey results to estimate the number of adults in the town who received exactly 5 emails that day.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.2 Relative and expected frequencies",
+    "Sub_topic": [
+      "Calculate expected frequencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Use set notation to describe the subset shaded in the Venn diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Complete the Venn diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5bii",
+    "Question_text": "List the elements of P∩(Q∪R)'.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5biii",
+    "Question_text": "Find n(P∪Q).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5biv",
+    "Question_text": "Use set notation to complete the statement.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "Find the coordinates for one possible position of R.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.1 Coordinates",
+    "Sub_topic": [
+      "Use and interpret Cartesian coordinates in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Here are the equations of five curves. Sketches of three of these curves are drawn below. Write the correct equation underneath each sketch.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.11 Sketching curves",
+    "Sub_topic": [
+      "Recognise, sketch and interpret graphs of the following functions: (a) linear",
+      "Recognise, sketch and interpret graphs of the following functions: (b) quadratic",
+      "Recognise, sketch and interpret graphs of the following functions: (c) cubic"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c",
+    "Question_text": "A is the point (-1, -5) and B is the point (3, 3). Find the equation of the line perpendicular to AB which passes through the midpoint of AB.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.7 Perpendicular lines",
+    "Sub_topic": [
+      "Find the gradient and equation of a straight line perpendicular to a given line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "A rectangular field measures 30 m by 45 m.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "The diagram shows a sketch of triangle PQR. All lengths are given in centimetres. Calculate the length a.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7c",
+    "Question_text": "The diagram shows a sketch of quadrilateral ABCD. All lengths are given in centimetres. The area of quadrilateral ABCD is 70 cm². Calculate DAB.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "f(x) = 3x-5 g(x) = (4x +4)/3 Find f(-2).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "f(x) = 3x-5 g(x) = (4x +4)/3 Find the largest integer satisfying f(x) > 3g(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "f(x) = 3x-5 g(x) = (4x +4)/3 Solve f(x) = g(3x-5).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Form composite functions as defined by gf(x) = g(f(x))"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "f(x) = 3x-5 g(x) = (4x +4)/3 Solve g⁻¹(x) = 5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "A cone has radius 6 cm and slant height l cm. The total surface area of the cone is 84π cm². Show that l = 8.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Calculate the volume of the cone.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9c",
+    "Question_text": "A similar cone has a total surface area of 47.25π cm². Find the radius of this cone.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "A, B and C are points on the circumference of a circle, centre O. OBD is a straight line and angle ABD = 130°. Find angle ACB, giving a reason for each step of your working.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "P and Q are points on the circumference of a different circle, centre O. PR and QR are tangents to the circle at P and Q respectively. OP = 8 cm and PÔQ = 130°.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.8 Circle theorems II",
+    "Sub_topic": [
+      "Use circle symmetry properties: equal chords equidistant from centre, perpendicular bisector of chord through centre, tangents from external point equal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "A bag contains 12 balls. There are x black balls in the bag and the other balls are white. Two balls are taken at random from the bag without replacement.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "Find an expression for the probability of taking one ball of each colour. Write your answer as a single fraction in terms of x.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11c",
+    "Question_text": "The probability that both balls are black is 14/33. Form an equation in x and solve it to find the number of black balls in the bag. Show your working.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "A is the point (2, 3) and B is the point (3, -5).",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Describe translation using vector"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "OQRP is a parallelogram. OP = p and OQ = q. K is the midpoint of OQ and L is a point on PR. KL = p - (1/3)q.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  }
+]

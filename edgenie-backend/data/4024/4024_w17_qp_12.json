@@ -1,0 +1,665 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Evaluate 6/7 - 3/5",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Evaluate 90/0.45",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "The masses, in kilograms, of 20 parcels sent by a dispatch centre are given in the table. By using tally marks, or otherwise, complete the grouped frequency distribution for these masses.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.1 Classifying statistical data",
+    "Sub_topic": [
+      "Classify and tabulate statistical data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "The results are to be shown in a pie chart. Calculate the angle of the sector representing the group with the smallest frequency.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret pie charts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "y is inversely proportional to x. Given that y = 1/6 when x = 30, find y when x = 10.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Find f(1/2) given f(x) = 4/x",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Find f⁻¹(x) given f(x) = 4/x",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "The timetable for buses from A to E, calling at B, C and D, is given. How many minutes does each journey from A to E take?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Sharon has an appointment at D at 3.30 p.m. What is the latest time she can catch a bus from B?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Read clocks and timetables"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "The diagram shows a scale from 3.8 to 3.9, divided into five equal parts. What is the value at the mark labelled P?",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "The points X and Y lie on the line AB such that AX : XY : YB = 3 : 2 : 4. AB = 18 cm. Find XY.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "In the diagram, ABC is parallel to DEFG. BC = BE, ACE= 35° and BFG = 102°. Find CBF.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "In the diagram, ABC is parallel to DEFG. BC = BE, ACE= 35° and BFG = 102°. Find ABE.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using triangle sum (180°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Thirty students were asked on how many days they ate pasta last week. The results are given in the table. Find the mode.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Thirty students were asked on how many days they ate pasta last week. The results are given in the table. Find the median.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "The area of a rectangle is given as 8 cm², correct to the nearest cm². Write down the lower bound for the area of the rectangle.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "The width of the rectangle is given as 2 cm, correct to the nearest cm. Calculate the lower bound for the length of the rectangle.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "By making suitable approximations, calculate an estimate for (40.32 × √35.7)/2980. Show clearly the approximations you use and give your answer correct to 1 significant figure.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "The mean age of Ali, Ben and Chris is 14 years 3 months. Dai's age is 15 years and 3 months. Calculate the mean age of the four people.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "Find a²x. given a^x = 5",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Use rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Find a^-x. given a^x = 5",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Use rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13a",
+    "Question_text": "The distribution of the lengths of time spent on the internet on a Monday by each member of a group of students is given in the table. Find k.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Calculate with frequency density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13b",
+    "Question_text": "The distribution of the lengths of time spent on the internet on a Monday by each member of a group of students is given in the table. Complete the histogram.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Find the two solutions of x/4 - 1 < 3x/4 which are negative integers.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15a",
+    "Question_text": "The diagram shows a figure made from five identical triangles. The figure has rotational symmetry. Write down the order of rotational symmetry.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15b",
+    "Question_text": "The diagram shows a figure made from five identical triangles. The figure has rotational symmetry. Each marked angle is 110°. Find the angles of one of the triangles.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16a",
+    "Question_text": "Write the number 360 million in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b i",
+    "Question_text": "p = 5 × 10^9 q = 9 × 10^-16 Expressing each answer in standard form, find p x q",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b ii",
+    "Question_text": "p = 5 × 10^9 q = 9 × 10^-16 Expressing each answer in standard form, find √q.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate square roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17a",
+    "Question_text": "Find 110% of 70.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17b",
+    "Question_text": "When new, a car was worth $15000. After one year it was worth $12000. Calculate the percentage reduction in its value.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18a",
+    "Question_text": "An open rectangular tray has inside measurements length 11 cm width 6 cm height 5 cm. Calculate the total surface area of the four sides and base of the inside of the tray.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18b",
+    "Question_text": "Cubes are placed in the tray and a lid is placed on top. Each cube has an edge of 2 cm. Find the maximum number of cubes that can be placed in the tray.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19a",
+    "Question_text": "Each time an archer fires an arrow, the probability that she hits the target is 0.7 . She fires two arrows. Complete the tree diagram.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b i",
+    "Question_text": "Each time an archer fires an arrow, the probability that she hits the target is 0.7 . She fires two arrows. Find the probability that she hits the target twice.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b ii",
+    "Question_text": "Each time an archer fires an arrow, the probability that she hits the target is 0.7 . She fires two arrows. Find the probability that she hits the target exactly once.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20a",
+    "Question_text": "The coordinates of P and M are (-3, 10) and (0, 4). Find the gradient of the line PM.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.3 Gradient of linear graphs",
+    "Sub_topic": [
+      "Calculate the gradient of a straight line from the coordinates of two points on it"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20b",
+    "Question_text": "The coordinates of P and M are (-3, 10) and (0, 4). Find the equation of the line PM.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.5 Equations of linear graphs",
+    "Sub_topic": [
+      "Interpret and obtain the equation of a straight-line graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20c",
+    "Question_text": "The coordinates of P and M are (-3, 10) and (0, 4). M is the midpoint of PQ. Find the coordinates of Q.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21a",
+    "Question_text": "Express 3( 3 1 /-5 -4) -2( 0 -3 / 0 2) as a single matrix.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Multiply vector by scalar",
+      "Add and subtract vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21b",
+    "Question_text": "Find the inverse of ( 3 1 /-5 -4).",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Multiply vector by scalar",
+      "Add and subtract vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22a",
+    "Question_text": "Factorise 9a2 – 6a.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22b",
+    "Question_text": "Factorise 4 – 25t² .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22c",
+    "Question_text": "Factorise 6cd – xy + 2cx – 3dy.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23a",
+    "Question_text": "The diagram shows the triangle ABC. Measure angle ABC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23b",
+    "Question_text": "On the diagram, construct the perpendicular bisector of AB.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Use perpendicular bisector"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23c",
+    "Question_text": "On the diagram, construct the locus of points that are 5 cm from C.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23d",
+    "Question_text": "The points P and Q lie on the perpendicular bisector of AB and are 5 cm from C. Mark and label the points P and Q on the diagram and measure PQ.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24a",
+    "Question_text": "The diagram is the speed-time graph of part of a train's journey. Calculate the speed when t = 5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24b",
+    "Question_text": "The diagram is the speed-time graph of part of a train's journey. Calculate the acceleration.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24c",
+    "Question_text": "The diagram is the speed-time graph of part of a train's journey. Calculate the distance travelled from t = 40 to t = 60.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25a",
+    "Question_text": "In the diagram, the equation of the line AC is 7x + 5y = 35. Write down the three inequalities that define the region inside triangle ABC.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25b",
+    "Question_text": "The line y = kx, where k is an integer, passes through triangle ABC. Find the greatest possible value of k.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.5 Equations of linear graphs",
+    "Sub_topic": [
+      "Interpret and obtain the equation of a straight-line graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26a",
+    "Question_text": "The sequence of diagrams shows patterns made from some black beads and some white beads. Each diagram has two rows more than the previous diagram. Complete the table for Diagram 5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26b i",
+    "Question_text": "The sequence of diagrams shows patterns made from some black beads and some white beads. Each diagram has two rows more than the previous diagram. Write down an expression, in terms of n, for the number of white beads in Diagram n",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26b ii",
+    "Question_text": "The sequence of diagrams shows patterns made from some black beads and some white beads. Each diagram has two rows more than the previous diagram. Write down an expression, in terms of n, for the total number of beads in Diagram n.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26c",
+    "Question_text": "The sequence of diagrams shows patterns made from some black beads and some white beads. Each diagram has two rows more than the previous diagram. Find an expression, in terms of n, for the number of black beads in Diagram n. Give your answer in its simplest form.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27a",
+    "Question_text": "In the diagram, OP = (-3 / 4) PQ = (2 / 0) Find |OP|+|PQ|.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.3 Magnitude of a vector",
+    "Sub_topic": [
+      "Calculate magnitude of vector as sqrt(x² + y²)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27b i",
+    "Question_text": "T is the point where PT = kPQ . Express OT as a column vector in terms of k.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27b ii",
+    "Question_text": "M is the point such that O, T and M lie on a straight line and OM = (24 / 16). Find the value of k.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": []
+  }
+]

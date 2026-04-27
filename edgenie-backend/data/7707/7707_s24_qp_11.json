@@ -1,0 +1,387 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which task is performed by a book-keeper?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Accounting role information"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "In which book of prime entry does a trader record cash discount received?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Trade/cash discount accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "The analysis columns of a petty cash book show the following totals. How should these totals be posted to the ledger?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Imprest petty cash"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Which business documents are not entered in the books of prime entry?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.2 Business documents",
+    "Sub_topic": [
+      "Recognise business documents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A trader has the following ledger account. What does the balance on 1 January, year 2 represent?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Prepare ledger accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Which statement about a trial balance is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Trial balance statement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Trevor prepared his financial statements for the year ended 31 December 2020. He then discovered that he had omitted to record a cash payment, $240, for insurance for the 12 months ending 30 November 2021. What was the effect of this error on his statement of financial position?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Effect on financial position"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "A payment of $68 for insurance has been entered in the insurance account as $86. Which double entry will correct this?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via journal entries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "A business has received a bank statement. The bank statement shows the following entries. Which items appear in the debit column of the bank statement?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Bank statement purpose"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "On 31 May the bank statement of a business showed a positive bank balance of $1790. Comparing the bank statement with the cash book the following items were discovered. What was the cash book balance?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "What would not be included in a sales ledger control account?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Purposes of control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Nadia provided the following information for the month of July. There was no credit balance on the account on 1 August. What was the debit balance brought down on the sales ledger control account on 1 August?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Samir runs a car hire business. He received cash payments for car hire. He also received the proceeds from the sale of an old vehicle. Which type of receipts were they?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Distinguish capital/revenue receipts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "The following ledger account appeared in the books of a trader. Which entry was made in the income statement for the year ended 31 December 2020 for rent receivable?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Mandeep depreciates his motor vehicles at the rate of 20% using the straight-line method. A full year's depreciation is provided in the year of purchase. Mandeep bought a motor vehicle on 1 January 2017 for $20000. On 1 June 2020 he bought a second motor vehicle for $10000. What was the depreciation charge on motor vehicles for the year ended 31 December 2020?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Depreciation methods description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Why does a trader maintain a provision for doubtful debts?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Reasons for doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Why is inventory valued at the lower of cost and net realisable value?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Inventory valuation basis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "At the end of the financial year Cindy valued her inventory at cost. This valuation incorrectly included damaged goods costing $300. Cindy estimated these goods could be sold for $100. What is the effect of correcting the inventory valuation?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Prepare inventory statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Which business is not a service business?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Trading vs service difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "A trader was preparing her statement of financial position at 30 June 2021. She had four bank loans. What was the total amount of loans that should be recorded as non-current liabilities at 30 June 2021?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Prepare financial positions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "What is shown in a partnership appropriation account?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Appropriation account purpose"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Rajid and Sunil formed a partnership on 1 January 2019 but did not prepare a partnership agreement. They provided the following information. They decided to draw up a partnership agreement for future years. Which item would be most beneficial to Rajid in 2020?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Partnership agreement contents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "A company supplied the following information. What is the total equity?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Which apply to both debentures and preference shares?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Share/loan capital distinction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "The AB Sports Club runs a café for the use of members. The treasurer prepared draft financial statements which showed a deficit of $700 and an accumulated fund of $4600. He then discovered that the closing inventory of the café had been overvalued by $50. How much were the deficit and the accumulated fund after the inventory valuation had been corrected?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Accumulated fund calculation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which accounting statement prepared by the treasurer of a sports club provides a summary of all the monies received and paid out during the financial year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Prepare receipts/payments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "At the end of the financial year, a manufacturing business owed rent on its factory. The business adjusted its financial statements to account for this. What effects did this adjustment have?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Adjustments as sole traders"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "What is a direct cost for a manufacturer?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Direct costs understanding"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "A business uses 20% mark up to arrive at its selling prices. During the year it made purchases of $35000 and the inventory decreased from $7000 to $2000. What was the revenue for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "What is needed for the preparation of a statement of affairs?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Prepare statements of affairs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "A trader provided the following information. What was the trader's trade payables turnover?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate missing figures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "George provided the following information. His liquid (acid test) ratio was 1.2:1. What was his bank overdraft?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "The following ratios have been calculated for a trader. What explains these changes?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.2 Interpretation of accounting ratios",
+    "Sub_topic": [
+      "Compare results statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "William is a trader. He has received an order from James to supply goods on credit. When should William regard the revenue as earned?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

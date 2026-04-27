@@ -1,0 +1,458 @@
+[
+  {
+    "QuestionNumber": "October/November/2018/Q1",
+    "Question_text": "Fig. 1.1 shows a satellite travelling at a constant speed in a circular orbit around the Earth.",
+    "image": "A diagram shows the Earth as a sphere with a satellite orbiting it in a circular path. The satellite is labeled 'satellite'. An arrow points from the satellite towards the Earth, indicating its orbit.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Circular Motion",
+      "Newton's Second Law",
+      "Work",
+      "Conservation of Energy",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how speed differs from velocity.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain, in terms of its velocity, why the satellite is accelerating.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 1.1, draw an arrow, starting on the satellite, to show the direction of the satellite's acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "As the satellite orbits the Earth, it experiences a force due to gravitational attraction. State and explain whether this force does work on the satellite and state whether the energy of the satellite is affected.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q2",
+    "Question_text": "A sports car is designed to be very stable when turning a corner at high speed. Fig. 2.1 shows the position of the centre of mass of the car.",
+    "image": "A side view diagram of a sports car is shown with a label pointing to a low point within the car, indicating the 'centre of mass'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by centre of mass.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State two features of the design that make the car in Fig. 2.1 stable.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 2.2 shows an irregularly shaped piece of card. Describe how to determine the position of the centre of mass of the piece of card. You may draw on Fig. 2.2 or in the blank space.",
+        "image": "A diagram labeled Fig. 2.2 shows an irregularly shaped flat piece of card."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q3",
+    "Question_text": "Fig. 3.1 shows a cylindrical copper kettle that contains cold water. The kettle is used to heat water and there is an electric heater at the base.",
+    "image": "A cross-sectional diagram of a cylindrical copper kettle with water inside. Labels indicate 'cold water', 'copper', 'cable', and 'heater' at the bottom. A dashed line labeled 'X' indicates the water level.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Convection",
+      "Thermal Expansion",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State and explain the advantage of heating the water from below.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain, in terms of molecules, why water expands when it is heated.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Copper also expands when heated. State what happens to level X of the water in the kettle. Explain your answer in terms of the expansion of the copper and the water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q4",
+    "Question_text": "A house has several solar panels on the roof. These panels use energy from the Sun both to generate electricity and to raise the temperature of water that passes through tubes inside the panels.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy from the Sun",
+      "Energy Resources",
+      "Radiation",
+      "Specific Heat Capacity",
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State how energy from the Sun travels through space before it reaches the Earth.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain the advantage of using panels that have a black surface.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On one occasion, the panels are supplying an electric current of 15A at a voltage of 24 V. Calculate the electrical energy generated by the panels in one hour.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "In the same time, 51 kg of cold water is pumped through the panels. The temperature of the water increases from 16°C to 45°C. The specific heat capacity of water is 4200 J/(kg°C). Calculate the increase in thermal energy of the water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q5",
+    "Question_text": "Two uncharged conducting spheres, K and L, are mounted on insulating stands.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Investigating Conductors & Insulators",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how the structure of an insulator differs from that of a conductor and give one example of an insulator.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The two spheres are in contact. Fig. 5.1 shows a positively-charged insulating rod held next to K.",
+        "image": "Fig. 5.1 shows two conducting spheres, K and L, in contact and mounted on insulating stands. A positively-charged insulating rod is held near sphere K. The rod has multiple plus signs indicating its charge."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 5.1, draw the charges on K and on L.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "Sphere L is moved to the right, a long way from sphere K. The positively charged rod is moved away. State what happens to the charge on K.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "An earthing wire is connected to sphere L. State what happens to the charge on L.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q6",
+    "Question_text": "Fig. 6.1 shows a radiation detector placed on a laboratory bench.",
+    "image": "Fig. 6.1 displays a radiation detector with a digital display showing '000031 counts/minute' and a probe pointing towards 'point P' on a laboratory bench. An insulating stand holds the probe.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "The Nucleus",
+      "Half-Life"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Using all the readings obtained, determine an average value for the background count rate.",
+        "image": "Fig. 6.2, a table showing 'reading number' from 1 to 6 and corresponding 'count rate counts/minute' (31, 36, 29, 32, 31, 33)."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 6.1 shows a point P which is a very short distance from the end of the radiation detector. A sample of the radioactive isotope cobalt-60 is placed at P. The average value of the count rate obtained is now 975 counts/minute. The average count rate is determined with different objects between the radiation detector and the sample. The table in Fig. 6.3 shows the results obtained.",
+        "image": "Fig. 6.3, a table showing 'object' (no object, four sheets of paper, 0.50 mm thickness sheet of aluminium, 2.0 cm thickness sheet of lead) and corresponding 'average count rate counts/minute' (975, 976, 117, 52)."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Indicate, by placing ticks (✔) in the appropriate boxes, the radiation emitted by cobalt-60.",
+        "image": "Checkboxes for 'alpha-particles', 'beta-particles', 'gamma rays'."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "This radiation is produced when a nucleus of cobalt-60 (Co) decays into a nucleus of the daughter product X. Product X is not radioactive. Determine 1. the number of protons in a nucleus of X, 2. the number of neutrons in a nucleus of X.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The half-life of cobalt-60 is 5.3 years. State what is meant by half-life.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "When there is a lead sheet between the detector and the sample, the average count rate is obtained from six readings taken at one-minute intervals. The six readings are given in the table in Fig. 6.4. There are reasons for suggesting that the variation in these readings is random and not because the number of cobalt-60 atoms in the sample is decreasing. State two of these reasons.",
+        "image": "Fig. 6.4, a table showing 'reading number' from 1 to 6 and corresponding 'count rate counts/minute' (61, 46, 43, 56, 49, 57)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q7",
+    "Question_text": "Fig. 7.1 shows the structure of a transformer. A lamp is connected to the secondary coil.",
+    "image": "Fig. 7.1 depicts a transformer with a primary coil and a secondary coil wound around an iron core. A lamp is shown connected to the secondary coil. Labels indicate 'iron core', 'primary coil', and 'secondary coil'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Electromagnetic Induction",
+      "Electrical Current",
+      "Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why the core of the transformer is made from iron.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When there is an alternating current (a.c.) in the primary coil, the lamp is lit. When there is a direct current (d.c.) in the primary coil, the lamp is not lit.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State two ways in which an alternating current differs from a direct current.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the lamp is not lit when there is a direct current in the primary coil.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q8",
+    "Question_text": "During a game of cricket, a player hits a ball with a bat. The ball then travels vertically upwards, as shown in Fig. 8.1. The speed of the ball as it leaves the bat is 8.7 m/s.",
+    "image": "Fig. 8.1 shows a cricketer hitting a ball with a bat, launching it vertically upwards. Labels indicate 'bat' and 'ball'. An arrow points upwards from the ball, showing its initial motion.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight",
+      "Kinetic Energy",
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Freefall",
+      "Energy Stores & Transfers",
+      "Conservation of Energy",
+      "Gravitational Potential Energy",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)1",
+        "part_text": "The mass of the ball is 0.16 kg. State what is meant by mass.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)2",
+        "part_text": "State the name of a measuring instrument that is used to determine mass.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the kinetic energy of the ball as it leaves the bat.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 8.2 is the velocity-time graph for the ball.",
+        "image": "Fig. 8.2 shows a velocity-time graph. The y-axis represents velocity in m/s, ranging from -10 to 10. The x-axis represents time in s, ranging from 0 to 2.0. The graph starts at velocity 8.7 m/s at t=0, decreases linearly to 0 m/s at t=0.87 s, then becomes negative, reaching -8.7 m/s at t=1.74 s, and then shows a sudden change at t=1.84s to 0 m/s, remaining at 0 for a short period."
+      },
+      {
+        "part_label": "b(i)1",
+        "part_text": "Fig. 8.2 shows that immediately after being hit, the ball has a negative acceleration. State the name given to a negative acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)2",
+        "part_text": "State how the graph shows that the ball has a negative acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "Using Fig. 8.2, determine the time at which the ball stops moving upwards,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "the distance travelled before the ball stops moving upwards.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest why the graph, in Fig. 8.2, is almost vertical when time = 1.84 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Fig. 8.2 shows that the ball remains stationary after a time of 1.84 s. Describe the energy change that is occurring at a time of 1.84 s.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "For this ball moving in the way shown, the effect of air resistance is negligible. When a ball with a much smaller mass is hit vertically upwards at the same speed, air resistance produces a noticeable effect on its motion. Suggest two ways in which the velocity-time graph for the ball with a smaller mass differs from Fig. 8.2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q9",
+    "Question_text": "Both sound and ultrasound are waves that travel in solids, liquids and gases.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Ultrasound",
+      "Features of Waves",
+      "Transverse & Longitudinal Waves",
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how sound differs from ultrasound.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Sound and ultrasound are longitudinal waves that consist of compressions and rarefactions. Explain what is meant by a wave and describe how a longitudinal wave differs from a transverse wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 9.1 represents a longitudinal wave of frequency 25000 Hz travelling in oil.",
+        "image": "Fig. 9.1 shows a series of vertical lines with varying spacing, representing a longitudinal wave. Some lines are closer together (compressions) and some are further apart (rarefactions). The image specifies it's a full-scale representation."
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "On Fig. 9.1, mark two points at the centre of two different rarefactions and label each one R.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "On Fig. 9.1, draw a double-headed arrow to indicate a distance that is equal to one wavelength of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)3",
+        "part_text": "Measure the length of the arrow drawn on Fig. 9.1 and use it to determine the speed of the wave in oil.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A sound wave travelling in a liquid, passes into air. State what happens to the speed of the sound wave as it enters the air.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The wave in the liquid travels towards the surface at an angle. Fig. 9.2 shows the centres of the compressions of the sound wave in the liquid. On Fig. 9.2, draw the parts of these compressions that are in the air.",
+        "image": "Fig. 9.2 shows a boundary between 'air' and 'liquid'. Parallel lines representing 'centres of compressions' are shown in the liquid, approaching the surface at an angle. An arrow indicates the 'direction of wave'."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe, in outline, how ultrasound is used in cleaning.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2018/Q10",
+    "Question_text": "A student sets up the circuit shown in Fig. 10.1 in a laboratory at room temperature. The electromotive force (e.m.f.) of the battery is 12V. The switch is closed.",
+    "image": "Fig. 10.1 shows an electrical circuit diagram. It includes a 12V battery, an oscilloscope, a 1.3Ω resistor, an ammeter labeled 'A', a 1.5Ω resistor, a component labeled 'Z', and a switch. The positive terminal of the battery is connected to a point labeled 'Y'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Combined Resistance",
+      "Investigating Conductors & Insulators",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Uses of an Oscilloscope",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The connecting wires in the circuit are made from copper covered by insulating plastic. State the name of the particles that flow in the copper and state the direction in which they are flowing at point Y in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "At room temperature, the resistance of component Z is 6.0 Ω. State the name of component Z.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the resistance of the whole circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the current measured by the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The current in the ammeter is I_A, the current in the 1.5 Ω resistor is I_R and the current in component Z is I_Z. Write down an equation that relates I_A, I_R and I_Z.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 10.2 shows the screen of the oscilloscope. Before the switch is closed, the trace is a horizontal line across the middle of the screen, as shown in Fig. 10.2. When the switch is closed, the trace remains horizontal and moves up the screen. Component Z is heated. State and explain what is observed on the oscilloscope screen as the temperature of Z increases.",
+        "image": "Fig. 10.2 shows an oscilloscope screen with a grid. Two horizontal traces are depicted: one labeled 'trace with switch closed' higher up on the screen, and another labeled 'trace with switch open' along the center line."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The 12 V battery is made from cells of electromotive force (e.m.f.) 1.5 V which are all in series. Calculate the number of 1.5 V cells that make up the battery.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State the e.m.f. of a battery made by connecting all of these cells in parallel.",
+        "image": null
+      }
+    ]
+  }
+]

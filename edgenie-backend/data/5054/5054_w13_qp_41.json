@@ -1,0 +1,174 @@
+[
+  {
+    "QuestionNumber": "October-November/41/2013/Q1",
+    "Question_text": "A student investigates a wooden sphere rolling down a plastic channel and falling to the floor. The channel is set up at the end of a bench. The sphere is initially held in the channel at the position shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a diagram of an experimental setup. A plastic channel is curved, starting from an elevated position on a bench and curving downwards towards the floor. A wooden sphere is depicted at the top end of the plastic channel. Labels include 'plastic channel', 'sphere', 'bench', and 'floor'. The diagram indicates that it is 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Measurement",
+      "Freefall",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 1.1, mark and label the height h of the sphere above the bench before it is released.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the student ensures that the sphere is released from the same point each time.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "draw a possible path of the sphere after it leaves the channel and until it hits the floor,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "mark and label the horizontal distance d travelled by the sphere after it leaves the channel and until it hits the floor.",
+        "image": null
+      },
+      {
+        "part_label": "c)",
+        "part_text": "Suggest a method for finding the point where the sphere hits the floor.",
+        "image": null
+      },
+      {
+        "part_label": "d)",
+        "part_text": "With h set at 30cm, the student repeats the experiment and measures d six times. The student obtains the following values of d in cm. 68.5 64.0 67.0 66.5 65.0 64.5 Calculate the average distance dav. Give your answer to a suitable number of significant figures. The student repeats the experiment with different values of h. The results obtained for h and dav are recorded in Fig. 1.2. Fig. 1.2 is a table with columns 'h/cm' and 'dav/cm' and rows of data: (2, 14), (5, 22), (10, 33), (15, 45), (20, 54), (25, 60), (30, empty cell). On Fig. 1.2, write your value for dav from (d).",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "By considering the experimental arrangement, suggest, with a reason, whether dav = 0 when h = 0.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "On Fig. 1.3, plot the graph of dav/cm on the y-axis against h/cm on the x-axis. Start your axes from the origin. Draw a smooth curve of best fit.",
+        "image": "Fig. 1.3 shows a blank grid with an x-axis and a y-axis, originating from '0,0', ready for a graph to be plotted."
+      },
+      {
+        "part_label": "e(iii)",
+        "part_text": "Another student suggests that dav is directly proportional to h. Use your graph to explain whether this student is correct.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2013/Q2",
+    "Question_text": "A group of students investigate their reaction times. The students mark a 30cm strip of card in equal sections, as shown in Fig. 2.1. Student A holds the card at one end so that it hangs vertically. Student B holds his thumb and first finger about 2cm apart just below the lower end of the card, as shown in Fig. 2.2. Student A releases the card. Student B catches the card between his thumb and first finger, without moving his hand up or down. Several pairs of students perform the experiment.",
+    "image": "Fig. 2.1 shows a vertical strip of card marked with equal sections, numbered from 1 at the bottom to 10 at the top, out of a total of 30cm. Fig. 2.2 illustrates the experimental setup: Hand A holds the top of the vertical card strip. Hand B positions its thumb and first finger approximately 2cm apart, just below the bottom end of the card, ready to catch it.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain what happens if student B is not concentrating.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how the card shows which student has the shortest reaction time.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The distance h, in centimetres, fallen by the card in time t, in seconds, is given by h = 500t^2. Calculate h for t = 0.1 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A student catches the card after it has fallen 15cm. Calculate his reaction time.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)1.",
+        "part_text": "A teacher draws lines on the back of the card to calibrate it so that the students can measure reaction times directly in seconds. Explain what, in this case, is meant by calibrate.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)2.",
+        "part_text": "On Fig. 2.3, without further calculation, sketch the card calibrated by the teacher. You may use your answer from (b)(ii).",
+        "image": "Fig. 2.3 shows a blank horizontal strip of card, labeled 'strip of card', with '0' marked at the left end and '0.1 s' marked at an intermediate point along its length."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2013/Q3",
+    "Question_text": "A student starts an experiment to determine the path of light through a glass block. The student uses a rectangular glass block and optical pins. He places the glass block on a sheet of paper on a soft board, as shown in Fig. 3.1. The student draws a line L to represent an incident ray.",
+    "image": "Fig. 3.1 (full scale) shows a top-down view of an experimental setup for light refraction. A rectangular glass block is placed on white paper, which is secured on a soft board. An incident ray, represented by a line labeled 'L', approaches the glass block. An optical pin, labeled 'P1', is placed on the line L.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Investigating Reflection",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.1, draw the normal at the point where L meets the glass block.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 3.1, label the angle of incidence i. Measure i.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student then places a pin P1 on the incident ray, as shown in Fig. 3.1. Suggest a reason why the student uses a board under the piece of paper.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student places a second pin P2 on L. Suggest where, on L, pin P2 should be placed.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "To find the path of the emergent ray, the student views P1 and P2 through the glass block. He moves his head until P1 and P2 are in line. Explain why it is important for the pins to be vertical.",
+        "image": null
+      },
+      {
+        "part_label": "c)",
+        "part_text": "The student finds it difficult to mark the emergent ray with the apparatus as it is set up in Fig. 3.1. Suggest and explain a reason for this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2013/Q4",
+    "Question_text": "Describe an experiment to measure the resistance of a resistor using an ammeter and a voltmeter.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a)",
+        "part_text": "Your account should include: • a circuit diagram, • the readings taken, • a method of taking a range of readings, • a method of determining the resistance from the readings.",
+        "image": null
+      },
+      {
+        "part_label": "b)",
+        "part_text": "Describe one way to improve the accuracy of the result.",
+        "image": null
+      }
+    ]
+  }
+]

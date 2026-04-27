@@ -1,0 +1,197 @@
+[
+  {
+    "QuestionNumber": "October-November/31/2019/Q1",
+    "Question_text": "In this experiment, you will investigate the oscillation of a mass on a spring. You are provided with: • a 100 g mass hanger and two 100g masses • an arrangement of 5 springs attached together end to end • a stopwatch • a stand, clamp, boss and G-clamp or weight • a piece of card with a hole at the centre. The supervisor has set up the apparatus as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a laboratory setup for investigating oscillations of a mass on a spring. A stand with a G-clamp and a horizontal rod supports a clamp, from which a series of 5 springs are suspended vertically. A 300g mass is attached to the bottom of the springs, positioned 25 cm above a bench. The diagram also labels the stand, G-clamp, bench, clamp, 5 springs, 300g mass, and the 25 cm measurement.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Measurement",
+      "Investigating Force & Extension"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Pull down on the mass so that the springs extend and the bottom of the mass touches the floor. Release the mass and observe it move up and then down again. One oscillation is the movement of the mass from its lowest position to its highest position and back to its lowest position. Determine an accurate value of the time t₁ for 30 oscillations of the mass.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe what happens to the amplitude of the oscillations during time t₁.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Remove the mass hanger and masses from the spring. Remove the two 100g masses from the mass hanger. Pass the hook of the mass hanger through the hole in the centre of the card. Slide the card down the stem of the mass hanger until it rests on the bottom. Replace the two 100g masses on top of the card, as shown in Fig. 1.2. Attach the mass hanger to the bottom of the spring.",
+        "image": "Fig. 1.2 illustrates a mass hanger with a circular card resting at its bottom. Two 100g masses are placed on top of the card. The mass hanger is suspended by its hook, which passes through a hole in the card. Labels indicate 'mass hanger' and 'card'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Pull down on the mass so that the springs extend and the bottom of the mass touches the floor. Release the mass and start the stopwatch. Determine the time t₂ for 30 oscillations of the mass and card.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Compare your observations of the change in amplitude of the mass with and without the card.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest an explanation for the differences observed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2019/Q2",
+    "Question_text": "In this experiment, you will investigate how the angle of an L-shaped beam varies with mass. You are provided with: • an L-shaped beam • a stand, clamp and two bosses • a rod to act as a pivot • two wire hooks • a 100 g mass and a 300g mass • a protractor • a metre rule • a set square. The supervisor has set up the apparatus, as shown in Fig. 2.1. Fig. 2.1 shows an L-shaped beam pivoted on a rod attached to a clamp. Holes in the beam are marked A and B. Wire hooks are attached to these holes. A metre rule is also attached to the stand.",
+    "image": "Fig. 2.1 shows a laboratory setup for investigating an L-shaped beam. A stand supports a clamp, which holds a pivot rod. An L-shaped beam is pivoted on this rod. Two wire hooks are shown attached to points on the L-shaped beam. A metre rule is attached to the stand. Labels indicate 'clamp holding pivot rod', 'pivot rod', 'L-shaped beam', 'wire hooks', 'bench', and 'metre rule'. Points A and B are marked on the L-shaped beam.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Adjust the position of the metre rule so that it is horizontal and its lower edge is behind the L-shaped beam and resting on the rod. Explain how you ensure that the metre rule is horizontal.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Attach the 100 g mass to the wire hook at hole A. Attach the 300g mass to the wire hook at hole B. The angle θ between the rule and the side of the L-shaped beam with the hole labelled A is shown in Fig. 2.2.",
+        "image": "Fig. 2.2 provides a close-up diagram showing an L-shaped beam pivoted. A metre rule is positioned above the beam. An angle θ is indicated between the metre rule and the segment of the L-shaped beam that includes hole A. Hole B is on another segment of the beam. Labels include 'metre rule', 'A', 'B', and 'θ'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure angle θ.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how to investigate the relationship between value of the mass at hole A and the angle θ.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On Fig. 2.3, use your results to sketch a graph of the expected relationship between the value of the mass at hole A and the angle θ.",
+        "image": "Fig. 2.3 shows a blank graph grid. The y-axis is labelled 'θ / °' with a scale up to 90. The x-axis is labelled 'mass / g' with a scale up to 100. This grid is intended for plotting experimental results."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2019/Q3",
+    "Question_text": "In this experiment, you will investigate the refraction of light. You are provided with: • a lamp • a slit plate • a rectangular transparent block • a protractor. The supervisor has set up the lamp as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 depicts a lamp with connecting leads, secured by Blu Tack.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "setup_description_1",
+        "part_text": "Fig. 3.2 shows how you will set up the other apparatus. Align the centre of the lamp with the point S marked on Fig. 3.3 on the facing page. Switch on the lamp.",
+        "image": "Fig. 3.2 illustrates a top-down view of a lamp and a slit plate, both held in place with Blu Tack, set up to produce a narrow beam of light. A 'centre line' extends from the slit plate."
+      },
+      {
+        "part_label": "setup_description_2",
+        "part_text": "Place the slit plate along the line PP. Adjust the position of the slit plate so that the ray emerging from the slit is aligned with the centre line marked on Fig. 3.3. Place the block in the area shown in Fig. 3.3. One corner of the block is placed at point C with the long side along the line QQ. The size of your block may differ from the outline shown in Fig. 3.3.",
+        "image": "Fig. 3.3 is a diagram for a refraction experiment. It shows a sheet with marked lines: P-P (for slit plate position), Q-Q (for block alignment), N-N (normal), a central dotted line, and points S, C, T. An outline for a transparent block is shown, with point C at one corner and one side along Q-Q. An incident ray (dotted line) is depicted entering the block at T, forming an angle 'i' with the normal N-N. The path inside the block and the emergent ray are to be marked by the student."
+      },
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 3.3 mark the point where the refracted ray emerges from the glass block. Label this point U. Switch off the lamp. Remove the glass block and draw a straight line from point T to point U. The line NN is the normal to the block at point T. Mark the angle of refraction at point T. Label this angle r.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The angle of incidence i is labelled on Fig. 3.3. Measure angles i and r.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate n, the refractive index of the glass. Use the equation: n = sin i / sin r. You must show your working.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2019/Q4",
+    "Question_text": "In this experiment, you will investigate the resistance of a thermistor. You are provided with: • an arrangement of a heater and a thermistor held inside a ball of Blu Tack • a heat resistant mat • a power supply • a resistor of resistance 100Ω • switches labelled S and T • a stopwatch • Blu Tack. You are also provided with a voltmeter and connecting leads. The supervisor has set up the circuit, as shown in Fig. 4.1. Switches S and T are open.",
+    "image": "Fig. 4.1 shows a circuit diagram. A power supply is connected to a series circuit. This circuit includes switch S, a 100 Ω resistor, a component labeled 'heater' (representing the thermistor), and switch T. Points A, B, and C are marked in the circuit, with A before the 100 Ω resistor, B between the 100 Ω resistor and the thermistor, and C after the thermistor. A '+' sign indicates the positive terminal of the power supply.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "setup_description_1",
+        "part_text": "The heater and the thermistor have been placed inside a ball of Blu Tack placed on a heat resistant mat. Do not remove the heater or thermistor from the ball of Blu Tack.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Connect the voltmeter between points A and C. Ensure that the positive terminal of the voltmeter is connected to A. Close switches S and T. Record the voltmeter reading VAC.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Switch off S and T. Describe how you ensured your value for VAC is accurate.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Disconnect the voltmeter lead from C and reconnect it at B. Close switches S and T. Record the voltmeter reading VAB. Open switch S.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the current in the resistor. Use the equation: I = VAB / 100.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the resistance RT of the thermistor. Use the equation: RT = (VAC - VAB) / I.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Record, for time t = 0, VAB, I and RT in the second row of Table 4.1 on page 12. Complete the headings in the top row.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The heater operates when switch T is closed. The rise in temperature causes the resistance of the thermistor to change. • Close switch S. • Close switch T and start the stopwatch. • In Table 4.1 on page 12, record VAB every minute from t = 1 to t = 5 minutes. • When you have finished your measurements, open switch S and open switch T.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The supply voltage VAC does not change and is the value recorded in (a)(i). Repeat the calculations in (b)(ii) and (b)(iii) for each set of readings. Complete Table 4.1 on page 12.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "On the grid opposite, plot a graph of the resistance RT of the thermistor on the y-axis against time t on the x-axis. Draw the curve of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Use your graph to determine the resistance of the thermistor at 2.5 minutes.",
+        "image": null
+      }
+    ]
+  }
+]

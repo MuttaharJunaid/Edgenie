@@ -1,0 +1,90 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "In 2019 Nicole's annual income was $22000. (a) She spent $7200 on accommodation in 2019. Calculate the percentage of her income she spent on accommodation.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "(a) p = 3q+5 r2 Calculate p when q = 15 and r=-4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "(a) The diagram shows a sketch of quadrilateral ABCD. (i) Construct an accurate drawing of ABCD. AC has been drawn for you.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "f(x) = 2x+3 g(x) = 12-3x 5 (a) Find g(-1).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "(a) y = 2x+1 y = 2x-1 y=-2x+1 y=-2x-1 The diagrams below show sketches of two of these lines. Write the correct equation below each diagram.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.2 Drawing linear graphs",
+    "Sub_topic": [
+      "Draw straight-line graphs for linear equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "(a) P, Q and R are points on the circumference of a circle, centre O. Angle POQ = 8x°, angle RPO = x° and angle OQR = 24°. Calculate angle PQO.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "(a) The cumulative frequency diagram shows the marks obtained by 80 students in a Maths test. (i) Use the diagram to find an estimate of the median.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "(a) AB=3 5 (i) Calculate |AB|.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.3 Magnitude of a vector",
+    "Sub_topic": [
+      "Calculate magnitude of vector as sqrt(x² + y²)"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "QuestionNumber": "October-November/11/2021/Q1",
+    "Question_text": "Which quantity is a vector?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q2",
+    "Question_text": "Two forces, X and Y, act upon an object O. The arrows represent the magnitudes and directions of the forces. Which arrow shows the direction of the resultant force?",
+    "image": "A vector diagram showing two forces, X (pointing right) and Y (pointing down and right), originating from a central point O. Four possible resultant force vectors (A, B, C, D) are also shown originating from O, indicating different directions for the vector sum. Option A shows a vector pointing up-right, B points down-left, C points down-right (approximately the vector sum of X and Y), and D points up-left.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q3",
+    "Question_text": "Two identical objects begin to fall from rest. One object falls from 200 m above the Earth's surface and the other falls from 200 m above the Moon's surface. One second after they have started to fall, both objects are still accelerating. There is no atmosphere on the Moon and the weight of each object is constant. Which row describes the motion of both objects at this time?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Acceleration",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q4",
+    "Question_text": "The diagram shows a car going around a circular track at constant speed. Which arrow shows the direction of the resultant force on the car?",
+    "image": "A diagram showing a car moving clockwise on a circular track. Four arrows (A, B, C, D) originate from the car, representing possible directions of the resultant force. Arrow A points forward-left, B points forward along the tangent, C points inward towards the center of the circular track, and D points forward-right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q5",
+    "Question_text": "An electron has mass. Where does a stationary electron experience a force?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields",
+      "Electrical Charge",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q6",
+    "Question_text": "A stone is placed in a measuring cylinder of water, as shown. The volume of water in the cylinder before adding the stone is 15cm³ and the stone has a mass of 90 g. What is the density of the stone?",
+    "image": "A measuring cylinder containing water, with a stone submerged in it. A reading line 'reading on cylinder = 75 cm³' is shown next to the water level. Labels point to 'water' and 'stone'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q7",
+    "Question_text": "The extension of a spring is measured for various loads. The limit of proportionality is not reached. Which graph shows the extension-load graph for the spring?",
+    "image": "Four graphs (A, B, C, D) showing extension on the y-axis and load on the x-axis. Graph A shows a straight line with a negative slope. Graph B shows a straight line originating from the origin with a positive slope. Graph C shows a curve starting from the origin and flattening out. Graph D shows a curve starting from the origin and increasing exponentially.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q8",
+    "Question_text": "An underwater diver moves from the ocean to a fresh water lake. The density of water in the lake is less than in the ocean. In which position does the diver experience the smallest pressure due to the water?",
+    "image": "A cross-sectional diagram showing an ocean on the left and a fresh water lake on the right, separated by land but sharing a common water surface. Points A and B are in the ocean at different depths (A shallower than B). Points C and D are in the lake at different depths (C shallower than D, and C is the shallowest of all four points, nearest to the water surface).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q9",
+    "Question_text": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm. The piston is moved outwards. The length of the air column increases by 40 cm. The temperature of the air remains constant. What is the new air pressure?",
+    "image": "A diagram of a horizontal cylinder with a piston, trapping air. The initial air column length is indicated as 20 cm. The piston is shown moved outwards, and the additional length of the air column is indicated as 40 cm, making the total length 60 cm. Dashed lines indicate the original position of the piston and the boundary of the air column.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q10",
+    "Question_text": "When the pressure exerted by the atmosphere is 0.10 MPa, the height of the mercury in a barometer is 0.76 m. What is the pressure exerted by the atmosphere when the height of the mercury in the simple barometer is 0.57 m?",
+    "image": "A diagram of a simple mercury barometer, showing a tube inverted in a reservoir, with a column of mercury. The height of the mercury column is labeled 'height = 0.76 m'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure",
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q11",
+    "Question_text": "The diagram shows a block of mass m pulled in a straight line along a horizontal surface by a force F. The block moves a distance d in time t. The average speed at which the block moves is v. Which two quantities must be known to calculate the work done?",
+    "image": "A diagram showing a rectangular block of mass 'm' on a horizontal surface, being pulled by a horizontal force 'F' indicated by an arrow pointing to the right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q12",
+    "Question_text": "The diagram shows the inside of a refrigerator. When the refrigerator is first switched on, what happens to the air near the cooling unit?",
+    "image": "A diagram showing the inside of a refrigerator. A 'cooling unit' is positioned at the top left. Various items are stored on shelves below. Arrows indicate the circulation of air, showing cold air sinking from the cooling unit and warmer air rising, forming a convection current.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q13",
+    "Question_text": "Less thermal energy is needed to raise the temperature of 1.0 kg of copper by 1.0 °C than is needed to raise the temperature of 1.0 kg of water by 1.0 °C. Which statement explains this?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q14",
+    "Question_text": "The graph is the temperature-time graph for a sample of wax that is heated so that it melts. The mass of the wax is 200 g. Thermal energy is supplied to the wax at a constant rate of 12000 J/minute. What is the specific latent heat of fusion of the wax?",
+    "image": "A temperature-time graph for a substance being heated. The x-axis is 'time/minutes' (0 to 10), and the y-axis is 'temperature/°C' (0 to 100). The graph shows temperature increasing from 0°C to 50°C (0 to 2 minutes), then a horizontal plateau at 50°C (2 minutes to 6 minutes), followed by a further increase in temperature from 50°C to 100°C (6 to 10 minutes).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q15",
+    "Question_text": "A fixed amount of gas is trapped inside a metal can. The temperature of the gas decreases but the volume does not change. How does this change affect the kinetic energy of the gas molecules and the pressure inside the metal can?",
+    "image": "A diagram of a cylindrical metal can, labeled 'metal can', containing a substance labeled 'fixed amount of gas'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q16",
+    "Question_text": "The diagram shows a room temperature liquid in a beaker. What reduces the rate of loss of liquid by evaporation?",
+    "image": "A diagram showing a beaker containing a liquid at room temperature. Small dots are shown escaping from the surface of the liquid, representing evaporation.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q17",
+    "Question_text": "A water wave on a pond passes into a region where the wave travels more slowly. It then returns to a region where it travels at the original speed. Assume that the frequency of the wave stays constant. Which side-view of the wave is correct?",
+    "image": "Four side-view diagrams (A, B, C, D) illustrating a wave. Each diagram shows an initial wave, then a region where the wave appears compressed (shorter wavelength, indicating slower speed) and then expands back to its original form. Diagram C correctly shows the wave decreasing in wavelength in the slower region and then returning to its original wavelength.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q18",
+    "Question_text": "What is meant by the amplitude of a wave?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q19",
+    "Question_text": "The diagram shows one wavefront of a wave as it travels from deep water to shallow water in a ripple tank. What happens as the wavefront moves into the shallow water?",
+    "image": "A diagram of a ripple tank with a boundary separating 'deep water' and 'shallow water'. A straight wavefront is shown approaching the boundary at an angle and then refracting (changing direction and wavelength) as it enters the shallow water. The wavelength is noticeably shorter in the shallow water region compared to the deep water region.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Ripple Tank",
+      "Wave Behaviour",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q20",
+    "Question_text": "A ray of light passes into a glass block. It travels through the glass block and then emerges into the air. Which angle is the angle of refraction at the surface XY?",
+    "image": "A ray diagram showing light passing from air into a glass block, and then from the glass block back into the air through surface XY. Normals are drawn at both surfaces. Angles A, B, C, D are marked. Angle C is the angle between the emergent ray in air and the normal to the exit surface XY.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q21",
+    "Question_text": "Two rays of light pass through a lens in region X. Which type of lens is in region X and which type of image is formed?",
+    "image": "A ray diagram showing an object (represented by an upward arrow) to the left of a dashed rectangle labeled 'X' (representing a lens). Two rays from the object's top pass through the lens. After passing through the lens, the rays diverge, appearing to originate from a point closer to the lens on the same side as the object, forming a virtual image. The rays indicate a diverging lens.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q22",
+    "Question_text": "A girl is long-sighted. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q23",
+    "Question_text": "Light rays are deviated by a prism. The deviation angle d is measured for light rays of different frequency, including blue light and red light. Which graph of d against frequency is correct?",
+    "image": "A diagram of a triangular prism deviating an incident light ray. The angle of deviation 'd' between the incident ray and the emergent ray is marked. Below this, four graphs (A, B, C, D) show deviation angle 'd' on the y-axis and 'frequency' on the x-axis. Each graph shows a different relationship, with markers for blue and red light frequencies. Graph B shows 'd' increasing with frequency, with blue light having a higher deviation than red light.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q24",
+    "Question_text": "Which component of the electromagnetic spectrum is used for the remote control of a television?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q25",
+    "Question_text": "A student stands a distance x in front of a large wall. He claps his hands at a regular rate so that each clap coincides with the echo from the previous clap. In a time t, he claps his hands N times. Which expression is used to calculate the speed of sound in air?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q26",
+    "Question_text": "An ultrasound scanner produces an image of an unborn baby. What does the scanner use to form an image of the baby?",
+    "image": "A diagram showing an ultrasound scanner probe positioned over the abdomen of a pregnant person, with an unborn baby visible inside. Waves are depicted traveling from the probe towards the baby and reflecting back to the probe, labeled 'part of scanner' and 'unborn baby'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Reflection of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q27",
+    "Question_text": "Object X is on an electronic balance. Object Y is held above object X as shown. The reading on the balance increases when Y is moved closer to X. Why does this happen?",
+    "image": "A diagram showing object X placed on an electronic balance, which reads '5.8 g'. Object Y is held above object X, not touching it.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetism",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q28",
+    "Question_text": "A teacher wants to demagnetise a bar magnet and tries three different methods. Which methods demagnetise the bar magnet?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q29",
+    "Question_text": "A piece of paper torn out of an exercise book is shown. is the work done (measured in joules) on unit charge (measured in coulombs) as it moves around the circuit. What is being defined?",
+    "image": "A partial definition handwritten on a torn piece of paper. The text reads: '______ is the work done (measured in joules) on unit charge (measured in coulombs) as it moves around the circuit.' The blank is implied to be 'electromotive force'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q30",
+    "Question_text": "Which circuit is connected to measure the current in the fixed resistor and the potential difference (p.d.) across the same resistor?",
+    "image": "Four circuit diagrams (A, B, C, D), each containing a power source, a fixed resistor, an ammeter (A), and a voltmeter (V). Diagram A shows ammeter in parallel and voltmeter in series. Diagram B correctly shows the ammeter in series with the resistor and the voltmeter in parallel across the resistor. Diagram C shows both ammeter and voltmeter in series. Diagram D shows both ammeter and voltmeter in parallel.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q31",
+    "Question_text": "The diagram shows a circuit with a 5.0 V power supply, three resistors and four output terminals P, Q, R and S. Between which pair of terminals is there a potential difference of 1.5 V?",
+    "image": "A circuit diagram showing a 5.0 V power supply connected to three resistors (2.0 Ω, 5.0 Ω, 3.0 Ω) in series. Four terminals (P, Q, R, S) are marked: P before the 2.0 Ω resistor, Q between 2.0 Ω and 5.0 Ω, R between 5.0 Ω and 3.0 Ω, and S after the 3.0 Ω resistor, at the negative terminal of the supply.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Resistance",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q32",
+    "Question_text": "Two 100 W lamps are connected in parallel to the mains supply, as shown. How much electrical energy is supplied by the mains when the switch is closed for 36 minutes?",
+    "image": "A circuit diagram showing two 100 W lamps connected in parallel to a 'mains supply' via a switch.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q33",
+    "Question_text": "The cost of electricity is 9.0 cents/kWh. It takes 0.060 hours and costs 1.2 cents to boil the water in a kettle. What is the power rating of the kettle?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q34",
+    "Question_text": "A transformer with an efficiency of 100% has a primary voltage input of 600 V and a secondary voltage output of 240 V. The secondary coil is attached to a resistor of resistance 120 Ω. What is the power dissipated in the resistor and what is the current in the primary coil?",
+    "image": "A diagram of an ideal transformer. The primary coil is connected to a '600 V a.c. input'. The secondary coil is connected to a '120 Ω' resistor, with a '240 V a.c. output' indicated across it.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations",
+      "Electrical Power",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q35",
+    "Question_text": "The diagram shows an alarm system in which the switch S is shown closed. The top circuit is arranged so that the electromagnet is positioned over the soft iron contact. What happens when the switch S is opened?",
+    "image": "A diagram of an electric bell/alarm system. A circuit containing a switch S is connected to a coil forming an electromagnet. Above the electromagnet, a soft iron contact is held by a spring, which is part of a lever pivoting to strike a bell. The switch S is shown closed, indicating the electromagnet is energized.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q36",
+    "Question_text": "A microphone detects a musical sound and the signal is fed into an oscilloscope. The diagram shows the trace which appears on the screen. The spot of light on the oscilloscope screen takes 1.2 ms to travel across the screen. What is the frequency of the musical sound?",
+    "image": "A diagram of an oscilloscope screen displaying a sinusoidal wave. The wave completes approximately 4 full cycles across the entire horizontal width of the screen. The total time for the trace across the screen is 1.2 ms.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "Properties of Sound Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q37",
+    "Question_text": "A student connects two components whose resistances can change and a fixed resistor across a 6.0 V supply. Under which conditions is the voltage across the fixed resistor the greatest?",
+    "image": "A series circuit diagram connected to a 6.0 V supply. It includes a thermistor (resistance decreases with increasing temperature), a Light Dependent Resistor (LDR, resistance decreases with increasing light intensity), and a fixed resistor, all in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q38",
+    "Question_text": "Technetium-99m is a radioactive isotope used in medical scanning. It is injected into the body and its emissions are detected outside the body. Which characteristics of technetium-99m make it suitable for use in medical scanning?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Uses of Radiation",
+      "Half-Life",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q39",
+    "Question_text": "Which statement about the production of electricity in a nuclear power station is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2021/Q40",
+    "Question_text": "In the simple model of an atom, X orbits around Y. What are X and Y?",
+    "image": "A simplified model of an atom. A central, larger particle labeled 'Y' is shown, with a smaller particle labeled 'X' orbiting it in a circular path. 'Y' is depicted as significantly larger than 'X'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

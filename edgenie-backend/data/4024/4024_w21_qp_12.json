@@ -1,0 +1,487 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Evaluate √4900.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate square roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Evaluate 5^3.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate cubes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Work out -8+7×(-5).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Shade one more small triangle so that the shape has rotational symmetry of order 3.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Write down the name of the solid formed from each net.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Find CXG.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Find BCX.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "Find ABX.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "Work out 69÷0.3.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Work out 4/7÷3/5 Give your answer as a mixed number in its simplest form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "By writing each number correct to 1 significant figure, estimate the value of 8230 × 0.64 / 18.7",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Write 0.06km in metres.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Convert 7 m² to cm².",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Write 216 as a product of its prime factors.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify prime numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Two positive integers are each greater than 25. Their lowest common multiple (LCM) is 216. Their highest common factor (HCF) is 18. Find the two integers.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify common factors",
+      "Identify common multiples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw translation of shape by vector"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "Triangle A is mapped onto triangle C by a rotation, 90° anticlockwise, centre (0, 0). Draw triangle C.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "Triangle A is mapped onto triangle D by an enlargement, scale factor 3, centre (5, -5). Draw triangle D.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "The garden has a path that is equidistant from P and Q. Using a straight edge and compasses only, construct the path.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "Yuna wants to plant a third tree in the garden that is nearer to Q than to P and more than 18 m from Q. Shade the regions where Yuna can plant the tree.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "The diagram shows a rectangle ABCD. E is a point on the diagonal AC such that DÊC = 90°. Prove that triangle ADC is similar to triangle DEC. Give a reason for each statement you make.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "The mean of five numbers is 17. The numbers are listed in order of size, starting with the smallest. The three smallest numbers are equal. The middle three numbers add to 35. The largest number is four times the smallest number. List the five numbers in order of size.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14a",
+    "Question_text": "Find the acceleration during the first 20 seconds.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14b",
+    "Question_text": "Describe the motion of the cyclist between t = 20 and t = 30.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14c",
+    "Question_text": "Find the total distance travelled in the 50 seconds.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "During one year the value of a bicycle decreased from $200 to $160. Calculate the percentage decrease in the value of the bicycle.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Solve the inequality. 23+2n > 5-6n",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Factorise. 3xy-qy+6px– 2pq",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "The diagram shows a shaded region ABC. The equation of the line AC is y=-1/2x+5. Write down the three inequalities that define the shaded region.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Find the value of x.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Find the matrix",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21a",
+    "Question_text": "Use the diagram to estimate the median",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21b",
+    "Question_text": "Use the diagram to estimate the interquartile range",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21c",
+    "Question_text": "Eggs are described as 'large' if their mass is 63 g or more. How many of these eggs are large?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22a",
+    "Question_text": "Solve. 27k = 9",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22b",
+    "Question_text": "Simplify. (16/x^8)^1/4",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "y is inversely proportional to (x+1)^2. When x = 1, y = 5. Find y when x = 9.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24ai",
+    "Question_text": "f(x) = 2x² +7x+4 g(x) = 2x+6 Find f(3),",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24aii",
+    "Question_text": "g(x) = 2x+6 Find g⁻¹(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24b",
+    "Question_text": "Solve f(x) - g(x) = 1.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25a",
+    "Question_text": "Complete the Venn diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25b",
+    "Question_text": "On the Venn diagram, the ratio x : y: z = 1:2:3. Find the value of each of x, y and z.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25c",
+    "Question_text": "One subset in the Venn diagram in part (a) has no students. Use set notation to describe this subset.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25d",
+    "Question_text": "Find n((DUG)∩A).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation"
+    ],
+    "Parts": []
+  }
+]

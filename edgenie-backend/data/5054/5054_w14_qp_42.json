@@ -1,0 +1,144 @@
+[
+  {
+    "QuestionNumber": "5054/42/O/N/14/Q1",
+    "Question_text": "A student uses a small plotting compass to investigate the magnetic field due to a bar magnet. The student places a piece of thin card over one end of the magnet, as shown in Fig. 1.1a.",
+    "image": "Fig. 1.1a shows a 3D perspective of a bar magnet with a thin card placed over one end. Fig. 1.1b (top view) shows the rectangular outline of the thin card with a dashed square representing the 'top of magnet under card' at its center.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student can use the small plotting compass to plot the shape of the magnetic field on the card. You may draw on Fig. 1.1b if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the plotting compass must be small.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Apart from the shape, state what else can be deduced about the magnetic field with this apparatus.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/O/N/14/Q2",
+    "Question_text": "A student investigates the use of pulleys to lift a load. The student uses two pulleys A and B to lift a load W, as shown in Fig. 2.1. The student uses a newton meter to measure the minimum force F needed to raise the load.",
+    "image": "Fig. 2.1 shows a pulley system. Pulley A is fixed to a support. Pulley B is movable and connected to a load W. A string passes over pulley A, then under pulley B, and is pulled by a newton meter (measuring force F). The other end of the string is fixed to the support.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Work",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why the student uses a constant speed.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest a reason for using a slow constant speed.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the force F shown by the newton meter.",
+        "image": "Fig. 2.2 shows a close-up of a newton meter scale, marked with '0N', '1', and '2'. The pointer indicates a value of 0.6N."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 2.2, mark the position of the eye of the student when taking the reading.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student takes a series of readings of F for different values of W. The readings are shown in Fig. 2.3. On Fig. 2.3, write your value of F from (b)(i).",
+        "image": "Fig. 2.3 is a table with columns 'W/N' and 'F/N' and several rows of data for force (F) measured for different loads (W). The first row for F/N is blank to be filled."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 2.4, plot the graph of F/N on the y-axis against W/N on the x-axis. Start your axes from the origin. Draw the straight line of best fit.",
+        "image": "Fig. 2.4 is a large, square grid with '0' marked at the bottom-left corner, intended for plotting a graph."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use your graph to find the value of F when W = 0.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Suggest a reason why the line of best fit does not pass through the origin.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Determine the gradient of the line. Show your working. Give your answer to 2 significant figures.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/O/N/14/Q3",
+    "Question_text": "A student is given two resistors of resistance 24Ω and 24kΩ. Each resistor is marked with three coloured bands. Fig. 3.1 shows the resistor colour code.",
+    "image": "Fig. 3.1 is a table showing the resistor colour code, mapping colours (black, brown, red, orange, yellow, green, blue, violet, grey, white) to numerical values (0-9).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the colours of the bands on the resistors given to the student.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe in words how the three resistors are combined to give the smallest possible resistance.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 3.2 shows one possible combination of the three resistors connected between the points A and B. In the three boxes of Fig. 3.3, draw three other possible combinations of all three resistors connected between points A and B.",
+        "image": "Fig. 3.2 shows three resistors connected in series between points A and B. Fig. 3.3 shows three empty boxes with points A and B, intended for drawing resistor combinations."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The student needs a resistance of 36Ω for his experiment. On Fig. 3.3, mark with the letter E the combination that has this resistance.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/O/N/14/Q4",
+    "Question_text": "A student is given a cylindrical 250 cm³ beaker. He is asked to find the outside diameter of the beaker. The other apparatus available is shown below.",
+    "image": "An 'Apparatus List' table is provided, listing: two half-metre rules, 30 cm ruler, 2m thin string, 2m thick string, plain paper, blocks of wood, marker pen, pencil, scissors, Blu-Tack, Sellotape, lined paper.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe in detail how the student can obtain an accurate value for the outside diameter of the beaker. In your account you should • state the equipment used, • explain how the equipment is used, • state any readings taken, • explain how the value for the diameter is obtained, • describe how to make the measurement accurate.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest one reason why it is more difficult to measure the internal diameter of the beaker.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,456 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "How permeable are the cell wall and the cell membrane in a plant cell?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Functions of cell structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "The diagram shows an arthropod. Using the key, what correctly identifies the arthropod in the picture?",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.1 Concept and use of a classification system",
+    "Sub_topic": [
+      "Dichotomous keys"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Which statements about diffusion are correct?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Diffusion definition",
+      "Factors influencing diffusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Some ways in which molecules may move into and out of cells are listed.",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Diffusion definition",
+      "Osmosis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Food tests were carried out on a solution containing biological molecules. The table shows the results of the tests.",
+    "image": null,
+    "Unit": "UNIT 4: Biological molecules",
+    "Topic": "4.1 Biological molecules",
+    "Sub_topic": [
+      "Chemical tests for molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "The graph shows the concentration of maltose produced when amylase digests starch at different pH values.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.2 Effects of temperature and pH",
+    "Sub_topic": [
+      "Explain temperature/pH effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "The diagram shows a section through part of a leaf from a dicotyledonous plant.",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.2 Leaf structure",
+    "Sub_topic": [
+      "Leaf adaptations",
+      "Leaf structures adaptations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which row shows why plants need magnesium ions and nitrate ions?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.3 Mineral nutrition",
+    "Sub_topic": [
+      "Nitrate for amino acids",
+      "Magnesium for chlorophyll"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Root hairs take in water and ions from the soil.",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.1 Uptake and transport of water and ions",
+    "Sub_topic": [
+      "Root hair function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "A herbaceous plant, growing in a nutrient solution, is placed in a well-lit container. Humid air is passed through the container.",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Transpiration definition",
+      "Water evaporation in leaves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Some of the nutrients in sweet potatoes are listed.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.1 Diet",
+    "Sub_topic": [
+      "Nutrient sources importance",
+      "Deficiency diseases symptoms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Four of the organs of the alimentary canal are listed.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Digestive system regions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "A person who has coeliac disease has flattened villi in their ileum.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.3 Absorption and assimilation",
+    "Sub_topic": [
+      "Small intestine absorption",
+      "Villus structure roles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Which process does not result in an overall loss of energy from the organism?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.1 Respiration",
+    "Sub_topic": [
+      "Uses of energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "When yeast cells respire anaerobically, which substance is used and which substances are produced?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.3 Anaerobic respiration",
+    "Sub_topic": [
+      "Anaerobic equation yeast"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which word equation represents aerobic respiration?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.2 Aerobic respiration",
+    "Sub_topic": [
+      "Aerobic respiration equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Which chamber of the heart has the thickest muscular walls?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.2 Heart",
+    "Sub_topic": [
+      "Heart structures",
+      "Muscle thickness explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "The diagram shows the human circulatory system.",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.1 Circulatory system",
+    "Sub_topic": [
+      "Circulatory system description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Which diagram describes the roles of a mosquito and Plasmodium in the disease malaria?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Mosquito as vector",
+      "Malarial parasite transmission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "The bar chart shows the percentage of women who had babies with low birth weight.",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Alcohol consumption effects",
+      "Tobacco smoke effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which disease might be treated successfully with an antibiotic?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.2 Antibiotics",
+    "Sub_topic": [
+      "Antibiotics for bacteria",
+      "Antibiotics not for viruses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "When babies are born, they have some passive immunity.",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.3 Immunity",
+    "Sub_topic": [
+      "Passive immunity definition",
+      "Breast-feeding passive immunity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "In which structure is there a fluid with a low concentration of urea?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Urinary structures functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "A person blinks when an insect flies into their eye.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "Reflex arc components",
+      "Reflex action definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "The graph shows changes in the diameter of a person's pupils while outdoors on a sunny day.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Pupil reflex explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "The graph shows the blood glucose concentration for a person in the hours after eating breakfast at 07:00.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.6 Blood glucose control",
+    "Sub_topic": [
+      "Blood glucose control need"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which hormone causes blood glucose concentration to be lowered?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.6 Blood glucose control",
+    "Sub_topic": [
+      "Glucose control by organs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Which statement about auxin is correct?",
+    "image": null,
+    "Unit": "UNIT 15: Coordination and response in plants",
+    "Topic": "15.1 Coordination and response in plants",
+    "Sub_topic": [
+      "Auxin role in shoots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "The diagram shows some stages in cell division in a fruit fly.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Mitosis description",
+      "Meiosis description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Which statement applies to organisms that reproduce asexually?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.2 Asexual and sexual reproduction",
+    "Sub_topic": [
+      "Asexual reproduction definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "What is the function of the sepals of most flowers?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Flower parts functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Which diagram matches the hormones with their functions in preparation for pregnancy?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Hormones in menstrual cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Which row describes the exchange of substances at the placenta?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Placenta umbilical functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "In a strand of DNA containing 100 nucleotide pairs, 46 nucleotides contain the base A.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.2 DNA",
+    "Sub_topic": [
+      "DNA molecule structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "Two brothers had different blood groups. One was blood group A and the other was blood group B.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Codominance ABO groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "The diagram shows a fermenter that is used to grow the fungus Penicillium, to produce penicillin.",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.1 Biotechnology",
+    "Sub_topic": [
+      "Fermenters production"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "The diagram shows four ecological pyramids.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Food chains and energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "The diagram shows a simplified nitrogen cycle.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Nitrogen cycle description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "Which change would lead to an increase in biodiversity in an area?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.5 Biodiversity and conservation",
+    "Sub_topic": [
+      "Biodiversity importance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Areas of tropical rainforests are often cut down and cleared.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Habitat destruction causes"
+    ],
+    "Parts": []
+  }
+]

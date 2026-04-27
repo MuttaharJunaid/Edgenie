@@ -1,0 +1,394 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which statements about book-keeping and accounting are correct?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "What increases owner's capital?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning",
+      "Apply accounting equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Carl, a trader, took goods from the business for his own use. These goods had cost $100, and $8 carriage had been paid for them to be delivered to the business. How would this be recorded in Carl's accounts in the books of the business?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Goods taken adjustments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Shula's financial year ends on 31 March. On 1 April 2021 there was a credit balance of $100 on Yasmin's account in Shula's purchases ledger. What does this mean?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Interpret ledger balances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Hasina buys radios from Nazneen at a list price of $10 each. Hasina bought 12 radios and was offered 20% trade discount and 4% cash discount. Two radios were faulty and were returned to Nazneen. What was the total of the credit note issued by Nazneen?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Trade/cash discount accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Which items would be recorded in the general journal of a bakery?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via journal entries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Alisha entered the credit notes she received in March in the correct returns journal. How was the total of this journal recorded in the ledger at the end of the month?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Use/process prime entry books",
+      "Post from prime entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which item would not be shown on a bank statement?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Bank statement purpose"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Which statement about a purchases ledger control account is not correct?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Purposes of control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Javid's sales ledger control account had a debit balance of $12000. Interest on an overdue account, $40, and discount allowed, $150, had been omitted. What was the correct balance on the sales ledger control account?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "What is the effect of treating an item of capital expenditure as revenue expenditure?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Effect on profit incorrect treatment",
+      "Effect on assets incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Why does a business provide for depreciation on non-current assets?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Reasons for depreciation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Machinery which had cost $6290 was sold for $3100. The disposal account showed a profit on disposal of $584. How much was the depreciation up to the date of disposal and on which side of the disposal account was it recorded?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Ledger/journal for disposals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "The following ledger account appeared in the books of a trader. Which entry was made in the income statement for the year ended 31 December 2020 for rent receivable?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Why does a business maintain a provision for doubtful debts account?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Reasons for doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "How should inventory be valued?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Inventory valuation basis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "What are the advantages of being a sole trader?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Sole trader advantages/disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Which items would appear in the income statement of a service business?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Trading vs service difference",
+      "Prepare income statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "A business provided the following information. What was the total of the current liabilities?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Prepare financial positions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "What is added to owner's capital to calculate capital employed?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Financial position content"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "On 1 April 2020 Ahmed had a provision for doubtful debts of $290. The following journal entry was made on 31 March 2021. What was the provision for doubtful debts deducted from trade receivables in Ahmed's statement of financial position on 31 March 2021?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Irrecoverable/provision adjustments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "X Limited started the year with an ordinary share capital of $100000. An ordinary share dividend of $3000 was paid during the year. Later a further $10000 of ordinary shares were issued. The profit for the year was $8000. By how much had equity increased at the end of the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Capital structure understanding"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Which providers of funds to a limited liability company receive a fixed rate of return on their investment?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Share/loan capital distinction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Every member of a sports club is required to pay an annual subscription of $50. The subscriptions account showed the following. What was the increase in the number of members in arrears between 1 January and 31 December 2020?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Revenue activities accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Which term is used to describe the surpluses which have been earned by a club over its lifetime?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Accumulated fund calculation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Nula provided the following information for the year ended 31 March 2021. What was the profit or loss for the year ended 31 March 2021?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate profit/loss capital change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "A trader who does not keep full accounting records was able to supply the following information. How much were the credit sales for the year ended 31 March 2021?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate missing figures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "A trader provided the following information. A mark-up of 25% is applied. What were the purchases for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "George provided the following information. His liquid (acid test) ratio was 1.2:1. What was his bank overdraft?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "A trader provided the following information. It was found that the closing inventory should have been $400. What was the correct rate of inventory turnover?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "The current ratio of X is 2:1. The current ratio of Y is 1.3:1. What does a comparison of these ratios show?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.2 Interpretation of accounting ratios",
+    "Sub_topic": [
+      "Compare results statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Which external parties would be interested in the financial statements of a trader?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.4 Interested parties",
+    "Sub_topic": [
+      "Uses by owners/managers",
+      "Uses by payables/banks",
+      "Uses by investors/members",
+      "Uses by governments/etc."
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Sabeena runs a retail business. She plans to close her business in a few weeks' time. How should her fixtures and fittings be valued in the statement of financial position?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "Why should a trader match his costs for a financial year with the revenues for the same period?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "Which international accounting objectives are described by the following statements?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

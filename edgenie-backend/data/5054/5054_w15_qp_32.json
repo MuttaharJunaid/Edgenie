@@ -1,0 +1,212 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/32/2015/Q1",
+    "Question_text": "In this experiment, you will calculate the density of the material used to make some slotted masses. You are provided with • five 100 g slotted masses, • an empty 250 cm³ beaker, • a supply of water, • a 100 cm³ measuring cylinder, • tweezers or tongs.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Record the total mass M of the five slotted masses.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Place the five 100g slotted masses into the beaker. Pour water from the supply into the beaker until the masses are completely immersed and the water level is at the 250cm³ mark on the beaker. Carefully remove the masses using the tweezers or tongs without removing any water. Using the measuring cylinder, determine the volume V of water in the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain the method that you used to determine V.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Explain two precautions that you took to determine an accurate value for V.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the total volume Vs of the five slotted masses.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the density ρ of the material used to make the slotted masses using ρ = M/Vs",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/32/2015/Q2",
+    "Question_text": "In this experiment, you will investigate light reflected from a plane mirror. You have been provided with • a plane mirror in a holder, • an illuminated slit, • a protractor.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.2, draw a line from point A at an angle of 30° to the line AB. This line should be at least 10 cm long. The end of the line should be labelled X, as shown in Fig. 2.1.",
+        "image": "Fig. 2.1 is a not-to-scale diagram showing points A and B, a line AX at 30 degrees to AB, and a line L perpendicular to AB at 3.0 cm from A. This serves as a reference for drawing on Fig. 2.2."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 2.2, draw a line L that is perpendicular to the line AB and is a distance of 3.0 cm from A, as shown in Fig. 2.1.",
+        "image": "Fig. 2.1 is a not-to-scale diagram showing points A and B, a line AX at 30 degrees to AB, and a line L perpendicular to AB at 3.0 cm from A. This serves as a reference for drawing on Fig. 2.2."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Place the front surface of the mirror along the line AX on Fig. 2.2 with the reflective surface facing towards the bottom of the page. Position the illuminated slit so that a ray of light passes along the line L towards the mirror.",
+        "image": "Fig. 2.2 shows a blank line labeled A and B, representing the base for the experimental setup and ray tracing."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Mark two points on the reflected ray. Choose the points so that the reflected ray can be drawn as accurately as possible. Label the points P1 and P2.",
+        "image": "Fig. 2.2 shows a blank line labeled A and B, representing the base for the experimental setup and ray tracing."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Remove the mirror. Draw a line through P1 and P2 that extends to the left of AX. Label this line R1.",
+        "image": "Fig. 2.2 shows a blank line labeled A and B, representing the base for the experimental setup and ray tracing."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 2.2, draw a line through A, above AB, at an angle of 60° to the line AB. Place the front of the mirror along this new line with the reflective surface towards the bottom of the page. Again position the light source and slit so that a ray of light passes along line L towards the mirror.",
+        "image": "Fig. 2.2 shows a blank line labeled A and B, representing the base for the experimental setup and ray tracing."
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "On Fig. 2.2, mark and label two points on the ray, reflected from the mirror in its new position. Label these points P3 and P4. Remove the mirror.",
+        "image": "Fig. 2.2 shows a blank line labeled A and B, representing the base for the experimental setup and ray tracing."
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Draw a line through P3 and P4 that meets the line R1. Label this line R2.",
+        "image": "Fig. 2.2 shows a blank line labeled A and B, representing the base for the experimental setup and ray tracing."
+      },
+      {
+        "part_label": "c(v)",
+        "part_text": "Measure the angle θ between the lines R1 and R2.",
+        "image": "Fig. 2.2 shows a blank line labeled A and B, representing the base for the experimental setup and ray tracing."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/32/2015/Q3",
+    "Question_text": "In this experiment, you will investigate the equilibrium of a half-metre rule. You have been provided with • a half-metre rule with a small hook at the 50.0 cm end, • a card on which the mass of the half-metre rule is written, • a 10g mass hanger with nine 10g masses, • a thin rod to act as a pivot, • a length of string with a loop at each end, • a pulley, • stands, bosses and clamps to support the rod and the pulley, • a metre rule, • a set square, • protractor.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a)",
+        "part_text": "The Supervisor has set up the apparatus as shown in Fig. 3.1.",
+        "image": "Fig. 3.1 shows an apparatus setup. A half-metre rule is pivoted on a rod held in a clamp on a stand. One end of the rule has a hook. A string connects the hook to a mass hanger via a pulley, which is also supported by a stand. The string section between the rule and the pulley is labeled AB. The entire setup is on a bench."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Initially, do not change the height of the rod held in the clamp or the height of the pulley. Add a 10g mass to the mass hanger and observe that the end of the half-metre rule with the hook rises. Continue to add 10 g masses until the section AB of the string is as close to horizontal as possible. If the bottom of the mass hanger reaches the bench before AB is horizontal, increase the separation of the stands holding the rod and the pulley. Record the total mass m of the mass hanger and the added masses. Also record the mass M of the half-metre rule that is written on the card.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate m/M.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The section of the string labelled AB may not be exactly horizontal. If it is not exactly horizontal, make small adjustments to the height of the rod until AB is horizontal. This is shown in Fig. 3.2. Explain how you checked that the string AB was horizontal. You may add to Fig. 3.2 if you wish.",
+        "image": "Fig. 3.2 is an annotated diagram of the setup similar to Fig. 3.1. It shows a rod held in a clamp, a half-metre rule pivoted on it, a string connecting to a mass hanger via a pulley. The half-metre rule makes an angle θ with the horizontal. The string section is labeled with length l. Heights h1 (string AB above bench) and h2 (center of rod above bench) are indicated."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure and record 1. the height h1 of the string AB above the bench, 2. the height h2 of the centre of the rod above the bench, 3. the distance l from the centre of the rod to the point where the loop of string meets the hook, as shown in Fig. 3.2.",
+        "image": "Fig. 3.2 is an annotated diagram of the setup similar to Fig. 3.1. It shows a rod held in a clamp, a half-metre rule pivoted on it, a string connecting to a mass hanger via a pulley. The half-metre rule makes an angle θ with the horizontal. The string section is labeled with length l. Heights h1 (string AB above bench) and h2 (center of rod above bench) are indicated."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The ratio R of the height difference (h2 – h1) to the length l gives an indication of the angle θ that the rule makes with the horizontal. 1. Calculate the value of R using R = (h2 - h1) / l. 2. Measure the angle θ as shown in Fig. 3.2.",
+        "image": "Fig. 3.2 is an annotated diagram of the setup similar to Fig. 3.1. It shows a rod held in a clamp, a half-metre rule pivoted on it, a string connecting to a mass hanger via a pulley. The half-metre rule makes an angle θ with the horizontal. The string section is labeled with length l. Heights h1 (string AB above bench) and h2 (center of rod above bench) are indicated."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/32/2015/Q4",
+    "Question_text": "In this experiment, you will investigate a potential divider circuit. You have been provided with • a power supply, • a switch, • an unknown resistor X, • connecting leads. Three points in the circuit have been labelled A, B, and C. Fig. 4.1 shows the arrangement of the components in the incomplete circuit. You have also been provided with • a voltmeter, • additional connecting leads, • three resistors labelled with the values of their resistance.",
+    "image": "Fig. 4.1 shows an incomplete circuit diagram. It consists of a power supply (positive and negative terminals) connected in series with a switch and an unknown resistor X. Point A is after the switch and before resistor X. Point B is after resistor X. Point C is after point B and before returning to the negative terminal of the power supply. A component is to be connected between B and C.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Combined Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a)",
+        "part_text": "Connect one of the 1.0kΩ resistors between points B and C.",
+        "image": "Fig. 4.1 shows an incomplete circuit diagram with a power supply, a switch, an unknown resistor X, and points A, B, C. A resistor is to be connected between B and C."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Connect the voltmeter between points A and C. Close the switch and record the reading Vo on the voltmeter. If you are unable to connect the voltmeter into the circuit, ask the Supervisor for help.",
+        "image": "Fig. 4.1 shows an incomplete circuit diagram with a power supply, a switch, an unknown resistor X, and points A, B, C. A voltmeter is to be connected between A and C."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Open the switch and disconnect the voltmeter. Reconnect the voltmeter between points B and C. Close the switch and record the reading V on the voltmeter between B and C. Open the switch.",
+        "image": "Fig. 4.1 shows an incomplete circuit diagram with a power supply, a switch, an unknown resistor X, and points A, B, C. A voltmeter is to be connected between B and C."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Disconnect the 1.0kΩ resistor from between B and C. Connect the 2.7 kΩ resistor in its place. Close the switch and record, in the table below, the potential difference V between B and C and the value of the resistance R, in kΩ, between B and C. Include columns for 1/V and 1/R in your table.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Open the switch and disconnect the 2.7kΩ resistor from between B and C. Connect the known resistors in series combinations between B and C to give three different values of resistance. Calculate the total resistance R of each combination of resistors and measure the corresponding V. Record your results in the table below. For two resistors in series Rtotal = R1 + R2.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Open the switch and disconnect the resistors from between B and C. Connect a 1.0kΩ resistor and the 2.7kΩ resistor in parallel between points B and C. Calculate the total resistance of this parallel combination. Close the switch and measure V. Record your results in the table. For two resistors in parallel 1/Rtotal = 1/R1 + 1/R2.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Copy your results from (a)(ii) into your table. Calculate the values of 1/V and 1/R for all your results and complete the table.",
+        "image": null
+      },
+      {
+        "part_label": "c)",
+        "part_text": "Using the grid opposite, plot a graph of 1/V on the y-axis against 1/R on the x-axis. Draw a straight line of best fit.",
+        "image": "A blank grid with square divisions is provided for plotting a graph of 1/V versus 1/R."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Determine the gradient G of the line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Calculate VoG.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "QuestionNumber": "May-June/2024/Q1",
+    "Question_text": "A ball is released from rest at point A and moves along a smooth track ABCDE as shown in Fig. 1.1. The ball is shown at point A and as it passes point B. The ball is always in contact with the track and air resistance is negligible. Fig. 1.2 shows the distance-time graph for the ball as it moves from A to E.",
+    "image": "Fig. 1.1 is a diagram showing a ball moving along a track with points A, B, C, D, E. The track starts high at A, curves down through B (a low point), goes over a hump at C, then flattens out towards D and E. The ball is depicted at A and B. Fig. 1.2 is a distance-time graph for the ball, showing distance in meters on the y-axis (0-4m) and time in seconds on the x-axis (0-2.5s). The graph starts at (0,0), shows a curved increase in distance, then a less steep curved increase, with a point X marked at approximately (1.0s, 1.8m), and finally a steeper increase towards the end.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Distance-Time Graphs",
+      "Acceleration",
+      "Energy Stores & Transfers",
+      "Work",
+      "Resultant Forces",
+      "Circular Motion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 1.2, mark: with the letter P one point where the ball accelerates with the letter Q one point where the ball has constant speed.",
+        "image": "Fig. 1.2 is a distance-time graph. Point P should be marked on a section of the graph where the gradient is increasing (indicating acceleration), and point Q should be marked on a straight line section where the gradient is constant (indicating constant speed)."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine the speed of the ball at point X on Fig. 1.2. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The speeds of the ball at A, B, C and D are VA, VB, VC and vD respectively. Arrange these four speeds from slowest to fastest.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Work is done to transfer energy between energy stores as the ball moves from A to B. Name the force involved in the work done and describe the energy transfer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The track at point B is circular in shape. On Fig. 1.1, draw an arrow to show the direction of the resultant force on the ball at point B.",
+        "image": "Fig. 1.1 shows a track. At point B, which is a low point in a curve, an arrow should be drawn to indicate the direction of the resultant force on the ball, pointing towards the center of the circular path (upwards)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2024/Q2",
+    "Question_text": "A small aircraft takes off from the horizontal deck of a ship. Before taking off, the aircraft is held in place by a holdback bar. When the holdback bar is released, the aircraft is pulled along the deck by a steam-powered piston as shown in Fig. 2.1. The steam exerts a high pressure on the piston.",
+    "image": "Fig. 2.1 is a diagram showing an aircraft on the deck of a ship, connected by a cable to a piston within a horizontal pipe. A holdback bar holds the aircraft in place. The pipe containing the piston is connected to a tank of steam and boiling water, and also has a pipe open to atmosphere. The diagram illustrates the mechanism for a steam-powered launch.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Atmospheric pressure",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Resultant Forces",
+      "Momentum",
+      "Acceleration",
+      "Speed & Velocity",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain, using ideas about particles, how the steam creates a pressure on the piston.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the pressure on the piston increases as the temperature of the steam increases.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the pressure is high enough, the holdback bar is released. The steam pushes the piston along the pipe shown in Fig. 2.1. The piston has a cross-sectional area of 0.30m². The pressure of the steam in the tank is 2.1 × 10⁶ Pa. Atmospheric pressure is 1.0 × 10⁵ Pa. Determine the resultant force on the piston caused by the pressure difference. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The force calculated in (b) causes the aircraft to accelerate to a maximum speed of 28 m/s from rest. The mass of the aircraft is 3.0 × 10⁴kg. Calculate the momentum of the aircraft at the maximum speed.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the time taken for the aircraft to reach the maximum speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2024/Q3",
+    "Question_text": "A pan containing ice at –15°C is placed on a gas heater as shown in Fig. 3.1. Fig. 3.2 shows how the temperature of the contents of the pan varies with time.",
+    "image": "Fig. 3.1 shows a cooking pan containing ice, placed on a lit gas heater burner. Fig. 3.2 is a temperature-time graph, with time in minutes on the x-axis (0-24 min) and temperature in °C on the y-axis (-15°C to 15°C). The graph shows temperature increasing linearly from -15°C to 0°C, then remaining constant at 0°C for a period, and finally increasing linearly again from 0°C to 15°C.",
+    "Unit": "Thermal Physics",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Particle Model",
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Energy Stores & Transfers",
+      "Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Thermal conduction occurs in the metal from which the pan is made. By referring to particles, describe the process of thermal conduction in a metal.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the melting temperature of ice in kelvin.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the temperature of the water is constant as the ice melts.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The initial mass of ice in the pan is 1.5kg and the initial temperature is –15°C. The specific heat capacity of ice is 2100J/(kg°C). Calculate the energy required to warm the ice to its melting temperature.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "All the energy transferred to the pan comes from the heater. Using your answer to (iii) and Fig. 3.2, determine the power of the heater used to warm the ice.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "The graph in Fig. 3.2 has a smaller gradient when the water is liquid than when it is solid. Suggest one reason why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2024/Q4",
+    "Question_text": "Ultrasound of frequency 30 kHz has a wavelength of 0.011 m in air.",
+    "image": "Fig. 4.1 shows two diagrams, A and B, illustrating radio waves passing over a hill towards a house. Diagram A depicts long wavelength radio waves bending around the hill (diffraction) to reach the house. Diagram B shows short wavelength radio waves which are blocked by the hill and do not reach the house, indicating less diffraction.",
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Features of Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves",
+      "Wave Behaviour",
+      "Electromagnetic Waves",
+      "Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by 'frequency'.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the speed of ultrasound in air. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State one use of ultrasound.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Sound waves are longitudinal waves. Water waves are transverse waves. Describe, by referring to the movement of the particles in the wave, the difference between a longitudinal wave and a transverse wave. You may include a labelled diagram to help your description.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one source of waves that generates both longitudinal and transverse waves.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 4.1 shows radio waves of long and short wavelength passing over the same hill. Explain why the radio waves in diagram A reach the house but the radio waves in diagram B do not reach the house.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2024/Q5",
+    "Question_text": "Fig. 5.1 shows part of a circuit containing a 240V mains supply connected to a lamp and two heaters of resistance 40 Ω and 60 Ω.",
+    "image": "Fig. 5.1 is a circuit diagram. It shows a 240V a.c. mains supply connected to a parallel arrangement of a lamp, a 40 Ω resistor, and a 60 Ω resistor. There is a gap in the main circuit line before the parallel components, where a fuse symbol needs to be drawn. Point P is marked on the main wire before it splits into the parallel branches. Fig. 5.2 is a blank graph with 'current' on the y-axis and 'voltage' on the x-axis, both starting from zero, intended for sketching a current-voltage graph.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Combined Resistance",
+      "Electrical Safety",
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete Fig. 5.1 by drawing the symbol for a fuse in the gap in the circuit.",
+        "image": "Fig. 5.1 is a circuit diagram where a fuse symbol needs to be drawn in a designated gap."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 5.2 sketch a current-voltage graph for a filament lamp.",
+        "image": "Fig. 5.2 is an empty current-voltage graph on which a non-linear, S-shaped curve (characteristic of a filament lamp) should be sketched."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain the shape of the current-voltage graph drawn in (i).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the current at point P in the circuit shown in Fig. 5.1.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The current in the lamp is 1.5A. Suggest a suitable fuse rating for the fuse.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Explain why a fuse rating much larger than the value in (i) is not suitable.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Explain why it is necessary to connect a fuse in the live wire rather than the neutral wire or earth wire.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2024/Q6",
+    "Question_text": "Fig. 6.1 shows the structure of a simple electric motor. The current in the coil causes the coil to rotate. A student notices that the coil turns in the direction shown by the curved arrow in Fig. 6.1.",
+    "image": "Fig. 6.1 shows a simple electric motor with a rectangular coil rotating between N and S poles of a magnet, connected to a battery via a commutator and carbon brushes. A curved arrow indicates the rotation direction. Fig. 6.2 illustrates two vertical current-carrying wires passing through a card, one current downwards and one upwards. Fig. 6.3 is a top-down view of Fig. 6.2, showing the current directions with a cross (into card) and a dot (out of card), with space for drawing magnetic field patterns.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Magnetic Effect of a Current",
+      "Force on a Current-Carrying Conductor",
+      "Fields Around Parallel Conductors",
+      "Magnetism",
+      "Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what happens to the motor if a stronger magnet is used.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 6.1 mark and label: the direction of the current in the coil the direction of the magnetic field.",
+        "image": "Fig. 6.1 is a diagram of a simple electric motor. The task is to draw and label arrows indicating the direction of current flow in the coil and the direction of the magnetic field lines (from N to S pole)."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain why the coil turns.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Two vertical wires carry equal currents in opposite directions. They pass at right angles through a piece of card as shown in Fig. 6.2. Fig. 6.3 is a view of the card from above. On Fig. 6.3 sketch the pattern of the magnetic field produced. Indicate the direction of the magnetic field on the pattern that you draw.",
+        "image": "Fig. 6.3 is a top-down view of two current-carrying wires (one current upwards, one downwards) passing through a card. The task is to sketch the resultant magnetic field pattern around these wires and indicate the direction of the field lines."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The currents in the two wires cause the wires to repel each other. Explain how the current in one wire causes a force on the other wire.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2024/Q7",
+    "Question_text": "Table 7.1 shows four different nuclei.",
+    "image": "Table 7.1 presents data for four nuclei: thorium-236 (236Th90), protactinium-236 (236Pa91), uranium-235 (235U92), and uranium-238 (238U92). Fig. 7.1 is a matching diagram with two columns. The left column lists 'use of radiation' (household fire (smoke) alarm, irradiating food to kill bacteria, sterilisation of equipment, measuring paper thickness). The right column lists 'type of radiation' (α-particle, β-particle, γ-radiation). A line is already drawn connecting 'household fire (smoke) alarm' to 'α-particle'.",
+    "Unit": "Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "Half-Life",
+      "Uses of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State which two nuclei have the same number of protons.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State which two nuclei have the same number of neutrons.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State which two nuclei have the same number of nucleons.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A teacher uses a Geiger-Müller tube and a counter to measure the background radiation in the laboratory. The counter records 20 counts per minute. A radioactive source is then placed in front of the tube and the counter records 420 counts per minute. State what is meant by 'background radiation'.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The measured count rate of 420 counts per minute can be corrected for background radiation. Calculate the corrected count rate from the source.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The radioactive source has a half-life of 45 minutes. Determine the reading on the counter 90 minutes later.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Suggest why your answer to (iii) is only an estimate.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 7.1 shows different uses of three different types of radiation. Draw a line on Fig. 7.1 from each use of radiation to the type of radiation used. One line has been drawn for you. Each type of radiation can be used once, more than once or not at all.",
+        "image": "Fig. 7.1 is a matching task where lines need to be drawn from specified uses of radiation (e.g., irradiating food, sterilisation) to the correct type of radiation (α-particle, β-particle, γ-radiation)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2024/Q8",
+    "Question_text": "Table 8.1 shows data about three planets, Mercury, Venus and Earth.",
+    "image": "Table 8.1 provides data for Mercury, Venus, and Earth, including time for one orbit, distance from the Sun, average density, and gravitational field strength at the surface. Fig. 8.1 is a diagram showing the Sun and the three planets (Mercury, Venus, Earth) initially aligned. Dashed lines represent their orbital paths around the Sun, and an arrow indicates the direction of rotation. The diagram is marked 'not to scale'.",
+    "Unit": "Space Physics",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "The Solar System",
+      "Orbiting Bodies",
+      "Gravitational Effects on Orbits",
+      "Calculating Orbital Speeds",
+      "Mass & Weight",
+      "The Earth, Moon & Sun",
+      "The Sun as a Star",
+      "Stars",
+      "The Universe"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 8.1 shows these planets in alignment with the Sun. They rotate around the Sun in the direction shown. Mark and label on Fig. 8.1 the positions of the three planets 110 days after the position shown in Fig. 8.1.",
+        "image": "Fig. 8.1 shows the initial alignment of the Sun, Mercury, Venus, and Earth. The task requires marking the new positions of these planets on their orbital paths 110 days later, based on their orbital periods."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Each of the three planets has a similar average density. Suggest why the gravitational field strength at the surface of Mercury is much smaller than at the surface of Venus.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "An object has a weight of 37 N on the surface of Mercury. Calculate its weight on the surface of the Earth. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State what is meant by a 'moon'.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The Sun will eventually run out of hydrogen. Describe what happens to the Sun when the hydrogen runs out.",
+        "image": null
+      }
+    ]
+  }
+]

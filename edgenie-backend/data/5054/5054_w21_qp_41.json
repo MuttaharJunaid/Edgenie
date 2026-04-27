@@ -1,0 +1,149 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/41/2021/Q1",
+    "Question_text": "A student investigates how the period of a pendulum depends upon its length. The student arranges the apparatus, as shown in Fig. 1.1, and clamps the string of the pendulum in position. The length of the pendulum is the distance from the centre of the pendulum bob to the point of support.",
+    "image": "A diagram labeled Fig. 1.1 shows a simple pendulum setup. A clamp is attached to a vertical stand (not fully shown). A string is suspended from a 'point of support' on the clamp. A spherical 'pendulum bob' is attached to the end of the string. A dashed line indicates the length 'l' from the point of support to the center of the pendulum bob. The base of the stand rests on a 'bench'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure the distance l on Fig. 1.1 to the nearest millimetre. Record your result.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Fig. 1.1 is drawn to a scale of one-eighth of the full size. Determine the actual length L of the pendulum from the point of support to the centre of the pendulum bob.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The period T is the time taken for one complete oscillation of the pendulum. One complete oscillation is one complete swing, e.g. from the middle to one side, through the middle to the other side and back to the middle. The student adjusts the length of the thread until L is 15.0cm, gives the bob a small sideways displacement and releases it so that it oscillates, records the time for 10 complete oscillations, and repeats this procedure two more times. The following values of the time for 10 complete oscillations are recorded: 7.4 s, 7.8 s, 7.7 s. Calculate T10, the average value of the time for 10 complete oscillations. Give your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student repeats the procedure in (b)(i) for length L = 20.0cm, 25.0cm, 30.0cm and 35.0 cm. The results are shown in Table 1.1. Complete Table 1.1 using your answer from (b)(i). You will need to calculate T and T².",
+        "image": "A table titled 'Table 1.1' with four columns: L/cm, T10/s, T/s, and T²/s². It contains rows with L values and corresponding T10/s, T/s, T²/s² values, with the first row (L=15.0cm) having blank entries for T10/s, T/s, and T²/s² to be completed."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain why the student measures the time for 10 complete oscillations, rather than for 1 complete oscillation.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "On the grid in Fig. 1.2, plot a graph of T² (y-axis) against L (x-axis). Start your axes from the origin (0,0). Draw the straight line of best fit.",
+        "image": "An empty graph grid, labeled Fig. 1.2, with origin at (0,0), ready for plotting data with T² on the y-axis and L on the x-axis."
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "Determine the gradient G of your line. Show your working and indicate on the graph the values you use.",
+        "image": null
+      },
+      {
+        "part_label": "b(vi)",
+        "part_text": "Theory suggests that the gravitational field strength g is equal to: g = 0.39 / G. Use this equation and your value of G in (b)(v) to calculate a value for g.",
+        "image": null
+      },
+      {
+        "part_label": "b(vii)",
+        "part_text": "Compare the value of g you obtained in (b)(vi) with the accepted value of 10N/kg. State whether the two values agree with each other and justify your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/41/2021/Q2",
+    "Question_text": "A student carries out an investigation to find the specific heat capacity c of copper.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student places a small block of copper on a balance to find its mass m, as shown in Fig. 2.1. Record the mass m of the block, correct to one decimal place.",
+        "image": "Fig. 2.1 shows a digital balance with a small block of copper placed on its pan. The display of the balance shows a reading of '29.165 g'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student measures a volume of water in a measuring cylinder, as shown in Fig. 2.2. Record the volume V of water shown in Fig. 2.2.",
+        "image": "Fig. 2.2 shows a measuring cylinder with a scale from 10 cm³ to 100 cm³. The water level (meniscus) is clearly visible and is aligned with the 40 cm³ mark on the scale."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student pours the water from the measuring cylinder into a beaker, records the initial temperature of the water as θ₁ = 23°C, places the copper block in boiling water for several minutes until the block is at a temperature of 100°C, lowers the copper block into the beaker of water and stirs the water until the reading on the thermometer stops rising, and records the final temperature of the water which is 27°C. The specific heat capacity c of copper can be found using the equation c = (V × 4.2 × (27 – Ө₁)) / (m × (100 – 27)). Use your results in (a) and (b) and the value of θ₁ to calculate the value of c. Give the unit of your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "This method does not give an accurate value for c. Suggest one reason for this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/41/2021/Q3",
+    "Question_text": "A student investigates the resistance of a thermistor. The student places the thermistor in a beaker of cold water and connects the thermistor into the circuit shown in Fig. 3.1.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.1, draw a voltmeter connected to measure the voltage V across the thermistor.",
+        "image": "Fig. 3.1 shows an electrical circuit diagram. It includes a power source (represented by battery symbols), an ammeter (labeled 'A') in series, and a thermistor. The thermistor is drawn immersed in a beaker containing water."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Fig. 3.2 shows the ammeter and voltmeter readings when the thermistor is in cold water. Record the values of current I and voltage V when the thermistor is in cold water.",
+        "image": "Fig. 3.2 displays two analogue meter readings. The left meter, an ammeter (A), has a scale from 0 to 1 A, with major divisions at 0.2, 0.4, 0.6, 0.8. Its needle points precisely to 0.4 A. The right meter, a voltmeter (V), has a scale from 0 to 5 V, with major divisions at 1, 2, 3, 4. Its needle points halfway between 3 V and 4 V, indicating 3.5 V."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student adds some hot water to the beaker, stirs the water, and repeats the reading of current and voltage. Explain why the student stirs the water.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The voltmeter reading does not change. The new ammeter reading is shown in Fig. 3.3. Resistance R is given by the equation: R = V/I. State how the resistance of the thermistor changes as the water becomes hotter. Explain how the readings shown in Fig. 3.2 and Fig. 3.3 support your answer.",
+        "image": "Fig. 3.3 shows an analogue ammeter (A) with a scale from 0 to 1 A, with major divisions at 0.2, 0.4, 0.6, 0.8. Its needle points precisely to 0.6 A."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/41/2021/Q4",
+    "Question_text": "Fig. 4.1 shows a cardboard lamina with three small holes and a piece of string with a small mass attached at one end. The string and mass together are called a plumb line.",
+    "image": "Fig. 4.1 illustrates a cardboard lamina, an irregularly shaped object with three small holes marked on it. A plumb line, composed of a string with a small mass at its end, is depicted. The string is labeled 'string' and the mass is labeled 'small mass'. The combined string and mass are indicated as 'plumb line'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe an experiment that uses the apparatus shown in Fig. 4.1 to find the centre of mass of the lamina. A clamp, boss and stand and a long pin are also available for use. Your answer must include a labelled diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest how the position of the centre of mass found in (a) can be confirmed using a sharp pin only.",
+        "image": null
+      }
+    ]
+  }
+]

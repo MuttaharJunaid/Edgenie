@@ -1,0 +1,451 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Complete the following table and calculate the rise in temperature.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions",
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "What type of reaction does this temperature change indicate?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions",
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "A gas was produced in the reaction. Name and describe a positive test for this gas.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Name the resulting solution after the sodium had reacted with the water.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1dii",
+    "Question_text": "What was the colour of the resulting solution?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Effects on indicators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "State two other observations that can be made when sodium reacts with water.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series",
+      "Relative reactivities",
+      "Reactions with water, steam and acid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Identify two errors in the student's apparatus.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Name apparatus A.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bii",
+    "Question_text": "What is the purpose of apparatus A?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2biii",
+    "Question_text": "Name apparatus B.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2biv",
+    "Question_text": "What is the purpose of apparatus B?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ci",
+    "Question_text": "What was the reading on the thermometer when the first few drops of liquid appeared in C?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2cii",
+    "Question_text": "Name this liquid.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Petroleum as hydrocarbons",
+      "Fractional distillation",
+      "Properties of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ciii",
+    "Question_text": "How did the student know when all of this liquid had distilled over?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Petroleum as hydrocarbons",
+      "Fractional distillation",
+      "Properties of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Why was an electric heater rather than a flame used to heat the mixture?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Petroleum as hydrocarbons",
+      "Fractional distillation",
+      "Properties of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e",
+    "Question_text": "Calculate the amount, in moles, of both hexane and heptane and hence the percentage by moles of hexane in the mixture.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant",
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Water containing a little dilute sulfuric acid was electrolysed, using carbon electrodes.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "The diagram below shows the result of a chromatography experiment on substances L, M, N and P.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography",
+      "Interpreting chromatograms",
+      "Rf equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A student did an experiment to compare the reactivities of three different metals.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series",
+      "Relative reactivities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A compound, P, contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Empirical formula definition",
+      "Formula from relative numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Which of the following statements, involving aqueous ethanoic acid, is not correct?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of acids",
+      "Neutralisation reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Calculate the mass of iron(II) sulfate used in the experiment.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative atomic mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "What was the colour of the solution in the conical flask.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "Use these diagrams to complete the following table of results.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "Calculate how many moles of KMnO4 were present in the average volume of G.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8e",
+    "Question_text": "Calculate how many moles of FeSO4 were present in 25.0 cm³ of H.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8f",
+    "Question_text": "Calculate how many moles of FeSO4 were present in 250 cm³ of H.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8g",
+    "Question_text": "Calculate the mass of FeSO4 in the original sample of FeSO4.xH2O.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8h",
+    "Question_text": "Calculate the mass of water in the sample of FeSO4.xH2O.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8i",
+    "Question_text": "Calculate the number of moles of water in the sample of FeSO4.xH2O.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8j",
+    "Question_text": "Calculate the value of x in FeSO4.xH2O.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8k",
+    "Question_text": "Write the formula for hydrated iron(II) sulfate crystals.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formulae of elements and compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8l",
+    "Question_text": "Explain why the reaction between aqueous iron(II) sulfate and aqueous potassium manganate(VII) is an example of a redox reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox reactions definition",
+      "Oxidation definition",
+      "Reduction definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8m",
+    "Question_text": "Suggest why a similar titration cannot be used to find the value of x in FeCl3.xH2O.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Hydrated and anhydrous substances",
+      "Water of crystallisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "The following table shows the tests a student did on compound P. Complete the table by adding the conclusion for test (a), the observations for (b)(i), (b)(ii) and (c) and the test and observation for (d).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "Why did the mass of the flask and contents decrease during the reaction?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "Complete the table by calculating the total loss in mass for both experiments.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "Plot the points for each experiment on the grid.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction",
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  }
+]

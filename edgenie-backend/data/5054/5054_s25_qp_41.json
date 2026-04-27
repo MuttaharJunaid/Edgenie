@@ -1,0 +1,201 @@
+[
+  {
+    "QuestionNumber": "5054/41/May/June/2025/Q1",
+    "Question_text": "A student investigates the resistance of a lamp.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 shows the circuit used.",
+        "image": "A circuit diagram (Fig. 1.1) showing a power supply with positive and negative terminals, a switch, an ammeter (labeled A), a lamp (represented by a circle with a cross, with points P and Q on either side), and a voltmeter (labeled V) connected in parallel across the lamp. The components are arranged in series: power supply -> ammeter -> switch -> point P of the lamp. Point Q of the lamp connects back to the negative terminal of the power supply. The voltmeter is connected in parallel across points P and Q of the lamp."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "The student closes the switch. The readings of current I_L and potential difference V_L are shown in Fig. 1.2. Record the readings shown.",
+        "image": "Fig. 1.2 displays two analogue meter dials. The first dial, for current, has a scale from 0 to 1.0 A, marked with major divisions at 0, 0.2, 0.4, 0.6, 0.8, and 1.0 A. The needle points to the mark exactly halfway between 0.4 A and 0.6 A, indicating 0.5 A. The second dial, for voltage, has a scale from 0 to 5 V, marked with major divisions at 0, 1, 2, 3, 4, and 5 V. The needle points to the mark exactly halfway between 2 V and 3 V, indicating 2.5 V."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The student opens the switch. Suggest why the switch is opened after the readings are recorded.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Use the equation R = V/I to calculate the resistance R_L of the lamp. Give your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student: rearranges the circuit and connects a 10Ω resistor in series with the lamp connects the voltmeter to measure the potential difference across the resistor and lamp combination. In the space below, draw the new circuit with the resistor added.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The reading on the voltmeter does not change. Fig. 1.3 shows the new current reading on the ammeter. This is current I_C. Record I_C. Use the equation in (a)(iii) to find the resistance R_C of the lamp and the resistor connected in series.",
+        "image": "Fig. 1.3 displays an analogue ammeter dial with a scale from 0 to 1.0 A, marked with major divisions at 0, 0.2, 0.4, 0.6, 0.8, and 1.0 A. The needle points to the mark exactly halfway between 0.2 A and 0.4 A, indicating 0.3 A."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Theory states that the value of R_L in the new circuit is given by: R_L = R_C - 10. Calculate the resistance R_L of the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "State how the brightness of the lamp changes in the new circuit compared to the circuit shown in Fig. 1.1, and explain why. change in brightness of lamp explanation",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/41/May/June/2025/Q2",
+    "Question_text": "A student investigates the light reflected from a plane mirror.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 2.1 shows a straight line AB.",
+        "image": "Fig. 2.1 shows a horizontal straight line segment. The left end of the line is labeled 'A', and the right end is labeled 'B'."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Draw a line from point A at an angle of 30° in an anticlockwise direction from AB. This line should be more than 10 cm long. Label the end of the line as point C.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Mark a point D on the line AB, 4.0 cm from point A. Draw a line perpendicular to AB through point D. This line must also pass through the line AC that you have drawn in part (a)(i). Label, with an E, the point where the line through point D passes through AC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student: places a plane mirror along the line AC with the reflective surface facing point B arranges an illuminated slit so that a ray of light passes along the line DE. The ray reflects from the mirror.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Draw a normal to line AC at point E.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Label the angle between DE and the normal you have drawn with a θ. Measure and record angle θ.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The student: marks two points P₁ and P₂ on the reflected line removes the mirror and draws the reflected line through points P₁ and P₂. Describe how points P₁ and P₂ are chosen to give as accurate a reflected line as possible.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student repeats the procedure with a ray of light striking the mirror at a different angle.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Fig. 2.2 shows a second line, labelled A'B'. On Fig. 2.2, draw a line from point A' at an angle of 60° in an anticlockwise direction from line A'B'. The line should be more than 10 cm long. Label the end of the line with a C'.",
+        "image": "Fig. 2.2 shows a horizontal straight line segment. The left end of the line is labeled 'A'', and the right end is labeled 'B''."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Mark a point D' on the line A'B', 4.0 cm from point A'. Draw a line perpendicular to A'B' through point D'. This line must also pass through the line A'C'. Label the point where the line through point D' passes through A'C' with an E'. Draw a normal to line A'C' at point E'.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Label the angle between D'E' and the normal you have drawn with an α. Explain one practical precaution that you take to ensure that the normal is accurately drawn.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Measure and record angle α.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Theory suggests that: α = 2θ. State whether your results support this theory. Give a reason for your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/41/May/June/2025/Q3",
+    "Question_text": "A student investigates the time taken for water to flow through a small hole in the bottom of a can. The apparatus is arranged as shown in Fig. 3.1.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Pressure in a Liquid"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The apparatus is arranged as shown in Fig. 3.1.",
+        "image": "Fig. 3.1 shows a diagram of an experimental setup. A metal can with a small hole at its bottom is held by a retort stand and clamp. A funnel is placed on top of the can. Below the can, a 50 cm³ measuring cylinder is placed on a bench to collect water. To the left of this setup, a larger 100 cm³ measuring cylinder is shown, presumably for initial volume measurements."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "The student: uses the 100 cm³ measuring cylinder to measure a volume V = 70 cm³ of water places a finger under the hole at the bottom of the can and pours the water into the can from the measuring cylinder removes the finger and, at the same time, starts the stopwatch records the time t₁ when the volume of water collected in the measuring cylinder is 30 cm³ stops the stopwatch. Fig. 3.2 shows the reading on the stopwatch at time t₁. Record t₁.",
+        "image": "Fig. 3.2 shows a digital stopwatch display. The display reads '0:22:63', indicating 0 minutes, 22 seconds, and 63 hundredths of a second. Labels 'min', 's', and '1/100 s' are also visible."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The student repeats (a)(i) and records the time t₂ shown in Fig. 3.3. Record t₂ and find the average time t_av of t₁ and t₂. Give your answer to the nearest 0.1 s.",
+        "image": "Fig. 3.3 shows a digital stopwatch display. The display reads '0:21:84', indicating 0 minutes, 21 seconds, and 84 hundredths of a second. Labels 'min', 's', and '1/100 s' are also visible."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The average rate of flow R is given by: R = 30 cm³ / t_av. Calculate R and give the unit of your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student repeats (a)(i) and (a)(ii) for values of V = 100 cm³, 90 cm³, 80 cm³, 60 cm³ and 50 cm³. The volume of water collected in the measuring cylinder underneath the can is 30 cm³ for each value of V. The readings are shown in Table 3.1. In Table 3.1: complete the headings, with units, in the top row of the table add your readings from (a)(i) and (a)(ii) calculate the average time for each set of readings. Table 3.1 is a partially filled table with columns for 'V' (volume in cm³), 't1' (time 1 in s), 't2' (time 2 in s), and a blank column for 't_av' (average time in s). It contains data rows for V = 100, 90, 80, 60, and 50 cm³, with their respective t1 and t2 values. There is also an empty row for V = 70 cm³.",
+        "image": "Table 3.1, partially filled. It has four columns. The first column is 'V' with values 100, 90, 80, 70 (empty row), 60, 50. The second column is 't1' with values 16.0, 16.9, 18.9, (empty), 25.3, 31.1. The third column is 't2' with values 16.2, 17.4, 19.7, (empty), 25.9, 31.3. The fourth column for average time is entirely blank."
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid provided in Fig. 3.4, plot a graph of t_av on the y-axis against V on the x-axis. You do not need to start your axes at (0,0). Draw the curve of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest why times t₁ and t₂ for values of V below 50 cm³ are not measured.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "On your graph, sketch the line you would expect to see if the small hole in the can is made slightly bigger. Label this line L.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/41/May/June/2025/Q4",
+    "Question_text": "When a table tennis ball is dropped as shown in Fig. 4.1, it will bounce back upwards. Some of the initial gravitational potential energy (GPE) of the ball is lost in the bounce. Plan an experiment to investigate how the height from which the ball is dropped affects the percentage of GPE lost in each bounce. You may use any apparatus commonly found in a school laboratory in addition to the apparatus shown in Fig. 4.1. GPE is given by the equation: GPE = mgh where m is the mass of the ball, g is the gravitational field strength and h is the height above the bench from which the ball is dropped. In your plan, you should: state what you will measure (dependent variable) and any additional apparatus you may use state any key variables to keep constant explain how you will ensure the results are as accurate as possible draw a table with column headings to display the results explain how you will use the results to draw a conclusion.",
+    "image": "Fig. 4.1 shows an experimental setup. A retort stand is used to hold a metre rule vertically. The metre rule is marked from 0 to 100 cm, with the 0 cm mark at the bottom, resting on a bench. A table tennis ball is depicted at an approximate height of 80 cm, ready to be dropped. The setup aims to measure height of drop and bounce.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Conservation of Energy",
+      "Energy Stores & Transfers",
+      "Measurement"
+    ],
+    "Parts": []
+  }
+]

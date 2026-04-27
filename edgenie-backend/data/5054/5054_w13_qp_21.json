@@ -1,0 +1,429 @@
+[
+  {
+    "QuestionNumber": "October-November/21/2013/Q1",
+    "Question_text": "A swimming pool is filled with 450 m³ of water at 12°C. The density of water is 1000kg/m³ and its specific heat capacity is 4.2J/(g°C).",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy, UNIT 2: THERMAL PHYSICS",
+    "Topic": "1.4 Density, 2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Density",
+      "Specific Heat Capacity",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the mass of water in the swimming pool.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the thermal energy (heat) needed to raise the temperature of the water to 27°C.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest one reason why the thermal energy supplied to the water by the heating system, when raising the temperature of the water to 27°C, differs from the value calculated in (i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q2",
+    "Question_text": "A girl of weight 550N is playing on a see-saw with her brother. Fig. 2.1 shows her brother of weight W sitting 1.1 m to the right of the balance point. The see-saw is balanced when the girl sits 0.86m to the left of the balance point.",
+    "image": "Fig. 2.1 shows a see-saw with a central pivot (balance point). A girl with weight 550 N is positioned 0.86 m to the left of the balance point. Her brother, with weight W, is positioned 1.1 m to the right of the balance point. Downward arrows indicate their weights. The image is labeled 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate W.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The girl and her brother slide equal distances along the see-saw away from each other. Describe and explain what happens.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q3",
+    "Question_text": "A schoolboy tries to inflate a bicycle tyre using a bicycle pump.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy, UNIT 2: THERMAL PHYSICS",
+    "Topic": "1.8 Pressure, 2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how the air molecules inside the pump produce a pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The opening at the end of the pump is blocked with a small amount of dried earth, as shown in Fig. 3.1. The air is initially at a pressure of 100kPa. During one stroke of the pump, the volume of air in the pump is reduced from 120cm³ to 16cm³. Assuming that the temperature of the air remains constant, calculate the pressure of the compressed air.",
+        "image": "Fig. 3.1 shows a cross-section of a bicycle pump. A piston on the right compresses air within the pump. The opening at the left end of the pump is blocked by a small amount of dried earth, sealing the air inside. Labels include 'dried earth', 'pump', and 'air'."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Compressed air in the pump at this pressure exerts a force on the dried earth. The cross-sectional area of the opening at the end of the pump is 1.2 × 10⁻⁵ m². Calculate the size of this force.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "In fact, the temperature of the air in the pump increases as its volume decreases. The actual pressure of the 16cm³ of air differs from the pressure calculated in (i). Using ideas about molecules, state and explain this difference.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q4",
+    "Question_text": "Fig. 4.1 shows food being cooked in an electric grill. There are red-hot heating elements above the food and thermal energy (heat) is transmitted to the food by radiation.",
+    "image": "Fig. 4.1 shows the interior of an electric grill. At the top, there are several coiled, red-hot heating elements. Below these elements, food items (appearing as circular objects, possibly pizzas) are placed on a rack. An arrow points from the heating elements towards the food, indicating heat transfer.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant, in this case, by radiation.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why very little thermal energy is transmitted to the food by conduction,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "convection.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q5",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw a labelled diagram to show the structure of a liquid-in-glass clinical thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A clinical thermometer is used to measure the temperature of a patient. When removed, the thermometer cools but it continues to show the maximum temperature reached. Explain how this happens.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest a material that is used to make a permanent magnet.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When there are no other magnetic fields present, the needle of a plotting compass points due north in the Earth's magnetic field. This is shown in Fig. 6.1. The plotting compass is placed close to a permanent magnet, first at position A and then at position B, as shown in Fig. 6.2. The magnetic field close to the permanent magnet is very much larger than the magnetic field of the Earth. On Fig. 6.2, draw needles in the two circles to show the direction in which the compass needle points when the compass is at A and at B.",
+        "image": "Fig. 6.1 shows a plotting compass with its needle pointing upwards, indicating 'north'. Fig. 6.2 shows a bar magnet with its North pole (N) on the left. Two empty circles, labeled 'A' (to the left of the North pole) and 'B' (to the right of the South pole, which is implied), indicate positions for a plotting compass."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe an electrical method that is used to demagnetise a permanent magnet. You may include a diagram in your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q7",
+    "Question_text": "A 9.6kW electric shower is powered by a 240V mains supply.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities, 4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electrical Power",
+      "Electrical Energy",
+      "Electrical Safety"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the electric current in the heating element of the shower.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest an appropriate rating for the circuit breaker in the circuit for the shower.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A family uses the shower for a total time of 25 minutes every day. The cost of 1kWh of electrical energy is 21 cents. Calculate the daily cost of using the shower.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q8",
+    "Question_text": "A radioactive sample emits only beta-particles and gamma-rays.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Detection of Radioactivity",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe, with the aid of a labelled diagram, an experiment that shows that the sample does not emit alpha-particles.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State two safety precautions that must be taken when working with the radioactive sample.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q9",
+    "Question_text": "Fig. 9.1 shows a skydiver, of mass 70kg, falling towards the Earth at constant speed, a long time after jumping from an aeroplane. At time t = 0, he receives a radio signal. He opens his parachute 12s later. Fig. 9.2 is the speed-time graph for the skydiver.",
+    "image": "Fig. 9.1 is an illustration of a skydiver in a free-fall posture. Fig. 9.2 is a speed-time graph with speed (m/s) on the y-axis (0-60) and time (s) on the x-axis (0-30). The graph shows constant speed at approximately 55 m/s from t=0 to t=12s, followed by a sharp decrease and then a gradual curve to a lower constant speed (terminal velocity) of about 15 m/s after t=25s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion, 1.3 Mass & weight, 1.5 Forces, 1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Speed-Time Graphs",
+      "terminal velocity",
+      "Mass & Weight",
+      "Friction",
+      "Gravitational Potential Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the difference between speed and velocity.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The gravitational field strength g is 10N/kg. Calculate the weight of the skydiver.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the size of the air resistance acting on the skydiver between t = 0 and t = 12s.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "For the period between t = 0 and t = 12s, determine the speed of the skydiver,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the distance fallen by the skydiver,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "the change in the gravitational potential energy of the skydiver.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "As he falls at constant speed, his gravitational potential energy changes into another form. State the name of this other form of energy.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "State and explain what happens to the air resistance as the skydiver opens his parachute.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "State and explain the effect on the motion of the skydiver of opening the parachute.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "By t = 15s, his parachute is fully open. State and explain what happens to the air resistance after t = 15s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q10",
+    "Question_text": "A student goes for a walk in the mountains. During a storm, she sees lightning strike a hillside in the distance. Several seconds later, she hears the thunder caused by the lightning.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves, 3.2 Light, 3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Measuring the Speed of Sound",
+      "The Wave Equation",
+      "Refraction of Light",
+      "Snell's Law",
+      "Dispersion of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why she hears the thunder several seconds after she sees the lightning.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The student knows the distance to the hillside. She waits for lightning to strike the hillside again. Describe how she can determine a value for the speed of sound in air.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "After the storm, the student sees a rainbow. State the speed of light in air.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the wavelength in air of light of frequency 7.5 × 10¹⁴ Hz.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State the colours of the spectrum in order of increasing wavelength.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In the laboratory, the student sends blue light into a glass prism placed on a sheet of paper. The arrangement is shown in Fig. 10.1. The blue light enters the prism with an angle of incidence of 45°. On Fig. 10.1, mark the angle of refraction in the glass and label it r.",
+        "image": "Fig. 10.1 shows a triangular glass prism. A ray of blue light is incident on one face of the prism at an angle of incidence of 45° with respect to the normal. The light then refracts into the prism."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The student wishes to determine the angle of refraction. On the sheet of paper, she draws the path the ray takes in the glass. Describe how she could do this.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) 1.",
+        "part_text": "State the formula that relates the angle of incidence i, the angle of refraction r and the refractive index n.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) 2.",
+        "part_text": "The angle of refraction in the glass is 28°. Calculate the refractive index of the glass.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "The student sends a ray of red light to the glass prism along the same path as the blue light. On Fig. 10.1, mark the path taken by the red light after it enters the prism.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2013/Q11",
+    "Question_text": "An ammeter, a variable resistor and a 4.0Ω resistor are connected in series with a 6.0V battery. A cathode-ray oscilloscope (c.r.o.) is connected in parallel with the 4.0Ω resistor through a switch. Fig. 11.1 is the circuit diagram. The switch is open.",
+    "image": "Fig. 11.1 shows an electrical circuit diagram. A 6.0V battery is connected in series with an ammeter (labeled 'A'), a variable resistor, and a 4.0Ω fixed resistor. A switch is shown in series with a cathode-ray oscilloscope (labeled 'c.r.o.'), and this combination is connected in parallel across the 4.0Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities, 4.3 Electric Circuits, 4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The variable resistor is adjusted so that it has a resistance of 8.0Ω. Calculate the current measured by the ammeter,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the potential difference (p.d.) across the 4.0Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The resistance of the variable resistor is adjusted until the p.d. across the 4.0Ω resistor is 5.0V. State the effect that this adjustment has on the current measured by the ammeter,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the resistance of the variable resistor.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The trace on the c.r.o. is a horizontal line across the middle of the screen and the p.d. across the 4.0Ω resistor is still 5.0V. The Y-gain control is set at 2.0V/cm and the switch is closed. State the effect on the trace of closing the switch.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Fig. 11.2 shows, in outline, the basic structure of a c.r.o. viewed from the side. On Fig. 11.2 write, in the five empty boxes, the names of the parts of the c.r.o. indicated.",
+        "image": "Fig. 11.2 shows a simplified outline of a cathode-ray oscilloscope (C.R.O.) tube viewed from the side. It depicts a filament on the left, followed by components for electron beam generation and focusing, then horizontal and vertical deflection plates, and finally the screen on the right. There are five empty boxes pointing to different components for labeling, and the electron beam path is indicated."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Explain how the electron beam is produced.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Explain why the tube of the c.r.o. must be evacuated.",
+        "image": null
+      },
+      {
+        "part_label": "d(iv) 1.",
+        "part_text": "In the c.r.o. shown in Fig. 11.2, the electrons travel from left to right. Explain why the flow of electrons is an electric current.",
+        "image": null
+      },
+      {
+        "part_label": "d(iv) 2.",
+        "part_text": "State the direction of the conventional current due to the electrons.",
+        "image": null
+      }
+    ]
+  }
+]

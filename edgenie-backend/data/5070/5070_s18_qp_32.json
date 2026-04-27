@@ -1,0 +1,83 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Put P into the burette. Pipette a 25.0cm³ (or 20.0cm³) portion of Q into a flask and titrate with P, using the indicator provided. Record your results in the table, repeating the titration as many times as you consider necessary to achieve consistent results. Results Burette readings",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Q is 0.225 mol/dm³ sodium carbonate. Using your results from (a), calculate the concentration, in mol/dm³, of hydrogen ions in P. Give your answer to three significant figures. CO32- + 2H+ H2O + CO2",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Using your answer from (b), calculate the number of moles of hydrogen ions in 1.00dm³ of P that are due to sulfuric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Using your answer from (c), calculate the concentration in mol/dm³, of sulfuric acid in P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "P was made by mixing equal volumes of the two dilute acids. Calculate the concentration, in mol/dm³, of the dilute nitric acid used to make P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "You are provided with solution R and solid S. Carry out the following tests and record your observations in the table.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Conclusions",
+    "Question_text": "Identify the compound present in R. Identify compound S.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  }
+]

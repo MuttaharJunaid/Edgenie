@@ -1,0 +1,60 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Put P into the burette. Pipette a 25.0cm³ (or 20.0cm³) portion of Q into a flask and titrate with P, using the indicator provided. Record your results in the table, repeating the titration as many times as you consider necessary to achieve consistent results.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration from titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Using your results from (a), calculate the concentration, in mol/dm³, of hydrogen ions in P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "The volume of the contaminated water is 10000dm³. Calculate the number of moles of hydrogen ions in this volume of contaminated water.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Using your answer from (c), calculate the minimum mass of calcium carbonate needed to neutralise all the acid in 10000 dm³ of the contaminated water. [The relative formula mass of calcium carbonate is 100.]",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Carry out the following experiments on element R and solution S and record your observations in the table. You should test and name any gas evolved.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases",
+      "Tests for anions",
+      "Tests for cations",
+      "Flame tests for cations"
+    ],
+    "Parts": []
+  }
+]

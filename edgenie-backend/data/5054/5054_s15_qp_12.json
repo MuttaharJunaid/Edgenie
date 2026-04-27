@@ -1,0 +1,476 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2015/Q1",
+    "Question_text": "Which quantity is a scalar?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q2",
+    "Question_text": "The diameter and the length of a thin wire, approximately 50cm in length, are measured as precisely as possible. What are the best instruments to use?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q3",
+    "Question_text": "A cyclist takes a ride lasting 25 s. The diagram shows how her distance travelled from the starting position varies with time. What is her average speed for the whole ride?",
+    "image": "A distance-time graph showing distance travelled in meters on the y-axis (0 to 150) versus time in seconds on the x-axis (0 to 25). The graph shows: a linear increase from (0,0) to (5,50), then constant distance from (5,50) to (15,50), then a linear increase from (15,50) to (25,150).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Distance-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q4",
+    "Question_text": "A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q5",
+    "Question_text": "A metal ball of mass 0.30 kg and weight 3.0 N is held so that it is below the surface of oil. It experiences an upwards force of 0.30 N. When the ball is released, what is its initial acceleration?",
+    "image": "A diagram showing a metal ball submerged in oil. An upward arrow labeled 'upwards force 0.30 N' points from the ball, and a downward arrow labeled 'weight 3.0 N' points from the ball.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q6",
+    "Question_text": "A student drops, from rest, a table-tennis ball in air. What happens to the velocity and to the acceleration of the ball during the first few seconds after release?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q7",
+    "Question_text": "The Earth travels in a circular orbit around the Sun at constant speed. Which arrows show the direction of the acceleration of the Earth and the direction of the velocity of the Earth?",
+    "image": "A diagram showing the Earth orbiting the Sun in a circular path. The Earth is at a point on the orbit labeled 'Earth'. An arrow 'P' points along the tangent in the direction of orbit. An arrow 'Q' points towards the Sun (center of the orbit). An arrow 'R' points away from the Sun. The entire path is labeled 'orbit of the Earth'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q8",
+    "Question_text": "The mass of a stone is found on Earth using a pan balance. The weight of the stone is found using a newton meter. Are the readings the same or different on the Moon?",
+    "image": "Two diagrams. On the left, a pan balance with a stone on one pan. On the right, a newton meter with a stone hanging from it.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q9",
+    "Question_text": "A uniform beam is pivoted at its centre. Two weights are placed on the beam in the positions shown and the beam is balanced by an upward force F. What is the size of F?",
+    "image": "A uniform beam pivoted at its center. A 30 N weight is placed 40 cm to the left of the pivot. A 60 N weight is placed 20 cm to the right of the pivot. An upward force F is applied 30 cm to the right of the pivot.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q10",
+    "Question_text": "The diagrams show liquids in containers. Which column of liquid exerts the greatest pressure on the base of its container?",
+    "image": "Four diagrams of identical containers (A, B, C, D) with different liquids and fill levels. Container A: paraffin, lower fill level. Container B: water, medium fill level. Container C: water, highest fill level. Container D: paraffin, medium fill level. Densities are given: paraffin 0.8 g/cm³, water 1.0 g/cm³.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q11",
+    "Question_text": "The graph shows how the pressure of a fixed mass of gas varies with volume at constant temperature. What is the volume of the gas when the pressure is 25 kPa?",
+    "image": "A graph showing pressure/kPa on the y-axis (0 to 125) against volume/cm³ on the x-axis (0 to 30). The graph is a curve, starting high pressure at low volume and decreasing as volume increases, consistent with Boyle's Law. Specific points: (10, 100), (20, 50).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q12",
+    "Question_text": "A rocket of total mass M is travelling at a speed v. The engine of the rocket is fired and fuel is used up. The mass of the rocket decreases to M/2 and its speed increases to 2v. What happens to the kinetic energy of the rocket?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q13",
+    "Question_text": "A builder lifts eight slabs from the ground on to the back of a lorry 1.5 m high. The total time taken is 48 s and each slab weighs 200 N. How much useful power does the builder produce?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q14",
+    "Question_text": "A solid bar is heated at one end. How is thermal energy transferred to the other end of the bar?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Demonstrating Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q15",
+    "Question_text": "An electrical heater is placed in a beaker of cold oil, as shown. The heater is switched on. What happens to the liquid at X?",
+    "image": "A diagram showing an electrical heater submerged in a beaker of oil. The heater is at the bottom. A point 'X' is indicated in the oil directly above the heater.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q16",
+    "Question_text": "The tubes inside solar heating panels use the Sun's radiation to warm water. Why are the tubes painted black?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q17",
+    "Question_text": "In a liquid-in-glass thermometer, the liquid column is 2.0 cm long at 0°C and it expands 10.0 cm when heated to 100°C. Measuring from P, how long is the liquid column at 30°C?",
+    "image": "A diagram of a liquid-in-glass thermometer. A line represents the liquid column. The length of the liquid at 0°C is marked as 2.0 cm. The expansion up to 100°C is shown as an additional 10.0 cm.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q18",
+    "Question_text": "Which substance in the table is liquid at 20°C?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q19",
+    "Question_text": "Which diagram represents the change in the arrangement of the molecules in a solid as the substance melts?",
+    "image": "Four diagrams (A, B, C, D) showing arrangements of molecules. Diagram A: molecules tightly packed in a regular lattice, then molecules become less ordered and slightly further apart. Diagram B: molecules tightly packed in a regular lattice, then molecules become more ordered. Diagram C: molecules less ordered and further apart, then molecules become more ordered. Diagram D: molecules less ordered and further apart, then molecules become even more spread out.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q20",
+    "Question_text": "Some gas is trapped in a closed container. The gas is cooled and the volume of the container is kept constant. What happens to the gas molecules?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q21",
+    "Question_text": "In a liquid, some energetic molecules break free from the surface even when the liquid is too cold for bubbles to form. What is the name of this process?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q22",
+    "Question_text": "A pupil adds 37 g of ice at 0°C to 100 g of water at 30°C. The final temperature of the water and melted ice is 0°C. No heat is lost to, or gained from, the surroundings. The specific heat capacity of water is 4.2 J/(g°C). What is the specific latent heat of ice?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q23",
+    "Question_text": "The heat capacity of an object, of mass 2.0 kg, is C. The energy needed to",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q24",
+    "Question_text": "A ball floating in a ripple tank begins to move vertically up and down as a wave passes beneath it. The ball does not move horizontally. Which statement is correct?",
+    "image": "A diagram showing a ripple tank with a ball floating. A wave is shown passing horizontally from left to right ('wave direction'). The ball is shown moving vertically up and down ('movement of ball').",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Transverse & Longitudinal Waves",
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q25",
+    "Question_text": "A ray of light in glass is incident on the surface at an angle c. The angle c is the critical angle. Which diagram shows what happens to the light?",
+    "image": "Four diagrams (A, B, C, D) showing a ray of light incident from glass to air at an angle 'c'. Diagram A: ray refracts out into air, bending away from normal, and some internal reflection. Diagram B: ray undergoes total internal reflection back into glass. Diagram C: ray travels along the boundary between glass and air, and some internal reflection. Diagram D: ray refracts into air, bending away from normal, with no internal reflection shown. Angle c is indicated as the angle of incidence.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q26",
+    "Question_text": "A ray of light is incident on the surface of a glass block, as shown in the diagram below. The refractive index of the glass is 1.5. The light ray changes direction when entering the glass. What is the angle x through which the ray moves?",
+    "image": "A diagram showing a ray of light incident from air onto a glass block. The angle of incidence is 45° (measured from the normal). The ray refracts into the glass, bending towards the normal. The angle 'x' is shown as the angle between the incident ray's path and the refracted ray's path.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q27",
+    "Question_text": "An image is formed by a thin converging lens when it is used as a magnifying glass. What is the correct description of the image?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Uses of Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q28",
+    "Question_text": "Which component of the electromagnetic spectrum is used for television transmission from satellites?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q29",
+    "Question_text": "In which situation do sound waves not travel?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q30",
+    "Question_text": "Two sound waves X and Y are compared. X has the greater frequency. Y has the greater amplitude. How do the loudness and pitch of sound wave Y compare to those of X?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q31",
+    "Question_text": "A metal ring screens a piece of equipment from a magnetic field. Which metal should be used for the ring, and why?",
+    "image": "A diagram showing a metal ring enclosing a piece of equipment. Magnetic field lines are shown entering from the left, being diverted around the equipment by the ring, and continuing to the right.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q32",
+    "Question_text": "A positively charged rod is brought near to an isolated uncharged conducting sphere. What are the charges on sides X and Y of the sphere?",
+    "image": "A diagram showing a positively charged rod brought near an isolated uncharged conducting sphere. The side of the sphere closer to the rod is labeled 'X' and the side further away is labeled 'Y'. The sphere is supported by an insulator.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q33",
+    "Question_text": "The diagram shows a circuit. Where must an ammeter be connected to measure the smallest current?",
+    "image": "A circuit diagram showing a parallel arrangement of three resistors (10Ω, 20Ω, 30Ω) connected to a power source (not shown, implied by connections). Points A, B, C, D are marked at various locations in the circuit. A is in series with the 10Ω resistor. B is in series with the 20Ω resistor. C is in series with the 30Ω resistor. D is in the main circuit before the parallel branches.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q34",
+    "Question_text": "Two resistors of resistances 30 Ω and 60 Ω are arranged in parallel. The current in the 30 Ω resistor is 0.60 A. What is the potential difference across the 60 Ω resistor?",
+    "image": "A circuit diagram showing two resistors, 30 Ω and 60 Ω, connected in parallel. The current through the 30 Ω resistor is marked as 0.60 A. The parallel combination is connected to a power source (implied).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q35",
+    "Question_text": "The circuit shows three resistors in series connected to a battery. Each resistor has a voltmeter across it and two of the voltages are shown. What is the potential difference (p.d.) across the resistor R?",
+    "image": "A circuit diagram showing three resistors connected in series to a battery. Voltmeters are connected in parallel across each resistor. The voltage across the first resistor is 40 V. The voltage across the second resistor (labeled R) is unknown. The voltage across the third resistor is 10 V. The total voltage across the battery is 18 V.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q36",
+    "Question_text": "A teacher moves a magnet into and out of a coil of wire, as shown, in order to demonstrate electromagnetic induction. Which statement is correct?",
+    "image": "A diagram showing a bar magnet (S-pole to the left, N-pole to the right) being moved into a coil of wire. The coil is connected to a voltmeter (V). An arrow indicates the 'direction of movement of magnet' from right to left, into the coil.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q37",
+    "Question_text": "A transformer consists of two coils which are wound on to a metallic core. Which type of voltage is supplied to the transformer and which metal is used to make the core?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q38",
+    "Question_text": "A nucleus of (215 over 84)Po decays by emitting an alpha-particle and the resulting nucleus then decays by emitting a beta-particle. What is the nucleon number and proton number of the final nucleus?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q39",
+    "Question_text": "A radioactive material decays by this process: (Y over Z)L → (Y over Z+1)M + x What is particle x?",
+    "image": "A nuclear decay equation: (Y over Z)L → (Y over Z+1)M + x",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2015/Q40",
+    "Question_text": "The half-life of a radioactive isotope is 24 hours. A sample of this isotope produces an initial count rate of 720 counts per second. How long does it take for the count rate to fall to 90 counts per second?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  }
+]

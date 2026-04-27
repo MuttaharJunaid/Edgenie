@@ -1,0 +1,457 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2012/Q1",
+    "Question_text": "Fig. 1.1 shows apparatus used to obtain the readings for a graph of force against extension for a spring. The masses added to the pan produce a force that stretches the spring.",
+    "image": "Fig. 1.1 is a diagram showing a vertical spring attached to a fixed support at the top. A scale is positioned alongside the spring. At the bottom of the spring, a pan is attached where masses can be placed. The components are labeled: 'spring', 'masses', 'scale', and 'pan'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by the mass of a body.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the scale is used to find the extension of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 1.2 shows the force-extension graphs for two different springs.",
+        "image": "Fig. 1.2 is a force-extension graph. The y-axis represents force (N) from 0 to 30, and the x-axis represents extension (cm) from 0 to 10. Two lines are plotted: 'spring A' and 'spring B'. Both lines start from the origin. Spring A has a steeper initial slope than spring B, and both lines show a slight curve at higher forces, with spring B's curve starting earlier."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A student states that spring B is easier to stretch than spring A. Use values from Fig. 1.2 to explain what the student means.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "When a force of 25N is applied, spring B reaches its limit of proportionality but spring A does not. Explain how Fig. 1.2 shows this.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The same force is applied to each spring. Using Fig. 1.2, determine the force that produces an extension of spring B that is 1.0cm greater than the extension of spring A.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Resultant Forces",
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Acceleration",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by friction.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 2.1 shows two horizontal forces that act on a car. Force B is caused by air resistance and friction. The car is travelling along a straight level road.",
+        "image": "Fig. 2.1 shows a side view of a car. A horizontal arrow labeled 'force B' points to the left from the front of the car, representing backward forces like air resistance and friction. Another horizontal arrow labeled 'force A' points to the right from the rear of the car, representing the forward driving force."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The forward force A and the backward force B are equal. Describe the motion of the car.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The mass of the car is 800 kg. Force A increases to 5000 N. This causes the car to accelerate initially at 1.5m/s². Calculate the size of force B.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Force A remains constant at 5000 N. Explain why the acceleration decreases as the car travels along the level road.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A car of mass 800kg climbs a hill and rises a vertical distance of 200 m. Calculate the gain in potential energy of the car. (The gravitational field strength g is 10N/kg.)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q3",
+    "Question_text": "Fig. 3.1 shows the plan of a bedroom and part of the main room of a house. Other rooms are not shown. The temperatures of the main room, the bedroom and the outside of the house are shown on Fig. 3.1. Fig. 3.2 shows all the thermal energy (heat) inputs to the bedroom in one hour.",
+    "image": "Fig. 3.1 is a floor plan. It shows a 'bedroom' at 18°C, a 'main room' at 22°C connected to the bedroom by a 'door', and an 'outside of house' at 32°C. The bedroom also has a 'window' exposed to the outside. The diagram illustrates the layout and temperatures of these areas.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Consequences of Thermal Energy Transfer",
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest why more thermal energy enters the bedroom from the outside of the house than from the main room.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "An air conditioner keeps the temperature constant in the bedroom by removing thermal energy.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the total thermal energy that the air conditioner removes from the bedroom in one hour.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The electrical power input to the air conditioner is 300W. Calculate the electrical energy input into the air conditioner in 1 hour.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The air conditioner cools the air at the top of the room. This causes a convection current in the room. Explain how the cold air gives rise to the convection current.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q4",
+    "Question_text": "A beaker contains 60g of a hot substance, initially in the liquid state. Fig. 4.1 shows how the temperature of the substance changes with time t as it cools in a laboratory.",
+    "image": "Fig. 4.1 is a graph showing temperature (°C) on the y-axis (from 70 to 100) versus time (s) on the x-axis (from 0 to 100). The graph starts at 100°C at t=0, decreases to 80°C by t=20s, then remains constant at 80°C between points A (t=20s) and B (t=80s), and finally decreases again after B.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "Particle Model",
+      "States of Matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Use Fig. 4.1 to determine the melting point of the substance.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The specific heat capacity of the liquid is 1.7J/(g°C). Calculate the loss of thermal energy (heat) from the liquid between t = 0 and t = 20s.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Between points A and B on Fig. 4.1, the temperature is constant as the substance changes from liquid to solid.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain why the temperature stays constant, even though thermal energy is lost by the substance.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe the change in the arrangement of the molecules as the substance changes from a liquid to a solid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q5",
+    "Question_text": "Optical fibres are used to transmit telephone signals. Fig. 5.1 shows a ray of light that strikes the inside surface of an optical fibre at P.",
+    "image": "Fig. 5.1 shows a cross-section of a curved optical fibre. A ray of light is depicted travelling within the fibre and striking its inside surface at point P. The top surface of the fibre appears slightly irregular or textured.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State one advantage of using optical fibres to transmit telephone signals.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 5.1, draw a normal at P and mark the angle of incidence with the letter i.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State and explain what happens to the ray at P. Use the term critical angle in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The optical fibre is made of glass of refractive index 1.5. At the start of the optical fibre, the ray enters the glass from air. The angle of incidence in the air is 60°. Calculate the angle of refraction in the glass.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q6",
+    "Question_text": "Fig. 6.1 shows a wave on the surface of water. The wave is travelling to the right.",
+    "image": "Fig. 6.1 shows a continuous transverse wave, resembling a water wave, propagating horizontally from left to right. A point labeled 'X' is marked at the crest (highest point) of one of the waves. The diagram is noted as 'not to scale'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe what is meant by wave motion.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 6.1, draw an arrow to show the direction of the movement of a water molecule at X.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The frequency of the water wave is 2.0Hz and the wavelength is 2.5cm. Calculate the speed of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 6.1, mark a distance which shows how far a wavefront at X moves in 1.0s. Label this distance D.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q7",
+    "Question_text": "Fig. 7.1 shows two charged metal spheres. One sphere has a positive charge and the other sphere has a negative charge.",
+    "image": "Fig. 7.1 shows two isolated metal spheres. The left sphere contains multiple '+' symbols, indicating it is positively charged. The right sphere contains multiple '-' symbols, indicating it is negatively charged.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electric Fields",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 7.1, draw the electric field between the two spheres.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The negative charge on the sphere is removed and a wire is used to connect the positive sphere to earth. The charge on the positive sphere decreases from 4.8 × 10–º C to zero in a time of 2.0 x 10-6 s. Calculate the average current in the wire.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q8",
+    "Question_text": "A student investigates how the resistance of a wire depends upon its length. The student uses an ammeter, a voltmeter, a battery, a fixed resistor and the wire under test, all connected in an electrical circuit.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "In the space below, draw a circuit diagram of the apparatus. Label the wire under test with the letter W.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the student obtains one complete set of results.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 1",
+        "part_text": "During the experiment, the student keeps the temperature of the wire constant. Suggest why it is sensible to keep the temperature of the wire constant.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 2",
+        "part_text": "Suggest how the student keeps the temperature of the wire constant.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 8.1 shows part of a circuit containing three resistors X, Y and Z.",
+        "image": "Fig. 8.1 is a circuit diagram showing three resistors. Resistor X (10Ω) is in series with a parallel combination of resistor Y (10Ω) and resistor Z. A current of 0.30 A flows through X, and a current of 0.20 A flows through Y. The current 'I' flows through Z."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the potential difference (p.d.) across Y.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the current I in resistor Z.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain in words, rather than by calculation, how Fig. 8.1 shows that the resistance of Z is larger than the resistance of Y. Use ideas about p.d. and current in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Calculate the total resistance of the resistors X, Y and Z in this circuit.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q9",
+    "Question_text": "Fig. 9.1 shows two coils of insulated wire wound on an iron ring. Coil A is connected to a battery and a switch. The switch is open. Coil B is connected to a sensitive centre-zero voltmeter.",
+    "image": "Fig. 9.1 is a diagram showing an iron ring with two coils of wire, Coil A and Coil B, wound around it. Coil A is connected to a battery and an open switch. Coil B is connected to a sensitive centre-zero voltmeter.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Electromagnetic Induction",
+      "Demonstrating Induction",
+      "Magnetic Effect of a Current",
+      "Electrical Power",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 9.1, mark the direction of the current in coil A,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "draw the magnetic field lines produced in the iron ring.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "As the switch is closed, the voltmeter deflects to the right and then returns to zero. Explain why there is a deflection on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The switch is opened. State and explain what happens to the deflection on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Without changing coil A, state two changes to the apparatus that cause a greater deflection of the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The battery in Fig. 9.1 is replaced by an alternating current (a.c.) supply. The output from coil B is used to power a lamp that is a long distance away. Each lead from coil B to the lamp has a resistance of 2.5Ω. These leads are represented by the two resistors shown in Fig. 9.2.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 9.2 shows a circuit diagram. An 'a.c. output from coil B' (240V, 1.6A) is connected in series with two resistors, each labeled 2.5Ω, and a 'lamp'. The resistors represent the resistance of the leads to the lamp.",
+        "image": "Fig. 9.2 is a circuit diagram. An 'a.c. output from coil B' is shown with voltage 240V and current 1.6A. This source is connected in series with two resistors, each of 2.5Ω, and a lamp. The two resistors represent the leads to the lamp."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the electrical power produced by coil B.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the total power loss in the leads to the lamp.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q10",
+    "Question_text": "To find out whether a radioactive source emits alpha-particles, beta-particles or gamma-rays, the source is placed in front of a radiation detector, as shown in Fig. 10.1.",
+    "image": "Fig. 10.1 illustrates an experimental setup with a 'radioactive source' on the left. A region labeled 'absorbing materials' is placed between the source and a 'detector' on the right.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by an alpha-particle,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "a gamma-ray.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suggest why, in this experiment, 1. the distance between the source and the detector is only a few centimetres, 2. the half-life of the radioactive source is longer than a few minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one precaution taken when using a radioactive source.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 10.2 shows the results obtained. Using information from Fig. 10.2, state and explain whether the source emits (i) alpha-particles, (ii) beta-particles, (iii) gamma-rays.",
+        "image": "Fig. 10.2 is a table showing results for radiation detection. It has columns for 'source present', 'material between source and detector', and 'counts per minute'. The rows show: 'no' source with 'none' material gives 10 cpm; 'yes' source with 'none' material gives 1200 cpm; 'yes' source with 'thin paper' gives 820 cpm; and 'yes' source with '5 mm aluminium' gives 820 cpm."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "alpha-particles,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "beta-particles,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "gamma-rays.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "There is a count recorded even when no source is present. This is caused by background radiation. State two sources of background radiation. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Describe one effect on the human body of a very high level of radiation.",
+        "image": null
+      }
+    ]
+  }
+]

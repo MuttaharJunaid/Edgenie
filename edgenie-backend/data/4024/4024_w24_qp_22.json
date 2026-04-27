@@ -1,0 +1,447 @@
+[
+  {
+    "QuestionNumber": "1(a)",
+    "Question_text": "Calculate the mass of mango as a percentage of the total mass of the mixed fruit.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(b)",
+    "Question_text": "Calculate the amount of juice Tom uses. Give your answer in millilitres.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(c)",
+    "Question_text": "Calculate the cost of a fruit drink containing 175 ml of juice.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Use proportional reasoning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(d)",
+    "Question_text": "Calculate the mass of nuts in the bag.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(e)",
+    "Question_text": "Calculate the upper bound and the lower bound of the mass of seeds in the bag.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give upper bounds",
+      "Give lower bounds",
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(a)(i)",
+    "Question_text": "Complete the scatter diagram.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw and interpret scatter diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(a)(ii)",
+    "Question_text": "Draw a line of best fit.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(a)(iii)",
+    "Question_text": "Use your line of best fit to find an estimate for the value of a car of this model that is 7 years old.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(a)(iv)",
+    "Question_text": "Explain why Jay should not use this scatter diagram to find an estimate for the value of this car.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw and interpret scatter diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)(i)",
+    "Question_text": "Work out the fraction of the cars that have travelled more than 50000 km. Give your answer in its simplest form.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)(ii)",
+    "Question_text": "Find the interval that contains the median.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)(iii)",
+    "Question_text": "Calculate an estimate of the mean distance travelled.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate estimate of mean for grouped discrete or continuous data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(a)(i)",
+    "Question_text": "Calculate the value of h.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(a)(ii)",
+    "Question_text": "Calculate the time taken to fill the tank to 90% of its volume. Give your answer in minutes and seconds.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(b)",
+    "Question_text": "Calculate the total surface area of the outside of the tank.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(a)",
+    "Question_text": "Work out the cost of one shirt.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use brackets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(b)",
+    "Question_text": "Calculate the difference between the price in dollars and the price in euros. Give your answer in dollars, correct to the nearest cent.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies",
+      "Calculate with money"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(c)",
+    "Question_text": "Calculate the value of r.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate compound interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(a)",
+    "Question_text": "Find the probability that the card shows an odd number.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(b)",
+    "Question_text": "Find the probability that both cards show the number 1.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(c)",
+    "Question_text": "Find the probability that the product is less than 5.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(a)",
+    "Question_text": "Complete the table for y = (2x²-x-10).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(b)",
+    "Question_text": "Draw the graph of y = (2x2-x-10) for-3≤x≤3.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(c)",
+    "Question_text": "The equation (2x²-x-10) = k has exactly two solutions. Use your graph to find the possible values of k.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(d)",
+    "Question_text": "By drawing a suitable line on the grid, find the solutions of 2x³-x2 - 10x = 2x-4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(a)",
+    "Question_text": "Solve 4x+7 = 16",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(b)",
+    "Question_text": "Solve 5(4-y) = 30",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(c)",
+    "Question_text": "Write down all the integers that satisfy this inequality. -1/2 < x < 3",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(d)",
+    "Question_text": "Rearrange the formula y = 3x/(4y-x) to make x the subject.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(e)",
+    "Question_text": "Simplify (12x²-3y²)/(2x²+8x-xy-4y)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(a)",
+    "Question_text": "Complete the missing angles and reasons to show that triangle ABC is similar to triangle ADE.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(b)",
+    "Question_text": "Show that AD = 3.6cm and AE = 5.2 cm.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(c)",
+    "Question_text": "Calculate angle DAE.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(d)",
+    "Question_text": "Calculate the area of triangle ABC.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9(a)",
+    "Question_text": "Calculate the radius of the circle.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9(b)",
+    "Question_text": "Calculate the area of the major sector.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(a)",
+    "Question_text": "Write down an expression for the mass, in kilograms, of apples Mina receives.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(b)",
+    "Question_text": "Form an equation in x and show that it simplifies to x²+40x-48000 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(c)",
+    "Question_text": "Solve the equation x²+40x-48 000 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(d)",
+    "Question_text": "Work out the total amount he pays in dollars.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers",
+      "Use operations with fractions",
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  }
+]

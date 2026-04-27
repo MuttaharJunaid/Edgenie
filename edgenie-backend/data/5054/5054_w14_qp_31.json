@@ -1,0 +1,270 @@
+[
+  {
+    "QuestionNumber": "October/November/31/2014/Q1",
+    "Question_text": "In this experiment, you will determine the density of a wooden block. You are provided with a block of wood with a small hook, a 30 cm ruler, a spring, a stand, two bosses and two clamps, a 200 g mass, a set square.",
+    "image": "Fig. 1.1 shows a diagram of a rectangular wooden block with dimensions labeled as length 'l', width 'w', and height 'h'. Fig. 1.2 shows the experimental setup for measuring spring extension: a 30 cm ruler is clamped vertically to a stand with its 30.0 cm end in contact with the bench. A spring is suspended from a clamp and boss on the stand, with its lower end marked as S1. The setup also includes a bench at the bottom.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement",
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 shows a diagram of the block of wood. Take measurements to determine average values for the length l, the width w and the height h of the wooden block. l = ____ w = ____ h = ____",
+        "image": "Fig. 1.1, a diagram of a rectangular wooden block with dimensions labeled as length 'l', width 'w', and height 'h'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Set up the apparatus as shown in Fig. 1.2. Clamp the 30 cm ruler vertically with the 30.0 cm end of the ruler in contact with the bench.",
+        "image": "Fig. 1.2, showing an experimental setup with a boss, stand, 30 cm ruler clamped vertically, a spring, and a clamp resting on a bench."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Adjust the boss holding the spring so that the lower end of the spring is between the 5 cm and 10 cm marks on the ruler. Record the scale reading S1 on the ruler at the lower end of the spring. S1 =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suspend the 200 g mass from the spring and record the new scale reading S2 at the lower end of the spring. S2 =",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Calculate the extension e of the spring using e = S2 – S1. e =",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Remove the 200 g mass and suspend the block of wood from the spring. Record the new scale reading S3 at the lower end of the spring. Hence determine the new extension en of the spring. S3 = en =",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Calculate the mass M of the block of wood using the equation M = (200 * en) / e gram. M =",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Calculate the density ρ of the wood from which the block is made using the equation ρ = M / (lwh). ρ =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/31/2014/Q2",
+    "Question_text": "In this experiment, you will investigate the deviation of a ray of light passing through a block. You are provided with a rectangular block, an illuminated slit, a 30 cm ruler, a protractor.",
+    "image": "Fig. 2.1 shows a rectangular block placed with one long side on line XY, with its top left-hand corner at point X and a point M marked on line XY to the right of X. Fig. 2.2 on page 5 provides a blank line segment XY with points X, M, and Y marked on it, which is used for drawing in parts of the experiment.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Ray Diagrams",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Fig. 2.2 is on page 5 of your question paper. On Fig. 2.2, draw a normal to the line XY at the point M, above and below the line XY.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "draw a line from M towards the top left of the page at an angle of 60° to the normal. Label this line L.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Extend this line from M to the right-hand edge of the page. Label this line L'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the block on Fig. 2.2, with one of its long sides on the line XY. The top left-hand corner of the block should be at X, as shown in Fig. 2.1.",
+        "image": "Fig. 2.1, showing a rectangular block placed with one long side on line XY, with its top left-hand corner at point X and a point M marked on line XY to the right of X."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 2.2, draw the outline of the block.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Position the illuminated slit so that a ray of light passes along the line L from the top left of the page towards M.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "On Fig. 2.2, mark and label two points P1 and P2 on the ray that leaves the block. You should choose the position of these two points so that the position of the ray can be accurately drawn.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Remove the block. Draw a line through P1 and P2 to touch the outline of the block at a point. Label this point N.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Draw a straight line from M to N.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Measure the length l of the line MN. l =",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "Measure the perpendicular distance d between the line L' and the line through P1 and P2. d =",
+        "image": null
+      },
+      {
+        "part_label": "d(v)",
+        "part_text": "Calculate d/l. d/l =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/31/2014/Q3",
+    "Question_text": "In this experiment, you will determine the frictional force opposing the motion of a block of wood up a ramp. You are provided with a ramp with a stop close to its upper end, a pulley arrangement, a block of wood labelled A, with a small hook, a 10 g slotted mass hanger, nine 10 g slotted masses and two 100 g slotted masses, string passing over the pulley, with loops attached to the block and the mass hanger, a stopwatch, a metre rule, a set square.",
+    "image": "Fig. 3.1 shows a ramp setup. A wooden block labeled 'A' with a hook is positioned at the top of the ramp, touching a stop. A string runs from the block, over a pulley at the top of the ramp, and down to a mass hanger with masses. The ramp rests on a bench, and the mass hanger hangs towards the floor. The vertical height 'h' of the ramp's top edge and the distance 's' along the ramp are indicated. Fig. 3.2 shows a similar ramp setup, but the block 'A' is placed at the bottom of the ramp, attached to the mass hanger over the pulley.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Resultant Forces",
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Work",
+      "Acceleration",
+      "Speed & Velocity",
+      "Mass & Weight",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The ramp has been set up for you as shown in Fig. 3.1. Do not adjust the slope of the ramp. Position the block A so that it touches the stop at the top of the ramp, as shown in Fig. 3.1. Add all the masses to the mass hanger to ensure that A remains in contact with the stop. Measure the vertical height h and the distance s along the ramp, as shown in Fig. 3.1. Give your answers in metres. h = ____ m s = ____ m",
+        "image": "Fig. 3.1, showing a ramp with a block 'A' at the top, connected by a string over a pulley to a mass hanger. The vertical height 'h' and distance 's' along the ramp are indicated."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Remove all masses from the mass hanger. Place A at the bottom of the ramp as shown in Fig. 3.2.",
+        "image": "Fig. 3.2, showing the ramp setup with block 'A' now at the bottom of the ramp, connected to the mass hanger over the pulley."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Place sufficient slotted masses on the mass hanger to ensure that, when released, A accelerates up the ramp, taking a time of between 1s and 2s to reach the stop. Record the total mass m of the mass hanger and the slotted masses. Also record the mass M of A that is written on the label. Give your answers in kg. m = ____ kg M = ____ kg",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Return A to the bottom of the ramp and hold it in position. Without changing m, determine the average time t taken for A to reach the stop when released. t = ____",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the potential energy E1 lost by the falling mass using E1 = mgs, where the gravitational field strength g is 10 N/kg. E1 = ____",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Calculate the potential energy E2 gained by A using E2 = Mgh. E2 = ____",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Calculate the final velocity v of the block using v = 2s / t. v = ____",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "Calculate the total kinetic energy Ek of the block and falling mass using Ek = 1/2 * (M + m)v^2. Ek = ____",
+        "image": null
+      },
+      {
+        "part_label": "d(v)",
+        "part_text": "Calculate the average frictional force F opposing the motion of the block using F = (E1 - E2 - Ek) / s. F = ____",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/31/2014/Q4",
+    "Question_text": "In this experiment, you will determine the resistance of a resistor. You have been provided with a circuit consisting of a cell, a resistor X, a length of resistance wire attached to a metre rule, two crocodile clips, a switch.",
+    "image": "Fig. 4.1 shows a circuit diagram. A cell (A-B) is connected in series with a resistor X and a resistance wire (C-E) attached to a metre rule. Crocodile clips are used to connect components. Fig. 4.2 shows a modified circuit for measuring voltage. A voltmeter (V) is connected in parallel across a section of the resistance wire from point C to point D, where D is a sliding contact. The resistor X is still in series with the cell and the wire C-E.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Use the additional connecting leads to connect the voltmeter between points A and B, shown in Fig. 4.1. With the switch open, record the reading V0 on the voltmeter. V0 =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Record the total length L of resistance wire between the points C and E. Give your answer in cm. L = ____ cm",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "In this experiment the ratio V0/L = K V/cm. Calculate the value of K. K =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Disconnect the voltmeter from points A and B. Connect one terminal of the voltmeter to point C and the other terminal to the sliding contact.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Touch the sliding contact onto the resistance wire at a point D, a distance l = 90.0 cm from C. This is shown in Fig. 4.2.",
+        "image": "Fig. 4.2, showing a circuit with a voltmeter connected in parallel across a section of the resistance wire from point C to a sliding contact D."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Close the switch and record the reading V on the voltmeter. Use sufficient force on the sliding contact to ensure that a good connection is made. V =",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "By placing the sliding contact at different positions on the wire, repeat (c) for a wide range of values of l. Record your results for l and V in Fig. 4.3. Include the results from (c) in Fig. 4.3. (This part refers to a table to be filled by the candidate on Fig. 4.3)",
+        "image": "Fig. 4.3, a blank table with columns for 'l' and 'V' readings, intended for recording experimental data."
+      },
+      {
+        "part_label": "e",
+        "part_text": "Using the grid opposite, plot a graph of V/V against l/cm. Draw the straight line of best fit through your points.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Determine the gradient G of the line of best fit. G =",
+        "image": null
+      },
+      {
+        "part_label": "g(i)",
+        "part_text": "The resistance Rx of X may be found using the equation Rx = R * (K/G - 1) where R is the resistance of the resistance wire, which is given on the card. Record R. R =",
+        "image": null
+      },
+      {
+        "part_label": "g(ii)",
+        "part_text": "Using your answers to (a)(iii), (f) and (g)(i), calculate Rx. Rx =",
+        "image": null
+      }
+    ]
+  }
+]

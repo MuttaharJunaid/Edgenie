@@ -1,0 +1,437 @@
+[
+  {
+    "QuestionNumber": "October-November/21/2014/Q1",
+    "Question_text": "Fig. 1.1 shows a motorcycle during a race. The motorcycle accelerates along a straight section of the track from a speed of 40m/s to maximum speed. Fig. 1.2 is the speed-time graph for the motorcycle along the straight section of the track.",
+    "image": "Fig. 1.1 shows a motorcyclist wearing a helmet and full racing suit, leaning into a turn on a sport motorcycle. The motorcycle is white and black. Fig. 1.2 is a speed-time graph. The x-axis is 'time/s' from 0 to 12s, and the y-axis is 'speed m/s' from 0 to 90 m/s. The graph shows an accelerating curve starting at (0, 40 m/s), increasing in speed, becoming less steep, and flattening out around 8-12 seconds at approximately 80 m/s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Resultant Forces",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "For the time 0 to 2.0s, determine the acceleration of the motorcycle,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "For the time 0 to 2.0s, determine the resultant force acting on the motorcycle.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using Fig. 1.2, describe how the acceleration of the motorcycle changes during this time.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain, in terms of the forces acting, why the acceleration changes in this way.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q2",
+    "Question_text": "A student places a metre rule on the edge of a triangular prism. The prism is used as a pivot and the rule balances about the 50 cm mark. The student then places a block of wood at the 10cm mark on the rule and an empty measuring cylinder at the 80cm mark. The rule is still balanced. Fig. 2.1 shows the arrangement. The student now places a weight of 0.39 N on top of the block of wood. She then starts to pour oil into the measuring cylinder. The rule balances again when there is 60 cm³ of oil in the measuring cylinder. The gravitational field strength g is 10N/kg.",
+    "image": "Fig. 2.1 shows a metre rule balanced on a triangular prism acting as a pivot. The pivot is at the 50 cm mark. A block of wood is placed at the 10 cm mark and an empty measuring cylinder is placed at the 80 cm mark. The diagram is labeled 'block of wood', '10 cm mark', 'pivot', '50 cm mark', '80 cm mark', 'measuring cylinder', and 'metre rule'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Mass & Weight",
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the weight of the oil in the cylinder,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the mass of the oil in the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the density of the oil.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q3",
+    "Question_text": "Before a small, inflatable boat is used, air is pumped into its rubber chamber. Fig. 3.1 shows a man using an air pump to inflate the boat. Before the man starts to use the pump, the air in the vertical cylinder of the pump is at atmospheric pressure.",
+    "image": "Fig. 3.1 shows a man using a bicycle-style air pump. The pump has a handle, a cylinder, and a hose connected to an inflatable boat. The boat is partially inflated.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Pressure & Forces",
+      "Atmospheric pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain, in terms of molecules, how the air inside the cylinder exerts a pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the boat is fully inflated, a valve is closed trapping the air in the rubber chamber. The air pump is disconnected. The man sits on the side of the boat. The volume of the rubber chamber decreases and the pressure of the air in the rubber chamber increases. The temperature of the air stays constant. Explain, in terms of molecules, why the pressure increases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q4",
+    "Question_text": "Ripple tanks are often used to illustrate wave motion.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe what is meant by wave motion in a ripple tank.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by frequency.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State what is meant by wavelength.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A water wave in a ripple tank strikes a barrier. Fig. 4.1 shows some wavefronts of the incident wave. The water wave hits the barrier and is reflected. Three of the wavefronts in Fig. 4.1 have already hit the barrier. The reflected parts of these wavefronts are not shown. On Fig. 4.1, draw the reflected parts of these three wavefronts.",
+        "image": "Fig. 4.1 shows a diagram of incident wavefronts striking a flat barrier at an angle. The wavefronts are parallel lines, approaching the barrier from the top-left, moving towards the bottom-right. An arrow indicates the 'direction of travel of incident wave'. The term 'wavefronts' labels the lines, and 'barrier' labels the reflective surface."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q5",
+    "Question_text": "The device shown in Fig. 5.1 uses the reflection of ultrasound to measure distances.",
+    "image": "Fig. 5.1 shows a handheld device with a display showing '0.00m' and several buttons. An arrow indicates an 'ultrasound wave' being emitted from the front of the device.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by ultrasound.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 5.2 shows a builder using the ultrasound device to measure the width of a room. The ultrasound device is placed against one wall and it emits an ultrasound wave that reflects back from the opposite wall. The time between sending out the ultrasound wave and receiving the reflection is 0.030 s. The speed of ultrasound in air is 340 m/s. Calculate the distance between the device and the opposite wall.",
+        "image": "Fig. 5.2 shows a cartoon drawing of a builder wearing a hard hat, holding the ultrasound device against a brick wall. An arrow indicates an 'ultrasound wave' traveling horizontally from the device towards an opposite wall."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q6",
+    "Question_text": "The base of a storm cloud is negatively charged. Fig. 6.1 shows the cloud above flat ground.",
+    "image": "Fig. 6.1 shows a storm cloud with negative charges indicated by '-' symbols at its base. Below the cloud, flat ground is shown with positive charges indicated by '+' symbols. An electric field is implied between the negatively charged cloud base and the positively charged ground.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The cloud causes the ground beneath it to become positively charged. Explain, in terms of the particles involved, how the ground becomes positively charged.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the space between the negative charge on the cloud and the positive charge on the ground, there is an electric field. State what is meant by an electric field.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A lightning strike takes place. In 0.0015s, a charge of 180C passes between the cloud and the ground. Calculate the average current in the lightning strike.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q7",
+    "Question_text": "A straight length of copper wire lies horizontally between the poles of a U-shaped magnet. Fig. 7.1 shows the two ends of the wire connected to a very sensitive, centre-zero ammeter. The copper wire is moved upwards slowly between the two magnetic poles. The needle on the ammeter deflects to the right.",
+    "image": "Fig. 7.1 shows a U-shaped magnet with North (N) and South (S) poles. A straight 'copper wire' is positioned horizontally between the poles. The wire is connected to a 'sensitive, centre-zero ammeter' which has an arrow pointing to the right.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why the needle on the ammeter deflects.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The wire is moved downwards very quickly between the two magnetic poles. State what happens to the needle on the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State what happens to the needle on the ammeter when the copper wire is moved horizontally between the two poles.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q8",
+    "Question_text": "The nuclide notation for the radioactive isotope boron-12 is ¹²₅B.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a labelled diagram to illustrate the structure of a neutral atom of this isotope. Show all the particles in the atom.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "As boron-12 decays, it emits a beta-particle. A new atom is produced. Determine the proton number (atomic number) of the new atom,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "As boron-12 decays, it emits a beta-particle. A new atom is produced. Determine the nucleon number (mass number) of the new atom.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q9",
+    "Question_text": "Fig. 9.1 shows the dam and reservoir of a hydroelectric power station. A hydroelectric power station uses a renewable energy source.",
+    "image": "Fig. 9.1 shows a hydroelectric power station. A large body of water (reservoir) is held back by a concrete dam. Water flows from the reservoir through channels in the dam, driving turbines, and exits into a river below the dam. Power lines extend from the power station.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Water",
+      "Gravitational Potential Energy",
+      "Power",
+      "Efficiency",
+      "Electromotive Force & Potential Difference",
+      "Transformers",
+      "The A.C. Generator"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two other renewable energy sources.",
+        "image": null
+      },
+      {
+        "part_label": "b(i) 1.",
+        "part_text": "Calculate the electrical energy output of the power station if it operates at full capacity for one year.",
+        "image": null
+      },
+      {
+        "part_label": "b(i) 2.",
+        "part_text": "Suggest why, in practice, the power station does not operate at full capacity throughout the year.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 1.",
+        "part_text": "Calculate the gravitational potential energy that is converted into other forms of energy in one hour.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 2.",
+        "part_text": "Calculate the efficiency of the power station when operating at full capacity.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 3.",
+        "part_text": "Suggest two reasons why the efficiency of the power station is less than 1.0 (100%).",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State and explain why a very high voltage is used to transmit electrical energy over long distances.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State the name of the device that is used to increase the voltage.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Explain why the generators in the power station must be a.c. (alternating current) generators.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q10",
+    "Question_text": "The casing of an electric kettle is made of white plastic. Fig. 10.1 shows the heating element positioned in the base of the kettle.",
+    "image": "Fig. 10.1 shows a cross-section of an electric kettle. The kettle body is labeled 'water', and at the base, there's a submerged 'heating element'. Wires connect the heating element to an external power source.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection",
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "Evaporation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe and explain how the thermal energy is transferred throughout the water.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why a kettle with its heating element in the water at the top of the kettle does not heat the water uniformly.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the thermal energy produced in the heating element in this time.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The kettle contains 1.6kg of water that was at an initial temperature of 22°C. The specific heat capacity of water is 4200J/(kg°C). Calculate the maximum possible temperature of the water.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest one reason why the temperature of the water, after 3.5 minutes, is less than the value calculated in (b)(ii).",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain one advantage of using plastic for the casing of a kettle,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain one advantage of choosing white as the colour for the outside of the casing.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "State the meaning of boiling point.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Explain, in terms of molecules, what happens to the thermal energy that is supplied when the water is boiling.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2014/Q11",
+    "Question_text": "A student makes a 2.0V battery by connecting two cells of electromotive force (e.m.f.) 2.0V in parallel. The battery, an ammeter with different ranges and three different resistors are used to set up the circuit shown in Fig. 11.1.",
+    "image": "Fig. 11.1 shows an electrical circuit diagram. Two 2.0V cells are connected in parallel, forming a battery. This battery is connected in series with an ammeter (labeled 'A'). The circuit then splits into two parallel branches. One branch contains a 2.0Ω resistor. The other branch contains a 3.0Ω resistor in series with an unknown resistor X. These two parallel branches rejoin before connecting back to the battery. The overall circuit has the parallel combination of 2.0Ω and (3.0Ω + X) connected across the parallel 2.0V cells.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain what is meant by electromotive force.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one advantage of using two cells in parallel rather than using a single 2.0V cell.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Resistor X and the 3.0Ω resistor have a combined resistance that is equal to 2.0Ω. Calculate the total resistance of the circuit,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the resistance of X.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Determine the reading of the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest a suitable range for the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The current in the 2.0Ω resistor is I₂. The current in the 3.0Ω resistor is I₃. The current in X is Iₓ. State the equation that relates I₂, I₃ and Iₓ.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "State the potential difference (p.d.) across the 2.0Ω resistor,",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "State the potential difference (p.d.) across the 3.0Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "f(i)",
+        "part_text": "State and explain what happens to the resistance of the metal filament of the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "f(ii)",
+        "part_text": "State whether the new ammeter reading is less than, equal to or greater than 0.75 A.",
+        "image": null
+      }
+    ]
+  }
+]

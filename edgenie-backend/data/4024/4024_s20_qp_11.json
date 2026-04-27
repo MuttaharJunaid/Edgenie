@@ -1,0 +1,516 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Write 23/5 as a mixed number.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use mixed numbers",
+      "Convert between forms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Work out 3/8 ÷ 6.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "From the word HANGER, write down all the letters which have line symmetry",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "From the word HANGER, write down all the letters which have rotational symmetry.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "The numbers in this sequence increase by the same amount each time. Fill in the missing numbers. 1.4 2.3 3.2",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Write 11/25 as a percentage.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use percentages",
+      "Convert between forms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Find 12% of 40.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "The diagram shows an isosceles triangle ABC and an equilateral triangle BDE. D is the intersection of AB and CE. Angle BAC = 28°. Calculate x.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Safoora is buying some apples, bananas and peaches. She can buy packs of 6 apples packs of 5 bananas packs of 12 peaches. She needs to buy the same number of each fruit. Calculate the smallest number of packs of apples, bananas and peaches that she needs to buy.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify common multiples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "Factorise 6c³+9c",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Factorise 5ay-2bx-2by+5ax",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "PQUV is a square with side 6 cm. QRST is a rectangle with width 4 cm. The area of the square is equal to the area of the rectangle. Work out the perimeter of the shape PRSTUV.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Write the ratio 75g:3kg in its simplest form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "In a tennis club the ratio number of junior members : number of senior members = 7 : 10. There are 18 more senior members than junior members. Calculate the total number of club members.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio",
+      "Use proportional reasoning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "On the grid, complete the scatter diagram. The first five points have been plotted for you.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw and interpret scatter diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "What type of correlation is shown on the scatter diagram?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Understand positive, negative and zero correlation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "Draw a line of best fit.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d",
+    "Question_text": "Can the scatter diagram be used to predict the height of this plant 100 days after planting? Give a reason for your answer.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "By writing each number correct to one significant figure, estimate the value of 21.86 - 9.64 ÷ 2.47.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy",
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "Aadil observed the number of people in each of 20 cars entering a car park. The results are shown in the bar chart below. Write down the mode.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Aadil observed the number of people in each of 20 cars entering a car park. The results are shown in the bar chart below. Calculate the mean number of people in each car.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13a",
+    "Question_text": "During 2018, the population of a village increased from 200 to 250. Calculate the percentage increase in population.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13b",
+    "Question_text": "The length of a rectangle is increased by 10%. The width of the same rectangle is decreased by 10%. Find the area of the new rectangle as a percentage of the area of the original rectangle.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "In a survey, some students were asked about their favourite type of music. They could choose Classical, Folk, Reggae or Rock. The following relative frequencies were calculated from the results. 300 students took part in this survey. Calculate the number of students who chose Reggae.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.2 Relative and expected frequencies",
+    "Sub_topic": [
+      "Calculate expected frequencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15a",
+    "Question_text": "E = { x : x is an integer and 1 ≤ x ≤ 10 } F = { x : x is a factor of 24 } S = { x :x is a square number } Complete the Venn diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15b",
+    "Question_text": "E = { x : x is an integer and 1 ≤ x ≤ 10 } F = { x : x is a factor of 24 } S = { x :x is a square number } Find n(FUS)'.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15c",
+    "Question_text": "In the Venn diagram, shade the region represented by P∩Q∩R'.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16a",
+    "Question_text": "Solve the equation 5 - 2x = 12.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b",
+    "Question_text": "Find the integers that satisfy -5 ≤ 3x ≤ 6.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17a",
+    "Question_text": "f(x) = 5-4x Find f(-3).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17b",
+    "Question_text": "f(x) = 5-4x Find f⁻¹(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18a",
+    "Question_text": "The quadrilateral PQRS is drawn on a 1 cm square grid. Write down the name of this special quadrilateral.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18b",
+    "Question_text": "The quadrilateral PQRS is drawn on a 1 cm square grid. Find the coordinates of the midpoint of QR.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18c",
+    "Question_text": "The quadrilateral PQRS is drawn on a 1 cm square grid. The length PS is equal to √m cm. Find the value of m.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Calculate the length of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19a",
+    "Question_text": "P= (4 2\\3 1) Q=(0 1\\5 -4) R= (4 1\\t 2) Find P-3Q",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19bi",
+    "Question_text": "P= (4 2\\3 1) Q=(0 1\\5 -4) R= (4 1\\t 2) The determinant of R is 11. Find t.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19bii",
+    "Question_text": "P= (4 2\\3 1) Q=(0 1\\5 -4) R= (4 1\\t 2) Find R⁻¹.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "y is inversely proportional to the square root of x. Find the value of c and the value of d.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "The diagram shows the positions of two ships, A and B, drawn to a scale of 2 cm to 1km. Measure the bearing of B from A.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21b",
+    "Question_text": "The diagram shows the positions of two ships, A and B, drawn to a scale of 2 cm to 1km. Find the distance between the two ships, A and B, in km.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21c",
+    "Question_text": "The diagram shows the positions of two ships, A and B, drawn to a scale of 2 cm to 1km. A buoy, X, is equidistant from A and B and on a bearing of 260° from B. By making an accurate drawing, mark the position of X on the diagram.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "One solution of the equation sinm° = 0.63 is m = 141, correct to the nearest whole number. Find the solution when 0<m<90. Give your answer correct to the nearest whole number.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23a",
+    "Question_text": "The formula for the nth term of a sequence is 2n³. Find the 3rd term of this sequence.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23b",
+    "Question_text": "Here are the first four terms of another sequence. (i) Write down the next term of this sequence. (ii) Find a formula for the nth term of this sequence.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "The diagram shows a cone and a cylinder. The cone has radius 28 cm and slant height y cm. The cylinder has radius 15 cm and height 42 cm. The curved surface area of the cone and the cylinder are equal. Find the value of y.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "O, P and Q are points as shown in the diagram. Express PQ, as simply as possible, in terms of a and b.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "QuestionNumber": "October-November/12/2012/Q1",
+    "Question_text": "ELECTRONIC CALCULATORS MUST NOT BE USED IN THIS PAPER.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers",
+      "Use operations with decimals",
+      "Order operations correctly"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 8 + 2 × 1.3.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Express 0.06 as a fraction, giving your answer in its lowest terms.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions",
+      "Order operations correctly",
+      "Understand zero indices",
+      "Understand positive indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 2/3 + 2 1/4.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 3^0 + 3^1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q3",
+    "Question_text": "The diagram shows an L-shaped piece of card. The measurements are in centimetres and all the angles are right-angles.",
+    "image": "A diagram of an L-shaped piece of card with dimensions. The horizontal bottom edge is 9 cm. The vertical right edge is 8 cm. The cutout top edge has a horizontal length of 3 cm. The cutout right edge has a vertical length of 4 cm. This implies the top full horizontal length is 9 cm, and the left full vertical length is 8 cm.",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the perimeter of this card.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Square pieces, each of side 2 cm, are cut from this card. Find the greatest number of squares that can be obtained.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q4",
+    "Question_text": "f(x) = 5 + 3x",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate f(-1/2).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find f⁻¹(x).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q5",
+    "Question_text": "Arrange these numbers in order, starting with the smallest. 3/4, 0, -1, -17/20, 4/5",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude",
+      "Use symbols (=, ≠, >, <, ⩾, ⩽)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q6",
+    "Question_text": "A car travelled from A to B and then continued to C. It travelled from A to B at an average speed of 30 km/h. The distance from A to B is 90 km.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "How many hours did the journey from A to B take?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The distance from B to C is 50 km and took 1 hour. Calculate the average speed of the whole journey from A to C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q7",
+    "Question_text": "Expand the brackets and simplify",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms",
+      "Expand products of algebraic expressions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "6k - 2(1 - k) + 3,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "(2x - 3)(x + 4).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q8",
+    "Question_text": "A ship travelled from P to Q. It unloaded its cargo at Q and then returned to P. The bearing of Q from P is 075°.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the bearing of P from Q.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The ship left P at 21 40 and returned to P at 05 33 the following day. Find the length of time, in hours and minutes, between leaving P and returning to P.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q9",
+    "Question_text": "The number of goals scored by some football teams during one weekend was recorded. The table shows the results. Number of goals scored: 0, 1, 2, 3, 4 Number of teams: x, 1, 5, 4, 2",
+    "image": "A table showing the number of goals scored (0, 1, 2, 3, 4) and the corresponding number of teams (x, 1, 5, 4, 2).",
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "If the mode is 0, find the smallest possible value of x.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "If the median is 1, find the value of x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q10",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify prime numbers",
+      "Identify square numbers",
+      "Simplify surd expressions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express 180 as the product of its prime factors.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "√180 can be expressed in the form p√q, where p and q are integers. Find the smallest value of p + q.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q11",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Use rules of indices",
+      "Understand fractional indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the value of a when 3^a ÷ 3^4 = 3^2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the value of b when 8^b = 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q12",
+    "Question_text": "y is directly proportional to the square of x. Given that y = 32 when x = 4, find y when x = 3.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q13",
+    "Question_text": "Sam and Tom ran 60 m. Sam took 9.4 seconds, correct to the nearest tenth of a second. Tom took 8 seconds, correct to the nearest second.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give upper bounds",
+      "Give lower bounds",
+      "Find bounds of calculations"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the upper bound for the time taken by Sam.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the greatest possible difference between the time taken by Sam and the time taken by Tom.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q14",
+    "Question_text": "In a survey, 60 students are asked which of the subjects Biology (B), History (H) and Spanish (S) they are studying. The Venn diagram shows the results. 27 students study History.",
+    "image": "A Venn diagram showing three intersecting sets: Biology (B), History (H), and Spanish (S) within a universal set E. Numbers in regions are: B only: 15, H only: 16, S only: q, B and H only: 3, B and S only: 5, H and S only: 2, B and H and S: p, outside all sets: 9. The total number of students in the survey is 60.",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the values of p and q.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find n(H').",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find n((B ∪ H) ∩ S').",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q15",
+    "Question_text": "Factorise completely",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "16p + 4p²",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "xy + 2ay + 3ax + 6a².",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q16",
+    "Question_text": "Three cards, A, B and C are marked with the numbers 2, 3 and 4 respectively. One card is chosen, at random. A second card is then chosen, at random, from the remaining two cards. The sum of the numbers on the two chosen cards is calculated.",
+    "image": "Three cards are shown, labeled 'Card A' with number 2, 'Card B' with number 3, and 'Card C' with number 4.",
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "What is the probability that the sum is 3?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete the table to show all the possible outcomes. You may not need all the columns. Table with columns: First card, Second card, Sum. First row shows 'A', 'B', '5'.",
+        "image": "A table with three columns: First card, Second card, and Sum. The first row is partially filled with 'A', 'B', and '5'. There are several empty rows below for other outcomes."
+      },
+      {
+        "part_label": "c",
+        "part_text": "What is the probability that the sum is 7?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q17",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy",
+      "Make estimates",
+      "Round answers reasonably",
+      "Use A × 10^n form",
+      "Calculate with standard form"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write the number 0.040589 correct to 3 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Giving your answer in standard form, evaluate 6 × 10⁻⁴ + 8 × 10⁻⁵.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Estimate, correct to the nearest whole number, the value of √97 – √35. Show clearly the approximate values you use.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q18",
+    "Question_text": "In the diagram, the points P and Q lie on the sides BC and AC of triangle ABC. AB is parallel to QP. AQ = 2 cm and QC = 4 cm. The area of triangle CPQ is 6 cm².",
+    "image": "A triangle ABC. Points Q lies on AC and P lies on BC. Line segment QP is parallel to AB. The length AQ is 2 cm and QC is 4 cm.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids",
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the area of triangle AQP,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "triangle ABC,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "triangle ABP.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q19",
+    "Question_text": "M = (1 3) -1 0",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor",
+      "Recognise, describe and draw translation of shape by vector"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express as a single matrix (-4 2) ( -4 0) - 2M.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find M⁻¹.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q20",
+    "Question_text": "The diagram shows 10 points, with coordinates (h, k), where h and k are integers.",
+    "image": "A coordinate grid showing 10 discrete points plotted. The x-axis ranges from 0 to 4, and the y-axis ranges from 0 to 5. The points are: (1,2), (1,3), (1,4), (2,1), (2,3), (2,4), (3,2), (3,3), (4,1), (4,2).",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line",
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "For these 10 points find the maximum value of k - h,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the value of k, for the point that lies on the line y = 1/2 x.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The coordinates of the 10 points satisfy the inequalities h > a, k ≥ b, h + k < c. Write down the values of a, b and c.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q21",
+    "Question_text": "The matrix (1 0) (0 2) represents the transformation T.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find (1 0) (0 2) (0 -1) (2 2).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe fully the transformation T. You may use the grid below to help you answer this question.",
+        "image": "An empty 7x7 grid with a dotted pattern, provided to assist in describing the transformation."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q22",
+    "Question_text": "The diagram shows triangle ABC.",
+    "image": "A coordinate plane with points A(-4,1), B(2,4), and C(2,1) forming a right-angled triangle ABC. The x-axis goes from O to positive x, and the y-axis goes from O to positive y. The triangle has its base AC parallel to the x-axis and side BC parallel to the y-axis.",
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw translation of shape by vector"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Triangle ABC is translated by (9) (2) onto triangle A'B'C'. Find the coordinates of C'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "What special type of quadrilateral is BCC'B' ?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the area of quadrilateral BCC'B'.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q23",
+    "Question_text": "In the diagram, the points A, B, C, D and E lie on the circle centre O. EC is a diameter. ∠OBA = 80°, ∠DÊC = 59° and ∠BĈE = 62°.",
+    "image": "A circle with center O. Points A, B, C, D, E are on the circumference. EC is a diameter. Angle OBA is 80 degrees. Angle DEC (DÊC) is 59 degrees. Angle BCE (BĈE) is 62 degrees. Various unknown angles are labeled x, y, z, t.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find x,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "y,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "z,",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "t.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q24",
+    "Question_text": "A regular polygon has an interior angle of 160°.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons",
+      "Calculate unknown angles using triangle sum (180°)",
+      "Calculate unknown angles using sum of angles on a straight line (180°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the number of sides of the polygon.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The diagram shows three sides AB, BC and CD of the regular polygon. AC and BD meet at P.",
+        "image": "A diagram showing three sides of a regular polygon, labeled A, B, C, D. Line segments AC and BD are drawn, intersecting at point P."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q25",
+    "Question_text": "The diagram is the speed-time graph of a cyclist. The cyclist accelerates uniformly from a speed of u metres per second to a speed of 3u metres per second in a time of 10 seconds.",
+    "image": "A speed-time graph. The y-axis is Speed (metres per second) and the x-axis is Time (t seconds). The graph shows a straight line increasing from speed u at t=0 to speed 3u at t=10.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find an expression, in terms of u, for the acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The distance travelled by the cyclist from t = 0 to t = 10 is 40 m.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q26",
+    "Question_text": "The nth term of a sequence is 9n + 4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the value of the term that is closest to 2012.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the difference between the 10th term and the 6th term.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Find an expression, in terms of x and y, for the difference between the xth term and the yth term.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Hence explain why it is not possible for any two terms of this sequence to differ by 123.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/12/2012/Q27",
+    "Question_text": "The diagram at the bottom of the page shows the lines AB and BC.",
+    "image": "A diagram showing two line segments AB and BC, connected at B. A is on the far left, C is above and to the right of B. There is a dashed line from A to C.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles",
+      "Construct a triangle given lengths of all sides using ruler and compasses",
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure ∠ABC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The point D is above AB. AD and CD are each equal to AB. On the diagram, construct quadrilateral ABCD.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On the diagram, construct the locus of points, inside the quadrilateral ABCD, that are 7 cm from C,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "equidistant from AB and BC.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "These two loci meet at the point P. Label the point P on the diagram and measure DP.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,571 @@
+[
+  {
+    "QuestionNumber": "October-November/21/2010/Q1",
+    "Question_text": "P = 7Q/4 + 15",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas",
+      "Solve linear equations in one unknown",
+      "Change the subject of formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find P when Q = 40.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Express Q in terms of P.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Factorise completely 7c² – 28d².",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Factorise completely 3x² – 7x – 6.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Solve the equation 4/(7-y) = 5.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem",
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Carry out calculations involving angles of elevation and depression",
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "AB is vertical and BC is horizontal. AB = 49 m and BC = 180 m.",
+        "image": "A right-angled triangle labeled ABC with the right angle at B. Side AB is vertical with length 49, and side BC is horizontal with length 180. Point A is at the top, B at the right angle, and C to the right of B."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate BÂC.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the value of the angle of depression of C from A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "S and P are two positions at sea and L is a Lighthouse. S is due West of L and P is due South of L. SL = 1200 m and SP = 1300m.",
+        "image": "A right-angled triangle SLP with the right angle at L. S is to the West of L, and P is to the South of L. The side SL is 1200, and the hypotenuse SP is 1300. A North arrow points upwards from L."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate LP.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the bearing of S from P.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "A boat sailed from S to P. It left S at 15 56 and reached P at 16 04. Calculate its speed in kilometres per hour.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The points P, T, U and V lie on Circle I, and the points P, Q, R, S and T lie on Circle II. UPQ and VPR are straight lines. VTU = 38° and TŜR = 106°.",
+        "image": "Two intersecting circles, Circle I and Circle II. Circle I has points P, T, U, V on its circumference. Circle II has points P, Q, R, S, T on its circumference. Straight lines UPQ and VPR are drawn. Angle VTU is 38°. Angle TSR is 106°."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Find VPU,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "QTR,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "TPR,",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "UPT.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A and B are points on the circle, centre O. CA is a tangent at A and BOC is a straight line. ÂCB = x° and BÂO = y°. Find an expression for y in terms of x.",
+        "image": "A circle with center O. Points A and B are on the circumference. Line CA is tangent to the circle at A. Line BOC is a straight line passing through the center O. Angle ACB is labeled x°, and angle BAO is labeled y°."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams",
+      "Identify prime numbers",
+      "Identify even numbers",
+      "Identify multiples"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "& = {x : x is an integer and 10 ≤ x ≤ 21} E = {x: x is an even number} M = {x : x is a multiple of 5} P = {x: x is a prime number} The Venn diagram shows the Universal set & and the subsets E and M. Two elements of & are shown in their appropriate subsets.",
+        "image": "A Venn diagram with a universal set rectangle labeled '&'. Inside are two overlapping circles labeled E and M. The number 12 is in the E-only region. The number 20 is in the intersection region of E and M."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Copy the Venn diagram shown above and draw the subset P.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Write the remaining 10 elements of & in the appropriate subsets of your Venn diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "& = {letters of the alphabet } J = {a, b, c, d, e, f, g} K = { a, e, i, o, u}",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Find n(J∪K).",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find J∩K'.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Given that L⊆J and L⊆K, state the maximum value of n(L).",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "A letter is picked at random from K. Find the probability that it is not an element of J.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In a school, 24 students are members of the Athletics Club, 30 students are members of the Basketball Club and 36 students are members of the Drama Club. 5 students are members of all three clubs. 12 students are members of both the Athletics Club and the Drama Club. 13 students are members of both the Basketball Club and the Athletics Club. 19 students are members of both the Drama Club and the Basketball Club.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "How many students are members of the Basketball Club, but are not members of the other two Clubs?",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "How many students are members of one or more of the Clubs?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q5",
+    "Question_text": "Archie bought a car from a dealer. The dealer sold the car for $7040. Archie paid a deposit of $1760.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Express as percentage",
+      "Calculate simple interest",
+      "Calculate reverse percentages"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the deposit as a percentage of the dealer's selling price.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Archie took out a loan agreement to repay the outstanding balance of $5280. He paid $212.67 per month for 36 months. Calculate",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the amount of interest that he paid,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the rate of simple interest per year that had been charged.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When the dealer sold the car, he made a profit of 30%. Calculate the profit, correct to the nearest dollar, that the dealer made on the sale of this car.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes",
+      "Calculate estimate of mean for grouped discrete or continuous data",
+      "Draw and interpret pie charts"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The results of a survey of the number of televisions in 40 households are given in the table below.",
+        "image": "A table with two rows and five columns. The first row is 'Number of televisions' with values 1, 2, 3, 4. The second row is 'Number of households' with values 8, 17, 12, 3."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the mean number of televisions per household.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The survey was extended to include 5 more households. It was found that none of these had a television. For the 45 households, calculate the mean number of televisions per household.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "120 children were asked which colour they liked best. 59 said red, 21 said blue and the rest said yellow.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using a radius of 4cm, draw an accurate pie chart to show these results.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Out of the children who liked blue best, 5/7 were wearing blue socks. How many of the children who liked blue best were not wearing blue socks?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q7",
+    "Question_text": "The diagram shows an open rectangular tank with base 20 cm by 30 cm. The tank contains 9600 cm³ of water.",
+    "image": "A 3D diagram of an open rectangular tank. The base dimensions are labeled 20 cm and 30 cm. Inside the tank, water is shown up to a certain level, indicated by a shaded region.",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Solve average speed problems",
+      "Change the subject of formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the number of litres of water in the tank.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the depth of the water.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the total surface area of the tank that is in contact with the water.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The water had entered the tank through a circular pipe of radius 0.8 cm. It flowed through the pipe at 25 centimetres per second. How long did the 9600 cm³ of water take to enter the tank? Give your answer correct to the nearest second.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "[Volume of a sphere = 4/3 πr³] 250 identical spheres are placed in the bottom of the tank. Each sphere has a volume of 2.6 cm³.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate by how much the water level in the tank will rise. Give your answer in millimetres.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the radius of one of these spheres.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q8",
+    "Question_text": "Answer the WHOLE of this question on a sheet of graph paper. The variables x and y are connected by the equation y = x² - 1 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Recognise, sketch and interpret graphs of the following functions: (b) quadratic",
+      "Draw straight-line graphs for linear equations",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Understand and find inverse functions f⁻¹(x)",
+      "Construct expressions, equations and formulas",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Copy and complete the following table of values.",
+        "image": "A table with two rows and nine columns. The first row is 'x' with values -4, -3, -2, -1, 0, 1, 2, 3, 4. The second row is 'y' with some blank cells."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Using a scale of 2 cm to represent 1 unit, draw a horizontal x-axis for −4 ≤ x ≤ 4. Using a scale of 1 cm to represent 1 unit, draw a vertical y-axis for −2 ≤ y ≤ 16. On your axes, plot the points from your table and join them with a smooth curve.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "It is given that f(x) = (x + 7) / 2",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Using the same axes, draw the graph of y = f(x).",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Find f⁻¹(3).",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) (a)",
+        "part_text": "Write down the x coordinates of the two points where the graphs intersect.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) (b)",
+        "part_text": "Find the equation that is satisfied by these two values of x. Express your answer in the form ax² + bx + c = 0, where a, b and c are integers.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q9",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)",
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Use area of triangle formula (1/2 ab sin C)",
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "ABC is a triangle in which ÂBC = 34° and AC = 15 cm. BCD is a straight line and ÂCD = 60°.",
+        "image": "A triangle ABC. Angle ABC is 34 degrees. Side AC is 15 cm. Side BCD is a straight line, with C between B and D. Angle ACD is 60 degrees. Point A is at the top, B at the bottom left, C at the bottom middle, and D at the bottom right."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Find BÂC,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "BC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The shaded part of the diagram shows a lake. P and Q are points at each end of the lake. R is a point on the same level ground as P and Q. PR = 55 m, QR = 70m and P R̂ Q = 112°.",
+        "image": "A shaded irregular shape representing a lake. Points P and Q are at its ends. A point R is shown, forming a triangle PQR with vertices P, Q, R. Side PR = 55, QR = 70. Angle PRQ = 112 degrees."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate PQ.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A plan is drawn using a scale of 1 centimetre to 5 metres.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) (a)",
+        "part_text": "State the lengths of PR and QR on the plan.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) (b)",
+        "part_text": "Find the area of triangle PQR on the plan.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) (c)",
+        "part_text": "The area of the lake on the plan is 32.4 cm². Calculate the actual area, in square metres, of the lake.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q10",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems",
+      "Calculate magnitude of vector as sqrt(x² + y²)",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the diagram, ABCD is a quadrilateral where AB = (4 8), BC = (2 0) and CD = (-8 -12). E, F, G and H are the midpoints of AB, BC, CD and DA respectively.",
+        "image": "A quadrilateral ABCD. Points E, F, G, H are marked as midpoints of sides AB, BC, CD, DA respectively."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Find AD.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate |AD|.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Show that EF and HG are opposite sides of a parallelogram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The diagram shows triangle P. Triangle Q has vertices (–2, 4), (6, 0) and (6, 4). Describe fully the single transformation that maps triangle P onto triangle Q.",
+        "image": "A coordinate grid with x-axis from -2 to 6 and y-axis from 0 to 4. A triangle P is drawn with vertices at (0,4), (0,2), and (2,2)."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The transformation represented by the matrix (5 2 / 0 3) maps the square O (0, 0), U(1, 0), V(1, 1), W (0, 1) onto OU'V'W'.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Find the coordinates of U', V' and W΄.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Find the matrix that represents the transformation that maps OU'V'W' onto OUVW.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q11",
+    "Question_text": "A gardener uses No-Weed to kill weeds in his lawn.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Use proportional reasoning",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Construct expressions, equations and formulas",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "He mixes 15 ml of No-Weed with 5 litres of water. Calculate the ratio of No-Weed to water in the mixture. Express the ratio in the form m : n, where m and n are the smallest possible whole numbers.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The gardener's lawn is a rectangle of length 27 metres and width 25 metres.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "15 ml of No-Weed are required to kill weeds in 10m² of lawn. No-Weed is sold in 500 ml bottles.",
+        "image": null
+      },
+      {
+        "part_label": "b(i) (a)",
+        "part_text": "How many bottles does the gardener need to buy?",
+        "image": null
+      },
+      {
+        "part_label": "b(i) (b)",
+        "part_text": "How many millilitres are not used?",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The lawn is to be made larger. The length is increased by 3x metres and the width by x metres. The area of the larger lawn is twice that of the original lawn.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) (a)",
+        "part_text": "Form an equation in x and show that it reduces to x² + 34x – 225 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) (b)",
+        "part_text": "Solve the equation x² + 34x – 225 = 0, giving each answer correct to 2 decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) (c)",
+        "part_text": "Hence find the length of the larger lawn.",
+        "image": null
+      }
+    ]
+  }
+]

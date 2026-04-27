@@ -1,0 +1,194 @@
+[
+  {
+    "QuestionNumber": "October-November/32/2016/Q1",
+    "Question_text": "In this experiment, you will determine a value for the focal length of a lens. You are provided with • a converging lens, • a small piece of Blu-Tack, • a 30 cm ruler, • two set squares.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The Supervisor has provided you with either a lens A, that has two curved surfaces, or a lens B, that has one flat and one curved surface. Both lenses are shown in Fig. 1.1. Measure the thickness t of the lens at its edge. For some lenses t is very small. Give your answer to the nearest 0.5 mm.",
+        "image": "Fig. 1.1 shows two lenses, labeled 'lens A' and 'lens B', in cross-section. Lens A is biconvex (curved on both sides), with a central dashed axis and a double-headed arrow labeled 't' indicating the thickness at its edge. Lens B is plano-convex (one flat, one curved side), also with a central dashed axis and a double-headed arrow labeled 't' indicating the thickness at its edge."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the lens on the ruler with a diameter of the lens along the edge of the ruler, as shown in Fig. 1.2.",
+        "image": "Fig. 1.2 (not to scale) shows a lens, depicted as a circular shape, placed on a ruler. The lens's diameter is aligned with the edge of the ruler. A double-headed arrow beneath the lens is labeled 'D', representing its diameter. The ruler is marked with divisions."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Take measurements to determine an average value for the diameter D of the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe, with the aid of a diagram in the space below, how you made sure that an accurate value was obtained for D.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using a small piece of Blu-Tack, stand the lens vertically on the ruler as shown in Fig. 1.3.",
+        "image": "Fig. 1.3 shows a lens standing vertically on a ruler, supported by a piece of Blu-Tack at its base. A dashed vertical line passes through the center of the lens, and a double-headed arrow labeled 'T' measures the thickness of the lens at its center, with the arrow tips touching the dashed line."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 1.3 draw a diagram to show how to determine the thickness T of your lens at its centre using two set squares.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Determine T.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the focal length f of the lens using the equation f = D² / (4.2 (T-t)).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2016/Q2",
+    "Question_text": "In this experiment, you will investigate the rotational motion of a spring. You are provided with • a spring, • a 150 mm plastic ruler, • two pieces of Blu-Tack to hold the spring and ruler together, • two small blocks of wood, • a stand, boss and clamp to hold the blocks of wood, • a separate piece of Blu-Tack, • an optical pin in a cork, • a stopwatch.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Motion",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The Supervisor has set up the apparatus as shown in Fig. 2.1. Ensure that the ruler is approximately horizontal. Carefully rotate the ruler in a horizontal plane through an angle of approximately 90° as shown in Fig. 2.2, which is a view from above the apparatus. The ruler should be rotated clockwise. Ensure that the spring remains vertical during this operation. Release the ruler. Describe what happens to the amplitude of the motion during the first 10 oscillations.",
+        "image": "Fig. 2.1 shows an apparatus setup. A vertical stand has a clamp and boss holding a horizontal rod. A spring is attached to the rod and hangs vertically. At the bottom of the spring, a 150 mm ruler is attached horizontally using Blu-Tack, forming a loop. Small blocks of wood are placed on either side of the ruler's attachment point to the spring, clamped by the stand's rod. This illustrates the setup for investigating rotational motion of a spring. Fig. 2.2 is a top-down view showing a horizontal ruler with a spring attached at its center, secured by Blu-Tack. Curved arrows indicate the ruler being rotated clockwise approximately 90° from its equilibrium position, representing the start of rotational motion."
+      },
+      {
+        "part_label": "b",
+        "part_text": "One complete oscillation of the ruler occurs when the ruler moves from the extreme clockwise position, rotates and returns to the next extreme clockwise position.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The time for 10 complete oscillations is t₁. Take measurements to determine an accurate value of t₁.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the time T₁ for one complete oscillation. Give your answer to a suitable number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Attach the separate piece of Blu-Tack to the lower edge of the ruler directly below the spring. Repeat (b) (i) and (b) (ii) so that new values are obtained for the time t₂ for 10 oscillations and the time T₂ for one complete oscillation.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate T₂ / T₁.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2016/Q3",
+    "Question_text": "In this experiment, you will determine the resistance of a resistor X. You are provided with • a power supply, • a switch, • a resistor labelled X, • a 10Ω resistor, • a 22Ω resistor, • an ammeter, • a voltmeter, • connecting leads.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Connect the 10Ω resistor between terminals P and Q. Close the switch. Record the voltmeter reading V₁, the ammeter reading I₁, and then open the switch.",
+        "image": "Fig. 3.1 shows an incomplete electrical circuit diagram. It includes a d.c. power supply, a switch, and a resistor labeled 'X' connected in series. An ammeter 'A' is placed in series with 'X'. A voltmeter 'V' is connected in parallel across two terminals 'P' and 'Q', which are in parallel with resistor 'X'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Remove the 10Ω resistor from the circuit and replace it with the 22Ω resistor. Close the switch. Record the voltmeter reading V₂, the ammeter reading I₂, and then open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "By changing the resistor between P and Q, the current in the circuit changes. State how a change in the current affects the voltmeter reading.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the resistance R of X using the equation R = (V₂ - V₁) / (I₁ - I₂).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2016/Q4",
+    "Question_text": "In this experiment, you will investigate the equilibrium of a metre rule. You are provided with • a pivot in the form of a thin rod, • a stand labelled A, with a boss and a clamp to hold the pivot, • a metre rule with holes at the 10.0 cm and 90.0 cm marks. The Supervisor has set up these items as shown in Fig. 4.1. You are also provided with • a spring, • a stand, labelled B, with a boss and a clamp to hold the spring, • an S-hook, • a loop of string, • a mass labelled M, • a 30 cm ruler, • a set square.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure the unstretched length y of the coiled part of the spring as shown in Fig. 4.2.",
+        "image": "Fig. 4.1 shows an apparatus setup for investigating equilibrium. A stand labeled 'A' has a clamp and boss holding a horizontal rod, which acts as a pivot. A metre rule is balanced on this rod. The rule has holes at the 10.0 cm and 90.0 cm marks. The diagram shows the rule extending over a bench. Fig. 4.2 shows a close-up diagram of a coiled spring. A double-headed arrow labeled 'y' indicates the unstretched length of the coiled part of the spring."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Set up the apparatus as shown in Fig. 4.3. Use the loop of string to suspend the mass M from the rule at the 50.0cm mark. Pass the S-hook through the hole at the 90.0cm mark. Use stand B to suspend the spring so that it supports the S-hook. Adjust the height of the boss on stand B so that the metre rule is horizontal.",
+        "image": "Fig. 4.3 shows a complete apparatus setup on a bench. Stand A (left) supports a rod (pivot) on which a metre rule is balanced. A mass M is suspended by a loop of string from the 50.0 cm mark of the rule. An S-hook is attached to the 90.0 cm mark of the rule. Stand B (right) has a clamp and boss holding a spring, which is connected to the S-hook, providing support. The spring is shown under tension, extending downwards. The overall arrangement aims to demonstrate the equilibrium of the metre rule."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Record the distance x between the position of the pivot and the position of the loop of string.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Measure the new length L of the coiled part of the spring. Hence determine the extension e of the spring using e = L – y.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain how you ensured that the metre rule was horizontal. You may draw on Fig. 4.3.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "By altering the position of the loop of string on the metre rule, repeat (b) (i) and (b) (ii) for a range of values of x. In each case the height of the boss on stand B should be adjusted to make the metre rule horizontal. Record your results for x, L and e in the table of Fig. 4.4. Include headings in your table and your results from (b) (i) and (b) (ii).",
+        "image": "Fig. 4.4 shows an empty table grid with 6 rows and implicitly multiple columns (e.g., for x, L, and e) for recording experimental data."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of e/cm (y-axis) against x/cm (x-axis). Draw the straight line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Determine the gradient G of your graph. Give your answer to an appropriate number of significant figures.",
+        "image": null
+      }
+    ]
+  }
+]

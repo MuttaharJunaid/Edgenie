@@ -1,0 +1,461 @@
+[
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q1",
+    "Question_text": "The diagrams show a parachutist in four positions after she jumps from a high balloon. At which position does she have terminal velocity?",
+    "image": "Four diagrams illustrate a parachutist's journey: A) Parachutist inside a hot air balloon, motionless. B) Parachutist in freefall, accelerating downwards. C) Parachutist with an open parachute, descending at a constant speed, indicating terminal velocity. D) Parachutist on the ground, stationary.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q2",
+    "Question_text": "The propeller on a boat pushes water backwards with a force of 2000 N. The boat moves through the water against a total resistive force of 1800N. According to Newton's third law, what is the forward force on the propeller due to the water?",
+    "image": "A diagram shows a boat moving through water. An arrow labeled 'resistive force on boat 1800 N' points opposite to the 'direction of motion of boat'. Another arrow labeled 'force on water due to propeller 2000 N' also points opposite to the direction of motion of the boat, indicating the action force of the propeller on the water.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q3",
+    "Question_text": "The graph shows part of a journey made by a cyclist. How far did the cyclist travel in 7 s?",
+    "image": "A speed-time graph. The x-axis represents time in seconds from 0 to 7. The y-axis represents speed in m/s from 0 to 6. The graph shows: a linear increase in speed from 0 m/s at 0 s to 4 m/s at 4 s; constant speed of 4 m/s from 4 s to 6 s; and a linear increase in speed from 4 m/s at 6 s to 6 m/s at 7 s.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q4",
+    "Question_text": "An engine pulls a truck at constant speed on a level track. The link between the truck and the engine breaks. The driving force on the engine remains constant. What effect does this have on the truck and on the engine?",
+    "image": "A diagram illustrates an 'engine' connected to a 'truck' via a 'link', both resting on a 'track'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's First Law",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q5",
+    "Question_text": "The weight of a stone is found using a newton meter, and its mass is found using a pan balance. The experiment is carried out on the Earth and on the Moon. For each meter, is its reading the same or different on the Earth and on the Moon?",
+    "image": "Two separate diagrams: one shows a 'stone' suspended from a 'newton meter', indicating measurement of weight. The other shows a 'stone' on one side of a 'pan balance', indicating measurement of mass.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q6",
+    "Question_text": "The diameter and the length of a thin wire, approximately 1m in length, are measured as accurately as possible. What are the best instruments to use?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q7",
+    "Question_text": "A quantity is quoted as having a value of 6.2 ms. In what units is it measured?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q8",
+    "Question_text": "The efficiency of an electrical generator is 65%. The energy input to the generator is 12kJ. What is the useful energy output?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q9",
+    "Question_text": "Coal is burned as fuel to heat water in a boiler, producing steam. The steam drives a turbine, which is connected to an electric generator. In which order do the major energy transformations take place?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q10",
+    "Question_text": "A crane moves its load diagonally, as shown. By which distance is the weight of the load multiplied to calculate the change in gravitational potential energy of the load?",
+    "image": "A diagram depicts a crane lifting a 'load' diagonally. Point A represents the vertical height change. Point B represents the horizontal displacement. Point C represents the total diagonal path length. Point D is another diagonal path related to the overall movement.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q11",
+    "Question_text": "The extension of a spring is measured as weights are added. The graph shows the results. Which point is the spring's limit of proportionality?",
+    "image": "A graph plots 'extension' on the y-axis against 'weight added' on the x-axis. The graph shows a straight line from the origin through point A and up to point B. After point B, the line curves upwards, passing through points C and D, indicating that the spring is no longer obeying Hooke's Law.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q12",
+    "Question_text": "A metal cone with a circular base is placed on a flat surface. The stability of the cone depends on",
+    "image": "A diagram shows a metal cone standing upright on its circular base on a flat surface.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q13",
+    "Question_text": "Objects with different weights are placed on a rigid, horizontal surface. Which row shows the correct pressure acting on the surface?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q14",
+    "Question_text": "The diagram shows two identical pieces of apparatus. One is filled with water and the other is filled with mercury. Water is less dense than mercury. At which point is the liquid pressure greatest?",
+    "image": "Two identical U-tube manometers are shown. The left manometer contains 'water' with points A and B at different depths. The right manometer contains 'mercury' with points C and D at different depths. Point D is at the greatest depth in the mercury column.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q15",
+    "Question_text": "Which row explains why a liquid has a fixed volume but does not have a fixed shape?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q16",
+    "Question_text": "To raise the temperature of a 2.0 kg block of metal by 20°C, energy of 5.2 kJ is needed. What is the value of the specific heat capacity of the metal?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q17",
+    "Question_text": "What makes a clinical thermometer suitable for measuring small changes in body temperature?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q18",
+    "Question_text": "Substances can change from one state to another as shown. Which changes involve the substance taking in energy and which changes involve the substance giving out energy?",
+    "image": "A cyclic diagram illustrates changes of state: 'solid' transitions to 'liquid' via 'melting' (1) and 'liquid' transitions to 'gas' via 'boiling' (2). The reverse changes are 'gas' to 'liquid' via 'condensing' (3) and 'liquid' to 'solid' via 'freezing' (4).",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q19",
+    "Question_text": "How does heat transfer through a vacuum take place?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q20",
+    "Question_text": "A ray of light enters a glass block at an angle of incidence i, producing an angle of refraction r in the glass. Several different values of i and r are measured, and a graph is drawn of sin i against sin r. Which graph is correct?",
+    "image": "A diagram shows a ray of light passing from air into a 'glass block'. The angle of incidence 'i' is measured from the normal to the incident ray, and the angle of refraction 'r' is measured from the normal to the refracted ray inside the block. The light ray bends towards the normal as it enters the denser medium.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q21",
+    "Question_text": "A boy stands beside a girl in front of a large plane mirror. They are both the same distance from the mirror, as shown. Where does the boy see the girl's image?",
+    "image": "A diagram illustrates a 'girl' and a 'boy' standing in front of a plane 'mirror'. The girl is to the left of the boy. Four points (A, B, C, D) are marked behind the mirror. Point B is directly behind the girl and at the same perpendicular distance from the mirror as the girl is in front.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q22",
+    "Question_text": "How do the speed and the wavelength of red light in air compare with the speed and the wavelength of violet light in air?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q23",
+    "Question_text": "The diagram shows the main sections of the electromagnetic spectrum in order of increasing frequency. Some of the sections are labelled. The section R has a frequency just below that of light. Which application uses the section R?",
+    "image": "A horizontal diagram shows the electromagnetic spectrum, ordered by 'increasing frequency'. Sections are labeled: 'radio waves', 'R', 'light', and 'gamma-rays'. Section 'R' is positioned between 'radio waves' and 'light'.",
+    "Unit": "Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q24",
+    "Question_text": "A student uses a spring to demonstrate waves. He moves the spring with his hand. Which diagram demonstrates the type of wave produced by a source of sound?",
+    "image": "A drawing shows a hand holding one end of a spring, labeled 'spring placed on bench', with the spring extending horizontally. The hand is positioned as if moving the spring to create waves.",
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q25",
+    "Question_text": "Waveforms are shown on a cathode-ray oscilloscope for a flute and for a guitar, each playing the same note. The oscilloscope settings are the same for both waveforms. What is the difference between the two sounds?",
+    "image": "Two cathode-ray oscilloscope (CRO) displays show sound waveforms. The first, labeled 'flute', shows a complex, somewhat rounded periodic wave. The second, labeled 'guitar', shows a different complex, spiky periodic wave. Both waveforms appear to have the same fundamental frequency (period) and approximately similar peak amplitudes, but their shapes (harmonics) are distinct.",
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q26",
+    "Question_text": "The diagram shows an alarm system. What happens when battery P is disconnected?",
+    "image": "A diagram shows an electrical alarm bell system. A 'battery P' is connected to an electromagnet with an 'iron core' and a coil. An 'iron armature' pivoted nearby is attracted by the electromagnet when current flows, causing a hammer to strike a 'bell'. The armature's movement also breaks the circuit (pivot and contact), causing the electromagnet to de-energize and the armature to spring back, remaking the circuit and repeating the action.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q27",
+    "Question_text": "The resistance of a cylindrical wire P is 80 Ω. A second wire Q is made from the same material. The cross-sectional area of Q is four times that of P. The length of Q is twice the length of P. What is the resistance of Q?",
+    "image": "Two cylindrical wires are depicted: 'wire P' is shorter and thinner. 'wire Q' is longer and noticeably thicker than wire P, illustrating their relative dimensions.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q28",
+    "Question_text": "The diagram shows a potential divider system of two resistors connected to a 6.0V power supply. What is the reading on the voltmeter?",
+    "image": "A circuit diagram shows a '+6.0V' power supply connected to two resistors in series. The first resistor has a resistance of '2000 Ω', and the second has a resistance of '10 000 Ω'. A voltmeter, labeled 'V', is connected in parallel across the 10 000 Ω resistor.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q29",
+    "Question_text": "In the circuit shown, the alarm bell will only start ringing some time after the switch is closed. What causes the time delay?",
+    "image": "A circuit diagram shows a battery connected to a switch. When the switch is closed, current flows through a 'resistor' and charges a 'capacitor'. The capacitor is connected to a 'circuit with alarm bell', which is triggered after a delay.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q30",
+    "Question_text": "Which appliance used on a 240 V supply is most likely to burn out its fuse?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q31",
+    "Question_text": "The current in a filament lamp is 0.25 A when working normally. The lamp is connected to a plug and the mains a.c. supply. When the lamp is switched on, it does not light. What is a possible cause for this?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q32",
+    "Question_text": "A lamp, designed to work at 1.5V, is connected to a cell of electromotive force (e.m.f.) 1.5V. The lamp lights at normal brightness. The lamp is now connected to four similar cells, each of e.m.f. 1.5V, arranged in parallel. What is the effect of connecting the extra cells in this way?",
+    "image": "Two circuit diagrams are shown. The first diagram illustrates a single cell connected to a lamp. The second diagram shows four identical cells connected in parallel, supplying power to the same lamp.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q33",
+    "Question_text": "Two metal spheres X and Y are on insulating bases. Both spheres are negatively charged. Sphere X is moved towards sphere Y until they almost touch. Which diagram shows the final pattern of charges?",
+    "image": "A diagram shows two metal spheres, labeled 'X' and 'Y', resting on 'insulating bases'. Both spheres are depicted with evenly distributed negative charges across their surfaces.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q34",
+    "Question_text": "The diagrams show three electrical devices, X, Y and Z. Which devices provide an alternating current (a.c.) output?",
+    "image": "Three diagrams of electrical devices (X, Y, Z) are shown. Device X is a generator with slip rings, representing an AC generator. Device Y is a generator with a split-ring commutator, representing a DC generator. Device Z shows a rotating coil with an iron core in a magnetic field connected to an external circuit, also representing a DC generator (or motor action if current is supplied).",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q35",
+    "Question_text": "One component of a simple d.c. motor is a split-ring commutator. Which metal is used to make the commutator, and why is this metal chosen?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q36",
+    "Question_text": "Two parallel wires carry currents in the same direction. Which diagram shows the magnetic field around each wire and the direction of the force on each wire?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Fields Around Parallel Conductors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q37",
+    "Question_text": "A small coil is connected to a galvanometer G, as shown. When a magnet is allowed to fall towards the coil, the galvanometer pointer gives a momentary deflection to the right of the zero position. The magnet moves through the coil. What happens to the galvanometer pointer as the magnet falls away from the coil?",
+    "image": "A diagram shows a coil of wire connected to a 'galvanometer G'. A bar magnet is positioned above the coil, with its S-pole facing downwards towards the coil. An arrow indicates the magnet falling towards the coil.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q38",
+    "Question_text": "The isotope barium-140 has a half-life of 13 days. A sample of this isotope is kept for 13 days. Which quantity halves during this time?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q39",
+    "Question_text": "In a laboratory experiment, particles from a radioactive source are deviated by a magnetic field and reach a detector. Which particles are deviated and reach the detector?",
+    "image": "A diagram illustrates a 'radioactive source' emitting radiation. The radiation passes through a region with a 'magnetic field into the paper' (indicated by a cross within a circle). Particles are shown deviating upwards before reaching a 'detector' located to the right.",
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/O/N/11/Q40",
+    "Question_text": "One isotope of carbon is ¹⁴C. How many neutrons and protons does each atom of this isotope contain?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

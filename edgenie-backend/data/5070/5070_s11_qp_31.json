@@ -1,0 +1,27 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Seaweed can be used as a commercial source of iodine. The amount of iodine present in a sample of seaweed is often stated in parts per million, ppm. For instance, if a sample contains 200 ppm, then there are 200 g of iodine in every 1000000 g of seaweed. You are provided with an aqueous solution of iodine which has been obtained from seaweed. You are required to determine its concentration by titration with sodium thiosulfate, Na2S2O3, using starch as an indicator and then calculate how much iodine is present in the seaweed.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration from titration",
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Carry out the following experiments on the aqueous solutions R and S and record your observations in the table. You should test and name any gas evolved.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  }
+]

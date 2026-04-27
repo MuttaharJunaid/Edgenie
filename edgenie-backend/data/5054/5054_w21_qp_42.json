@@ -1,0 +1,179 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/42/2021/Q1",
+    "Question_text": "A student measures a value for the specific latent heat of vaporisation Lv of water. The student: pours 100 g of water at room temperature into a beaker placed on a top-pan balance connects an immersion heater into a circuit with a suitable power source, an ammeter and a switch places the immersion heater into the water reads and records the mass of the beaker and water. The apparatus is shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a schematic diagram of an experimental setup. A power supply is connected in series to an ammeter (labeled 'A') and an immersion heater. The heater is submerged in water, which is contained in a beaker. The beaker and water are placed on a top-pan balance. The entire setup is supported by a stand. The diagram illustrates the components typically used for an experiment involving heating water.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Thermal Conduction",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Electrical Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 1.1, draw a voltmeter connected to measure the potential difference V across the heater.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student closes the switch. The scales of the voltmeter and ammeter are shown in Fig. 1.2. Record the readings from the meter scales. reading on voltmeter V = __________ V reading on ammeter I = __________ A",
+        "image": "Fig. 1.2 displays two analogue meter scales. The left scale is a voltmeter (V), ranging from 0 to 15, with markings at 0, 5, 10, and 15, and smaller divisions between them. The needle points to 12.5 V. The right scale is an ammeter (A), ranging from 0 to 5, with markings at 0, 1, 2, 3, 4, and 5, and smaller divisions. The needle points to 2.5 A."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student: waits a few minutes until the water starts to boil records the reading on the top-pan balance when the water starts to boil and starts a stopclock records the reading on the top-pan balance every minute for 6 minutes opens the switch. The student's results are shown in Fig. 1.3 and in Table 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Complete Table 1.1 by filling in the value of the mass m of water boiled away at time t = 3.0 minutes.",
+        "image": "Fig. 1.3 is a text box stating 'mass of beaker and water at room temperature = 154.5g' and 'mass of beaker and water when the water starts to boil = 152.3g'. Table 1.1 is provided with three columns: 'time t /minutes', 'mass of beaker and water /g', and 'mass m of water boiled away /g'. The table contains data for time t from 0 to 6.0 minutes, with the 'mass m of water boiled away /g' entry missing for t = 3.0 minutes, which needs to be calculated from the 'mass of beaker and water /g' column."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On the grid provided in Fig. 1.4 on page 5, plot a graph of mass m/g on the y-axis against time t/minutes on the x-axis. Draw the best-fit straight line.",
+        "image": "Fig. 1.4 is an empty square grid covering the majority of the page, intended for plotting a graph. No axes or labels are present, but the instruction specifies mass m/g on the y-axis and time t/minutes on the x-axis."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Determine the gradient G of your line. Show your working. Indicate on the graph the values you use. G = __________ [2]",
+        "image": "Fig. 1.4, the graph grid from part c(ii), expected to have a plotted graph and a best-fit straight line. The instruction implies that points used for calculating the gradient should be marked on this graph."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Use your readings from (b) to calculate the thermal energy Q supplied to the water in 1.0 minute using the equation: Q = VIT where T = 60 s. Q = __________ J [2]",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Use your answers from (d) and (e)(i) to calculate a value for the specific latent heat of vaporisation of water Lv using the equation: Lv = Q/G Lv = __________ J/g [1]",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "The student's results in (c) show that the mass of the beaker and water just as the water starts to boil is less than the mass of the beaker and water at room temperature. Explain the difference in mass.",
+        "image": null
+      },
+      {
+        "part_label": "g(i)",
+        "part_text": "Thermal energy is lost by conduction through the sides of the beaker during the experiment. This means that the value determined for Lv in this experiment is greater than the accepted value. Explain how the loss of energy through the sides of the beaker causes this difference.",
+        "image": null
+      },
+      {
+        "part_label": "g(ii)",
+        "part_text": "State how the loss of thermal energy can be reduced.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2021/Q2",
+    "Question_text": "A student uses a 30 cm ruler graduated in millimetres to estimate the thickness of a sheet of paper by two different methods.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Method 1 The student: takes 1 sheet of paper from a pack of 500 sheets and folds it in half folds the paper in half again repeats this process until the paper has been folded in half 5 times measures and records the thickness of the folded sheet. Thickness of folded paper = 0.4cm The folded sheet is now 32 sheets of paper thick. Calculate the mean thickness of 1 sheet of paper. mean thickness of 1 sheet = __________ cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Method 2 The student: takes the remainder of the pack of paper and measures the thickness of the entire pack repeats the measurement twice more at different places around the edge of the pack. The student's results are: 4.3 cm 4.4 cm 4.3 cm",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the mean thickness of the pack. Give your answer to 2 significant figures. mean thickness of pack = __________ cm [2]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the mean thickness of 1 sheet of paper. mean thickness of 1 sheet = __________ cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State which method of measuring the mean thickness of a sheet of paper is more accurate. Give one reason for your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2021/Q3",
+    "Question_text": "A student uses pins to locate the image of an object formed by a plane mirror. The student: places an object pin P in front of the mirror looks into the mirror and sees an image of P places two more pins W and X in front of the mirror and adjusts their positions so that the image of P and pins W and X are exactly in line, one behind the other. The position of the pins is shown in Fig. 3.1.",
+    "image": "Fig. 3.1 illustrates an experimental setup for reflection. A plane mirror is shown as a vertical hatched line. An object pin 'P' is placed in front of the mirror. Two other pins, 'W' and 'X', are positioned to the right of 'P' such that they appear collinear with the image of 'P' when viewed from a specific eye position, indicated by an 'eye' symbol to the far right. The diagram shows the relative positions of the mirror, pins P, W, X, and the eye, implying the concept of reflection and image formation.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection",
+      "Ray Diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.2, draw a line joining X to W and continue the line until it hits the mirror. Label the point where the line meets the mirror with the letter A. Repeat this for points Z and Y. Label the point where this line meets the mirror with the letter B.",
+        "image": "Fig. 3.2 shows the plane mirror and pins P, W, X, Y, Z. It is similar to Fig. 3.1 but includes additional pins 'Y' and 'Z' positioned differently from W and X, but also aligned with the image of P from another viewing angle. The task requires drawing lines connecting X to W and Z to Y, extending them to the mirror, and labeling the intersection points A and B respectively. The image itself does not contain these drawn lines or labels yet."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 3.2 draw the two incident rays from P that produce the reflected rays that you have drawn in (i).",
+        "image": "Fig. 3.2, with the lines XW (meeting mirror at A) and ZY (meeting mirror at B) now drawn as per part a(i). This part requires drawing the incident rays from object pin P to points A and B on the mirror."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Measure the angle of incidence i of the ray PA. i = __________ .° [1]",
+        "image": "Fig. 3.2, with the incident ray PA drawn and the reflected ray AX (part of XW) drawn. This part requires measuring the angle of incidence between the incident ray PA and the normal to the mirror at point A."
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 3.2, continue the rays XW and ZY until they meet behind the mirror. This is the position of the image. Label the position of the image with the letter I.",
+        "image": "Fig. 3.2, with all previous lines and rays drawn. This part requires extending the reflected rays XW and ZY as dashed lines behind the mirror until they intersect, and labeling this intersection point as 'I' for the image."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A second student says that the distance of the object pin P from the mirror is equal to the distance of the image I from the mirror. Measure and record the object distance and the image distance from Fig. 3.2. Give the unit of your answers. object distance = __________ unit __________ image distance = __________ unit __________ [1]",
+        "image": "Fig. 3.2, with the object pin P and the image point I now located and marked, as well as the mirror. This part requires measuring the perpendicular distances from P to the mirror and from I to the mirror."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State, giving a reason, whether your results agree with the statement made by the second student.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2021/Q4",
+    "Question_text": "A student connects three identical lamps P, Q and R to a cell and a switch to make a circuit. Lamp P is connected in series with lamp R, the switch and the cell. Lamp Q is connected in parallel with both lamps P and R.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw the circuit diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student disconnects the lamps from the circuit in (a) and reconnects them as shown in Fig. 4.1. When the switch is closed, the student notices that lamp P lights dimly and lamps Q and R do not light. Five possible explanations for this are shown in Table 4.1. Place a tick in the boxes opposite the two possible correct explanations.",
+        "image": "Fig. 4.1 shows an electrical circuit diagram. A cell (battery symbol) is connected in series with an open switch. After the switch, the circuit branches into two parallel paths. One path contains a lamp labeled 'P'. The other parallel path contains two lamps, 'Q' and 'R', connected in series with each other. Both parallel branches then rejoin to complete the circuit back to the cell. Below the diagram, Table 4.1 lists five potential explanations for observed circuit behavior: 'the cell needs recharging', 'the currents in lamps Q and R are too small', 'the filament of lamp P is broken', 'the filaments of lamps Q and R are broken', and 'there is a break in the lead connecting the cell to lamps Q and R'. Each explanation has an empty box next to it for a tick mark."
+      }
+    ]
+  }
+]

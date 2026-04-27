@@ -1,0 +1,493 @@
+[
+  {
+    "QuestionNumber": "May/June/2017/Q1",
+    "Question_text": "A car accelerates at 5.0m/s² along a straight, horizontal road and reaches a velocity of 20m/s in a time of 4.0 s. During this time, its total displacement is 40 m. Which quantity is a scalar?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q2",
+    "Question_text": "The diagram shows the resultant R of a 3.0N force and a 4.0N force acting at a point. The angle between the 3.0N force and the 4.0 N force can be any value from 0° to 90°. Which value of R is not possible?",
+    "image": "A diagram showing two forces, 3.0 N and 4.0 N, originating from a single point and forming a parallelogram with a resultant force R. The 3.0 N force is directed upwards and slightly left, while the 4.0 N force is directed horizontally to the right. The resultant R is shown as the diagonal of the parallelogram.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q3",
+    "Question_text": "A micrometer is used to measure the diameter of a uniform wire. What is done to obtain an accurate answer?",
+    "image": "A diagram showing a micrometer screw gauge with a wire placed between its jaws. The main components labeled are 'screw', 'wire', 'rotating scale', and 'fixed scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q4",
+    "Question_text": "The diagram shows the distance-time graph of a car. The car is travelling along a straight road up a hill. Which quantity for the car is constant and greater than zero?",
+    "image": "A distance-time graph showing a straight line with a positive slope originating from the origin (0,0). The y-axis is labeled 'distance' and the x-axis is labeled 'time'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q5",
+    "Question_text": "The diagram shows a speed-time graph for an object moving with uniform acceleration. What is the distance travelled in the first 4.0s?",
+    "image": "A speed-time graph showing a straight line with a positive slope, starting from the origin (0,0) and reaching a speed of 6.0 m/s at time 4.0 s. The y-axis is 'speed m/s' and the x-axis is 'time/s'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q6",
+    "Question_text": "A hanging basket is fixed to a wall by a bracket. The weight of the basket is 80 N. The weight of the bracket is 20 N. What is the size of the upwards force exerted on the bracket by the wall?",
+    "image": "A diagram showing a bracket fixed to a wall, holding a hanging basket. The wall is on the right. The bracket extends horizontally from the wall, then bends downwards. The weight of the basket (80 N) is shown acting downwards from the basket. The weight of the bracket (20 N) is shown acting downwards from the horizontal part of the bracket.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Equilibrium",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q7",
+    "Question_text": "A train of mass 240000 kg is travelling at a speed of 60m/s. The brakes are applied and it decelerates for 10 minutes until it comes to rest. What is the average resultant force?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Resultant Forces",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q8",
+    "Question_text": "A car travels at a constant speed along a circular, horizontal path. Which statement describes the forces acting on the car?",
+    "image": "A diagram showing a car moving along a circular path. An arrow indicates 'the direction of travel' tangential to the path. Another arrow labeled 'away from the centre' points radially outwards, and an arrow labeled 'towards the centre' points radially inwards. The circular path is labeled 'path of car'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q9",
+    "Question_text": "The diagram shows a block of wood resting on a sloping board. Which arrow shows the direction of the gravitational force acting on the block?",
+    "image": "A diagram showing a rectangular block resting on a sloping surface. Four arrows are drawn from the center of the block. Arrow A points vertically downwards. Arrow B points perpendicularly into the sloping surface. Arrow C points perpendicularly away from the sloping surface. Arrow D points horizontally to the right, parallel to the sloping surface.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q10",
+    "Question_text": "On the Earth's surface, the gravitational field strength is 10N/kg. On the surface of Mars, the gravitational field strength is 3.8N/kg. A robot vehicle has a weight of 2000 N on Earth. What is the weight of the robot vehicle on Mars?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q11",
+    "Question_text": "The diagram shows a rectangular block. The density of the block is 2.5g/cm³. What is the mass of the block?",
+    "image": "A 3D diagram of a rectangular block with dimensions labeled: 5.0 cm (length), 4.0 cm (width), and 3.0 cm (height). It is labeled 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q12",
+    "Question_text": "The graph shows the extension of a piece of copper wire as the load on it is increased. What does the graph show?",
+    "image": "A graph plotting extension (y-axis) against load (x-axis). The graph shows a straight line originating from the origin (0,0) and then curving upwards, indicating that for a given increase in load, the extension increases at a greater rate after the initial linear region.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q13",
+    "Question_text": "The diagram shows a load-extension graph for a wire. Which point is the limit of proportionality?",
+    "image": "A load-extension graph. The x-axis is 'extension' and the y-axis is 'load'. The graph starts at the origin, goes in a straight line for a segment, then curves upwards. Four points, A, B, C, and D, are marked on the curve. Point A is at the end of the initial linear section, where the curve begins. Point B is further along the curve after A. Points C and D are even further along the curved section.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q14",
+    "Question_text": "A small motor has an input power rating of 10W and is run for 5.0 minutes. What is the electrical energy input to the motor in this time?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q15",
+    "Question_text": "A student of mass 60 kg climbs some steps. He travels a horizontal distance of 2.0m and a vertical distance of 1.5m. The gravitational field strength g is 10 N/kg. What is the work done against the force of gravity?",
+    "image": "A diagram showing a person climbing stairs. The horizontal distance covered by the stairs is 2.0 m, and the vertical height climbed is 1.5 m. The image is labeled 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q16",
+    "Question_text": "Which energy source is non-renewable?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Fuels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q17",
+    "Question_text": "In a coal-fired power station, the coal is burnt and thermal energy (heat) is produced. The thermal energy is used to produce electrical energy. In which order does the energy pass through parts of the power station?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Energy from Fuels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q18",
+    "Question_text": "Two glass containers filled with different liquids are placed next to each other. Point P is a distance h below the surface of the liquid in one container. Point Q is a distance h below the surface of the liquid in the other container. Why is the pressure at P different from the pressure at Q?",
+    "image": "A diagram showing two glass containers, P and Q, filled with liquids. Both containers are open at the top. Container P is wider at the base, and container Q is narrower. A point P is marked at a depth 'h' below the liquid surface in container P. A point Q is marked at the same depth 'h' below the liquid surface in container Q. The liquid levels are shown to be the same height in both containers.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q19",
+    "Question_text": "The pressure of a gas in a cylinder is measured using a water manometer. The density of water is 1000kg/m³ and the gravitational field strength g is 10N/kg. What is the pressure, above atmospheric pressure, of the gas in the cylinder?",
+    "image": "A diagram of a U-tube manometer connected to a gas cylinder on the left. The manometer contains water. The level of water on the side connected to the gas is higher than the level on the open side. The difference in water level is 20 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q20",
+    "Question_text": "A fixed mass of gas is enclosed in a cylinder with a movable piston. The gas is initially at pressure p₁ and has a volume V1. The temperature is kept constant. The piston is moved so that the pressure becomes p2 and the volume becomes V2. Which equation is correct?",
+    "image": "A diagram of a horizontal cylinder with a piston, enclosing a 'gas'. An arrow indicates the piston can move horizontally.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q21",
+    "Question_text": "A substance consists of particles that are close together and moving past each other at random. The average speed of the particles is gradually increasing. What best describes the substance?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q22",
+    "Question_text": "Some ice cubes are taken from a freezer and heated in a container. The readings of temperature and time are recorded on the graph. Which temperature is 0°C?",
+    "image": "A temperature-time graph for heating ice. The graph starts at a low temperature, rises, then flattens out at a constant temperature (plateau), and then rises again. Four horizontal dashed lines are labeled A, B, C, D, indicating specific temperature values. Line C corresponds to the temperature level of the plateau section of the graph.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q23",
+    "Question_text": "A tray for making ice cubes holds 30 g of water. The specific latent heat of fusion of ice is 3.3 x 10⁵ J/kg. How much thermal energy is removed from the water at 0°C to change it into ice at 0°C?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q24",
+    "Question_text": "The bulbs of the four thermometers shown all contain mercury. Which thermometer is the most sensitive?",
+    "image": "Four diagrams of mercury-in-glass thermometers. A: A thermometer with a small bulb and a narrow tube. B: A thermometer with a large bulb and a wide tube. C: A thermometer with a small bulb and a wide tube. D: A thermometer with a large bulb and a narrow tube.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q25",
+    "Question_text": "A metal box has four different surfaces; dull black, shiny black, dull silver and shiny silver. The box is filled with boiling water so that each surface is at the same temperature. A sensor measures the amount of radiation from each surface. Which surface emits the least radiation and which surface emits the most radiation?",
+    "image": "A diagram showing a metal cube filled with boiling water, representing a box with four different surfaces. A 'sensor' connected to a 'meter' is positioned to measure radiation from one of the surfaces. Two labels below the box indicate 'shiny silver' and 'dull silver' surfaces on the cube.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q26",
+    "Question_text": "The diagram shows a water wave in a ripple tank being refracted at the boundary between region P and region Q. How does the wave in region P compare with the wave in region Q?",
+    "image": "A diagram showing parallel wavefronts propagating from region P into region Q. A boundary separates the two regions. The wavefronts in region P are more spread out (longer wavelength) and then become closer together (shorter wavelength) as they cross into region Q, changing direction upon entering region Q. A dashed line represents the 'boundary'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q27",
+    "Question_text": "The graph shows how the height of a water wave varies with distance along the wave. Which graph shows a wave with twice the amplitude, half the frequency, and the same speed?",
+    "image": "Five graphs are displayed. The first graph shows the original wave, with 'height/mm' on the y-axis (ranging from -8 to 8) and 'distance/cm' on the x-axis (ranging from 0 to 16). It is a sine wave with amplitude approximately 4 mm and wavelength approximately 8 cm (repeats every 8 cm). The subsequent four graphs (A, B, C, D) are also height-distance graphs, each representing different wave properties: Graph A: Amplitude 4 mm, Wavelength 8 cm. Graph B: Amplitude 4 mm, Wavelength 16 cm. Graph C: Amplitude 8 mm, Wavelength 8 cm. Graph D: Amplitude 8 mm, Wavelength 16 cm.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q28",
+    "Question_text": "A narrow beam of yellow and green light is separated as it passes through a prism. Which ray diagram is correct?",
+    "image": "Four ray diagrams (A, B, C, D) each showing a prism and an incident narrow beam of light (yellow and green combined) entering from the left. In each diagram, the beam splits into separate yellow and green rays after passing through the prism. The diagrams differ in how much each color is deviated and their relative deviation.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q29",
+    "Question_text": "Which type of wave is used to send television signals to a satellite?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q30",
+    "Question_text": "What proves that a metal bar is a permanent magnet?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetism",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q31",
+    "Question_text": "Which action demagnetises a bar magnet?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q32",
+    "Question_text": "Electrical apparatus is protected from magnetic fields by placing the apparatus in a box. What is the box made from?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q33",
+    "Question_text": "The circuit shown is switched on for 1.0 minute. How much charge passes through the 3.0Ω resistor?",
+    "image": "A simple circuit diagram showing a 6.0 V power source connected in series with a 3.0 Ω resistor. The positive terminal of the power source is indicated.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Resistance",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q34",
+    "Question_text": "The readings of an ammeter and a voltmeter are used to calculate the resistance of resistor R. Which circuit shows the ammeter and voltmeter in the correct positions?",
+    "image": "Four circuit diagrams (A, B, C, D) each showing a power source, a resistor labeled 'R', an ammeter (A), and a voltmeter (V). The configuration of the ammeter and voltmeter (series or parallel) differs in each diagram relative to the resistor R and the power source.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Potential Difference in Circuits",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q35",
+    "Question_text": "A thermistor and a light-dependent resistor (LDR) are connected in series. A potential difference (p.d.) of 6.0 V is applied across them as shown. The thermistor has a resistance of 6000Ω in a cold room and 1000Ω in a warm room. The LDR has a resistance of 2000Ω in dim light and 500Ω in bright light. When is the p.d. across the LDR equal to 2.0V?",
+    "image": "A circuit diagram showing a 6.0 V power source connected in series to a thermistor and a Light-Dependent Resistor (LDR). The thermistor symbol is above the LDR symbol.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Combined Resistance",
+      "Resistance",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q36",
+    "Question_text": "What is the effect of using a split-ring commutator?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q37",
+    "Question_text": "The N-pole of a magnet is moved into a solenoid and an e.m.f. is induced. What causes an increase in the induced e.m.f.?",
+    "image": "A diagram showing a solenoid connected to a voltmeter (V). A bar magnet, with its N-pole facing the solenoid, is positioned near one end of the solenoid. An arrow indicates the magnet moving towards the solenoid.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q38",
+    "Question_text": "Which material is used for the core of a transformer?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q39",
+    "Question_text": "Which row is correct for nuclear fission and for nuclear fusion?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2017/Q40",
+    "Question_text": "What happens to the proton number (atomic number) of a nucleus as it emits an alpha-particle?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,672 @@
+[
+  {
+    "QuestionNumber": "October/November/2011/Q1",
+    "Question_text": "1 (a) Evaluate 3 + 5(3 – 1.4) . (b) Evaluate 0.2 × 0.07 .",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers",
+      "Use operations with decimals",
+      "Order operations correctly",
+      "Use brackets"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 3 + 5(3 – 1.4) .",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 0.2 × 0.07 .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q2",
+    "Question_text": "2 (a) Evaluate 3 2/3 - 2 4/5 . (b) Express 48/84 in its lowest terms.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use proper fractions",
+      "Use improper fractions",
+      "Use mixed numbers",
+      "Write fractions simply",
+      "Use operations with fractions",
+      "Identify common factors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 3 2/3 - 2 4/5 .",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Express 48/84 in its lowest terms.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q3",
+    "Question_text": "3 (a) Write the following numbers in order of size, starting with the smallest. 0.67 7/9 2/3 66% (b) During one month, the volume of perfume in a bottle decreased from 5 ml to 4 ml. Calculate the percentage decrease.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude",
+      "Recognize equivalence",
+      "Convert between forms",
+      "Calculate percentage change"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write the following numbers in order of size, starting with the smallest. 0.67 7/9 2/3 66%",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "During one month, the volume of perfume in a bottle decreased from 5 ml to 4 ml. Calculate the percentage decrease.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q4",
+    "Question_text": "4 (a) Add 55 minutes to 2.4 hours, giving your answer in hours and minutes. (b) The mass of a bag of sugar is given as 1.5kg, correct to the nearest tenth of a kilogram. Write down the upper bound of this mass, giving your answer in grams.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units",
+      "Give upper bounds",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Add 55 minutes to 2.4 hours, giving your answer in hours and minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The mass of a bag of sugar is given as 1.5kg, correct to the nearest tenth of a kilogram. Write down the upper bound of this mass, giving your answer in grams.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q5",
+    "Question_text": "5 Given that f(x) = (2x + 3) / (5x), find f⁻¹(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q6",
+    "Question_text": "6 By making suitable approximations, estimate the value of (304.3 × √15.98) / 0.1975",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates",
+      "Round to accuracy",
+      "Calculate square roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q7",
+    "Question_text": "7 Find the values of x and y, where 2 * ([x] [7]) = 3 * ([-2] [y]) - ([4] [-2])",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown",
+      "Solve simultaneous linear equations in two unknowns",
+      "Know that letters can be used to represent generalised numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q8",
+    "Question_text": "8 A large tank contained 2.3 × 10⁶ litres of oil. During a 4 week period, 1.2 × 10⁵ litres were used. (a) Calculate how many litres of oil remain in the tank after the 4 weeks. Give your answer in standard form. (b) Giving your answer in standard form, calculate the average number of litres used each week.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Use A × 10^n form",
+      "Convert to standard form",
+      "Calculate with standard form",
+      "Use common rates"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate how many litres of oil remain in the tank after the 4 weeks. Give your answer in standard form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Giving your answer in standard form, calculate the average number of litres used each week.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q9",
+    "Question_text": "9 It is given that 13 < 7 - 2x < 18 has the solution a < x < b. Find the values of a and b.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line",
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q10",
+    "Question_text": "10 Factorise completely 2xy – 3x – 10y + 15 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q11",
+    "Question_text": "11 parallelogram rhombus rectangle square Which of these quadrilaterals have (a) exactly 2 lines of symmetry, (b) rotational symmetry of order 2, (c) diagonals that are equal?",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "exactly 2 lines of symmetry,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "rotational symmetry of order 2,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "diagonals that are equal?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q12",
+    "Question_text": "12 The diagram shows a thermometer, with a circular dial, that records temperatures in °C. (a) Write down the temperature indicated by the pointer. (b) When the temperature increases from -20 °C to 40 °C, the pointer turns through an angle of 300°. Calculate the angle through which the pointer turns when there is a 7 °C rise in temperature. (c) On one particular day, the temperature at 1 a.m. was 4°C. By 6 a.m. it had fallen by 9 °C. Calculate the temperature at 6 a.m.",
+    "image": "A circular thermometer dial marked with temperatures from -20°C to 40°C in 10-degree intervals, with smaller subdivisions. A pointer indicates a temperature between 0°C and 10°C, appearing to be 5°C. Angles are implicitly involved in interpreting the dial and calculating pointer movement.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Use proportional reasoning",
+      "Apply other rates",
+      "Use operations with integers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the temperature indicated by the pointer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the temperature increases from -20 °C to 40 °C, the pointer turns through an angle of 300°. Calculate the angle through which the pointer turns when there is a 7 °C rise in temperature.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On one particular day, the temperature at 1 a.m. was 4°C. By 6 a.m. it had fallen by 9 °C. Calculate the temperature at 6 a.m.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q13",
+    "Question_text": "13 A map has a scale of 2 cm to 5 km. (a) Express this scale in the form 1 : n. (b) The actual distance between two places is 35 km. Calculate the distance on the map between these two places. (c) On the map, the area of a lake is 8 cm². Calculate the actual area of the lake.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings",
+      "Use proportional reasoning",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express this scale in the form 1 : n.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The actual distance between two places is 35 km. Calculate the distance on the map between these two places.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the map, the area of a lake is 8 cm². Calculate the actual area of the lake.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q14",
+    "Question_text": "14 The table shows the results when a 6-sided die was thrown 50 times. Score 1 2 3 4 5 6 Frequency 7 7 6 9 11 10 (a) Write down the modal score. (b) Calculate the mean score.",
+    "image": "A table titled 'Score' and 'Frequency' displaying the results of throwing a 6-sided die 50 times. Scores 1 through 6 are listed with their corresponding frequencies (7, 7, 6, 9, 11, 10).",
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes",
+      "Classify and tabulate statistical data",
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the modal score.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the mean score.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q15",
+    "Question_text": "15 E = { x : x is an integer and x > 5 } P = { x : x is a prime number } F = { x : x is a multiple of 4 } S = { x : x is a multiple of 6 } The Venn diagram shows the Universal set and the set F. (a) Draw and label the two sets P and S to complete the Venn diagram. (b) Write down a possible element y such that y is an even number and y ∈ (F U S)'.",
+    "image": "A Venn diagram showing a universal set labeled 'E' and a circular subset labeled 'F'. Space is provided within 'E' to draw and label additional sets.",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams",
+      "Identify integers",
+      "Identify prime numbers",
+      "Identify common multiples"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw and label the two sets P and S to complete the Venn diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down a possible element y such that y is an even number and y ∈ (F U S)'.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q16",
+    "Question_text": "16 The diagram shows a solid prism of length 20 cm. The cross-section, ABCD, is a trapezium. AB = 2 cm, BC = 5 cm, CD = 6 cm, DA = 3 cm and angle ADC = 90°. (a) Calculate the area of trapezium ABCD. (b) Calculate the total surface area of the prism.",
+    "image": "A 3D diagram of a solid prism with a length of 20 cm. Its cross-section is a trapezium labeled ABCD, with side lengths AB=2cm, BC=5cm, CD=6cm, DA=3cm, and angle ADC=90°. The prism extends along its length of 20cm.",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the area of trapezium ABCD.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the total surface area of the prism.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q17",
+    "Question_text": "17 In the diagram, B is the point (8, 2). The equation of the line AB is y = 2 and the equation of the line AC is 2x – y = 3. BC produced passes through the origin. (a) AC produced intersects the y-axis at D. Find the coordinates of D. (b) The region inside triangle ABC is defined by three inequalities. One of these is y < 2. Find the other two inequalities.",
+    "image": "A Cartesian coordinate system showing a triangle ABC. Point B is at (8,2). Line AB is a horizontal line at y=2. Line AC passes through points such that its equation is 2x-y=3. Line BC passes through the origin (0,0).",
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.5 Equations of linear graphs",
+    "Sub_topic": [
+      "Use and interpret Cartesian coordinates in two dimensions",
+      "Interpret and obtain the equation of a straight-line graph",
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "AC produced intersects the y-axis at D. Find the coordinates of D.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The region inside triangle ABC is defined by three inequalities. One of these is y < 2. Find the other two inequalities.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q18",
+    "Question_text": "18 (a) Simplify (3a⁴)². (b) Evaluate (1/4)⁻². (c) Given that x³ = 27⁰, find x. (d) Evaluate (12²/3²)⁻¹.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use indices (positive, zero, negative and fractional)",
+      "Understand and use the rules of indices",
+      "Calculate squares",
+      "Calculate cube roots"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Simplify (3a⁴)².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate (1/4)⁻².",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Given that x³ = 27⁰, find x.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Evaluate (12²/3²)⁻¹.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q19",
+    "Question_text": "19 A regular polygon has interior angles of 160°. (a) Calculate the number of sides of the polygon. (b) The diagram shows three sides, AB, BC and CD, of this polygon. (i) Calculate BAC. (ii) Calculate ACD.",
+    "image": "A diagram showing three consecutive sides, AB, BC, and CD, of a regular polygon. Angle ABC is marked as 160°. A dashed line connects A and C, forming triangle ABC and angles BAC and ACD.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons",
+      "Calculate unknown angles using ... triangle sum (180°)",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the number of sides of the polygon.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate BAC.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate ACD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q20",
+    "Question_text": "20 A series of shapes, made of matchsticks, is shown below. (a) Draw Shape 4. (b) The table shows the numbers of matchsticks used to make Shapes 1 and 2. Complete the table for Shapes 3 and 4. (c) Find an expression, in terms of n, for the number of matchsticks used to make Shape n. (d) Explain why there is not a shape that is made of 100 matchsticks.",
+    "image": "A sequence of three shapes (Shape 1, Shape 2, Shape 3) made from matchsticks, displayed on a grid. Shape 1 is a single square with another square on top. Shape 2 consists of two adjacent squares with a square on top of each. Shape 3 consists of three adjacent squares with a square on top of each.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences",
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw Shape 4.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The table shows the numbers of matchsticks used to make Shapes 1 and 2. Complete the table for Shapes 3 and 4.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find an expression, in terms of n, for the number of matchsticks used to make Shape n.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Explain why there is not a shape that is made of 100 matchsticks.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q21",
+    "Question_text": "21 The time taken to fill a tank with water varies inversely as the area of cross-section of the The time taken is 40 minutes when the area is 3 cm². (a) Find the number of minutes taken to fill the tank when the area is 5 cm². (b) It is given that the area is A square centimetres. Find the expression, in terms of A, for the number of minutes taken to fill the tank. (c) Water flowed into the empty tank through a pipe of area 4 cm². It flowed for 9 minutes. Find, in its simplest form, the fraction of the tank that now contained water.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities",
+      "Construct expressions, equations and formulas",
+      "Use proportional reasoning",
+      "Apply other rates",
+      "Write fractions simply"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the number of minutes taken to fill the tank when the area is 5 cm².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "It is given that the area is A square centimetres. Find the expression, in terms of A, for the number of minutes taken to fill the tank.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Water flowed into the empty tank through a pipe of area 4 cm². It flowed for 9 minutes. Find, in its simplest form, the fraction of the tank that now contained water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q22",
+    "Question_text": "22 A = ([5 2] [-1 1]) (a) Find the determinant of A. (b) Write down A⁻¹. (c) Find the matrix X, where AX = ([11] [-5]).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas",
+      "Change the subject of formulas",
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the determinant of A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down A⁻¹.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the matrix X, where AX = ([11] [-5]).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q23",
+    "Question_text": "23 Ali and Ben each made a journey between two towns, P and Q, that are 60 km apart. These two journeys are shown on the travel graph. (a) Calculate Ali's speed. (b) Find the number of minutes after 3 p.m. that Ali and Ben passed each other. (c) Find how far Ben had travelled when he met Ali. (d) Chris left P at 3 p.m. and travelled to Q at a speed of 30km/h. On the diagram, draw the graph that represents Chris's journey.",
+    "image": "A distance-time graph illustrating journeys by Ali and Ben between towns P and Q, 60 km apart. The x-axis represents 'Time of day' from 2 p.m. to 6 p.m., and the y-axis represents 'Distance from P (kilometres)' from 0 to 60. Ali's journey starts at P (0 km) at 2 p.m. and reaches Q (60 km) at 5 p.m. Ben's journey starts at Q (60 km) at 2 p.m. and reaches P (0 km) at 6 p.m.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Solve average speed problems",
+      "Draw graphs from given data"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate Ali's speed.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the number of minutes after 3 p.m. that Ali and Ben passed each other.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find how far Ben had travelled when he met Ali.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Chris left P at 3 p.m. and travelled to Q at a speed of 30km/h. On the diagram, draw the graph that represents Chris's journey.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q24",
+    "Question_text": "24 In the diagram, ABCD is a parallelogram. P is the midpoint of BC. DQ : QP = 1 : 2. vector AB = p and vector AD = q. (a) Express vector DP in terms of p and q. (b) Express vector DQ in terms of p and q. (c) Express vector AQ in terms of p and q, giving your answer in its simplest form. (d) R is the point on BC produced such that vector BR = k vector BP. (i) Express vector AR in terms of p and q and k. (ii) Given that A, Q and R lie on a straight line, find the value of k.",
+    "image": "A parallelogram ABCD. Vector AB is labeled 'p' and vector AD is labeled 'q'. Point P is the midpoint of side BC. Point Q lies on the line segment DP, such that the ratio DQ:QP is 1:2. Point R is shown on the line BC extended.",
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Represent vectors by directed line segments",
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express vector DP in terms of p and q.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Express vector DQ in terms of p and q.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Express vector AQ in terms of p and q, giving your answer in its simplest form.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Express vector AR in terms of p and q and k.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Given that A, Q and R lie on a straight line, find the value of k.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q25",
+    "Question_text": "25 The diagram below shows quadrilateral ABCD. (a) Measure angle ABC. (b) On the diagram, construct the locus of points, inside the quadrilateral, that are I 4 cm from AD, II equidistant from A and D. (c) On the diagram, shade the region inside the quadrilateral, containing the points that are more than 4 cm from AD and nearer to D than to A. (d) The point P is 4 cm from AD and as near as possible to C. Mark, and label, the position of P on the diagram.",
+    "image": "A quadrilateral ABCD is shown. The interior angle ABC is to be measured. The diagram provides space for geometric constructions, including lines for loci and a shaded region. Points A and D are marked.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles",
+      "Use and interpret geometrical terms: ... perpendicular bisector",
+      "Represent and interpret linear inequalities in two variables graphically"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure angle ABC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the diagram, construct the locus of points, inside the quadrilateral, that are I 4 cm from AD, II equidistant from A and D.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the diagram, shade the region inside the quadrilateral, containing the points that are more than 4 cm from AD and nearer to D than to A.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The point P is 4 cm from AD and as near as possible to C. Mark, and label, the position of P on the diagram.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2011/Q26",
+    "Question_text": "26 In the diagram, AB touches the circle, centre O, at T. OB intersects the circle at C. (a) State, with a reason, the value of BTO. (b) Given that TB = 40 cm, CB = 10cm, and the radius of the circle is x centimetres, form an equation in x, and hence find the radius of the circle.",
+    "image": "A circle with center O. A line segment AB is tangent to the circle at point T. A line segment OB passes through the circle at point C. Angle TBO is marked as 40 degrees. The length of segment CB is marked as 10. The radius of the circle is denoted by x.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Know and use Pythagoras’ theorem",
+      "Construct expressions, equations and formulas",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State, with a reason, the value of BTO.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Given that TB = 40 cm, CB = 10cm, and the radius of the circle is x centimetres, form an equation in x, and hence find the radius of the circle.",
+        "image": null
+      }
+    ]
+  }
+]

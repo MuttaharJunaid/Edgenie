@@ -1,0 +1,448 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2014/Q1",
+    "Question_text": "Fig. 1.1 shows a lorry accelerating in a straight line along a horizontal road. The driving force on the lorry in the forward direction is D and the total backward force on the lorry is B.",
+    "image": "Fig. 1.1 shows a side view of a large, grey articulated lorry. The lorry is depicted on a horizontal road, moving towards the right. It has a cab at the front and a long trailer behind it. The wheels are visible. The image illustrates a lorry accelerating.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Speed & Velocity",
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Mass & Weight",
+      "Circular Motion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State and explain whether D or B is the larger force.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest one possible cause of the backward force B.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The weight of the lorry is 300000N. The gravitational field strength g is 10N/kg. Calculate the mass of the lorry.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The resultant force on the lorry is 15000 N. Calculate the acceleration of the lorry.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Later, the lorry turns a corner at constant speed. Explain why the lorry accelerates even though the speed is constant.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q2",
+    "Question_text": "Fig. 2.1 shows part of a hydraulic jack used to lift the front of a car. The operator pulls the handle and causes a force of 50N to act on the small piston. The force exerted by the oil on the large piston increases by F. The large piston moves and rotates the arm about the pivot. This raises the front of the car. The cross-sectional area of the small piston is 1.5cm². The cross-sectional area of the large piston is 5.0cm².",
+    "image": "Fig. 2.1 shows a schematic diagram of a hydraulic jack. It consists of a handle connected to an arm with a pivot. The arm applies force to a small piston. The small piston is submerged in oil within a cylinder. This cylinder is connected by a narrow tube to a larger cylinder containing a large piston, also submerged in oil. The large piston supports the 'front of car' via another arm and pivot. An arrow indicates 'force exerted by operator' on the handle. The diagram labels 'front of car', 'oil', 'large piston', 'small piston', 'handle', 'pivot', and 'arm'. The system is shown lifting the front of a car. The diagram indicates 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Efficiency"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the pressure in the oil caused by the force on the small piston.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the value of F.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the large piston moves through a shorter distance than the small piston.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The efficiency of the jack is 75%. Explain what is meant by efficiency.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q3",
+    "Question_text": "Most substances expand when they are heated.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State one example where expansion is useful.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one example where expansion causes a problem.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain, using ideas about molecules, why solids expand when heated.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When equal volumes are heated through the same temperature rise, the expansions of solids, liquids and gases are different. Complete each of the two sentences using one of these expressions: much larger, slightly larger, much smaller, slightly smaller",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q4",
+    "Question_text": "Fig. 4.1 shows part of a long rope used by a student to show a transverse wave.",
+    "image": "Fig. 4.1 shows a hand holding one end of a rope, which is exhibiting a sinusoidal wave pattern. The hand is on the left, holding the rope. The rope forms one complete wavelength, starting from the hand, going up, down, and back to the equilibrium position, then starting another cycle. The wave crest and trough are clearly visible, and the overall shape represents a transverse wave.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Transverse & Longitudinal Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 4.1, mark the direction of movement of the student's hand.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 4.1, mark and label the wavelength λ of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "On Fig. 4.1, mark and label the amplitude A of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the frequency of the wave is found using a stopwatch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using the same rope, the student produces a wave of a longer wavelength than that shown in Fig. 4.1. State how the student does this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q5",
+    "Question_text": "Visible light, radio waves, X-rays, gamma rays and microwaves are some of the components of the electromagnetic spectrum. White light is a mixture of different colours. Fig. 5.1 shows a ray of white light entering a glass prism. The white light separates into a number of colours. Only the blue light and the red light are shown.",
+    "image": "Fig. 5.1 shows a diagram of light dispersion through a glass prism. A single ray of 'white' light enters a triangular 'glass prism' from the left. Inside the prism, the white light splits into two distinct rays, labeled 'red' and 'blue', which then exit the prism, diverging from each other. The red light is refracted less than the blue light, so it is at a higher position relative to the blue light ray after exiting the prism.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Refraction of Light",
+      "Dispersion of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two other components of the electromagnetic spectrum.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the blue light and the red light separate as shown. Use the term refractive index in your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q6",
+    "Question_text": "A beam of parallel light strikes a converging lens of focal length 2.8 cm. The width of the beam before it reaches the lens is 1.0cm. The width changes on the other side of the lens. An object is placed 3.0cm from a converging lens of focal length of 2.8cm. Fig. 6.1 is an incomplete, full-scale ray diagram for this arrangement.",
+    "image": "Fig. 6.1 shows an incomplete ray diagram for a converging lens. The lens is drawn vertically in the center of a grid, with a horizontal principal axis. An 'object' is represented by an upright arrow placed 3.0 cm to the left of the lens. Two parallel rays from the top of the object are drawn towards the lens. The grid indicates a scale of '1 cm' per square.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State a distance from the lens where the width of the beam is less than 1.0cm.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State a distance from the lens where the width of the beam is more than 1.0cm.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 6.1, draw the paths of the two rays after they pass through the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how your ray diagram shows that the image is more than 11 cm from the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Underline three of the following words which describe the image. diminished inverted magnified real upright virtual",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q7",
+    "Question_text": "Fig. 7.1 shows a compass needle near a bar magnet. Magnetic poles are shown on the compass needle and on the magnet. A finger stops the compass needle from turning.",
+    "image": "Fig. 7.1 shows a bar magnet placed horizontally with its South (S) pole on the left and North (N) pole on the right. Above and to the right of the magnet, a compass needle is shown, pivoted at its center. The compass needle has a South (S) pole pointing downwards and left, and a North (N) pole pointing upwards and right. A human finger is depicted holding the top (N-pole) of the compass needle, preventing it from turning. The image illustrates the interaction between a bar magnet and a compass needle, with the magnetic fields influencing the compass. The diagram indicates 'not to scale'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The magnet causes a force on the S-pole of the compass needle. On Fig. 7.1, draw an arrow from the S-pole of the compass needle to show the direction of this force.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the compass needle turns when the finger is removed.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A small compass is used to plot the magnetic field lines of the magnet. Describe how the compass is used to plot magnetic field lines on a piece of paper.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q8",
+    "Question_text": "An atom consists of electrons surrounding a nucleus made up of protons and neutrons. The nuclide notation for carbon-14 is ¹⁴₆C. Carbon-14 decays by beta emission to a stable isotope of nitrogen (N).",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State which of these particles have an equal and opposite charge.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State which of these particles have almost equal mass.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Write numbers in the empty boxes below to show the nuclide notation for this isotope of nitrogen.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The half-life of carbon-14 is 5700 years. A sample of wood from a living tree contains 2.4 × 10¹² atoms of carbon-14. A similar sample of the same size is taken from an old piece of wood. It contains 6.0 x 10¹¹ atoms of carbon-14. Calculate the age of the old piece of wood.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q9",
+    "Question_text": "A children's ride consists of a steel cable that runs between two posts of different heights, as shown in Fig. 9.1. A girl starts and finishes the ride at rest. Her horizontal motion can be taken as an initial uniform acceleration for 3.0s, followed by a constant speed of 2.4m/s for a further 5.0s and a final uniform deceleration that lasts for 1.0s.",
+    "image": "Fig. 9.1 shows a children's ride with a steel cable stretched between two posts of different heights. The left post is taller than the right post. A 'wheel' is suspended from the cable, and a simplified drawing of a person (a 'girl') is hanging from the wheel, indicating she is on the ride. The cable sags slightly under the weight of the person. Labels include 'steel cable', 'wheel', and 'post'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Mass & Weight",
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 9.2, draw a speed-time graph of the horizontal motion.",
+        "image": "Fig. 9.2 shows an empty speed-time graph. The y-axis is labeled 'speed m/s' and ranges from 0 upwards. The x-axis is labeled 'time/s' and ranges from 0 rightwards. A grid is provided for plotting."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain what is meant by uniform acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The final deceleration is larger in size than the initial acceleration. Explain how the data shows this.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the horizontal distance travelled by the girl in the first 8.0s.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "The girl has a mass of 30kg and falls a vertical distance of 1.6m during the ride. The gravitational field strength g is 10N/kg. Calculate the decrease in gravitational potential energy of the girl.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "The gain in kinetic energy of the girl is less than the decrease in her potential energy. Suggest one reason for this.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "A group of pupils make measurements to show that the girl's speed is constant during the middle section of the ride. Suggest what measurements are made and how they show that the speed is constant.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q10",
+    "Question_text": "Two metal saucepans contain the same mass of hot water at the same initial temperature. Pan A is white and pan B is black, but otherwise the two saucepans are identical. Both saucepans are uncovered and cool under the same conditions. The cooling curves for the two saucepans are shown in Fig. 10.1.",
+    "image": "Fig. 10.1 shows a temperature-time graph with two cooling curves. The y-axis is 'temperature/°C' ranging from 20 to 100°C. The x-axis is 'time/minutes' ranging from 0 to 8 minutes. Both curves start at 100°C at time 0. 'pan B (black)' shows a steeper decrease in temperature, reaching approximately 40°C at 8 minutes. 'pan A (white)' shows a less steep decrease, reaching approximately 60°C at 8 minutes. Both curves are smooth, downward-sloping, and concave up, indicating that the rate of cooling decreases over time.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe how the water in a pan loses heat by conduction.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the water in a pan loses heat by convection.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why pan B cools faster than pan A.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe and explain how Fig. 10.1 is different when the pans are covered and the experiment is repeated.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The specific heat capacity of water is 4200J/(kg°C). Explain what is meant by specific heat capacity.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The specific heat capacity of water is very high. Suggest one disadvantage of this when water is used for cooking.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)1",
+        "part_text": "The water in pan A cools for 8 minutes, as shown in Fig. 10.1. During this time, the water loses an average of 9000 J of thermal energy per minute. Calculate the mass of water in pan A.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)2",
+        "part_text": "The mass of water in pan B is the same as that in pan A. Calculate the thermal energy lost from the water in pan B during the 8 minutes.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2014/Q11",
+    "Question_text": "A student sets up the circuit shown in Fig. 11.1. R is a fixed resistor in the circuit. The filament lamp is marked 12V, 0.25 A. The circuit is used to produce a current/voltage graph for the filament lamp. The ammeter and voltmeter needed are not shown. To obtain different readings, the student changes the position of the movable contact. Fig. 11.3 shows the position of the movable contact when the voltage across the lamp is 12V and the current in the lamp is 0.25 A.",
+    "image": "Fig. 11.1 shows an electrical circuit. An 18V power source (battery symbol) is connected in series with a fixed resistor 'R' and a variable resistor (rheostat). The rheostat is drawn as a resistor with a movable contact that taps off a portion of its resistance. The filament lamp is connected across the variable portion of the rheostat, meaning the lamp and a 50Ω section of the rheostat are in parallel, and this combination is in series with resistor R and the power supply. The rheostat's full resistance is labeled '50 Ω'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 11.1, draw the symbols for an ammeter and a voltmeter in the correct positions.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why it is sensible to include the resistor R in this circuit.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 11.2, sketch a current/voltage graph for the lamp.",
+        "image": "Fig. 11.2 shows an empty current/voltage graph. The y-axis is labeled 'current/A' with a maximum of 0.25 A. The x-axis is labeled 'voltage/V' with a maximum of 12 V. A grid is provided."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State and explain how a current/voltage graph for a fixed resistor is different from the graph for a filament lamp.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Determine the current in the 50Ω resistor.",
+        "image": "Fig. 11.3 shows the same circuit as Fig. 11.1. The 18V power source, fixed resistor R, and filament lamp are connected. The variable resistor (rheostat) is now shown with its movable contact positioned to utilize a 50Ω section in parallel with the filament lamp. The voltage across the lamp is explicitly shown as 12V, and the current through the lamp is 0.25A."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Determine the current in R.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Determine the potential difference (p.d.) across R.",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "Determine the resistance of R.",
+        "image": null
+      }
+    ]
+  }
+]

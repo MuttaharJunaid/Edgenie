@@ -1,0 +1,60 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Put Q into the burette. Pipette a 25.0 cm³ (or 20.0cm³) portion of P into a flask. Add Q from the burette until the red-brown colour fades to pale yellow, then add a few drops of the starch indicator. This will give a dark blue solution. Continue adding Q slowly from the burette until one drop of Q causes the blue colour to disappear, leaving a colourless solution. Record your results in the table, repeating the titration as many times as you consider necessary to achieve consistent results.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Q is 0.100 mol/dm³ sodium thiosulfate. Using your results from (a), calculate the concentration, in mol/dm³, of iodine in P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations",
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Using your answer from (b), deduce the number of moles of calcium hypochlorite required to produce the iodine in 1 dm³ of P.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Given that the number of moles of calcium hypochlorite in your answer from (c) were present in 10.0g of the bleaching powder, calculate the percentage by mass of calcium hypochlorite in the bleaching powder.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "You are provided with solutions R and S. Carry out the following tests and record your observations in the table.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  }
+]

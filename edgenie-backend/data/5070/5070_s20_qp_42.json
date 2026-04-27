@@ -1,0 +1,85 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Name the three pieces of apparatus. A, B, C",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "A solution contains one cation and two different anions. Complete the table. Name any gases formed.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Calcium ammonium nitrate, CaNH4(NO3)3, is a water-soluble compound. Describe a series of tests, and the observations, to identify the calcium, ammonium and nitrate ions in a sample of CaNH4(NO3)3. Your description will need to explain how to prevent ammonium ions interfering with the test for nitrate ions.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Name the process used to separate ethanol from a mixture of ethanol and water. State why this process is suitable.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation",
+      "Suggesting techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Describe a suitable method in each case to separate the named substance from the mixture. Explain your choice in each case.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation",
+      "Suggesting techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "A student suggests a method to prepare pure, dry crystals of hydrated copper(II) sulfate but some processes are missing.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts",
+      "Hydrated and anhydrous substances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A student does an experiment to determine the enthalpy change for the displacement reaction between zinc and aqueous copper(II) sulfate, CuSO4(aq).",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change"
+    ],
+    "Parts": []
+  }
+]

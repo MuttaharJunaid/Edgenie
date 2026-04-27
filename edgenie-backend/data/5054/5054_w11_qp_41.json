@@ -1,0 +1,201 @@
+[
+  {
+    "QuestionNumber": "O-N/41/2011/Q1",
+    "Question_text": "A long pendulum is attached to the ceiling, as shown in Fig. 1.1. A student performs an experiment to investigate the relationship between the time for one complete swing of the pendulum bob and its height above the floor.",
+    "image": "Fig. 1.1 shows a diagram of a pendulum setup. A horizontal line at the top indicates a ceiling, from which a vertical string hangs. A spherical bob is attached to the end of the string, positioned above a horizontal line representing the floor. The diagram requires markings for the vertical distance 'h' and the observer's eye position.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The vertical distance h of the bottom of the pendulum bob above the floor is measured. Mark and label on Fig. 1.1, the vertical distance h,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The vertical distance h of the bottom of the pendulum bob above the floor is measured. Mark and label on Fig. 1.1, the position of the eye of the observer when measuring h.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The pendulum is made to swing freely and a stopwatch is used to determine the time t5 for 5 complete swings. The student takes a series of readings of t5 for different values of h. Values of h and t5 are recorded in Fig. 1.2. The table in Fig. 1.2 provides columns for h/cm, t5/s, T/s, and T²/s². The given data for h/cm are 5.0, 15.0, 25.0, 35.0, 45.0, 55.0 and corresponding t5/s values are 15.31, 14.96, 14.59, 14.23, 13.87, 13.49.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Another student states that measuring the time for 50 complete swings is better. Suggest one disadvantage of timing 50 complete swings.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 1.2 also contains columns for the time T for one complete swing and for T². Complete Fig. 1.2. Give the values of T² to three significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "On Fig. 1.3, plot a graph of T² / s² on the y-axis against h / cm on the x-axis. Start your axes from T² = 7.0 s² and h = 0. Draw the line of best fit. Fig. 1.3 shows a blank graph grid with axes starting from T² = 7.0 s² on the y-axis and h = 0 on the x-axis.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Describe the shape of your graph.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/41/2011/Q2",
+    "Question_text": "A straw balance is used to measure the mass of a length of hair. Fig. 2.1 shows a straw balance.",
+    "image": "Fig. 2.1 displays a straw balance. It consists of a paper straw, flattened at one end, balanced on a needle which rests on a support. A small screw is inserted into the other end of the straw.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Measuring Mass & Weight",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The height of the flattened end is adjusted by moving the screw into or out of the straw. State what happens to the flattened end when the screw is moved into the straw.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The flattened end of the straw is placed in front of a vertical scale marked in centimetres. With nothing on the flattened end, it points to 0 on the scale, as shown in Fig. 2.2. In order to use the straw balance to measure mass, the scale can be marked in grams. Explain how this is done.",
+        "image": "Fig. 2.2 shows a straw balance with its flattened end pointing to '0' on a vertical scale marked 0 to 5 cm, resting on a bench."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student places a 2mm square of graph paper on the flattened end of the straw. The end of the straw goes down, as shown in Fig. 2.3. State the reading on the scale.",
+        "image": "Fig. 2.3 shows the straw balance with a piece of graph paper on its flattened end, causing the straw to dip. The flattened end now points to approximately 1.3 cm on the vertical cm scale."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The graph paper is removed and a length of hair is placed on the end of the straw, as shown in Fig. 2.4. State the new reading on the scale.",
+        "image": "Fig. 2.4 shows the straw balance with a length of hair on its flattened end. The straw has dipped, and the flattened end points to approximately 0.3 cm on the vertical cm scale."
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The student is told by a teacher that the piece of graph paper has a mass of 0.30 mg. Calculate the mass of the hair.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest one advantage of a straw balance when compared with an electronic digital balance.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/41/2011/Q3",
+    "Question_text": "A cathode-ray oscilloscope (c.r.o.) is used to check the voltage of a cell. Fig. 3.1 shows the cell in a simple circuit and also the front of the c.r.o. The c.r.o. is switched on and the time-base is switched off. A bright dot is seen on the screen, as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows two components: a simple circuit with a cell and a resistor labeled 'R', and the front panel of a Cathode-Ray Oscilloscope (c.r.o.). The c.r.o. screen displays a grid and a single bright dot off-center. Below the screen are controls labeled 'Y-shift', 'X-shift', 'Y-gain V/cm' with settings 0.5, 1, 2, 5, 10, 'Y input', and 'time-base' with an 'off' position.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State which controls are used to move the dot to the centre of the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 3.1, draw connections from the circuit to the c.r.o. so that the voltage of the cell can be measured.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The dot is now in the centre of the screen. Fig. 3.2 shows the dot on the screen of the c.r.o. before and after the cell is connected.",
+        "image": "Fig. 3.2 shows two c.r.o. screens with grid lines. The 'before' screen shows a bright dot at the center. The 'after' screen shows the bright dot moved vertically upwards by two grid units (2 cm) from the center. Each grid square is 1 cm by 1 cm."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use Fig. 3.1 to state what is represented by 1 cm on the vertical axis on the c.r.o.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Determine the voltage of the cell.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe and explain what is observed when",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "the connections from the circuit to the c.r.o. are reversed,",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "the time-base is switched on.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O-N/41/2011/Q4",
+    "Question_text": "A student investigates the refraction of light through a parallel-sided glass block. Fig. 4.1 shows the student's diagram. A line represents a ray of light arriving at the upper surface of the block. The student forgets to mark the lower surface of the block. The student draws two crosses M₁ and M₂ on the path of the emergent ray.",
+    "image": "Fig. 4.1 shows a ray diagram illustrating the refraction of light. An incident ray is labeled 'ray' and approaches a horizontal line labeled 'upper surface of block' in 'air'. Below this line, there is a region labeled 'glass'. Two crosses, M₁ and M₂, are marked in the 'air' region, indicating the path of the emergent ray after passing through the block.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Ray Diagrams",
+      "Snell's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 4.1, draw the normal through the point where the ray enters the block.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Mark the angle of incidence and label it i.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Measure the angle of incidence i.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The distance between the upper surface and the lower surface of the block is 5.0 cm. On Fig. 4.1,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "draw the lower surface of the block,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "complete the path of the emergent ray from the lower surface of the block through M₁ and M₂.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "complete the path of the ray within the block.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Measure the angle of refraction r inside the block.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,619 @@
+[
+  {
+    "QuestionNumber": "1(a)(i)",
+    "Question_text": "Calculate the deposit Sayeed pays as a percentage of the basic price.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(a)(ii)",
+    "Question_text": "Calculate the total amount that Sayeed pays as a percentage of the basic price.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(b)",
+    "Question_text": "Calculate Rasheed's monthly payment.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Calculate with money"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(c)",
+    "Question_text": "Calculate the difference between the basic prices of the 2015 and 2016 models.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate reverse percentages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(a)",
+    "Question_text": "Simplify 3a²/10bc ÷ 9a/5b²c",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Manipulate algebraic fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)",
+    "Question_text": "Simplify h-k/5h-5k",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(c)",
+    "Question_text": "Factorise 9m² - 4n².",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(d)",
+    "Question_text": "Factorise q(p-2) + 3(2-p)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(e)(i)",
+    "Question_text": "Find the two solutions of 5x-1=±9.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(e)(ii)",
+    "Question_text": "Find B and C, given solutions of 5x-1=±9 are also solutions of 5x² + Bx + C = 0",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(a)",
+    "Question_text": "Complete the table of values for y = x/20(x²-10)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(b)",
+    "Question_text": "Draw the graph of y = x/20(x²-10) for 0 < x ≤ 5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(c)",
+    "Question_text": "By drawing a tangent, estimate the gradient of the curve at the point where x = 2.5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(d)",
+    "Question_text": "Use your graph to solve the equation x/20(x²-10) = 0 for 0≤x≤5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(e)(i)",
+    "Question_text": "Find the equation of line L, given the graph of y = x/20(x² - 10), together with the graph of a straight line L, can be used to solve the equation x³ + 10x-80 = 0 for 0≤x≤5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(e)(ii)",
+    "Question_text": "Draw the graph of line L on the grid.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(e)(iii)",
+    "Question_text": "Hence solve the equation x³ + 10x - 80 = 0 for 0≤x≤5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(a)(i)",
+    "Question_text": "Find AD.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(a)(ii)",
+    "Question_text": "Find CD.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(b)",
+    "Question_text": "Find the two possible values of PQR.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(a)",
+    "Question_text": "Complete the following, to show that triangle ACD is similar to triangle ABT.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(b)",
+    "Question_text": "Given that the radii of the circles are 7 cm and 3 cm, calculate CD.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(a)",
+    "Question_text": "Find A + 2B, where A and B are matrices.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(b)",
+    "Question_text": "Find AB, where A and B are matrices.",
+    "image": null,
+    "Unit": "N/A",
+    "Topic": "N/A",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(c)",
+    "Question_text": "Find x and y, given A(xy)=(82y), where A is a matrix.",
+    "image": null,
+    "Unit": "N/A",
+    "Topic": "N/A",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(d)",
+    "Question_text": "Find B⁻¹.",
+    "image": null,
+    "Unit": "N/A",
+    "Topic": "N/A",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(a)(i)",
+    "Question_text": "Calculate x when a = -0.73 and b = 1.84, given x = √a² + b².",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.14 Using a calculator",
+    "Sub_topic": [
+      "Use calculator efficiently"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(a)(ii)",
+    "Question_text": "Express b in terms of x and a, given x = √a² + b².",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(b)(i)",
+    "Question_text": "Write down an expression for PQ in terms of x.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(b)(ii)",
+    "Question_text": "Form an equation in x and show that it simplifies to 3x² + 15x - 85 = 0",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(b)(iii)",
+    "Question_text": "Solve the equation 3x² + 15x – 85 = 0 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(b)(iv)",
+    "Question_text": "Find the perimeter of the rectangle PQRS.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(a)(i)",
+    "Question_text": "Show that R = 23.9, correct to one decimal place.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(a)(ii)",
+    "Question_text": "Calculate the area of the minor sector POQ.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(a)(iii)",
+    "Question_text": "Calculate r, the radius of the cone formed.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(b)(i)",
+    "Question_text": "Calculate the curved surface area of cone A.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8(b)(ii)",
+    "Question_text": "Find the height of cone B.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9(a)",
+    "Question_text": "Calculate the bearing of A from C.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9(b)",
+    "Question_text": "Calculate AD.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9(c)(i)",
+    "Question_text": "Calculate the angle of elevation of Y from B.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Carry out calculations involving angles of elevation and depression"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9(c)(ii)",
+    "Question_text": "Calculate the average speed of the bird.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(a)(i)",
+    "Question_text": "Express AB in terms of a and b.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(a)(ii)",
+    "Question_text": "Express AC in terms of a and b.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(a)(iii)",
+    "Question_text": "Showing your working clearly, find OC: CD .",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(b)(i)",
+    "Question_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(b)(ii)(a)",
+    "Question_text": "On the grid, draw and label triangle C.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(b)(ii)(b)",
+    "Question_text": "State the shear factor of H.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10(b)(ii)(c)",
+    "Question_text": "Find the matrix that represents H.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(a)(i)(a)",
+    "Question_text": "the median,",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(a)(i)(b)",
+    "Question_text": "the interquartile range,",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(a)(i)(c)",
+    "Question_text": "the number of candidates who scored more than 45.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(a)(ii)",
+    "Question_text": "Using both graphs, estimate this candidate's mark on Paper 2.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(a)(iii)",
+    "Question_text": "State, with a reason, which you think was the more difficult paper.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Compare sets of data using tables, graphs and statistical measures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(b)(i)",
+    "Question_text": "Find x.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(b)(ii)",
+    "Question_text": "Find the probability that the total value of the two coins picked out is 40 cents.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(b)(iii)",
+    "Question_text": "Find the probability that the total value of the two coins picked out is $1.20 .",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(b)(iv)",
+    "Question_text": "Find the probability that the total value of the three coins is $1.40 .",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  }
+]

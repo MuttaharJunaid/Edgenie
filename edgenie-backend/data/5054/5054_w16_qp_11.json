@@ -1,0 +1,465 @@
+[
+  {
+    "QuestionNumber": "October-November/11/2016/Q1",
+    "Question_text": "A length of copper wire is labelled 'length 30 m' and 'diameter 0.50mm'. Which instruments are most suitable to measure accurately the length and the diameter of the wire?",
+    "image": "A table showing four options for measuring length and diameter. The first column is 'length' and the second is 'diameter'. Option A lists 'rule' for length and 'calipers' for diameter. Option B lists 'rule' for length and 'micrometer' for diameter. Option C lists 'tape' for length and 'calipers' for diameter. Option D lists 'tape' for length and 'micrometer' for diameter.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q2",
+    "Question_text": "A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall?",
+    "image": "An illustration of a skydiver in freefall with arms and legs spread out, indicating air resistance.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q3",
+    "Question_text": "The diagram shows a car going around a circular track at constant speed. Which arrow shows the direction of the resultant force on the car?",
+    "image": "A top-down view of a car moving around a circular track. Four arrows (A, B, C, D) originate from the car's position. Arrow B points towards the center of the circle, perpendicular to the car's direction of motion. Arrow C points in the direction the car is moving, tangential to the circle. Arrows A and D point in other directions relative to the car.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q4",
+    "Question_text": "A car has stopped at a red light. When the light changes to green, the car starts moving with a constant acceleration. The graph represents this motion. Which quantity is plotted on the x-axis and which quantity is plotted on the y-axis?",
+    "image": "A graph with a horizontal x-axis and a vertical y-axis, both originating from 0. A curved line starts at the origin (0,0) and increases with an increasing gradient, indicating an accelerating motion. The curve is parabolic in shape.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Distance-Time Graphs",
+      "Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q5",
+    "Question_text": "Which statement about mass and weight is correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q6",
+    "Question_text": "Each diagram shows two forces that are equal in magnitude. Which diagram shows two forces that are a Newton's third law pair of forces?",
+    "image": "Four diagrams (A, B, C, D), each illustrating two forces of equal magnitude. Diagram A shows a book on a table with 'normal contact force' (up) and 'weight' (down). Diagram B shows a block being pulled with 'tension' (right) and 'friction' (left). Diagram C shows an electron orbiting a nucleus with 'electron attracted to nucleus' (towards nucleus) and 'nucleus attracted to electron' (towards electron). Diagram D shows a parachutist with 'air resistance' (up) and 'weight' (down).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q7",
+    "Question_text": "Two forces of 3.0N and 4.0N act at right-angles to each other. Which diagram shows the resultant R of these forces?",
+    "image": "Four diagrams (A, B, C, D), each showing two forces, one of 3.0N and one of 4.0N, acting at right angles. A resultant force R is also drawn in each diagram. In diagram A, the 3.0N force is vertical, 4.0N horizontal, and R connects the origin of both to the diagonally opposite corner. In diagram B, the 3.0N force is horizontal, 4.0N vertical, and R connects the origin of both to the diagonally opposite corner. Diagrams C and D show incorrect resultant vector placements for a right angle vector sum.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Calculating with Vectors",
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q8",
+    "Question_text": "A workman rolls a barrel of weight 2000 N up a plank of length 2.0m and onto a lorry. The back of the lorry is 0.80 m above the horizontal surface of the road. What is the work done on the barrel against gravity?",
+    "image": "A diagram showing a barrel on a ramp leading up to a lorry. The ramp has a length of 2.0 m. The vertical height from the ground to the top of the lorry (and the end of the ramp) is 0.80 m. The barrel is at the bottom of the ramp.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q9",
+    "Question_text": "Three objects P, Q and R have different masses and different speeds, as shown in the table. What is the order of increasing kinetic energy (smallest first) of the objects?",
+    "image": "A table with three rows for objects P, Q, R and two columns for 'mass' (kg) and 'speed' (m/s).\nRow P: mass = 1.0 kg, speed = 3.0 m/s\nRow Q: mass = 2.0 kg, speed = 2.0 m/s\nRow R: mass = 5.0 kg, speed = 1.0 m/s",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q10",
+    "Question_text": "A weightlifter lifts some masses through a height of 1.8 m. The gravitational field strength g is 10N/kg. During the lift, the gravitational potential energy of the masses increases by 4500 J. What is the total mass lifted?",
+    "image": "An illustration of a weightlifter lifting a barbell above their head.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q11",
+    "Question_text": "Which expression is used to calculate power?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q12",
+    "Question_text": "The pressure of the atmosphere is 100 000 Pa. What force does the atmosphere exert on the upper surface of a pond of surface area 20 m²?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q13",
+    "Question_text": "Oil of density 8.5 × 10² kg/m³ is stored in a large tank. The gravitational field strength g is 10N/kg. What is the pressure due to the oil 6.0m below its surface?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q14",
+    "Question_text": "Air is trapped in a cylinder by a piston. The piston is pushed further into the cylinder. How do the pressure and the volume of the air in the syringe change?",
+    "image": "A diagram of a cylinder with a piston, trapping a volume of 'air'. The piston is shown at a certain position, and an arrow indicates it being pushed further into the cylinder.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q15",
+    "Question_text": "Which statement explains how a pressure is exerted by a gas on a container?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q16",
+    "Question_text": "When a liquid evaporates, molecules escape from its surface. Which molecules escape, and what happens to the average kinetic energy of the molecules remaining in the liquid?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q17",
+    "Question_text": "The diagram shows changes of state. What are the names of the changes of state P, Q, R and S?",
+    "image": "A flowchart diagram illustrating the three states of matter: gas, liquid, and solid. Arrows indicate transitions between states. An arrow from gas to liquid is labeled P. An arrow from liquid to solid is labeled Q. An arrow from solid to liquid is labeled R. An arrow from liquid to gas is labeled S.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q18",
+    "Question_text": "A boiling liquid absorbs thermal energy (heat) at a rate of 450 W. The specific latent heat of vaporisation is 2.7 × 10⁶ J/kg. How much liquid is vaporised in 9.0 minutes?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q19",
+    "Question_text": "What makes a clinical thermometer suitable for measuring small changes in body temperature?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q20",
+    "Question_text": "Which statement about the transfer of thermal energy is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q21",
+    "Question_text": "A phone rings and lights up. Which types of wave are associated with the phone's operation?",
+    "image": "A table with two columns, 'light' and 'sound', and four rows (A, B, C, D) specifying wave types (longitudinal or transverse) for each.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q22",
+    "Question_text": "The diagram shows the surface of water as a wave passes across a ripple tank. Which lengths represent the amplitude and the wavelength of the wave?",
+    "image": "A diagram of a transverse wave on the surface of water. The crests and troughs are visible. Various lengths are labeled: P represents the horizontal distance between two consecutive crests (one full wavelength). Q represents the vertical distance from the equilibrium position to a crest (amplitude). R represents the full vertical distance from a trough to a crest (twice the amplitude). S represents the horizontal distance from a crest to the next trough (half a wavelength).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q23",
+    "Question_text": "The angle of incidence of ray OP on the plane mirror MN is 40°. The mirror is rotated through 10°, as shown by the dashed line. The direction of the incident ray OP does not change. What is the new angle of incidence?",
+    "image": "A diagram showing a light ray OP incident on a plane mirror MN. A normal line is drawn perpendicular to MN at point P. The angle between the incident ray OP and the normal is 40°. The mirror MN is then shown rotated clockwise by 10° to a new position (dashed line), and its new normal is also shown. The incident ray OP remains unchanged.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q24",
+    "Question_text": "A ray of light is incident on the surface of a glass block. The diagram is not drawn to scale. The refractive index of the glass is 1.5. The angle of refraction is r. The angle between the refracted ray and the path the light takes without the glass block is d. What are r and d?",
+    "image": "A diagram showing a ray of light passing from air into a glass block. The incident ray makes an angle of 36° with the normal in the air. The ray then refracts into the glass. The refracted ray forms an angle 'r' with the normal inside the glass. A dotted line extends the path of the incident ray into the glass, representing the path the light would take without refraction. The angle between this dotted line and the refracted ray is labeled 'd'. A table shows options for values of r and d.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q25",
+    "Question_text": "In the diagram, a convex lens forms an image I of an object O. The diagram is not drawn to scale. What is the focal length of the lens?",
+    "image": "A ray diagram for a convex lens. An object O is placed on the left side of the lens. Two rays are drawn from the top of the object. One ray travels parallel to the principal axis, then refracts through the lens and intersects the principal axis at the image point. The second ray passes through the optical center of the lens and continues undeviated. The image I is formed on the right side of the lens where these rays converge. Distances are marked: 45 cm from the object to the lens, and 16 cm from the lens to the image. A label '20 cm' is shown above the principal axis, near the lens, indicating a distance possibly related to the focal point or another characteristic length.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q26",
+    "Question_text": "A lens is used to produce a magnified image, as shown in the scale diagram. What is the linear magnification produced by the lens?",
+    "image": "A scale diagram showing an object and its magnified image formed by a lens. The object is drawn as an upward arrow to the left of the lens. The image is drawn as a larger, inverted downward arrow to the right of the lens. By visual inspection, the image height appears to be approximately three times the object height. The object distance appears to be approximately one-third of the image distance.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Linear Magnification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q27",
+    "Question_text": "Blue and yellow are colours in the visible spectrum. Which colour has the lower frequency and which colour has the longer wavelength?",
+    "image": "A table with two columns, 'lower frequency' and 'longer wavelength', and four rows (A, B, C, D) specifying combinations of 'blue' or 'yellow' for each property.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q28",
+    "Question_text": "Which two types of electromagnetic radiation are both used to kill cancerous cells and are both used to detect cracks in metals?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves",
+      "Dangers of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q29",
+    "Question_text": "Which property of a sound wave increases as the loudness of the sound increases?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q30",
+    "Question_text": "Delicate instruments are often placed in a box to screen them from stray magnetic fields. What is the material used for the box and why is it chosen?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q31",
+    "Question_text": "A positively charged metal sphere is placed midway between two previously uncharged metal rods, one of which is connected to earth. Which diagram shows the charges on the rods?",
+    "image": "Four diagrams (A, B, C, D) illustrating electrostatic induction. In each diagram, a positively charged metal sphere is placed between two metal rods. One rod is always connected to earth by a grounding symbol. The diagrams show different distributions of induced charges (positive and negative signs) on the rods.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q32",
+    "Question_text": "A current-carrying wire lies between the poles of two magnets, as shown. What is the direction of the force on the wire?",
+    "image": "A diagram showing a horizontal wire placed between the North (N) and South (S) poles of two magnets. The N-pole is above the wire and the S-pole is below it, creating a magnetic field pointing downwards. An arrow indicates that the current in the wire is flowing to the right.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q33",
+    "Question_text": "A coil P of N turns is made from a length L of wire. The coil carries a current I when between two magnetic poles. A similar coil Q of 2N turns is made from a length 2L of identical wire. It also carries a current I when between the two magnetic poles. Which coil has the greater resistance and which coil experiences the greater turning effect?",
+    "image": "A 3D diagram showing a rectangular coil (labeled 'coil') with N turns, placed between an N-pole and an S-pole of magnets. An arrow indicates a current I flowing through the coil.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q34",
+    "Question_text": "A magnet moves up and down above a coil of wire. The bottom of the magnet moves up and down between P and R. Where is the bottom of the magnet when there is no induced electromotive force (e.m.f.) in the coil?",
+    "image": "A diagram illustrating electromagnetic induction. A spring holds a bar magnet (south pole S at the bottom, north pole N at the top). The magnet is positioned above a coil of wire. A double-headed arrow labeled 'movement of magnet' indicates vertical oscillation. Points P, Q, and R are marked along the vertical path, with P being the highest point, Q the middle, and R the lowest point reached by the bottom of the magnet during its oscillation.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q35",
+    "Question_text": "Which material is most suitable for the core of a transformer and which material is most suitable for the coils in the transformer?",
+    "image": "A table with two columns, 'material for core' and 'material for coils', and four rows (A, B, C, D) specifying combinations of 'iron', 'copper', and 'steel' for these components.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q36",
+    "Question_text": "The diagram shows a cathode-ray tube. The dotted line shows the path of a beam of electrons. The beam hits the screen at point X and produces a bright spot. P and Q are horizontal plates on each side of the beam. Which change will move the bright spot to a different position on the screen?",
+    "image": "A diagram of a cathode-ray tube (CRT). It shows a cathode emitting an electron beam, an anode, and two horizontal deflection plates labeled P (top) and Q (bottom). The electron beam travels through these plates and hits a screen at point X, producing a bright spot. The path of the beam is shown as a dotted line.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q37",
+    "Question_text": "The table gives the colour code used for marking resistors. What is the resistance of the resistor in the diagram?",
+    "image": "A table listing resistor colour codes from 'black' (0) to 'violet' (7). Below the table is a diagram of a resistor with three colour bands: yellow, violet, and orange. The first band is yellow, the second is violet, and the third (multiplier) is orange.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q38",
+    "Question_text": "Which types of radiation may be emitted by radioactive nuclei?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q39",
+    "Question_text": "A freshly made sample of radioactive material gives a count rate of 8000 counts per minute. After 20 days, it gives a count rate of 500 counts per minute. What is the half-life of the material?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2016/Q40",
+    "Question_text": "Which number is always equal to the proton number of a neutral atom of a radioactive isotope?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

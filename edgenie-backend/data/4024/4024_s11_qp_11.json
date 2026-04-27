@@ -1,0 +1,633 @@
+[
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q1",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals",
+      "Use operations with integers",
+      "Order operations correctly"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "52.3 × 10 – 3.76 × 100,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "20 – 8 ÷ 2 + 1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use percentages",
+      "Convert between forms",
+      "Write fractions simply",
+      "Identify irrational numbers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express 18% as a fraction in its lowest terms.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down an irrational number between 3 and 4.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q3",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions",
+      "Use proper fractions",
+      "Use mixed numbers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "2/3 + 3/10",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "1 2/3 ÷ 3.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q4",
+    "Question_text": "Write down",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify square numbers",
+      "Identify common factors",
+      "Identify cube numbers",
+      "Identify common multiples"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "a square number that is a factor of 75,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "a cube number that is a multiple of 24.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q5",
+    "Question_text": "An instrument is used to measure the height of an object above sea level. The height, in metres, is shown on the dial.",
+    "image": "A circular dial with markings from -80 to +80 in increments of 16. The pointer indicates a value between -32 and -16. Specifically, it points to a mark that is exactly halfway between -32 and -16, corresponding to -24. Major tick marks are labeled -80, -64, -48, -32, -16, 0, +16, +32, +48, +64, +80. The spacing between major ticks represents 16 units, and each interval is subdivided into smaller marks.",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "What is the reading on the dial?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The object moves from position A, where the dial reads –54, to position B, where the dial reads + 48. What is the difference in height between A and B?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q6",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Understand zero indices",
+      "Understand negative indices",
+      "Understand fractional indices",
+      "Use rules of indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "8^(2/3),",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "(1/6)^(-2)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q7",
+    "Question_text": "",
+    "image": "A Venn diagram showing a universal set E and three overlapping sets A, B, and C. The region of overlap between A and B is shaded, as well as the portion of A that does not overlap with B or C, and the portion of B that does not overlap with A or C. For part (b), there is a Venn diagram with universal set E and three overlapping sets P, Q, and R. The task is to shade the region P' ∩ (QUR).",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Using set notation, describe the shaded region in the Venn diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the Venn diagram, shade the region represented by P' ∩ (QUR).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q8",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply",
+      "Divide quantity by ratio",
+      "Use proportional reasoning",
+      "Express as percentage"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A bag contains red and blue pens in the ratio 2 : 7. There are 18 red pens in the bag. How many blue pens are in the bag?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A box contains apples and oranges. The ratio of apples to oranges is 2 : 3. What percentage of the fruit are oranges?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q9",
+    "Question_text": "Factorise completely",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax² + bx + c"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "12ab² - 8a²b,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "2x² + 3x - 20.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q10",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems",
+      "Calculate with time units",
+      "Use proportional reasoning",
+      "Calculate percentage change",
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Sara sets out on a journey at 1050. She travels 65 km at an average speed of 20km/h. At what time does she complete her journey?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Kevin takes T minutes to travel to work. Jane travels the same distance to work but goes 10% faster than Kevin. Find an expression, in terms of T, for the number of minutes that Jane takes to travel to work.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q11",
+    "Question_text": "In the diagram below, the equation of the line AB is 2y = 9 – 3x.",
+    "image": "A Cartesian coordinate plane with x and y axes. The x-axis ranges from 0 to 5, and the y-axis from 0 to 5. A straight line labeled AB is drawn, passing through approximately (0.5, 4.25) and (3, 0). The line intersects the y-axis at y=4.5 and the x-axis at x=3. A shaded region R is shown, bounded by the line AB, the x-axis, the y-axis, and the lines x=5 and y=5. The region R is defined by x ≤ 5, y ≤ 5, and also by the line AB and possibly x ≥ 0 and y ≥ 0.",
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.3 Gradient of linear graphs",
+    "Sub_topic": [
+      "Find the gradient of a straight line",
+      "Calculate the gradient of a straight line from the coordinates of two points on it",
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "What is the gradient of AB?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The shaded region R is defined by five inequalities. Two of these are x ≤5 and y≤ 5. Write down the other three inequalities.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q12",
+    "Question_text": "",
+    "image": "A geometric diagram showing points A, B, C, and D. Lines AB, BC, and BD are drawn. Angle CBD is labeled as x°. AB and BC form two sides of a regular decagon. AB and BD form two sides of a regular hexagon. This implies that the angles at B (interior angles of the polygons) can be determined, and x is related to these angles.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Show that the interior angle of a regular decagon is 144°.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "AB and BC are two sides of a regular decagon. AB and BD are two sides of a regular hexagon. Work out the value of x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q13",
+    "Question_text": "Jamil recorded the number of text messages sent by the students in his class on one day. The results are shown in the bar chart.",
+    "image": "A bar chart titled 'Number of text messages'. The x-axis is labeled 'Number of text messages' with values from 3 to 8. The y-axis is labeled 'Frequency' with values from 0 to 8. The bars represent: 3 messages (frequency 3), 4 messages (frequency 4), 5 messages (frequency 8), 6 messages (frequency 7), 7 messages (frequency 6), 8 messages (frequency 3). The bars are drawn to the corresponding frequencies.",
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Calculate mean, median, mode and range for individual data and distinguish purposes",
+      "Draw and interpret bar charts"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the number of students in Jamil's class,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the median number of text messages sent,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "the modal number of text messages sent.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q14",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy",
+      "Make estimates",
+      "Round answers reasonably",
+      "Give lower bounds"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "By writing each number correct to one significant figure, estimate the value of 7.84 × 326 / 0.18",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "An athlete ran a race in 9.58 seconds, correct to the nearest hundredth of a second. What is the shortest possible time that the athlete could have run the race?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q15",
+    "Question_text": "The two triangles below are similar. The lengths are in centimetres.",
+    "image": "Two right-angled triangles are shown side-by-side. The first triangle has sides 5 and 4, with the hypotenuse labeled 'b'. The angles are indicated by arcs. The second triangle has a hypotenuse of 10.5 and one other side of length 7, with the corresponding unknown side labeled 'a'. The angles are also indicated by arcs, matching the first triangle to indicate similarity. The side of length 4 in the first triangle corresponds to the side of length 7 in the second triangle. The side of length 5 in the first triangle corresponds to the side 'a' in the second triangle. The hypotenuse 'b' in the first triangle corresponds to the hypotenuse 10.5 in the second triangle.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes",
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": [
+      {
+        "part_label": "",
+        "part_text": "Calculate a and b.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q16",
+    "Question_text": "Solve",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities",
+      "Solve fractional equations with numerical and linear algebraic denominators"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "3x ≥ 2 – 5x,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "5x/(x+1) - 2/(x-1) = 8.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q17",
+    "Question_text": "In the diagram, ACD and ECD are triangles with CD = DE. AD and EC intersect at F. B is the point on AC such that BF is parallel to CD. BÂF = 26°, BFC = 38° and CFD = 110°. Find",
+    "image": "A complex geometric diagram showing two triangles ACD and ECD. Points A, B, C, D, E, F are labeled. Line AD intersects line EC at F. Line BF is parallel to CD. Angles are given: BÂF = 26°, BFC = 38°, CFD = 110°. A double dash on CD and DE indicates that CD=DE, making triangle CDE isosceles. A single arrow on BF and CD indicates they are parallel.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°)",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "FCD,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "EDC,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "ABF,",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "BCF.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q18",
+    "Question_text": "The first four terms, u₁, u₂, u₃ and u₄, in a sequence of numbers are given by u₁ = 1 × 2 + 3² = 11 u₂ = 2 × 3 + 4² = 22 u₃ = 3 × 4 + 5² = 37 u₄ = 4 × 5 + 6² = 56.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate u₅.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down an expression, in terms of n, for the nth term, u_n, of the sequence.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Given that u_n = An² + Bn + C, find the values of A, B and C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q19",
+    "Question_text": "Vicky's fingernail grows one nanometre in one second. One nanometre is 1 × 10⁻⁹ metres. Vicky calculates how much her fingernail grows in one hour.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Use A × 10^n form",
+      "Convert to standard form",
+      "Calculate with standard form",
+      "Calculate with time units",
+      "Convert quantities",
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find this length, in standard form, giving your answer (i) in metres,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "(ii) in millimetres.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "It is given that 2 × 10³(d + 3 × 10²) = 8 × 10⁶. Find d.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q20",
+    "Question_text": "It is given that h(x) = 2x-5 and g(x) = 3/(x-2). Find",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)",
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "h(4),",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "g⁻¹(x),",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "the value of t such that h(t) = g(3).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q21",
+    "Question_text": "Kelvin chooses a pair of trousers and a shirt to wear for college. He chooses grey trousers or black trousers. He chooses a red shirt or a yellow shirt. The probability that he chooses grey trousers is 1/3. The probability that he chooses a red shirt is 2/5. His choice of shirt is independent of his choice of trousers.",
+    "image": "A partially completed probability tree diagram. The first branch point is 'Trousers' with branches 'Grey' and 'Black'. From 'Grey', there are branches 'Red' and 'Yellow'. From 'Black', there are also branches 'Red' and 'Yellow'. The probabilities for each branch are missing, but implied by the question text (e.g., P(Grey) = 1/3, P(Red) = 2/5). There are blank lines for writing in the probabilities.",
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of single event",
+      "Understand probability of event not occurring = 1 – probability of occurring",
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the tree diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "What is the probability that Kelvin chooses grey trousers and a red shirt?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "What is the probability that Kelvin does not choose either black trousers or a red shirt?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q22",
+    "Question_text": "The diagram shows a window made up of a large semicircle and a rectangle. The large semicircle has 4 identical sections, A, B, C, D, and a small semicircle, E. The rectangle has three identical square sections, F, G and H. The side of each square is 20 cm.",
+    "image": "A diagram of a window shape. It consists of a large rectangle at the bottom, topped by a large semicircle. The rectangle is divided into three identical square sections labeled F, G, H, with each side length of 20 cm. The large semicircle on top is divided into 4 identical sectors (labeled A, B, C, D) and a central small semicircle (labeled E). The layout implies that the diameter of the large semicircle is the width of the rectangle (3 * 20 cm = 60 cm). The small semicircle E's diameter would be the width of one square (20 cm). Sections A, B, C, D are parts of the larger semicircle, with E being an inner semicircle. Section B is one of the four sectors, and its perimeter is asked in part (b).",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle",
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find an expression, in the form a + bπ, for (a) the area of the whole window,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "(b) the perimeter of section B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q23",
+    "Question_text": "",
+    "image": "A horizontal line segment labeled A on the left end and B on the right end, representing a length of 9cm. This line forms the base for constructing a triangle ABC.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Construct a triangle given lengths of all sides using ruler and compasses",
+      "Measure and draw lines and angles",
+      "Use and interpret geometrical terms: perpendicular bisector"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Construct, using ruler and compasses only, triangle ABC with sides AB = 9cm, BC = 8cm and AC = 6cm. The line AB has been drawn for you.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Construct the locus of points, inside the triangle ABC, which are equidistant from AB and BC,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "4 cm from A.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Shade the region, inside triangle ABC, containing the points that are nearer to BC than AB and more than 4 cm from A.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/4024/11/2011/Q24",
+    "Question_text": "The variables x and y are connected by the equation y = x³ - 6x.",
+    "image": "A table of values for the equation y = x³ - 6x. The x-row has values -2, -1, 0, 1, 2, 3. The y-row has values 5, [blank], 0, -4, [blank], 9. A Cartesian coordinate plane is shown with x and y axes. The x-axis ranges from -2 to 3, and the y-axis from -8 to 10. A grid is present for plotting points to draw the graph.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Recognise, sketch and interpret graphs of the following functions: (c) cubic"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the table of values.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the axes below, draw the graph of y = x³ - 6x for -2 ≤ x ≤ 3.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use your graph to find (i) two solutions of the equation x³ - 6x = 0,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "(ii) the least value of y when x is positive.",
+        "image": null
+      }
+    ]
+  }
+]

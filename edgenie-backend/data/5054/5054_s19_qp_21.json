@@ -1,0 +1,482 @@
+[
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q1",
+    "Question_text": "Fig. 1.1 shows the distance-time graph for a journey made by a cyclist between town A and town B. The cyclist leaves town A at time t = 0 and arrives at town B at t = 4.0 hours.",
+    "image": "A distance-time graph titled 'Fig. 1.1' showing distance in km on the y-axis (0 to 60 km) and time in hours on the x-axis (0 to 5 hours). The graph starts at (0,0), goes up linearly to (2,30), then is flat from (2,30) to (3,30), and then goes up linearly from (3,30) to (4,50).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Distance-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the distance between the two towns.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine the time for which the cyclist rests during the journey, before he reaches town B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The speed of the cyclist near the end of the journey is greater than the speed at the beginning. State how the graph shows this.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the average speed of the cyclist for the journey from A to B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q2",
+    "Question_text": "Some sources of energy, used to produce electricity, may run out in the future. Underline the two sources of energy that are likely to run out first, before the others. coal oil solar tides wave wind Fig. 2.1 is a simplified diagram of a geothermal power station.",
+    "image": "Fig. 2.1 shows a simplified diagram of a geothermal power station. It depicts a system where water is pumped underground, heated by rocks, turns into steam, drives a turbine connected to a generator, and then the steam is condensed in a cooling tower, returning to water to be pumped underground again. Labels include 'turbine', 'generator', 'steam', 'cooling tower', and 'water'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Geothermal Energy",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Some sources of energy, used to produce electricity, may run out in the future. Underline the two sources of energy that are likely to run out first, before the others. coal oil solar tides wave wind",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Thermal energy is given to the water as it passes through rocks underground. Describe the process by which this thermal energy causes the turbine to turn.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Water from the cooling tower at 30°C passes into the ground and is heated to 160°C. The specific heat capacity of water is 4200J/(kg°C). Calculate the thermal energy (heat) needed to heat 90 kg of water from 30°C to 160°C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q3",
+    "Question_text": "A large spring is stretched by an athlete to increase the strength of his arms. The athlete extends the spring, as shown in Fig. 3.1, and then releases it gently. He extends and releases the spring several times during a period of 60 s.",
+    "image": "Fig. 3.1 shows a diagram of an athlete stretching a large spring. The athlete is shown from the chest up, holding a spring with both hands, extending it outwards.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Elastic Potential Energy",
+      "Work",
+      "Power",
+      "Energy Stores & Transfers",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the form of energy stored in the stretched spring and the form of energy stored in the muscles of the athlete.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest what happens if he extends the spring beyond the limit of proportionality.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "During one extension of the spring, its length increases from 70cm to 93cm. The average force exerted by the athlete is 400 N. Calculate the work done by the athlete in one extension.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe how the athlete can use the value obtained in (i) to determine his average power during the 60s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q4",
+    "Question_text": "Fig. 4.1 shows a cylinder with a piston that contains a gas.",
+    "image": "Fig. 4.1 shows a cross-sectional diagram of a cylinder containing gas. A piston is inserted into the cylinder, trapping the gas. Labels include 'piston', 'cylinder', and 'gas'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A liquid occupies a much smaller volume than a gas which has the same number of molecules. Explain why there is this difference.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The volume of the gas changes from V₁ to V₂ as the piston moves into the cylinder. This increases the pressure from p₁ to p₂. The temperature remains the same. State the formula that relates V₁, V₂, p₁ and p₂.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The initial pressure of the gas in the cylinder is 1.2 × 10⁵ Pa and its initial volume is 100cm³. The cross-sectional area of the piston is 5.0 cm². The piston is pushed in a distance of 8.0 cm. Calculate the final pressure of the gas in the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain, using ideas about molecules, why the pressure of the gas changes.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q5",
+    "Question_text": "A student uses the circuit shown in Fig. 5.1 to investigate a resistor R.",
+    "image": "Fig. 5.1 shows an electrical circuit diagram. It consists of a power supply, a variable resistor (rheostat), an ammeter (A) in series, and a voltmeter (V) in parallel across a resistor labeled 'R'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student uses the apparatus in Fig. 5.1 to obtain a range of ammeter and voltmeter readings.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The readings obtained are shown in Table 5.1. Table 5.1 voltmeter reading/V | ammeter reading/mA 7.6 | 320 5.2 | 220 2.4 | 100 State Ohm's law.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using the results in Table 5.1, show that the resistor obeys Ohm's law.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The student has available an ammeter with five ranges marked: • 0 – 10 A • 0 – 200 mA • 0 – 20 mA • 0 – 2 mA • 0 – 0.2 mA Suggest how the student makes best use of the different ranges during the investigation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q6",
+    "Question_text": "Fig. 6.1 shows the fuse inside the plug of a hairdryer.",
+    "image": "Fig. 6.1 shows a diagram of a fuse, with a thin wire connecting two metal ends. Labels are 'metal end' (on both sides) and 'thin wire'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Power",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how the fuse protects the wires in the hairdryer.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The hairdryer is rated at 240V, 1500 W. It is switched on. Calculate the current in the hairdryer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest a suitable current rating for the fuse.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The hairdryer does not contain an earth wire to connect to the plug. State the feature of the hairdryer which ensures that it is safe to use without an earth wire.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q7",
+    "Question_text": "Fig. 7.1 shows part of a torch. The torch does not contain a battery. The torch is shaken and this causes the magnet to move backwards and forwards through the coil.",
+    "image": "Fig. 7.1 shows a diagram of a shake-to-charge torch mechanism. A coil is wrapped around a cylindrical core, and a magnet (with N and S poles indicated) is shown partially inside the coil, able to move back and forth. Labels are 'coil' and 'magnet'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why an electromotive force (e.m.f.) is induced in the coil when the magnet moves.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one way to increase the e.m.f. induced.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The current in the coil is used to produce light from a light-emitting diode (LED). In the space below, draw the circuit symbol for an LED.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "An LED is a more efficient source of light than a filament lamp. Explain what this statement means.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q8",
+    "Question_text": "Fig. 8.1 shows a circuit diagram containing a 2000 Ω resistor of constant resistance and a thermistor.",
+    "image": "Fig. 8.1 shows a series circuit containing a 12V power source, a thermistor, and a 2000 Ω resistor. The thermistor and resistor are connected in series across the 12V source.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Combined Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Resistance",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "At one temperature, the resistance of the thermistor is 1200 Ω. Calculate the potential difference (p.d.) across the 2000Ω resistor at this temperature.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the p.d. across the 2000 Ω resistor increases when the temperature increases.",
+        "image": null
+      },
+      {
+        "part_label": "b_intro",
+        "part_text": "The circuit in Fig. 8.1 can be adapted to enable a lamp to switch on and off automatically. Fig. 8.2 shows the circuit adapted using a relay and Fig. 8.3 shows the circuit adapted using a transistor. In both cases, the lamp switches on when the temperature of the thermistor increases.",
+        "image": "Fig. 8.2 shows a circuit with a thermistor and a relay coil in series with a power source, controlling a separate lamp circuit via a relay switch. Fig. 8.3 shows a circuit with a thermistor in a potential divider arrangement, controlling the base of a transistor, which then switches on a lamp in its collector circuit."
+      },
+      {
+        "part_label": "b_either",
+        "part_text": "EITHER Describe what happens inside the relay in Fig. 8.2 that causes the lamp to switch on.",
+        "image": null
+      },
+      {
+        "part_label": "b_or",
+        "part_text": "OR Describe how the circuit and transistor in Fig. 8.3 cause the lamp to switch on.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q9",
+    "Question_text": "Fig. 9.1 shows a parachutist falling vertically towards the ground. The mass of the parachutist is 60kg and his weight is 600 N.",
+    "image": "Fig. 9.1 shows a diagram of a parachutist falling. There are two force arrows: one pointing upwards labeled '200 N' (air resistance) and one pointing downwards labeled '600 N' (weight).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Freefall",
+      "terminal velocity",
+      "Acceleration",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by: mass",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State what is meant by: weight.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the acceleration of the parachutist when the air resistance is 200N.",
+        "image": null
+      },
+      {
+        "part_label": "c_intro",
+        "part_text": "The parachutist falls from rest at time t = 0. He accelerates non-uniformly until he reaches a terminal velocity of 44m/s at t = 30 s. At t = 40s the parachute opens. He decelerates for 4.0s, reaching a smaller terminal velocity of 5.0 m/s. He then falls at this speed until he lands on the ground at t = 200 s.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 9.2, draw the speed-time graph for the parachutist.",
+        "image": "Fig. 9.2 shows a blank speed-time graph grid with speed (m/s) on the y-axis (0-50, in intervals of 10) and time (s) on the x-axis (0-200, in intervals of 40)."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the average deceleration of the parachutist between t = 40s and t = 44 s.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Explain, in terms of the forces involved, why: the parachutist reaches a terminal velocity at t = 30 s",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Explain, in terms of the forces involved, why: the parachutist decelerates when the parachute opens",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Explain, in terms of the forces involved, why: the second terminal velocity, when the parachute is open, is smaller than the first.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q10",
+    "Question_text": "In Fig. 10.1 the vertical lines represent the crests of a wave in a ripple tank. Fig. 10.1 is drawn to scale, with 1.0cm on the diagram representing 4.0 cm in the tank. A crest takes 2.0 s to travel from P to Q.",
+    "image": "Fig. 10.1 shows a ripple tank with a wave generator on the left, producing parallel crests represented by vertical lines. Points P and Q are marked on two different crests, separated by several crests. There are 8 full wavelengths shown between P and Q, and 9 crests from P to Q inclusive. Labels are 'wave generator', 'P', 'Q', and 'ripple tank'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Ripple Tank",
+      "Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the wavelength of the wave in the ripple tank.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Define the term frequency.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Determine the frequency of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The wave generator is a bar of wood. Describe how it is used to produce the wave shown.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Some water in the ripple tank is removed. The water becomes less deep. No other change is made. State how the change in depth affects the wavelength and the speed of the wave. speed wavelength",
+        "image": null
+      },
+      {
+        "part_label": "b_intro",
+        "part_text": "A student reads in a textbook that the speed of sound in air is about 300 m/s. He plans an experiment to check this value. He asks another student to stand a long distance away in a large open space. One student has a starting pistol. The pistol, when fired, produces a loud sound and a puff of smoke at the same instant.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Other pieces of apparatus are needed for this experiment in order to measure the speed of sound. Name two other pieces of apparatus that are needed. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how all the measurements are made.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State typical values for the speed of sound in: 1. a liquid 2. a solid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2019/Q11",
+    "Question_text": "A teacher carries out an experiment on radioactivity using the apparatus shown in Fig. 11.1. The count rate is a measurement of the count during one minute.",
+    "image": "Fig. 11.1 shows a setup for detecting radioactivity. It includes a 'radioactive source' placed near a 'detector', which is connected to a 'counter' displaying '888888'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "Half-Life",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of one type of radiation detector.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one safety precaution the teacher must take when using a radioactive source.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The teacher states that the emissions from the radioactive source are random in time. State what is meant by random in time.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the apparatus is used to show that the emissions are random in time.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is meant by background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The teacher measures the count rate due to the source. Describe how the count rate is corrected for the background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "d_intro",
+        "part_text": "The corrected count rate is recorded for various distances d between the source and the detector. Fig. 11.2 shows a graph of the results obtained.",
+        "image": "Fig. 11.2 shows a graph of 'corrected count rate (counts/min)' on the y-axis (0-50, in intervals of 10) vs 'd/cm' on the x-axis (0-5, in intervals of 1). The graph shows a high constant count rate from d=0 to d approximately 3.0-3.2 cm, then a sharp decrease to zero by d=4.0 cm."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Determine the maximum distance that the radiation travels in air.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State the name of the radiation emitted by the radioactive source and give a reason for your answer. radiation is reason",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "As the radiation from the source travels in the air it causes ionisation. Describe what is meant by ionisation of the air.",
+        "image": null
+      },
+      {
+        "part_label": "e_intro",
+        "part_text": "The half-life of another radioactive source is 40 minutes. Initially, the corrected count rate from this source is 300 counts/minute.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "On Fig. 11.3, plot suitable points and draw a graph of the corrected count rate as it changes with time.",
+        "image": "Fig. 11.3 shows a blank graph grid with 'corrected count rate (counts/min)' on the y-axis (0-300, in intervals of 50) and 'time/min' on the x-axis (0-120, in intervals of 20), suitable for plotting a radioactive decay curve."
+      }
+    ]
+  }
+]

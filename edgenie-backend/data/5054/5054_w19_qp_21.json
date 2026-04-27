@@ -1,0 +1,454 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q1",
+    "Question_text": "Fig. 1.1 shows a tube full of mercury placed upside down in a dish of mercury. Initially a small piece of glass closes the open end of the tube.",
+    "image": "Fig. 1.1 shows an inverted glass tube, initially full of mercury and closed at its open end by a piece of glass, submerged in a dish of mercury. Fig. 1.2 shows the same setup but with the glass piece removed, allowing the mercury level inside the tube to fall and stabilize at a certain height, with a point X marked above the mercury level inside the tube.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure",
+      "Pressure & Forces",
+      "Pressure in a Liquid"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The piece of glass is removed and the level of mercury in the inverted tube falls, as shown in Fig. 1.2.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why the level of mercury in the tube falls.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State what is found at point X in Fig. 1.2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the tube of mercury in Fig. 1.2 is used to determine a value for the atmospheric pressure in pascals (Pa). You may draw on Fig. 1.2 if you wish.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q2",
+    "Question_text": "A small coin of mass m is initially at rest. It is dropped from a height h above ground level. The coin has a speed v as it hits the ground. The gravitational field strength g is equal to 10N/kg.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Conservation of Energy",
+      "Freefall",
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Mass & Weight",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State an expression for: • the gravitational potential energy of the coin at a height h above ground level • the kinetic energy of the coin when travelling at a speed v.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The coin is dropped from the top of a building of height 380 m. Determine the speed of the coin as it hits the ground. You may ignore air resistance.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When air resistance is negligible, a heavier coin hits the ground at the same speed as a lighter coin when they are both dropped from the same height.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "When air resistance acts, coins of different masses do not hit the ground at the same speed when they are dropped from the same height. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q3",
+    "Question_text": "A saucepan of water is placed on an electric hotplate and the water is brought to the boil. As the water boils, it changes from a liquid into a gas.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Particle Model",
+      "Specific Latent Heat",
+      "States of Matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe, in terms of the molecules, three ways in which a gas differs from a liquid.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In order to keep the liquid boiling, it is necessary to keep the hotplate switched on. Explain why energy must be supplied in order to turn a liquid at its boiling point into a gas.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q4",
+    "Question_text": "Fig. 4.1 represents the electromagnetic spectrum. The shaded region in the middle is the visible light spectrum.",
+    "image": "Fig. 4.1 shows a diagram of the electromagnetic spectrum divided into regions: gamma rays, X-rays, A (shaded), B, C, and radio waves. Region A is shaded, representing visible light, and it is positioned between X-rays and B.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Dangers of Electromagnetic Waves",
+      "Electromagnetic Waves",
+      "Features of Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the component labelled: • A • B • C",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the name of the component of the electromagnetic spectrum that has: the greatest frequency the smallest wavelength",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain how X-rays are used to produce an image of a broken bone in a patient's leg.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q5",
+    "Question_text": "An electronic balance is calibrated to display the weight of an object that is placed on its top plate. Fig. 5.1 shows the balance with an empty measuring cylinder on the top plate. A student pours a small quantity of oil into the measuring cylinder and records the volume and the new reading on the balance. Fig. 5.2 shows how the reading on the balance varies with the volume of oil in the measuring cylinder. The gravitational field strength g is equal to 10N/kg.",
+    "image": "Fig. 5.1 shows an electronic balance displaying '1.203 N' with an empty measuring cylinder on its top plate, which has a capacity of 100 cm³. Fig. 5.2 is a line graph plotting 'weight/N' on the y-axis against 'volume/cm³' on the x-axis, showing a linear increase from approximately (0, 0.4) to (100, 2.0).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Mass & Weight",
+      "Measuring Density",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "main",
+        "part_text": "Using Fig. 5.2, determine the density of the oil.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q6",
+    "Question_text": "A 60W filament lamp is powered by the 240 V mains electricity supply. The lamp is switched on.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Electrical Current",
+      "Electrical Power",
+      "Electromotive Force & Potential Difference",
+      "Potential Difference in Circuits",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate:",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "the current in the lamp",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the resistance of the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The lamp is now unplugged from the mains supply and connected in series with two 1.5V cells. Fig. 6.1 is the circuit diagram.",
+        "image": "Fig. 6.1 shows a series circuit diagram with two 1.5V cells connected to a lamp. An ammeter (A) is in series with the lamp and cells, and a voltmeter (V) is connected in parallel across the lamp."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the reading on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State and explain how the resistance of the lamp now differs from the value calculated in (a)(ii).",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "When a filament lamp blows, it very often does so immediately after being switched on. Suggest why this is the case.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q7",
+    "Question_text": "Table 7.1 shows the composition of four neutral atoms and one atom that has been ionised. These five particles are labelled P, Q, R, S and T.",
+    "image": "Table 7.1 lists the number of electrons, neutrons, and protons for five particles labeled P, Q, R, S, and T. For P: 17 electrons, 20 neutrons, 17 protons. For Q: 18 electrons, 20 neutrons, 19 protons. For R: 18 electrons, 24 neutrons, 18 protons. For S: 19 electrons, 23 neutrons, 19 protons. For T: 20 electrons, 21 neutrons, 20 protons.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Half-Life",
+      "Radioactive Decay",
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The charge on an electron is -1.6 × 10–19C.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "State which of P, Q, R, S and T is the ionised atom.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the size and the sign of the charge on the ionised atom.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State which pair from P, Q, R, S and T are isotopes of the same element.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "One of the atoms is a radioactive isotope that decays to produce one of the other atoms.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Deduce which atom decays in this way.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Deduce which atom is the product of this decay.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Deduce which type of radioactive decay occurs.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "The half-life for this radioactive decay is 33 years. A radioactive sample contains a large number of the atoms that decay in this way. Determine the fraction of this number of atoms that will decay in 99 years.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q8",
+    "Question_text": "A small electric component in a circuit needs to be protected from a strong, external magnetic field.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Electrical Current",
+      "Electromagnetic Induction",
+      "Magnetic Effect of a Current",
+      "Magnetic Fields",
+      "Magnetism"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how this is done and state any material used.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Electromagnets have many domestic and industrial applications.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In the space, draw a diagram of a simple electromagnet.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State and describe in detail one use of an electromagnet.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 8.2 shows a solenoid connected to a sensitive ammeter.",
+        "image": "Fig. 8.2 shows a solenoid (a coil of wire) connected in series with a sensitive ammeter, forming a closed circuit."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain what is observed on the ammeter when a student: inserts an N-pole of a bar magnet slowly into the right-hand end of the solenoid",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "holds the bar magnet stationary in the solenoid",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "withdraws the N-pole of the magnet quickly from the right-hand end of the solenoid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q9",
+    "Question_text": "Fig. 9.1 shows the structure of a water cooler that is used to supply cold water to the workers in a hot office.",
+    "image": "Fig. 9.1 shows a diagram of a water cooler. It consists of an inverted plastic container (reservoir) on top, feeding water through a tap into a lower tank. Inside the tank, a copper pipe from a refrigeration unit coils around, cooling the water. A plastic pipe draws cold water from the tank, leading out through the tap. Components labeled are: reservoir, tap, plastic pipe, cold water, plastic container, copper pipe, refrigeration unit, tank.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection",
+      "Energy Stores & Transfers",
+      "Particle Model",
+      "Specific Heat Capacity",
+      "States of Matter",
+      "Thermal Conduction",
+      "Thermal properties & Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The reservoir of water in the plastic container is at room temperature. It does not mix with the cold water in the tank below. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the tap is opened, water at room temperature from the reservoir flows down into the tank. Cold water from the tank flows through the plastic pipe and out of the tap. Cold liquid from the refrigeration unit is pumped through the copper pipe and thermal energy passes through the copper to this liquid.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suggest why this pipe is made from copper.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain, in terms of free electrons, how thermal energy is transferred through the copper.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "As the water near the copper pipe cools, it begins to mix with the rest of the water in the tank. Explain how this happens.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The tap is opened and water at 21 °C flows from the reservoir into the tank. The specific heat capacity of water is 4200J/(kg°C). Calculate the thermal energy that is removed from 250 g of this water to reduce its temperature to 7°C.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Describe the motion of the molecules in a liquid which is at a uniform temperature throughout.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State what happens to the motion of the molecules in a liquid as the temperature of the liquid decreases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2019/Q10",
+    "Question_text": "Visible light is one component of the electromagnetic spectrum.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Features of Waves",
+      "Linear Magnification",
+      "Ray Diagrams",
+      "Refraction of Light",
+      "Snell's Law",
+      "Thin Lenses",
+      "Uses of Lenses",
+      "Wave Behaviour"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the speed of light in a vacuum.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the colours of the visible spectrum.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "An object O of height 3.0cm is placed 4.0cm from the centre of a diverging lens. Fig. 10.1 shows the object O, the diverging lens and the two focal points (principal focuses), F₁ and F2, of the lens.",
+        "image": "Fig. 10.1 shows a grid with a diverging lens centrally drawn on a principal axis. An object 'O' (an upward arrow, 3.0 cm high) is placed to the left of the lens. Focal points F₁ and F₂ are marked on the axis, each 2.0 cm from the lens, indicated by a 1.0 cm grid scale. The object O is 4.0 cm from the lens."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Determine the focal length of this lens.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The diverging lens produces an image of object O. On Fig. 10.1, by drawing rays from the tip of O, locate this image and label it I.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Determine the height of the image.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Determine the magnification of the image.",
+        "image": null
+      },
+      {
+        "part_label": "c(v)",
+        "part_text": "State two ways in which a virtual image differs from a real image.",
+        "image": null
+      },
+      {
+        "part_label": "c(vi)",
+        "part_text": "State one use for a diverging lens.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Light passing from air into glass refracts in a similar way to a water wave passing from deep water into shallow water. Fig. 10.2 represents light passing from air into glass at an angle to the surface. One side of a wavefront strikes the glass before the other side. Explain why the wavefronts change direction as the light enters the glass.",
+        "image": "Fig. 10.2 shows light wavefronts approaching a boundary between air and glass at an angle. The wavefronts are parallel in the air, and as they enter the glass, their direction changes, and the spacing between them (wavelength) decreases, indicating refraction."
+      }
+    ]
+  }
+]

@@ -1,0 +1,481 @@
+[
+  {
+    "QuestionNumber": "October/November/2022/Q1",
+    "Question_text": "The diagram shows three forces acting on a block. The resultant force is 6 N to the right. Which additional force produces a resultant force of 3 N to the left?",
+    "image": "A block is depicted with three horizontal forces: 3 N pointing left, 2 N pointing left, and 11 N pointing right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q2",
+    "Question_text": "A teacher measures the length of her classroom. What is the most appropriate instrument to use?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q3",
+    "Question_text": "Which value is one-thousandth of a metre?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q4",
+    "Question_text": "A car of mass 1000kg is travelling down a steep hill. The brakes fail and the driver uses a horizontal sand-filled safety road to stop the car. The car enters the sand at a speed of 10m/s and experiences a constant stopping force of 2500 N. How far does the car travel in the sand before coming to rest?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q5",
+    "Question_text": "A ball starts from rest and rolls down a steep slope. The ball then rolls along rough horizontal ground. Which graph shows the speed of the ball at different times?",
+    "image": "Four speed-time graphs (A, B, C, D). Graph A shows speed increasing linearly then becoming constant. Graph B shows speed increasing linearly then decreasing linearly to zero. Graph C shows speed increasing linearly then decreasing linearly to zero (steeper). Graph D shows speed increasing curved, then constant, then decreasing curved.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q6",
+    "Question_text": "A block of wood is placed on a table. External forces act on the block but the block remains stationary. A student suggests three conditions for the block to remain stationary. condition P The resultant force on the block must equal zero. condition Q The resultant moment on the block must equal zero. condition R The external forces must act through the centre of mass of the block. Which conditions are necessary for the block to remain stationary?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Equilibrium",
+      "Resultant Forces",
+      "Moments",
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q7",
+    "Question_text": "A car travels at 60km/h on a straight road. The road is dry. The driver applies the brakes suddenly. The table shows the thinking distance, the braking distance and the stopping distance. The same car is driven by the same driver at 60km/h on the same road when it is wet. The driver applies the brakes suddenly again. What is the effect of the wet road on the thinking distance, the braking distance and the stopping distance?",
+    "image": "A table shows thinking distance (27m), braking distance (22m), and stopping distance (49m) for a car on a dry road at 60km/h. A second table lists options for how these distances change on a wet road.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q8",
+    "Question_text": "A car travels on a horizontal road around a bend at constant speed. What is the direction of the resultant force on the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q9",
+    "Question_text": "A student writes two statements about mass and weight. 1 Mass is the property of a body which resists change in its state of rest or motion. 2 Weight is the amount of substance in a body. Which statements are correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Newton's First Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q10",
+    "Question_text": "The graph shows how the extension of a spring changes with the masses suspended from it when the spring is on planet X and when the spring is on planet Y. Which conclusion can be drawn from these graphs?",
+    "image": "A graph plotting extension (cm) against mass (kg) for a spring on two different planets, X and Y. Both lines are straight and pass through the origin. The line for planet X has a steeper slope than the line for planet Y. For a mass of 3kg, extension is 45cm for Planet X and 15cm for Planet Y.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q11",
+    "Question_text": "A student finds the density of an irregularly shaped object. He chooses his equipment from this list. 1 stop-watch 2 measuring cylinder 3 balance Which equipment does the student need to use?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density",
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q12",
+    "Question_text": "A uniform beam is pivoted at its centre. Two weights are placed on the beam in the positions shown and the beam is balanced by an upward force F. What is the size of F?",
+    "image": "A diagram shows a uniform beam pivoted at its centre. A 30 N weight is placed 40 cm to the left of the pivot. A 60 N weight is placed 30 cm to the right of the pivot. An upward force F is indicated 20 cm to the right of the pivot. Note: The problem statement says 'upward force F' but calculations for equilibrium suggest F would need to be 30N acting upwards at 20cm to the left of the pivot, or 30N acting downwards at 20cm to the right of the pivot, if the diagram's numerical positions are exact for equilibrium. Given the options, 30 N is the force required to create an anticlockwise moment of 600Ncm (1800-1200) if applied 20cm from the pivot on the left.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q13",
+    "Question_text": "Four objects of equal mass rest on a table. The centre of mass of each object is labelled G. Which object is the least stable?",
+    "image": "Four diagrams (A, B, C, D) of objects with their center of mass 'G' marked. A is a tall narrow triangle, B is a tall narrow rectangle, C is a short wide rectangle, D is a rectangle standing on an edge.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q14",
+    "Question_text": "Each tyre of a car has an area of 100 cm² in contact with the ground. The car has a mass of 1600kg. The weight of the car is equally distributed amongst the four tyres. The gravitational field strength g is 10N/kg. What is the pressure exerted on the ground?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q15",
+    "Question_text": "A gas syringe contains a volume V₁ of gas at pressure p₁. The volume is reduced to V₂ without any change of temperature. What is the expression for the change in pressure?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q16",
+    "Question_text": "A constant force F pulls a block of weight W up the slope shown. How much work is done by F in pulling the block up the slope?",
+    "image": "A diagram shows a block on an inclined plane. A force F pulls the block up the slope (length l). The block has weight W acting vertically downwards. The vertical height of the slope is h, and the horizontal length is d.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q17",
+    "Question_text": "The input power to a motor is 12 W. The motor wastes 590 J of energy in 1.0 min. What is the efficiency of the motor?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q18",
+    "Question_text": "Electric motors have an efficiency of about 90% when used in an electric train. Which forms of wasted energy are produced?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q19",
+    "Question_text": "What is a unit of power?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q20",
+    "Question_text": "The diagrams represent four thermometers. Which thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+    "image": "Four vertical diagrams of liquid-in-glass thermometers labelled P, Q, R, S. P ranges from 0°C to 25°C. Q ranges from 30°C to 40°C. R ranges from 0°C to 250°C. S ranges from 100°C to 300°C. The scales and lengths indicate different sensitivities and ranges for each thermometer.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q21",
+    "Question_text": "Air is trapped in a metal cylinder by a piston. The piston is free to move and the trapped air is at atmospheric pressure. The cylinder is in hot water. The cylinder is taken out of the water and left to cool. What happens to the mass of the air in the cylinder and its pressure as it cools?",
+    "image": "A diagram shows a metal cylinder with a movable piston trapping air. The cylinder is submerged in hot water, with an arrow indicating a piston and trapped air inside. Another diagram indicates a metal cylinder with trapped air being cooled.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q22",
+    "Question_text": "A mirror is placed in the path of a ray of light. Through which angle does the direction of the ray of light change?",
+    "image": "A diagram illustrates an incident ray striking a flat mirror. The angle between the incident ray and the mirror surface is 40°. A dashed line indicates the normal to the mirror, and a reflected ray is shown.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q23",
+    "Question_text": "A ray of light in water is refracted at the surface into air. Which diagram shows the angle of incidence i and the angle of refraction r?",
+    "image": "Four ray diagrams (A, B, C, D) illustrate light refracting from water into air at a horizontal surface. Each diagram shows an incident ray, a refracted ray, and a normal line, with angles 'i' and 'r' labelled in different ways or showing incorrect bending.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q24",
+    "Question_text": "A thin converging lens forms a real, focused image of an object, as shown. Which distance is equal to the focal length of the lens?",
+    "image": "A ray diagram shows an object and its real, focused image formed by a converging lens. The principal axis is labelled with points W, L, X, Y, Z. L is the optical center of the lens. A ray parallel to the principal axis passes through point Y after refraction, and a ray through L is undeviated. Point X is on the principal axis before the lens, Y is on the principal axis after the lens, W and Z are other points on the axis.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q25",
+    "Question_text": "Which ray diagram shows the action of a diverging lens?",
+    "image": "Four ray diagrams (A, B, C, D) illustrating the action of different lenses. Diagrams A and B show parallel incident rays interacting with a lens. Diagrams C and D show rays from a point object interacting with a lens. Lens A is biconcave and causes parallel rays to diverge. Lens B is biconvex and causes parallel rays to converge.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q26",
+    "Question_text": "Many devices produce electromagnetic waves when operating. Which device produces electromagnetic waves of the highest frequency?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q27",
+    "Question_text": "Which two frequencies are both outside the range of audible frequencies for a healthy human ear?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q28",
+    "Question_text": "Sound waves are displayed as a trace on the screen of an oscilloscope. Which trace shows a sound that becomes quieter with a higher pitch?",
+    "image": "Four oscilloscope traces (A, B, C, D) representing sound waves. Trace A shows amplitude decreasing and frequency increasing. Trace B shows amplitude increasing and frequency increasing. Trace C shows amplitude decreasing and frequency decreasing. Trace D shows amplitude increasing and frequency decreasing.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q29",
+    "Question_text": "The N pole of a permanent magnet is placed in turn close to a piece of iron, the S pole of another magnet, and a piece of copper. Which objects are attracted to the N pole of the permanent magnet?",
+    "image": "A table with rows for 'piece of iron', 'S pole', 'piece of copper' and columns for options A, B, C, D. Checkmarks (✓) indicate attraction and crosses (x) indicate not attracted, with a key explaining the symbols.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q30",
+    "Question_text": "Four plotting compasses are placed near a bar magnet. Ignore any effects of the Earth's magnetic field. One compass appears like this (image of a compass pointing down). What is a possible position for this compass?",
+    "image": "A bar magnet is shown with its South (S) pole on the left and North (N) pole on the right. Four possible positions for plotting compasses are marked A (above N pole), B (above S pole), C (right of S pole), and D (below N pole). A separate image shows a compass needle with its North (darkened) end pointing directly downwards.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q31",
+    "Question_text": "Two oppositely charged plastic rods are placed next to each other. Which row describes and explains how the rods move?",
+    "image": "A diagram shows two plastic rods placed horizontally next to each other. The left rod is labelled with '+' charges and the right rod is labelled with '-' charges.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q32",
+    "Question_text": "A meter that measures the rate of flow of charge in a resistor is placed in a circuit. What is the name of this meter and how is it connected to the resistor?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q33",
+    "Question_text": "Which device is used to convert electrical energy to kinetic energy?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q34",
+    "Question_text": "Why is a fuse used in an electrical appliance?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q35",
+    "Question_text": "A coil of wire is rotated at a constant rate between the poles of a U-shaped magnet. The two ends of the coil are connected to different slip rings. Which graph shows how the voltage V between the slip rings varies with time t?",
+    "image": "Four graphs of voltage V versus time t (A, B, C, D). Graph A shows pulsating DC. Graph B shows smoother pulsating DC. Graph C shows a sinusoidal AC waveform. Graph D shows constant DC.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q36",
+    "Question_text": "Which statement about a transformer is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q37",
+    "Question_text": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves and electrons. What are these three types of radiation?",
+    "image": "A table with columns for 'helium nuclei', 'electromagnetic waves', and 'electrons', and rows for options A, B, C, D, listing combinations of alpha, beta, and gamma.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q38",
+    "Question_text": "The diagram shows a relay used to switch on an electric motor. A student makes five statements to explain how the relay switches on the electric motor. The statements are not in the correct order. 1 The current in the coil magnetises the electromagnet. 2 The armature closes the contacts. 3 The current in the secondary circuit makes the motor turn. 4 The electromagnet attracts the iron armature. 5 The switch S in the primary circuit is closed. What is the correct order of the statements?",
+    "image": "A circuit diagram illustrates a relay system with a primary circuit containing a switch S and a coil around an iron core, and a secondary circuit with contacts, an armature, and an electric motor. A list of five statements describing the operation of the relay is also provided.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Magnetic Effect of a Current",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q39",
+    "Question_text": "Different radioactive emissions have different characteristics. A student lists the following characteristics for an alpha-particle. characteristic P It has a positive charge. characteristic Q It has a high penetrating ability. characteristic R It is a component of the electromagnetic spectrum. Which characteristics are correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q40",
+    "Question_text": "A wooden object is believed to be 6000 years old. Which isotope, found in the object, is used to determine the age of the object?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Uses of Radiation",
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,366 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Find the actual distance between A and B.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Construct the position of D on the scale drawing.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Measure the bearing of C from B.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "By constructing suitable loci, mark on the diagram the two possible positions, P and Q, of the aircraft. Given that the aircraft is east of the line AB, find, by measuring, its bearing from C.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Find f when c = 8 and d=-4. Express c in terms of d and f.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Solve 17 – 5x < 2x + 3 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Factorise 9 – 25x2.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Factorise completely 8px + 6qy - 3qx – 16py .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e",
+    "Question_text": "Solve 5x² + 6x − 13 = 0. Give your answers correct to two decimal places.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Calculate Mariam's total earnings for the week. Calculate the value of the items she sold that week.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Calculate the percentage rate of simple interest paid per year. Calculate the amount he saves.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate simple interest",
+      "Divide quantity by ratio"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Find, as a fraction in its lowest terms, the probability that the number on the ball is a multiple of 3, prime.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Complete this possibility diagram to show all the outcomes. Find the probability that the sum of the numbers is odd, less than 8.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Calculate AB.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Calculate AD.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "Calculate ADC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5d",
+    "Question_text": "Calculate the area of the sign CDEF.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "Find, in terms of n, an expression for the nth term of this sequence.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Work out the first four terms of this sequence. Form and solve an equation in n to find these two values.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "Work out the total number of people who voted in the election. What fraction of the vote did candidate D receive? Give your answer in its lowest terms. How many more votes than candidate A did candidate C receive?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Calculate an estimate of the mean age of the members. On the grid below, draw a histogram to represent this data. Find an estimate for the number of members of the film club who are over 50.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate estimate of mean for grouped discrete or continuous data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Find PQ. Find |PQ|. Find the equation of the line PQ. Given that Q is the midpoint of the line PR, find the coordinates of R.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Express, as simply as possible, in terms of a and/or b AB, AC, CD. Find, in its simplest form, the ratio perimeter of triangle OAB : perimeter of triangle OCD, area of triangle OAB : area of trapezium ABDC.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Show that the slant height of the cone is 16.2cm, correct to one decimal place. Calculate the total surface area of the cone. Calculate the volume of the cone.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Calculate the mass of the cone in grams. Calculate the height of the second cone. Calculate the total surface area of the second cone.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "Show that the total length of fencing, Lm, required for the enclosure is given by",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "Complete the table.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "On the grid opposite, draw a horizontal x-axis for 0≤x≤20 using a scale of 1 cm to represent 2 m and a vertical L-axis for_0 <L ≤ 60 using a scale of 2 cm to represent 10m. On the grid, plot the points given in the table and join them with a smooth curve.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Draw graphs from given data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d",
+    "Question_text": "Use your graph to find the range of values of x that he can choose.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10e",
+    "Question_text": "Find the minimum length of fencing Adil could use for the enclosure. Find the length and width of the enclosure using this minimum length of fencing. Give your answers correct to the nearest metre.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10f",
+    "Question_text": "Suggest a suitable length and width for an enclosure of area 100m², that uses the minimum possible length of fencing.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "Show that triangles AEC and FBE are congruent. State another triangle that is congruent to triangle AEC. Explain why EB is parallel to DF. Work out ABE.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "Calculate the area of triangle POQ. Calculate the area of the major segment, shown unshaded in the diagram.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  }
+]

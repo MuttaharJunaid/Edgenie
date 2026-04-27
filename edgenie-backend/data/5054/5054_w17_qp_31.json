@@ -1,0 +1,193 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/31/2017/Q1",
+    "Question_text": "In this experiment, you will investigate the oscillations of a mass connected to springs. You are provided with • an arrangement of two springs that are connected in series, • a single spring, • a mass labelled M, • a stand, boss and clamp from which to suspend the springs, • a stopwatch, • a second clamp and boss.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Set up the apparatus as shown in Fig. 1.1, using the arrangement of the two springs that are connected in series.",
+        "image": "Fig. 1.1 shows a diagram of the experimental setup. A stand with a clamp and boss holds a vertical rod. From the clamp, two springs are suspended in series. A mass 'M' is attached to the bottom of the lower spring. Below the mass, another clamp with a rod (labeled 'rod A') is positioned. The entire setup is placed on a bench. Labels include: 'stand', 'clamp', 'boss', '2 springs in series', 'M', 'rod of clamp (rod A)', and 'bench'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Pull the mass M down a short distance vertically and release it. One oscillation of the mass occurs when the mass moves from its lowest position to its highest position and then back down to its lowest position. Adjust the height of rod A to help you when counting the number of oscillations.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how you use rod A to ensure that you count complete oscillations made by the mass. You may draw a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The time for 10 oscillations is t₁. Take measurements to determine an accurate value of t₁.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the time T₁ for one oscillation. Give your answer to an appropriate number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Replace the double spring arrangement by the single spring. Suspend the mass M from the single spring. Repeat (b)(ii) and (b)(iii) so that new values are obtained for the time t₂ for 10 oscillations and the time T₂ for one oscillation.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate T₂/T₁.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/31/2017/Q2",
+    "Question_text": "In this experiment, you will investigate a circuit containing a light-dependent resistor. You are provided with • a power supply, • a switch, • a light-dependent resistor, • a resistor labelled R, • a voltmeter, • connecting leads, • a 250 cm³ glass beaker filled with water, • a light source, • a container labelled A containing a small amount of blue liquid, • safety glasses or goggles, • a 5 cm³ plastic syringe, • a stirrer, • paper towels or cloths to mop up spillages. When using the blue liquid: • If any liquid comes into contact with your skin wash off immediately with water. • It is recommended that you wear safety goggles/glasses. The Supervisor has set up the apparatus as shown in Fig. 2.1. Do not alter the position of the light source or the position of the light-dependent resistor (LDR).",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Switch on the light source and close the switch in the electrical circuit. Record the voltmeter reading V₁.",
+        "image": "Fig. 2.1 shows an electrical circuit diagram. A d.c. power supply is connected to a series circuit containing a resistor 'R', a voltmeter 'V' in parallel with 'R', and a light-dependent resistor (LDR). The LDR is submerged in water within a beaker. A light source is positioned to shine light onto the LDR through the water. Blu-tack is used to hold the LDR in place. Labels include: 'd.c. power supply', 'R', 'V', 'water', 'beaker', 'light source', 'Blu-tack', 'LDR'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Use the syringe to add 1.0cm³ (1ml) of the blue liquid from container A to the water in the glass beaker and stir. Record the new voltmeter reading V₂.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Repeat (b)(i) to add a further 1.0cm³ of the blue liquid. Record the new voltmeter reading V₃.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use the grid of Fig. 2.2 to plot a graph of the voltmeter reading against the volume of blue liquid added.",
+        "image": "Fig. 2.2 shows an empty grid for plotting a graph. The y-axis is labeled 'V/V' (Voltmeter reading in Volts) ranging from 0 to 5. The x-axis is labeled 'volume/cm³' (Volume in cubic centimeters) ranging from 0 to 2."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe the trend shown by your graph.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/31/2017/Q3",
+    "Question_text": "In this experiment, you will investigate the distance travelled by a table tennis ball that has dropped onto a ramp. You are provided with • a tray containing sand, • a ramp, • two metre rules, • a set square, • a stand, boss and clamp to support the metre rule vertically, • a table tennis ball, • a piece of card to smooth the surface of the sand. The Supervisor has set up the apparatus as shown in Fig. 3.1.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Freefall",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Check that the metre rule clamped behind the ramp is vertical and adjust, if necessary, to make it vertical. Describe how you checked that the metre rule was vertical. You may add to Fig. 3.1 if you wish.",
+        "image": "Fig. 3.1 shows a setup for an experiment involving a table tennis ball and a ramp. A stand with a boss is shown, clamping a vertical metre rule. A ramp is inclined downwards from a point 'P' on the metre rule. At the bottom of the ramp, there is a shallow tray filled with fine sand. Labels include: 'stand', 'boss', 'metre rule', 'P', 'ramp', 'fine sand', 'shallow tray'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "A point P is marked on the top face of the ramp. Drop the ball from a height h = 30.0cm vertically above P onto the ramp. The ball will bounce on the ramp and should land in the sand tray. If this does not occur the sand tray should be moved towards or away from the bottom of the ramp so that the ball does land in the tray. Use the piece of card to smooth the sand. Drop the ball from h = 30.0cm and observe that it lands in the sand. Carefully remove the ball from the tray without disturbing the sand and note that an indentation has been formed in the sand.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure the horizontal distance x from P to the centre of the indentation.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 3.2 shows the ball as it hits the ramp at point P. Draw the ball at its initial position and mark the height h.",
+        "image": "Fig. 3.2 shows a side view of a ramp. A small circle labeled 'ball' is shown on the ramp at point 'P'. A dotted line extends from the lower end of the ramp, labeled 'lower end of ramp'."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain how you removed the ball from the tray without disturbing the sand.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Take measurements to determine an average value for x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/31/2017/Q4",
+    "Question_text": "In this experiment, you will investigate the upward force on a cylinder of modelling clay partially submerged in water. You are provided with • a 100 cm³ measuring cylinder, • two springs connected in series, • a stand, boss and clamp to support the springs, • an S-hook, • a cylinder of modelling clay rolled around a string with a loop at one end, • a 30 cm ruler, • a beaker of water, • paper towels or cloths to mop up spillages.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Density",
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure the length x₀ of the cylinder of modelling clay.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Set up the apparatus as shown in Fig. 4.1. The spring arrangement is suspended vertically, with the S-hook at the end. The S-hook is just above the measuring cylinder which contains the clay cylinder. The loop on the clay cylinder is passed over the S-hook.",
+        "image": "Fig. 4.1 shows an experimental setup. A stand with a clamp and boss supports two springs connected in series, hanging vertically. An S-hook is attached to the bottom spring. A modelling clay cylinder, with a loop of string, is suspended from the S-hook. The clay cylinder is positioned inside a measuring cylinder, but not yet submerged in water. Labels include: 'stand', 'clamp', 'boss', '2 springs in series', 'S-hook', 'loop of string', 'measuring cylinder', 'modelling clay'."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Pour water into the measuring cylinder until the clay cylinder is fully submerged and there is a depth of approximately 2cm of water above the cylinder. Raise the boss until the base of the clay cylinder is about 1 cm above the bottom of the measuring cylinder, and the clay cylinder is fully submerged. Make minor adjustments to the apparatus to make sure that the clay cylinder does not touch the measuring cylinder and is still submerged in the water. The apparatus should be as shown in Fig. 4.2. Explain how you checked that the clay cylinder was not touching the sides of the measuring cylinder.",
+        "image": "Fig. 4.2 shows the setup from Fig. 4.1 but with the clay cylinder fully submerged in water within the measuring cylinder. The stand, springs, S-hook, and modelling clay are as before. The length 's' is indicated as the distance between the upper and lower loops on the spring assembly. Labels include: 'S' (referring to the length of the spring extension), 'water'."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Measure the length s between the upper and lower loops on the spring, as shown in Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Raise the boss so that about 2cm of the clay cylinder is above the surface of the water. Ensure that the clay cylinder does still not touch the measuring cylinder. Measure a new value for s and the length x of the clay cylinder that is submerged in the water, as shown in Fig. 4.3.",
+        "image": "Fig. 4.3 shows the setup from Fig. 4.2, but with the clay cylinder partially submerged in water. The water level is below the top of the clay cylinder. The length 'x' is indicated as the height of the clay cylinder that is submerged in the water. Labels include: 'x', 'water'."
+      },
+      {
+        "part_label": "f",
+        "part_text": "Continue to raise the boss to obtain a series of values of s and x. Record your results in the table of Fig. 4.4. Include units in the headings of the table and your results from (a), (d) and (e).",
+        "image": "Fig. 4.4 shows an empty table with several rows and two columns, intended for recording experimental data for 's' and 'x'."
+      },
+      {
+        "part_label": "g",
+        "part_text": "Using the grid opposite, plot a graph of s/cm (y-axis) against x/cm (x-axis). Draw the straight line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "h",
+        "part_text": "Determine the gradient G of your graph. Give your answer to an appropriate number of significant figures.",
+        "image": null
+      }
+    ]
+  }
+]

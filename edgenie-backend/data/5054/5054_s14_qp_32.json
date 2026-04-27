@@ -1,0 +1,254 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2014/Q1",
+    "Question_text": "In this experiment, you will determine the mass of a half-metre rule. You are provided with • a half-metre rule with holes near both ends, • a length of string attached to the rule at the 49.0cm mark, • a pivot in the form of a thin rod or nail, • a 50 g mass labelled P, • a pulley supported above the bench, • a stand and boss to support the pivot, • a metre rule, • a set square.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Measurement",
+      "Mass & Weight",
+      "Measuring Mass & Weight",
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The Supervisor has set up the apparatus as shown in Fig. 1.1. Set up the apparatus as shown in Fig. 1.2. Adjust the height of the pulley and/or the position of the stands to make the section of the string labelled AB horizontal.",
+        "image": "Fig. 1.1 shows a diagram of the initial setup. A half-metre rule is pivoted near one end, supported by a stand and boss. A string is attached to the rule and passes over a pulley wheel to a loop. The other end of the rule is free. Fig. 1.2 shows the setup for the experiment. A half-metre rule is supported by a pivot on a stand. A string is attached to point A on the rule, passes over a pulley, and has a mass P attached to its end, forming a loop. Point B is on the string just before the pulley. The heights h1 and h2 are indicated. h2 is the height of the pivot from the bench, and h1 is the height of point A (where the string attaches to the rule) from the bench. The length l is the distance between the two holes in the rule."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Measure and record",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the height h₁ of AB above the bench,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the height h₂ of the centre of the pivot above the bench,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "the distance l between the centres of the two holes in the rule.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "the distance h using h = h₂ – h₁,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the distance x using x = √(l²– h²)",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "the mass M of the half-metre rule using M = 2mh/x where the mass m of P is 50g.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2014/Q2",
+    "Question_text": "In this experiment, you will determine the focal length of a lens. You are provided with • a converging lens in a holder, • an object consisting of a transparent ruler fixed to a card, • a light source to illuminate the object, • a screen, • a metre rule, • a set square, • a 30 cm ruler.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Measurement",
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Set up the apparatus as shown in Fig. 2.1. The side of the object labelled F should face the lens. The object is at the 0.0cm mark on the metre rule and the screen is at the 100.0cm mark. Move the lens until a sharply focused magnified image of the object is formed on the screen. The image may be larger than the screen.",
+        "image": "Fig. 2.1 shows a light source shining on an object labeled F, which is a transparent ruler on a card. The light then passes through a converging lens in a holder. An image is formed on a screen, which is supported by a block. All components are aligned along a metre rule. The object is at 0.0 cm, and the screen is at 100.0 cm."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "In the space below, draw a diagram of the part of the image that is on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The image is magnified. State two other properties of the image. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The distance s is the spacing between the images, seen on the screen, of 1 cm divisions on the object. Using the 30cm ruler determine, as accurately as possible, an average value for s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using your answer to (b)(i), state the value of the magnification m produced by the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Measure the distance v between the centre of the lens and the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Calculate the focal length f of the lens using f = V / (m+1)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2014/Q3",
+    "Question_text": "In this experiment, you will determine the power dissipated in an arrangement of resistors. You have been provided with a circuit consisting of • a cell, • a switch, • a resistor labelled R₁, • an ammeter. • connecting leads. You are also provided with • a voltmeter, • a resistor labelled R₂, • four connecting leads.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Measurement",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Using two of the connecting leads, connect the voltmeter between points A and B in the circuit. Close the switch and measure",
+        "image": "Fig. 3.1 shows a simple series circuit. A cell is connected to a switch, an ammeter, and a resistor labeled R1. Points A and B are shown on either side of the resistor R1."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "the potential difference V₁ across resistor R₁,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the current I₁ in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the power P₁ dissipated in R₁, using P₁ = I₁ V₁.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using two more connecting leads, connect R₂ between A and B so that it is in parallel with R₁. Close the switch and measure",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "the potential difference V₂ across the resistor combination,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the current I₂ in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the power P₂ dissipated in the resistor combination.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The resistances of R₁ and R₂ are similar. Explain why P₂ is greater than P₁.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2014/Q4",
+    "Question_text": "In this experiment, you will determine a value for the power loss from a beaker of water at a particular time. You are provided with • a 100 cm³ beaker with a label, • a supply of hot water, • a thermometer, • a stand, boss and clamp to support the thermometer, • a stirrer, • a stopwatch, • a measuring cylinder.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Measurement",
+      "Specific Heat Capacity",
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer",
+      "Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Set up the apparatus as shown in Fig. 4.1, with the bulb of the thermometer just above the base of the beaker.",
+        "image": "Fig. 4.1 shows a setup for an experiment. A thermometer is held by a clamp and boss on a stand. The bulb of the thermometer is immersed in a beaker labeled 'beaker' which is sitting on a bench. The beaker has a 'label' on its side. The thermometer measures the temperature of the contents of the beaker."
+      },
+      {
+        "part_label": "b",
+        "part_text": "You will use the table of Fig. 4.2, which is on page 10, to record your readings of time and temperature. The experiment will last for six minutes. Write headings and units on Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The mass m of the beaker is written on the label. Record m.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Using water from the hot water supply, pour hot water into the beaker until the water is level with the top of the label. Observe the thermometer and you will see that the temperature rises initially. As soon as the temperature starts to fall, start the stopwatch. Record the temperature and time in the table of Fig. 4.2. Continue to record the temperature at suitable intervals of time for a period of six minutes.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of temperature on the y-axis against time on the x-axis. Draw the smooth curve of best fit through your points.",
+        "image": "Fig. 4.2 shows a blank table with two columns, presumably for time and temperature readings. Below it, an empty grid is provided for plotting a graph."
+      },
+      {
+        "part_label": "e",
+        "part_text": "Draw a tangent to the curve at a time of 180s (3.0min) and determine the gradient G of the tangent at this point.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Carefully remove the thermometer from the beaker without removing any water.",
+        "image": null
+      },
+      {
+        "part_label": "f(i)",
+        "part_text": "Measure accurately the volume V of water used in your experiment.",
+        "image": null
+      },
+      {
+        "part_label": "f(ii)",
+        "part_text": "The mass of 1.0cm³ of water is 1.0g. State the mass M of water used.",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "The rate of fall of temperature R at time 180s is numerically equal to the gradient G with an appropriate unit. Calculate the power loss P from the beaker and water, at time 180s, using P = (Mcw + mcg)R, where the specific heat capacity cw of water is 4.2J/(g°C) and the specific heat capacity cg of glass is 0.67J/(g°C).",
+        "image": null
+      },
+      {
+        "part_label": "h",
+        "part_text": "State one precaution that you took in this experiment to ensure that your results were accurate.",
+        "image": null
+      }
+    ]
+  }
+]

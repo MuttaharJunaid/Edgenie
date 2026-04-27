@@ -1,0 +1,205 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2013/Q1",
+    "Question_text": "In this experiment, you will make measurements on some glass slides in order to determine the density of the glass. You have been provided with a stack of glass slides, a single glass slide, a 30 cm ruler, a card which gives information about the single slide. You also have access to a top-pan balance. Do not remove any slides from the stack.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 shows the stack of slides. Determine accurate values for the length l, the width w and the height h of the stack of slides. l = w = h =",
+        "image": "Fig. 1.1 shows a three-dimensional representation of a rectangular stack of glass slides with a central rectangular cut-out. The overall length of the stack is labeled 'l', the width 'w', and the height 'h' using dashed lines and arrows to indicate the extent of each dimension."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure the mass M of the stack of slides. M =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the density ρ of the stack of slides using the formula ρ = M / (lwh) ρ =",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The thickness t and the mass m of the single slide are written on the card. Write down the values of t and m that are on the card. t= m =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Estimate the number of slides in the stack by two methods. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Comment on the values obtained in (ii). Explain your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2013/Q2",
+    "Question_text": "In this experiment, you will investigate the reflection of light by a plane mirror. You have been provided with a plane mirror in a holder, an illuminated slit, a protractor.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Fig. 2.2 is on page 5 of your question paper. On Fig. 2.2, draw a normal to the line XY at the point M and below the line XY,",
+        "image": "Fig. 2.2 displays a horizontal line segment with three distinct points marked and labeled: 'X' on the left, 'M' in the center, and 'Y' on the right."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "draw a line from M at an angle of 40° to the normal, towards the bottom left-hand side of the page. Label this line L.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Place the front surface of the mirror along the line XY with the reflective surface facing the bottom of the page. Position the light source and slit so that a ray of light passes along the line L towards M.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Mark two points on the reflected ray. Choose the points so that the reflected ray can be drawn as accurately as possible. Label the points P1 and P2.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Remove the mirror. Draw a line through P1 and P2 that extends above XY. Label this line R1.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 2.2, draw a line through M at an angle of 20° to the line XY, as shown in Fig. 2.1. Place the front of the mirror along this new line with the reflective surface facing the bottom of the page. Again position the light source and slit so that a ray of light passes along line L towards M.",
+        "image": "Fig. 2.1 shows a line segment labeled X-M-Y. A second line segment intersects point M, forming an angle of 20 degrees with the X-M-Y line, specifically below the X-M-Y line, which represents the orientation of a mirror."
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "On Fig. 2.2, mark two points on the ray reflected from the mirror in its new position. Label these points P3 and P4.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Draw a line through P3 and P4 that meets the line R1. Label this line R2.",
+        "image": null
+      },
+      {
+        "part_label": "c(v)",
+        "part_text": "Measure the angle θ between the lines R1 and R2. θ =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2013/Q3",
+    "Question_text": "In this experiment, you will investigate the charging of a capacitor. You have been provided with a circuit consisting of a power supply, a resistor, a capacitor, a switch, a voltmeter. You have also been provided with a stopwatch. Do not disconnect any components in the circuit, or adjust the power supply.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Charge",
+      "Electromotive Force & Potential Difference",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a circuit diagram of the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Close the switch to discharge the capacitor. Record the reading V0 on the voltmeter. V0 =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate V0 / 2. V0 / 2 =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Open the switch and start the stopwatch. Stop the stopwatch when the reading on the voltmeter is V0 / 2. Close the switch. Determine the average time t taken for the reading on the voltmeter to fall to V0 / 2. t =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2013/Q4",
+    "Question_text": "In this experiment, you will investigate the equilibrium of a mass suspended by two springs. You have been provided with a rod to which two springs are attached, a stand, boss and clamp to hold the rod, a spring identical to the other springs, a 100 g mass hanger and five 100g slotted masses, a 30 cm ruler.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Equilibrium",
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 4.1 shows the single spring. Measure the length l of the unstretched coil of the spring, as shown in Fig. 4.1. l =",
+        "image": "Fig. 4.1 shows a single coiled spring. A horizontal dashed line indicates the measurement of its unstretched length 'l' across the coils."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The two-spring system has been set up as shown in Fig. 4.2. Three distances y, p and L are shown on Fig. 4.2. Measure",
+        "image": "Fig. 4.2 depicts a system where a horizontal rod is supported. Two coiled springs are attached to the rod at an angle, converging to a central knot. A mass hanger, loaded with slotted masses, is suspended from this knot. Key lengths are labeled: 'y' for the vertical distance from the knot to the bottom of the rod, 'p' for the horizontal distance from the knot to where the right-hand spring meets the bottom of the rod, and 'L' for the stretched length of the right-hand spring coil. The illustration includes labels for 'rod', 'spring', 'loop', 'knot', and 'mass hanger'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the vertical distance y from the knot to the bottom of the rod, y =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the distance p from the knot to the point where the right-hand spring touches the bottom of the rod, p =",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "the stretched length L of the coil of the right-hand spring. L =",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Determine the extension x of the spring, using the formula x = L - l x =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Determine the vertical force F produced by the right-hand spring, using the formula F = kxy / p where k = 0.25 N/cm, and x, y and p are measured in cm. F=",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Repeat (b) and (c) for a range of slotted masses added to the mass hanger. Record in a table the total mass M suspended from the two-spring system and values for y, p, L, x and F. Also include your results from (b) and (c).",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Using the grid opposite, plot a graph of F/N against M/g. Draw a straight line of best fit through your points.",
+        "image": "An empty graph grid, composed of many small squares, occupies the entirety of page 11, prepared for plotting data points and drawing a line of best fit."
+      },
+      {
+        "part_label": "f",
+        "part_text": "Determine the gradient of your line. gradient =",
+        "image": null
+      }
+    ]
+  }
+]

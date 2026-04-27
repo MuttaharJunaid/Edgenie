@@ -1,0 +1,621 @@
+[
+  {
+    "QuestionNumber": "October/November/2013/Q1",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money",
+      "Divide quantity by ratio"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Amy buys 3 drinks at $1.86 each and 1 drink for $2.04. She pays for the 4 drinks with a $10 note. How much change should she receive?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "$180 is shared between Ali and Ben so that Ali's share : Ben's share = 4 : 5. Find Ali's share.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions",
+      "Use operations with decimals"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 3 1/4 - 1 4/5.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 3.01 × 0.02 .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q3",
+    "Question_text": "f(x) = 2x - 6",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate f(-1/2).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find f⁻¹(x).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units",
+      "Use 24-hour clock",
+      "Order by magnitude",
+      "Recognize equivalence",
+      "Convert between forms"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A journey started at 0744 and finished at 11 32. How long, in hours and minutes, did the journey take?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Arrange these values in order, starting with the smallest. 4/9, 2/5, 44%",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q5",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the diagram, two small triangles are shaded. Shade one more small triangle, so that the diagram will then have one line of symmetry.",
+        "image": "A large equilateral triangle divided into 16 smaller equilateral triangles forming a larger triangular shape. Two non-adjacent small triangles are initially shaded, one on the bottom row and one slightly above right from the bottom left corner. The task is to shade one more to achieve a single line of symmetry."
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the diagram, two small squares are shaded. Shade two more small squares, so that the diagram will then have rotational symmetry of order 2.",
+        "image": "A 4x4 grid of squares. Two squares are initially shaded: one in the top-left corner (row 1, col 1) and another in the middle-right area (row 3, col 4). The task is to shade two more squares to achieve rotational symmetry of order 2."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q6",
+    "Question_text": "y is inversely proportional to x. Given that y = 20 when x = 2, find y when x = 5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form",
+      "Calculate with standard form"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write the number 35000000 in standard form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Giving your answer in standard form, evaluate (4.2 × 10⁻²) / (3 × 10⁴).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q8",
+    "Question_text": "Solve the equation (3x + 1)/2 - x/3 = 1.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve fractional equations with numerical and linear algebraic denominators",
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q9",
+    "Question_text": "By making suitable approximations, estimate the value of (√35.78 × √1005) / 0.3012. Show clearly the approximate values you use.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates",
+      "Round to accuracy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q10",
+    "Question_text": "Find one value of x that satisfies both x > 4 and 17 - 4x > 2 - x.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities",
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q11",
+    "Question_text": "In the diagram, AÔB = 46°, correct to the nearest degree, AÔC = 162°, correct to the nearest degree.",
+    "image": "A diagram with three rays originating from a central point O. The rays are labeled C, B, A in a clockwise direction. The angle AÔB is marked as 46 degrees and AÔC is marked as 162 degrees.",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds",
+      "Find bounds of calculations"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the lower bound for AÔB.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the lower bound for BÔC.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q12",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand negative indices",
+      "Understand zero indices",
+      "Use rules of indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate (5/3)⁻².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Simplify (9x⁵ / 6x⁶)⁰.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Simplify (2x³y) / (6xy²).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q13",
+    "Question_text": "Solve the simultaneous equations. 4x - 3y = 14 2x + y = -3",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q14",
+    "Question_text": "The times taken by each of 120 runners to react to the starting gun were recorded. The cumulative frequency curve summarises the results.",
+    "image": "A cumulative frequency graph showing 'Time (seconds)' on the x-axis (0 to 2) and 'Cumulative frequency' on the y-axis (0 to 120). A smooth curve starts at (0,0) and rises, passing through approximately (1, 50) and ending at (2, 120).",
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the upper quartile.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the 40th percentile.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the number of students who took less than 1.5 seconds.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q15",
+    "Question_text": "The diagram shows the three lines x = 1, y = 1 and x+y=4 and the seven points O, A, B, C, D, E and F.",
+    "image": "A coordinate plane with x and y axes ranging from -4 to 4. Seven points are plotted: O(0,0), A(2,1), B(4,0), C(4,2), D(1,3.5), E(1,2), F(2.5,1.5). Three lines are drawn: a vertical dashed line x=1, a horizontal dashed line y=1, and a solid diagonal line x+y=4.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Which of these seven points lie in the region defined by x+y > 4?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Which one of these seven points lies in the region defined by x<1, y>1 and x+y<4?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Given that O is (0, 0) and C is (4, 2), find the inequality that defines the region below the line that passes through O and C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q16",
+    "Question_text": "[Volume of a sphere = ⁴⁄₃πr³] Three spheres, each of radius 2a cm are placed inside a cylinder of radius 3a cm and height 12a cm. Water is poured into the cylinder to fill it completely. The volume of water is kπa³ cm³. Find the value of k.",
+    "image": "A diagram showing a vertical cylinder. Inside, three spheres are stacked vertically, touching the sides and each other. The cylinder has a radius labeled '3a' and a total height labeled '12a'. Each sphere has a radius of '2a'.",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Carry out calculations and solve problems involving surface areas and volumes of compound solids and parts of solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q17",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Factorise 25t² – 4.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Factorise completely 6r²H - 2r²h .",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Factorise completely 8xy + 4x – 6y – 3.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q18",
+    "Question_text": "In an experiment with a group of snails, the distance moved in one minute by each snail was recorded. Some of the results are shown in the table and illustrated in the histogram.",
+    "image": "A combined table and histogram. The table shows 'Distance (x centimetres)' classes (2<x<3, 3<x<4, 4<x<5, 5<x<7, 7<x<9) and corresponding 'Frequency' (6, 9, 12, p, 4). The histogram plots 'Distance (cm)' on the x-axis (0 to 10) and 'Frequency density' on the y-axis (0 to 12). Bars are drawn for the given frequencies, with a gap for the 5<x<7 class.",
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Calculate with frequency density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Use the histogram to find the value of p.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete the histogram.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "One snail is chosen at random. Find the probability that this snail did not move more than 4 cm.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q19",
+    "Question_text": "P is (-1, 3) and Q is (5, –1).",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment",
+      "Calculate the length of a line segment"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the coordinates of the midpoint of PQ.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the gradient of the line PQ.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Given that the length of PQ = 2√n units, where n is an integer, find the value of n.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q20",
+    "Question_text": "The diagram shows triangles A and B.",
+    "image": "A coordinate plane with x and y axes. Triangle A has vertices at (1,1), (3,1), and (1,3). Triangle B has vertices at (2,1), (4,1), and (4,3). Both are right-angled triangles.",
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Triangle A is mapped onto triangle C by the transformation T. T is a rotation, centre the origin, through 270° clockwise. On the diagram, draw triangle C.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find the matrix that represents T.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q21",
+    "Question_text": "The numbers 2, 3, 3, 4, 4, 4 are written on six cards. Two cards are chosen, at random, without replacement, to form a 2-digit number. The first card chosen shows the number of Tens. The second card chosen shows the number of Units. Expressing each answer in its simplest form, find the probability that the two cards show",
+    "image": "Six cards are displayed, showing the numbers 2, 3, 3, 4, 4, 4. Below them are two empty boxes labeled 'First card (Tens)' and 'Second card (Units)'.",
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams",
+      "Calculate probability of single event"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "a number greater than 20,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the number 33,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "the number 43 or the number 32.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q22",
+    "Question_text": "In the diagram, the points A, B, C and D lie on the circle centre O. TA and TB are tangents touching the circle at A and B respectively. AÔB = 132°, AĈD = 59° and AOC is a straight line.",
+    "image": "A circle with center O. Points A, B, C, D are on the circumference. Two lines, TA and TB, are drawn as tangents to the circle at A and B, respectively. The angle AÔB is marked 132°. The angle AĈD is marked 59°. A line passes through A, O, and C, indicating AOC is a straight line (a diameter).",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Use circle symmetry properties: equal chords equidistant from centre, perpendicular bisector of chord through centre, tangents from external point equal",
+      "Calculate unknown angles using ... triangle sum (180°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find ATB.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find BDA.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find BDC.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Find OBD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q23",
+    "Question_text": "The first four lines of a pattern of numbers are shown below. 1st line 3² – 1² = 8 × 1 2nd line 5² – 1² = 8 × (1+2) 3rd line 7² – 1² = 8 × (1+2+3) 4th line 9² – 1² = 8 × (1+2+3+4)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the 7th line of the pattern.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down an expression, in terms of n, to complete the nth line of the pattern.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using the nth line of the pattern, show that 1 + 2 + 3 + 4 + ... + n = n(n + 1)/2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q24",
+    "Question_text": "The diagram at the bottom of the page shows triangle ABC.",
+    "image": "A large triangle labeled ABC.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles",
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure BÂC.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On the diagram, construct the locus of points, inside the triangle ABC, that are equidistant from A and B,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "equidistant from AB and BC.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "These two loci meet at the point P. Label the point P on the diagram and measure CP.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q25",
+    "Question_text": "The diagram is the speed-time graph of a car's journey.",
+    "image": "A speed-time graph. The x-axis is 'Time (t seconds)' with marks at 0, 15, and k. The y-axis is 'Speed (m/s)' with marks at 0 and 20. The graph shows a line segment from (0,0) to (15,20), then a horizontal line segment from (15,20) to an unknown point, and finally a downward sloping line segment from that point to (k,0).",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Calculate distance travelled as area under a speed–time graph",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the speed when t = 12.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the distance travelled by the car from t = 0 to t = 15.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The distance travelled by the car from t = 0 to t = k is 750m. Find k.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The retardation of the car is 2m/s². Find the number of seconds it takes to slow down and stop.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q26",
+    "Question_text": "In the diagram, AB is parallel to DC and ADB = BCD.",
+    "image": "A quadrilateral ABCD. Side AB is parallel to side DC. The length of AB is 4, AD is 4.2, and BD is 6. An angle mark indicates that angle ADB is equal to angle BCD.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°",
+      "Calculate lengths of similar shapes",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why triangles ABD and BDC are similar.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "AB = 4cm, BD = 6cm and AD = 4.2 cm. Calculate BC.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Write down the value of (area of triangle ABD) / (area of triangle BDC).",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+FROM python:3.11-slim AS builder
+
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y \
+    gcc g++ libpq-dev libffi-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements/base.txt requirements/base.txt
+COPY requirements/production.txt requirements/production.txt
+RUN pip install --no-cache-dir -r requirements/production.txt
+
+COPY . .
+
+RUN python manage.py collectstatic --noinput 2>/dev/null || true
+RUN mkdir -p /app/data /app/staticfiles /app/classification_model/output4
+
+EXPOSE 8000
+
+CMD ["gunicorn", "edgenie.wsgi:application", "--bind", "0.0.0.0:8000", "--workers", "4", "--timeout", "120"]

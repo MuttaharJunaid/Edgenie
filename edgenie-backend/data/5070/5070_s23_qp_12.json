@@ -1,0 +1,446 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "A sample of iodine is at room temperature and pressure. Which statement about the particles in the sample is correct?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Structures of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Element Z, nucleon number 31, forms an ion Z³¬. Where is Z found in the Periodic Table?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Naturally occurring bromine has a relative atomic mass of 80 and consists entirely of two isotopes of relative atomic masses 79 and 81. What can be deduced about naturally occurring bromine from this information only?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.3 Isotopes",
+    "Sub_topic": [
+      "Relative atomic mass from isotopes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Element X and element Y react together to form a compound. The electronic configurations of X and Y are X = 2,8,3 and Y = 2,6. Which row shows the electron transfer that takes place and the type of compound formed?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions",
+      "Formation of ionic bonds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Which molecule has the largest number of electrons involved in covalent bonds?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "X is the arrangement of bonds around a carbon atom in graphite. Y is the arrangement of bonds around a carbon atom in diamond. Z is the arrangement of bonds around a silicon atom in silicon(IV) oxide, SiO2. Which arrangements of bonds are the same?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "What is the equation for the reaction between sodium carbonate and dilute nitric acid?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which statements about relative atomic mass and relative molecular mass are correct?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative atomic mass",
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Aqueous hydrogen peroxide, H2O2, decomposes slowly at 25 °C. 2H2O2(aq) → 2H2O(l) + O2(g) The decomposition reaction takes place faster when a catalyst is added. A student adds a small amount of catalyst to 10cm³ of 1.0mol/dm³ H2O2(aq) and collects the gas formed. The volume of gas collected is 90 cm³. All measurements are at room temperature and pressure. What is the percentage yield of O2(g)?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The diagram shows the structures of the atoms of two elements, X and Z. X and Z are not the atomic symbols for these elements. The elements combine to form a compound. What is the mass of one mole of this compound?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Which compound contains 45.2% nitrogen by mass?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formulae of elements and compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Aqueous copper(II) sulfate is electrolysed using copper electrodes. The current is constant and the anode is weighed at regular time intervals. Which graph is obtained when the mass of the anode is plotted against time?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products in copper(II) sulfate electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "What is a chemical product of a hydrogen–oxygen fuel cell?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.2 Hydrogen–oxygen fuel cells",
+    "Sub_topic": [
+      "Hydrogen–oxygen fuel cell"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Hydrogen can be produced by reacting methane with steam. CH4 + 2H2O → CO2 + 4H2 Using the bond energies in the table, what is the enthalpy change of reaction, ∆H?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change using bond energies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "What is the best way of slowing down the reaction between magnesium and sulfuric acid?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "The volume of gas produced by the reaction of 100cm³ of hydrochloric acid with an excess of calcium carbonate is measured in two experiments. The volumes of gas are measured at r.t.p. and the results are shown. Which one change in conditions to experiment 1 gives the results for experiment 2? Assume all other conditions are unchanged.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Hydrogen is made industrially by the reaction shown. CO(g) + H2O(g) ⇌ CO2(g) + H2(g) ΔΗ = –41 kJ/mol Statements about this industrial process are given. Which statements are correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "The table refers to two important industrial gaseous reactions. Which catalysts are correctly stated?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Haber process equation",
+      "Contact process equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Iron(II) ions react with chlorine. 2Fe2+(aq) + Cl2(g) → 2Fe³+(aq) + 2Cl-(aq) Which statement about this reaction is correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Identifying redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Which reagent and observation describes the test for a reducing agent?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Identifying in redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Compound X is a gas at room temperature. X dissolves in water to give a solution with a pH of 4. Which statement about compound X is correct?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Which statement about hydrochloric acid is correct?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "The addition of calcium hydroxide to soil reduces its acidity but also reduces the efficiency of fertilisers. Which two equations explain this?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Which anions are contained in salts that are always soluble in water?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "The element phosphorus, P, is immediately below nitrogen in the Periodic Table. It forms an oxide with the empirical formula P2O5. From the position of phosphorus in the Periodic Table, the element is expected to be ......1...... and the bonds in its oxide to be ......2....... Which words correctly complete gaps 1 and 2?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Predicting properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Trends in groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "The table shows some properties of transition elements and the reasons why they have these properties. Which row shows a correct property and the reason why transition elements show this property?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.4 Transition elements",
+    "Sub_topic": [
+      "Properties of transition elements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Which equation is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Metal X reacts with cold water to form a gas. Zinc displaces metal Y from solutions of its salts. The carbonate of metal Z is insoluble. What could be the identities of X, Y and Z?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Which statement about alloys is correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.3 Alloys and their properties",
+    "Sub_topic": [
+      "Alloy definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Pieces of magnesium can be attached to the steel hull of a ship to prevent rusting. This is sacrificial protection. Which statements about sacrificial protection are correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Sacrificial protection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Why is carbon used in water purification?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Which statement about air pollutants is correct?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Sources of air pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "What is the structural formula of propyl methanoate?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "Which statement about ethane is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Properties of alkanes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "Isoprene is an alkene which is commonly found in plants. Which properties does isoprene have?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Bonding in alkenes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "The structure of an ester is shown. Which two compounds react to form this ester?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reaction with alcohol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "25.0 cm³ of 1.0mol/dm³ sodium hydroxide is titrated with dilute sulfuric acid, using a suitable indicator. 25.0 cm³ of the sulfuric acid is required to reach the end-point. What is the concentration of the sulfuric acid and which indicator is used?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "The results of a paper chromatography experiment are shown. X is an aqueous solution of a salt of a Group I element. Y is an aqueous solution of a salt of a transition element. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Aqueous sodium hydroxide is used to identify the ions present in aqueous solutions of compounds Q and R. The results are shown. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  }
+]

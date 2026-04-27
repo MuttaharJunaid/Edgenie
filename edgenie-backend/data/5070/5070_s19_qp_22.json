@@ -1,0 +1,634 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Which particle has only eighteen protons?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Proton number / atomic number"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Which particle is used to test for a reducing agent?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidising agent definition",
+      "Reducing agent definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Which particle is an ion that contains only ten electrons?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Electronic configuration of elements and ions",
+      "Ion and ionic bonds",
+      "Formation of cations and anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Estimate the atomic radius of Nh.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Predicting properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aii",
+    "Question_text": "Explain, using data from the table, why it is difficult to estimate the melting point of nihonium.",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Predicting properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Explain why boron has a high melting point.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Similarity between diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Describe the composition of the electrolyte used in this electrolysis.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition",
+      "Anode, cathode and electrolyte"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2cii",
+    "Question_text": "Name the material used for the electrodes in this electrolysis.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Anode, cathode and electrolyte"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ciii",
+    "Question_text": "Construct equations for the reactions taking place at the: negative electrode, positive electrode.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products at cathode and anode",
+      "Ionic half-equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Which particle is oxidised? Explain your answer.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidation definition",
+      "Identifying in redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e",
+    "Question_text": "Explain why a piece of aluminium in water does not react.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Unreactivity of aluminium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2f",
+    "Question_text": "Describe how a pure sample of aluminium chloride crystals can be made from aluminium.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts",
+      "Solubility rules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Suggest one physical property of titanium.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3bi",
+    "Question_text": "Suggest the structure and bonding in TiCl4.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Formation of covalent bonds in molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3bii",
+    "Question_text": "Construct the equation, including state symbols, for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Calculate the mass of titanium made from 1000 g of TiCl4.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Outline the separation of petroleum (crude oil) into fractions such as petrol, diesel and bitumen.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fractional distillation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "State one large scale use of bitumen.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Uses of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4ci",
+    "Question_text": "Explain how the formula shows that this hydrocarbon is an alkane.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "General formulae"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4cii",
+    "Question_text": "Construct an equation to show the cracking of C12H26 to make hydrogen and at least one alkene.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Manufacture by cracking"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d",
+    "Question_text": "State and explain one advantage of using hydrogen rather than petrol as a fuel.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fossil fuels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Calculate the empirical formula of W.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Empirical and molecular formulae"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Calculate the relative formula mass of W.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "Deduce the molecular formula of W.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Empirical and molecular formulae"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "What is desalination?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6bi",
+    "Question_text": "Give the source of these two pollutants.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Harmful substances",
+      "Beneficial substances",
+      "Substances in natural water"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6bii",
+    "Question_text": "Name one environmental effect caused by these pollutants in river water.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Harmful substances",
+      "Beneficial substances",
+      "Substances in natural water"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6ci",
+    "Question_text": "Describe how insoluble solids are removed from river water.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6cii",
+    "Question_text": "Name the substance used to remove bad tastes and odours from river water.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6ciii",
+    "Question_text": "Name the substance used to disinfect river water so it is safe to drink.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "Describe how you would know when all the ammonium iodide has decomposed.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Changes of state in kinetic particle theory"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Calculate the volume of gas, measured at room temperature and pressure, formed when 2.90 g of ammonium iodide is completely decomposed.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7c",
+    "Question_text": "Describe a chemical test for the iodide ion.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7d",
+    "Question_text": "Construct the ionic equation, including state symbols, for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7e",
+    "Question_text": "Solid ammonium iodide does not conduct electricity. Aqueous ammonium iodide conducts electricity. Explain these two observations.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Properties of ionic compounds",
+      "Giant lattice structure of ionic compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Explain why it is important to have a closed system to establish a dynamic equilibrium.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Equilibrium in closed system"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Predict and explain what will happen, if anything, to the composition of the equilibrium mixture.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8ci",
+    "Question_text": "Suggest why the position of equilibrium moves to the right.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8cii",
+    "Question_text": "Explain why the rate of reaction decreases.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "Draw the 'dot-and-cross' diagram for a molecule of O2.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Formation of covalent bonds in molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8e",
+    "Question_text": "Construct an equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8f",
+    "Question_text": "Describe the difference between a strong acid and a weak acid.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Strong acid definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Complete the equation to show the formation of poly(chloroethene).",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Addition polymer structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9bi",
+    "Question_text": "Complete the equation to show the complete combustion of poly(chloroethene).",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Combustion of alcohols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9bii",
+    "Question_text": "Suggest why the combustion of poly(chloroethene) will contribute to the formation of acid rain.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Adverse effects of pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9ci",
+    "Question_text": "Give one large scale use of nylon.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Plastics from polymers",
+      "Properties and disposal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9cii",
+    "Question_text": "Draw the partial structure of this polyamide. Show two repeat units.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Condensation polymer structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9d",
+    "Question_text": "Use the kinetic particle theory to describe the changes in movement and arrangement of the particles when a liquid cools to become a solid.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Changes of state in kinetic particle theory"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9e",
+    "Question_text": "Explain, in terms of structure and bonding, why copper has a high melting point.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Properties of metals",
+      "Metallic bonding definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "Explain why cyclobutanol is not a hydrocarbon.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Hydrocarbons definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "Explain why butanoic acid is a saturated compound.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Saturated compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "Describe a chemical test that can distinguish cyclobutanol from butanoic acid.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d",
+    "Question_text": "Calculate the percentage by mass of carbon in cyclobutanol.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10e",
+    "Question_text": "Identify compound X.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reaction with alcohol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10eii",
+    "Question_text": "Identify the reagent used in step 1.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Manufacture of ethanol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10eiii",
+    "Question_text": "Identify the reagent used in step 2.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reaction with alcohol"
+    ],
+    "Parts": []
+  }
+]

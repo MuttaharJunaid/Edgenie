@@ -1,0 +1,431 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q1",
+    "Question_text": "A skier sets off from rest and accelerates uniformly at 3.4m/s² in a straight line for 5.0s.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Distance-Time Graphs",
+      "Speed-Time Graphs",
+      "Resultant Forces",
+      "Newton's First Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the speed of the skier after 5.0 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "At 5.0s, the skier stops accelerating and travels on for a further 10.0s at a constant speed. State the size of the resultant force acting on the skier during these 10.0s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 1.1, sketch a speed-time graph for the skier during the whole 15.0s.",
+        "image": "A speed-time graph titled 'Fig. 1.1'. The x-axis is 'time/s' ranging from 0 to 20 with major ticks at 4, 8, 12, 16, 20. The y-axis is 'speed m/s' ranging from 0 to 20 with major ticks at 5, 10, 15, 20. The graph grid is 5x5 small squares per major unit, and the user is expected to sketch a line on this graph."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State how the distance travelled by the skier can be determined using the speed-time graph.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q2",
+    "Question_text": "A skateboarder of mass 45 kg is at the top of a ramp. Fig. 2.1 shows the skateboarder and the ramp.",
+    "image": "Fig. 2.1 (not to scale) shows a skateboarder at the top of a U-shaped ramp. The skateboarder is a stick figure standing at the edge of the ramp. The ramp is depicted as a curved surface with a horizontal platform at the top. A vertical arrow indicates a height of '1.8 m' from the starting point of the curve to the horizontal level of the skateboarder.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Gravitational Potential Energy",
+      "Energy Stores & Transfers",
+      "Resultant Forces",
+      "Newton's First Law",
+      "Circular Motion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The skateboarder moves off and she descends vertically through 1.8m. The gravitational field strength g is 10N/kg. Calculate the change in gravitational potential energy of the skateboarder.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the name of two forms of energy that increase as she descends.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "At the lowest point on the ramp, the skateboarder is travelling at a constant speed along a path which is part of a vertical circle. State the direction of the resultant force on the skateboarder at this point,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "how the weight of the skateboarder compares with the upward force that the ramp exerts on her.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q3",
+    "Question_text": "When the lid of a freezer is opened, it pivots about the hinge at the back of the freezer. The handle is at the front. Fig. 3.1 is a side view of the freezer.",
+    "image": "Fig. 3.1 shows a side view of a freezer lid. The lid is represented by a horizontal rectangle. A 'hinge' is indicated at the right end. A 'handle' is indicated at the left end. Two dashed lines above the lid show the lid in an open position, pivoting around the hinge. A force 'F' is applied vertically upwards at the 'handle'. The distance from the hinge to the handle is labeled as '0.70 m'. The lid is also labeled with a dashed line indicating its original position and 'lid' is labeled on both the original and open positions.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The handle is 0.70m from the hinge. The lid has a mass of 2.0 kg. The gravitational field strength g is 10N/kg. Calculate the weight of the lid.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)1",
+        "part_text": "The lid is uniform and its centre of mass is at its centre. The weight of the lid produces a moment about the hinge. Calculate the moment about the hinge when the lid is closed.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)2",
+        "part_text": "The moment required to open the lid is greater than the value calculated in (a)(ii)1. Suggest one reason for this.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The lid is closed. To open the lid, a force F is applied to the handle as shown in Fig. 3.1. The direction of F is vertically upwards and F is the smallest possible force that opens the lid. A force on the handle in any other direction must be larger than F in order to open the lid. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q4",
+    "Question_text": "Fig. 4.1 shows a kettle containing water placed on the burner of a gas cooker. The gas burner is lit at time t = 0. At t = 250s the temperature of the water is 100°C, the boiling point of water.",
+    "image": "Fig. 4.1 shows a kettle on a gas cooker. The kettle is a traditional stovetop kettle with a handle and spout, placed on top of a gas hob with visible flames below it, indicating it's being heated.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Heat Capacity",
+      "Temperature & Pressure",
+      "Particle Model",
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by boiling point.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 4.2 shows how the temperature of the water changes with time t. The kettle contains 1.5kg of water which has a specific heat capacity of 4200J/(kg°C). Using Fig. 4.2, determine the increase in the internal energy of the water between t = 0 and t = 250 s.",
+        "image": "A graph titled 'Fig. 4.2' showing 'temperature/°C' on the y-axis (0-120, major ticks at 20) against 't/s' on the x-axis (0-250, major ticks at 50). The graph shows a curve starting from approximately (0, 20) and increasing to (250, 100). The curve is steeper at the beginning and flattens out towards the end, suggesting a decreasing rate of temperature increase."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Thermal energy (heat) is transferred to the water at a constant rate but the temperature of the water increases at a rate that is not constant, as shown in Fig. 4.2. Explain why the temperature increases in this way.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "When the temperature reaches 100°C, the kettle is left on the burner. Thermal energy is still supplied to the water. The water boils as the molecules form bubbles and rise to the surface. State what happens to the temperature of the water.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain, in terms of the molecules, why it is necessary to supply thermal energy in order to keep the water boiling.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q5",
+    "Question_text": "Gas is trapped in a syringe by a piston. Fig. 5.1 shows that the narrow end of the syringe is sealed.",
+    "image": "Fig. 5.1 shows a diagram of a syringe with gas trapped inside. The syringe consists of a cylindrical tube with a 'sealed end' on the left and a 'piston' on the right. The region between the sealed end and the piston is labeled 'gas'. A scale is marked along the syringe barrel. The piston is partially extended.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "When the gas is at a pressure of 1.1 × 10^5 Pa, it occupies a volume of 40 cm³. Explain, in terms of the molecules, how the gas exerts a pressure on the inside of the syringe.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The piston is slowly pulled to the right until the volume occupied by the gas is 110cm³. The temperature of the gas does not change. Calculate the new pressure of the gas.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q6",
+    "Question_text": "In a cathode-ray oscilloscope (c.r.o.), a beam of electrons is produced by a filament at one end of an evacuated glass tube. The electrons are then accelerated and strike a screen at the other end of the tube.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "Electrical Charge",
+      "Magnetic Fields",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the electrons are produced by the filament and how they are then accelerated.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the glass tube is evacuated.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The instruction booklet for a c.r.o. states that strong magnets must not be placed close to the c.r.o. Explain why a strong magnet close to the c.r.o. deflects the electron beam.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q7",
+    "Question_text": "Plutonium-238 is a radioactive isotope that decays by alpha-particle emission. It also emits gamma-rays.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission",
+      "Dangers of Radiation",
+      "Detection of Radioactivity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The nuclide notation for plutonium-238 is 238/94 Pu. Describe the structure and composition of a neutral atom of plutonium-238.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)1",
+        "part_text": "Alpha-particles, beta-particles and gamma-rays all cause ionisation. The ionisation of substances in the human body can be hazardous. State how the ionising effect of beta-particles compares with the ionising effect of alpha-particles,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)2",
+        "part_text": "the ionising effect of gamma-rays.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "State two precautions that are taken when radioactive substances are moved in a safe way.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "(This part refers to the second precaution for b(ii).)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q8",
+    "Question_text": "A spring is taken from a drawer in a physics laboratory.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Pressure in a Liquid",
+      "Density",
+      "Resultant Forces",
+      "Scalars & Vectors",
+      "Atmospheric pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Fig. 8.1 is the extension-load graph for the spring. Using Fig. 8.1, determine the load on the spring when its extension is 4.9 cm.",
+        "image": "A graph titled 'Fig. 8.1' showing 'extension/cm' on the y-axis (0-12, major ticks at 2) against 'load/N' on the x-axis (0-1.6, major ticks at 0.2). A straight line passes through the origin up to a point marked 'X' at approximately (1.2 N, 9.6 cm). The line represents the extension-load relationship for the spring."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The point X on Fig. 8.1 is the limit of proportionality for the spring. On Fig. 8.1, sketch a line to show how the extension-load graph might continue after X.",
+        "image": "The same graph as in a(i), with point X marked, indicating where a new line should be sketched."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A rectangular, plastic block is suspended from the lower end of the spring. Fig. 8.2 shows that the bottom 3.5 cm of the plastic block is in the water in a beaker. The density of water is 1000kg/m³ and the gravitational field strength g is 10N/kg. The base of the plastic block is a square with sides of 4.0 cm. Calculate the pressure due to the water at a depth of 3.5cm below the surface of the water.",
+        "image": "Fig. 8.2 (not to scale) shows a plastic block suspended by a spring into a beaker of water. The spring is attached to a 'support'. The 'plastic block' is partially submerged in 'water'. A dashed line indicates that the bottom '3.5 cm' of the block is in the water. The block is rectangular."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the upward force on the base of the block due to the pressure of the water.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "In Fig. 8.2, the extension of the spring is 4.9 cm. Using the answer from (a)(i) and the answer from (b)(ii), determine the weight of the block.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In the equipment shown in Fig. 8.2, the pressure of the atmosphere is transmitted through the water. The total pressure in the water at a depth of 3.5cm is larger than the pressure due to the water alone. Explain why, in this experiment, atmospheric pressure does not affect the position of the plastic block in the water.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Force is a vector quantity and pressure is a scalar quantity. State how a vector quantity differs from a scalar quantity.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The beaker in Fig. 8.2 is gradually moved upwards so that more of the plastic block is in the water. Explain what happens to the forces that act on the block.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q9",
+    "Question_text": "A vertical solenoid (long coil) with an iron core is held in a wooden clamp above a laboratory bench. The solenoid is connected in series with a battery, a switch S, an ammeter and a variable resistor. There is a voltmeter in parallel with the solenoid. Fig. 9.1 represents this apparatus.",
+    "image": "Fig. 9.1 shows a circuit diagram. A 'battery' (represented by multiple cells in series) is connected to a 'switch S', an 'ammeter A', and a variable resistor, all in series. This series combination is connected to a 'solenoid' which has an 'iron core' inside it. A 'voltmeter V' is connected in parallel across the solenoid.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Combined Resistance",
+      "Electrical Power",
+      "Magnetic Effect of a Current",
+      "Magnetic Fields",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A student closes switch S and a current in the circuit produces a reading on the ammeter. State what is meant by current.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The battery consists of five 1.5V cells in series. The reading on the ammeter is 4.0A. State the size of the electromotive force (e.m.f.) of the battery.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the total resistance of the series circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The reading on the voltmeter is 6.5 V. Calculate the power dissipated in the solenoid.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The solenoid is made of copper and the student notices that, as time passes, the solenoid becomes extremely warm. State and explain the effect of this temperature increase on the ammeter reading.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The current in the solenoid magnetises the iron core so that the lower end of the core is an N-pole. On Fig. 9.1, draw the pattern and indicate the direction of the magnetic field in the region surrounding the iron core.",
+        "image": "The circuit diagram from Fig. 9.1, on which magnetic field lines should be drawn around the solenoid with an iron core, indicating direction and pattern, consistent with the lower end being an N-pole."
+      },
+      {
+        "part_label": "c(ii)1",
+        "part_text": "The student holds an iron cylinder against the bottom surface of the iron core in the solenoid. When he releases the iron cylinder, it stays in contact with the iron core. Explain why the iron cylinder does not fall.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)2",
+        "part_text": "The switch S is opened. State and explain whether the iron cylinder remains in contact with the iron core.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2016/Q10",
+    "Question_text": "A laser produces a beam of red light.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Refraction of Light",
+      "Snell's Law",
+      "Dispersion of Light",
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Investigating Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The red light from the laser has a frequency of 4.3 × 10^14 Hz. State the speed of light in air.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the wavelength of this red light in air.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Red light from the laser strikes one side of a glass prism at an angle of incidence i. The light refracts towards the normal as it enters the prism. Fig. 10.1 shows the prism, the light and a screen. State what happens to the speed of light as it enters the glass.",
+        "image": "Fig. 10.1 (not to scale) shows a ray of 'red light' from a 'laser' striking a triangular prism. The light enters the prism, refracts, then exits the prism, refracting again before striking a 'screen'. Normals are drawn at the points of incidence and emergence. The angle of refraction inside the prism at the first surface is indicated as 30°. Another angle inside the prism, between the ray and the second surface normal, is also 30°. The angle of emergence from the prism to the screen is labelled θ. The angle of incidence at the first surface is labeled 'i'."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The refractive index of the glass is 1.5. The angle of refraction in the glass, where the light enters the prism, is 30°. Calculate the angle of incidence i.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The light then passes back into the air and strikes the front of the white screen, as shown in Fig. 10.1. Calculate θ, the angle between the ray in air and the side of the prism.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The laser in (b) is replaced with a filament lamp and a slit, as shown in Fig. 10.2. A ray of white light now strikes the prism. On Fig. 10.2, draw what happens to the light as it passes through the prism and strikes the screen.",
+        "image": "Fig. 10.2 (not to scale) shows a 'filament lamp' and a slit emitting 'white light' towards a triangular prism, similar to Fig. 10.1. The light passes through the prism and is incident on a 'screen'. The task implies drawing the dispersion of white light into its constituent colors as it passes through the prism and spreads on the screen."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe what is seen on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)1",
+        "part_text": "In addition to visible light, the filament lamp also emits some infra-red radiation. This infra-red radiation is able to pass through glass. On the screen in Fig. 10.2, mark an X to indicate a place where infra-red radiation strikes the screen.",
+        "image": "The diagram from Fig. 10.2, which shows a prism and screen, on which an 'X' should be marked to indicate the location of infra-red radiation."
+      },
+      {
+        "part_label": "c(iii)2",
+        "part_text": "Infra-red radiation is often detected by using a sensitive thermometer with a bulb that has been painted black. Explain why the blackened bulb makes the thermometer a good detector of infra-red radiation.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Explain the role played by infra-red radiation in intruder alarms.",
+        "image": null
+      }
+    ]
+  }
+]

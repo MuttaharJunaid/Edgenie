@@ -1,0 +1,210 @@
+[
+  {
+    "QuestionNumber": "October/November/2012/Q1",
+    "Question_text": "A student investigates the behaviour of a vibrating spring. The spring is suspended from a horizontal rod. A mass is hung from the spring. Fig. 1.1a shows the apparatus when it is not vibrating. The mass is pulled down a small distance, as shown in Fig. 1.1b. When released, the mass vibrates up and down about its original position. The student takes readings to obtain the time T for one complete vibration.",
+    "image": "Fig. 1.1a shows a spring suspended from a horizontal rod with a mass attached to its lower end, at rest. Fig. 1.1b shows the same setup, but the mass is pulled downwards by hand ('pull'), indicating an extended position. Fig. 1.1c is a blank diagram similar to 1.1a and 1.1b, intended for drawing additional states or markings. The setup includes a 'rod', 'mass', and 'bench' for stability.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 1.1c, draw the mass at its highest position after release,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "mark the most suitable position for the student's eye when the student times the vibrations.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the mass is pulled down only a small distance before being released.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A student measures the time for the mass to complete 20 vibrations. Suggest a reason why the student times twenty vibrations rather than one.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "When the weight W of the mass is 1.0 N, the student times 20 vibrations. This is repeated four times. The following results are obtained. 8.10 s 8.02 s 7.96 s 8.05 s 7.99 s Calculate the average value of T, the time for one complete vibration.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The experiment is repeated for a range of values of W. The results are recorded in Fig. 1.2. Fig. 1.2 is a table with two columns: 'W/N' (Weight in Newtons) and 'T/s' (Time for one complete vibration in seconds). It lists values for W from 1.0 to 6.0 N, and corresponding T values for 2.0 to 6.0 N, with the value for W=1.0 N left blank.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "On Fig. 1.2, write your value of T for W = 1.0N. Use a suitable number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "On Fig. 1.3, plot a graph of T/s on the y-axis against W/N on the x-axis. Start your axes from T = 0.3s and W = 0. Draw a smooth curve of best fit.",
+        "image": "Fig. 1.3 is a large grid with grid lines, prepared for plotting a graph. It has space for an x-axis labeled 'W/N' and a y-axis labeled 'T/s', with suggested starting points of W=0 and T=0.3s for the axes."
+      },
+      {
+        "part_label": "e(iii)",
+        "part_text": "Explain whether you expect the graph to pass through the origin.",
+        "image": null
+      },
+      {
+        "part_label": "e(iv)",
+        "part_text": "Describe the relationship between T and W.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q2",
+    "Question_text": "A student investigates the effect of changing the length of a piece of resistance wire in a circuit containing a lamp. The resistance of the lamp is similar to the resistance of a 1m length of the wire. The circuit is set up as shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows an electrical circuit diagram. A 3V power source (battery symbol) is connected in series with a lamp (circle with a cross, labeled '3 V 100 mA') and a 1m resistance wire. Two crocodile clips are connected to the resistance wire, allowing the effective length of the wire in the circuit to be varied.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student checks that the circuit is working by touching together the two crocodile clips.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "State what the student observes if the circuit is working correctly.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe one possible fault that prevents the circuit working correctly.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the circuit is working correctly, the student connects the two crocodile clips close together on the wire, as shown in Fig. 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe what the student observes as the crocodile clips are slowly moved further apart on the wire.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A circuit component is based on changing the length of the wire between two contacts.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii).1",
+        "part_text": "State the name of this component.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii).2",
+        "part_text": "Draw its circuit symbol.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii).3",
+        "part_text": "The component contains a long length of wire. Explain how the component is made small.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q3",
+    "Question_text": "A teacher demonstrates a property of sound. The teacher hangs an electric bell inside a glass bell-jar, as shown in Fig. 3.1. The bell is ringing when the bell-jar is placed on the metal plate. The air can then be removed from the bell-jar using a vacuum pump.",
+    "image": "Fig. 3.1 illustrates an apparatus setup for demonstrating properties of sound. An electric bell is suspended by a string inside a glass bell-jar. The bell-jar rests on a metal plate, with a layer of grease between them to ensure an airtight seal. A tube leads from the metal plate to a vacuum pump, which can remove air from the bell-jar.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why the bell-jar must have thick walls.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the teacher puts a layer of grease between the bell-jar and the metal plate.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The students can see the bell vibrating and can hear it ringing.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe and explain what the students hear as the air is removed.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "When the air is removed, the students can still see the bell vibrating. State what this experiment demonstrates about light.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Explain why the teacher hangs the bell from string inside the bell-jar rather than standing the bell on the metal plate.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q4",
+    "Question_text": "Two students decide to compare their running shoes to see which has the better grip. They place one shoe on a board. One end of the board is lifted slowly until the shoe starts to slide, as shown in Fig. 4.1. This is repeated with a shoe from the other student.",
+    "image": "Fig. 4.1 shows an experimental setup. A running shoe is placed on a flat board. One end of the board rests on a horizontal bench, while the other end is elevated, creating an inclined plane. An arrow labeled 'lift' indicates the direction in which the board is being raised. This setup is used to demonstrate friction.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why the student lifts the end of the board slowly.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Using Fig. 4.1, measure the angle between the board and the bench. angle =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "One of the students measures the angle between the board and the bench with a protractor.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Suggest one practical difficulty that the student has in taking this measurement.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The other student does not have a protractor. Suggest how he can take measurements to determine the angle.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe how the students determine which shoe has the better grip.",
+        "image": null
+      }
+    ]
+  }
+]

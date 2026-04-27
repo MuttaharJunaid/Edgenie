@@ -1,0 +1,171 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2022/Q1",
+    "Question_text": "In this experiment you will estimate the volume of a thermometer. You are provided with: • a thermometer • a ruler.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure and record to the nearest millimetre the length I of the thermometer, and the width w of the thermometer at the 50°C mark.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the volume V of the thermometer using the equation: π V = — lw² 4 where π = 3.14.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The volume calculated in (b) is an estimate of the volume of the thermometer. Explain why: (i) the volume calculation is only an estimate",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the volume calculation is close to the actual volume of the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The thermometer contains a liquid. Suggest one reason why it is difficult to determine the volume of this liquid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2022/Q2",
+    "Question_text": "In this experiment you will investigate a pendulum. You are provided with: • a pendulum • a stop-watch • a metre rule • a stand, weight, boss and clamp. The supervisor has set up some of the apparatus as shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a diagram of the experimental setup for a pendulum. A stand with a boss and clamp holds a strong thread from which a pendulum bob is suspended. A heavy weight is placed on the bench at the base of the stand for stability. The height h1 is indicated from the bottom of the pendulum bob to the bench/floor.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure and record the height h₁ of the bottom of the pendulum bob above the floor.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "You are also provided with: • a second stand, boss and clamp • a set square. Keep the string straight and move the pendulum bob to the left. Observe that the height h of the pendulum bob above the floor increases. Continue to move the pendulum bob until it reaches a new vertical height h₂ above the floor where h₂ = h₁ + 10.0cm. Describe in detail how you use the additional apparatus to ensure that h₂ = h₁ + 10.0cm.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Release the pendulum bob from h₂ and observe it swing to the right and then return to its point of release. This is one oscillation. Determine the average time t for one oscillation. Record your measurements and show your working.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A student suggests that the average vertical speed v, measured in cm/s, of the pendulum bob as it moves from the point of release to its lowest position is calculated using the equation: 10 v = (t/4) Explain whether the student is correct by referring to the distances travelled by the pendulum bob during one oscillation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2022/Q3",
+    "Question_text": "In this experiment you will investigate a light-emitting diode. You are provided with: • a power supply • a switch • a light-emitting diode (LED) in series with a resistor • a light-dependent resistor (LDR) in series with a resistor • a voltmeter • a ruler. The supervisor has set up the circuit shown in Fig. 3.1. The LED is connected to long leads so that it can be moved.",
+    "image": "Fig. 3.1 shows an electrical circuit diagram. The circuit includes a power supply, a switch, an LED in series with a resistor, and an LDR in series with another resistor. A voltmeter is connected in parallel across the LDR and its series resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Hold the LED about 30cm above the LDR. Close the switch.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Read and record the reading on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Move the LED down, closer to the LDR. Determine the distance between the LED and the LDR at which the reading on the voltmeter begins to change from the reading given in (a)(i).",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Continue to move the LED closer to the LDR. Determine the maximum change from the reading in (a)(i) in the voltmeter reading. Show your working. Give your answer to a suitable number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A student claims that the LED is brighter at the tip, emitting more light in the X direction and less in the Y directions, as shown in Fig. 3.2.",
+        "image": "Fig. 3.2 shows a diagram of an LED with arrows indicating light emission. A larger arrow points in the X direction (horizontally) and a smaller arrow points in the Y direction (vertically), originating from the tip of the LED."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how you use the apparatus in Fig. 3.1 to show whether the student's claim is correct.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State whether the student's claim is correct. Justify your answer by taking and recording further readings from the voltmeter.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2022/Q4",
+    "Question_text": "In this experiment you will investigate the focal length of a lens. You are provided with: • a lens mounted on a slotted mass • additional slotted masses to change the height of the lens • an illuminated cross-wire object • a light source • a metre rule • a 30 cm ruler • a screen.",
+    "image": "Fig. 4.1 shows the experimental setup for investigating the focal length of a lens. On a metre rule, a light source and a cross-wire object are placed at the 100 cm mark. A lens, mounted on a slotted mass with adhesive putty, is positioned between the object and a screen at the 0 cm mark. The diagram shows light passing through the cross-wire, then the lens, to form an image on the screen.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Linear Magnification",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The supervisor has set up the apparatus as shown in Fig. 4.1. The screen is at the 0cm end of the rule. The cross-wire object is at the 100.0cm end of the rule. Switch on the light source. Adjust the position of the lens so that a sharply focused and enlarged image of the cross-wire object is seen on the screen. Describe in detail the technique that you use to adjust the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Measure and record the position of the centre of the lens on the rule and the distance x of the centre of the lens from the screen on the answer lines.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Measure: • the length d of the vertical wire of the cross-wire object as shown in Fig. 4.1 • the length D of the magnified image of this wire. Record your measurements on the answer lines.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Move the screen to the 8.0cm mark on the rule. The cross-wire object must stay at the 100.0 cm mark throughout. Adjust the position of the lens so that the image of the cross-wire on the screen is sharply focused. Measure and record the new position of the lens, the new x and the new D. Repeat (b) and (c) to obtain further values for the position of the lens, x and D for screen positions of 16.0cm, 24.0cm, 32.0cm and 40.0cm on the rule. Record your measurements in Table 4.1 with appropriate headings and units for each column. Include your measurements of the lens position, x and D from (b) and (c). In a separate column of Table 4.1, calculate the magnification m of the lens using the equation m = D/d. Use the value of d you recorded in (c).",
+        "image": "Table 4.1 is presented with columns for 'screen position on rule/cm' and 'm'. The screen positions are listed as 0, 8.0, 16.0, 24.0, 32.0, 40.0. The table is empty for data entry."
+      },
+      {
+        "part_label": "e",
+        "part_text": "On the grid on page 11, plot a graph of m on the y-axis against x on the x-axis.",
+        "image": null
+      },
+      {
+        "part_label": "f(i)",
+        "part_text": "Calculate the focal length f of the lens using the equation: f = x - 0.01 x² where x is your value of x recorded in (b). Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "f(ii)",
+        "part_text": "A student claims that the focal length f of the lens is 15.0cm. Use your value of f calculated in (f)(i) to explain whether the student's claim is correct.",
+        "image": null
+      }
+    ]
+  }
+]

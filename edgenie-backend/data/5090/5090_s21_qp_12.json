@@ -1,0 +1,456 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Functions of cell structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "A piece of plant tissue is transferred from a beaker of water into a concentrated sugar solution. Which row describes what happens?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Osmosis definition",
+      "Osmosis effects on tissues",
+      "Effects on plant tissues"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "The following statements refer to the movement of substances into and out of cells. Which statements apply to active transport?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.2 Active transport",
+    "Sub_topic": [
+      "Active transport definition",
+      "Energy for diffusion/osmosis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Which word describes an enzyme that has its active site changed by high temperature?",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.2 Effects of temperature and pH",
+    "Sub_topic": [
+      "Explain temperature/pH effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Hydrogencarbonate indicator changes colour according to the concentration of carbon dioxide present. Which test-tube shows that the rates of photosynthesis and respiration are the same?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis requirements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "What describes the upper cuticle of a leaf?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.2 Leaf structure",
+    "Sub_topic": [
+      "Leaf adaptations",
+      "Leaf structures adaptations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "A lack of certain mineral ions affects the growth of young plants. Which effects are caused by a lack of magnesium ions and a lack of nitrate ions?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.3 Mineral nutrition",
+    "Sub_topic": [
+      "Nitrate for amino acids",
+      "Magnesium for chlorophyll"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The graph shows some of the nutrients found in peanuts. A student tested peanuts with four food tests. Which row shows the results?",
+    "image": null,
+    "Unit": "UNIT 4: Biological molecules",
+    "Topic": "4.1 Biological molecules",
+    "Sub_topic": [
+      "Chemical tests for molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Which row shows factors that may contribute to famine?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Population increase effects",
+      "Habitat destruction causes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The diagram shows part of the human alimentary canal and associated organs. Which row describes the functions of parts shown in the diagram?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Digestive system regions",
+      "Functions of digestive regions",
+      "Enzyme functions products"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "How does water enter root hair cells?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.1 Uptake and transport of water and ions",
+    "Sub_topic": [
+      "Root hair function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "The diagram shows the pathway of water molecules through part of a leaf, seen under a microscope, in transverse section. Where does water evaporate?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Water evaporation in leaves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Which row describes the functions of the blood components?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.4 Blood",
+    "Sub_topic": [
+      "Blood components",
+      "Blood component functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "The diagram shows how the volume of blood in the left ventricle of a human heart changes during one heart beat. When is the left ventricle contracting?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.2 Heart",
+    "Sub_topic": [
+      "Heart structures",
+      "Heart functioning heartbeat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "The diagram represents the blood supply to the liver and to the kidneys. Which vessels contain blood with the highest and lowest concentrations of urea?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Nephron structure",
+      "Nephron functions",
+      "Urea production"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which statement is true for aerobic respiration?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.2 Aerobic respiration",
+    "Sub_topic": [
+      "Aerobic respiration definition",
+      "Aerobic respiration equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The graph shows the concentration of substance X in a person's blood, before, during and after exercise. What is substance X?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.3 Anaerobic respiration",
+    "Sub_topic": [
+      "Lactic acid during exercise"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "During exercise, a person breathes more deeply and more frequently. Which is a result of this?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Breathing mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "The diagram shows structures in a human which form and store urine. Liquids pass through tubes X, Y and Z in the directions shown by the arrows. Which statement about the volume of liquid passing through Y in one day is correct?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Urinary structures functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Which response will happen if a person walks into a cold environment?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Temperature regulation processes",
+      "Skin structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "The diagram shows the human brain. What is the name of the shaded part of the brain?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "CNS and PNS"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "What happens in the eye to produce the pupil reflex to bright light?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Pupil reflex explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "The diagram shows three positions, X, Y and Z, where nerve impulses are blocked by a drug. Which person listed below moves their leg in response to a pinprick, but does not feel it?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "Reflex arc components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "The diagram shows how antagonistic muscles are arranged in the arm. Which row describes the muscle action when the arm is straightened?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Electronic cigarettes are a cigarette substitute allowing nicotine to be inhaled without the other components found in cigarette smoke. Which effects of cigarette smoking will also be effects of using electronic cigarettes?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Tobacco smoke effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "The diagram shows the structure of a bacterium. In what way does this differ from a cell of a fungus?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Bacterial cell structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which microorganisms are involved in the decomposition of dead plant material?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Nitrogen cycle microorganisms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "What is the reason for describing the flow of energy through an ecosystem as non-cyclic?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.1 Energy flow",
+    "Sub_topic": [
+      "Energy loss reasons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "The diagram shows a complete food web. Which row identifies examples of the types of organisms in this food web?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Food web description",
+      "Trophic levels terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "The diagram shows part of the carbon cycle. What do X, Y and Z represent?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Carbon cycle description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Coastal marine regions are environments with a rich plant and animal diversity. Which process would reduce the biodiversity of these environments?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.5 Biodiversity and conservation",
+    "Sub_topic": [
+      "Biodiversity importance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Hardwood trees in tropical rainforests are often harvested for timber. A single quick-growing crop, such as palm oil, is then grown on the same land. What effect will removing the rainforest have on the environment?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Habitat destruction causes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "The diagram shows part of a Bryophyllum plant. Which best describes how the new plants are produced?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.2 Asexual and sexual reproduction",
+    "Sub_topic": [
+      "Asexual reproduction definition",
+      "Asexual examples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "Six bean seeds were soaked in cold water. Three of them were boiled and cooled. The boiled and the non-boiled seeds were chopped up and then placed on the surface of agar jelly containing starch. After two days, all the seeds were removed and the jelly was tested with iodine solution. The diagram shows the result of the experiment. What is the explanation for the results with the non-boiled bean seeds?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Uses of carbohydrates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "The diagram shows how the blood of a human fetus flows close to the mother's blood in the placenta. Which substances are present at X in higher concentrations than at Y?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Placenta umbilical functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "The table shows four ways in which diseases may be passed from one human to another. Which row shows the ways in which HIV may be transferred?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "HIV transmission methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "Which sex chromosomes are present in every sperm cell?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Sex determination humans"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "Earlobes can either be attached to the cheek or be 'free' (unattached). This characteristic is controlled by a single gene. The allele for attached earlobes is recessive. The diagram shows the inheritance of attached earlobes in one family. Which two individuals must be heterozygous for earlobe attachment?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Genetic terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "Which statements about natural selection are correct?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.4 Selection",
+    "Sub_topic": [
+      "Natural selection process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Some stages in the production of human insulin are listed. What is the correct sequence of these stages?",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.2 Genetic modification",
+    "Sub_topic": [
+      "Insulin production bacteria"
+    ],
+    "Parts": []
+  }
+]

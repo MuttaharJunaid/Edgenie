@@ -1,0 +1,472 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2010/Q1",
+    "Question_text": "The following statements are about motion. 1 A plane flies due East for 600 km. 2 A runner's average speed in a race around a track is 5m/s. 3 A snail crawls at 3mm/s in a straight line towards a lettuce. 4 A tourist travels 500 km on a journey. Which statements describe vector quantities?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q2",
+    "Question_text": "Power is measured in watts. What is the correct symbol for millions of watts?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q3",
+    "Question_text": "Two men jump out of an aeroplane at the same time. One of the men opens his parachute and the other man remains in free-fall. Why is the man in free-fall moving faster than the parachutist?",
+    "image": "An illustration of two parachutists, one with an open parachute and one in free-fall.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q4",
+    "Question_text": "A student measures the speed of a trolley. At one instant, the speed of the trolley is 1.0 m/s and two seconds later the speed is 4.0 m/s. What is the acceleration of the trolley?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q5",
+    "Question_text": "The speed-time graph shows the movement of a car. What does the shaded area of the graph represent?",
+    "image": "A speed-time graph with a trapezoidal shaded area under the curve. The y-axis is 'speed' and the x-axis is 'time'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q6",
+    "Question_text": "A passenger is sitting in an aeroplane, which takes off and climbs to 10 000 m. During this time, what happens to the mass and to the weight of the passenger?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q7",
+    "Question_text": "A wooden trapdoor is hinged along one side and, when closed, is supported on the other side by a ledge. When the trapdoor is closed, the ledge exerts an upward force of 15 N on the trapdoor. The gravitational field strength is 10N/kg. What is the mass of the trapdoor?",
+    "image": "A diagram showing a trapdoor, hinged on the left, supported by a ledge on the right. Dimensions 30cm from hinge to center of weight and 30cm from center of weight to ledge. An upward force of 15N is shown at the ledge.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q8",
+    "Question_text": "The diagram shows an aeroplane turning in a horizontal circle at constant speed. In which direction is there a resultant force?",
+    "image": "An aeroplane shown from above, turning left in a horizontal circle. Four arrows A, B, C, D point in different directions relative to the plane. Arrow D points left, towards the center of the circular path.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q9",
+    "Question_text": "The diagram shows the levels X and Y in a liquid manometer with the gas tap open. What is the pressure of the gas supply?",
+    "image": "A U-tube manometer. The left arm (connected to gas supply) has liquid level X. The right arm (open to atmosphere) has liquid level Y. Level X is 9 cm lower than Y. The difference in levels is 9 cm.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q10",
+    "Question_text": "Which part of the graph shows the limit of proportionality for an elastic solid?",
+    "image": "A graph of 'extension' (y-axis) vs 'load' (x-axis) for a material. It shows a straight line from O to P, and then a curve from P to Q.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q11",
+    "Question_text": "Five blocks have the same mass but different base areas. They all rest on a horizontal table. A graph is plotted to show the relationship between the pressure exerted on the table and the base area of the block. Which graph shows this relationship?",
+    "image": "Five blocks of various shapes (cone, rectangular prisms, cylinder) resting on a horizontal table. Below this, four 'pressure vs area' graphs are presented as options.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q12",
+    "Question_text": "A small emergency generator supplies 432 000 000 J of electrical energy in twenty-four hours. What is the average power output of the generator?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q13",
+    "Question_text": "A parachutist has opened his parachute and is falling to Earth at constant speed. What is the principal energy conversion taking place as he falls?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q14",
+    "Question_text": "An ice-cube has of mass of 7.50 g. The ice-cube is at 0°C. Heat from the surroundings reaches the ice-cube at an average rate of 1.25J/s. How long does it take for all of the ice to melt? (specific latent heat of fusion of ice = 333J/g)",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q15",
+    "Question_text": "The liquid in a puddle evaporates and this causes its temperature to change. How does the temperature of the liquid change and why?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q16",
+    "Question_text": "A bimetallic strip made from brass and iron is used as a thermostat. When the strip is heated, the brass expands more than the iron. Which shape will the strip become?",
+    "image": "A diagram of a straight bimetallic strip with 'brass' on top and 'iron' on the bottom. Below this, four options of curved strips are shown.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q17",
+    "Question_text": "When a refrigerator is switched on for the first time, the air surrounding the ice-box is cooled. What happens to the density of this air and to its position inside the refrigerator?",
+    "image": "A diagram showing the inside of a refrigerator with an 'ice-box' at the top.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q18",
+    "Question_text": "Convex lenses are used in cameras and as magnifying glasses. Which types of image are formed?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Uses of Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q19",
+    "Question_text": "Which diagram shows an example of a longitudinal wave?",
+    "image": "Four diagrams illustrating different wave types. Option B clearly shows a longitudinal wave with compressions and rarefactions along the direction of propagation of a spring.",
+    "Unit": "Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q20",
+    "Question_text": "A flash of lightning and the corresponding sound of the thunder are detected 6s apart. A student calculates that the lightning struck about 1800m away. On which assumption is the calculation based?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Measuring the Speed of Sound",
+      "Sound Waves",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q21",
+    "Question_text": "A hospital needs to sterilise medical equipment. Which electromagnetic waves could be used?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q22",
+    "Question_text": "A student holds a sheet of paper with letters on it facing a plane mirror. The letters on the paper are shown. TOF What does the student see in the mirror?",
+    "image": "The letters 'TOF' are displayed. Below, four options represent what might be seen in a mirror. Option A shows a laterally inverted 'TOF'.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q23",
+    "Question_text": "A semi-circular block is made from a plastic. A ray of light passes through it at the angles shown. To two decimal places, what is the refractive index of the plastic?",
+    "image": "A diagram showing a ray of light entering a semi-circular plastic block from air. The angle of incidence in air is 62° (with the normal). The angle of refraction in plastic is 45° (with the normal).",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q24",
+    "Question_text": "Two metal spheres P and Q are mounted on insulating stands and are touching each other. They are uncharged. A positively-charged metal sphere on an insulating handle is brought close to P but does not touch it. This induces charges on P and Q. The positively-charged metal sphere is held in this position and sphere Q is moved to the right, away from sphere P. What are the signs of the induced charges on P and Q and how do the sizes of these charges compare?",
+    "image": "A diagram showing a positively-charged sphere brought near two touching uncharged conducting spheres (P and Q) on insulating stands.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q25",
+    "Question_text": "Which properties make materials suitable for use as a core in an electromagnet?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q26",
+    "Question_text": "A student tests the circuit of a press-button telephone with a lamp and a battery. Which single switch can be pressed to make the lamp light?",
+    "image": "A circuit diagram resembling a telephone keypad with switches (1-9, 0) arranged in rows and columns. A lamp and battery are connected such that a complete circuit is formed when one row line and one column line are connected.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q27",
+    "Question_text": "A length of resistance wire is used as a resistor in a simple circuit. Four separate changes are made to the wire. Which change will not reduce the value of the resistance of the wire?",
+    "image": "A simple circuit diagram showing a battery, an ammeter, and a resistance wire.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q28",
+    "Question_text": "Which quantity is measured in kilowatt-hours?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q29",
+    "Question_text": "The metal case of an electric heater is earthed. The plug to the heater contains a 5 A fuse. There is a current of 4 A when the heater works normally. The cable to the heater becomes so worn that the live wire makes electrical contact with the case. What happens?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q30",
+    "Question_text": "Sets of voltage-current readings are obtained for different electrical components. Which set of readings is for a 100 Ω resistor?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q31",
+    "Question_text": "A 6V supply is connected in series with an ammeter and a 4Ω resistor. What is the reading on the ammeter?",
+    "image": "A simple series circuit diagram showing a 6V battery, an ammeter (A), and a 4Ω resistor.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q32",
+    "Question_text": "A cathode-ray oscilloscope is connected to an a.c. generator. A wave is seen on the screen of the oscilloscope. The speed of rotation of the generator is doubled. What is the effect on the wave?",
+    "image": "A diagram showing an oscilloscope screen displaying a single sine wave with a 'peak' labeled.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q33",
+    "Question_text": "A long flexible wire is wrapped round two wooden pegs. A large current is passed in the direction shown. Which two pairs of lengths of wire attract each other?",
+    "image": "A diagram showing a wire wrapped around two wooden pegs, creating four parallel sections labeled J, K, L, M. Current flows in opposite directions for adjacent sections (e.g., J up, K down, L up, M down).",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Fields Around Parallel Conductors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q34",
+    "Question_text": "A capacitor C charges when it is connected to a d.c. power supply. Which arrows show the direction of the conventional current when the capacitor is charging?",
+    "image": "A circuit diagram showing a capacitor (C), a resistor (R), and a d.c. power supply. Arrows labeled 1, 2, 3, 4 indicate possible conventional current directions in different parts of the circuit. Arrow 1 indicates current flowing from the positive supply terminal, through R, to C. Arrow 3 indicates current flowing from C to the negative supply terminal.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q35",
+    "Question_text": "A magnet is pushed slowly into a coil and there is a current in the coil in the direction shown. The magnet is then pulled out quickly from the same end of the coil. What happens to the direction and the size of the current?",
+    "image": "A diagram showing a magnet being pushed into a coil. An arrow indicates the direction of current in the coil.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q36",
+    "Question_text": "The diagram shows a d.c. motor. Why is a split-ring commutator used?",
+    "image": "A diagram of a simple d.c. motor with a coil, magnetic poles (N, S), an axle, and a split-ring commutator connected to a d.c. supply.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q37",
+    "Question_text": "Which row is correct for fission and for fusion?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q38",
+    "Question_text": "In one radioactive decay, radium (Ra) gives rise to radon (Rn) as shown. 226 Ra 88 → 222 Rn 86. What particle is also produced?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q39",
+    "Question_text": "Proton number is another name for atomic number. Nucleon number is another name for mass number. What are isotopes?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2010/Q40",
+    "Question_text": "When a sample of a radioactive nuclide decays, the count rate falls from 1200 to 150 in three minutes. What is the half-life of the radioactive nuclide?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  }
+]

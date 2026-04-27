@@ -1,0 +1,171 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2021/Q1",
+    "Question_text": "A student investigates the relationship between the resistance R of different lengths of wire and their length l. Resistance can be found using the equation: R = V/I where V is the voltage and I is the current. The student is provided with different lengths of wire of the same material. He uses the circuit shown in Fig. 1.1.",
+    "image": "Circuit diagram (Fig. 1.1) showing a power supply connected in series with an ammeter (labeled 'A') and a length of wire. Two crocodile clips are shown connecting to the length of wire, with the segment between them labeled 'l' for length. The power supply provides current to the circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State one property of the wire that must be the same for the student to make a fair comparison.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 1.1, draw a voltmeter symbol connected to measure the voltage across the length of wire.",
+        "image": "The existing Fig. 1.1 circuit diagram, where a voltmeter symbol needs to be added in parallel across the section of the wire labeled 'l' (between the crocodile clips)."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student places a 40.0 cm length of wire between the crocodile clips shown in Fig. 1.1. He switches on the power supply. Name the piece of apparatus he uses to measure the length of the wire between the crocodile clips.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Fig. 1.2 shows the ammeter and the voltmeter readings when length l = 40.0 cm. Record the readings of current and voltage for this length of wire.",
+        "image": "Two circular analogue meters labeled Fig. 1.2. The top meter is an ammeter, with a scale from 0 to 500 mA, and its needle points to 180 mA. The bottom meter is a voltmeter, with a scale from 0.0 to 1.0 V, and its needle points to 0.58 V."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The student switches off the power supply. He removes the wire and replaces it with a different length of wire. He repeats the procedure for wires of length l = 20.0 cm, 60.0 cm, 80.0 cm and 100.0 cm. The values of I, V and R that he obtains are shown in Table 1.1. Complete Table 1.1, using your recorded readings in (c)(ii).",
+        "image": "Table 1.1 with four columns: l/cm, V/V, I/A, and R/Ω. Rows for l=20.0, 60.0, 80.0, 100.0 cm contain complete data. The row for l=40.0 cm has blank entries for V/V, I/A, and R/Ω, expecting completion based on readings from Fig. 1.2 and calculation."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "On Fig. 1.3, plot the graph of R/Ω on the y-axis against l/cm on the x-axis. Start both axes from the origin (0,0). Draw the straight line of best fit.",
+        "image": "A blank graph grid (Fig. 1.3) with clearly marked x-axis (l/cm) and y-axis (R/Ω), both starting from the origin (0,0)."
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "State the relationship between R and l shown by your graph.",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "Use your graph to determine the length of wire that has a resistance of 14Ω. Show how you determine this value on your graph.",
+        "image": "The graph grid from Fig. 1.3 is implied for showing the determination of length from resistance."
+      },
+      {
+        "part_label": "e",
+        "part_text": "A second student carries out the same experiment. He uses one single 120.0 cm length of wire. He connects two crocodile clips at different points along the 120.0 cm wire so that the required length of wire for each measurement is between them for each reading. He switches off the power supply after each reading and waits a short time before taking the next reading. Suggest a reason for waiting a short time.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2021/Q2",
+    "Question_text": "A student measures the focal length of a convex lens. He sets up the apparatus as shown in Fig. 2.1.",
+    "image": "An optical bench setup (Fig. 2.1) showing an illuminated object (lamp), a convex lens in a holder, and a screen arranged horizontally. The distance between the illuminated object and the lens is labeled 'x', and the distance between the lens and the screen is labeled 'y'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "He places the lens a distance x from the illuminated object. He moves the screen until a sharp image of the object is formed on the screen. The lens is now a distance y from the screen. On Fig. 2.1, measure, to the nearest millimetre, the length x and the length y.",
+        "image": "The Fig. 2.1 diagram showing the optical setup with labeled distances x and y, implying these distances need to be measured from the diagram using a ruler."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Fig. 2.1 is drawn to one quarter full size. Calculate the actual distance u between the lens and the object and calculate the actual distance v between the lens and the screen.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the focal length f of the lens using the equation: f = uv / (u + v) Give your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The lens manufacturer states that the lens has a focal length f = 7.0 cm. Explain, giving a reason, whether your results agree with the manufacturer's value within the limits of experimental accuracy.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2021/Q3",
+    "Question_text": "A student investigates the effect of insulation on the rate of cooling of hot water. She pours 200 cm³ of hot water into a beaker, as shown in Fig. 3.1. She waits a short time. She then starts a stop-watch and records the temperature of the water. This is at time t = 0.",
+    "image": "Diagram (Fig. 3.1) showing a laboratory setup with a thermometer immersed in water contained in a beaker, resting on a surface. This illustrates the basic setup for measuring temperature change over time.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest why the student waits a short time before recording the temperature at time t = 0.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 3.2 shows part of the thermometer at time t = 0. Read the thermometer and record the temperature θ on the answer line and in Table 3.1.",
+        "image": "Close-up view of a mercury-in-glass thermometer scale (Fig. 3.2), showing markings for 70, 80, and 90 degrees Celsius. The mercury column is visible and indicates a temperature of 81°C."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student records the temperature of the water every minute for 5.0 minutes. Table 3.1 shows her results. Using the results from Table 3.1, describe how the rate of cooling of the water changes over the 5.0 minutes.",
+        "image": "Table 3.1 with two columns: t/min (time in minutes) and θ/°C (temperature in degrees Celsius). It lists temperature readings at t=0 (blank, to be filled from part b), 1.0, 2.0, 3.0, 4.0, and 5.0 minutes."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the average rate of cooling over the 5.0 minutes using the equation: average rate of cooling = temperature change in 5.0 minutes / 5.0",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The student now covers the sides of the beaker with a layer of cotton wool and repeats the procedure, ensuring that the starting temperature is the same as the temperature recorded in (b). Table 3.2 shows her new results. Use the results in Table 3.1 on page 9 and Table 3.2 to suggest how the layer of cotton wool has changed the rate of cooling of the water.",
+        "image": "Table 3.2 with two columns: t/min (time in minutes) and θ/°C (temperature in degrees Celsius). It lists temperature readings at t=0, 1.0, 2.0, 3.0, 4.0, and 5.0 minutes, showing higher temperatures compared to Table 3.1 at later times."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The student repeats the experiment again with the same starting temperature. Suggest how the student changes her apparatus to ensure that the temperature after 5.0 minutes is greater than 71°C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2021/Q4",
+    "Question_text": "A student investigates the magnetic field between two strong magnets. She places the magnets as shown in Fig. 4.1.",
+    "image": "Diagram (Fig. 4.1) showing two horizontal bar magnets facing each other. The left magnet has its South pole (S) facing the South pole (S) of the right magnet. Both magnets are held in place by small blobs of 'adhesive putty'. A dashed rectangular box is drawn in the region between the two facing South poles.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "She places the magnets on a smooth surface using pieces of adhesive putty (e.g. Blu Tack or Patafix), as shown in Fig. 4.1. Suggest why the pieces of adhesive putty are needed.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how she uses a plotting compass to plot the pattern of the magnetic field between the magnets.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 4.1, draw the shape of the magnetic field that she observes inside the box indicated by the dashed lines.",
+        "image": "The Fig. 4.1 diagram showing the two magnets with facing South poles and the dashed rectangular box between them, implying magnetic field lines should be drawn within this region."
+      }
+    ]
+  }
+]

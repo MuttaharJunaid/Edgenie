@@ -1,0 +1,162 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2022/Q1",
+    "Question_text": "A student investigates how the temperature of a volume of water changes as hotter water is added to it. 160 cm³ of water at 20°C is poured into a glass measuring cylinder. Fig. 1.1 shows the measuring cylinder.",
+    "image": "A diagram labeled Fig. 1.1 showing a vertical glass measuring cylinder with a capacity of 250 cm³. The cylinder is marked with major divisions every 25 cm³ (25, 50, 75, 100, 125, 150, 175, 200, 225, 250) and smaller subdivisions between them, indicating measurements for volume in cm³.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Measurement",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The measuring cylinder contains 160cm³ of water. On Fig. 1.1, draw the level of the water, showing the meniscus.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student pours 100cm³ of water from the measuring cylinder into a large beaker. He then: • uses a kettle to provide a constant supply of hot water • adds 50 cm³ of hot water at 70°C to the beaker • stirs the mixture • records the new temperature of the water in the beaker • continues to add 50cm³ of hot water at a time, recording the new temperature for each addition, until a total of 300 cm³ of hot water has been added.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student ensures that the temperature of the water added each time is 70°C. Suggest how this is done.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student repeats the experiment and obtains three sets of results, as shown in Table 1.1. Table 1.1 total volume of hot water added V/cm³ | temperature θ/°C | average temperature θav/°C 0 | 20 20 20 | 20 50 | 33 34 33 | 33 100 | 42 40 40 | 41 150 | 47 49 46 | 200 | 51 52 51 | 51 250 | 53 54 53 | 53 300 | 54 55 54 | 54 Calculate the average temperature θav when total volume of hot water added V = 150cm³. Record, in Table 1.1, your answer to an appropriate number of significant figures.",
+        "image": "Table 1.1 displays experimental results with four columns: 'total volume of hot water added V/cm³', 'temperature θ/°C' (which has three values per row, representing repeated measurements), and 'average temperature θav/°C'. Data is provided for volumes from 0 cm³ to 300 cm³ in steps of 50 cm³, with corresponding temperature readings. The row for V = 150 cm³ has temperatures 47, 49, 46, and its average temperature column is left blank for calculation."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "On Fig. 1.2, plot a graph of θav/°C on the y-axis against V/cm³ on the x-axis. Start both axes from the origin (0,0). Draw a smooth curved line of best fit.",
+        "image": "A blank graph grid labeled Fig. 1.2, with an origin at (0,0) and sufficient space for plotting data points and drawing a line. The x-axis would represent V/cm³ and the y-axis θav/°C."
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Your graph shows that θav is not directly proportional to V. Describe how your graph shows this and suggest why θav is not directly proportional to V.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student repeats the experiment with a layer of insulation around the beaker. On your graph in Fig. 1.2, sketch a line to show the results with a layer of insulation around the beaker. Label this line with the letter A.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2022/Q2",
+    "Question_text": "A student investigates the resistance of two resistors. Fig. 2.1 shows the apparatus used to find the current I in resistor X and the potential difference V across it.",
+    "image": "A circuit diagram labeled Fig. 2.1 illustrating an experimental setup. It shows a battery connected in series to a switch and an ammeter (labeled 'A' with a scale from 0 to 5 amps). A resistor (labeled 'resistor X') is also in series with these components. A voltmeter (labeled 'V' with a scale from 0 to 5 volts) is connected in parallel across resistor X.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw a circuit diagram for the arrangement shown in Fig. 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student records the current I and the potential difference V across resistor X when the switch is closed. He calculates the resistance Rx of resistor X. He replaces resistor X with resistor Y and repeats the experiment. The values recorded for both resistors are shown in Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Table 2.1 resistor | I/A | V/V | resistance /Ω X | 0.10 | 1.0 | 10 Y | 0.07 | 1.0 | Calculate the resistance Ry of resistor Y and complete Table 2.1. Use the equation: resistance = V/I Give your answer to the nearest whole number.",
+        "image": "Table 2.1 shows data for two resistors, X and Y. For resistor X, current (I) is 0.10 A, potential difference (V) is 1.0 V, and resistance is 10 Ω. For resistor Y, current (I) is 0.07 A, potential difference (V) is 1.0 V, and the resistance column is left blank for calculation."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student combines resistors X and Y in a parallel arrangement. He uses this combination in the circuit in Fig. 2.1 in place of the single resistor Y. Fig. 2.2 shows the ammeter reading for the parallel arrangement. Record the reading of I shown in Fig. 2.2.",
+        "image": "A diagram labeled Fig. 2.2 showing an ammeter scale. The scale ranges from 0 to 1.0 A, with major markings at 0, 0.2, 0.4, 0.6, 0.8, and 1.0 A. An arrow pointer indicates a reading exactly halfway between 0.4 A and 0.6 A, which is 0.5 A."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The potential difference stays at 1.0V. Using the value of I in (b)(ii) and the equation in (b)(i), calculate the resistance Rc of the parallel combination.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Theory suggests that the resistance Rc of the two resistors X and Y arranged in parallel is given by: Rc = (Rx * Ry) / (Rx + Ry) State, giving a reason, whether your value for Rc in (b)(iii) agrees with this suggestion.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2022/Q3",
+    "Question_text": "A student directs two parallel rays of light, ray 1 and ray 2, towards the side of a transparent plastic block, as shown in Fig. 3.1. The block rests on a sheet of paper.",
+    "image": "A diagram labeled Fig. 3.1 showing a transparent plastic block with a curved concave side and a straight side. Two parallel incident rays of light, labeled 'ray 1' and 'ray 2', approach the curved side. Ray 1 has exited the block and points R and S are marked along its path. Ray 2 has also exited the block and points W and X are marked along its path. A dashed line, labeled 'line through the centre of the block', passes horizontally through the block.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Ray Diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student marks two points R and S on the path of ray 1 after it has passed through the block.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.1, draw a line joining S and R and continue the line to meet the block.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 3.1, draw a line to complete the path of ray 1 through the block.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student marks two points W and X on the path of ray 2 after it has passed through the block. On Fig. 3.1, complete the path of ray 2.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Extend lines SR and XW back until they meet at a point. Label this point F.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Measure the perpendicular distance from F to the centre of the block.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2022/Q4",
+    "Question_text": "A student determines the diameter of a thin wire. The apparatus available is: • 2.0m length of thin wire • wire cutters • ruler",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest how the student determines an accurate value for the diameter of the wire using only the apparatus listed. Draw a diagram to illustrate your method.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A second student determines the diameter using a different piece of apparatus. His value for the diameter is more accurate. State the name of the different piece of apparatus he uses.",
+        "image": null
+      }
+    ]
+  }
+]

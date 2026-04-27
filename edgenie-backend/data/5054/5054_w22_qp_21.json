@@ -1,0 +1,377 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q1",
+    "Question_text": "Fig. 1.1 shows a steel spring.",
+    "image": "Fig. 1.1 shows a diagram of a coiled steel spring, appearing as a helical structure.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe an experimental procedure for obtaining the results needed to plot an extension-load graph for this spring.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In an experiment to obtain results for an extension–load graph, a spring is stretched beyond its limit of proportionality. On Fig. 1.2, sketch the extension-load graph for this spring.",
+        "image": "Fig. 1.2 shows a blank graph with 'extension' on the y-axis and 'load' on the x-axis, both starting from 0 at the origin."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On your graph in Fig. 1.2, mark and label with a P the limit of proportionality.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The limit of proportionality for this spring occurs at a load of 8.5 N. The extension of the spring is equal to 0.014 m when the load is equal to 3.5 N. Calculate the extension for a load of 5.5 N.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q2",
+    "Question_text": "A child's toy consists of a flexible track and a model car. Fig. 2.1 shows a diagram of the toy. The child first holds the car stationary at point A which is 0.45m above the horizontal sections of track BC and FG. The mass of the car is 0.12kg. The child then releases the car which travels towards point B. Both air resistance and friction between the car and the track are negligible. The gravitational field strength g is 10N/kg.",
+    "image": "Fig. 2.1 shows a model car on a flexible track. The track has an initial inclined section leading to a loop-the-loop (section CDE) and then another inclined section. Point A is on the initial incline, 0.45m above the horizontal sections BC and FG. Point B is at the bottom of the first incline, before the loop. Point D is at the top of the loop. Point F is at the bottom of the second incline. Labels include 'model car', 'track', and points A, B, C, D, E, F, G.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Conservation of Energy",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the change in gravitational potential energy (g.p.e.) of the car as it travels from A to B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the speed of the car when it reaches B.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "After releasing it, the child expects the car to follow the track along the route ABCDEFG. In fact, the model car does not reach F. Explain, in terms of energy, why the car does not go past D, which is also 0.45m above the horizontal track.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Immediately after being released at A, the car travels to B, to C and then to D. Describe the motion of the car after it reaches D.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q3",
+    "Question_text": "A curved, glass tube is open at one end and sealed at the other. A dense liquid is poured into the tube. The liquid traps air in the sealed end. Fig. 3.1 shows the tube, the liquid and the trapped air.",
+    "image": "Fig. 3.1 shows a U-shaped curved glass tube. The right arm is open and the left arm is sealed. A dense liquid occupies the bottom of the U-tube and extends into both arms, trapping air in the sealed left arm. The difference in liquid levels between the two arms is labeled 'h'. The height of the trapped air column is labeled 'x'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The difference between the liquid levels is h. At room temperature, h is 0.57 m. The density of the liquid is 1.4 × 10^4 kg/m³. The gravitational field strength g is 10 N/kg and the atmospheric pressure is 1.0 × 10^5 Pa. Calculate the pressure of the trapped air.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The trapped air in the tube is heated. The height of the trapped air in the tube is x. Explain, in terms of molecules, why x changes when the air is heated.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The trapped air reaches a constant temperature that is greater than its initial temperature. Describe and explain the change in h in terms of the pressures involved.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q4",
+    "Question_text": "X-rays are transverse waves that are part of a spectrum of waves.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Dangers of Electromagnetic Waves",
+      "Features of Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the spectrum of waves that includes X-rays.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain what is meant by 'frequency'.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the name of the waves in this spectrum that have the greatest frequency.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "X-rays are used in hospitals to produce an image of broken bones. Explain how this is done. You may draw a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why X-rays are not used for pre-natal scanning.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q5",
+    "Question_text": "Fig. 5.1 is a diagram that shows the number of particles in a charged atom (ion) of beryllium (Be).",
+    "image": "Fig. 5.1 shows a Bohr model representation of an atom, specifically a beryllium ion. It depicts a central nucleus with both shaded and unshaded circles representing protons and neutrons, surrounded by electron shells with black dots representing electrons. There are 4 electrons shown in two shells, and the nucleus contains 9 particles (4 shaded, 5 unshaded).",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The charge on an electron is −1.6 × 10^−19 C. The charge on the ion is +3.2 × 10^−19 C. Deduce, from the charge on the ion, the number of protons in its nucleus. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Write down, in nuclide notation, the symbol for the nucleus of this charged atom.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The isotope in Fig. 5.1 is the only stable isotope of beryllium. Explain the term 'isotope'.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain what prevents electrons in an atom from escaping.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q6",
+    "Question_text": "An electromagnet is used to separate objects that are magnetic from objects that are non-magnetic. Fig. 6.1 shows the electromagnet suspended from the arm of a crane.",
+    "image": "Fig. 6.1 shows a diagram of a crane with an electromagnet attached to its arm. The electromagnet is shown picking up a pile of metallic scrap. An 'electric cable' connects the electromagnet to the crane's body, which is labeled 'crane'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Electrical Power",
+      "Electrical Charge",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the metal from which the core of the electromagnet is made.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The electromagnet is powered by a 220 V d.c. (direct current) supply. The electromagnet is switched on and the current in the circuit is 39A. Calculate the power transferred to the electromagnet.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The d.c. supply is a set of batteries. The batteries power the magnet for 4.5 hours before they need to be replaced. Calculate the charge driven around the complete circuit in this time.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On a very cold morning, when the electromagnet is first switched on, the current is greater than 39A before decreasing to the usual value. Explain why the current is initially greater than 39A.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q7",
+    "Question_text": "Fig. 7.1 shows a child sitting on a sledge on a snow-covered hill of constant slope. At time t = 0, the child and the sledge begin to move down the hill in a straight line. When the child sees a wall ahead, he applies the brake. The child and sledge continue to travel in a straight line until they come to a stop before hitting the wall.",
+    "image": "Fig. 7.1 shows a child sitting on a sledge on a snow-covered hill with a constant downward slope. The child is wearing a hat and jacket, positioned on the sledge. The sledge has a 'brake' indicated. A 'wall' is depicted at the bottom right, at the end of the slope. Labels include 'sledge', 'child', 'brake', 'snow-covered hill', and 'wall'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Energy Stores & Transfers",
+      "Kinetic Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig 7.2 shows how the speed of the child and sledge varies over the whole of the journey. Explain why, between t = 0 and t = 26 s, the speed varies in the way shown by the graph.",
+        "image": "Fig. 7.2 is a speed-time graph. The x-axis is 't / s' (time in seconds) from 0 to 32. The y-axis is 'speed m/s' (speed in meters per second) from 0 to 16. The graph shows an initial increase in speed from t=0, gradually curving to a constant speed of approximately 14 m/s from t=16s to t=26s. At t=26s, the speed rapidly decreases in a straight line to 0 m/s at approximately t=30s."
+      },
+      {
+        "part_label": "b",
+        "part_text": "At t = 26s, the front of the sledge is 35m from the wall. Determine the distance between the front of the sledge and the wall when the sledge stops.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "At t = 26 s, the child and sledge begin to decelerate. Determine the size of the deceleration.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The mass of the child is 46 kg and the mass of the sledge is 9.0 kg. Calculate the resultant force on the child and sledge as they decelerate.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "State the energy transfer that is taking place as the child and sledge decelerate.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "At t = 26 s, when the brake is first applied, the child jerks forwards on the sledge. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q8",
+    "Question_text": "A parallel beam of light travelling in air is incident on a glass lens. The beam is perpendicular to the lens as shown in Fig. 8.1. The dashed line P indicates the position of the lens. The centre of the lens is dot C.",
+    "image": "Fig. 8.1 shows a diagram illustrating a parallel beam of light incident on a lens. Three horizontal rays of light are shown approaching a vertical dashed line labeled 'P', which represents the position of the lens. A dot 'C' is marked on the dashed line, indicating the center of the lens.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The lens is a diverging lens. On Fig. 8.1: indicate the shape of the lens by drawing the outline of the lens around dashed line P",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "draw the path taken by each ray of light after it passes through the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Diverging lenses are used to correct short-sight. Fig. 8.2 is a simplified diagram of a short-sighted eye. Light from a distant object strikes the eye lens and enters the eye. On Fig. 8.2, continue the three rays in the eye until they reach the back of the eye.",
+        "image": "Fig. 8.2 shows a simplified diagram of a short-sighted eye. It consists of an 'eye lens' and a 'back of eye' where light converges. Three parallel rays, labeled 'light from distant object', are shown incident on the eye lens."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State how the image of a distant object detected by a normal eye differs from the image detected by the short-sighted eye.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain how a diverging lens corrects the sight of a short-sighted eye viewing a distant object.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The focal length of the diverging lens is 4.0 cm. An object of height 3.5 cm is placed 6.0 cm from the centre of the lens. Fig. 8.3 is a full-scale diagram drawn on a grid, on which the dashed line L represents the lens and the arrow O the object. By drawing on Fig. 8.3, find the position of the image I of object O. Draw image I and label it I.",
+        "image": "Fig. 8.3 shows a grid with a vertical dashed line 'L' representing a lens. A vertical arrow labeled 'O' represents an object, placed to the left of 'L' on the principal axis. The grid has markings for 1 cm. The object 'O' has a height of 3.5 cm and is placed 6.0 cm from 'L'."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain whether the image produced is real or virtual.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "On the grid in Fig. 8.3, write an E in a position from which an eye can see the image.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Determine the linear magnification produced.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/21/2022/Q9",
+    "Question_text": "The power supply in an electric circuit is a battery of electromotive force (e.m.f.) 12V.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Resistance",
+      "Combined Resistance",
+      "Force on a Current-Carrying Conductor",
+      "Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two ways in which the e.m.f. of a battery differs from that of an alternating current (a.c.) power supply.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The circuit includes three resistors and two open switches, S₁ and S2. Fig. 9.1 shows the circuit. YZ is a straight, horizontal section of connecting wire that lies between two magnets. S₁ is now closed. Calculate the current in YZ.",
+        "image": "Fig. 9.1 displays an electrical circuit. A 12V DC power supply (battery) is connected to a switch S1. After S1, the circuit branches into two parallel paths. One path contains a 30Ω resistor. The other path contains a switch S2 in series with a 28Ω resistor and a 20Ω resistor. A section of wire labeled YZ is shown in the main circuit path, after S1 and before the parallel split, indicating it carries the total current. It is also depicted between the North (N) and South (S) poles of two magnets, implying it is subjected to a magnetic field."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why YZ experiences a force.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Tick the box which describes the direction of the force on YZ. (options: towards N, towards S, towards Y, towards Z, downwards, upwards)",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Explain how the direction of the force on YZ is determined.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Switch S2 in the circuit in Fig. 9.1 is now also closed. Calculate the total resistance of the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain what happens to the force on YZ as switch S2 is closed.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The current in the 20Ω resistor is I20. The current in the 30Ω resistor is I30. State a value for the ratio I20/I30.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Three gases, A, B and C, have the properties shown. Some sets of apparatus, X, Y and Z, used to collect gases are shown.",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases",
+      "Structures of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Calcium carbonate reacts with dilute hydrochloric acid. A student investigates the rate of this reaction using three samples of calcium carbonate. Each sample has a different particle size.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "An unlabelled bottle contains solid sodium carbonate, Na2CO3. Another unlabelled bottle contains solid sodium hydrogencarbonate, NaHCO3. The reaction between sodium carbonate and dilute hydrochloric acid is exothermic. The reaction between sodium hydrogencarbonate and dilute hydrochloric acid is endothermic. Plan experiments using the reaction of each solid with dilute hydrochloric acid:",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions",
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "A student is provided with solutions of:",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A student does an experiment to determine the percentage by mass of potassium iodate(V), KIO3, in a sample of impure potassium iodate(V). The sample of impure potassium iodate(V) is placed in a previously weighed container which is then reweighed.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant",
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A student passes an electric current through an electrolyte of aqueous copper(II) sulfate using an inert anode and a copper cathode.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition",
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  }
+]

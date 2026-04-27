@@ -1,0 +1,487 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2025/Q1",
+    "Question_text": "Which quantity has both magnitude and direction, and is it a scalar quantity or a vector quantity?",
+    "image": "A table showing four options (A, B, C, D) with a 'quantity with magnitude and direction' and its corresponding 'scalar quantity or vector quantity' classification. Options include 'mass' and 'weight' paired with 'scalar' or 'vector'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q2",
+    "Question_text": "The speed-time graph shows part of the journey of a bicycle for a time of 10 s. What is the distance that the bicycle travels in the 10 s?",
+    "image": "A speed-time graph with speed (m/s) on the y-axis (0 to 4.0) and time (s) on the x-axis (0 to 10). A straight line rises from the origin (0,0) to (10, 4.0), indicating constant acceleration.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q3",
+    "Question_text": "Which statement explains why a heavy coin that falls through a short distance towards the ground does not reach terminal velocity?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Freefall"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q4",
+    "Question_text": "The diagram shows the load-extension graph for a spring. What is the name given to point X on the graph?",
+    "image": "A load-extension graph for a spring, with 'load' on the y-axis and 'extension' on the x-axis. The graph shows a straight line from the origin, followed by a curve bending towards the extension axis. Point X is marked at the end of the straight-line portion, indicating where the graph starts to curve.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q5",
+    "Question_text": "Some students measure the masses and the volumes of differently sized samples of a type of wood. Which graph shows their results?",
+    "image": "Four small graphs (A, B, C, D) are shown, each plotting 'mass' on the y-axis against 'volume' on the x-axis, all originating from (0,0). Graph A shows a straight line with a positive slope. Graph B shows a similar straight line with plotted data points (crosses) slightly scattered around it. Graph C shows a curve where the slope increases. Graph D shows a curve where the slope decreases.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q6",
+    "Question_text": "The diagram shows a section of a roller coaster ride that is a circle arranged vertically. The truck is moving at constant speed at the position shown. Which arrow shows the direction of the resultant force acting on the truck?",
+    "image": "A diagram of a circular roller coaster track. A truck is shown at the top-right position of the loop. An arrow indicates the 'direction of movement' along the track. Four arrows (A, B, C, D) emanate from the truck, showing possible directions for the resultant force. Arrow B points towards the center of the circular path.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q7",
+    "Question_text": "What is a unit for momentum?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Momentum"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q8",
+    "Question_text": "In a safety test, a car collides with a concrete block. The impulse exerted by the block on the car is 14000 Ns. The collision with the block lasts for 70 ms. What is the force exerted on the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Impulse",
+      "Momentum"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q9",
+    "Question_text": "An object pulled along horizontal ground accelerates to the right. The diagram shows the directions of the forces acting on the object. Which force is multiplied by the distance moved to calculate the work done to increase the kinetic energy store?",
+    "image": "A diagram showing an object on a horizontal surface with four forces acting on it: 'contact force' (upwards), 'weight' (downwards), 'pulling force' (to the right), and 'frictional force' (to the left).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Kinetic Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q10",
+    "Question_text": "The mass of object P is greater than the mass of object Q. The objects contain different amounts of matter and have a different resistance to change of motion. Which row is correct?",
+    "image": "A table with two columns, 'greater amount of matter' and 'greater resistance to change of motion', and four rows (A, B, C, D) comparing objects P and Q. Object P is stated to have greater mass than object Q.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Newton's First Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q11",
+    "Question_text": "A builder leaves two identical, heavy, stone tiles resting on soft earth. One is vertical and the other is horizontal. After a few hours, the vertical tile has started to sink into the soft earth. The horizontal one has not started to sink. Which row correctly compares the forces and the pressures that the tiles exert on the earth?",
+    "image": "A diagram showing two identical rectangular blocks (stone tiles) on a surface labeled 'soft earth'. One tile is standing vertically on its narrow edge, and the other is lying horizontally on its broad face.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q12",
+    "Question_text": "Four beakers contain the same liquid. At which point is the pressure the greatest?",
+    "image": "Four beakers are shown, each containing a liquid. Points A, B, C, D are marked at different depths within the liquid across the beakers. Point D is the deepest.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q13",
+    "Question_text": "The strength of the forces between the particles of a solid determines how much the solid expands when heated. Which statement about these forces is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Particle Model",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q14",
+    "Question_text": "Air is heated in a sealed container with constant volume. Why does the air pressure increase when the temperature increases?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q15",
+    "Question_text": "A student determines the specific heat capacity of a metal by carrying out an experiment. The list shows the apparatus that the student has available. Which apparatus does the student use?",
+    "image": "A numbered list of apparatus: 1 electronic balance, 2 ruler, 3 thermometer, 4 heater operating at a power of 50 W, 5 stopwatch, 6 ammeter, 7 voltmeter.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q16",
+    "Question_text": "When a liquid evaporates, molecules escape from its surface. Which molecules escape, and what happens to the average kinetic energy of the molecules remaining in the liquid?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q17",
+    "Question_text": "A sample of water in a beaker is at a temperature T. The surface area of the water is A and an electric fan blows air across the top of the beaker at a speed v. For which values of T, A and v does the water evaporate the most rapidly?",
+    "image": "A table showing four sets of values for Temperature (T/°C), Surface Area (A/cm²), and air speed (v m/s), labeled A, B, C, D. The values are: A (18, 45, 0.1), B (24, 50, 1.9), C (38, 70, 5.0), D (38, 45, 4.7).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q18",
+    "Question_text": "Thermal energy passes quickly from hot regions of a metal to cold regions of the metal. Why are metals good conductors of thermal energy?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Demonstrating Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q19",
+    "Question_text": "The diagram shows light striking a plane mirror and reflecting. Which angle is the angle of incidence?",
+    "image": "A diagram illustrating light reflection off a plane mirror. An incident ray strikes the mirror, and a reflected ray bounces off. A dashed line represents the normal perpendicular to the mirror. Angles A, B, C, D are labeled. Angle B is between the incident ray and the normal.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q20",
+    "Question_text": "A shoe shop puts a mirror on the wall so that customers can look at their shoes. The length of the mirror is 50 cm. A customer has eyes 150 cm above ground level. The bottom of the mirror is at height h above the ground. What is the smallest value of h that allows the customer to see an image of his shoes in the mirror?",
+    "image": "A diagram depicting a person standing in front of a vertical mirror. The person's eye level is at 150 cm from the ground. The mirror has a length of 50 cm. The height 'h' represents the distance from the ground to the bottom edge of the mirror.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q21",
+    "Question_text": "Which description of a dull black surface is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q22",
+    "Question_text": "The rays of light from a ray-box pass through three lenses placed at positions 1, 2 and 3. Which type of lens is used at each position?",
+    "image": "A ray diagram showing parallel light rays from a 'ray-box' passing sequentially through three lenses at 'position 1', 'position 2', and 'position 3'. After position 1, rays converge. After position 2, rays continue to converge but less sharply. After position 3, rays diverge.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q23",
+    "Question_text": "A swimming pool is lit by an underwater light. A ray of light is incident on the surface of the water. What is the path for the ray of light?",
+    "image": "A cross-section of a swimming pool with an underwater light. A ray of light originating from the light source hits the water surface from below. A normal line is drawn at the point of incidence. Four possible paths (A, B, C, D) are indicated for the ray after reaching the surface.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q24",
+    "Question_text": "When a converging lens is used as a magnifying glass, what is the nature of the image?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q25",
+    "Question_text": "A sound wave consists of compressions and rarefactions. Which type of wave is sound and how does the pressure in a rarefaction compare with the pressure in a compression?",
+    "image": "A table with two columns, 'type of wave' and 'pressure in a rarefaction', and four rows (A, B, C, D) comparing sound wave types (longitudinal or transverse) and rarefaction pressure (smaller or greater).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q26",
+    "Question_text": "What happens to a sound wave when the note heard gets louder?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q27",
+    "Question_text": "A pulse of ultrasound from a sensor is reflected back to the sensor by a crack in a piece of metal and by the bottom surface of the metal. The reflection from the crack is received back at the sensor 1.0 × 10⁻⁵ s after the pulse is sent out. The reflection from the bottom surface is received back at the sensor 1.5 × 10⁻⁵ s after the pulse is sent out. The speed of ultrasound in the metal is 5200 m/s. What is the distance x between the crack and the bottom surface of the metal?",
+    "image": "A diagram showing a sensor positioned above a block of metal. A pulse is sent downwards. A reflection is indicated from a 'crack' within the metal, and another from the 'bottom surface' of the metal. The vertical distance between the crack and the bottom surface is labeled 'x'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q28",
+    "Question_text": "A 12 V battery is connected to a resistor of resistance 100 Ω. How much charge passes through the resistor in 30 minutes?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q29",
+    "Question_text": "A circuit consists of a resistor connected between the positive terminal and the negative terminal of a power supply. Which row describes the direction of conventional current and the direction of flow of free electrons in the resistor?",
+    "image": "A table with two columns, 'direction of conventional current' and 'direction of flow of free electrons', and four rows (A, B, C, D) describing possible directions relative to positive and negative terminals.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q30",
+    "Question_text": "The graph shows how the resistance of a thermistor varies with temperature. The thermistor is at a temperature of 10 °C and is connected in series with a fixed resistor of resistance 20 Ω. What is the combined resistance of both components?",
+    "image": "A graph plotting 'resistance/Ω' on the y-axis (from 0 to 160) against 'temperature/°C' on the x-axis (from 0 to 50). The curve shows an inverse relationship, with resistance decreasing as temperature increases. At 10°C, the resistance is 80Ω.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q31",
+    "Question_text": "Each of the resistors in the circuit shown has a resistance of 6.0 Ω. What is the total resistance of the circuit?",
+    "image": "A circuit diagram showing three resistors. Two 6.0Ω resistors are connected in parallel, and this parallel combination is then connected in series with a third 6.0Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q32",
+    "Question_text": "An alternating current (a.c.) generator is connected to an oscilloscope. The diagram shows the trace produced on the oscilloscope screen. What are possible angles between the plane of the coil and the magnetic field direction at the times represented by points 1, 2 and 3?",
+    "image": "An oscilloscope trace displaying a sinusoidal waveform over time. Points 1, 2, and 3 are marked on the trace. Point 1 is at a positive peak, Point 2 is at zero (crossing the x-axis), and Point 3 is at a negative peak.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromagnetic Induction",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q33",
+    "Question_text": "A beam of beta particles travelling vertically downwards enters the magnetic field between two magnetic poles. The beta particles experience a force due to the magnetic field. What is the direction of the force on a beta particle as it enters the magnetic field?",
+    "image": "A diagram showing two magnetic poles, North (N) on the left and South (S) on the right, indicating a magnetic field from left to right. A 'beam of beta particles' is shown entering this field from above, travelling vertically downwards.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q34",
+    "Question_text": "A step-up transformer is connected between a power station and a long-distance electricity transmission cable. What is the purpose of the step-up transformer, and does it operate using alternating current (a.c.) or using direct current (d.c.)?",
+    "image": "A table with two columns, 'purpose of a step-up transformer' and 'current used', and four rows (A, B, C, D) describing the effect on current (decrease or increase) and the type of current (d.c. or a.c.).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q35",
+    "Question_text": "Each diagram shows the nucleus of an atom. Which diagrams show isotopes of the same element?",
+    "image": "Four diagrams (1, 2, 3, 4) illustrating atomic nuclei. A key indicates dark grey circles as 'proton' and light grey circles as 'neutron'. Diagram 1 shows 2 protons and 2 neutrons. Diagram 2 shows 2 protons and 3 neutrons. Diagram 3 shows 3 protons and 3 neutrons. Diagram 4 shows 2 protons and 4 neutrons.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q36",
+    "Question_text": "A radioactive nucleus X decays to another radioactive nucleus. After a number of decays, a stable nucleus Q is produced. The proton number (atomic number) of X is equal to that of Q. The nucleon number (mass number) of X is four more than that of Q. Which radiations are emitted to produce Q?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q37",
+    "Question_text": "The graph shows the results of an experiment to measure the count rate of a radioactive isotope. What is the half-life of the isotope?",
+    "image": "A graph showing radioactive decay. The y-axis is 'count rate counts/minute' from 0 to 1000. The x-axis is 'time/minutes' from 0 to 160. The curve starts at 900 counts/minute at time 0 and exponentially decreases.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q38",
+    "Question_text": "During fission, a nucleus of uranium-235 (U-235) absorbs one neutron to produce two daughter nuclei and three neutrons. Krypton-92 (Kr-92) is one of the daughter nuclei and it contains 92 nucleons. How many nucleons does the other daughter nucleus contain?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q39",
+    "Question_text": "The orbital speed of a planet around the Sun is v and its orbital period is T. Jupiter is further from the Sun than the Earth. Which planet has the greater value for v and which planet has the greater value for T?",
+    "image": "A table with two columns, 'greater orbital speed v' and 'greater orbital period T', and four rows (A, B, C, D) comparing Earth and Jupiter for these values.",
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "Calculating Orbital Speeds",
+      "Orbiting Bodies",
+      "The Solar System",
+      "Gravitational Effects on Orbits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2025/Q40",
+    "Question_text": "What is the Earth's position in the order of planets from the Sun?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "The Solar System"
+    ],
+    "Parts": []
+  }
+]

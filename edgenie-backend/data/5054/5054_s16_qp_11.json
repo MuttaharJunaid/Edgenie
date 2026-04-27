@@ -1,0 +1,469 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2016/Q1",
+    "Question_text": "The diagram shows arrows representing two vector quantities. Which diagram shows the resultant R of these two vectors?",
+    "image": "Four diagrams (A, B, C, D) illustrating vector addition. In each diagram, two initial vectors are shown, and a resultant vector R is drawn. The task is to identify the correct diagram where R represents the accurate resultant of the two given vectors using the parallelogram or triangle method.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q2",
+    "Question_text": "Which set of quantities are all vectors?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q3",
+    "Question_text": "A student determines the circumference of a golf ball. Which instrument gives a reading that is the circumference of the golf ball?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q4",
+    "Question_text": "The graph shows how the speed of a car varies with time. Which statement about the acceleration of the car between 10s and 20s is correct?",
+    "image": "A speed-time graph showing speed (m/s) on the y-axis (up to 15 m/s) and time (s) on the x-axis (up to 20 s). The speed increases linearly from 0 m/s at 0 s to 15 m/s at 10 s. From 10 s to 20 s, the speed remains constant at 15 m/s, indicated by a horizontal line segment.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration",
+      "Calculating Acceleration from Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q5",
+    "Question_text": "A man pulls a sledge of mass 25kg across level ground with a horizontal force of 60N. A constant force of friction of 20 N acts on the sledge. What is the acceleration of the sledge?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q6",
+    "Question_text": "A car moves in a circle at constant speed. What is the direction of the resultant force acting on the car?",
+    "image": "A diagram shows a car at the top of a circular path. An arrow indicates the 'direction of motion' of the car as clockwise along the circle. A point 'X' is labeled 'centre of circle turned by car'. Four possible directions for the resultant force are shown as arrows originating from the car: A points left (tangential), B points right (tangential), C points downwards (tangential), and D points towards the center X.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q7",
+    "Question_text": "A brick is placed on a newton meter and then on a beam balance. What is measured by each instrument?",
+    "image": "Two diagrams are shown side-by-side. The first diagram shows a 'newton meter' from which a 'brick' is suspended, indicating the measurement of weight. The second diagram shows a 'beam balance' with a 'brick' on its left pan and standard masses (1.5 kg, 0.5 kg) on its right pan, indicating the measurement of mass.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q8",
+    "Question_text": "A force acts on a body. Which list contains only quantities that can be changed by the force?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q9",
+    "Question_text": "A uniform horizontal beam, pivoted at its right-hand end, is in equilibrium. A force of 60N acts vertically upwards on the beam as shown. What is the weight of the beam?",
+    "image": "A diagram shows a uniform horizontal beam pivoted at its right-hand end. An upward force of 60 N is applied 20 cm from the left end of the beam. The beam's 'weight' acts downwards at its center, 30 cm from the pivot. This implies the 60 N force is applied 50 cm from the pivot (20 cm from left end + 30 cm from center to pivot = total length of 60 cm for a uniform beam, so 20 cm from left implies 40 cm from pivot). Re-interpreting the image based on calculation: If the pivot is at the right end, and the weight of a uniform beam acts at its centre, then the distance of the weight from the pivot is half the beam's length. The diagram indicates the 60N force is applied at a point 20 cm from its point of action to another point, which is 30 cm from the pivot. So the 60N force is 50 cm from the pivot. For a uniform beam, the weight is at its center, so it is 30 cm from the pivot. The question asks for the weight of the beam, W. Taking moments about the pivot: 60 N * (20 cm + 30 cm) = W * 30 cm. So, 60 N * 50 cm = W * 30 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q10",
+    "Question_text": "Four table lamps are shown along with the position M of the centre of mass in each case. Which lamp is the most stable?",
+    "image": "Four diagrams (A, B, C, D) of table lamps, each with a marked point 'M' representing the center of mass. Lamp A has a narrow base and a high center of mass. Lamp B has a moderate base and a relatively high center of mass. Lamp C has a wide base and a very low center of mass. Lamp D has a narrow base and a low center of mass.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q11",
+    "Question_text": "A child slides down a slide. The weight of the child is 250 N. The height of the slide is 7.0m. The work done against friction as the child travels down the slide is 1300 J. What is the change in gravitational potential energy and what is the final kinetic energy of the child?",
+    "image": "A diagram shows a child on a slide. The slide starts from a height of 7.0 m above the ground. The child is shown partway down the curved slide.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Work",
+      "Kinetic Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q12",
+    "Question_text": "What uses non-renewable energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q13",
+    "Question_text": "Which process in the Sun produces energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy from the Sun"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q14",
+    "Question_text": "A 300 N force is applied to a box to move it up a ramp, as shown. How much work is done by the force when moving the box from X to Y?",
+    "image": "A diagram shows a box being pushed up a ramp from point X to point Y. A 300 N force is applied parallel to the surface of the ramp. The ramp has a length (distance along the ramp from X to Y) of 5.0 m. The vertical height difference between X and Y is 3.0 m, and the horizontal distance is 4.0 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q15",
+    "Question_text": "Four beakers contain the same liquid. At which point is the pressure the greatest?",
+    "image": "Four beakers (labeled A, B, C, D) are shown, each containing the same liquid. An 'X' marks a point within the liquid in each beaker. Point A is near the top surface on the left. Point B is in the middle depth on the left. Point C is near the bottom of the beaker in the center. Point D is on the right side, at a moderate depth, shallower than C.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q16",
+    "Question_text": "Water of depth 10m exerts a pressure equal to atmospheric pressure. An air bubble rises to the surface of a lake which is 20m deep. When the bubble reaches the surface, its volume is 6.0 cm³. What is the volume of the air bubble at the bottom of the lake?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q17",
+    "Question_text": "A gas in a container of fixed volume is heated. What happens to the molecules of the gas?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q18",
+    "Question_text": "Which statement about thermal radiation is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q19",
+    "Question_text": "For a transverse wave, what is a wavefront?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q20",
+    "Question_text": "A longitudinal wave passes along a spring. The coils of the spring vibrate from side to side. The diagram shows the positions of the coils at one particular time. Which positions are one wavelength apart?",
+    "image": "A diagram shows a longitudinal wave propagating through a spring. The coils are represented by vertical lines. Some regions are compressed (lines closer together) and some are rarefied (lines further apart). Four specific positions along the wave are labeled W, X, Y, and Z. W is at the start of a compression, X is at the center of a rarefaction, Y is at the center of the next compression, and Z is at the center of the subsequent rarefaction.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q21",
+    "Question_text": "Light is incident on a mirror. The light is reflected from the mirror. The angle of incidence is i and the angle of reflection is r. Which diagram correctly shows i and r?",
+    "image": "Four diagrams (A, B, C, D) depict a light ray striking a flat mirror and reflecting. In each diagram, a normal line is drawn perpendicular to the mirror at the point of incidence. The angles of incidence (i) and reflection (r) are marked in different ways relative to the incident ray, reflected ray, and the normal or mirror surface. Only one diagram correctly defines i and r as the angles between the respective rays and the normal.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q22",
+    "Question_text": "Which length is the focal length of the lens shown in the diagram?",
+    "image": "A ray diagram illustrating a converging (convex) lens. Parallel incident light rays are shown entering the lens from the left. After passing through the lens, these rays converge to a single point on the principal axis on the right. Various lengths are labeled A, B, C, and D. Length D represents the distance from the optical center of the lens to the point where the parallel rays converge (the focal point).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q23",
+    "Question_text": "Light passes from air into a glass block of refractive index 1.5, as shown. What is the angle of refraction in the glass and what is the critical angle?",
+    "image": "A diagram shows a ray of light traveling from air into a glass block. A normal line is drawn perpendicular to the surface of the glass block at the point of incidence. The angle of incidence between the incident ray and the normal is indicated as 57°. The refracted ray is shown bending towards the normal inside the glass block. The diagram is labeled 'NOT TO SCALE'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q24",
+    "Question_text": "Microwaves are used to transmit television signals to and from a satellite. Which statement about microwaves is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q25",
+    "Question_text": "Where are gamma-rays used?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q26",
+    "Question_text": "An intruder alarm is adjusted to give a quieter sound without affecting the pitch of the note. How are the amplitude and the frequency of the sound affected?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q27",
+    "Question_text": "Four plotting compasses are placed near a bar magnet. You may ignore any effects of the Earth's magnetic field. One compass appears like this (image of compass needle). What is a possible position for this compass?",
+    "image": "A diagram shows a bar magnet with its 'S' (South) pole on the left and 'N' (North) pole on the right. Four possible locations around the magnet are marked as A, B, C, and D. An inset image shows a compass with its needle's black end pointing directly downwards, while the other end (implied North pole) points upwards relative to the compass's frame. For the given options, the compass needle is pointing directly towards the South pole of the bar magnet.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q28",
+    "Question_text": "The diagram shows an uncharged ball coated with metallic paint. The ball is suspended from an insulating thread. It is placed near a positively charged rod. Which diagram shows the charge distribution on the ball?",
+    "image": "A diagram shows an uncharged ball, coated with metallic paint and suspended by an insulating thread, positioned near a positively charged rod. The rod is shown with multiple '+' symbols. Four options (A, B, C, D) illustrate different hypothetical charge distributions on the surface of the ball.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q29",
+    "Question_text": "The current in a car headlamp is 2.0A. The headlamp is switched on for 4.0 minutes. How much charge passes through the headlamp?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q30",
+    "Question_text": "How can one volt also be expressed?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q31",
+    "Question_text": "The cells, lamps and resistors in the circuits are identical. In which circuit is the lamp the brightest?",
+    "image": "Four circuit diagrams (A, B, C, D) are shown. Each circuit contains identical cells, lamps (represented by a circle with a cross), and resistors. Circuit A has one cell, one lamp, and one resistor in series. Circuit B has one cell, one lamp, and two resistors in series. Circuit C has two cells in series, one lamp, and one resistor in series. Circuit D has two cells in series, one lamp, and two resistors in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q32",
+    "Question_text": "The graph is the voltage-current graph for two resistance wires P and Q. The wires are made from the same material and have equal lengths. The resistances of the wires and their cross-sectional areas are different. Which wire has the greater resistance and which wire has the larger cross-sectional area?",
+    "image": "A voltage-current (voltage on y-axis, current on x-axis) graph. Two straight lines, labeled P and Q, originate from the origin. Line P has a steeper positive slope than line Q, indicating higher resistance.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q33",
+    "Question_text": "A lamp is connected to the a.c. mains supply in series with a switch and a fuse. Which circuit shows these components wired correctly?",
+    "image": "Four circuit diagrams (A, B, C, D) illustrate a lamp, a switch, and a fuse connected to an a.c. mains supply (labeled 'live' and 'neutral'). The diagrams vary in the placement of the switch and fuse relative to the live and neutral wires and the lamp.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q34",
+    "Question_text": "A student is investigating resistance using the circuit shown. The resistance of R is approximately 5Ω. What are the most suitable ranges for the voltmeter and for the ammeter?",
+    "image": "A circuit diagram showing a variable voltage supply connected in series with a resistor R and an ammeter (A). A voltmeter (V) is connected in parallel across the resistor R.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q35",
+    "Question_text": "A split-ring commutator is used in a simple d.c. motor. It reverses the current in the coil. How often does it reverse the current?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q36",
+    "Question_text": "Which component, when used in a circuit, allows current to pass in only one direction?",
+    "image": "Four circuit symbols are presented: A is a diode symbol, B is a lamp symbol (circle with a cross), C is a resistor symbol (rectangle), and D is a symbol resembling a thermistor or LDR (rectangle with a diagonal arrow and a circle, or a zig-zag line with an arrow and a circle).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q37",
+    "Question_text": "A potential divider consists of a thermistor and a light-dependent resistor (LDR). Which conditions give the smallest voltage V across the LDR?",
+    "image": "A circuit diagram shows a potential divider arrangement. A 6.0 V power supply is connected across a series combination of a thermistor (symbol with T) and a light-dependent resistor (LDR) (symbol with an arrow and squiggly line). A voltmeter measures the voltage V across the LDR.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q38",
+    "Question_text": "Which type of radiation consists of electrons?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q39",
+    "Question_text": "A sample of a radioactive isotope produces a count rate of 10000 counts per minute. The half-life of the isotope is one day. What was the count rate of the sample two days ago?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2016/Q40",
+    "Question_text": "Which statement about a nucleus of ¹⁵N is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

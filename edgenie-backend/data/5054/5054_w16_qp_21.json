@@ -1,0 +1,421 @@
+[
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q1",
+    "Question_text": "A car of mass 800kg is travelling at a speed of 25 m/s along a straight, horizontal road.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Scalars & Vectors",
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how velocity differs from speed.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The driver presses the accelerator and the speed of the car starts to increase from 25m/s. The car accelerates at 1.5m/s².",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the resultant force acting on the car as it accelerates.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the forward force acting on the car due to the engine is greater than the value in (b)(i).",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Determine the speed of the car 4.0s after it starts to accelerate.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q2",
+    "Question_text": "Fig. 2.1 shows a bed that folds away against a wall during the day. When it is horizontal, the bed is supported on one side by a hinge and on the other side by two legs. The weight W of the bed acts through its centre of mass, which is at a horizontal distance of 0.35 m from the hinge.",
+    "image": "A diagram, Fig. 2.1, shows a bed hinged to a wall. The bed is in a horizontal position, supported by a hinge on one side and a leg on the other. The diagram indicates the weight 'W' of the bed acting downwards at its centre of mass, which is 0.35 m from the hinge. The leg is positioned 0.30 m from where the weight 'W' acts, further away from the hinge.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Centre of Gravity",
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The mass of the bed is 26 kg. The gravitational field strength g is 10N/kg. Calculate the weight W of the bed.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the principle of moments.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the size of the total upward force exerted on the bed by the two legs when the bed is horizontal.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q3",
+    "Question_text": "A large power station burns oil to heat water in a boiler.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Energy Resources",
+      "Efficiency",
+      "Power",
+      "Energy from Fuels"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the form of energy stored in the oil before it is burnt.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State and explain whether oil is a renewable or a non-renewable energy source.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe one environmental issue caused by burning oil to generate electricity in a power station.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is meant by efficiency.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The efficiency of the power station is 0.38 (38%). Its electrical power output is 1.9 × 10⁹ W. Calculate 1. the input power to the power station, 2. the energy wasted in 2.0 hours.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q4",
+    "Question_text": "A lamp is positioned at the bottom of a small pool of water. The critical angle for light passing from water into air is 49°.",
+    "image": "Fig. 4.1 is a diagram illustrating a lamp at the bottom of a pool of water, under an air-water interface. The diagram shows the horizontal line within the water and three light rays originating from the lamp, striking the water surface at angles of 30°, 60°, and 90° relative to the horizontal. The 90° ray is vertical, the 60° ray is at an angle, and the 30° ray is at a steeper angle relative to the horizontal.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by the term critical angle.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The lamp sends light towards the surface of the pool. Fig. 4.1 shows three rays of light that are at 30°, 60° and 90° to the horizontal. On Fig. 4.1, draw the path taken by each of the three rays after they strike the surface of the water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q5",
+    "Question_text": "Fig. 5.1 shows a loudspeaker inside a glass bell-jar that contains air. The loudspeaker produces a sound of frequency 2200 Hz.",
+    "image": "Fig. 5.1 shows a cross-sectional diagram of a glass bell-jar with a loudspeaker suspended inside. The bell-jar contains air and is sealed at the bottom by a base with a tube extending downwards, indicating a mechanism for air removal. The loudspeaker is connected to a power source, not explicitly shown but implied by the electrical connection lines.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by the frequency of a sound.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The speed of sound in air is 330m/s. Calculate the wavelength of the sound in the air.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The sound passes from the air into the glass. State what happens to 1. the frequency of the sound, 2. the speed of the sound.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe 1. how sound is produced by the loudspeaker, 2. how sound is transmitted through the air.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A pump is connected to the tube at the bottom of the glass bell-jar. The pump is switched on and it removes the air from the glass bell-jar. Explain why the volume of the sound heard outside the glass bell-jar decreases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q6",
+    "Question_text": "Two flexible iron strips, WX and YZ, are placed close to each other inside a solenoid (long coil). The end W of WX and the end Z of YZ are held firmly in position. Fig. 6.1 shows that the solenoid is connected to a d.c. power supply and a switch. The switch is closed and there is an electric current in the solenoid. End W of flexible iron strip WX becomes a magnetic S-pole.",
+    "image": "Fig. 6.1 is a circuit diagram showing a solenoid (long coil) wrapped around two flexible iron strips labeled WX and YZ. The solenoid is connected to a d.c. power supply via a switch. The ends W and Z of the iron strips are shown fixed. The diagram depicts the magnetic field lines or poles induced when current flows, with labels X and Y on the iron strips within the coil.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Effect of a Current",
+      "Electromagnetic Induction",
+      "Electric Motors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the type of magnetic pole produced at X, Y and Z.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State and explain what happens to X and Y because the flexible iron strips are magnetised.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A relay operates a switch in one circuit using the current in a different circuit. State one example of a relay used in this way and explain why a relay is used.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q7",
+    "Question_text": "The a.c. mains electricity system in a house consists of three wires: the live, the neutral and the earth.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Current",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the purpose of the live wire.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the neutral wire is needed.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "An electrical appliance is switched on and the current in the fuse becomes greater than the rating of the fuse. State and explain what happens.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State and explain in which of the three wires the fuse is located.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q8",
+    "Question_text": "Sodium-24 and sodium-23 are two of the isotopes of sodium. Sodium-24 is a radioactive isotope that emits beta-particles and gamma-rays as it decays.",
+    "image": "Fig. 8.1 is a diagram showing two horizontal, oppositely charged parallel plates. The top plate is positively charged (+), and the bottom plate is negatively charged (-). Two incoming horizontal beams are shown entering the electric field between the plates: one labeled 'beam of beta-particles' and the other 'beam of gamma-rays'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Uses of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe the composition and structure of a neutral atom of sodium-24.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how the composition of a nucleus of sodium-24 differs from the composition of a nucleus of sodium-23.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the name of the particle that is identical to a beta-particle.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Complete the nuclide equation for the emission of a beta-particle (β) by sodium-24. 24Na -> β + Mg",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When it decays, sodium-24 also emits gamma-rays. State what gamma-rays are.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "On Fig. 8.1, draw the path of the beta-particles in the electric field between the charged plates.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "On Fig. 8.1, draw the path of the gamma-rays in the electric field between the charged plates.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Explain why the path taken by the beta-particles differs from that taken by the gamma-rays.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Sodium-24 is sometimes used in diagnosing medical conditions. The half-life of sodium-24 is 15 hours. Explain one reason why a half-life of 15 hours makes the isotope suitable for use in the human body.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q9",
+    "Question_text": "The primary coil of a transformer is connected to the 230 V a.c. mains supply.",
+    "image": "Fig. 9.1 is a circuit diagram showing a d.c. power supply (5.0 V) connected in series with a 5.2 Ω resistor and a rechargeable battery. The battery has its positive terminal connected towards the resistor and its negative terminal towards the negative of the power supply, indicating it is being charged. An arrow explicitly shows the 'current direction' flowing from the positive of the power supply, through the resistor, into the positive terminal of the battery, and back to the negative terminal of the power supply.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Transformers",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Combined Resistance",
+      "Electrical Charge",
+      "Electrical Safety"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe how the transformer operates.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The output voltage of the transformer is alternating and cannot be used directly as a d.c. power supply. In the space below, draw the symbol of a circuit component that allows the current to pass in only one direction and state the name of the component.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 9.1 shows a d.c. power supply being used to charge a rechargeable battery. The rechargeable battery is in series with the d.c. power supply and a 5.2Ω resistor. The e.m.f. of the power supply is 5.0V.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain what is meant by e.m.f.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The e.m.f. of the power supply and the e.m.f. of the battery act against each other in opposite directions in the circuit. The e.m.f. of the battery is 3.7 V. 1. Calculate the resultant e.m.f. in the circuit. 2. Calculate the current in the circuit. 3. The current in the circuit remains constant as the battery is charged. Calculate the charge that passes through the resistor in 1.5 hours.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A battery charger has a plastic casing and double insulation. The battery charger is not earthed. Explain why it is not necessary for the battery charger to be earthed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2016/5054/21/Q10",
+    "Question_text": "A particular type of cooking oil is a liquid at room temperature.",
+    "image": "Fig. 10.1 is a diagram showing a metal pan with a handle, containing oil, placed on an electric hotplate. The hotplate is a flat, solid surface designed to heat the pan from below.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Density",
+      "Thermal Conduction",
+      "Convection",
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "At room temperature, air is easily compressed but the oil cannot be compressed. Explain, in terms of molecules,",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "why the density of the oil is much greater than that of a gas,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "why the oil cannot be compressed.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Some of the oil is poured into a metal pan. The oil in the pan has a mass of 680 g.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The density of the oil is 0.85g/cm³. Calculate the volume of oil in the pan.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The pan is placed on an electric hotplate, as shown in Fig. 10.1. 1. Explain, in terms of molecules or free electrons, how thermal energy is conducted through the metal base of the pan. 2. Explain how thermal energy spreads to all the oil in the pan. 3. Suggest and explain a suitable material for the handle of the pan.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The specific heat capacity of the oil is 2.0J/(g°C). The oil is heated from 20°C to its boiling point of 260 °C.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is meant by boiling point.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the thermal energy needed to heat the 680 g of oil to its boiling point.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Suggest one reason why the energy output from the hotplate, when heating the oil, is larger than the value calculated in (c)(ii).",
+        "image": null
+      }
+    ]
+  }
+]

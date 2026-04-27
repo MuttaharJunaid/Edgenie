@@ -1,0 +1,631 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2012/Q1",
+    "Question_text": "The diagram shows a shaded region R.",
+    "image": "A Cartesian coordinate system graph with x and y axes ranging from 0 to 8. A shaded region R is shown, which is a polygon. The boundaries of the region are defined by lines including x=0, y=0, y=x+2, and another line passing through approximately (5,0) and (0,5), and another vertical line at x=5, and a horizontal line at y=6, forming a complex polygonal region. The point (2,2) and (0,2) seem to be critical points, with (2,2) being a vertex. The region R is bounded by y=x+2 (the upper sloping line), x+y=5 (the lower sloping line), x=0 (y-axis) and y=0 (x-axis). It also appears to be bounded by x=5 and y=6, but the shaded region R is clearly within the bounds defined by the inequalities in part (b).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region",
+      "Find the gradient of a straight line",
+      "Find the gradient and equation of a straight line parallel to a given line",
+      "Find the gradient and equation of a straight line perpendicular to a given line",
+      "Draw straight-line graphs for linear equations",
+      "Use and interpret vocabulary of polygons"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the name of the shaded polygon.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Three of the inequalities that define the region R are x ≥ 0, y ≥ 0 and y ≤ x + 2. Write down the other two inequalities that define this region.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the diagram draw the line that is parallel to y = x + 2 and passes through the point (5, 0).",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Find the gradient of the line that is perpendicular to y = x + 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown",
+      "Solve fractional equations with numerical and linear algebraic denominators",
+      "Solve quadratic equations by factorisation",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Construct expressions, equations and formulas",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve the equation (7x + 1)/4 - x/2 = 1.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve the equation y² – 81 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The length of the base of a parallelogram is 6 cm more than its perpendicular height, h cm. The area of this parallelogram is 33.25 cm².",
+        "image": "A diagram of a parallelogram is shown, with a dashed line indicating its perpendicular height 'h'. The base length is implicitly (h+6)."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Show that h satisfies the equation 4h² + 24h – 133 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Solve the equation 4h² + 24h – 133 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Find the length of the base of the parallelogram.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q3",
+    "Question_text": "Simon walks from his house to Juan's house. He stays there for a short while before they walk together to the cinema. The graph represents the journey from Simon's house to the cinema.",
+    "image": "A distance-time graph. The x-axis represents 'Time of day' from 16:00 to 22:00. The y-axis represents 'Distance (km)' from 0 to 4. The graph shows Simon's house at (16:00, 0km), a steady increase in distance until 17:00 (reaching 2.5km at Juan's house), a horizontal segment from 17:00 to 17:30 (staying at Juan's), then another steady increase in distance from 17:30 to 18:00 (reaching 4km at the cinema).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Draw graphs from given data",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Solve average speed problems",
+      "Calculate with time units",
+      "Use 24-hour clock",
+      "Calculate percentage of quantity",
+      "Calculate reverse percentages",
+      "Calculate with money"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "For how many minutes does Simon stay at Juan's house?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "At what speed does Simon walk to Juan's house?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Simon has a 15% discount voucher for his cinema ticket but Juan pays the full price. Simon pays $4.42 for his ticket. How much does Juan pay?",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "They stay at the cinema for 2 hours before they each walk home at 3 km/h. Complete the graph to show this information.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "At what time do they arrive at Juan's house?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q4",
+    "Question_text": "The scale diagram shows the position of two hotels, W and X, drawn to a scale of 1 cm to 5 km.",
+    "image": "A scale diagram showing two points labelled 'W' and 'X'. A 'North' arrow is indicated vertically upwards from W and X. A straight line connects W and X. The diagram provides context for bearing and distance calculations.",
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings",
+      "Use and interpret three-figure bearings",
+      "Measure and draw lines and angles",
+      "Construct a triangle given lengths of all sides using ruler and compasses",
+      "Use proportional reasoning"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find, by measurement, the bearing of W from X.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Hotel Y is 40 km from W and 37 km from X. Given that Y is the furthest south, construct the position of Y on the diagram.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The bearing of hotel Z from W is 072° and Z is due North of X. By making an accurate drawing, mark the position of Z on the diagram. Find the actual distance, in kilometres, between Z and X.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q5",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams",
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Calculate probability of single event",
+      "Classify and tabulate statistical data",
+      "Calculate estimate of mean for grouped discrete or continuous data",
+      "Identify modal class from grouped frequency distribution",
+      "Express as percentage"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The cumulative frequency graph shows the distribution of the lengths of 60 leaves.",
+        "image": "A cumulative frequency graph. The x-axis is 'Length (cm)' from 5 to 10. The y-axis is 'Cumulative frequency' from 0 to 60. The S-shaped curve starts at (5,0) and rises to (10,60)."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the table to show the distribution of the lengths of the leaves.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Use the graph to estimate the median.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Use the graph to estimate the interquartile range.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "One of these leaves is chosen at random. Estimate the probability that it has a length of more than 7.5 cm.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The distribution of the widths of these leaves is shown in the table below.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate an estimate of the mean width.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the percentage of leaves with a width of more than 6 cm.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams",
+      "Identify natural numbers",
+      "Identify integers",
+      "Identify prime numbers",
+      "Identify common multiples"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "& = { x :x is an integer, 2 ≤ x ≤ 14} A = { x : x is a prime number } B = { x :x is a multiple of 3 }",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "List the members of (A ∪ B)'.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find n(A ∩ B).",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Given that C ⊆ A, n(C) = 3 and B ∩ C = Ø, list the members of a possible set C.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the Venn diagram, shade the set (P ∪ R) ∩ Q'.",
+        "image": "A Venn diagram showing a universal set E and three overlapping sets P, Q, R."
+      },
+      {
+        "part_label": "c",
+        "part_text": "A group of 80 people attended a recreation centre on one day. Of these people, 48 used the gym, 31 used the swimming pool, 17 used neither the gym nor the swimming pool. By drawing a Venn diagram, or otherwise, find the number of people who used both the gym and the swimming pool.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q7",
+    "Question_text": "OAB is a triangle and OBDC is a rectangle where OD and BC intersect at E. F is the point on CD such that CF = 1/4 CD. OA = a, OB = b and OC = c.",
+    "image": "A geometric diagram showing vectors. O is the origin. Vectors OA (labelled 'a'), OB (labelled 'b'), OC (labelled 'c') are shown. There is a triangle OAB and a rectangle OBDC. Points E and F are also marked on the diagram, with E being the intersection of OD and BC, and F on CD such that CF is one-quarter of CD.",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Represent vectors by directed line segments",
+      "Use position vectors",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express, as simply as possible, in terms of one or more of the vectors a, b and c,",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "AB,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "OE,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "EF.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "G is the point on AB such that OG = 2/5 a + 3/5 b.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Express AG in terms of a and b. Give your answer as simply as possible.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find AG : GB.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Express FG in terms of a, b and c. Give your answer as simply as possible.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q8",
+    "Question_text": "A kite is attached at A to a 20 m length of string and the other end of the string is held at B so that the string is a straight line. B is 2 m above the ground at C and AC = 21.3 m. D is the point at ground level directly below A such that ADC = BCD = 90°.",
+    "image": "A diagram showing points A, B, C, D forming right-angled triangles. Point A is a kite, connected to point B by a 20m string. Point B is 2m above point C (on the ground). Point D is on the ground directly below A, forming right angles at D and C for lines AD, DC, CB. The length AC is 21.3m.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem",
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry",
+      "Carry out calculations involving angles of elevation and depression",
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "ABC,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "AD.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "E is another point on the level ground such that DE = 8.6 m, EÐC = 33° and CÊD = 118°. Calculate",
+        "image": "A geometric diagram showing points D, E, B, C on level ground, with B at a height above C. Side DE is 8.6m. Angle EDC is 33 degrees and angle CED is 118 degrees. This forms a non-right-angled triangle DEC. B is still 2m above C."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "DĈE",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "CE,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "the angle of elevation of B from E.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q9",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Know that letters can be used to represent generalised numbers",
+      "Expand products of algebraic expressions",
+      "Simplify expressions by collecting like terms",
+      "Construct expressions, equations and formulas",
+      "Substitute numbers into expressions and formulas",
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A=(1 2 / -3 0) B=(3 1 / -2 -1)",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Find A - 2B.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find A⁻¹.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Zara is going to put carpet and underlay in three rooms, A, B and C, of her house. The cost per square metre for the carpet in A is $18, in B is $22 and in C is $25. The cost per square metre for the underlay is $6 in A and $8 in the other two rooms. This information is represented by matrix P below. P=(18 22 25 / 6 8 8) The amount of carpet and underlay required for A, B and C is 8 m², 15 m² and 20 m² respectively. This information is represented by matrix Q below. Q=(8 / 15 / 20)",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Find PQ.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain what the matrix PQ represents.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Triangle E is mapped onto triangle F by a reflection in the line y = − x. Draw and label triangle F.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The transformation that maps triangle E onto triangle G is represented by the matrix (2 0 / 0 1). Draw and label triangle G.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Triangle E is mapped onto triangle H by a stretch with the x-axis as the invariant line. The area of triangle H is 12 units².",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)(a)",
+        "part_text": "For this stretch, state the scale factor.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)(b)",
+        "part_text": "The vertex (1, 1) of triangle E is mapped onto the vertex (m, n) of triangle H. Find m and n.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q10",
+    "Question_text": "The diagram shows a major segment of a circle with centre O and radius 15 cm. A and B are two points on the circumference such that AÔB = 60°.",
+    "image": "A circle diagram with center O and radius 15 cm. Points A and B are on the circumference, forming a sector AOB with an angle of 60 degrees. This diagram highlights the major segment.",
+    "Unit": "Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Change the subject of formulas",
+      "Calculate lengths of similar shapes",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids",
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "the area of the major segment,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the perimeter of the major segment.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Shape I is formed by joining this segment to a trapezium, ABCD, along AB. AB is parallel to DC, DC = 25 cm and the perpendicular height of the trapezium is h cm. The area of this trapezium is 248 cm². Calculate h.",
+        "image": "A diagram labelled 'Shape I'. It shows the circle segment from part (a) attached to a trapezium ABCD along the side AB. The radius of the segment is 15 cm, and the central angle is 60 degrees. The trapezium has parallel sides AB and DC, with DC = 25 cm. A perpendicular height 'h' is shown for the trapezium. The line connecting the segment to the trapezium is AB, which is a chord of the circle."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Shape II is geometrically similar to Shape I. The longest side of the trapezium in Shape II is 5 cm.",
+        "image": "A diagram labelled 'Shape II'. It shows a shape geometrically similar to Shape I, but smaller. It depicts a circular segment joined to a trapezium. The trapezium's longest side (corresponding to DC in Shape I) is labelled 5. The segment has a radius 'r'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Find the radius, r, of the segment in Shape II.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Find the total area of Shape II.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q11",
+    "Question_text": "A, B, C and D are points on the circumference of a circle, centre O. CÂB = 28°, AĈO = 20° and CD is parallel to BA. EF is a tangent to the circle at C and OBF is a straight line. Find",
+    "image": "A circle with center O. Points A, B, C, D are on the circumference. Angle CAB is 28 degrees. Angle ACO is 20 degrees. Chord CD is parallel to chord BA. Line segment OBF is a straight line. Line EF is tangent to the circle at point C. Various angles and lines within and around the circle are shown.",
+    "Unit": "Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Use circle symmetry properties: equal chords equidistant from centre, perpendicular bisector of chord through centre, tangents from external point equal",
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°",
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)",
+      "Know and use angle properties of regular and irregular polygons",
+      "Measure and draw lines and angles"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "CÔB,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "OÊC,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "OĈB,",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "DĈE,",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "AÐC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "PQRS is a parallelogram. QT is the bisector of PQR and PÔT = 32°.",
+        "image": "A parallelogram PQRS. A diagonal QS is drawn. A line QT bisects angle PQR, where T is a point on RS. Angle PQT is shown as 32 degrees."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Giving a reason for your answer, find",
+        "image": null
+      },
+      {
+        "part_label": "b(i)(a)",
+        "part_text": "QTR,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)(b)",
+        "part_text": "SPQ.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On the diagram, construct the locus of points inside the parallelogram PQRS which are I 4 cm from PS, II 5 cm from R.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The point V is inside PQRS, less than 4 cm from PS, less than 5 cm from R, nearer to QR than PQ. Shade the region containing the possible positions of V.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2012/Q12",
+    "Question_text": "[The volume of a sphere = 4/3 πr³] A solid consists of a sphere on top of a square-based cuboid. The diameter of the sphere is x cm. The base of the cuboid has sides of length x cm. The sum of the height of the cuboid and one of the sides of the base is 8 cm.",
+    "image": "A diagram illustrating a solid composed of a sphere placed on top of a square-based cuboid. The diameter of the sphere is labelled 'x'. The side length of the square base of the cuboid is also labelled 'x'. The height of the cuboid is not explicitly labelled but is derived from the text.",
+    "Unit": "Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Carry out calculations and solve problems involving surface areas and volumes of compound solids and parts of solids",
+      "Construct expressions, equations and formulas",
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Draw graphs from given data",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "By considering the height of the cuboid, explain why it is not possible for this sphere to have a radius of 5 cm.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "By taking the value of π as 3, show that the approximate volume, y cm³, of the solid is given by y = 8x² − x³/2.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The table below shows some values of x and the corresponding values of y for y = 8x² − x³/2.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Complete the table.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On the grid opposite, plot the graph of y = 8x² − x³/2 for 1 ≤ x ≤ 7.",
+        "image": "A Cartesian coordinate system grid, with the x-axis ranging from 0 to 7 and the y-axis ranging from 0 to 240, suitable for plotting the function y = 8x² - x³/2."
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Use your graph to find the height of the cuboid when the volume of the solid is 120 cm³.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A cylinder has radius 3 cm and length x cm. By drawing a suitable graph on the grid, estimate the value of x when the solid and the cylinder have the same volume. Take the value of π as 3.",
+        "image": null
+      }
+    ]
+  }
+]

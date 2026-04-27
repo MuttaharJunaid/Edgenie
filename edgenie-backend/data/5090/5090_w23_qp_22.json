@@ -1,0 +1,362 @@
+[
+  {
+    "QuestionNumber": "1(a)(i)",
+    "Question_text": "State the term used to describe a disease-causing organism",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Pathogen definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(a)(ii)",
+    "Question_text": "State the term used to describe the type of disease in which the disease-causing organism is passed from one host to another.",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Transmissible disease definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(b)",
+    "Question_text": "Complete Table 1.1 to list some of the structures present in a bacterial cell and the function of each structure. The disease-causing organism that causes cholera is a bacterium.",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Bacterial cell structure",
+      "Functions of cell structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(c)(i)",
+    "Question_text": "The length of the bacterium in the photograph is 100 mm. Use this value to calculate the actual length of the bacterium in micrometres (μm).",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Bacterial cell structure",
+      "Functions of cell structures",
+      "Magnification formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(c)(ii)",
+    "Question_text": "Use your knowledge of a type of specialised human cell to suggest the name of structure Z and to state its function.",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.2 Specialised cells, tissues and organs",
+    "Sub_topic": [
+      "Specialised cells and functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(c)(iii)",
+    "Question_text": "State the genus of this type of bacterium and one advantage of the binomial system of naming species.",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.1 Concept and use of a classification system",
+    "Sub_topic": [
+      "Binomial naming system"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(c)(iv)",
+    "Question_text": "Explain how the presence of bacteria of this type in a human causes diarrhoea, one of the symptoms of cholera.",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Cholera bacterium disease",
+      "Cholera toxin effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(a)",
+    "Question_text": "Construct a food web to show the flow of energy between organisms in this ecosystem.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Food web description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)(i)",
+    "Question_text": "List the chemical elements that make up a molecule of lichenan.",
+    "image": null,
+    "Unit": "UNIT 4: Biological molecules",
+    "Topic": "4.1 Biological molecules",
+    "Sub_topic": [
+      "Elements in molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)(ii)",
+    "Question_text": "State one advantage to reindeer of eating food that contains lichenan.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.1 Diet",
+    "Sub_topic": [
+      "Nutrient sources importance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)(iii)",
+    "Question_text": "Use your knowledge of how cell function is controlled to suggest why other animals are not able to digest lichenan.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Enzymes as catalysts",
+      "Enzyme action mechanism",
+      "Enzyme specificity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(a)",
+    "Question_text": "Identify each of the following blood vessels. Q, R, U",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.3 Blood vessels",
+    "Sub_topic": [
+      "Main blood vessels named"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(b)",
+    "Question_text": "Compare the structures of blood vessels Q and R.",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.3 Blood vessels",
+    "Sub_topic": [
+      "Blood vessel structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(c)(i)",
+    "Question_text": "Explain Blood in vessel S has a lower concentration of urea than blood in vessel R.",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Nephron structure",
+      "Nephron functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(c)(ii)",
+    "Question_text": "Explain Blood in vessel U sometimes has a higher concentration of glucose than blood in vessel T.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.6 Blood glucose control",
+    "Sub_topic": [
+      "Blood glucose control need",
+      "Glucose control by organs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(a)(i)",
+    "Question_text": "Use the information in Fig. 4.2 and Fig. 4.3 to explain how the conditions in which these fish live may be challenging. Siamese fighting fish live in shallow water that can range in pH from 6.9 to 8.2 and in temperature from 15°C to 40°C.",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Gas exchange features"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(a)(ii)",
+    "Question_text": "Explain the advantage to Siamese fighting fish of also having this organ. All fish have gills that provide a gas exchange surface in water. Siamese fighting fish also have an organ that has similar features to those of a human lung. These fish swim to the surface of water to take air from the atmosphere into this organ.",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Respiratory structures",
+      "Alveoli exchange role"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(b)(i)",
+    "Question_text": "State the named structure in each diploid cell that contains the chromosomes Siamese fighting fish have 42 chromosomes in each diploid cell.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Chromosomes and genes",
+      "Diploid nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(b)(ii)",
+    "Question_text": "State the type of nuclear division that produces gametes Siamese fighting fish have 42 chromosomes in each diploid cell.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Meiosis in gametes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(b)(iii)",
+    "Question_text": "State the number of chromosomes in each gamete of the Siamese fighting fish. Siamese fighting fish have 42 chromosomes in each diploid cell.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Haploid nucleus",
+      "Meiosis in gametes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4(c)",
+    "Question_text": "Suggest how the process of selective breeding in Siamese fighting fish can be used to produce these desirable features. The dramatic shape and colour of Siamese fighting fish are produced by selective breeding.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.4 Selection",
+    "Sub_topic": [
+      "Artificial selection process",
+      "Artificial selection role"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(a)(i)",
+    "Question_text": "Identify the enzyme that the student should add to the apple in beakers A and B. A student investigates the use of an enzyme in fruit juice production.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Enzymes as catalysts",
+      "Enzyme action mechanism",
+      "Enzyme specificity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(a)(ii)",
+    "Question_text": "Outline the reason why the student set up beaker C. A student investigates the use of an enzyme in fruit juice production.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.2 Effects of temperature and pH",
+    "Sub_topic": [
+      "Measuring enzyme reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(b)",
+    "Question_text": "Use your knowledge of enzyme action to explain these results. The results of the student's investigation are shown in Table 5.1.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.2 Effects of temperature and pH",
+    "Sub_topic": [
+      "Measuring enzyme reactions",
+      "Investigate temperature/pH effects",
+      "Explain temperature/pH effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(c)",
+    "Question_text": "State two reasons why bacteria are suitable for this purpose. Bacteria can be genetically modified to produce enzymes for use in biotechnology.",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.1 Biotechnology",
+    "Sub_topic": [
+      "Bacteria in biotechnology",
+      "Bacteria advantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(a)",
+    "Question_text": "Identify each of J, K and L and explain the importance of each in the process of photosynthesis.",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.2 Leaf structure",
+    "Sub_topic": [
+      "Leaf structures adaptations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(b)",
+    "Question_text": "Name and describe the function of one tissue found in the vascular bundle of a leaf.",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Tissues in roots/stems",
+      "Xylem functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(a)(i)",
+    "Question_text": "Describe what is meant by ecosystem Mangrove trees grow in forests that form an important coastal ecosystem.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Population increase effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(a)(ii)",
+    "Question_text": "Describe what is meant by biodiversity Mangrove trees grow in forests that form an important coastal ecosystem.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.5 Biodiversity and conservation",
+    "Sub_topic": [
+      "Biodiversity importance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(a)(iii)",
+    "Question_text": "Describe what is meant by species Mangrove trees grow in forests that form an important coastal ecosystem.",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.1 Concept and use of a classification system",
+    "Sub_topic": [
+      "Species definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(b)",
+    "Question_text": "Explain how forests can be conserved as a sustainable resource. Like many forests around the world, mangrove forests are vulnerable to the effects of human activity.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.5 Biodiversity and conservation",
+    "Sub_topic": [
+      "Conservation methods",
+      "Conservation reasons"
+    ],
+    "Parts": []
+  }
+]

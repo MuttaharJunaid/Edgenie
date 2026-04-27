@@ -1,0 +1,443 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which is a property of hydrogen gas? A It burns in air. B It has an unpleasant smell. C It relights a glowing splint. D It turns moist litmus paper red.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Four identical balloons are filled with different gases all at the same temperature and pressure. The gases gradually diffuse out of the balloons. Which pair of balloons will deflate at the same rate? A P and Q B Q and R CR and S DS and P",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.2 Diffusion",
+    "Sub_topic": [
+      "Effect of molecular mass on diffusion rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Hydrogen chloride is very soluble in water, whereas chlorine is only slightly soluble in water. Both gases can be dried using concentrated sulfuric acid. Which diagram represents the correct method of obtaining pure dry chlorine from damp chlorine containing a small amount of hydrogen chloride?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Suggesting techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Two particles have the compositions shown. Which statement about X and Y is correct? A They are both positively charged. B They are particles of the same element. C They have the same mass number. D They have the same number of nucleons.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Proton number / atomic number",
+      "Mass number / nucleon number"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Which of the following is not a mixture? A ethanol B petrol C steel D tap water",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.1 Elements, compounds and mixtures",
+    "Sub_topic": [
+      "Differences between elements, compounds and mixtures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "When concentrated aqueous sodium chloride is electrolysed using carbon electrodes, which row correctly states the products at the electrodes and the solution remaining?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Carbon and silicon are both in Group IV of the Periodic Table, but at room temperature CO2 is a gas whereas SiO2 is a solid. Which statement explains this? A Covalent bonding is weaker in CO2. B Covalent bonds in CO2 are double bonds and in SiO2 the covalent bonds are single bonds. C CO2 is a covalent compound and SiO2 is ionic. D CO2 is a simple covalent molecule and SiO2 is a macromolecule.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Properties of simple molecular compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "An ionic compound has the formula X3Y2. To which groups of the Periodic Table do X and Y belong?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "When two solutions are mixed, a precipitate of a magnesium compound is formed. Which salt would be formed from solution as a precipitate?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Which substance has metallic bonding?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "In separate experiments sulfur dioxide, a reducing agent, was passed through acidified solutions of potassium dichromate(VI) and potassium manganate(VII). Which pair describes the colour changes observed in the experiments?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox by colour changes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "In the experiment shown in the diagram, the bulb lights and two colourless gases are formed, one at each electrode.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "0.5mol/dm³ hydrochloric acid is added gradually to a flask containing 20cm³ of 2mol/dm³ sodium hydroxide solution. What is the total volume, in cm³, of the mixture in the flask when the solution is just neutral?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration from titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Two of the reactions used in the manufacture of nitric acid, HNO3, are shown. What is the maximum number of moles of nitric acid which could be formed from one mole of nitrogen monoxide, NO?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Sulfur trioxide is produced by the following reaction. Which change in conditions would produce a greater yield of SO3 at equilibrium?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Solution X has a pH value of 12. It is added to aqueous ammonium chloride and the mixture is warmed. Which information is correct?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Which compound contains only eight covalent bonds?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Why does an increase in pressure increase the rate of reaction between the gases nitrogen and hydrogen in the manufacture of ammonia?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "The diagram shows the steps by which carbon dioxide can be converted into organic products and finally returned to the atmosphere. Which step is an example of combustion?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "The diagram shows some reactions of copper compounds. Which change is made by adding an acid?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "What is the effect of a catalyst on the activation energy and on the enthalpy change, ∆H, of a reaction?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Catalyst effect"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Which substance in the table could be an amphoteric oxide?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Amphoteric oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Which element in the table is an alkali metal?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.2 Group I properties",
+    "Sub_topic": [
+      "Group I trends"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Which compound is present in sand in the largest proportion?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Similarity between diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Atoms of elements X and Y have the electron configurations 2,5 and 2,8,5 respectively. Which deduction about these elements can be made from this information?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Similarities in groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "What is the function of silica, SiO2, in the equation shown below?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Classifying oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which gas can be removed from the exhaust gases of a petrol-powered car by its catalytic converter?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Oxides of nitrogen in cars"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Metal M will displace copper from aqueous copper(II) sulfate solution, but will not displace iron from aqueous iron(II) sulfate solution. M is extracted from its oxide by heating the oxide with carbon. What is the order of reactivity of these four metals?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Which substance in the table is the element iodine?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.3 Group VII properties",
+    "Sub_topic": [
+      "Appearance of halogens"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Iron pipes corrode rapidly when exposed to sea water. Which metal, when attached to the iron, would not offer protection against corrosion?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.5 Corrosion of metals",
+    "Sub_topic": [
+      "Sacrificial protection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Which method is used in industry to extract aluminium from bauxite?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Extraction of aluminium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Which row shows both the correct source and the correct effect of the named pollutant?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Adverse effects of pollutants"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "A sample of soil has a nitrogenous fertiliser in the form of an ammonium salt added to it. The ammonium salt dissolves in the water in the soil. When tested a week later, the water in the soil contained 15.3% of dissolved nitrogen and had a pH of 4.6. Calcium hydroxide was added to the soil and then the water in the soil was tested the next day, both for nitrogen content and pH. What would be the most likely result of the final test?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "Ammonium salts and nitrates as fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "The diagram shows a flow chart for the manufacture of fertiliser.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "NPK fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "A factory manufactures poly(ethene). Which raw material will the factory need?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Plastics from polymers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "Starch is a carbohydrate and is broken down to simple sugars by saliva in the mouth. What is the name for this reaction?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Proteins as polyamides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "If 1 mole of each alkane is completely burned in oxygen, which will provide 7 moles of products?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Properties of alkanes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "An alcohol contains 60% carbon by mass. What is its formula?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "The alcohol C4H9OH on oxidation with acidified potassium dichromate(VI) will give a carboxylic acid X. Which acid is X?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reactions of carboxylic acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Which compound has a pH of less than 7?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions"
+    ],
+    "Parts": []
+  }
+]

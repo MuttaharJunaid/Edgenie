@@ -1,0 +1,164 @@
+[
+  {
+    "QuestionNumber": "May/June/2020/Q1",
+    "Question_text": "A student has two measuring cylinders. One cylinder contains water and the other cylinder contains ethanol, as shown in Fig. 1.1. The student then pours the ethanol into the water and allows the liquids to mix. There is no chemical reaction. Fig. 1.2 shows the volume of the mixture.",
+    "image": "Fig. 1.1 shows two measuring cylinders. The left cylinder, labelled 'water', shows the liquid level at 42 cm³. The right cylinder, labelled 'ethanol', shows the liquid level at 40 cm³. Both cylinders are marked with major divisions at 30, 40, 50, and 10 cm³ increments, with smaller subdivisions of 1 cm³. Fig. 1.2 shows a single measuring cylinder containing the mixed liquids, with the liquid level at 80 cm³, indicating a combined volume that is less than the sum of the individual volumes. The cylinder is marked with major divisions at 80, 90, and 100 cm³, with smaller subdivisions of 1 cm³.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the volumes of water and ethanol in the measuring cylinders shown in Fig. 1.1. volume of water = .............................................................. cm³ volume of ethanol = .............................................................. cm³",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Use your answers to (a) to calculate the total volume of water and ethanol before they are mixed. total volume before mixing = .............................................................. cm³ Write down the combined volume of the mixture, as shown in Fig. 1.2. combined volume = .............................................................. cm³",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest one possible reason for the difference between the two answers in (b)(i).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A second student says that the result after mixing must be incorrect. State what the first student does to check the data.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2020/Q2",
+    "Question_text": "A student investigates the time taken for a glass ball to roll down a slope. She uses two metre rules, placed side by side with a small gap between them, to make a channel along which a ball can travel. A stack of identical sheets of paper is placed at one end to create the slope, as shown in Fig. 2.1. The height of the slope is changed by changing the number of sheets of paper in the stack. The slope is 100 cm long.",
+    "image": "Fig. 2.1 shows a side view of an experimental setup. Two metre rules form a channel on a bench, with one end elevated by a stack of paper sheets to create a slope. A ball is placed at the top of the slope, and Blu tack is used to secure the setup. Fig. 2.2 shows a micrometer screw gauge measuring the thickness of a stack of paper. The main scale reads 10 mm, and the thimble scale aligns at 11, indicating a reading of 10.11 mm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Measurement",
+      "Distance-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.1, show the position of the ball when it has travelled 100cm down the slope.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The paper stack is made from 20 identical sheets of paper. The student uses a micrometer to find the height h of the stack. The micrometer reading is shown in Fig. 2.2. Write down the height h of the stack.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student then uses a stop-watch to find the time taken for the ball to roll from the top to the bottom of the slope. She repeats the reading and gets the following values: 8.45 s 8.54 s 8.47 s 5.85 s 8.46 s Explain how the student uses this data to find the average time taken for the ball to roll down the slope.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the average time taken for the ball to travel down the slope. Give your answer to 2 significant figures. Record your answer on the answer line and in Table 2.1 on page 6. average time = .............................................................. s",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain why an answer to 2 significant figures is more appropriate for the average reading in this case.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Use the equation: average speed = distance / average time to calculate the average speed of the ball on the slope. Give the unit of your answer. average speed = .................................. unit .....................",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student extends the experiment and changes the height of the slope by increasing the number N of sheets of paper used in the stack. She finds the average time t for the ball to roll down the ramp for different values of N. The results are shown in Table 2.1. Using the data from Table 2.1, draw, on the grid in Fig. 2.3, a graph of average time t on the y-axis against N on the x-axis. Start your axes from (0, 5.0) as shown. Draw the best-fit curve.",
+        "image": "Table 2.1 shows data for N (number of sheets) and average time t/s. N values are 20, 40, 60, 80, 100, 120, 140. Corresponding t/s values are 7.2, 6.2, 5.8, 5.5, 5.2, 5.1. Fig. 2.3 shows a blank graph grid with axes starting from (0, 5.0) for plotting average time t/s on the y-axis against N on the x-axis."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State the relationship between N and the average speed of the ball.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A second student carries out the same experiment but she does not have access to a micrometer. Explain in detail how she can find an accurate value for the height of the stack of 20 sheets using a metre rule.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2020/Q3",
+    "Question_text": "A student makes a periscope using cardboard tubing and mirrors. He looks through the periscope at a flower, as shown in Fig. 3.1. Two rays of light are shown going from the flower to mirror 1.",
+    "image": "Fig. 3.1 shows a diagram of a periscope. It consists of a vertical tube with two plane mirrors placed at 45-degree angles inside, facing each other. Mirror 1 is at the top, receiving incident light rays from a flower. Mirror 2 is at the bottom, reflecting light towards an eye. Two incident light rays from the flower are drawn approaching mirror 1. Fig. 3.2 shows an original drawing of a simple flower with a central disc and five petals. Fig. 3.3 shows a similar periscope, but the orientation of mirror 1 is such that it would reflect light upwards, and mirror 2 is oriented to reflect light downwards, suggesting a different image orientation or path.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Ray Diagrams",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the ray diagram in Fig. 3.1 to show both rays as they reflect at mirror 1 and then mirror 2.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Draw an arrow on each ray to show the direction in which light is travelling.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Fig. 3.2 shows the original flower. On Fig. 3.2, sketch the image of the flower as seen by the student through the periscope.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A second student also makes a periscope. Her periscope is shown in Fig. 3.3. State how the image of the flower seen by the second student differs from that seen by the first student. You may draw the rays on Fig. 3.3 if you wish.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2020/Q4",
+    "Question_text": "A student is given two closed boxes. One box contains a fixed resistor and the other contains a filament lamp. The student is asked to identify the contents of each box. Fig. 4.1 shows part of the circuit used to identify the contents of each box.",
+    "image": "Fig. 4.1 shows a partial circuit diagram. It includes an ammeter (A) in series and a voltmeter (V) in parallel, with open terminals where a component would be connected. A separate symbol for a 'box' (a square with two terminals) is provided, indicating the component to be used.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 4.1, show how a box is connected in the circuit so that the current through it and potential difference across it may be measured. Use the symbol: [box symbol] to represent the box.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student now uses his circuit to identify the contents of the boxes. Describe how he uses the circuit. The number of cells used can be varied.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the readings that he takes.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain how he uses his readings to decide which box contains the filament lamp.",
+        "image": null
+      }
+    ]
+  }
+]

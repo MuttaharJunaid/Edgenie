@@ -1,0 +1,429 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2019/Q1",
+    "Question_text": "A student records the mass and volume of two irregular objects, one made of iron and the other of copper. The student uses the equipment shown in Fig. 1.1. Table 1.1 shows the results obtained.",
+    "image": "Fig. 1.1 shows a digital balance displaying '350g' with an irregular object (a rock) on it, and a measuring cylinder with water levels indicated, along with another irregular object. Table 1.1 provides data for mass (g) and volume (cm³) for iron (mass 400 g, volume 51 cm³) and copper (mass 350 g, volume 39 cm³).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how to determine the volume of an irregular object with the measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the density of iron.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A third object, which is also made of copper, has the same volume as the iron object. Calculate the mass of this copper object.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State and explain what happens to the density of the iron object when it is heated.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q2",
+    "Question_text": "Fig. 2.1 shows a container of gas connected to a manometer. The tube in the manometer has a constant cross-sectional area. The gas in the container exerts a pressure.",
+    "image": "Fig. 2.1 shows a gas container connected to a U-tube manometer. The manometer contains mercury. A vertical ruler, marked in cm from 0 to 30, is positioned next to the U-tube. The mercury level on the left-hand side is at approximately 8 cm, and on the right-hand side, it is at approximately 18 cm, indicating a pressure difference where the gas pressure is lower than the atmospheric pressure.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define the term pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The density of mercury is 1.4 × 10⁴ kg/m³. The gravitational field strength g is 10 N/kg. The pressure of the atmosphere is 1.0 × 10⁵ Pa. Calculate the pressure of the gas in the container.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In Fig. 2.1, the mercury level on the left-hand side of the manometer is lower than on the right-hand side. The gas inside the container is heated. This causes the mercury levels on both sides to become the same. Determine the mercury level, as shown on the ruler, when this happens.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain, in terms of the gas molecules, what causes the level of mercury to become the same.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q3",
+    "Question_text": "Fig. 3.1 shows three rays of light travelling in water from a light source S. One ray of light is totally internally reflected at the boundary between water and air.",
+    "image": "Fig. 3.1 shows a light source S submerged in water near a boundary with air. Three rays of light are emitted from S. One ray passes from water into air, refracting away from the normal. Another ray appears to refract along the boundary at 25 degrees. A third ray undergoes total internal reflection back into the water at 34 degrees to the normal. The boundary between water and air is indicated.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 3.1, mark the critical angle and label it c.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State why only one of the three rays is totally internally reflected.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate: the refractive index for water",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the critical angle for the boundary between water and air.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q4",
+    "Question_text": "A star emits electromagnetic radiation over a range of wavelengths. Fig. 4.1 shows the brightness of the radiation from the star at different wavelengths.",
+    "image": "Fig. 4.1 is a line graph showing the brightness of radiation from a star versus wavelength (in meters). The x-axis, labeled 'wavelength/m', ranges from 0 to 4.0 × 10⁻⁶ m, with increments of 1.0 × 10⁻⁶ m. The y-axis is labeled 'brightness'. The graph starts at zero brightness, rises to a peak around 2.0 × 10⁻⁶ m, and then gradually decreases towards zero brightness.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "The Wave Equation",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine the wavelength where the radiation is brightest.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Visible light has a wavelength between 4.0 × 10–7m and 7.0 × 10–7 m. The radiation in (a) lies just outside the visible part of the electromagnetic spectrum. State the name of the region of the spectrum that contains the radiation in (a).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Determine the frequency of the radiation in (a). The speed of light is 3.0 × 10⁸ m/s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q5",
+    "Question_text": "Fig. 5.1 shows part of a machine used to investigate electrostatic charging. Before the machine is switched on the metal dome and the ball are uncharged. When the machine is switched on, the metal dome becomes negatively charged. Explain how charging the dome causes the metal ball P to become positively charged.",
+    "image": "Fig. 5.1 shows a diagram of an electrostatic charging machine, likely a Van de Graaff generator. It features a large metal dome, labeled 'metal dome negatively charged', connected by a belt mechanism to a base. A separate metal ball, labeled 'metal ball P', is positioned nearby. A conducting rod extends from ball P to the ground, with a wire connecting it to earth.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Demonstrating Electric Charges",
+      "Static Electricity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how charging the dome causes the metal ball P to become positively charged.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A photocopier works using electrostatic charging. It contains a drum whose surface conducts charge where it is exposed to light. Fig. 5.2 shows a piece of paper, the drum and the heater of a photocopier. The photocopier produces a copy of an original page on a piece of paper. The sentences below describe the process of making the copy but the sentences are in the wrong order. Arrange the sentences in the correct order. The first and last sentences are already in the correct boxes. A The drum is given a positive charge. B The positively charged parts of the drum attract a black powder. C Where light hits the drum, the positive charge leaks away. D An image of the original page is projected onto the drum. E The drum rolls against a piece of paper, transferring powder to the paper. F The paper is heated which makes the black powder stick to it.",
+        "image": "Fig. 5.2 shows a simplified diagram of a photocopier's internal mechanism. It illustrates a cylindrical drum in the center, a heater positioned above the drum, and a sheet of paper below the drum. Arrows indicate the movement of the paper past the drum and the application of heat. Implied processes like light exposure and powder transfer are part of the context."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q6",
+    "Question_text": "Two lamps, P and Q, are connected to a battery of electromotive force (e.m.f.) 6.0V and an ammeter, as shown in Fig. 6.1. Lamp P has a resistance of 15Ω. The ammeter reading is 0.65A.",
+    "image": "Fig. 6.1 shows a circuit diagram. A 6.0V battery is connected to an ammeter (labeled A) in the main circuit. After the ammeter, the circuit splits into two parallel branches. One branch contains lamp P, and the other contains lamp Q. The branches then rejoin to complete the circuit back to the battery.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the current in lamp P.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the resistance of lamp Q.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The two lamps are now connected in series to the ammeter and the same battery. In the space below draw the circuit diagram.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the ammeter reading is less than 0.65A when the lamps are connected in series.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q7",
+    "Question_text": "Fig. 7.1 shows a copper wire placed on two copper rods in the magnetic field between the poles of a magnet. The crocodile clip A touches the positive terminal of the battery. This causes the copper wire to move.",
+    "image": "Fig. 7.1 illustrates an experimental setup demonstrating the motor effect. A battery is connected via a crocodile clip A to one of two parallel horizontal copper rods. A straight copper wire rests across these rods, forming a circuit. This entire setup is positioned such that the copper wire is between the North (N) and South (S) poles of a U-shaped magnet, ensuring the wire is in a magnetic field.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 7.1, mark with an arrow the direction of the current in the copper wire.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the copper wire moves along the copper rods.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Name two different devices that use this effect. 1. 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q8",
+    "Question_text": "Fig. 8.1 shows a device that is used to show the force on an electron in an electric field.",
+    "image": "Fig. 8.1 presents a simplified diagram of a cathode ray tube (CRT). It shows a filament, which acts as the electron source. A positively charged metal cylinder (anode) accelerates the electrons. Further along the tube, there are horizontal metal plates, used for deflecting the electron beam. All components are contained within a vacuum.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electric Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how a continuous flow of electrons from the filament is produced in this apparatus.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When an electron is in an electric field there is a force on the electron. The direction of this force is in the opposite direction to the electric field. Describe how the metal plates in Fig. 8.1 can be used to show this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q9",
+    "Question_text": "Fig. 9.1 shows a map of the route taken by a car as it travels from town A to town B. The journey involves a distance and a displacement.",
+    "image": "Fig. 9.1 is a grid map illustrating a winding route taken by a car from town A to town B. A compass rose indicates North (N) and East (E). The map includes a scale: 'The side of one square is 5 km'. Town A is on the left, and town B is located towards the upper right, relative to A, after a meandering path.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Speed & Velocity",
+      "Acceleration",
+      "Stopping Distances",
+      "Kinetic Energy",
+      "Newton's Second Law",
+      "Energy Stores & Transfers",
+      "Thermal Conduction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Using the scale on Fig. 9.1, determine the displacement in travelling from A to B. size of displacement = direction of displacement =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how distance differs from displacement.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "In some parts of the journey, the car is travelling at a constant speed but is also accelerating. Explain how this is possible.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "At town B the car makes an emergency stop. The total stopping distance of the car is the thinking distance added to the braking distance. Describe what is meant by the thinking distance.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The brakes on the car work badly. This increases the braking distance. State two other factors that increase the braking distance. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The mass of the car and driver is 1200kg. Just before the brakes are applied, the speed of the car is 30m/s. Calculate the kinetic energy of the car and driver just before the brakes are applied.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The braking force that stops the car is 1800N. Calculate the deceleration of the car.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Explain why the temperature of the brakes increases during braking.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q10",
+    "Question_text": "Fig. 10.1 is a diagram of a soldering iron. Solder is a mixture of metals used to make a permanent contact between electrical wires. The heating element raises the temperature of the metal tip. When solder is placed against the tip, the solder melts over the wires to be joined. When the solder cools, it solidifies and the permanent connection is made. The working temperature of the metal tip is 380 °C.",
+    "image": "Fig. 10.1 shows a cross-sectional diagram of a soldering iron. It illustrates a heating element coiled around and enclosed by a conical metal tip. The components are labeled 'heating element' and 'metal tip'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Electrical Energy",
+      "Specific Heat Capacity",
+      "Thermal Conduction",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The boxes in Fig. 10.2 show two materials and some different melting points. On Fig. 10.2, draw a line from the metal of the metal tip and a line from the solder to a suitable melting point for each.",
+        "image": "Fig. 10.2 presents two columns for matching. The left column lists materials: 'metal of the metal tip' and 'solder'. The right column lists possible melting points: '1000°C', '380°C', '200°C', '20°C', '0°C'. The task is to connect each material to its appropriate melting point."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The heating element is rated at 24 V, 3.3A. The heating element is switched on. The temperature of the metal tip rises from 20°C to 320°C in the first 10s. Calculate the electrical energy supplied to the heating element in the first 10s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The metal tip is made of copper and has a mass of 2.3g. The specific heat capacity of copper is 0.39J/(g°C). Calculate the thermal energy (heat) gained by the metal tip in the first 10 s.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe, in terms of free electrons, the process by which heat transfers through the metal tip.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Heat is lost from the metal tip by convection in the air. Explain how convection occurs in the air.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The temperature of the metal tip is measured with a thermocouple. In the space below, draw a labelled diagram of a thermocouple. Mark with a letter H the part of the thermocouple that is placed on the metal tip.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State two reasons why a thermocouple thermometer is suitable for measuring how the temperature of the metal tip varies during the first 10s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2019/Q11",
+    "Question_text": "Stars are formed inside a cloud of gas and dust in space. When a star forms, the cloud first becomes smaller as it collapses.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Fusion",
+      "Fission",
+      "Stars"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what causes the gas cloud to collapse.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Eventually nuclear fusion occurs in the star. State two conditions required for nuclear fusion to occur in the star.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "When a large star explodes, nuclei of heavy elements are formed. One such nucleus is uranium-235 (²³⁵U). State the name and the number of each type of particle found in one nucleus of ²³⁵U. name of particle .................................... number found in nucleus .................................... name of particle .................................... number found in nucleus ....................................",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one feature that is the same for the nuclei of all isotopes of uranium.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "A nucleus of ²³⁵U in a nuclear reactor can undergo nuclear fission. Describe the process of nuclear fission in a nuclear reactor.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "State one difference between nuclear fusion and nuclear fission.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "The nucleus of ²³⁵U is not stable. It decays by the emission of an alpha-particle (α) into a nucleus of thorium (Th). Complete the nuclear equation that represents this decay. ²³⁵U → ........Th + ........α ⁹² ......... .........",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Geiger and Marsden carried out an experiment to investigate the scattering of alpha-particles. Fig. 11.1 shows a diagram of the apparatus that they used.",
+        "image": "Fig. 11.1 depicts the Geiger-Marsden experiment setup. It illustrates a radioactive source emitting a beam of alpha-particles within a vacuum. This beam is directed towards a thin gold foil, and the scattered alpha-particles are detected by a fluorescent screen that completely surrounds the foil."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 11.1, mark with a letter P where most flashes occur on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe what is seen on the other parts of the screen.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "State two conclusions about atoms of gold that resulted from this experiment.",
+        "image": null
+      }
+    ]
+  }
+]

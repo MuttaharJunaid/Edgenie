@@ -1,0 +1,470 @@
+[
+  {
+    "QuestionNumber": "October/November/2012/Q1",
+    "Question_text": "Vernier calipers read to one tenth of a millimetre. Which reading is given to this precision?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q2",
+    "Question_text": "Velocity is given by the change in displacement divided by the change in time. How many vector quantities appear in this statement?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q3",
+    "Question_text": "A ball starts to roll down a steep slope and then along rough horizontal ground. Which graph best shows the speed of the ball?",
+    "image": "Four speed-time graphs are provided. The x-axis represents time, and the y-axis represents speed. Graph A shows an initial increase in speed, followed by a period of constant speed. Graph B shows an initial increase in speed, followed by a decrease in speed. Graph C shows an initial period of constant speed, followed by a decrease in speed. Graph D shows a linear increase in speed, followed by a period of constant speed.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Speed-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q4",
+    "Question_text": "A car is stationary at a set of traffic lights. When the lights turn green, the car begins to move and continues to speed up until it reaches the maximum speed allowed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and to the velocity of the car during this journey?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q5",
+    "Question_text": "An aeroplane is half way along a runway before it takes off. The arrows show the directions of four forces acting on the aeroplane. The drag forces on the aeroplane are negligible. The gravitational field strength g is 10N/kg. The acceleration of the aeroplane is 2m/s². What is the largest force?",
+    "image": "A diagram of an aeroplane on a runway, with four forces depicted by arrows. 'Thrust from the jet engines' points horizontally to the right. 'Lift acting on the wings' points vertically upwards from the wings. 'Force on wheels from the ground' points vertically upwards from the wheels. 'Weight of aeroplane' points vertically downwards from the center of the aeroplane.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q6",
+    "Question_text": "The front wheel of a car is turned in a clockwise direction by the engine as the car accelerates towards the right, as shown in the diagram. There is a force of friction between the wheel and the road. What are the directions of the frictional forces on the wheel of the car and on the road?",
+    "image": "A side-view diagram showing the front wheel of a car, part of the car body, and the road surface. The car is accelerating towards the right. The wheel is shown rotating clockwise. Arrows indicate 'left' and 'right' directions relative to the car's motion. A table below provides options for the direction of frictional force on the wheel and on the road.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q7",
+    "Question_text": "Masses X and Y are placed on opposite sides of the centre of a uniform metre rule, which is pivoted at its centre. Which combination of masses and distances balances the rule?",
+    "image": "A diagram of a uniform metre rule pivoted at its center. A mass labeled 'X' is placed on the left side at a distance 'p' from the pivot. A mass labeled 'Y' is placed on the right side at a distance 's' from the pivot. A table lists four combinations of masses X and Y (in grams) and distances p and s (in cm).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q8",
+    "Question_text": "A student balances a non-uniform object on a pivot. To do this, a weight is suspended near the left-hand end of the object. Where is the centre of mass of the object?",
+    "image": "A diagram showing a curved, non-uniform object balanced on a triangular pivot. A small rectangular 'weight' is suspended from the far left end of the object. Four points, A, B, C, and D, are marked along the length of the object from left to right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q9",
+    "Question_text": "A spring has a length of 9 cm when loaded with a 200 g mass. The extension-mass graph for the spring is shown. The 200 g mass is replaced with a 100g mass. What is the new length of the spring?",
+    "image": "Two diagrams are shown. The first is a spring hanging vertically with a 200g mass attached to its end, and its total length indicated as 9 cm. The second diagram is a graph with 'mass/g' on the x-axis (from 0 to 300) and 'extension/cm' on the y-axis (from 0 to 3). A straight line passes through the origin (0,0), (100,1), (200,2), and (300,3).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q10",
+    "Question_text": "The diagram shows two cubes made from the same material. One cube has sides that are twice as long as the sides of the other cube. The weight of the small cube is W. What is the weight of the larger cube?",
+    "image": "Two cubes are shown. A smaller cube, labeled 'X', has side length 'x'. A larger cube has side length '2x'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q11",
+    "Question_text": "A garden table weighs 40N and has a top surface of area 2m². It is raining and the rain produces a pressure of 4 N/m² on the table. What is the force exerted by the table on the ground?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q12",
+    "Question_text": "Four syringes contain air at atmospheric pressure. The air in all four syringes is slowly compressed. The results are given in the table. Which syringe shows the smallest pressure change?",
+    "image": "A table showing two columns: 'volume before compression/cm³' and 'volume after compression/cm³'. Four rows (A, B, C, D) list pairs of volumes: A (50, 10), B (100, 50), C (400, 25), D (400, 100).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q13",
+    "Question_text": "Which is a non-renewable source of energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q14",
+    "Question_text": "A builder lifts eight slabs from the ground on to the back of a lorry 1.5m high. The total time taken is 48 s and each slab weighs 20 Ν. How much useful power does the builder produce?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Power",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q15",
+    "Question_text": "When a gas is rapidly compressed to a smaller volume, its temperature increases. What happens to the gas molecules?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q16",
+    "Question_text": "On a hot day, the drink in a bottle can be kept cool by standing the bottle in a bowl of water and placing a wet cloth over it. Why is the drink kept cool?",
+    "image": "A cross-section diagram showing a bottle containing a 'drink in bottle' standing in a bowl of 'water'. A 'wet cloth' is draped over the bottle, with its lower end immersed in the water in the bowl.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q17",
+    "Question_text": "A student uses a double-walled glass vessel to contain a hot liquid. What reduces the heat loss by radiation?",
+    "image": "A cross-section diagram of a double-walled glass vessel. The inner chamber contains 'hot liquid'. There is a 'space' between the inner and outer glass walls. The region outside the vessel is labeled 'air outside'. Surfaces are labeled: 'Q' is the inner surface of the inner wall, 'R' is the outer surface of the inner wall, and 'S' is the inner surface of the outer wall.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q18",
+    "Question_text": "What is the reason for the constriction in a clinical thermometer?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q19",
+    "Question_text": "Less heat is needed to raise the temperature of 1 kg of copper by 1 °C than is needed to raise the temperature of 1 kg of water by 1°C. Which statement explains this?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q20",
+    "Question_text": "A person cannot unscrew the metal lid of a pot of jam. The lid can be unscrewed after it has been held under hot, running water for a few seconds. Why is this?",
+    "image": "A diagram showing the top part of a jar with a metal lid, held under hot, running water from a tap.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q21",
+    "Question_text": "The diagram shows the pattern of waves in a ripple tank. What does the pattern show?",
+    "image": "A diagram representing a ripple tank experiment. Parallel wavefronts are shown approaching a straight barrier at an angle. After hitting the barrier, they change direction and propagate away as reflected parallel wavefronts, maintaining the same wavelength and spacing as the incident waves but with a different direction.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q22",
+    "Question_text": "An object O is placed in front of a plane mirror. Which diagram correctly represents the image I formed by the mirror?",
+    "image": "Four diagrams (A, B, C, D) are provided. Each diagram shows a vertical arrow labeled 'O' representing an object placed in front of a vertical line representing a plane mirror. Another vertical arrow labeled 'I' represents the image. The diagrams differ in the position, orientation, and size of the image relative to the object and mirror.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q23",
+    "Question_text": "In the following diagrams, the angle c is the critical angle. Which diagram shows the correct path of the light ray?",
+    "image": "Four diagrams (A, B, C, D) illustrate light rays passing from glass (denser medium) to air (less dense medium). In each diagram, a normal line is drawn, and the angle of incidence is labeled 'C' (representing the critical angle). The diagrams show different behaviors: refraction away from the normal, total internal reflection, or refraction along the boundary. The question asks which diagram correctly shows the path when the angle of incidence is the critical angle.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q24",
+    "Question_text": "An object of height 1.5 cm is placed in front of a converging lens of focal length 2.0 cm. The arrangement is shown on the full-scale ray diagram. What is the linear magnification produced by the lens?",
+    "image": "A full-scale ray diagram on a grid. A converging lens is shown vertically. An object (an upward arrow) of height 1.5 cm is placed to the left of the lens. The focal length is indicated as 2.0 cm. Rays are drawn from the object through the lens to form an inverted image on the right side. A scale is provided where each grid square represents 1 cm.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q25",
+    "Question_text": "Red and violet are the colours at the ends of the visible spectrum. How do the frequencies and the wavelengths of these colours compare?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Dispersion of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q26",
+    "Question_text": "A vertical wire passes at right angles through a piece of card. There is a large current in the wire in the direction shown. A plotting compass is placed on the card. Which diagram shows the direction in which the needle of the plotting compass points?",
+    "image": "A diagram showing a vertical wire passing perpendicularly through a horizontal piece of card. An arrow on the wire indicates that the current is flowing downwards. A small circular object labeled 'plotting compass' is placed on the card, to the right of the wire. Below this, four separate circular diagrams (A, B, C, D) each show a plotting compass with its needle pointing in a different cardinal direction (up, left, right, down) relative to the page.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q27",
+    "Question_text": "A positively-charged rod is brought near to an isolated uncharged conducting sphere. What are the charges on sides X and Y of the sphere?",
+    "image": "A diagram shows a positively-charged rod positioned close to the left side of an isolated uncharged conducting sphere. The sphere is supported by an insulator. The left side of the sphere is labeled 'X' and the right side is labeled 'Y'. The rod has several '+' signs indicating its positive charge.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q28",
+    "Question_text": "Three identical cells are connected in parallel to a resistor. What is the advantage of using three cells in parallel, rather than a single cell?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q29",
+    "Question_text": "The diagram shows three resistors in parallel. What is the combined resistance?",
+    "image": "A circuit diagram showing three resistors connected in parallel across two common points. The resistances are 5Ω, 5Ω, and 10Ω.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q30",
+    "Question_text": "Which circuit contains a fuse and a rectifying diode?",
+    "image": "Four circuit diagrams (A, B, C, D) are displayed. Each diagram includes a power source (battery or AC symbol), a fuse, and a diode along with other components like a lamp or resistor. The arrangement and orientation of the fuse and diode vary in each circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q31",
+    "Question_text": "A lamp connected to a 12V supply converts energy at a rate of 36 W. How much energy will be converted in 10s?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q32",
+    "Question_text": "An immersion heater is labelled 12V, 60 W. What is the current in the heater when connected to a 12V supply?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q33",
+    "Question_text": "Each of the diagrams shows a cross-section through two parallel, current-carrying conductors. Which diagram shows the shape of the magnetic field pattern and the directions of the forces on the two conductors?",
+    "image": "Four diagrams (A, B, C, D) depict cross-sections of two parallel current-carrying conductors. A key explains that a circle with a cross represents current flowing into the page, and a circle with a dot represents current flowing out of the page. Each diagram shows the direction of current in both conductors, the magnetic field lines (concentric circles around each conductor), and arrows indicating the direction of forces between the conductors (attraction or repulsion).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Fields Around Parallel Conductors",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q34",
+    "Question_text": "The diagram shows a simple d.c. motor. What is the part labelled Q?",
+    "image": "A diagram of a simple DC motor, showing a rectangular coil rotating between two magnetic poles (North and South). Part Q points specifically to the split ring at the end of the coil, connecting it to the brushes.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q35",
+    "Question_text": "The diagram shows the N-pole of a magnet moving into, and out of, a coil of wire. This movement produces a current in the coil of wire. The current produces a magnetic pole at X. Which pole is produced at X when the magnet is moved in and when it is moved out?",
+    "image": "A diagram illustrating electromagnetic induction. A bar magnet, with its North (N) pole facing a coil of wire, is shown. An arrow indicates the magnet moving into the coil, and then another arrow indicates it moving out. The left end of the coil is labeled 'X'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q36",
+    "Question_text": "A simple a.c. generator produces an alternating e.m.f. as shown. The speed of the generator is doubled. Which graph best represents the new output?",
+    "image": "Five graphs are presented, all showing e.m.f./V on the y-axis against time/s on the x-axis. The first graph shows the original output of an AC generator: a sine wave with a peak e.m.f. of 1.0 V and one complete cycle lasting 2.0 s. Options A, B, C, and D show different sine waves with altered amplitudes and periods.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q37",
+    "Question_text": "What is required to operate a reed relay in a switching circuit?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q38",
+    "Question_text": "In the simple model of an atom, X orbits around Y. What are X and Y?",
+    "image": "A simplified diagram of an atom, showing a central point labeled 'Y' with a smaller point labeled 'X' orbiting around it in a circular path.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q39",
+    "Question_text": "In nuclear ……………1………………, hydrogen nuclei ......2...... to form helium nuclei, releasing energy. Which words correctly complete gaps 1 and 2?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q40",
+    "Question_text": "Which nucleus is produced when thorium-223 (²²³₉₀Th) emits an alpha-particle?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  }
+]

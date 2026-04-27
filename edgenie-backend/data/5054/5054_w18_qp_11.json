@@ -1,0 +1,496 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q1",
+    "Question_text": "What is a possible mass for a normal adult person?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q2",
+    "Question_text": "A small cylinder is rolled along a ruler and completes two revolutions. The circumference is the distance around the outside of a circle. What is the circumference of the cylinder?",
+    "image": "A diagram showing a small cylinder rolled along a ruler. The cylinder has a 'mark on cylinder'. It starts at the 0 cm mark on the ruler. After two revolutions, the mark on the cylinder aligns with the 8.8 cm mark on the ruler, indicating the distance covered.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q3",
+    "Question_text": "A skydiver is falling at terminal velocity. Which row describes the acceleration of the skydiver and the velocity of the skydiver?",
+    "image": "A drawing of a skydiver in a freefall position, with arms and legs spread, indicating air resistance.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "terminal velocity",
+      "Speed & Velocity",
+      "Freefall"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q4",
+    "Question_text": "A cyclist takes a ride lasting 250 s. The graph shows how the distance from the starting position varies with time. What is his average speed for the whole journey?",
+    "image": "A distance-time graph. The x-axis is 'time/s' from 0 to 250. The y-axis is 'distance/m' from 0 to 300. The graph shows: a linear increase from (0,0) to (150, 250), then a flat line from (150, 250) to (200, 250), and finally a linear increase from (200, 250) to (250, 300).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q5",
+    "Question_text": "An engine pulls a truck at constant speed on a level track. The link between the engine and the truck breaks. The driving force on the engine remains constant. What effect does this have on the engine and on the truck?",
+    "image": "A diagram showing a train-like engine connected by a 'link' to a 'truck' on a level track.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Friction",
+      "Newton's First Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q6",
+    "Question_text": "What happens to an object when it is moved to a location where the gravitational field strength is slightly greater?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q7",
+    "Question_text": "Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?",
+    "image": "Two cylindrical objects, P and Q. Cylinder P is drawn taller and thinner, while cylinder Q is shorter and wider. Both have dashed lines indicating their heights and diameters.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q8",
+    "Question_text": "Which diagram shows the addition of the 4.0 N and the 3.0 N forces?",
+    "image": "Four vector diagrams (A, B, C, D), each depicting two perpendicular forces (3.0 N and 4.0 N) originating from a common point, and their resultant force (5.0 N) shown as the hypotenuse of the right-angled triangle formed by the forces.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Scalars & Vectors",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q9",
+    "Question_text": "An electric motor, connected to the mains, is used to lift bricks to the top of a building. There is a fuse in the plug. How can the efficiency of the motor be increased?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Electrical Safety",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q10",
+    "Question_text": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm. The piston is moved outwards until the length of the air column has increased by 40 cm. The temperature of the air remains constant. What is the new air pressure?",
+    "image": "A diagram of a horizontal cylinder with a piston. The cylinder initially contains 'trapped air' with a length of 20 cm. A second label shows the piston moved further out, with an additional 40 cm length, making the total length of trapped air 60 cm. An arrow indicates the piston moving 'OFF'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Gases & Absolute Temperature",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q11",
+    "Question_text": "A long tube, full of mercury, is inverted in a small dish of mercury. The mercury level in the tube falls, leaving a vacuum at the top. When the atmospheric pressure decreases, which length decreases?",
+    "image": "A diagram of a mercury barometer. A long inverted tube stands in a dish of mercury. The top part of the tube above the mercury column is labeled PQ (vacuum). The height of the mercury column from the surface in the dish to its level in the tube is labeled QR. The total length of the tube from the bottom of the dish to the top of the tube is labeled PS, and the portion from the bottom of the tube to the mercury surface in the dish is labeled RS.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q12",
+    "Question_text": "Some gas is trapped in a closed container. The gas is cooled and the volume of the container is kept constant. What happens to the gas molecules?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q13",
+    "Question_text": "The diagram shows four changes of state W, X, Y and Z. Which row gives the names of the four changes of state?",
+    "image": "A flow diagram illustrating changes of state between 'gas', 'liquid', and 'solid' phases. An arrow labeled 'W' points from liquid to gas. An arrow labeled 'X' points from gas to liquid. An arrow labeled 'Y' points from solid to liquid. An arrow labeled 'Z' points from liquid to solid.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q14",
+    "Question_text": "What increases when a liquid becomes a gas at its boiling point?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Particle Model",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q15",
+    "Question_text": "A metal lid fits tightly on a glass jar. Which process makes it easier to remove the lid from the jar?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q16",
+    "Question_text": "The specific heat capacity of lead is 130 J/(kg°C). Lead of mass 0.50 kg is heated from 10°C to 35 °C. Which calculation gives the amount of thermal energy, in J, absorbed by the lead?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q17",
+    "Question_text": "A cold solid is placed on top of a hot solid. Thermal energy flows from the hot solid to the cold one. What is the explanation for this?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q18",
+    "Question_text": "Which term is the number of crests of a wave passing a point per second?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q19",
+    "Question_text": "The diagram shows a thin converging lens of focal length f. Where must an object be placed to produce a real image in the position shown?",
+    "image": "A diagram of a converging lens on a principal axis. The focal length 'f' is marked on both sides of the lens. An 'image' is indicated on the right side, beyond 2f. Four possible object positions are marked A, B, C, D on the left side of the lens, with A being between f and 2f, B at 2f, C between f and the lens, and D beyond 2f.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q20",
+    "Question_text": "White light is dispersed by a prism. Compared with blue light, the red light is",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q21",
+    "Question_text": "What is the approximate value for speed of light in air / speed of sound in air ?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q22",
+    "Question_text": "What are the lowest frequency and the highest frequency of the sound that a human being with normal hearing can hear?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q23",
+    "Question_text": "Ultrasound has a number of uses in engineering and medicine. What is ultrasound not used for?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q24",
+    "Question_text": "Which diagram shows the electric field around an isolated point positive charge?",
+    "image": "Four diagrams (A, B, C, D) illustrating electric field patterns. Diagrams A and B show radial field lines, while C and D show concentric circular field lines, all centered around a positive charge symbol.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields",
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q25",
+    "Question_text": "An electric field is formed by two isolated, equal and opposite charges P and Q. How does the field at X compare with the field at Y?",
+    "image": "A diagram showing a positive charge P and a negative charge Q. Point X is located between P and Q. Point Y is located to the right of Q, further away from both charges along the same axis.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q26",
+    "Question_text": "A positively charged rod is held close to an insulated metal sphere. The sphere is earthed as shown. The earth connection is removed and then the rod is removed. Which diagram shows the charges on the sphere after the rod is removed?",
+    "image": "A diagram showing a positively charged rod (labeled with 'X's) held near an insulated metal sphere mounted on a stand. The sphere is connected to the 'earth' by a wire.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q27",
+    "Question_text": "The voltage across a resistor of fixed resistance changes. Which graph shows how the current in the resistor changes with the voltage?",
+    "image": "Four graphs (A, B, C, D) showing current (y-axis) versus voltage (x-axis). Graphs A and C show a straight line through the origin, representing Ohm's law for a fixed resistor. Graphs B and D show curved lines.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q28",
+    "Question_text": "A wire of length 0.50 m and cross-sectional area 1.0 × 10^-6 m² has a resistance of 0.75 Ω. Another wire of the same material has a length of 2.0 m and a cross-sectional area of 0.50 × 10^-6 m². What is the resistance of the longer wire?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q29",
+    "Question_text": "A battery of electromotive force (e.m.f.) 10 V is connected to a resistor. A charge of 2.0 coulombs passes through the resistor. How much work is done as the charge passes through the resistor?",
+    "image": "A simple circuit diagram showing a battery with an electromotive force of 10 V connected to a resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Charge",
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q30",
+    "Question_text": "Three identical resistors are joined in series to a cell. Voltmeter Q reads 8.0V. What is the reading on voltmeter P and what is the e.m.f. of the cell?",
+    "image": "A circuit diagram showing a cell connected in series to three identical resistors. Voltmeter P is connected across one of the resistors. Voltmeter Q is connected across two of the resistors in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q31",
+    "Question_text": "The power of an electrical heater is 3.0 kW. The heater is switched on for a time of 2 hours and 30 minutes. The cost of using the heater for this time is 120 c. What is the cost of 1.0 kWh of electrical energy?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q32",
+    "Question_text": "In a lighting circuit, the switch is placed in the live wire. Why is this?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q33",
+    "Question_text": "A wire is placed in the magnetic field between the poles of a magnet, as shown. When there is a current in the wire, it experiences a force. Which change increases the size of this force?",
+    "image": "A diagram showing a straight 'wire' placed horizontally within a magnetic field, specifically between the North (N) and South (S) poles of a U-shaped magnet.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q34",
+    "Question_text": "A 12V lamp glows at normal brightness when connected to the secondary coil of a mains transformer. The mains voltage is 240 V. The transformer is 100% efficient and the primary coil has 200 turns. How many turns are there on the secondary coil?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q35",
+    "Question_text": "Which row shows how the electrical energy produced by a power station is transmitted to distant towns?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Transformers",
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q36",
+    "Question_text": "The diagram shows the trace on an oscilloscope screen. The first peak occurs when a pulse of sound is emitted. The second, smaller peak is the echo received from a wall. The trace moves across the screen in a time of 24 ms. How long does it take for the sound to travel to the wall?",
+    "image": "A diagram of an oscilloscope screen. A horizontal line represents the time base, marked with a total length of 8.0 cm. A first, larger peak appears at the 0 cm mark. A second, smaller peak appears at the 3.0 cm mark. The entire trace duration is given as 24 ms for 8.0 cm.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Uses of an Oscilloscope",
+      "Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q37",
+    "Question_text": "The diagram shows a nuclear reaction. The shaded particles are uncharged. What are the products shown in this reaction?",
+    "image": "A diagram illustrating a nuclear reaction. A large nucleus (depicted as a cluster of particles, some with '+' signs) breaks down. It produces a smaller nucleus (shown as a cluster of two '+' particles and two uncharged shaded particles, resembling a helium nucleus) and two individual uncharged shaded particles (neutrons).",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Fission",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q38",
+    "Question_text": "The results of the alpha-particle scattering experiment gave evidence for which of the following?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q39",
+    "Question_text": "What does the alpha-radiation given off by radioactive nuclei consist of?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2018/Q40",
+    "Question_text": "One nucleus of a uranium isotope contains 238 nucleons of which 146 are neutrons. Which is the nucleus of another isotope of uranium?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

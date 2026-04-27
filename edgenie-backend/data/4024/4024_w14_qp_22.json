@@ -1,0 +1,585 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "In 2013, Mary worked for Company A. Her salary for the year was $18750. (i) $5625 of her salary was not taxed. What percentage of her salary was not taxed?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1aii",
+    "Question_text": "The remaining $13125 of Mary's salary was taxed. 22% of this amount was deducted for tax. Mary's take-home pay was the amount remaining from $18750 after tax had been deducted. She received this in 52 equal amounts as a weekly wage. Calculate Mary's weekly wage.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1aiii",
+    "Question_text": "In 2012 Mary had worked for Company B. When she moved from Company B to Company A, her salary increased by 25% to $18750. Calculate her salary when she worked for Company B.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate reverse percentages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "The rate of exchange between pounds (£) and Indian rupees (R) is £1 = R87.21. The rate of exchange between pounds (£) and Swiss francs (F) is £1 = F1.53. (i) Mavis changed £750 into Indian rupees. How many rupees did she receive?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1bii",
+    "Question_text": "David changed F450 into pounds. How many pounds did he receive?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1biii",
+    "Question_text": "Brian changed R50000 into Swiss francs. How many Swiss francs did he receive?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "A, B, C and D are points on the circumference of the circle and AC is a diameter. AFBE and DCE are straight lines. DF is perpendicular to AE and CDF = 67°. (i) Find AÊD.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aii",
+    "Question_text": "Find CBE, giving a reason for your answer.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aiii",
+    "Question_text": "Explain why DF is parallel to CB.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "In the triangle PQR, the bisectors of PQR and PRQ intersect at Y. The straight line XYZ is parallel to QR. Prove that the perimeter of triangle PXZ = PQ+ PR.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "In a game, when it is Mary's turn, she spins each of these fair spinners once. Mary's score for the turn is worked out using the formula xm + yn, where x is the number on spinner X and y is the number on spinner Y. The possibility space diagram shows Mary's possible scores. Find the probability that Mary's score is less than 15.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Calculate the probability that on two consecutive turns, Mary scores less than 40 on one and more than 75 on the other.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "The diagram shows 7 on spinner X and –1 on spinner Y. Using the formula, the score for this turn is 7m-n=38. (i) Using the table, find 7m + 3n.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3cii",
+    "Question_text": "Hence find m and n.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "Find p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "The diagram shows a solid triangular prism. The dimensions are in metres. (i) Calculate the volume of the prism.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4aii",
+    "Question_text": "Calculate the total surface area of the prism.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "The diagrams show the cross-sections of a ramp A and a triangular prism B. The triangular prism B can move up and down the ramp A. The ramp is inclined at 25° to the horizontal. (i) When the prism has moved 2m up the ramp, it has risen h metres vertically. Calculate h.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4bii",
+    "Question_text": "As it moves, the uppermost face of the prism B remains horizontal. The length of the horizontal edge of the face is 0.6 m. The length of the vertical edge of the prism is y metres. Calculate y.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "The diagram shows the perimeter of a 400m running track. It consists of a rectangle measuring 100m by d metres and two semicircles of diameter d metres. The length of each semicircular arc is 100m. Calculate d.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Calculate the total area of the region inside the running track.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "S is the starting point and finishing point for the 400m race for a runner in the inside lane. A runner in an outer lane is always 3m from the inner perimeter. The runner in the outer lane starts at A, runs 400m and finishes at T. TS = 3 m. Calculate the length of the arc TA.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5cii",
+    "Question_text": "O is the centre of a semi-circular part of the track. Calculate AỘT.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "ABCD is a field in the shape of a trapezium. ABC = 56°, BÂD = 104° and the distance between the parallel sides of the field is 90m. (a) Using a scale of 1 cm to 20m, draw a plan of the field. AB has been drawn for you.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Find the actual distance CD.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "In the triangle ABC, D divides AB in the ratio 3 : 2, and E divides AC in the ratio 3 : 2. AD = a and AE = b. (i) Show, using vectors, that DE is parallel to BC.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7aii",
+    "Question_text": "Find the ratio Area of triangle ADE : Area of triangle ABC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Triangle A has vertices (3, 1), (5, 1) and (5, 4). The transformation S₁ is represented by the matrix ( 2 0 ). S₁ maps triangle A onto triangle B. (i) Draw and label triangle B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7bii",
+    "Question_text": "What type of transformation is S₁?",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7biii",
+    "Question_text": "The transformation S2 is represented by the matrix ( 1 0 ). Find the matrix that represents the combined transformation S2S1.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7biv",
+    "Question_text": "The combined transformation S2S₁ maps triangle A onto triangle C. Find the matrix which represents the transformation that maps triangle C onto triangle A.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "T = 2π √h/g Find T when h = 125 and g = 981.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate square roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8aii",
+    "Question_text": "Make h the subject of the formula.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Solve the equation 45 – (p + 3) = 2p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "Solve the equation 2x/3 + 3/4 = 5/x = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve fractional equations with numerical and linear algebraic denominators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "Solve the equation 3y² + 11y + 4 = 0. Give your answers correct to 2 decimal places.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "In triangle ABC, AB = 4m, BC = 6 m and ABC = 67°. (i) Show that the area of triangle ABC is 11.05 m² correct to 2 decimal places.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9aii",
+    "Question_text": "In triangle PQR, PQ = 5 m and QR = 7 m. Area of triangle PQR = Area of triangle ABC. Find the acute angle PQR.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9aiii",
+    "Question_text": "In the parallelogram WXYZ, WX = 8m and WZ = 2m. Area of parallelogram WXYZ = Area of triangle ABC. Find the obtuse angle ZWX.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "AB, AC and CD are three rods. They can be fixed together in different positions. (i) AC = 9 cm and M is a fixed point on AB such that AM = 12cm. When CÂM = 30°, calculate CM.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9bii",
+    "Question_text": "In another position, the end D of the rod CD is fixed at the point M. CD = 12.5 cm. Calculate the increase in CÂM.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The table below is for y = x² - 4x − 1.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "By drawing a tangent, estimate the gradient of the curve at x = 3.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d",
+    "Question_text": "Find the least value of y.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.11 Sketching curves",
+    "Sub_topic": [
+      "Recognise, sketch and interpret graphs of the following functions: (b) quadratic"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10dii",
+    "Question_text": "y ≤ 4 for a ≤ x ≤ b. Find the least possible value of a and the greatest possible value of b.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10e",
+    "Question_text": "Use your graph to solve the equation x2 - 4x + 2 = 0. Show your working to explain how you used your graph.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "100 students were each asked how long they spent talking on their mobile phone during one day. The results are summarised in the table. On the axes below, draw a histogram to represent these results.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "The masses, in grams, of 240 potatoes were found. The cumulative frequency table for these results is shown below. (i) Draw a smooth cumulative frequency curve to illustrate this information.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11bii",
+    "Question_text": "Find the median.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11biii",
+    "Question_text": "Find the inter-quartile range.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11biv",
+    "Question_text": "Complete the frequency table below.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.1 Classifying statistical data",
+    "Sub_topic": [
+      "Classify and tabulate statistical data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11bv",
+    "Question_text": "A potato with a mass greater than 250 grams is classed as extra large. (a) How many of these potatoes are extra large?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Compare sets of data using tables, graphs and statistical measures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11bvi",
+    "Question_text": "Which percentile of the distribution can be used to find this number?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  }
+]

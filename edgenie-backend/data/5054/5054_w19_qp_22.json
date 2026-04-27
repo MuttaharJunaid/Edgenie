@@ -1,0 +1,420 @@
+[
+  {
+    "QuestionNumber": "October/November/22/2019/Q1",
+    "Question_text": "There is no atmosphere on the Moon. An astronaut on the Moon drops a feather and a hammer from the same height at the same time. They both accelerate downwards at 1.6m/s² and they hit the ground at the same time.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Acceleration",
+      "Mass & Weight",
+      "Speed & Velocity",
+      "Speed-Time Graphs",
+      "Distance-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The weight of the hammer is much larger than that of the feather. Explain, in terms of their weights and masses, why their accelerations are equal.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Both the feather and the hammer take 1.5s to fall to the ground from rest. Calculate the speed of the objects as they hit the ground.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 1.1, draw the speed-time graph for the fall. At the correct position on the y-axis, write the value of the speed at time t = 1.5s.",
+        "image": "Fig. 1.1, a blank speed-time graph grid with 'speed m/s' on the y-axis (ranging from 0 upwards) and 'time/s' on the x-axis (ranging from 0 to 1.5). The graph is intended for drawing the acceleration of the falling objects."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Using the speed-time graph in (b)(ii), determine the height from which the objects are dropped.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q2",
+    "Question_text": "A student uses a pump to inflate a bicycle tyre. Fig. 2.1 shows the pump and the tyre.",
+    "image": "Fig. 2.1, a diagram showing a bicycle pump connected to a bicycle tyre valve. The pump consists of a handle, a piston, and a pump body. The tyre is on the right, with labels for 'trapped air' and 'valve'. The diagram is labeled 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Friction",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The pressure of the trapped air in the pump is 3.8 × 10⁵ Pa and the cross-sectional area of the piston is 6.1 × 10⁻⁴ m². Calculate the force exerted on the piston by the trapped air in the pump.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The student pushes the handle to the right and the piston forces the trapped air into the tyre. The force exerted by the student is less than the value in (a)(i). Suggest one reason why.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The temperature of the air in the pump remains constant as the handle moves to the right. Explain, in terms of its molecules, why the pressure of a gas increases when its volume is decreased at constant temperature.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q3",
+    "Question_text": "Solar panels are used to heat water.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy from the Sun",
+      "Radiation",
+      "Fusion",
+      "Investigating Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The energy absorbed by solar panels comes from the Sun. Describe how this energy is produced inside the Sun.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how this energy is transferred to Earth.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why solar panels are usually black.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q4",
+    "Question_text": "In many countries, solid salt is produced by trapping sea-water in large, shallow ponds and letting the water evaporate. Fig. 4.1 shows salt being produced in this way.",
+    "image": "Fig. 4.1, an illustration showing two people working in large, shallow ponds, presumably salt pans, to produce salt from seawater by evaporation. The ponds are filled with water and some areas are dry with salt crystals.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two ways in which evaporation differs from boiling.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe, in terms of water molecules, what is happening as the water evaporates.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State why the ponds used in this process have large surface areas.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State why this method of salt production does not work well in a country with a cold climate.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q5",
+    "Question_text": "Both sound and ultrasound are longitudinal waves.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Ultrasound",
+      "The Wave Equation",
+      "Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe what is meant by longitudinal.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 5.1 shows an ultrasound cleaner being used to clean jewellery. The jewellery is lowered into the cleaning fluid and ultrasound waves of frequency 42000 Hz are produced in the fluid.",
+        "image": "Fig. 5.1, a diagram showing an ultrasound cleaner. A rectangular container is labeled 'cleaning fluid', inside which a necklace or 'jewellery' is suspended. Below the container, two circles represent a transducer generating the ultrasound waves into the fluid."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The speed of ultrasound in the fluid is 1500 m/s. Calculate the wavelength of the ultrasound in the fluid.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the ultrasound cleans the jewellery.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q6",
+    "Question_text": "An electric circuit contains a 700 Ω resistor and a light-dependent resistor (LDR). Fig. 6.1 is the circuit diagram. The electromotive force (e.m.f.) of the battery is 12 V. An oscilloscope is connected across the fixed resistor. Fig. 6.2 shows the oscilloscope, including the settings of the timebase and the Y-gain controls. Line Q shows the position of the trace on the oscilloscope when the switch S is open. The switch S is closed and the trace on the oscilloscope moves to the position shown by line P in Fig. 6.2.",
+    "image": "Fig. 6.1, a circuit diagram showing a 12V battery, a switch S, a 700 Ω resistor, and a Light-Dependent Resistor (LDR) connected in series. An oscilloscope is connected in parallel across the 700 Ω resistor. Fig. 6.2, an oscilloscope screen displaying a grid with settings: 'timebase 50 ms/division' and 'Y-gain 2.0 V/division'. A horizontal trace labeled Q is shown along the central horizontal axis. Another horizontal line, P, is indicated above Q, with a vertical arrow showing a displacement of '1 division' from Q.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Resistance",
+      "Potential Dividers",
+      "Uses of an Oscilloscope",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the potential difference (p.d.) across the 700 Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine the resistance of the LDR.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The intensity of the light incident on the LDR gradually increases. State and explain how the trace on the oscilloscope screen moves.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q7",
+    "Question_text": "Fig. 7.1 shows a horizontal, rectangular coil ABCD placed between a magnetic N-pole and an S-pole. There is a current in the coil.",
+    "image": "Fig. 7.1, a diagram showing a rectangular coil ABCD placed horizontally between the North (N) and South (S) poles of a magnet. Side AB is on the left, CD on the right, with A and B closer to the N pole, and C and D closer to the S pole. An upward force F is indicated on side AB. A central 'axis' is shown running horizontally. The diagram represents the setup of a DC motor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors",
+      "Moments",
+      "Magnetic Fields",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "An upward force F of size 9.6 × 10⁻³ N acts on side AB of the coil. Explain why there is a force on side AB.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine the direction of the current in AB and state how the direction is deduced.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Both side AB and side CD of the coil are 2.5 cm from the axis. Determine the total moment acting on the coil.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The coil in Fig. 7.1 is part of a direct current (d.c.) motor. State the name of the device that connects the coil of a d.c. motor to the electricity supply.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State one change to the arrangement in Fig. 7.1 that produces a greater turning effect in coil ABCD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q8",
+    "Question_text": "Fig. 8.1 shows an elastic rope (bungee). The unstretched length of the rope is 0.80 m. A student uses the hook at one end to suspend the rope from a shelf and hangs an empty paint can of mass 0.70 kg from the other end. The rope stretches to a length of 0.97m but does not exceed its limit of proportionality.",
+    "image": "Fig. 8.1, a coiled elastic rope, labeled 'elastic rope (bungee)'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension",
+      "Mass & Weight",
+      "Density",
+      "Elastic Potential Energy",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by limit of proportionality.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by: mass",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State what is meant by: weight.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The gravitational field strength is 10N/kg. Calculate the weight of the empty paint can.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "For the rope, calculate a value for load / extension",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The student repeatedly pours small volumes of paint into the can. When there is 2.5 × 10⁻³ m³ of paint in the can, the total length of the rope is 1.70m. This is where the rope reaches the limit of proportionality. Determine the mass of the paint in the can.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The student continues to pour paint into the can until there is a volume of 5.0 x 10⁻³ m³ in it. He plots a graph of the total length of the rope against the volume of paint added. On Fig. 8.2, sketch the length-volume graph for the range 0 to 5.0 × 10⁻³ m³.",
+        "image": "Fig. 8.2, a blank graph grid with 'total length/m' on the y-axis (ranging from 0 upwards, with 1.70 marked) and 'volume of paint/10⁻³ m³' on the x-axis (ranging from 0 to 5.0, with 2.5 marked). A point is marked at (2.5, 1.70) and labeled 'limit of proportionality'. The graph is intended for sketching the length-volume relationship for the elastic rope."
+      },
+      {
+        "part_label": "e",
+        "part_text": "The student suddenly removes the can from the end of the stretched rope and, as it contracts, the rope jumps into the air. State the energy change that is taking place in the rope as it contracts and jumps into the air.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q9",
+    "Question_text": "Fig. 9.1 shows a boiling liquid at its boiling point, trapped in a cylinder by a piston. There is an electric heater in the liquid which is connected to a power supply. The thermal energy produced by the heater gradually turns the boiling liquid into a gas.",
+    "image": "Fig. 9.1, a diagram showing a vertical cylinder with a piston at the top, trapping 'gas' above a 'boiling liquid'. An 'electric heater' is submerged in the liquid and connected to a 'power supply'. Labels include 'cylinder' and 'piston'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Particle Model",
+      "Specific Latent Heat",
+      "Electrical Power",
+      "Electrical Energy",
+      "Pressure & Forces",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by boiling point.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain, in terms of molecules, why it is necessary to supply energy in order to turn a liquid at its boiling point into a gas.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In order to determine the power of the electric heater, two meters are connected into the circuit. One meter measures the current in the heater and the other meter measures the potential difference (p.d.) across it. On the circuit in Fig. 9.1, draw symbols to show the two meters used and where they are connected.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The current in the heater is 2.0A and the p.d. across it is 6.0 V. Calculate the power of the heater.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Calculate the thermal energy supplied to the liquid by the heater in 1.0 minute.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "The specific latent heat of vaporisation of the liquid is 9.0 × 10⁵ J/kg. Calculate the mass of liquid that vaporises every minute.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The piston is free to move in the cylinder. As the liquid boils, the piston is pushed upwards in the cylinder at a constant speed. The volume occupied by the gas just above the liquid increases. Discuss whether the upward force on the piston changes as the piston moves upwards at constant speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/22/2019/Q10",
+    "Question_text": "All the isotopes of the gas radon are radioactive.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Dangers of Radiation",
+      "Detection of Radioactivity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State one similarity and one difference between the nuclei of two different isotopes of radon.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The isotope radon-222 decays by alpha-particle emission to an isotope of polonium (Po). The proton number (atomic number) of polonium is 84. Determine the number of neutrons in an atom of the polonium isotope.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the number of protons in an atom of radon-222.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Describe how a neutral atom of helium (⁴₂He) differs from an alpha-particle.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In an experiment to collect a small quantity of helium, a sample of radon-222 is enclosed in an inner glass tube which has a very thin wall. Fig. 10.1 shows that this tube is placed inside a container that is initially evacuated. Both the container and the inner glass tube are sealed. As the radon-222 decays, alpha-particles pass through the thin wall of the inner glass tube. Fig. 10.2 shows how the total number of alpha-particles produced by the radioactive decay of the radon-222 changes as time passes.",
+        "image": "Fig. 10.1, a diagram showing an 'inner glass tube' containing 'radon-222', sealed with 'seal', placed inside a larger 'container' that is under 'vacuum'. A label 'radon-222' points to the inner tube and 'container' to the outer. Fig. 10.2, a graph titled 'number of alpha-particles' vs 'time/days'. The y-axis shows 'number of alpha-particles' in scientific notation (x 10¹⁰) with values 1.0, 2.0, 3.0. The x-axis shows 'time/days' from 0 to 12. A smooth curve rises from the origin, indicating an increasing number of alpha-particles over time due to radioactive decay."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use Fig. 10.2 to determine the number of alpha-particles produced in 7.6 days.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Initially, there are 2.8 × 10¹⁰ atoms of radon-222 in the inner glass tube. As each radon-222 atom decays, it produces an alpha-particle. Calculate the number of radon-222 atoms that remain after 7.6 days.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Using the number of radon-222 atoms present initially and the number present after 7.6 days, calculate the half-life of radon-222.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The alpha-particles become helium atoms which are collected in the vacuum shown in Fig. 10.1. Explain, in terms of the properties of alpha-particles, why the wall of the inner glass tube must be extremely thin.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "In some parts of the world, radon-222 accumulates in the air in buildings and is breathed in by people. Explain why the presence of an alpha-emitter in the lungs is particularly hazardous.",
+        "image": null
+      }
+    ]
+  }
+]

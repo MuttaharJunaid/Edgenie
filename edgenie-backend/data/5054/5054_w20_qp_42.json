@@ -1,0 +1,179 @@
+[
+  {
+    "QuestionNumber": "October/November/2020/Q1",
+    "Question_text": "A student investigates the balancing of a metre rule. She uses a metre rule that has a small hole drilled through it at the 5.0cm mark. She pivots the rule at the 5.0cm mark. She supports the other end of the rule using a newton meter attached to a loop of string placed at the 95.0cm mark. She suspends a 200g mass from the rule using a loop of thread. The student moves the loop of thread supporting the 200g mass until it is at the 25.0cm mark on the metre rule. Fig. 1.1 shows the apparatus set up by the student. She calculates the distance d of the mass from the pivot and records her value in the first row of Table 1.1. She adjusts the height of the clamp supporting the newton meter until the rule is horizontal. She records the reading F on the newton meter in the first row of Table 1.1. The student repeats this procedure with the loop of thread supporting the mass at the 40.0cm, 55.0cm, 65.0cm and 80.0 cm marks on the metre rule.",
+    "image": "Fig. 1.1 shows a diagram of the experimental setup for investigating the balancing of a metre rule. A metre rule is pivoted at its 5.0cm mark. On the left side of the pivot, a 200g mass is suspended from the rule by a loop of thread. The distance 'd' is indicated as the distance from the pivot to the point where the mass is suspended. On the right side of the pivot, a newton meter is attached to a loop of string, which supports the rule at the 95.0cm mark. The newton meter is held by a clamp and stand. A horizontal ruler scale from 0 to 100 is visible on the metre rule. The labels include 'newton meter', 'loop of thread', 'string', 'metre rule', 'pivot', and '200g mass'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "In Table 1.1, record the distance d of the mass from the pivot.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "In Table 1.1, record the reading F on the newton meter.",
+        "image": "Fig. 1.2 shows a newton meter scale. The scale ranges from 0 to 2 N, with major markings at 0, 1, and 2. Each major interval (e.g., 0 to 1 N) is divided into 10 smaller intervals, meaning each small division is 0.1 N. The pointer indicates a reading of 1.7 N."
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 1.3, plot a graph of F on the y-axis against d on the x-axis. Start both axes from the origin. Draw the straight line of best fit.",
+        "image": "Fig. 1.3 shows a blank grid suitable for plotting a graph, with axes originating from (0,0). The x-axis is expected to represent 'd' and the y-axis 'F'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the gradient m of your line. Show all working and indicate on the graph the values you choose.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Extend your line so that it cuts the y-axis. Write down the intercept c that your line makes with the y-axis.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Calculate w, where w = c/m.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "The weight W of the metre rule is given by the equation shown W = W/k where k = 22.5cm/N. Calculate W. Give your answer to an appropriate number of significant figures. (Note: The equation 'W = W/k' is a likely typo and should be interpreted in context, often meaning W = w/k to yield Newtons given w in cm and k in cm/N).",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "When performing the investigation, the student rests a spirit level on the rule to check that the rule is horizontal before taking each newton meter reading. Suggest why using a spirit level in this way is not suitable for carrying out the check in this instance.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Describe a method, other than using a spirit level, of checking that the rule is horizontal.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q2",
+    "Question_text": "A student investigates the resistances of two lamps X and Y. He sets up the circuit shown in Fig. 2.1. He measures the current I in the circuit. He measures the potential difference (p.d.) V across lamp X. He replaces lamp X with lamp Y and repeats the measurements of current and voltage. He re-connects lamp X into the circuit so that it is in parallel with lamp Y. He measures the total current I in the circuit. He measures the p.d. V across lamps X and Y in parallel. The student's results are shown in Table 2.1.",
+    "image": "Fig. 2.1 shows a simple series electrical circuit diagram. It consists of an ammeter (labeled 'A') connected in series, a lamp labeled 'lamp X', and a voltmeter (labeled 'V') connected in parallel across lamp X. The circuit implies a power source, though it is not explicitly drawn.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw the circuit when lamps X and Y are connected in parallel.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete the column headings in Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the resistance R for each lamp arrangement using the equation R = V/I. Record your answers in Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student states that the combined resistance of lamps X and Y when connected in parallel is equal to twice the average resistance of lamp X and lamp Y. He is incorrect. Use the results in Table 2.1 to suggest a correct conclusion about the combined resistance.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q3",
+    "Question_text": "A student investigates reflection and refraction of light using a semi-circular glass block. He places a glass block on a sheet of paper. He draws around the outline of the block with a pencil. He uses a ray box to direct a ray of light onto the centre C of the flat face AB of the block. He labels AB and point C. Fig. 3.1 shows what the student observes. He uses a pencil to place two crosses X₁ and X2 on the incident ray. He uses a pencil to place two crosses X3 and X4 on the emergent ray. He uses a pencil to place two crosses X5 and X6 on the ray reflected from the face AB. He removes the glass block and the ray box. Fig. 3.2 shows the student's sheet of paper.",
+    "image": "Fig. 3.1 shows an experimental setup with a semi-circular glass block. A 'ray box' emits an 'incident ray' that strikes the center 'C' of the flat face 'AB' of the block. A 'refracted ray' is shown bending as it enters the block, and an 'emergent ray' exits the curved side. A 'reflected ray' is shown bouncing off the flat face 'AB'. Labels include 'semi-circular glass block', 'newton meter', 'ray box', 'incident ray', 'reflected ray', 'refracted ray', and 'emergent ray'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Snell's Law",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw the normal to the surface of the glass block at C.",
+        "image": "Fig. 3.2 shows an outline of a semi-circular glass block with a flat face labeled AB and a central point C. Several crosses are marked on the paper: X1 and X2 are positioned to define the path of the incident ray before point C. X3 and X4 define the path of the emergent ray after passing through the block. X5 and X6 define the path of the reflected ray from face AB. The task is to draw a normal line perpendicular to the flat face AB at point C."
+      },
+      {
+        "part_label": "b",
+        "part_text": "1. Draw a line joining X₁ to X2. Continue the line to C. 2. Draw a line joining X₁ to X3. Continue the line to C. 3. Draw a line joining X5 to X6. Continue the line to C.",
+        "image": "Fig. 3.2 shows an outline of a semi-circular glass block with a flat face labeled AB and a central point C. Several crosses are marked on the paper: X1 and X2 are positioned to define the path of the incident ray before point C. X3 and X4 define the path of the emergent ray after passing through the block. X5 and X6 define the path of the reflected ray from face AB. The task is to draw lines connecting these specified crosses and extending them to point C."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Measure the angle of incidence i of the ray of light on face AB.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Measure the angle of refraction r at point C of this ray.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the refractive index n of the glass. Use the equation shown. n = sin i / sin r",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Measure the angle of reflection R of the light from face AB. The angle of incidence i should be equal to the angle of reflection R. State one practical reason why the angles i and R that you have measured may not be equal.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q4",
+    "Question_text": "A student investigates the effect of using a lid on the speed of cooling of hot water in a beaker. She pours 200 cm³ of hot water into a beaker. She places a thermometer into the water, as shown in Fig. 4.1. She waits for a short time. She records the temperature of the water and at the same time she starts a stopwatch. This is at time t = 0. Fig. 4.2 shows the thermometer at time t = 0. The student lets the water cool for 5.0 minutes and records the temperature of the water at the end of this time. She then pours 200cm³ of hot water into an identical beaker, covers the beaker with a lid, and repeats the procedure. The set-up is shown in Fig. 4.3.",
+    "image": "Fig. 4.1 shows a beaker containing water, with a thermometer submerged in the water, supported by a clamp stand. Fig. 4.3 shows a similar setup to Fig. 4.1, but with the beaker covered by a lid, also containing water and a thermometer supported by a clamp stand.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Record the temperature θ shown by the thermometer at time t = 0. Add your value of temperature to Table 4.1 on page 12.",
+        "image": "Fig. 4.2 shows a thermometer scale. The scale is marked in degrees Celsius (°C). Major markings are at 80°C and 90°C. The interval between 80°C and 90°C is divided into 10 smaller intervals, meaning each small division is 1°C. The mercury level indicates a temperature of 87°C."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State why the student waits for a short time before reading the thermometer at time t = 0.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how the results in Table 4.1 show that the water cools more quickly without a lid.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Name one quantity that the student must keep the same to make a fair comparison between the speeds of cooling of the two beakers.",
+        "image": null
+      }
+    ]
+  }
+]

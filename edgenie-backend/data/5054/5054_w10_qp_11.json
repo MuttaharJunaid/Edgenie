@@ -1,0 +1,459 @@
+[
+  {
+    "QuestionNumber": "October-November/11/2010/Q1",
+    "Question_text": "Vernier calipers are shown with the jaws closed. What is the zero error?",
+    "image": "A diagram of vernier calipers with the jaws closed. The main scale is marked 0, 1 cm, 2 cm. The vernier scale has its zero mark slightly to the right of the main scale's zero mark. The 4th division of the vernier scale aligns with a mark on the main scale, indicating a positive zero error.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q2",
+    "Question_text": "Which list contains only scalar quantities?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q3",
+    "Question_text": "A student pulls a piece of tape through a ticker-tape timer. Every 0.02s, the timer prints a dot on the tape. First the tape is pulled quickly, then slowly, then quickly again. Which piece of tape does the student obtain?",
+    "image": "A diagram showing a hand pulling a tape through a ticker-tape timer. Below, four options (A, B, C, D) display different patterns of dots on pieces of tape. Option B shows dots that are initially spaced out (quick), then become closer together (slow), and then spaced out again (quick).",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q4",
+    "Question_text": "A small stone is dropped from the top of a ladder, falls and hits the ground. It does not rebound. Which speed-time graph is correct?",
+    "image": "Four speed-time graphs are presented as options A, B, C, and D. Each graph shows speed on the y-axis and time on the x-axis. Option D shows speed increasing linearly from zero, then abruptly dropping to zero at the moment of impact with the ground, and remaining at zero thereafter, indicating no rebound.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Freefall"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q5",
+    "Question_text": "An aircraft, flying at a constant height, is gaining speed. The four forces acting are L lift due to the wings R air resistance T the thrust due to the engines W the weight Which row is correct?",
+    "image": "A diagram of an aircraft in flight, with four forces depicted by arrows: L (lift) pointing upwards, W (weight) pointing downwards, T (thrust) pointing forwards, and R (air resistance) pointing backwards.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q6",
+    "Question_text": "A car travels along a road. The driver stops the car by pushing his foot down on the brake pedal. What does not change if he pushes harder on the brake pedal?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q7",
+    "Question_text": "A person of weight 600 N at the bottom of a mountain climbs to the top. The gravitational field strength changes from 10.00 N/kg at the bottom to 9.97 N/kg at the top. His mass is unchanged as he climbs. What are his mass and his weight at the top of the mountain?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q8",
+    "Question_text": "A box has an internal volume of 1000 cm³. When a solid object is placed in the closed box, the volume of air in the box is 520 cm³. The density of the object is 8.00 g/cm³. What is the mass of the object?",
+    "image": "A diagram of a closed rectangular box. Inside the box, a solid object rests at the bottom, and the remaining space above and around it is labeled 'air'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q9",
+    "Question_text": "What affects the stability of an object?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q10",
+    "Question_text": "A uniform metre rule is balanced by a 4N weight as shown in the diagram. What is the weight W of the metre rule?",
+    "image": "A diagram shows a uniform metre rule. The rule is marked from 0 cm to 100 cm. A pivot is placed at the 10 cm mark. A 4N weight is hanging from the 0 cm mark. An unknown weight W is shown hanging downwards from the 100 cm mark. The rule is shown in a balanced horizontal position.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q11",
+    "Question_text": "The base for a statue rests on level ground. It is made from stone and is 2.0 m long, 2.5 m high and 0.80 m wide. It has a weight of 96 000 N. What is the pressure that the base exerts on the ground?",
+    "image": "A three-dimensional diagram of a rectangular block representing the base of a statue. The dimensions are labeled: 2.0 m for length, 2.5 m for height, and 0.80 m for width.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q12",
+    "Question_text": "An engineer designs a dam wall for a reservoir. Which factor determines the pressure at X?",
+    "image": "A cross-sectional diagram of a dam wall retaining water in a reservoir. Point X is located at the base of the dam wall, beneath the water surface.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q13",
+    "Question_text": "The diagram shows a curved track. A ball is released from the position shown. At which point does the ball have the maximum gravitational potential energy?",
+    "image": "A diagram of a curved track forming a U-shape. A ball is shown released from point A, which is the highest point on the left side of the track. Points B, C, and D are marked along the track, with C being the lowest point.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q14",
+    "Question_text": "When one radium nucleus decays, its mass decreases by 8.8 × 10⁻³⁰ kg. How much energy is equivalent to this loss in mass? (speed of light c = 3.0 × 10⁸ m/s)",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q15",
+    "Question_text": "The energy output of a generator depends on its efficiency and the energy input. Which set of values is correct?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q16",
+    "Question_text": "A liquid evaporates rapidly. Why does this cause it to cool?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q17",
+    "Question_text": "The tubes inside solar heating panels use the Sun's radiation to warm water. Why are the tubes painted black?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q18",
+    "Question_text": "The diagram shows a clinical thermometer. Which factor affects the sensitivity of the thermometer?",
+    "image": "A diagram of a clinical thermometer, showing its components labeled: 'mercury', 'constriction', 'bore', and 'glass tube'.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q19",
+    "Question_text": "A hot liquid is poured into a beaker. The graph shows how its temperature changes as it cools towards room temperature. Which processes are taking place at region X?",
+    "image": "A temperature-time graph showing a cooling curve. The temperature decreases over time, then remains constant for a period labeled 'X', before decreasing again. The y-axis is 'temperature' and the x-axis is 'time'.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q20",
+    "Question_text": "What is caused by the thermal expansion of a substance when heated?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q21",
+    "Question_text": "In an experiment using a ripple tank, plane wavefronts arrive at a plane surface. Which row correctly describes the waves after they are reflected from the surface?",
+    "image": "A diagram illustrating plane wavefronts in a ripple tank. Parallel lines represent incident wavefronts approaching a flat surface at an angle. After reflection, parallel lines represent reflected wavefronts moving away from the surface. The wavelength is indicated by 'λ'.",
+    "Unit": "Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q22",
+    "Question_text": "A ray of light strikes the surface of a glass block at an angle of incidence of 45°. The refractive index of the glass is 1.5. What is the angle of refraction inside the block?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q23",
+    "Question_text": "An object is viewed through a concave (diverging) lens. What is the correct description of the image formed?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q24",
+    "Question_text": "Which pair of emissions travels with the same speed in air?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q25",
+    "Question_text": "During a thunderstorm, there is an interval of 1.70s between an observer seeing the lightning and hearing the thunder. The speed of sound is 340m/s. What is the distance between the observer and the storm?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q26",
+    "Question_text": "A metal ring screens a piece of equipment from a magnetic field. Which metal should be used for the ring, and why?",
+    "image": "A diagram illustrating magnetic shielding. Magnetic field lines are shown entering from the left, diverging to go around a circular metal ring, and then converging again on the right. Inside the ring, an area labeled 'equipment' is shown with very few or no magnetic field lines passing through it. The ring is labeled 'metal ring'.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q27",
+    "Question_text": "A negatively-charged sphere X is brought up to an identical uncharged sphere Y. The spheres do not touch. Sphere Y is 'earthed' by touching it with a finger, which is then removed. Sphere X is then moved away from sphere Y. What is the final charge, if any, on sphere Y?",
+    "image": "A series of diagrams illustrating the process of charging by induction. Initially, a negatively charged sphere X is near an uncharged sphere Y, which is mounted on an insulating holder. Next, a finger touches sphere Y, grounding it. Then, the finger is removed. Finally, sphere X is moved away. The options A, B, C, D show the final charge distribution on sphere Y.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q28",
+    "Question_text": "A battery is used to light a 24 W electric lamp. The battery provides a charge of 120 C in 60 s. What is the potential difference across the lamp?",
+    "image": "A simple circuit diagram showing a battery connected to a circular component labeled '24 W', representing an electric lamp.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q29",
+    "Question_text": "The diagram shows a simple electric circuit. Which row describes the charge on an electron and the direction of electron flow through the resistor?",
+    "image": "A simple electric circuit diagram showing a battery (positive and negative terminals indicated) connected to a resistor. An arrow is drawn below the resistor, indicating the 'direction of electron flow'.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q30",
+    "Question_text": "When three identical resistors are connected in series, their combined resistance is 6 Ω. What is their combined resistance when they are connected in parallel?",
+    "image": "Two circuit diagrams are shown. The first diagram, labeled 'series', shows three resistors connected end-to-end. The second diagram, labeled 'parallel', shows the same three resistors connected side-by-side between two common points.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q31",
+    "Question_text": "Many electrical appliances have metal cases. To prevent the case from becoming 'live', with the possibility of an electric shock, the earth wire of the electric cable is attached to the case. How does the earth wire prevent an electric shock?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q32",
+    "Question_text": "Two parallel vertical wires P and Q are a small distance apart in air. There is a downwards electric current in both wires. A force acts on Q owing to the current in P. This force is perpendicular to the wire Q. What is the direction of the force on Q?",
+    "image": "A diagram showing two parallel vertical wires, P (left) and Q (right). Arrows indicate a downward current in both wires. Around wire Q, a coordinate system with arrows labeled A (into page), B (right), C (left), D (out of page) is shown.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Fields Around Parallel Conductors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q33",
+    "Question_text": "What does not alter the size of the turning effect on the coil of an electric motor?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q34",
+    "Question_text": "The diagram shows an a.c. generator connected to an electrical circuit (load resistor). Which statement is correct?",
+    "image": "A diagram of an AC generator. It shows a coil of many turns rotating on an axle between the N and S poles of a magnet. The coil is connected via slip rings to a load resistor, with a 'mechanical drive' indicated for rotation.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q35",
+    "Question_text": "Electric power cables transmit electrical energy over large distances using a high voltage, alternating current. What are the advantages of using a high voltage and of using an alternating current?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q36",
+    "Question_text": "The diagram shows a beam of electrons entering a magnetic field. The direction of the magnetic field is downwards, towards the bottom of the page. In which direction does the deflection of the electrons occur?",
+    "image": "A diagram shows a horizontal beam of 'electrons' entering a rectangular region labeled 'region of the magnetic field'. Inside this region, vertical arrows point downwards, indicating the direction of the magnetic field.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q37",
+    "Question_text": "The diagram shows an alarm system in which the switch S is shown closed. What happens when the switch S is opened?",
+    "image": "A circuit diagram of an electric bell. It includes a battery, a switch S, an electromagnet (coil around an iron core), an iron armature with a pivot and a hammer, a contact screw, and a bell. The switch S is shown closed, completing the circuit.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q38",
+    "Question_text": "A student investigates a radioactive source that emits only alpha-particles. Without any source nearby, the detector shows a low reading. The source and thick cardboard are placed near the detector, as shown. What is the reading on the detector now, and why?",
+    "image": "A diagram showing a 'radioactive source' on the left, followed by a thick rectangular block labeled 'thick cardboard', and then a 'detector' on the right. All are arranged in a line.",
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Background Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q39",
+    "Question_text": "¹⁵N is a nuclide of nitrogen. How many electrons are there in a neutral atom of ¹⁵N?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2010/Q40",
+    "Question_text": "The table shows details of two samples of radioactive nuclides X and Y. nuclide X: number of radioactive atoms at time = 0: 16 000, half-life: 1 day. nuclide Y: number of radioactive atoms at time = 0: 2 000, half-life: 2 days. After how many days will the number of atoms of nuclide X be equal to the number of atoms of nuclide Y?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,463 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q1",
+    "Question_text": "Which is a scalar quantity?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q2",
+    "Question_text": "During an experiment to find the density of a stone, the stone is lowered into a measuring cylinder partly filled with water. Which statement is correct?",
+    "image": "Two measuring cylinders are shown. The first contains water up to a certain level, labeled 'water'. The second shows the same measuring cylinder with a stone submerged in the water, raising the water level. The stone is explicitly labeled 'stone'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q3",
+    "Question_text": "The diagram shows a micrometer scale. Which reading is shown?",
+    "image": "A diagram of a micrometer scale. The main scale shows 7 mm clearly (5 mm mark visible, plus two more full mm marks). The thimble scale aligns at the 14th division mark, indicating an additional 0.14 mm. The scale also shows 0, 5, 10, 15, 20 marks on the thimble scale and 0, 5 marks on the main scale in mm.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q4",
+    "Question_text": "A lorry takes 15 minutes to travel along the path PQRS. What is the average speed of the lorry?",
+    "image": "A path labeled PQRS is shown. The distance from P to Q is 8.0 km. From Q to R is 3.0 km. From R to S is 5.0 km.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q5",
+    "Question_text": "An apple of mass 0.15kg and weight 1.5N falls from a tree. At one point during its fall, the air resistance on the apple is 0.60 N upwards. What is the acceleration of the apple at this point?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q6",
+    "Question_text": "At time t₁, a stone is dropped from a stationary balloon. The stone reaches terminal velocity at time t₂. Which row gives the acceleration of the stone at time t₁ and at time t₂?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q7",
+    "Question_text": "Four of the gravitational forces that act between bodies in the Solar System are described below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the Sun Which two forces are a Newton's third law pair (action and reaction)?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q8",
+    "Question_text": "The diagram represents the Moon in its orbit around the Earth. Which arrow represents the direction of the resultant force acting on the Moon at the instant shown?",
+    "image": "A diagram illustrating the Moon orbiting the Earth. The Earth is at the center, and the Moon is shown at a point in its orbit. An arrow indicates the 'direction of motion of the Moon'. Four other arrows, A, B, C, D, originate from the Moon. Arrow A points directly towards the Earth. Arrow B points slightly forward and inwards. Arrow C points outwards from the orbit. Arrow D points tangentially in the direction of motion.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q9",
+    "Question_text": "A student produces some revision notes on gravity, mass and weight. Which statement is not correct?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q10",
+    "Question_text": "Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?",
+    "image": "A diagram showing two cylinders, P and Q. Cylinder P is taller and narrower than cylinder Q. Both are represented as simple cylindrical shapes.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q11",
+    "Question_text": "The total weight of the load and the wheelbarrow shown is 600 N. What is the size of force F needed just to lift the loaded wheelbarrow?",
+    "image": "A diagram of a wheelbarrow with a pivot point at the wheel's axle. The total weight of the load and wheelbarrow (600 N) acts downwards at a point 70 cm horizontally from the pivot. An upward lifting force F is applied at the handle, 50 cm horizontally to the right of where the 600 N weight acts, making the total distance from the pivot to F 120 cm.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q12",
+    "Question_text": "A gas is trapped inside a cylinder by a movable piston. The length of the gas column is 20 cm and the pressure inside the cylinder is p. The piston is pulled out a distance of 30 cm, so that the length of the gas column is now 50 cm. The temperature of the gas does not change. What is the new pressure of the gas?",
+    "image": "A diagram showing a cylinder with a movable piston. The initial position shows the gas column with a length of 20 cm and pressure p. An arrow indicates the piston being pulled out by an additional 30 cm, making the new length of the gas column 50 cm. The diagram also labels 'original position of piston' and 'gas at initial pressure p'.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q13",
+    "Question_text": "The base of a rectangular storage tank is 2.0m by 3.0m. The tank is filled with paraffin to a depth of 3.0 m. The density of paraffin is 800kg/m³ and the gravitational field strength is 10N/kg. What is the pressure at the bottom of the tank due to the paraffin?",
+    "image": "A rectangular tank with dimensions labeled: base 2.0 m by 3.0 m, and liquid depth 3.0 m.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q14",
+    "Question_text": "A person throws a stone so that it follows the path shown in the diagram. In which position does the stone have the most gravitational potential energy?",
+    "image": "A diagram showing a person throwing a stone, which follows a parabolic trajectory. Points A (initial position), B (highest point of trajectory), C (mid-descent), and D (lowest point, near water) are marked along the path.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q15",
+    "Question_text": "A piston of area 10cm² is pushed slowly into a very large cylinder containing gas at a pressure of 10N/cm². The pressure of the gas remains constant as the piston moves a distance of 0.10m. What is the force of the gas on the piston and what is the work done by the piston on the gas?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q16",
+    "Question_text": "A gas is in a sealed container of constant volume. The gas is heated and the pressure of the gas on the walls of the container increases. How do the particles of the gas cause this increase in pressure?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q17",
+    "Question_text": "The diagrams represent four thermometers. Which thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+    "image": "Four vertical diagrams of thermometers labeled P, Q, R, S, each showing a different temperature scale. Thermometer P has a range of 0°C to 25°C. Thermometer Q has a range of 30°C to 40°C. Thermometer R has a range of 0°C to 250°C. Thermometer S has a range of 100°C to 300°C. The lengths of the thermometer tubes are comparable across all four diagrams.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q18",
+    "Question_text": "Some of the liquid in a dish evaporates, as shown in the diagrams. Which molecules leave the liquid and which molecules in the liquid have greater average kinetic energy?",
+    "image": "Two diagrams show a liquid in a dish. The first diagram is labeled 'before evaporation' and shows a higher liquid level. The second diagram is labeled 'after evaporation' and shows a lower liquid level.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q19",
+    "Question_text": "An insulated beaker contains 300 g of water, initially at 30°C. Water at 100°C is added until the temperature of the mixture reaches 50°C. The specific heat capacity of water is 4.2J/(g°C). How much water is added?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q20",
+    "Question_text": "Which statement is correct?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q21",
+    "Question_text": "An echo sounder produces ultrasound of frequency 24 kHz. The ultrasound travels in water at a speed of 1.5 km/s. What is the wavelength in water of ultrasound of this frequency?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q22",
+    "Question_text": "An object is viewed through a converging lens. The diagram shows the paths of two rays from the top of the object to an eye. How does the image compare with the object?",
+    "image": "A ray diagram illustrating an object placed within the focal length of a converging lens, with an eye positioned to view the virtual image. Two rays from the top of the object are traced: one parallel to the principal axis then through the focal point, and another through the optical center. The diagram shows these rays diverging after the lens, and their backward extensions forming a magnified, upright, virtual image on the same side as the object.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q23",
+    "Question_text": "In an experiment using a ripple tank, plane wavefronts arrive at a plane surface. Which row correctly describes the waves after they are reflected from the surface?",
+    "image": "A diagram of plane wavefronts in a ripple tank. Parallel lines represent the wavefronts approaching a straight barrier (plane surface). The wavelength λ is indicated between two consecutive wavefronts.",
+    "Unit": "Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q24",
+    "Question_text": "Which statement about red light and blue light is correct?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q25",
+    "Question_text": "A loudspeaker produces a sound wave of frequency 50 Hz. The amplitude of the sound wave is increased. What is heard?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q26",
+    "Question_text": "An ultrasound scanner produces an image of an unborn baby. How does the scanner form an image?",
+    "image": "A diagram showing an ultrasound scanner connected to a probe, which is placed on a pregnant abdomen. Inside, an unborn baby is visible, and lines represent ultrasound waves being emitted from the scanner, interacting with the baby, and reflecting back to the 'part of scanner'.",
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q27",
+    "Question_text": "The sound from the siren of a ship is reflected by a cliff. An echo is heard by a sailor on the deck of the ship, 4.0s after the siren is sounded. The speed of sound in air is 320 m/s. How far from the cliff is the ship?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q28",
+    "Question_text": "Which material can be picked up by a magnet?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q29",
+    "Question_text": "Which row correctly names an electrical conductor and an insulator?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q30",
+    "Question_text": "A positively charged insulated metal sphere is brought close to an uncharged insulated metal sphere. Which diagram shows the charge distribution on the spheres?",
+    "image": "A conceptual diagram showing a positively charged insulated metal sphere brought near an uncharged insulated metal sphere. The image displays four different options (A, B, C, D) representing various distributions of positive (+) and negative (-) charges on the two spheres, attempting to depict electrostatic induction.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q31",
+    "Question_text": "The diagram shows the magnetic field around wire X which carries a current into the paper. The arrows on the field lines show the direction of the force on",
+    "image": "A diagram showing a cross-section of a wire labeled 'X' with a cross symbol indicating current flowing into the plane of the paper. Concentric circles are drawn around the wire, representing magnetic field lines, with clockwise arrows indicating the direction of the magnetic field.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q32",
+    "Question_text": "P and Q represent two, parallel, straight wires carrying currents into the plane of the paper. P and Q exert a force on each other. Which arrow shows the force on Q?",
+    "image": "A diagram showing two parallel wires, P and Q, in cross-section. Both wires have a cross symbol, indicating that the current in each flows into the plane of the paper. Four arrows (A, B, C, D) originate from wire Q, representing possible directions of the force on Q. Arrow D points horizontally towards P.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Fields Around Parallel Conductors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q33",
+    "Question_text": "A power supply of 18 V is connected to three resistors, as shown. What is the potential difference across the 2.0Ω resistor?",
+    "image": "A circuit diagram showing an 18V power supply. Two 8.0Ω resistors are connected in parallel, and this parallel combination is connected in series with a 2.0Ω resistor across the 18V supply.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Potential Difference in Circuits",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q34",
+    "Question_text": "An immersion heater is labelled 24V, 120W. What is the current in the heater when it is connected to a 24V supply?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q35",
+    "Question_text": "Electric power cables transmit electrical energy over large distances using high-voltage, alternating current. What are the advantages of using a high voltage and of using an alternating current?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q36",
+    "Question_text": "Which particles are emitted by the hot filament of a cathode-ray oscilloscope (c.r.o.) and which type of field is used to accelerate them?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q37",
+    "Question_text": "The diagram shows an electrical device X connected between a 6V a.c. supply and a 12V lamp. The lamp is seen to glow with normal brightness. What is X?",
+    "image": "A circuit diagram showing a 6V AC power supply connected to a device labeled 'X'. Device X is then connected to a 12V lamp. The symbol for an AC power supply is used. The lamp glows with normal brightness.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q38",
+    "Question_text": "In the circuit shown, all lamps are identical. Lamp P lights with normal brightness. Switch Y is closed and lamps come on. Which row indicates the brightness of the lamps?",
+    "image": "A circuit diagram containing a battery, three identical lamps labeled P, Q, and R, and a switch labeled Y. Lamp P is in series with the battery. Lamps Q and R are connected in series with each other, and this Q-R combination is connected in parallel with a switch Y, which is in turn in parallel with lamp P.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q39",
+    "Question_text": "A radioactive isotope 14C emits beta-particles. A sample of this isotope is left for a period of time that is equal to its half-life. Which two quantities decrease to half of their initial value during this time?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2015/Q40",
+    "Question_text": "In the Geiger-Marsden experiment, a beam of alpha-particles is fired at a very thin sheet of gold foil, in a vacuum. What is deduced from this experiment?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

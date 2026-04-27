@@ -1,0 +1,686 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2013/Q1",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.4 Fractions, decimals and percentages, 1.6 The four operations",
+    "Sub_topic": [
+      "Use proper fractions",
+      "Use improper fractions",
+      "Use operations with fractions",
+      "Order operations correctly",
+      "Use brackets"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 4/7 - 2/5.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 5/8 ÷ 2/3.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q2",
+    "Question_text": "A bag contains red counters and blue counters. On each counter there is either an odd or an even number. The table shows the number of counters of each type.",
+    "image": "A table with two rows (Red, Blue) and two columns (Odd, Even) showing the number of counters: Red-Odd: 6, Red-Even: 9, Blue-Odd: 5, Blue-Even: 3.",
+    "Unit": "Number",
+    "Topic": "1.1 Types of number, 1.4 Fractions, decimals and percentages, 1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Identify natural numbers",
+      "Use proper fractions",
+      "Give ratios simply"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the fraction of the counters that are blue.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the ratio of odd to even numbers.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q3",
+    "Question_text": "3",
+    "image": null,
+    "Unit": "Mensuration, Number",
+    "Topic": "5.1 Units of measure, 1.5 Ordering",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Order by magnitude"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write these lengths in order of size, starting with the shortest. 500m 5cm 50km 500mm",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Convert 41.6 cm² to mm².",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q4",
+    "Question_text": "A line has equation 3y = 2-x.",
+    "image": null,
+    "Unit": "Coordinate geometry, Algebra and graphs",
+    "Topic": "3.1 Coordinates, 3.3 Gradient of linear graphs, 3.5 Equations of linear graphs, 2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Use and interpret Cartesian coordinates in two dimensions",
+      "Find the gradient of a straight line",
+      "Calculate the gradient of a straight line from the coordinates of two points on it",
+      "Interpret and obtain the equation of a straight-line graph",
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the gradient of the line.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The line passes through the point (5, k). Find the value of k.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q5",
+    "Question_text": "The diagram shows the regions A to I.",
+    "image": "A Cartesian coordinate plane showing the x-axis and y-axis from 0 to 5. Several straight lines are drawn, including y=1, y=4-2x, y=x-2, y=5-x. These lines define various regions within the grid, labeled A through I.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line",
+      "Construct, solve and interpret linear inequalities",
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Give the letter of the region defined by each set of inequalities. x > 0, y >0, y<1 and y<4-2x",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "y>1, y<x-2 and y<5-x",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q6",
+    "Question_text": "The diagram shows triangle A.",
+    "image": "A Cartesian coordinate plane. A triangle labeled 'A' is drawn with vertices at approximately (-4,2), (-2,2), and (-3,3).",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Reflect triangle A in the line x = 1. Label the image B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Rotate triangle A through 90° clockwise about the point (−1, 3). Label the image C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q7",
+    "Question_text": "The diagram shows a scale used to measure the water level in a river. The table shows the reading, in metres, at the beginning of each month.",
+    "image": "A vertical scale diagram indicating water levels in meters, ranging from -2.5m to 2.0m, with markings every 0.5m. A pointer is at -1.5m, labeled 'June'. Below the scale is a table of monthly readings in meters.",
+    "Unit": "Mensuration, Number, Statistics",
+    "Topic": "5.1 Units of measure, 1.5 Ordering, 1.6 The four operations, 9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Order by magnitude",
+      "Use operations with decimals",
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The diagram shows the water level at the beginning of June. Complete the table with the June reading.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Work out the difference between the highest and lowest levels shown in the table.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The August reading was 0.4 m higher than the July reading. Work out the reading in August.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q8",
+    "Question_text": "8",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify natural numbers",
+      "Identify cube numbers",
+      "Identify common factors",
+      "Identify prime numbers",
+      "Identify irrational numbers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "James thinks of a two-digit number. It is a cube number. It is an even number. What is his number?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Omar thinks of a two-digit number. It is a factor of 78. It is a prime number. What is his number?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Write down an irrational number between 1 and 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q9",
+    "Question_text": "9",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.1 Types of number, 1.3 Powers and roots, 1.5 Ordering, 1.6 The four operations, 1.9 Estimation",
+    "Sub_topic": [
+      "Identify integers",
+      "Calculate square roots",
+      "Order by magnitude",
+      "Use symbols (=, ≠, >, <, ⩾, ⩽)",
+      "Order operations correctly",
+      "Use brackets",
+      "Round to accuracy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write 0.0040751 correct to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "√131 lies between two consecutive integers. Complete the inequality below with these integers.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Add brackets to the statement below to make it correct. 3 × 2 + 1² = 49",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q10",
+    "Question_text": "= {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} A = {odd numbers} B = {multiples of 3}",
+    "image": "A Venn diagram showing a universal set E as a rectangle, containing two overlapping circles labeled A and B. The diagram has empty space to be filled with numbers.",
+    "Unit": "Number",
+    "Topic": "1.1 Types of number, 1.2 Sets",
+    "Sub_topic": [
+      "Identify natural numbers",
+      "Identify common multiples",
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the Venn diagram to illustrate this information.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the value of n (A ∪ B).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "List the elements of the set A ∩ B'.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q11",
+    "Question_text": "A photo is 10cm long. It is enlarged so that all dimensions are increased by 20%.",
+    "image": null,
+    "Unit": "Number, Geometry, Mensuration",
+    "Topic": "1.11 Ratio and proportion, 1.13 Percentages, 4.4 Similarity",
+    "Sub_topic": [
+      "Divide quantity by ratio",
+      "Use proportional reasoning",
+      "Calculate percentage of quantity",
+      "Calculate percentage change",
+      "Calculate lengths of similar shapes",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the length of the enlarged photo.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the ratio of the area of the enlarged photo to the area of the original photo. Give your answer in the form k : 1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q12",
+    "Question_text": "The diagram below shows triangle ABC.",
+    "image": "A triangle with vertices labeled A, B, and C.",
+    "Unit": "Geometry",
+    "Topic": "4.1 Geometrical terms, 4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector",
+      "Measure and draw lines and angles"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Construct the perpendicular bisector of AB.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Shade the region inside the triangle containing points that are closer to A than to B and more than 6 cm from C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q13",
+    "Question_text": "A = (2 3) B = (-2 4) (-2 0) (-3 1)",
+    "image": null,
+    "Unit": "Algebra and graphs, Number",
+    "Topic": "2.1 Introduction to algebra, 2.2 Algebraic manipulation, 1.6 The four operations",
+    "Sub_topic": [
+      "Know that letters can be used to represent generalised numbers",
+      "Substitute numbers into expressions and formulas",
+      "Simplify expressions by collecting like terms",
+      "Use operations with integers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find A - B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find A⁻¹.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q14",
+    "Question_text": "14",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations, 1.12 Rates, 1.13 Percentages, 1.15 Time, 1.16 Money",
+    "Sub_topic": [
+      "Use operations with decimals",
+      "Use common rates",
+      "Calculate percentage of quantity",
+      "Express as percentage",
+      "Calculate with time units",
+      "Use 12-hour clock",
+      "Calculate with money"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Sofia earns $7.60 for each hour she works. She starts work at 7.45 a.m. and finishes at 4.30 p.m. She stops work for half an hour for lunch. How much does she earn for the day?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Marlon earns $1500 each month. He pays rent of $525 each month. Find the amount he pays in rent as a percentage of his earnings.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q15",
+    "Question_text": "P is directly proportional to the square of Q. When P = 9, Q = 6.",
+    "image": null,
+    "Unit": "Algebra and graphs, Number",
+    "Topic": "2.8 Proportion, 1.3 Powers and roots",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities",
+      "Calculate squares"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the formula for P in terms of Q.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the values of Q when P = 25.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q16",
+    "Question_text": "16",
+    "image": null,
+    "Unit": "Number, Algebra and graphs",
+    "Topic": "1.7 Indices I, 2.4 Indices II",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Understand negative indices",
+      "Understand fractional indices",
+      "Use rules of indices",
+      "Understand and use indices (positive, zero, negative and fractional)",
+      "Understand and use the rules of indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 4⁻².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Simplify (9x⁶y^(1/2)) / (x³y²)^(1/2).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q17",
+    "Question_text": "The diagram shows part of an earring. It is in the shape of a sector of a circle of radius 3 cm and angle 45°, from which a sector of radius 2 cm and angle 45° has been removed.",
+    "image": "A diagram of a shape resembling an earring, which is a sector of a circle with a sector removed from its center. The outer sector has a radius of 3 cm and an angle of 45 degrees. The inner, removed sector has a radius of 2 cm and also an angle of 45 degrees. The radii are marked.",
+    "Unit": "Mensuration, Number",
+    "Topic": "5.3 Circles, arcs and sectors, 5.5 Compound shapes and parts of shapes, 1.9 Estimation, 1.12 Rates",
+    "Sub_topic": [
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes",
+      "Make estimates",
+      "Apply other rates"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the shaded area. Give your answer in the form aπ/b, where a and b are integers and as small as possible.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The earring is cut from a sheet of silver. The mass of 1 cm² of the silver sheet is 1.6g. By taking the value of π to be 3, estimate the mass of the earring.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q18",
+    "Question_text": "The table shows information about the annual coffee production of some countries in 2010.",
+    "image": "A table showing annual coffee production in bags per year for several countries in 2010. The table has columns 'Country' and 'Number of bags per year'. Data is provided for Vietnam (1.85 x 10^7), Colombia (9.2 x 10^6), and Indonesia (8.5 x 10^6). The Brazil row is empty.",
+    "Unit": "Number, Statistics, Mensuration",
+    "Topic": "1.8 Standard form, 1.6 The four operations, 9.2 Interpreting statistical data, 5.1 Units of measure",
+    "Sub_topic": [
+      "Use A × 10^n form",
+      "Convert to standard form",
+      "Convert from standard form",
+      "Calculate with standard form",
+      "Use operations with integers",
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In 2010, Brazil produced 48 million bags of coffee. Complete the table with the coffee production for Brazil, using standard form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "How many more bags of coffee were produced in Vietnam than in Colombia?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The mass of a bag of coffee is 60kg. Work out the number of kilograms of coffee produced in Indonesia. Give your answer in standard form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q19",
+    "Question_text": "Keith records the number of letters he receives each day for 20 days. His results are shown in the table.",
+    "image": "A frequency table showing the number of letters Keith received each day for 20 days. The table has columns 'Number of letters' (0, 1, 2, 3, 4, 5) and 'Frequency' (4, 6, 3, 2, 1, 4).",
+    "Unit": "Statistics",
+    "Topic": "9.1 Classifying statistical data, 9.2 Interpreting statistical data, 9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Classify and tabulate statistical data",
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Write down the mode.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Work out the mean.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Over the same 20 days, Emma received a mean of 1.7 letters each day. How many letters did Emma receive altogether?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q20",
+    "Question_text": "20",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation, 2.3 Algebraic fractions, 2.5 Equations",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms",
+      "Manipulate algebraic fractions",
+      "Factorise and simplify rational expressions",
+      "Solve linear equations in one unknown",
+      "Solve fractional equations with numerical and linear algebraic denominators"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve (3x/4) + (2x-1)/2 = 3.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write as a single fraction in its simplest form (5/(x+4)) + (2/(x-1)).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q21",
+    "Question_text": "A group of 80 students took a Physics test. This table shows the distribution of their marks.",
+    "image": "A frequency table showing the distribution of Physics test marks for 80 students, with mark intervals (e.g., 0 < m <= 10) and corresponding frequencies. Below this, there's an incomplete cumulative frequency table and an empty grid with labeled axes for a cumulative frequency curve (Cumulative frequency vs Mark).",
+    "Unit": "Statistics",
+    "Topic": "9.1 Classifying statistical data, 9.2 Interpreting statistical data, 9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Classify and tabulate statistical data",
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the cumulative frequency table.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Draw a cumulative frequency curve for this information.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The pass mark for the test is 45. Use your cumulative frequency curve to estimate the number of students who passed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q22",
+    "Question_text": "Varun leaves home at 1300 and cycles 12km to college. The distance-time graph below shows Varun's journey. His sister Kiran leaves college at 13 10 and cycles home on the same road at a constant speed of 16km/h.",
+    "image": "A distance-time graph showing Varun's cycling journey from home to college. The x-axis represents 'Time of day' from 13:00 to 14:00. The y-axis represents 'Distance from home (km)' from 0 to 12. Varun's journey starts at (13:00, 0km) and ends at (13:40, 12km), with a flat segment indicating a stop.",
+    "Unit": "Algebra and graphs, Number",
+    "Topic": "2.9 Graphs in practical situations, 1.12 Rates, 1.15 Time",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Draw graphs from given data",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Solve average speed problems",
+      "Calculate with time units",
+      "Use 24-hour clock"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the same grid, draw the distance-time graph for Kiran's journey.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "How far was Kiran from home when she passed Varun?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find Varun's speed for the first 20 minutes of his journey. Give your answer in kilometres per hour.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "On the grid below, draw the speed-time graph for Varun's journey.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q23",
+    "Question_text": "B, C and D are points on the circle, centre O. BA and DA are tangents to the circle at B and D.",
+    "image": "A circle with center O. Points B, C, D are on the circumference. Lines AB and AD are tangents to the circle at B and D respectively, meeting at point A outside the circle. Radii OB and OD are drawn. Angle BCD is marked as 68 degrees.",
+    "Unit": "Geometry",
+    "Topic": "4.1 Geometrical terms, 4.6 Angles, 4.7 Circle theorems I, 4.8 Circle theorems II",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, congruent",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids",
+      "Use and interpret vocabulary of a circle",
+      "Calculate unknown angles using sum of angles at a point (360°)",
+      "Calculate unknown angles using triangle sum (180°)",
+      "Calculate unknown angles using quadrilateral sum (360°)",
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Use circle symmetry properties: tangents from external point equal"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Show that triangles ABO and ADO are congruent.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "What type of special quadrilateral is ABOD?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Angle BCD = 68°. Find angle BAD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2013/Q24",
+    "Question_text": "24",
+    "image": null,
+    "Unit": "Algebra and graphs, Number",
+    "Topic": "2.2 Algebraic manipulation, 2.5 Equations, 1.18 Surds",
+    "Sub_topic": [
+      "Expand products of algebraic expressions",
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Factorise expressions of the form: ax + bx + kay + kby",
+      "Complete the square for expressions in the form ax² + bx + c",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Understand surds",
+      "Simplify surd expressions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Expand and simplify (t − 5)(t + 3).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Factorise 64x² – 9y².",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Factorise 6ab – 2a – 3a² + 4b.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Write x² - 6x + 3 in the form (x – a)² + b.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Hence solve x² - 6x + 3 = 0 leaving your answer in the form p ± √q.",
+        "image": null
+      }
+    ]
+  }
+]

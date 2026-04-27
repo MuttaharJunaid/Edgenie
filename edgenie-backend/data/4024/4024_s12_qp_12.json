@@ -1,0 +1,601 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2012/Q1",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use percentages",
+      "Write fractions simply",
+      "Convert between forms",
+      "Use decimals",
+      "Recognize equivalence"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express 72% as a fraction in its lowest terms.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down two fractions that are equivalent to 0.4 .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q2",
+    "Question_text": "The temperature in a freezer is -18°C. The outside temperature is 24°C.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the difference between the outside temperature and the freezer temperature.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The temperature in a fridge is 22°C warmer than the freezer temperature. Find the temperature in the fridge.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the grid below, draw a quadrilateral with no rotational symmetry and just 1 line of symmetry.",
+        "image": "A square grid with 7x7 subdivisions, meant for drawing a quadrilateral as instructed by the question."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete this description. A parallelogram has rotational symmetry of order _________ and _________ lines of symmetry.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply",
+      "Divide quantity by ratio",
+      "Use proportional reasoning"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A bag contains red and blue counters in the ratio 3: 8. There are 24 blue counters in the bag. How many red counters are there?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Amy and Ben share $360 in the ratio 3:2. How much is Ben's share?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q5",
+    "Question_text": "y is inversely proportional to the square of x. Given that y = 2 when x = 6, find the value of y when x = 2.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q6",
+    "Question_text": "A circle of diameter 6cm is cut from a square of side 8 cm. Find an expression, in the form a – bπ, for the shaded area.",
+    "image": "A diagram showing a square with side length 8 cm. A circle with a diameter of 6 cm is inscribed within the square. The area outside the circle but inside the square is shaded, representing the area to be calculated.",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle",
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities",
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve (x+2)/3 ≤ 2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down all the integers that satisfy this inequality. -1 < 4y + 3 < 11",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q8",
+    "Question_text": "The length of a rectangular rug is given as 0.9m, correct to the nearest ten centimetres. The width of the rug is given as 0.6m, correct to the nearest ten centimetres.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give upper bounds",
+      "Give lower bounds",
+      "Find bounds of calculations"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the upper bound, in metres, of the length of the rug.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the lower bound, in metres, of the perimeter of the rug.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q9",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 2/5 + 3/8.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 1 2/3 × 2 1/4, giving your answer as a mixed number in its lowest terms.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q10",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Order operations correctly",
+      "Use operations with integers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 6 × 3 + 8 ÷ 2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "By writing each number correct to 1 significant figure, estimate the value of (19.2 × 9.09) / 0.583.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q11",
+    "Question_text": "c = b(a – b)/a",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find c when a = 4 and b = −2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Rearrange the formula to make a the subject.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q12",
+    "Question_text": "m = (3, -2) n = (-1, 4)",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate m - 2n.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Given that sm + 3n = (12, t), calculate s and t.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q13",
+    "Question_text": "The diagram shows two triangles, A and B.",
+    "image": "A coordinate grid showing two triangles. Triangle A has vertices at (2,1), (3,3), (4,1). Triangle B has vertices at (4,-2), (5,-4), (6,-2).",
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw translation of shape by vector",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the vector that represents the translation that maps triangle A onto triangle B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Triangle C is an enlargement of triangle A with centre (5, 3) and scale factor 3. Draw and label triangle C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q14",
+    "Question_text": "A is the point (0, 4) and B is the point (-6, 1).",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "M is the midpoint of the line AB. Find the coordinates of M.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the equation of the line AB.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q15",
+    "Question_text": "ABCD is a rectangle with AC = √65 cm and AD = 4cm. Calculate the area of ABCD.",
+    "image": "A rectangle ABCD is shown. Side AD has a length of 4 cm. The diagonal AC has a length of √65 cm. This forms a right-angled triangle ADC.",
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.1 Pythagoras’ theorem",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q16",
+    "Question_text": "The diagram shows parts of two identical regular 12-sided polygons.",
+    "image": "A diagram showing parts of two identical regular 12-sided polygons partially overlapping. The polygons meet at a vertex B, and points A, B, C, D are labeled. Angle ABC is an interior angle of one polygon. The space at B is the area where another regular shape would fit.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate angle ABC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A different regular shape will fit exactly into the space at B. Name this shape.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q17",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A carton contains 2.5 litres of juice. Carlos drinks 650 ml of the juice. How much juice is left in the carton? Give your answer in litres.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The time in Chennai is 4½ hours ahead of the time in London. What time is it in London when it is 14 45 in Chennai?",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A flight leaves London at 13 25 local time. It arrives in Chennai at 04 00 local time the next day. Work out, in hours and minutes, the length of the flight.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q18",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate square roots",
+      "Calculate cube roots"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find the value of √121.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find the value of ³√-27.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write the following numbers in order of size, starting with the smallest. 2³, 3², 4⁰, 5⁻¹",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Evaluate 16^(3/2).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q19",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "f(x) = x³ – 4. Find f(-2).",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "f(x) = x³ – 4. Find f⁻¹(x).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "g(y) = y² – 3y + 1. Write down and simplify an expression for g(a – 2).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q20",
+    "Question_text": "The table below shows the populations of some countries in 2010.",
+    "image": "A table titled 'Country' and 'Population' lists countries (Indonesia, Mexico, Russia, Senegal, South Korea) and their populations. Indonesia's population is given as 2.4 x 10^8, Russia as 1.4 x 10^8, Senegal as 1.4 x 10^7, and South Korea as 4.8 x 10^7. The row for Mexico is blank, to be filled in.",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form",
+      "Calculate with standard form",
+      "Round to accuracy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The population of Mexico was 111 210 000. In the table above, complete the row for Mexico. Give your answer in standard form, correct to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete the following sentences. The population of Russia is ten times the population of ___________. The population of ___________ is one fifth of the population of Indonesia.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the difference in population between South Korea and Senegal. Give your answer in standard form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q21",
+    "Question_text": "In class A there are 10 boys and 15 girls. In class B there are 20 boys and 10 girls. One student is picked from each class at random.",
+    "image": "A partially completed probability tree diagram. The first branching point is for 'Class A' with branches 'Boy' and 'Girl'. From each of these, there are further branches for 'Class B', also with 'Boy' and 'Girl' outcomes. Probabilities are not filled in and need to be determined and written.",
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of single event",
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the tree diagram to show the probabilities of the possible outcomes.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the probability that one student is a boy and one is a girl. Express your answer as a fraction in its lowest terms.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q22",
+    "Question_text": "The diagrams below show the first three patterns in a sequence.",
+    "image": "Three patterns of dots are shown. Pattern 1 has a central dot with four dots around it in a cross shape (total 5 dots). Pattern 2 has two central dots in a vertical line, with four dots around each in a cross shape, and an additional dot on each side of the central line (total 8 dots). Pattern 3 extends this, with three central dots, and five dots around each in a cross shape (total 11 dots).",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the table. Pattern number (1, 2, 3, 4, 5) and Number of dots (5, 8, ?, ?, ?).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find an expression, in terms of n, for the number of dots in Pattern n.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In this sequence, Pattern p has 83 dots. Find the value of p.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q23",
+    "Question_text": "The table summarises the times, in minutes, taken by a group of people to complete a puzzle.",
+    "image": "A table with two rows: 'Time (t minutes)' and 'Frequency'. The time intervals are 0<t≤4, 4<t≤8, 8<t≤12, 12<t≤16, 16<t≤20. The corresponding frequencies are 4, 8, 7, 4, 2. Below the table is a blank grid with 'Frequency' on the y-axis and 'Time (t minutes)' on the x-axis, labeled from 0 to 20 in intervals of 2.",
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Appreciate restrictions on drawing conclusions from given data"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the grid draw a frequency polygon to represent this information.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down the modal class.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "How many people took more than 8 minutes to complete the puzzle?",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Imran says: 'The longest time to complete the puzzle was 20 minutes.' Explain why he may not be correct.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q24",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Calculate percentage change"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The price of a television is $350. In a sale, its price is reduced by 30%. Calculate the sale price of the television.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The exchange rate between dollars and euros is $1 = €0.80. Ben changes $275 into euros. Calculate the number of euros Ben receives.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Aisha buys a new car. How much more than the cash price will she pay overall for the car?",
+        "image": "Two boxes side-by-side. The left box is labeled 'Cash price' with '$4500' below it. The right box is labeled 'Credit terms' with 'Deposit: 25% of cash price' and '+ 12 monthly payments of $320' below it."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2012/Q25",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: ax² + bx + c",
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Manipulate algebraic fractions",
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Factorise x² + x − 12.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Factorise 25x² – 4y².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write as a single fraction 4/(3p) + 1/(6p).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Solve the simultaneous equations. 3x + 5y = 2, 2x – 3y = 14",
+        "image": null
+      }
+    ]
+  }
+]

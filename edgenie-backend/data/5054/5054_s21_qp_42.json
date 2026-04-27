@@ -1,0 +1,194 @@
+[
+  {
+    "QuestionNumber": "5054/42/May-June/2021/Q1",
+    "Question_text": "A student investigates how the potential difference (p.d.) V across a fixed resistor R changes as extra resistance is added to the circuit.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "She sets up the circuit shown in Fig. 1.1. She connects the crocodile clip C to a point on the resistance wire at a length l = 20.0cm from end X. She closes the switch. She reads the voltmeter and records the reading. She opens the switch.",
+        "image": "Fig. 1.1 shows an electrical circuit diagram. It includes a cell, a switch (not explicitly drawn but implied by the setup description), a fixed resistor R, and a voltmeter V connected in parallel across the fixed resistor R. In series with R and V, there is a resistance wire connected to a metre rule, with one end labelled 'X'. A crocodile clip 'C' is connected to the resistance wire at a variable length 'l' from end X."
+      },
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.2 shows the voltmeter reading.",
+        "image": "Fig. 1.2 displays an analog voltmeter with a scale from 0 to 2 V, marked with 'V'. The needle points between 1 and 2, specifically at 1.4 V, indicated by a prominent arrow."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Read the voltmeter scale and in Table 1.1 on page 4, record the p.d. V.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate 1/V and record its value in Table 1.1 on page 4 to the appropriate number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "She repeats the procedure in (a) using values of l = 30.0cm, 40.0cm, 60.0cm and 80.0cm. Her results are shown in Table 1.1. Suggest why the student opens the switch between readings.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid provided in Fig. 1.3 on page 5, plot a graph of 1/V on the y-axis against l on the x-axis. Start both axes from the origin (0, 0). Draw the best-fit straight line.",
+        "image": "Fig. 1.3 shows a blank grid with both x and y axes starting from 0. The x-axis is labelled 'l' and the y-axis is labelled '1/V'. The grid is intended for plotting data from Table 1.1."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the gradient m of your line. Show all working and indicate on the graph the values you use.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Extend your line until it crosses the y-axis. Measure the intercept c that your line makes with the y-axis.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Calculate the electromotive force (e.m.f.) E of the cell using the equation: E = k/c where k = 1.0V.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Suggest one practical reason why, despite carrying out the experiment with care, the student's value for E may not be the true value.",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "The results in Table 1.1 show that as the length l of resistance wire increases, the potential difference V decreases. State how the results show that l is not inversely proportional to V.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/May-June/2021/Q2",
+    "Question_text": "A student measures the acceleration of a trolley rolling down a ramp.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Measurement",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "",
+        "part_text": "He makes a ramp by using a wooden plank, resting one end of the plank on a bench and using a stand and clamp to support the other end. He draws a line AB across the ramp near to the top. He draws another line CD parallel to AB at a distance d = 120.0cm further down the ramp. He adjusts the height of the top of the ramp above the bench by moving the clamp until the ramp makes an angle of 30° with the bench. He places a trolley on the ramp so that the front wheels of the trolley touch AB.",
+        "image": "Fig. 2.1 shows a diagram of a ramp setup. A wooden plank is inclined, with one end resting on a bench (implied) and the other supported by a stand and clamp. A trolley is positioned on the ramp at a line labelled 'AB'. Another line 'CD' is marked on the ramp, parallel to AB, at a distance d = 120.0 cm from AB. The ramp is shown making an angle of 30° with the horizontal."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Suggest a measuring device that the student uses to ensure that: AB and CD are 120.0cm apart",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the ramp makes an angle of 30° with the bench.",
+        "image": null
+      },
+      {
+        "part_label": "",
+        "part_text": "The student releases the trolley and at the same time starts a stopwatch. He stops the stopwatch when the trolley has travelled 120.0cm down the ramp. He replaces the trolley at the top of the ramp with its front wheels touching AB and repeats the procedure twice. The times t for the trolley to travel a distance d = 120.0cm are shown below. 0.70 s 0.81 s 0.95 s",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suggest one reason why there is a large variation in these times.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 2.2 is a side view of the arrangement with the trolley at the start position. On Fig. 2.2, draw the position of the trolley when it has travelled 120.0cm.",
+        "image": "Fig. 2.2 shows a side view of a trolley on an inclined ramp. The ramp has two marked positions, 'AB' at the top where the trolley is initially placed, and 'CD' further down. The ramp is inclined at 30° to the horizontal. The task is to draw the trolley's position at 'CD'."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the average time t_AV for the trolley to travel a distance d = 120.0cm.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the acceleration a of the trolley down the ramp using the equation: a = 2d / (t_AV)^2 Give the unit of your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest how the student could modify his experiment so that a more accurate value for the acceleration a of the trolley is obtained.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/May-June/2021/Q3",
+    "Question_text": "A student measures the focal length f of a convex lens. She sets up the apparatus as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows an optical bench setup for measuring the focal length of a convex lens. It consists of a lamp, an illuminated object, a convex lens placed in a holder, and a screen. The distance between the illuminated object and the convex lens is labelled 'u'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "",
+        "part_text": "The illuminated object is in the shape of an equilateral triangle, as shown in Fig. 3.2. The object is drawn full size. She switches on the lamp and places the lens a distance u = 20.0cm from the illuminated object. She adjusts the position of the screen by moving it slowly backwards and forwards until a sharp image of the illuminated object is formed on the screen. The image of the illuminated object formed on the screen is shown full size in Fig. 3.3.",
+        "image": "Fig. 3.2 shows an equilateral triangle representing the illuminated object, with its height labelled 'h_O'. Fig. 3.3 shows an inverted equilateral triangle representing the image formed on the screen, with its height labelled 'h_I'. Both figures are drawn full size for direct measurement."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "State two differences between the object and the image.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Measure the height h_O of the object. Measure the height h_I of the image.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the magnification m of the image using the equation: m = h_I / h_O",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the focal length f of the lens using the equation: f = mu / (1 + m) where u = 20.0 cm",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/May-June/2021/Q4",
+    "Question_text": "A student uses a plotting compass to plot the pattern of the magnetic field around a straight wire that is carrying a current. The student sets up a circuit, as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows an experimental setup for plotting magnetic fields. A vertical straight wire passes through the center of a horizontal rectangular card. The wire is connected in an electrical circuit that includes a power source (battery symbol) and a resistor. A plotting compass is shown placed on the rectangular card near the wire.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student uses the plotting compass to plot the pattern of the magnetic field when the switch in the circuit is closed. You may add to Fig. 4.1 to help you explain your answer, if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State what else the student can deduce about the magnetic field in this investigation.",
+        "image": null
+      }
+    ]
+  }
+]

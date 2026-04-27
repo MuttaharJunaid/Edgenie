@@ -1,0 +1,152 @@
+[
+  {
+    "QuestionNumber": "October-November/32/2020/Q1",
+    "Question_text": "In this experiment, you will investigate the effect on forces of using pulleys. You are provided with: • three identical springs • two 100g mass hangers and three 100g masses • a system of pulleys • a 30 cm ruler • a stand, three bosses and two clamps • a heavy weight • thread. The supervisor has set up the apparatus as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows an experimental setup for investigating forces using pulleys and springs. A vertical stand with a clamp holds a system of pulleys at the top. On the left side, a 300g mass is suspended. A spring, not explicitly labelled 'Spring A' in this diagram but referenced in part a(i), is attached to the 300g mass and goes over a pulley. On the right side, spring C is directly suspending a 200g mass. Another spring, spring B, is connected to the pulley system and also suspends a mass (implied by the setup, though not explicitly labelled). A heavy weight is placed at the base of the stand for stability. Labels include 'screw for jaws of clamp', 'pulleys', '300g mass', 'spring C', '200g mass', 'spring B', and 'heavy weight'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Spring A is placed on the card labelled 'Spring A'. Measure the unstretched length Aᵤ of spring A as shown in Fig. 1.2.",
+        "image": "Fig. 1.2 shows a single spring (Spring A) lying horizontally on a surface. A ruler or scale is depicted below the spring. An arrow indicates the length of the spring from end to end, labelled Aᵤ, signifying its unstretched length. This image is for measuring the natural length of a spring."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Measure: • the length Bₛ of the stretched spring B • the length Cₛ of the stretched spring C",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate: • the extension Bₓ of spring B where Bₓ = Bₛ - Aᵤ • the extension Cₓ of spring C where Cₓ = Cₛ - Aᵤ",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State how the force exerted on spring B compares with the weight of the 300 g mass. Explain your reasoning by referring to the extensions of the springs.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest one change to the arrangement of the apparatus in Fig. 1.1 that would eliminate the need to use a heavy weight on the stand. Explain your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2020/Q2",
+    "Question_text": "In this experiment, you will describe techniques to investigate the magnetic field around an electromagnet. You are provided with: • a power supply • a resistor • an ammeter • an electromagnet • connecting leads, crocodile clips and a switch • stand and boss. The supervisor has set up the circuit as shown in Fig. 2.1. You are also provided with a plotting compass attached to a wooden rod as shown in Fig. 2.2. Close the switch. Use the plotting compass to check that there is a magnetic field around the electromagnet. Open the switch. Describe, in detail, how you can use the plotting compass to investigate the shape and direction of the magnetic field around the electromagnet as well as the strength of the magnetic forces involved.",
+    "image": "Fig. 2.1 shows an electrical circuit diagram. A power supply is connected in series with a switch, an ammeter (labeled 'A'), a resistor, and an electromagnet (depicted as a coiled wire around a core). Fig. 2.2 shows a plotting compass, which has a small magnetic needle, attached to the end of a wooden rod.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "description",
+        "part_text": "Describe, in detail, how you can use the plotting compass to investigate the shape and direction of the magnetic field around the electromagnet as well as the strength of the magnetic forces involved. The description should cover: shape, direction, and strength of magnetic forces.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2020/Q3",
+    "Question_text": "In this experiment you will investigate the magnification produced by a lens. You are provided with: • a lens • an object labelled A marked with five vertical parallel lines • a half-metre rule • small pieces of Blu Tack. The supervisor has set up the apparatus as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows an optical experiment setup on a half-metre rule. Object A, which is a card marked with five vertical parallel lines, is positioned at the 5cm mark of the rule. A biconvex lens is placed at the 20cm mark, 15cm away from object A. Small pieces of Blu Tack are shown holding the components in place. An eye symbol indicates the viewing position at the 30cm mark, 30cm from the lens. The diagram also indicates a distance d₀ between two adjacent parallel lines on object A.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Linear Magnification",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure the distance d₀ between two adjacent parallel lines on object A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Position your eye at the end of the half-metre rule, 30 cm from the lens. Estimate the distance dᵢ between the images of two adjacent parallel lines as they appear when viewed through the lens. You may use the spacing of the lines on the card as a reference.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the magnification m of the image using the formula m = dᵢ / d₀",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Keeping your eye at the end of the half-metre rule, move the lens away from object A and towards your eye. Stop when the lens is 35 cm away from object A. Describe what happens to the image of the two lines as you move the lens.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2020/Q4",
+    "Question_text": "In this experiment, you will investigate the oscillation of a mass on a wire. You are provided with: • a stop-watch • a length of wire • a 100g mass hanger with a pointer attached • seven 100g slotted masses • safety glasses • a stand, boss and clamp to hold the wire and mass set. The supervisor has set up the apparatus as shown in Fig. 4.1. You must wear the safety glasses throughout this experiment.",
+    "image": "Fig. 4.1 shows an experimental setup for observing the oscillation of a mass on a wire, viewed from the side. A vertical stand is used with a boss and clamp to securely hold the top end of a wire. From the lower end of the wire, a mass hanger is suspended, which has a pointer attached to its side. The labels indicate 'stand, boss and clamp', 'wire', 'pointer', and 'mass hanger'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Distance-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "By pushing against the end of the pointer, rotate the mass hanger to the left through a quarter of a turn in a clockwise direction as shown in Fig. 4.2. The mass hanger has a mass of 100g. Release the mass and observe it rotate in an anti-clockwise direction, come to a rest and then return in a clockwise direction to its point of release. This is one oscillation.",
+        "image": "Fig. 4.2 shows a top-down view of the oscillating mass hanger and pointer. A dashed circle represents the path of the pointer's tip. The 'rest position of pointer' is indicated at the bottom. An arrow points from the rest position, rotating 90° clockwise, to the 'position after turning' (a quarter of a turn from rest). This illustrates the initial displacement for the rotational oscillation."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the time t₁₀ for ten oscillations of the mass.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate: • the time T for one oscillation • T²",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "In Table 4.1 on page 10, record the mass, your measurement from (a)(i) and your calculations from (a)(ii). Add appropriate headings with units.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place one 100g mass on the mass hanger. Repeat the procedure in (a). Record the mass and all your readings and calculations in Table 4.1. By adding one 100g mass each time, repeat the procedure and continue to record in the table until all of the 100 g slotted masses are on the mass hanger.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using the grid opposite, plot a graph of T² on the y-axis against mass on the x-axis. Start your axes at the origin. Draw a straight line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Determine the gradient G of the line of best fit. Indicate on the graph how this was done and show your working.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "State one difficulty in obtaining an accurate value for t₁₀ in this investigation.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Describe one way of improving this measurement.",
+        "image": null
+      }
+    ]
+  }
+]

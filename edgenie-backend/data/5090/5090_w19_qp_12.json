@@ -1,0 +1,464 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "A human cheek cell and a spongy mesophyll cell from a leaf are examined under a microscope. Which structures are seen in both cells?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Examine animal and plant cells",
+      "Identify animal cell structures",
+      "Identify plant cell structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Which statements about active transport in root hair cells are correct? 1 Energy is required. 2 Substances may be absorbed as ions. 3 The membrane is partially permeable.",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.2 Active transport",
+    "Sub_topic": [
+      "Active transport definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Discs of raw potato tissue are weighed (initial mass). They are then placed in sucrose solutions of different concentrations. After one hour their masses are measured again (final mass). The graph shows how the ratio of initial mass: final mass changes with concentration of sucrose solution. Which concentration of sucrose solution has the same water potential as that of the cells in the potato discs?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Osmosis effects on tissues",
+      "Effects on plant tissues",
+      "Investigate osmosis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "What happens to an enzyme after it has catalysed a reaction?",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Catalyst definition",
+      "Enzymes as catalysts",
+      "Enzyme action mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Some chemical symbols are listed. What is the equation for photosynthesis?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis definition",
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "The diagram shows some of the structures seen in a section through a dicotyledonous leaf. Which two features are missing from this diagram?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.2 Leaf structure",
+    "Sub_topic": [
+      "Leaf adaptations",
+      "Leaf structures adaptations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "The elements listed are found in all living organisms. Which element is not obtained by plants from the soil?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.3 Mineral nutrition",
+    "Sub_topic": [
+      "Nitrate for amino acids",
+      "Magnesium for chlorophyll"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The table describes some characteristics of four people. Which person requires the highest energy intake in their diet?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.1 Diet",
+    "Sub_topic": [
+      "Nutrient sources importance",
+      "Balanced diet concept"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Which structure has villi to increase its surface area?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.3 Absorption and assimilation",
+    "Sub_topic": [
+      "Villus structure roles",
+      "Villi surface area increase"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The table shows the rates of absorption of two different sugars, arabinose and glucose, in living and dead intestines. The concentrations of the sugars inside the intestines were the same in each case. What are the main methods of absorption of arabinose and glucose in living intestine?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.3 Absorption and assimilation",
+    "Sub_topic": [
+      "Absorption processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Which statements about root hairs are correct? 1 The cell membrane can allow movement of water and ions into and out of the cell. 2 The cell vacuole extends into the root hair. 3 They are formed as an extension of the outer layer of root cells.",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.1 Uptake and transport of water and ions",
+    "Sub_topic": [
+      "Root hair function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "What is the main cause of water moving up to the leaves in xylem vessels?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Xylem functions",
+      "Xylem vessel structure",
+      "Transpiration pull mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Which blood vessel will have the highest urea concentration after a protein-rich meal?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.1 Excretion",
+    "Sub_topic": [
+      "Urea production"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "How does blood flow through the lungs differ from blood flow through the rest of the body?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.1 Circulatory system",
+    "Sub_topic": [
+      "Circulatory system description",
+      "Double circulation description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Which statements about blood vessels are correct?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.3 Blood vessels",
+    "Sub_topic": [
+      "Main blood vessels named",
+      "Blood vessel structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which equation represents anaerobic respiration in humans?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.3 Anaerobic respiration",
+    "Sub_topic": [
+      "Anaerobic equation humans"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Which process does not use energy released from respiration?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.1 Respiration",
+    "Sub_topic": [
+      "Uses of energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "The pie charts show the proportions of gases in samples of inspired and expired air. Which segments represent which gases?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Atmospheric gas percentages",
+      "Inspired expired differences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "In a kidney dialysis machine, which substance cannot diffuse through the dialysis membrane?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Nephron functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "On a hot day, the cheeks of a light-skinned person may appear red in colour. What is the cause of this?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Skin structures",
+      "Temperature regulation processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which structure in the brain registers changes in the blood concentration?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "CNS and PNS"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "The diagram shows a section through the skin. Which structures are activated when a person feels cold?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Skin structures",
+      "Temperature regulation processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "In which situation would the amount of insulin secreted into a person's blood be highest?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.6 Blood glucose control",
+    "Sub_topic": [
+      "Glucose control by organs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "The diagram shows the bones in the region of the right shoulder. What is bone M?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Which risk is greatly increased by the nicotine in cigarette smoke?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Tobacco smoke effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which of these organisms are microorganisms? 1 bacteria 2 yeast 3 viruses",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.2 Features of organisms",
+    "Sub_topic": [
+      "Features of viruses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which type of organism produces penicillin, and which type of infection can be treated using penicillin?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.2 Antibiotics",
+    "Sub_topic": [
+      "Antibiotics for bacteria"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Why is the flow of energy in an ecosystem said to be non-cyclic?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.1 Energy flow",
+    "Sub_topic": [
+      "Energy flow in chains"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "A square metre of grassland receives 1004000 kJ of sunlight energy per year. The table shows what happens to this energy. How much of the 1004 000 kJ of sunlight energy was used by the grass plants?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.1 Energy flow",
+    "Sub_topic": [
+      "Energy from sun",
+      "Energy flow in chains"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Some bacteria survive best in waterlogged soils where they are able to obtain oxygen for respiration by breaking down nitrates. Nitrogen gas is released as a waste product. To which type of bacteria does this description apply?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Nitrogen cycle microorganisms",
+      "Nitrogen cycle description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "How many times must an uninfected mosquito feed on human blood to transmit the malarial parasite in the human population?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Mosquito as vector",
+      "Malarial parasite transmission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "The diagram shows the origins of a type of pollutant entering an ocean bay. What identifies the type of pollutant?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Pollution effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Which structure contains the ovary of a flowering plant?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Flower parts functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "The diagram shows the life cycle of a species of plant. During which stage does meiosis (reduction division) occur?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Meiosis in gametes",
+      "Meiosis description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "The diagram shows the female reproductive system. Where does implantation occur?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Female reproductive system"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "In the control of female fertility, which hormones could be used for preventing ovulation, and which could be used for promoting ovulation?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Hormones in menstrual cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "A student wrote some statements about chromosomes, but made a number of mistakes. Which two statements are correct?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Chromosomes and genes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "Elephants are hunted by poachers for their tusks, which are a source of ivory. In 1930, in a National Park, 1% of the elephants were born without any tusks. Lack of tusks was the result of a gene mutation. Currently, in the same area, 15% of the females and 9% of the males do not have tusks. Which statements can explain this increase in the number of tuskless elephants?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.4 Selection",
+    "Sub_topic": [
+      "Natural selection process",
+      "Population evolution"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "The diagram shows a family tree in which hereditary night-blindness occurs. What is the chance that unborn child, 9, will be a male with night-blindness?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Monohybrid crosses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Which statement about dominant and recessive alleles is not correct?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Allele definition",
+      "Genetic terms"
+    ],
+    "Parts": []
+  }
+]

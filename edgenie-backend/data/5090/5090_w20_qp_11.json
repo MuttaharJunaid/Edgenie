@@ -1,0 +1,455 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "The diagram shows the structure of a cell from a leaf of a green plant. What are the numbered parts of the cell?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Identify plant cell structures",
+      "Functions of cell structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "The diagram shows three plant cells labelled P, Q and R. The arrows show the direction of water movement by osmosis. What is the correct order of water potential in the cells, from the highest to the lowest?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Osmosis definition",
+      "Osmosis effects on tissues"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "An experiment measured the rate at which plants take up magnesium ions from solution. One plant was given a poison that stops respiration. Another plant was left as normal. The graph shows the results. How are the magnesium ions being absorbed by the plants at points N and P?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.2 Active transport",
+    "Sub_topic": [
+      "Active transport definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Starch digestion occurs in the mouth cavity and in the duodenum but it stops in the stomach. Why is this?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Enzyme functions products"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Which row correctly shows the number of molecules, for each substance used and produced, during photosynthesis?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "How do carbon dioxide and water enter a leaf?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.2 Leaf structure",
+    "Sub_topic": [
+      "Leaf structures adaptations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "The graph shows how the rate of photosynthesis varies with light intensity at two different temperatures. Other variables are kept the same. In which sections of the graph is light intensity limiting the rate of photosynthesis?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Factors affecting rate",
+      "Limiting factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The diagram shows the human alimentary canal. In which part does protein digestion begin?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Digestive system regions",
+      "Foods digested before absorbed"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Blood flows away from the small intestine in the hepatic portal vein. Where does the blood go next, and what may happen there?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.3 Absorption and assimilation",
+    "Sub_topic": [
+      "Hepatic portal vein function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The symptoms of a disease include weakness, fatigue, aching and swollen joints, and swollen and soft gums. Which food is used to treat this disease?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.1 Diet",
+    "Sub_topic": [
+      "Deficiency diseases symptoms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Which diagram shows the position of phloem tissue in a herbaceous, dicotyledonous root?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Tissues in roots/stems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "The diagram represents part of a leaf. Which arrows show translocation and transpiration?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Transpiration definition",
+      "Translocation definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "In the process of blood clotting, the ......1...... help to convert ......2...... to ......3...... which forms a clot. Which words complete the description of blood clotting?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.4 Blood",
+    "Sub_topic": [
+      "Blood components",
+      "Blood component functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "The diagram shows a section of capillary. Which arrow represents tissue fluid formation?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.3 Blood vessels",
+    "Sub_topic": [
+      "Blood vessel structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Which row shows possible causes of coronary heart disease?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.2 Heart",
+    "Sub_topic": [
+      "Coronary heart disease",
+      "Diet exercise reducing risk"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "What are the products of anaerobic respiration in yeast?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.3 Anaerobic respiration",
+    "Sub_topic": [
+      "Anaerobic equation yeast"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The diagram shows apparatus used to investigate respiration.",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.1 Respiration",
+    "Sub_topic": [
+      "Respiration definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "The diagram shows the rib cage and some of the muscles involved in breathing as seen from the side. What happens when the intercostal muscles shown in the diagram contract?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Breathing structures",
+      "Breathing mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "During dialysis, substances such as glucose, mineral salts, urea and water move between the patient's blood and the dialysis fluid. Which processes are involved in these movements?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Diffusion definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Which organs in humans are involved in maintaining body temperature?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Skin structures",
+      "Temperature regulation processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "The diagram shows a section through the brain. Which part is the hypothalamus?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Hypothalamus and receptors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "The diagram shows a section through the eye. When the person looks down and focuses on their mobile phone, what is the state of the structures P and R?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Eye part functions",
+      "Accommodation explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "What is a sign of diabetes mellitus?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.6 Blood glucose control",
+    "Sub_topic": [
+      "Blood glucose control need"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "The diagram shows the bones of the human arm. Which is the bone labelled X?",
+    "image": null,
+    "Unit": "",
+    "Topic": "",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "For which diseases can antibiotics be used as effective treatments?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.2 Antibiotics",
+    "Sub_topic": [
+      "Antibiotics for bacteria",
+      "Antibiotics not for viruses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "The table shows the characteristics of four microorganisms. Which one could be a virus?",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.2 Features of organisms",
+    "Sub_topic": [
+      "Features of viruses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which statement comparing the production of single cell protein and the production of protein in meat is not correct?",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.1 Biotechnology",
+    "Sub_topic": [
+      "Bacteria in biotechnology",
+      "Bacteria advantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Which statement describes relationships in ecosystems?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Trophic levels terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Mealybugs are small insects that can feed on crops such as mango and coffee. They damage the crops and reduce the yield and profits for farmers. Lacewing insects and ladybird beetles both eat mealybugs. Which row shows the positions of some of the organisms in this food chain?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Food chain definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "The diagram shows the carbon cycle.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Carbon cycle description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Three statements about malarial parasites are listed. Which methods can be used to control malaria?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Mosquito as vector",
+      "Malarial parasite transmission",
+      "Mosquito control life cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "What would be an undesirable feature in an insecticide?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Pollution effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "The diagram shows a section of a flower. Where are the male gametes made?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Flower parts functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "What is not an essential condition for the germination of seeds?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Germination conditions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "What is an advantage to a baby of breast-feeding compared with bottle feeding?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.3 Immunity",
+    "Sub_topic": [
+      "Breast-feeding passive immunity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "The diagram shows a calendar for 33 days in February and March. During which dates would the progesterone concentration in her blood rise most rapidly?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Menstrual cycle description",
+      "Hormones in menstrual cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "In a species of mouse, fur colour can be black or white. What is the expected ratio of phenotypes of their offspring?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Monohybrid crosses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "The diagram shows the blood group phenotypes of some members of a family. Which member of the F1 generation must be heterozygous with the codominant alleles?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Codominance ABO groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "The diagram shows the distribution of a human characteristic, X, in the population. What is the characteristic X?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.1 Variation",
+    "Sub_topic": [
+      "Continuous variation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Which statements about the use of bacteria to produce human insulin are correct?",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.2 Genetic modification",
+    "Sub_topic": [
+      "Insulin production bacteria"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,137 @@
+﻿
+==================================================
+  FLOW 0: HEALTH CHECK
+==================================================
+  Γ£à Health endpoint ΓÇö status=healthy
+  Γ£à Database OK
+  Γ£à Cache OK
+
+==================================================
+  FLOW 1: ONBOARDING + AUTH
+==================================================
+  Γ£à Register (user exists) ΓÇö User already registered ΓÇö OK for re-run
+  Γ£à Login fallback ΓÇö token=yes
+  Γ£à Login ΓÇö 200
+  Γ£à Login ΓÇö access token
+  Γ£à Login ΓÇö refresh token
+  Γ£à Login ΓÇö streak field
+  Γ£à GET /me/ ΓÇö 200 ΓÇö email=flowtest@edgenie.io
+  Γ£à /me/ ΓÇö email match
+  Γ£à /me/ ΓÇö has studentprofile
+  Γ£à /me/ ΓÇö profile has subjects
+  Γ£à /me/ ΓÇö profile has streak
+
+==================================================
+  FLOW 2: SUBJECT SELECTION
+==================================================
+  Γ£à GET /subjects/ ΓÇö 200
+  Γ£à Subjects has results
+  Γ¥î Subjects ΓÇö has data ΓÇö No subjects in DB
+
+==================================================
+  FLOW 3: DASHBOARD + STATS
+==================================================
+  Γ£à GET /me/stats/ ΓÇö 200 ΓÇö code=200
+  Γ£à Stats has total_questions_practiced
+  Γ£à Stats has overall_accuracy
+  Γ£à Stats has streak_days
+  Γ£à Stats has topics_covered_count
+  Γ£à Stats has total_practice_time_minutes
+  Γ¥î GET /analytics/dashboard/ ΓÇö 200
+  Γ£à GET /analytics/weak-topics/ ΓÇö 200
+
+==================================================
+  FLOW 4: SEARCH
+==================================================
+  Γ£à GET /search/trending/ ΓÇö 200
+  Γ£à Trending has key
+  Γ£à GET /search/suggestions/ ΓÇö 200
+  Γ£à Suggestions is list
+  Γ£à POST /search/questions/ ΓÇö 200
+  Γ£à Search has count
+  Γ£à Search has results
+  Γ£à Search has query_understood
+  Γ£à Search has has_next
+  Γ£à Search results ΓÇö count=0
+
+==================================================
+  FLOW 5: QUESTION DETAIL
+==================================================
+  Γ¥î Questions available ΓÇö No questions in DB ΓÇö run ingest_papers
+
+==================================================
+  FLOW 6: AI CHAT TUTOR
+==================================================
+  Γ£à Create chat session ΓÇö 201
+  Γ£à Session has ID
+  Γ£à Chat message ΓÇö 201
+  Γ£à Response role=assistant
+  Γ£à Response has content ΓÇö len=59
+  Γ£à Response has references
+  Γ£à Follow-up message ΓÇö len=59
+
+==================================================
+  FLOW 7: MOCK EXAM
+==================================================
+  Γ¥î Mock exam (skipped) ΓÇö No subject ID available
+
+==================================================
+  FLOW 8: ANALYTICS
+==================================================
+  Γ£à GET /analytics/activity/ ΓÇö 200
+  Γ£à GET /analytics/topics/ ΓÇö 200
+
+==================================================
+  FLOW 9: ANSWER GRADING
+==================================================
+  Γ¥î Grading (skipped) ΓÇö No question ID available
+
+==================================================
+  ADMIN DASHBOARD FLOWS
+==================================================
+  Γ¥î Admin login ΓÇö No admin user ΓÇö create via manage.py createsuperuser
+
+==================================================
+  LANDING PAGE FLOWS
+==================================================
+  Γ£à Waitlist join ΓÇö 201
+  Γ£à Waitlist has position ΓÇö pos=3
+  Γ£à Duplicate email blocked
+  Γ£à Contact form ΓÇö 201
+  Γ£à Public stats ΓÇö 200
+  Γ£à Stats has total_students ΓÇö val=1
+  Γ£à Stats has total_questions ΓÇö val=0
+  Γ£à Stats has total_subjects ΓÇö val=0
+  Γ£à Stats has waitlist_count ΓÇö val=2
+
+==================================================
+  TOKEN REFRESH FLOW
+==================================================
+  Γ£à Token refresh ΓÇö 200
+  Γ£à New access token
+  Γ¥î Logout ΓÇö 200/205 ΓÇö code=400
+  Γ£à Blacklisted refresh fails ΓÇö code=401
+
+==================================================
+  INTEGRATION TEST REPORT
+==================================================
+
+  Total tests:  61
+  Passed:       54 Γ£à
+  Failed:       7 Γ¥î
+  Pass rate:    89%
+
+  FAILED TESTS:
+    Γ¥î Subjects ΓÇö has data
+    Γ¥î GET /analytics/dashboard/ ΓÇö 200
+    Γ¥î Questions available
+    Γ¥î Mock exam (skipped)
+    Γ¥î Grading (skipped)
+    Γ¥î Admin login
+    Γ¥î Logout ΓÇö 200/205
+
+  INTEGRATION READINESS: 89%
+  LAUNCH DECISION: ΓÜá∩╕Å  CONDITIONAL (fix failures first)
+
+==================================================
+

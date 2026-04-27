@@ -1,0 +1,176 @@
+[
+  {
+    "QuestionNumber": "October-November/41/2018/Q1",
+    "Question_text": "A teacher demonstrates convection in a liquid. She uses a glass tube, as shown in Fig. 1.1. The tube is filled with water and left to stand for ten minutes. A purple crystal is then placed in the mouth of the tube. This crystal dissolves and makes the water around it turn purple. The tube is then gently heated, as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a glass tube bent into a rectangular shape. The tube is filled with water. A 'purple crystal' is depicted at the top of the right vertical section of the tube, inside the water. The left bottom section of the tube is labeled 'gentle heat' with an upward-pointing arrow indicating the heat source below the tube. Labels 'water' and 'tube' are also present. The setup illustrates the process of convection in a liquid.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest why the water is left to stand for ten minutes before placing the crystal in the tube.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the water is heated, it is heated gently. Suggest why.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On Fig. 1.1, draw an arrow to show the direction in which the purple colour moves through the water.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State one safety precaution the teacher should take in this demonstration.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2018/Q2",
+    "Question_text": "A student conducts an experiment with a glass ball and a metal ball. Fig. 2.1 shows the apparatus he uses. The glass ball is placed on a cloth-covered bench at the bottom of a slope. The metal ball is then released from the top of the slope. It rolls down the slope and then hits the glass ball.",
+    "image": "Fig. 2.1 shows an experimental setup. A metal ball is at the top of a 'slope' elevated above a 'cloth-covered bench', indicated as the 'initial position of glass ball'. Another glass ball is depicted on the bench at the 'final position of glass ball' further along the bench, implying it has been hit by the metal ball. A horizontal line represents the bench, with the slope leading down to it. Labels include 'metal ball', 'cloth-covered bench', 'final position of glass ball', 'initial position of glass ball', and 'slope'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Measurement",
+      "Conservation of Energy",
+      "Friction",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.1, show the height h.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 2.1, show the distance d.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest a piece of apparatus to measure these two lengths.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The experiment is repeated. The glass ball travels the following distances: 23.5 cm, 20.8 cm, 22.3 cm. Calculate the average distance dav travelled.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "The initial gravitational potential energy E of the metal ball at the top of the slope is given by E = mgh, where g is 10N/kg and m is the mass of the metal ball. The metal ball has a mass m of 0.0081 kg. The height h of the ramp is 0.120 m. Calculate E, giving your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete the table for the metal ball of mass 0.0081 kg using your answers to (a)(iv) and (a)(v).",
+        "image": "Fig. 2.2 shows a table with three columns: 'mass of metal ball/kg', 'E/J', and 'dav/cm'. It contains several rows of data, with one row for a mass of 0.0081 kg that has empty cells under 'E/J' and 'dav/cm', which are meant to be completed using values from parts (a)(iv) and (a)(v)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 2.3, plot the graph of dav/cm on the y-axis against E/J on the x-axis. Start both axes from the origin (0,0). Draw the smooth curve of best fit.",
+        "image": "Fig. 2.3 shows an empty graph grid with x and y axes starting from 0, provided for plotting dav/cm against E/J."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest a reason why the student covers the bench with a cloth.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2018/Q3",
+    "Question_text": "A student is given a quantity of liquid in a beaker and asked to determine the density of the liquid. Density is found using the equation density = mass / volume. He pours the liquid into a measuring cylinder. Fig. 3.1 shows the measuring cylinder after the liquid is added.",
+    "image": "Fig. 3.1 displays a measuring cylinder partially filled with a liquid, positioned next to a beaker. The measuring cylinder has a scale ranging from 10 to 100 cm³ in increments of 10 cm³ with smaller divisions. The liquid level (meniscus) is shown between 60 cm³ and 70 cm³.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.1, mark the position of the student's eye when he is reading the measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why this position of the eye reduces error when taking the reading.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State the volume of liquid in the measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the name of another piece of apparatus the student needs in order to find the density of the liquid.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how he uses this apparatus in this experiment.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student's eye is at the correct position when taking the reading. He calculates the density from his results. His teacher says that the value he obtains is different from the actual value. Suggest a reason for this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2018/Q4",
+    "Question_text": "A student investigates the resistance of equal lengths of different wires. The wires are made from the same material but have different diameters. Resistance can be found using the equation resistance = voltage / current. The student uses the circuit shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows an electrical circuit diagram. A power supply is connected to a straight wire via two crocodile clips, which define a 30 cm length of the wire. An ammeter (labeled 'A') is connected in series within the circuit. A voltmeter (labeled 'V') is connected in parallel across the 30 cm length of the wire.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of a piece of apparatus that the student can use to measure accurately the diameter of a wire.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student takes readings of voltage and current immediately after he switches on the circuit. Suggest a reason for taking the readings immediately.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 4.2 shows the ammeter and voltmeter when a wire with a diameter of 0.15mm is used. State the readings of current and voltage for this wire.",
+        "image": "Fig. 4.2 displays two analogue meter readings. The top meter, an ammeter (A), has a scale from 0 to 1.0, with its needle pointing exactly at 0.25. The bottom meter, a voltmeter (V), has a scale from 0 to 5, with its needle pointing exactly at 2.5."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student repeats the experiment using a wire of diameter 0.24 mm. The voltmeter reading does not change. Fig. 4.3 shows the new ammeter reading. Complete the results table of Fig. 4.4 for the experiment for the two wires.",
+        "image": "Fig. 4.3 shows an analogue ammeter (A) with a scale from 0 to 1.0. Its needle points at 0.55. Fig. 4.4 is an incomplete table designed to record experimental results, with columns labeled 'diameter/....', 'voltage/...', 'current/...', and 'resistance/...'. It has rows for two wires, one with diameter 0.15mm and another with diameter 0.24mm, where values need to be filled in from the experiment and calculations."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use your results to suggest the relationship between the diameter of a wire and its resistance.",
+        "image": null
+      }
+    ]
+  }
+]

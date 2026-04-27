@@ -1,0 +1,112 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/42/2010/Q1",
+    "Question_text": "A student investigates the movement of a suspended metre rule. Metre rule A is clamped horizontally above the bench, as shown in Fig. 1.1.",
+    "image": "Fig. 1.1 displays a metre rule (labeled 'metre rule A') clamped horizontally. It is positioned above a shaded rectangular area representing a 'bench'. The clamp is shown on the left side, holding the metre rule.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student checks that A is horizontal. You may draw on Fig. 1.1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2010/Q2",
+    "Question_text": "A student plots a heating curve for water. The student places an electrical heater in a beaker of water at room temperature, as shown in Fig. 2.1. The student measures the temperature of the water every minute for thirty minutes.",
+    "image": "Fig. 2.1 illustrates an experimental setup for heating water. A beaker containing water is placed on a bench. An electrical heater is immersed in the water, along with a thermometer, indicating that temperature is being measured. Both heater and thermometer are labeled.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student suggests using the second hand of a wall clock to measure the time. Another student suggests using a stopwatch reading to 0.01 s. Suggest and explain which timer is the more suitable to use.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student draws a table to record the results. On Fig. 2.2, complete the headings of the table.",
+        "image": "Fig. 2.2 shows an incomplete table with two empty cells for headings, indicating a requirement to fill in appropriate labels for recording experimental data."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student starts with water at room temperature and notices that the temperature increases for 20 minutes and then stays steady at 60°C.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student uses the data to plot a graph of the variation with time of the temperature of the water. On the axes of Fig. 2.3, sketch the shape of the graph obtained. Mark any known values on the graph.",
+        "image": "Fig. 2.3 shows a blank set of Cartesian axes. The y-axis is labeled 'temperature /°C' and the x-axis is labeled 'time'. The origin is marked '0'."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the temperature of the water does not rise above 60°C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2010/Q3",
+    "Question_text": "A student performs an experiment to find out whether a coin is made of pure copper. The student collects twenty identical coins and places them in a light bag. The bag is hung on a newton meter, as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a newton meter with a vertical scale from 0 to 5 N, marked with individual newton increments. A light bag containing 20 coins is suspended from the hook of the newton meter, causing the pointer to indicate a reading. Fig. 3.2 shows a diagram of a single coin labeled 'one coin' at 'actual size'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measuring Mass & Weight",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Record the reading from the newton meter to find the weight W20 of the 20 coins. W20 =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A full-size diagram of a single coin is shown in Fig. 3.2. Measure accurately the diameter d of the coin. d =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The average thickness t of a coin is 0.19cm. Describe how to measure t accurately.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/42/2010/Q4",
+    "Question_text": "A student is given two identical steel bar magnets A and B, as shown in Fig. 4.1. The student is asked to determine which magnet is the stronger. The student is given a list of apparatus available for use in the experiment.",
+    "image": "Fig. 4.1 displays two identical bar magnets, 'magnet A' and 'magnet B', each labeled with North (N) and South (S) poles. Below this, a box titled 'List of available apparatus' lists various items: 'metre rule', 'magnet', 'pencil', '20 cm ruler', 'newton meter', 'plain paper', 'clamp stand', 'plotting compass', 'lined paper', 'clamp', 'iron bar', 'graph paper', 'boss', 'iron paper clips', 'thin cotton'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how to determine which magnet is the stronger. You should include a diagram to show how your apparatus is used. Apparatus chosen: Diagram: Explanation:",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student finds an iron bar that looks identical to the magnets. The magnets and the bar become mixed up. Describe how the student, using only the magnets and iron bar, could determine which of the three is the iron bar.",
+        "image": null
+      }
+    ]
+  }
+]

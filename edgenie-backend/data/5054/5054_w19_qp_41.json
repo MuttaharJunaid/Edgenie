@@ -1,0 +1,162 @@
+[
+  {
+    "QuestionNumber": "October-November/41/2019/Q1",
+    "Question_text": "A student is asked to find the focal length f of a lens. He uses an arrow-shaped slit in a piece of card as an object, as shown in Fig. 1.1. The object is placed at one end of a metre rule and the lens is fixed a distance u from the object, as shown on Fig. 1.2. The slit is illuminated from behind using a lamp. A screen is then placed on the metre rule so that a sharp, focussed image of the arrow is formed. The distance v from the lens to the screen is then measured.",
+    "image": "Fig. 1.1 shows an upward-pointing arrow-shaped slit. Fig. 1.2 shows a diagram of the experimental setup: an illuminated object (lamp shining through the arrow slit), a converging lens, a screen displaying an inverted image, and a metre rule. Distances 'u' (object to lens) and 'v' (lens to screen) are labelled. A wooden block supports the screen, and the setup is on a horizontal surface.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Refraction of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how the student ensures that the image is sharply focussed on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Take measurements from Fig. 1.3 to find u and v. u = _______ cm v = _______ cm",
+        "image": "Fig. 1.3 is a full-scale diagram showing three vertical lines representing the 'position of object', 'position of centre of lens', and 'position of screen' on a horizontal axis, indicating the relative distances u and v."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The focal length f of the lens is given by the equation: f = uv / (v + u). Calculate f, using your measurements in (b)(i). f = _______ cm",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest one way the student ensures that his value for f is accurate.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2019/Q2",
+    "Question_text": "A student carries out an experiment to find the mass of a metre rule. She uses a number of identical metal rings and a pivot. Each ring has a mass of 3.3 g. The apparatus is set up as shown in Fig. 2.1. The student places the pivot under the 45.0 cm mark on the metre rule. She then places rings, one at a time, on the metre rule at point A, 5.0 cm along the rule. She adjusts the number of rings until the rule is as close to balance as possible. She records the number N of rings needed to balance the rule.",
+    "image": "Fig. 2.1 shows a metre rule balanced on a triangular pivot. The pivot is placed under the 45.0 cm mark. Point A is at the 5.0 cm mark, where a stack of 'rings' is placed. The 0 cm mark and 100.0 cm mark are indicated. A distance 'l' is shown horizontally between the 5.0 cm mark (point A) and the pivot at 45.0 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)1",
+        "part_text": "The rings are circular with a central hole, as shown in Fig. 2.2. Measure the outer diameter of the ring. diameter = _______ cm",
+        "image": "Fig. 2.2 is a full-scale diagram of a single circular metal ring with a central hole."
+      },
+      {
+        "part_label": "a(i)2",
+        "part_text": "Fig. 2.3 shows a section of the metre rule. On Fig. 2.3, draw one ring correctly placed at the 5.0cm mark.",
+        "image": "Fig. 2.3 shows a magnified section of a metre rule from 3 cm to 7 cm, with major markings at 3, 4, 5, 6, 7 and minor markings indicating millimeters."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the student adds the rings carefully, one at a time.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The distance l between the pivot and point A is changed by moving the pivot closer to A. The student repeats the experiment for different values of l and draws a table of results, as shown in Table 2.1. Table 2.1 shows values for l/cm and N. The data is: (40.0, 4), (35.0, 9), (30.0, 17), (25.0, 28), (20.0, 43), (15.0, 70).",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.4 on page 7, draw a graph of N on the y-axis against l/cm on the x-axis. Start your axes from (0, 0). Draw the best-fit curve.",
+        "image": "Fig. 2.4 is a blank grid with axes starting from (0,0), provided for plotting a graph of N against l/cm."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Use your graph to estimate the number N18 of rings required to balance the rule when l is 18.0cm. Show your working clearly on your graph. N18 = _______",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Theory suggests that the mass M of the metre rule is given by the equation: M = (3.3 × N × l) / (45 - l). Using your answer in (ii), calculate a value for M. Give your answer to 2 significant figures. M = _______ g",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Name a piece of apparatus that can be used to check whether the theory is correct.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest one way in which this method of measuring the mass M of the metre rule can be improved.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2019/Q3",
+    "Question_text": "A student investigates how the resistance of a filament lamp changes as the potential difference V across it changes. He uses the circuit shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows an incomplete circuit diagram. It includes a power supply (represented by two cells), a switch, a variable resistor (rheostat), and a filament lamp. The wiring suggests a series circuit, with components connected to allow for measurement of current and voltage.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 3.1, draw the symbol for an ammeter and the symbol for a voltmeter in the correct positions for this investigation.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student takes two different sets of readings of current and potential difference. Suggest how he adjusts his circuit to do this.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "He adjusts his circuit so that the voltmeter shows 4.0V and he reads the ammeter. He repeats the experiment at 8.0 V. Fig. 3.2 shows the readings of current I on the ammeter for each voltage. Record the values of I shown on the meter for each voltage. When V is 4.0 V, I = _______ A When V is 8.0 V, I = _______ A",
+        "image": "Fig. 3.2 shows two ammeter dials side-by-side. Each dial has a scale from 0 to 2.0 A, marked at 0, 0.50, 1.0, 1.50, 2.0 with intermediate divisions. The first dial, labelled 'when V = 4.0 V', shows the needle pointing at 0.80 A. The second dial, labelled 'when V = 8.0 V', shows the needle pointing at 1.20 A."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Use the equation: R = V / I to calculate the resistance R of the lamp at 4.0V and at 8.0 V. State the unit in your answers. When V is 4.0V, R = _______ When V is 8.0V, R = _______",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State two physical changes in the lamp that are observed as the potential difference V is increased.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2019/Q4",
+    "Question_text": "A student has a thermometer which has no temperature markings, as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows an uncalibrated thermometer, depicting a glass capillary tube with a bulb at one end and a liquid column extending partway up the tube. There are no numerical scales or markings on the glass.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "He finds the length of the liquid column when the temperature is 0°C. State the apparatus he needs to do this and explain how he uses his apparatus. You may use a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "He finds the length of the liquid column when the temperature is 100°C. State the apparatus he needs to do this and explain how he uses his apparatus. You may use a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest how he then uses his thermometer to find room temperature.",
+        "image": null
+      }
+    ]
+  }
+]

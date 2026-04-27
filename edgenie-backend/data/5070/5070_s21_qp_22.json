@@ -1,0 +1,875 @@
+[
+  {
+    "QuestionNumber": "1a(i)",
+    "Question_text": "State which compound: has a molecule with only 11 atoms",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural formula",
+      "Displayed formula",
+      "General formulae",
+      "Structural isomers",
+      "Functional group definition",
+      "Homologous series characteristics",
+      "Saturated compounds",
+      "Unsaturated compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(ii)",
+    "Question_text": "State which compound: is oxidised to form ethanoic acid",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reactions of carboxylic acids",
+      "Formation of ethanoic acid",
+      "Reaction with alcohol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(iii)",
+    "Question_text": "State which compound: is an isomer of butene",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural formula",
+      "Displayed formula",
+      "General formulae",
+      "Structural isomers",
+      "Functional group definition",
+      "Homologous series characteristics",
+      "Saturated compounds",
+      "Unsaturated compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(iv)",
+    "Question_text": "State which compound: reacts with hydrogen in the presence of a catalyst to make an alkane",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Bonding in alkenes",
+      "Manufacture by cracking",
+      "Reasons for cracking",
+      "Test for unsaturation",
+      "Addition reaction",
+      "Addition reactions of alkenes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(v)",
+    "Question_text": "State which compound: contains four different elements chemically combined.",
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.1 Elements, compounds and mixtures",
+    "Sub_topic": [
+      "Differences between elements, compounds and mixtures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Identify two compounds that have a pH of less than 7 in aqueous solution.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Neutralisation reaction",
+      "Neutralisation equation",
+      "Effects on indicators",
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "State the percentage composition by volume of oxygen in dry air.",
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Composition of clean air",
+      "Sources of air pollutants",
+      "Adverse effects of pollutants",
+      "Greenhouse gases mechanism",
+      "Strategies to reduce effects",
+      "Oxides of nitrogen in cars",
+      "Photosynthesis reaction",
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "State one large-scale use for oxygen.",
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.2 Uses of metals",
+    "Sub_topic": [
+      "Uses of aluminium and copper"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c(i)",
+    "Question_text": "Explain why both isotopes have the same chemical properties.",
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.3 Isotopes",
+    "Sub_topic": [
+      "Definition of isotopes",
+      "Chemical properties of isotopes",
+      "Symbols for atoms and ions",
+      "Relative atomic mass from isotopes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c(ii)",
+    "Question_text": "Give one difference in the atomic structure of these two isotopes.",
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure",
+      "Relative charges and masses of subatomic particles",
+      "Proton number / atomic number",
+      "Mass number / nucleon number",
+      "Electronic configuration of elements and ions",
+      "Noble gases, outer electrons and occupied shells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Selenium forms a compound that contains only selenium, oxygen and chlorine. The compound contains 9.6% oxygen by mass and 42.8% chlorine by mass. Calculate the empirical formula of this compound.",
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formulae of elements and compounds",
+      "Molecular formula definition",
+      "Empirical formula definition",
+      "Formula from relative numbers",
+      "Formula of ionic compound",
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e(i)",
+    "Question_text": "The temperature of the sample is decreased. The pressure remains constant. Describe and explain, using kinetic particle theory, what happens to the volume of the sample.",
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases",
+      "Structures of solids, liquids and gases",
+      "Changes of state in kinetic particle theory",
+      "Heating and cooling curves",
+      "Effects of temperature and pressure on gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e(ii)",
+    "Question_text": "The pressure of the sample is decreased. The temperature remains constant. Describe and explain, using kinetic particle theory, what happens to the volume of the sample.",
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases",
+      "Structures of solids, liquids and gases",
+      "Changes of state in kinetic particle theory",
+      "Heating and cooling curves",
+      "Effects of temperature and pressure on gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e(iii)",
+    "Question_text": "Calculate the mass of oxygen in the 11.5dm³ sample at room temperature and pressure. Give your answer to two significant figures.",
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant",
+      "Amount of substance calculations",
+      "Molar gas volume",
+      "Concentration measurement",
+      "Stoichiometric calculations",
+      "Concentration from titration",
+      "Empirical and molecular formulae",
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a(i)",
+    "Question_text": "The partial structure of a non-biodegradable polymer is shown. Name the type of polymer shown.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Polymers definition",
+      "Repeat units and linkages",
+      "Addition polymer structure",
+      "Condensation polymer structure",
+      "Addition vs condensation polymerisation",
+      "Plastics from polymers",
+      "Properties and disposal",
+      "Environmental challenges of plastics",
+      "Structure of nylon and PET",
+      "PET recycling",
+      "Proteins as polyamides",
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a(ii)",
+    "Question_text": "The partial structure of a non-biodegradable polymer is shown. Draw the structure of the monomer used to make this polymer.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Polymers definition",
+      "Repeat units and linkages",
+      "Addition polymer structure",
+      "Condensation polymer structure",
+      "Addition vs condensation polymerisation",
+      "Plastics from polymers",
+      "Properties and disposal",
+      "Environmental challenges of plastics",
+      "Structure of nylon and PET",
+      "PET recycling",
+      "Proteins as polyamides",
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a(iii)",
+    "Question_text": "This polymer is often disposed of by combustion. Suggest one problem associated with this method of disposal.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Polymers definition",
+      "Repeat units and linkages",
+      "Addition polymer structure",
+      "Condensation polymer structure",
+      "Addition vs condensation polymerisation",
+      "Plastics from polymers",
+      "Properties and disposal",
+      "Environmental challenges of plastics",
+      "Structure of nylon and PET",
+      "PET recycling",
+      "Proteins as polyamides",
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(i)",
+    "Question_text": "Lactic acid is used to make poly(lactic acid), a biodegradable polymer. Suggest what is meant by the term biodegradable.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Polymers definition",
+      "Repeat units and linkages",
+      "Addition polymer structure",
+      "Condensation polymer structure",
+      "Addition vs condensation polymerisation",
+      "Plastics from polymers",
+      "Properties and disposal",
+      "Environmental challenges of plastics",
+      "Structure of nylon and PET",
+      "PET recycling",
+      "Proteins as polyamides",
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(ii)",
+    "Question_text": "Draw the partial structure of poly(lactic acid). Show at least two repeat units.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Polymers definition",
+      "Repeat units and linkages",
+      "Addition polymer structure",
+      "Condensation polymer structure",
+      "Addition vs condensation polymerisation",
+      "Plastics from polymers",
+      "Properties and disposal",
+      "Environmental challenges of plastics",
+      "Structure of nylon and PET",
+      "PET recycling",
+      "Proteins as polyamides",
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(iii)",
+    "Question_text": "A factory uses 500 tonnes of lactic acid to make poly(lactic acid). The percentage yield is 100% but the mass of poly(lactic acid) made is less than 500 tonnes. Explain why the mass of poly(lactic acid) made is less than 500 tonnes.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Polymers definition",
+      "Repeat units and linkages",
+      "Addition polymer structure",
+      "Condensation polymer structure",
+      "Addition vs condensation polymerisation",
+      "Plastics from polymers",
+      "Properties and disposal",
+      "Environmental challenges of plastics",
+      "Structure of nylon and PET",
+      "PET recycling",
+      "Proteins as polyamides",
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(iv)",
+    "Question_text": "Aqueous lactic acid reacts with acidified potassium manganate(VII). There is a colour change from purple to colourless. Suggest what happens to the lactic acid in this reaction.",
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidation number",
+      "Redox reactions definition",
+      "Oxidation definition",
+      "Reduction definition",
+      "Identifying redox reactions",
+      "Redox by oxidation number changes",
+      "Redox by colour changes",
+      "Oxidising agent definition",
+      "Reducing agent definition",
+      "Identifying in redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(v)",
+    "Question_text": "Aqueous lactic acid is neutralised by aqueous sodium hydroxide. Write the ionic equation for this neutralisation.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Neutralisation reaction",
+      "Neutralisation equation",
+      "Effects on indicators",
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(vi)",
+    "Question_text": "Aqueous lactic acid reacts with magnesium. Name the gas made in this reaction.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Neutralisation reaction",
+      "Neutralisation equation",
+      "Effects on indicators",
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Predict two physical properties, other than electrical conductivity, of zinc bromide.",
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison",
+      "Chemical properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Zinc reacts with bromine to make zinc bromide.  Explain, in terms of the movement of electrons, how ZnBr2 is formed from zinc atoms and bromine molecules.",
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions",
+      "Giant lattice structure of ionic compounds",
+      "Ionic bond definition",
+      "Formation of ionic bonds",
+      "Properties of ionic compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c(i)",
+    "Question_text": "Aqueous zinc bromide reacts with magnesium as shown. Use the equation to explain that oxidation takes place.",
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidation number",
+      "Redox reactions definition",
+      "Oxidation definition",
+      "Reduction definition",
+      "Identifying redox reactions",
+      "Redox by oxidation number changes",
+      "Redox by colour changes",
+      "Oxidising agent definition",
+      "Reducing agent definition",
+      "Identifying in redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c(ii)",
+    "Question_text": "Aqueous zinc bromide reacts with magnesium as shown. Use the equation to explain that reduction takes place.",
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidation number",
+      "Redox reactions definition",
+      "Oxidation definition",
+      "Reduction definition",
+      "Identifying redox reactions",
+      "Redox by oxidation number changes",
+      "Redox by colour changes",
+      "Oxidising agent definition",
+      "Reducing agent definition",
+      "Identifying in redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d(i)",
+    "Question_text": "Zinc carbonate is insoluble in water.  Zinc carbonate can be prepared by reacting aqueous zinc bromide with CO32-(aq) ions in a precipitation reaction. Name a suitable aqueous solution that can provide CO32-(aq) ions.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts",
+      "Preparation of insoluble salts",
+      "Solubility rules",
+      "Hydrated and anhydrous substances",
+      "Water of crystallisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d(ii)",
+    "Question_text": "Zinc carbonate is insoluble in water. A sample of zinc carbonate is heated strongly. Name the products of this reaction.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Amphoteric oxides",
+      "Classifying oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Describe how petroleum (crude oil) is separated to make fractions such as naphtha and petrol (gasoline).",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fossil fuels",
+      "Methane in natural gas",
+      "Hydrocarbons definition",
+      "Petroleum as hydrocarbons",
+      "Fractional distillation",
+      "Properties of fractions",
+      "Uses of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b(i)",
+    "Question_text": "Compounds such as C11H24 in the naphtha fraction are cracked to make hydrogen, alkenes and smaller alkanes. Explain how the molecular formula C11H24 shows the compound is an alkane.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Bonding in alkanes",
+      "Properties of alkanes",
+      "Substitution reaction",
+      "Substitution with chlorine"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b(ii)",
+    "Question_text": "Construct an equation to show the cracking of C11H24 to make ethene and an alkane only.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Bonding in alkenes",
+      "Manufacture by cracking",
+      "Reasons for cracking",
+      "Test for unsaturation",
+      "Addition reaction",
+      "Addition reactions of alkenes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "Describe how hydrogen is converted into ammonia in the Haber process. Include the conditions used in the Haber process.",
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Reversible reactions",
+      "Changing direction in reversible reactions",
+      "Equilibrium in closed system",
+      "Factors affecting equilibrium",
+      "Haber process equation",
+      "Sources in Haber process",
+      "Conditions in Haber process",
+      "Contact process equation",
+      "Sources in Contact process",
+      "Conditions in Contact process",
+      "Conditions explanation in processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5d",
+    "Question_text": "State one other use for hydrogen.",
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.2 Hydrogen–oxygen fuel cells",
+    "Sub_topic": [
+      "Hydrogen–oxygen fuel cell",
+      "Advantages and disadvantages of fuel cells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5e(i)",
+    "Question_text": "Ethene reacts with a compound to make ethanol. Name the compound.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Manufacture of ethanol",
+      "Combustion of alcohols",
+      "Uses of ethanol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5e(ii)",
+    "Question_text": "State one condition for this reaction.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Manufacture of ethanol",
+      "Combustion of alcohols",
+      "Uses of ethanol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "State one environmental problem caused by the presence of sulfur dioxide in the air.",
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Composition of clean air",
+      "Sources of air pollutants",
+      "Adverse effects of pollutants",
+      "Greenhouse gases mechanism",
+      "Strategies to reduce effects",
+      "Oxides of nitrogen in cars",
+      "Photosynthesis reaction",
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Name the compound used in FGD that reacts with the sulfur dioxide.",
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Composition of clean air",
+      "Sources of air pollutants",
+      "Adverse effects of pollutants",
+      "Greenhouse gases mechanism",
+      "Strategies to reduce effects",
+      "Oxides of nitrogen in cars",
+      "Photosynthesis reaction",
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c(i)",
+    "Question_text": "NO is produced when nitrogen, N2, reacts with oxygen. Construct the equation for this reaction.",
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Composition of clean air",
+      "Sources of air pollutants",
+      "Adverse effects of pollutants",
+      "Greenhouse gases mechanism",
+      "Strategies to reduce effects",
+      "Oxides of nitrogen in cars",
+      "Photosynthesis reaction",
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c(ii)",
+    "Question_text": "Draw a dot-and-cross diagram to show the bonding in a molecule of nitrogen. Only include the outer shell electrons.",
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation",
+      "Formation of covalent bonds in molecules",
+      "Properties of simple molecular compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c(iii)",
+    "Question_text": "Explain why the rate of reaction between nitrogen and oxygen increases as the temperature increases.",
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Catalyst effect",
+      "Effects on rate of reaction",
+      "Practical methods for rate",
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6d(i)",
+    "Question_text": "Nitrogen dioxide reacts with aqueous sodium hydroxide to form two different salts and water. Construct the equation for this reaction.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Neutralisation reaction",
+      "Neutralisation equation",
+      "Effects on indicators",
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6d(ii)",
+    "Question_text": "Describe the difference between a weak acid and a strong acid.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Neutralisation reaction",
+      "Neutralisation equation",
+      "Effects on indicators",
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "Calculate the maximum volume, in dm³, of nitrogen formed, measured at room temperature and pressure.",
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant",
+      "Amount of substance calculations",
+      "Molar gas volume",
+      "Concentration measurement",
+      "Stoichiometric calculations",
+      "Concentration from titration",
+      "Empirical and molecular formulae",
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Draw a labelled diagram of the assembled apparatus that can be used to make, collect and measure the volume of nitrogen formed in this reaction.",
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages",
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7c",
+    "Question_text": "The concentration of NaNO2(aq) is increased. The temperature of the reaction remains constant. State and explain how the rate of reaction changes.",
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Catalyst effect",
+      "Effects on rate of reaction",
+      "Practical methods for rate",
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7d",
+    "Question_text": "Sulfamic acid forms salts called sulfamates that contain the anion NH2SO3¯. Magnesium carbonate, MgCO3, is added to a sample of NH2SO3H(aq). Magnesium sulfamate, water and a gas are formed. The gas turns limewater milky. Construct the equation for this reaction.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Neutralisation reaction",
+      "Neutralisation equation",
+      "Effects on indicators",
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a(i)",
+    "Question_text": "Use the Periodic Table to state the number of occupied electron shells in an atom of lead.",
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure",
+      "Relative charges and masses of subatomic particles",
+      "Proton number / atomic number",
+      "Mass number / nucleon number",
+      "Electronic configuration of elements and ions",
+      "Noble gases, outer electrons and occupied shells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a(ii)",
+    "Question_text": "Use the Periodic Table to state the number of electrons in the outer shell of an atom of lead.",
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure",
+      "Relative charges and masses of subatomic particles",
+      "Proton number / atomic number",
+      "Mass number / nucleon number",
+      "Electronic configuration of elements and ions",
+      "Noble gases, outer electrons and occupied shells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Describe, with the aid of a labelled diagram, the metallic bonding in lead.",
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition",
+      "Properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "Give two physical properties of lead that are characteristic of all metals.",
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison",
+      "Chemical properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "Name a suitable combination of an acid and an insoluble base which is used to prepare lead(II) ethanoate.",
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts",
+      "Preparation of insoluble salts",
+      "Solubility rules",
+      "Hydrated and anhydrous substances",
+      "Water of crystallisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8e",
+    "Question_text": "Construct the ionic equation, with state symbols, for this reaction.",
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formulae of elements and compounds",
+      "Molecular formula definition",
+      "Empirical formula definition",
+      "Formula from relative numbers",
+      "Formula of ionic compound",
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8f",
+    "Question_text": "Explain why solid lead(II) iodide cannot be electrolysed.",
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition",
+      "Anode, cathode and electrolyte",
+      "Charge transfer in electrolysis",
+      "Products and observations in electrolysis",
+      "Products in copper(II) sulfate electrolysis",
+      "Products at cathode and anode",
+      "Products for molten binary compounds",
+      "Products for halide compounds",
+      "Ionic half-equations",
+      "Electroplating purpose",
+      "Electroplating metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Circle the atoms in the structure that show that ethyl propenoate is an ester.",
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11"
+  }
+]

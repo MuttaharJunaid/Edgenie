@@ -1,0 +1,448 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "What is prepared by a book-keeper?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting",
+      "Measuring profit/loss purposes",
+      "Accounting role information"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "A trader provided the following information. What was the total of the non-current liabilities?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning",
+      "Apply accounting equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Which item would be recorded by a credit entry in an account?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Outline double entry",
+      "Process data double entry",
+      "Prepare ledger accounts",
+      "Post transactions ledgers",
+      "Balance/transfer accounts",
+      "Interpret ledger balances",
+      "Ledger division recognition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Harvey bought goods on credit from Janet. The goods were unsuitable and Harvey returned them to Janet. Which document did Harvey send to Janet?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.2 Business documents",
+    "Sub_topic": [
+      "Recognise business documents",
+      "Complete pro-forma documents",
+      "Documents as information sources"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "On 1 May Bashir purchases goods on credit with a list price of $200. He is given a trade discount of $20. If payment is made within 28 days a cash discount of $10 will be given. Which amount is credited to the supplier's account on 1 May?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Advantages of prime entry",
+      "Use/process prime entry books",
+      "Post from prime entry",
+      "Trade/cash discount accounting",
+      "Cash book dual function",
+      "Electronic payments recording",
+      "Imprest petty cash"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Farouk sells goods on credit. A cheque from Ahmed, a credit customer, was dishonoured by the bank. How does Farouk record this?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Trial balance statement",
+      "Uses/limitations trial balance",
+      "Prepare/amend trial balance",
+      "Errors not affecting balance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Sally buys goods and is allowed a discount for early payment. How does Sally record this discount?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via journal entries",
+      "Suspense account usage",
+      "Correct via suspense",
+      "Adjust profit/loss errors",
+      "Effect on financial position"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which item is represented by a debit balance on a ledger account?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Bank statement purpose",
+      "Update cash book items",
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "The following account appears in the ledger of Chan. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Purposes of control accounts",
+      "Sources for control entries",
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The following ledger account appeared in the books of a trader. What does the balance on 31 December represent?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Distinguish capital/revenue expenditure",
+      "Distinguish capital/revenue receipts",
+      "Effect on profit incorrect treatment",
+      "Effect on assets incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "On 1 January 2014 a trader had prepaid general expenses. During the year further general expenses were paid. On 31 December 2014 general expenses were accrued. How did the trader calculate the general expenses for the year ended 31 December 2014?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Define depreciation",
+      "Reasons for depreciation",
+      "Depreciation methods description",
+      "Ledger/journal for depreciation",
+      "Ledger/journal for disposals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "A trader decides to change his provision for doubtful debts from 2% to 3% of trade receivables. Which entry is made to record this?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Matching costs/revenues importance",
+      "Record accrued/prepaid expenses",
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Which item is a capital receipt for the owner of a bakery?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Irrecoverable debts meaning",
+      "Record irrecoverable debts",
+      "Record debt recovery",
+      "Reasons for doubtful provision",
+      "Record/adjust doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Hassan depreciates his machinery at 20% per annum using the diminishing (reducing) balance method. No depreciation is charged in the year of disposal. He provided the following information. How much did Hassan charge for depreciation for the year ended 30 April 2015?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Inventory valuation basis",
+      "Prepare inventory statements",
+      "Importance of inventory valuation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Which statement about depreciation is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Sole trader advantages/disadvantages",
+      "Importance of statements",
+      "Trading vs service difference",
+      "Prepare income statements",
+      "Financial position content",
+      "Inter-relationship items",
+      "Prepare financial positions",
+      "Depreciation adjustments",
+      "Accrued/prepaid adjustments",
+      "Irrecoverable/provision adjustments",
+      "Goods taken adjustments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Henri has charged Thibault interest on his overdue account. Where does this interest appear in Thibault's control accounts?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Partnership advantages/disadvantages",
+      "Partnership agreement contents",
+      "Appropriation account purpose",
+      "Prepare statements/appropriation",
+      "Record partner interests/salaries",
+      "Adjustments as sole traders",
+      "Capital/current accounts uses",
+      "Draw partners' accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Brian's inventory included one item which had cost $240. The item needed repair at a cost of $30. After repair, the item could be sold for $260. At what value should the item be recorded in Brian's inventory?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Limited company advantages/disadvantages",
+      "Limited liability meaning",
+      "Equity meaning",
+      "Capital structure understanding",
+      "Issued/called-up/paid-up distinction",
+      "Share/loan capital distinction",
+      "Prepare company statements",
+      "Adjustments as sole traders"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Ram provided the following information on 31 December 2014. How much were the owner's capital and capital employed on 31 December 2014?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Receipts/payments vs income/expenditure",
+      "Prepare receipts/payments",
+      "Revenue activities accounts",
+      "Prepare income/expenditure",
+      "Adjustments as sole traders",
+      "Accumulated fund calculation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "On 1 January 2014 Bill started a gardening business. He provided the following information for the year ended 31 December 2014. What was Bill's profit for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Direct/indirect costs distinction",
+      "Direct costs understanding",
+      "Work in progress adjustments",
+      "Calculate factory cost",
+      "Prepare manufacturing accounts",
+      "Adjustments as sole traders"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Rajid and Sunil formed a partnership on 1 January 2014 but did not prepare a partnership agreement. They provided the following information. They decide to draw up a partnership agreement for future years. Which item would be most beneficial to Rajid in 2014?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Disadvantages of incomplete records",
+      "Prepare statements of affairs",
+      "Calculate profit/loss capital change",
+      "Calculate missing figures",
+      "Prepare from incomplete records",
+      "Adjustments as sole traders",
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "X and Y were sole traders. They decided to amalgamate their businesses and to share profits and losses in the ratio 2:1. They brought into the partnership assets of $30 000 and $29 000 respectively. Y's assets included goodwill of $9000. Goodwill was not to be retained in the accounts of the partnership. What was the opening capital of each partner?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Disadvantages of incomplete records",
+      "Prepare statements of affairs",
+      "Calculate profit/loss capital change",
+      "Calculate missing figures",
+      "Prepare from incomplete records",
+      "Adjustments as sole traders",
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Hill Tennis Club received $32 000 in subscriptions during the year. At the year end subscriptions of $350 were owed by members and $450 had been paid in advance for the next year. How much was transferred to the income and expenditure account for subscriptions?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Disadvantages of incomplete records",
+      "Prepare statements of affairs",
+      "Calculate profit/loss capital change",
+      "Calculate missing figures",
+      "Prepare from incomplete records",
+      "Adjustments as sole traders",
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "A sports club was formed on 1 January 2014. During the year ended 31 December 2014 the club purchased equipment costing $5000, paying by cheque. In which of the club's financial statements did this appear?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Disadvantages of incomplete records",
+      "Prepare statements of affairs",
+      "Calculate profit/loss capital change",
+      "Calculate missing figures",
+      "Prepare from incomplete records",
+      "Adjustments as sole traders",
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "A trader does not keep a full set of accounting records. How is the profit for the year calculated?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Disadvantages of incomplete records",
+      "Prepare statements of affairs",
+      "Calculate profit/loss capital change",
+      "Calculate missing figures",
+      "Prepare from incomplete records",
+      "Adjustments as sole traders",
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "During 2014, Roger's credit customers paid him $6200. They owed $1800 on 1 January 2014 and $4300 on 31 December 2014. Cash sales for 2014 amounted to $26 800. What were the total sales for the year?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which item would be entered in a statement of changes in equity?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.2 Interpretation of accounting ratios",
+    "Sub_topic": [
+      "Compare results statements",
+      "Recommendations for improvement",
+      "Gross/profit margin significance",
+      "Relationship to inventory/turnover"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Zed Limited provided the following information. What were total shareholders' funds?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.3 Inter-firm comparison",
+    "Sub_topic": [
+      "Problems of inter-firm comparison",
+      "Apply ratios inter-firm"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Gordon provided the following information for the year. Gordon took goods, $7000, for his own use. What were the purchases?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.4 Interested parties",
+    "Sub_topic": [
+      "Uses by owners/managers",
+      "Uses by payables/banks",
+      "Uses by investors/members",
+      "Uses by governments/etc."
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Lucy has applied the accounting principle of matching (accruals). Which action has she taken?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.5 Limitations of accounting statements",
+    "Sub_topic": [
+      "Historic cost limitations",
+      "Definition difficulties",
+      "Non-financial aspects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "'The same accounting treatment should be applied to similar items at all times.' To which accounting principle does this refer?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

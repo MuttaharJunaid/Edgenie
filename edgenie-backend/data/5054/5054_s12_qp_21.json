@@ -1,0 +1,456 @@
+[
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q1",
+    "Question_text": "An astronaut standing on the Moon throws a stone vertically upwards. The stone leaves his hand at time t = 0. The line on Fig. 1.1 shows how the velocity v of the stone varies with time t until t = 2.0 s.",
+    "image": "Fig. 1.1 is a velocity-time graph showing velocity (v) in m/s on the y-axis and time (t) in s on the x-axis. The graph spans from -6 m/s to 6 m/s for velocity and 0 s to 6 s for time. A straight line is plotted from (0, 4.5) down to (2.0, 1.5), representing the stone's upward motion and deceleration.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Freefall"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "After rising, the stone falls. The astronaut catches the stone at t = 6.0s. There is no air resistance on the Moon. Complete Fig. 1.1 until t = 6.0s.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the value of t when the stone is at its highest point.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the acceleration of the stone between t = 0 and t = 2.0 s.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A stone is thrown vertically upwards on the Earth with the same initial velocity. State two ways in which the velocity-time graph for this stone differs from Fig. 1.1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q2",
+    "Question_text": "Fig. 2.1 shows a windsurfer, sail and board. The total mass of the windsurfer, sail and board is 90kg. They travel at a constant speed of 5.0m/s.",
+    "image": "Fig. 2.1 depicts a windsurfer in action on water. The image shows a person on a board holding onto a sail. Labels point to the 'sail', 'windsurfer' (the person), and 'board'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's First Law",
+      "Kinetic Energy",
+      "Work",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the total kinetic energy of the windsurfer, sail and board.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The wind exerts a forward force on the sail. Explain, in terms of the forces acting, why the board travels at a constant speed.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The wind does work on the sail. Explain, in terms of the conservation of energy, why the total kinetic energy does not increase.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q3",
+    "Question_text": "A student measures the pressure inside a bicycle tyre using a pressure gauge he has constructed. Fig. 3.1 shows the apparatus he uses. The piston and rod move along the smooth cylindrical tube. The change in length of the spring is proportional to the force applied to the spring. A force of 2.8N compresses the spring by 2.0cm. The student connects the pressure gauge to the tyre. Air from the tyre exerts a force on the piston. As the piston moves, the spring is compressed. The piston moves 10cm to the right and then stops.",
+    "image": "Fig. 3.1 illustrates a pressure gauge connected to a bicycle tyre. The gauge consists of a cylindrical tube containing a piston, a spring, and a rod. The rod extends from the piston to the right, and the spring is coiled around the rod between the piston and the right end of the tube. The left end of the tube is labeled 'to bicycle tyre'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the force exerted on the piston by the spring.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The cross-sectional area of the piston is 3.0×10⁻⁵m². Calculate the pressure of the air inside the tyre.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest one change to the apparatus so that the piston moves a smaller distance when measuring the same pressure.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Each time that the pressure gauge is used, the pressure in the tyre falls slightly. The temperature stays constant. Describe, using ideas about molecules, why the pressure falls.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q4",
+    "Question_text": "A student slowly heats a sample of solid wax in a test-tube. Fig. 4.1 shows how the temperature of the wax varies with time t.",
+    "image": "Fig. 4.1 is a temperature-time graph. The y-axis represents temperature in °C, ranging from 35 to 60. The x-axis represents time in minutes, ranging from 0 to 10. The graph shows the temperature increasing from 35°C at t=0, rising steadily until it reaches 50°C at t=4 min. It then remains constant at 50°C until t=8 min, after which it rises again from 50°C to approximately 58°C at t=10 min.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Thermal Expansion",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by the melting point of a substance.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Thermal energy (heat) passes into the wax throughout the experiment. Describe what effect this energy has on the wax between t = 0 and t = 4 min.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe and explain what effect this energy has on the wax between t = 4 min and t = 8 min.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The wax expands as the temperature rises. It expands more between t = 8 min and 9 min than between t = 0 and 1 min. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q5",
+    "Question_text": "Fig. 5.1 shows the electromagnetic spectrum. Two components of the spectrum, P and Q, have not been named.",
+    "image": "Fig. 5.1 is a diagram illustrating the electromagnetic spectrum. It shows a horizontal arrow pointing from 'shortest wavelength' to 'longest wavelength'. Along this spectrum, various regions are labeled: 'gamma rays', 'P', 'ultra-violet', 'visible light', 'Q', 'microwaves', and 'radio waves'. 'P' is located between 'gamma rays' and 'ultra-violet', while 'Q' is located between 'visible light' and 'microwaves'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of component P,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "component Q.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "All electromagnetic waves have a wavelength and a frequency. They all have changing magnetic and electric fields. State two other properties of all electromagnetic waves.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State the component of the electromagnetic spectrum used for satellite communication.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q6",
+    "Question_text": "A sound from an electronic organ is played into a microphone which is connected to a cathode-ray oscilloscope (c.r.o.). Fig. 6.1 shows the trace on the c.r.o. produced by the sound. The horizontal line marked L is the trace seen when there is no sound.",
+    "image": "Fig. 6.1 displays a cathode-ray oscilloscope (c.r.o.) trace, which is a waveform representing sound. The trace shows oscillations that decrease in amplitude from left to right, indicating decreasing loudness over time. A horizontal line 'L' is indicated, representing the baseline when no sound is present. A segment along the x-axis (time) indicates '0.020 s' corresponding to one complete cycle of the wave at the beginning of the trace.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State how Fig. 6.1 shows that the loudness of the sound decreases with time.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how Fig. 6.1 shows that the pitch of the sound is constant.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by the frequency of a wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The time for one complete cycle of the wave in Fig. 6.1 is 0.020 s. Calculate the frequency of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Determine the time taken for the amplitude of the trace in Fig. 6.1 to decrease to half its initial value.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q7",
+    "Question_text": "Fig. 7.1 is the circuit diagram of a circuit set up by a student. The student uses three cells, each of electromotive force (e.m.f.) 1.5V. The cells are connected in series, as shown.",
+    "image": "Fig. 7.1 shows a circuit diagram. It includes three cells connected in series, an open switch, a component labeled 'P' (which is a light-emitting diode, shown as a circle with a cross and two arrows pointing away), and a voltmeter labeled 'V' connected in parallel across component P.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of component P.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State what is meant by the electromotive force of a cell.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student expects the reading on the voltmeter to be 4.5V. The actual reading is 0.2V. Suggest two reasons why the voltmeter reading is much less than 4.5V.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "In the space below, draw three cells connected in parallel.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State one advantage of connecting cells in parallel.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q8",
+    "Question_text": "(a) A magnet is placed on a bench, as shown in Fig. 8.1a. End P of a rod is held above each end of the magnet in turn, as shown in Fig. 8.1b and in Fig. 8.1c. One end of the magnet is lifted off the bench in both cases. (b) Fig. 8.2 and Fig. 8.3 show views of a wire carrying a current downwards through a horizontal board.",
+    "image": "Fig. 8.1a shows a bar magnet with North (N) and South (S) poles on a bench. Fig. 8.1b shows a rod labeled 'P' held above the North pole of the magnet, which causes that end of the magnet to lift off the bench. Fig. 8.1c shows the same rod 'P' held above the South pole of the magnet, also causing that end to lift off the bench. Fig. 8.2 is a 3D isometric view of a horizontal board with a wire passing through it vertically, showing the current flowing downwards. Fig. 8.3 is a top-down view of the horizontal board with the wire passing through, indicating 'current into page' with a circle and a cross inside.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Suggest what material the rod is made from.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how the rod lifts each end of the magnet off the bench.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 8.3, draw the magnetic field due to the current in the wire.",
+        "image": "Expected drawing on Fig 8.3: Concentric circles around the central wire, with clockwise arrows indicating the direction of the magnetic field lines (Right-Hand Grip Rule for current into page)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The magnetic field is stronger closer to the wire. State how the magnetic field lines indicate that the field is stronger.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q9",
+    "Question_text": "Fig. 9.1a shows a room heater. Fig. 9.1b is a diagram of the electric circuit of the heater. The fuse has not been drawn on the circuit diagram in Fig. 9.1b.",
+    "image": "Fig. 9.1a shows a pictorial representation of a typical room heater, appearing as a radiator with fins. Fig. 9.1b is a circuit diagram for the heater, showing 'neutral' and 'live' wires. It includes two parallel branches each with a switch (switch A and switch B) and a heating element. The circuit is missing a fuse. Fig. 9.2 is a table titled 'power / W' with rows for 'switch A only closed' (600W) and 'both switches closed' (2100W), used to determine power output.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Energy",
+      "Electrical Power",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 9.1b, draw the symbol for a fuse in the correct position.",
+        "image": "Expected drawing on Fig 9.1b: A fuse symbol drawn in the live wire, before the switches and heating elements."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the part of the room heater to which the earth wire is connected.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 1.",
+        "part_text": "The earth wire reduces the chance of an electric shock if a fault develops in the room heater. State one fault that causes an electric shock when a person uses the room heater without an earth connection.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 2.",
+        "part_text": "Explain how using an earth connection prevents an electric shock.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "This type of room heater is very efficient. Explain what this means.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The room heater is a convector heater. Describe and explain how thermal energy (heat) passes around a room by convection.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Determine the power output of the room heater when only switch B is closed.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii) 1.",
+        "part_text": "The room heater is used with both switches closed for 2.5 hours. Calculate the energy output of the room heater in kilowatt-hours,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii) 2.",
+        "part_text": "in joules.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q10",
+    "Question_text": "(a) Fig. 10.1 shows the path of a ray of blue light as it passes through a glass prism. (b) The camera lens shown in Fig. 10.3 is used to photograph the object O.",
+    "image": "Fig. 10.1 shows a ray of blue light entering a glass prism from the air at point A, refracting inwards, and then striking the opposite face at point B. Angles are labeled: 45° for incidence at A (with normal), 45° for the prism angle, and 61° with 29% inside at B. Fig. 10.2 shows an identical glass prism with a horizontal ray of blue light striking at point C; this figure is for completing the ray path. Fig. 10.3 displays a converging camera lens on a grid, with an object 'O' (an upward arrow) placed to the left of the lens. This figure is for drawing ray diagrams to find the image.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection",
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the wave term used to describe what happens to the ray of light at A.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Using angles from Fig. 10.1, calculate the refractive index of the glass.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain why the ray does not emerge from the prism at B.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Fig. 10.2 shows a second, horizontal, ray of blue light striking the prism at point C. On Fig. 10.2, continue the path of the second ray through and out of the glass prism.",
+        "image": "Expected drawing on Fig 10.2: The horizontal ray entering at C will refract, then hit the opposite face. It should be drawn refracting out of the prism, bending away from the normal."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The object O is 2.0cm high and is placed 8.0cm from the centre of the lens. The lens has a focal length of 3.0cm. Draw rays on Fig. 10.3 to find the position and height of the image formed by the lens. Label the image I.",
+        "image": "Expected drawing on Fig 10.3: Ray diagram for a converging lens. A ray parallel to the principal axis passes through the focal point on the other side. A ray through the center of the lens continues undeviated. A ray through the focal point on the object side emerges parallel to the principal axis. The intersection of these rays forms the image I."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the height of the image.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii) 1.",
+        "part_text": "The image formed by the lens is a real image. Explain the difference between a real image and a virtual image.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii) 2.",
+        "part_text": "Explain how a converging lens is used to produce and view a virtual image.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2012/Q11",
+    "Question_text": "Fig. 11.1 shows part of a smoke detector. Alpha-particles from the radioactive source ionise the air between the metal plates. There is then a small current in the resistor. When smoke enters the detector, the current changes and the alarm sounds. The source used is the radioactive isotope americium-241, which has a half-life of 500 years.",
+    "image": "Fig. 11.1 depicts a simplified diagram of a smoke detector. It shows a radioactive source emitting alpha-particles. These alpha-particles pass between a 'positive metal plate' and a 'negative metal plate'. The positive plate is connected to a resistor and an alarm, while the negative plate is connected to ground. The direction of positive charges (from source to alarm, through plates) is indicated by arrows. The setup is labeled 'not to scale'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission",
+      "Detection of Radioactivity",
+      "Radioactive Decay",
+      "Half-Life",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why a source emitting only gamma-rays is unsuitable for use in the smoke detector.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "There is an electric field between the metal plates. On Fig. 11.1, draw the electric field between the plates.",
+        "image": "Expected drawing on Fig 11.1: Straight, parallel, and equally spaced electric field lines drawn from the positive metal plate to the negative metal plate, with arrows pointing from positive to negative."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The alpha-particles in Fig. 11.1 are deflected slightly as they pass through the electric field. Explain why the alpha-particles are deflected and state the direction of the deflection.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State and explain how the path of gamma-rays differs from the path of alpha-particles as they pass through an electric field.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "A sample of americium-241 is left for 1500 years. Determine the fraction of the original number of atoms of americium-241 left in the sample after this time.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Another isotope of the same element, americium-242, has a half-life of 16 hours. Explain why the half-life of americium-242 makes this isotope unsuitable for use in a smoke detector.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii) 1.",
+        "part_text": "Atoms of americium-241 and americium-242 contain protons, neutrons and electrons. State two similarities in the structure of an atom of americium-241 and an atom of americium-242.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii) 2.",
+        "part_text": "Describe the difference between an atom of americium-241 and an atom of americium-242.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "What is the main function of book-keeping?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Which components of a statement of financial position do descriptions 1, 2 and 3 relate to?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A cheque received from Kate, a credit customer, was dishonoured. How was this dishonoured cheque recorded?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Process data double entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "What does the sales ledger of a business contain?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Prepare ledger accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Which action is an example of double entry book-keeping?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Outline double entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "What is true about cash discounts received?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Trade/cash discount accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Tahir prepared a trial balance. He entered both the balance on the discount allowed account, $900, and the bank overdraft, $750, in the wrong column. Which total of the trial balance was higher and what was the amount of the difference between the debit total and the credit total?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Prepare/amend trial balance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Goods sold on credit to J Sharp were debited in error to the account of T Sharpe. Which type of error has been made?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Errors not affecting balance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Khalid made entries in a suspense account to correct two errors found in his ledger accounts. Once the errors were corrected, the suspense account was closed.",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via suspense"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Maya depreciates her motor vehicle at 25% per annum using the straight-line method. The motor vehicle cost $15000. The depreciation for the current financial year was incorrectly calculated at 15% per annum. How will correcting the error affect the profit for the year?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Adjust profit/loss errors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Waseem received a bank statement. He found that the bank had charged interest twice in error and that a dividend had been received on an investment. Waseem then updated the cash book and prepared a bank reconciliation statement. Where did he record these two items?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Thembi is preparing her sales ledger control account. She needs to know: 1 the total for goods which have been returned by credit customers 2 the amount owed by credit customers which have been written off as irrecoverable. Where can she obtain this information?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "On 1 August, the sales ledger control account had a debit balance of $1800. During August, a debt of $200 was written off as irrecoverable and $10000 was received from credit customers. On 31 August, the credit customers owed $3000. What was the total of credit sales in August?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "A wholesaler had the following transactions. sold goods, $30000, on credit received cheque, $12000, from sale of old fixtures at book value How would these amounts be classified?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Distinguish capital/revenue receipts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "A trader debited the cost of repairing office equipment to the office equipment account. How did this error affect the financial statements?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Effect on profit incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "A business bought two assets, X and Y, on 1 January 2022, for $2000 each. It depreciates asset X by 10% per annum using the straight-line method, and asset Y by 10% per annum using the reducing balance method. Which statements are correct?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Depreciation methods description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Ravi's financial year ends on 30 April. Ravi bought a motor vehicle for $8000 on 1 May 2020 and sold it for $4050 on 1 May 2022. He uses the reducing balance method of depreciation at 20% per annum. What would be recorded in the income statement for the year ended 30 April 2023 for the disposal of the motor vehicle?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Ledger/journal for disposals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "On 2 January, Razia wrote off $450 owed to her by Annette, a credit customer, as irrecoverable. On 2 October, Annette paid $100 by cheque in part settlement of that debt. Which entries would Razia make on 2 October?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record debt recovery"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Asha provided the following information about her inventory at the end of the financial year. What was the total value of Asha's inventory?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Prepare inventory statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Which group contains only service businesses?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Trading vs service difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "What does the statement of financial position of a business show?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Financial position content"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "A trader pays her insurance premium on 1 January each year for the following 12 months. She made the following payments for insurance. How much did the trader include for insurance in her income statement for the year ended 31 March 2023?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Accrued/prepaid adjustments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Which item is added to the profit for the year in a partnership appropriation account?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Appropriation account purpose"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Abi and Erni are in partnership. Erni is entitled to an annual partnership salary of $3000. They share residual profits and losses equally. The profit for the year ended 31 August 2022 was $12600. On 1 September 2021, the partners' current account balances were as follows. What was the credit balance on Erni's current account on 1 September 2022?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Record partner interests/salaries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "What is meant by the term equity?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "During the financial year, AB Limited paid debenture interest of $1400 relating to that financial year. At the end of the year, debenture interest of $700 was accrued. How was debenture interest shown in the financial statements for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Prepare company statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which items are included in an income and expenditure account prepared for a sports club?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Prepare income/expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Melody is a music club. The club holds a music concert once every year. Prizes are awarded to musicians selected by a judge. The club provided the following information related to the latest music concert. What was the profit from the concert?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Prepare income/expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "A business provided the following information. What was the cost of raw material consumed?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Calculate factory cost"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Ashwin started a business as a taxi driver on 1 January 2022. His taxi cost $5000 and he paid $100 into a business bank account. He did not keep any accounting records. On 31 December 2022, he had $1750 in the business bank account, his taxi was valued at $4000 and he owed $50 to the garage for repairs. During the year, he took $1600 out of the business bank account as drawings. What was the profit for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate profit/loss capital change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "A trader did not keep a complete set of accounts. He provided the following information for the year. What were the purchases for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate missing figures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "T Limited provided the following information. What was T Limited's return on capital employed?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Sabelo's liquid (acid test) ratio was higher on 1 January 2022 than it was on 31 December 2022. What could have caused this?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.2 Interpretation of accounting ratios",
+    "Sub_topic": [
+      "Compare results statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "The following ratios relate to the businesses of Ewa and Max. An accounting student made the following statements. Which statements are correct?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.2 Interpretation of accounting ratios",
+    "Sub_topic": [
+      "Compare results statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "A café owner made no entry in her accounts for increased competition when another café opened nearby. Which accounting principle was applied?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

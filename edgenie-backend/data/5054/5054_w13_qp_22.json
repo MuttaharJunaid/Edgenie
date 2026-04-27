@@ -1,0 +1,423 @@
+[
+  {
+    "QuestionNumber": "October/November/2013/Q1",
+    "Question_text": "A set of traffic lights hangs from the end of a metal cable. A horizontal chain pulls the traffic lights to the right so that they are above the middle of the road. Fig. 1.1 shows the metal cable inclined to the vertical. The weight of the traffic lights is 240 N.",
+    "image": "Fig. 1.1 shows a diagram of traffic lights. A metal cable is attached to the top of the traffic lights and extends vertically upwards. A horizontal chain pulls the traffic lights to the right from the side. The traffic lights are suspended, inclined to the vertical, with three circular lights arranged vertically. Labels include 'metal cable', 'horizontal chain', and 'traffic lights'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Mass & Weight",
+      "Scalars & Vectors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Two of the forces on the traffic lights are the tension in the horizontal chain and the weight of the traffic lights. On Fig. 1.1, mark an arrow that represents the tension in the horizontal chain,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "an arrow that represents the weight of the traffic lights.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The tension in the horizontal chain is 140N. Use a scale diagram to determine the size of the resultant of the weight and the tension in the chain. State the scale used for the diagram.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q2",
+    "Question_text": "Fig. 2.1 shows a boy moving a water container in a wheelbarrow. The container has a volume of 0.15m³ and is filled with water of density 1000kg/m³.",
+    "image": "Fig. 2.1 depicts a boy pushing a wheelbarrow containing a large cylindrical water container. The scene includes tents and trees in the background, suggesting an outdoor setting. A tap is also visible to the right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the mass of water in the container when it is full.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "It is harder to stop the wheelbarrow when the container is full than when it is empty. Explain this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q3",
+    "Question_text": "A farmer uses a hydraulic system to operate machinery that is pulled behind a tractor. Two cylinders and the flexible pipe that joins them contain oil. Two pistons keep the oil in the cylinders. The arrangement is shown in Fig. 3.1. The cross-sectional area of the smaller cylinder is 0.048 m². The cross-sectional area of the larger cylinder is 0.14m². The smaller piston exerts a force of 12000 N on the oil.",
+    "image": "Fig. 3.1 illustrates a hydraulic system with two connected cylinders of different sizes. A smaller piston is on the left, pushing oil through a flexible pipe to a larger piston on the right. Labels include 'smaller piston', 'smaller cylinder', 'flexible pipe', 'oil', 'larger piston', and 'larger cylinder'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the pressure in the oil,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the force exerted by the oil on the larger piston.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest why the resultant force on the larger piston is less than the value obtained in (a)(ii).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The smaller piston moves a distance of 0.065m into the cylinder. Calculate the work done on the oil by the smaller piston.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest one advantage of using oil rather than air in the system.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q4",
+    "Question_text": "A large test-tube contains wax above its melting point. It is placed in a cool room. Fig. 4.1 shows how the temperature T of the wax changes in a time of 30 minutes.",
+    "image": "Fig. 4.1 shows a temperature-time graph for wax cooling. The Y-axis is Temperature T/°C, ranging from 0 to 80. The X-axis is time/minutes, ranging from 0 to 30. The graph shows the temperature decreasing from above 70°C, then plateauing (remaining constant) between approximately 3 and 16 minutes at about 54°C, before continuing to decrease.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Particle Model",
+      "States of Matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine the melting point of the wax.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The test-tube contains 110g of wax that has a specific latent heat of fusion of 210J/g. Calculate the thermal energy transferred from the wax between 3 and 16 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what happens to the wax between 3 and 16 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Between 3 and 16 minutes, the temperature of the wax is above room temperature and energy is lost to the room. Explain, in terms of molecules, why the temperature of the wax remains constant.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q5",
+    "Question_text": "A physics textbook states that sound is a longitudinal pressure wave with a frequency within the audible range.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by a longitudinal wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the approximate range of audible frequencies. highest frequency: lowest frequency:",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The speed of sound in air is 330m/s. Using your answer in (i), calculate the shortest wavelength in air of sound in the audible range.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q6",
+    "Question_text": "At an airport, fuel is pumped through a pipe from a tanker to an aeroplane, as shown in Fig. 6.1. As it rubs against the pipe, the fuel becomes negatively charged and this charges the aeroplane.",
+    "image": "Fig. 6.1 shows an aeroplane being refuelled by a tanker truck via a pipe. The tanker is on the ground, connected by a hose labelled 'pipe' to the aeroplane's wing. The aeroplane itself is also labelled.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain, in terms of the particles involved, how the fuel becomes negatively charged.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest and explain one problem that can arise when an aeroplane becomes charged.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "To prevent an aeroplane becoming charged, a metal cable connects the aeroplane to the ground. Explain why the cable is made of metal,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "how the cable prevents the aeroplane becoming charged.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q7",
+    "Question_text": "An electric saw is rated at 1200W. When working on a job that lasts for four days, a workman uses the saw, on average, for 75 minutes each day. The cost of 1kWh of electrical energy is 21 cents.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power",
+      "Electrical Safety"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the cost of using the saw for this job.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The metal case of the electric saw is earthed. Explain how this protects the workman.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q8",
+    "Question_text": "A smoke detector containing an alpha-particle source is fixed to the ceiling in a room. The alpha-particles ionise the air between two metal plates so that a battery produces a current between the plates. If smoke enters the detector, it reduces the current between the plates and an alarm sounds. Fig. 8.1 shows the arrangement.",
+    "image": "Fig. 8.1 shows a cross-section of a smoke detector. It includes an alpha-particle source positioned above two metal plates. Ionised air is shown between the plates, connected to an alarm circuit. The entire assembly is depicted under a ceiling.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Detection of Radioactivity",
+      "Dangers of Radiation",
+      "Uses of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A technician removes the source from the smoke detector and measures the count rate of the source. Suggest two precautions that the technician should take when working with the source.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The technician measures the count rate, in counts/s, five times. On each occasion, the arrangement of the equipment is the same. The values obtained are: 81 77 80 83 and 79. Suggest why the values are different.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Radioactive sources that emit beta-particles or gamma-rays are not used in smoke detectors. State and explain two reasons for this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q9",
+    "Question_text": "Answer two questions from this section. Answer in the spaces provided. (a) State what is meant by the moment of a force. (b) The anchor of a sailing ship has a mass of 350kg. Six sailors raise the anchor from the sea-bed by turning a large axle. They push the handles attached to the axle and it rotates. The anchor is on the end of a chain that winds on to the rotating axle. Fig. 9.1 shows the sailors lifting the anchor. Each of the sailors exerts a force of 750N on his handle at a distance of 1.2m from the axis of rotation. The axle rotates through one complete revolution and the anchor is lifted through a distance of 160 cm. The gravitational field strength g is 10N/kg.",
+    "image": "Fig. 9.1 illustrates six sailors pushing handles around a central axle to raise an anchor. The handles are arranged radially around the axle. A chain is shown winding off the axle and leading 'to anchor'. The distance from the axis of rotation to the handles is marked as 1.2 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Work",
+      "Gravitational Potential Energy",
+      "Power",
+      "Efficiency",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by the moment of a force.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)1",
+        "part_text": "Calculate the total moment exerted on the axle by the six sailors,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)2",
+        "part_text": "the gravitational potential energy gained by the anchor as the axle rotates through one complete revolution.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The work done on the axle by the sailors is very much larger than the gravitational potential energy gained by the anchor. State and explain how energy is wasted.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain why the power produced by the sailors is larger when the anchor is lifted at a faster rate.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe, with the aid of a labelled diagram, how to verify the principle of moments.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q10",
+    "Question_text": "Fig. 10.1 shows an electric train of mass 5.5 × 10⁵ kg. The train is initially at rest. The electric motor exerts a constant force and the train accelerates. Its acceleration decreases until the train reaches a speed of 40m/s. The train then continues at this constant speed.",
+    "image": "Fig. 10.1 shows a modern electric train on tracks, with an overhead power line. The train is a multi-car unit, with distinct windows along its side.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Distance-Time Graphs",
+      "Newton's Second Law",
+      "Friction",
+      "Resultant Forces",
+      "Kinetic Energy",
+      "Efficiency",
+      "Energy Stores & Transfers",
+      "Energy from Fuels",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On the axes in Fig. 10.2, sketch a speed-time graph for the train.",
+        "image": "Fig. 10.2 shows empty axes for a speed-time graph. The Y-axis is labelled 'speed' and the X-axis is labelled 'time', both starting from zero. The user is expected to sketch a graph showing acceleration followed by constant speed."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the speed-time graph for the train is used to determine the distance travelled by the train when it is accelerating.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain, in terms of the forces acting, why the acceleration of the train decreases,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "why the train eventually reaches constant speed.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the kinetic energy of the train when it is travelling at a speed of 40m/s.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "As the train accelerates to 40m/s, electrical energy supplied to the motor is converted into kinetic energy of the train. The efficiency of this process is 0.40 (40%). Calculate the electrical energy supplied to the motor.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The electrical energy is generated in an oil-fired power station. Chemical energy in oil is converted into the electrical energy supplied to the motor. Suggest two places where energy is lost as heat in this process.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2013/Q11",
+    "Question_text": "A metal filament lamp is connected to a power supply. The electromotive force (e.m.f.) produced by the supply can be varied. Fig. 11.1 is the circuit diagram.",
+    "image": "Fig. 11.1 shows a simple circuit diagram. A variable power supply (indicated by a circle with a '+' and 'o' terminal, and an arrow through a box for variability) is connected to a metal filament lamp (represented by a circle with a cross inside). The positive terminal is labelled '+o', and the other terminal 'o'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Power",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by electromotive force (e.m.f.).",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Add appropriate circuit symbols to Fig. 11.1 to show the position of an ammeter that measures the current in the circuit,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "a voltmeter that measures the voltage across the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A student adds meters to the circuit and makes measurements of the current and voltage. He then plots the current/voltage graph shown in Fig. 11.2.",
+        "image": "Fig. 11.2 is a current-voltage graph. The Y-axis is current/A, ranging from 0 to 2.0. The X-axis is voltage/V, ranging from 0 to 12.0. The graph shows a curve starting from the origin and increasing with a decreasing gradient, indicating that resistance increases with voltage/current for the filament lamp."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Using values from Fig. 11.2, calculate the resistance of the lamp when the current is 0.70 A. Give your answer to an appropriate number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State what, if anything, happens to the resistance of the lamp as the voltage increases.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "In normal use, the lamp is connected to a 12V supply. Use Fig. 11.2 to determine the power of the lamp when it is used in this way.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "When connected to a 12V supply, thermionic emission occurs in the lamp. Describe what is meant by thermionic emission.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)1",
+        "part_text": "Thermionic emission is used in a cathode-ray oscilloscope (c.r.o.) tube. State why air must be removed from the tube of the c.r.o.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)2",
+        "part_text": "A voltage is connected across the Y-plates in the c.r.o. State and explain the effect on the trace on the screen.",
+        "image": null
+      }
+    ]
+  }
+]

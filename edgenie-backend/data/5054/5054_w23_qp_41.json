@@ -1,0 +1,204 @@
+[
+  {
+    "QuestionNumber": "October/November/2023/Q1",
+    "Question_text": "A student determines the speed of a wavefront on the surface of water. The student fills a plate with water and uses a dropping pipette to let one drop of water fall into the centre of the plate as shown in Fig. 1.1. The wavefront that is produced travels outwards to the rim of the plate and then reflects back to the centre.",
+    "image": "Fig. 1.1 shows a cross-sectional view of a shallow, wide, circular plate filled with water. A dropping pipette is positioned vertically above the center of the water surface, from which a single water drop is shown just about to fall onto the water. Concentric circular lines, labeled 'wavefront', are depicted spreading outwards from the point of impact on the water surface. The components are labeled: 'dropping pipette', 'water drop', 'water', 'wavefront', and 'plate'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Measurement",
+      "Speed & Velocity",
+      "Features of Waves",
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.2 shows a scale marked on the side of the dropping pipette. Describe the technique the student uses to put 1.0cm³ of water into the dropping pipette.",
+        "image": "Fig. 1.2 shows a close-up side view of a section of a dropping pipette. A clear plastic body is visible with a volume scale marked on its side. The scale shows markings for 0.5, 1.0, 1.5, and 2.0 cm³, with smaller subdivisions indicating 0.1 cm³ increments. The overall shape suggests a standard laboratory pipette used for dispensing liquids."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student observes the wavefront travel outwards from the centre of the plate and then reflect from the rim back to the centre. Fig. 1.3 is a side view of the wavefront as it spreads out across the diameter D of the plate.",
+        "image": "Fig. 1.3 shows a cross-sectional side view of the circular plate from Fig. 1.1, with water inside. A curved line represents the 'wavefront' spreading across the water surface. The total horizontal distance across the water surface, from one rim to the other, is labeled 'D'. The diagram indicates that it is a 'plate' containing the wavefront. The caption specifies 'Fig. 1.3 (drawn to a scale of 1:2)'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student uses a stop-watch to measure the time t taken for the wavefront to travel outwards from the centre of the plate and then back to the centre. Fig. 1.4 shows three readings for time t. Use the stop-watch readings in Fig. 1.4 to determine an accurate value for t. Show your working and give your answer to a suitable number of significant figures.",
+        "image": "Fig. 1.4 displays three digital stop-watch screens, each showing a time reading. The first stop-watch reads '00:01.12', the second reads '00:01.17', and the third reads '00:01.02'. These represent three separate measurements for time t in minutes, seconds, and hundredths of a second."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The speed of the wavefront can be calculated using the equation: speed = distance / time Fig. 1.3 is drawn to a scale of 1:2. It is half the size of the plate used in the experiment. Calculate the speed of the wavefront using your answer from (b)(i) and a measurement taken from Fig. 1.3.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Identify two causes of uncertainty in this experiment.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest one improvement that could be made to this experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q2",
+    "Question_text": "A student investigates the resistance of a resistance wire. The circuit used is shown in Fig. 2.1.",
+    "image": "Fig. 2.1 displays a circuit diagram for investigating the resistance of a wire. It includes a power supply (represented by a battery symbol with positive and negative terminals) connected in series with a 10 Ω resistor and a resistance wire. A voltmeter (labeled 'V') is connected in parallel across a segment of the resistance wire. A 'flying lead' with a 'crocodile clip' is shown, indicating that the voltmeter can be connected to different points along the resistance wire. The resistance wire is positioned parallel to a 'metre rule' marked from 0 cm to 100.0 cm, allowing for precise measurement of the length of wire included in the voltmeter circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Measurement",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 2.2 shows the voltmeter when the flying lead is connected to the resistance wire at the 100.0 cm mark on the rule and the switch closed.",
+        "image": "Fig. 2.2 shows an analogue voltmeter with a circular scale ranging from 0 to 5 V. The scale is divided into 10 major divisions, with each major division further subdivided into 5 smaller increments. The needle is pointing between the 2 V and 3 V marks, specifically at 2.6 V, indicating a voltage reading."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Read the voltage shown in Fig. 2.2 and record the reading in Table 2.1 on page 6.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the current I for each length L shown in Table 2.1 using the equation I = V/10. Record your answers in Table 2.1. Calculate values of 1/I for each length L shown in Table 2.1 and record your answers in Table 2.1. Write the units in the top row of the table.",
+        "image": "Table 2.1 is presented with four columns: 'L', 'V', 'I', and '1/I'. The 'L' column contains lengths in cm (100.0, 80.0, 60.0, 40.0, 20.0). The 'V' column contains corresponding voltage readings in V (blank for 100.0, then 2.00, 2.30, 2.70, 3.20). The 'I' and '1/I' columns are empty, designated for calculated values and units."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On the grid on page 7, plot a graph of 1/I on the y-axis against L on the x-axis. Start both axes at the origin (0,0).",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Draw the straight line of best fit. Extend this line to intercept the y-axis.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Determine the gradient G and y-intercept c of this line. Show clearly on the graph the values you choose and show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Theory suggests that: R_W = 1000 G / c where R_W is the resistance of the wire. Use your answers in (b)(iii) to determine R_W. Show your working.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q3",
+    "Question_text": "A student investigates the indentation made by a glass ball in the surface of modelling clay.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Measurement",
+      "Mass & Weight",
+      "Forces",
+      "Newton's Second Law",
+      "Moments",
+      "Pressure & Forces",
+      "Investigating Force & Extension"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe briefly how to use the apparatus in Fig. 3.1 to determine the diameter of the glass ball. Draw a labelled diagram of the arranged apparatus to help your explanation.",
+        "image": "Fig. 3.1 shows various pieces of laboratory apparatus: a spherical 'glass ball', a 'set square' (a right-angled triangular ruler), a 'metre rule' (a long straight ruler), '100 g masses' (small cylindrical weights), and 'adhesive putty'. The items are depicted separately, suggesting they need to be arranged for the experiment."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student uses the glass ball to make an indentation in a piece of modelling clay. Fig. 3.2 shows the apparatus used. A 300 g mass with weight F₁ = 3.0N is placed on a wooden strip directly above the glass ball. The mass is left in place for one minute and then removed.",
+        "image": "Fig. 3.2 illustrates an experimental setup on a 'bench'. A 'stand' with a 'clamp' holds one end of a 'wooden strip' horizontally. A 'G-clamp' secures the other end of the wooden strip to the bench. A 'glass ball' rests on a piece of 'modelling clay', which is placed on the bench underneath the wooden strip. A '300 g mass' is positioned on top of the wooden strip, directly above the glass ball, applying a downward force."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student repeats the experiment with the ball on a different part of the clay and the 300 g mass hanging at the end of the wooden strip as shown in Fig. 3.3. The lengths x and y in Fig. 3.3 are shown to a scale of 1:5. The actual lengths X and Y are five times larger. Measure x and y on Fig. 3.3.",
+        "image": "Fig. 3.3 shows a modified version of the setup from Fig. 3.2, depicting a 'clamp' securing one end of a wooden strip. The 'glass ball' and 'modelling clay' are positioned under the wooden strip at an intermediate point. A '300 g mass' is hanging from a string attached to the free end of the wooden strip. The horizontal distance from the clamp to the point where the glass ball presses on the strip is labeled 'x'. The horizontal distance from the clamp to the point where the 300 g mass is hanging is labeled 'y'. The caption states 'Fig. 3.3 (drawn to a scale of 1:5)'."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the actual lengths X and Y in metres to the nearest mm.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the force F₂, exerted on the clay by the ball, using the equation: F₂ = 3Y / X Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When the ball presses into the surface of the clay, it makes a small circular mark. This mark is called an indentation. Fig. 3.4 shows the indentations made by the glass ball in the surface of the clay. The indentations are drawn full size. The smaller indentation is made by the mass positioned as shown in Fig. 3.2. The larger indentation is made by the mass positioned as shown in Fig. 3.3. Measure and record the diameter of the smaller indentation d₁ and the diameter of the larger indentation d₂.",
+        "image": "Fig. 3.4 shows a flat surface labeled 'modelling clay' with two distinct circular indentations. One is clearly labeled 'smaller indentation' and the other 'larger indentation'. Both circles are drawn solid. The caption indicates 'Fig. 3.4 (drawn full size)'."
+      },
+      {
+        "part_label": "d",
+        "part_text": "The graph in Fig. 3.5 shows the relationship between the diameter of the indentation and the surface area of the modelling clay inside the indentation for this glass ball.",
+        "image": "Fig. 3.5 is a Cartesian graph. The y-axis is labeled 'surface area of indentation /mm²' and ranges from 0.0 to 160.0. The x-axis is labeled 'diameter of indentation /mm' and ranges from 0 to 14. Several data points are plotted, showing an upward-curving trend, suggesting a non-linear relationship between diameter and surface area. Some existing points are visible, like at (2, ~5), (4, ~20), (6, ~60), etc."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "On Fig. 3.5, plot the data shown in Table 3.1.",
+        "image": "Table 3.1 is a two-column table. The first column is 'diameter of indentation /mm' and contains values 10 and 12. The second column is 'surface area of indentation /mm²' and contains values 90.0 and 141.3, respectively."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "On Fig. 3.5, draw the best-fit curve.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Use Fig. 3.5 to determine the surface areas A₁ and A₂ of the modelling clay inside the indentations with diameters d₁ and d₂ recorded in (c). Show on your graph how you arrive at your answers.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Another student claims that: A₂ = kA₁ and F₂ = kF₁ where k is a constant, F₁ = 3.0N and F₂ is your answer to (b)(iii).",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Using your values of F₂, A₁ and A₂ from (b)(iii), and (d)(iii), calculate two values of k. Record your answers to a suitable number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Values of k are assumed to be the same within the limits of experimental accuracy if they are within 10% of each other. Explain whether these results show that the student's claim is correct.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Students in another laboratory obtain different values of A₁ and A₂ using the same arrangement of the apparatus. Identify two variables that should be controlled to ensure similar values of A₁ and A₂ when using modelling clay.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q4",
+    "Question_text": "A student investigates the factors affecting the bend angle θ of a metal strip. The student places a thin, straight metal strip on two supports and attaches a mass of weight W to the middle of the strip. The metal strip bends as shown in Fig. 4.1. Plan an experiment to investigate one variable affecting θ. In your plan, you should: • explain briefly how to carry out the investigation, including how you will measure θ • state the variables to control • draw a table, or tables, with column headings, to show how to display your readings (you are not required to enter any readings in the table) • explain how to use your readings to reach a conclusion. You may draw a diagram if you think this will help your plan.",
+    "image": "Fig. 4.1 illustrates a laboratory setup. A 'metal strip' is laid horizontally across two vertical 'supports'. A 'mass of weight W' is suspended from the exact middle of the metal strip, causing it to bend downwards into a gentle curve. The 'bend angle θ' is indicated at the point of suspension, showing the angular deformation. The horizontal distance between the two supports is labeled 'D'. A smaller distance 'd' is also marked from one support to the point of suspension, implying d=D/2. The entire setup rests on a 'stand'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Measurement",
+      "Forces",
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Physical Quantites & Measurement Techniques"
+    ],
+    "Parts": []
+  }
+]

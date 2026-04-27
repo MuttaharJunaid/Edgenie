@@ -1,0 +1,475 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "The table shows the distances 10 people drive to work and the times they take. On the grid, complete the scatter diagram to show this information.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw and interpret scatter diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "What type of correlation does the scatter diagram show?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Understand positive, negative and zero correlation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "One of these 10 people is selected at random. Find the probability that this person drove less than 30km to work.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Ateeq drives 48 km to work. By drawing a line of best fit on the scatter diagram, estimate the time Ateeq takes to travel to work.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "The table summarises the times taken by the 120 employees in a company to travel to work. Write down the modal class.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Identify modal class from grouped frequency distribution"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Calculate an estimate of the mean time.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate estimate of mean for grouped discrete or continuous data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Work out the percentage of employees who took more than 1 hour to travel to work.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Maryam works in the shop. She works for 5 days each week from 10am until 6.30pm. She has a break of 45 minutes each day. She is paid $10.20 for each hour she works but she is not paid for her breaks. Work out how much Maryam earns for one week's work.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Dina buys 25 dresses from a manufacturer. She pays a total of $400 for these dresses. She sells all the dresses for $19.80 each. Calculate her percentage profit.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Dina sells a shirt for $15.66. The price includes 8% sales tax. Calculate the cost of the shirt excluding sales tax.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate reverse percentages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "Dina is saving to make improvements to her shop. She invests $3500 for 4 years at 1.7% per year compound interest. Calculate the value of Dina's investment after 4 years.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate compound interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "The diagram shows a triangular field ABC. AB = 95 m, BC = 132m and AC = 174 m. Show that BÂC = 48.6°, correct to 1 decimal place.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "The field is sown with flower seeds. Each square metre of the field is sown with 3 grams of seed. The seed costs $8.50 for 100 grams. Calculate the cost of the flower seed needed for the field.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Complete the Venn diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "State n(AUB).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "Describe in words the set A∩B'.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "30 people are asked what type of fruit they like. By drawing a Venn diagram, or otherwise, find the number of people who like bananas but not oranges.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Two of the 30 people are selected at random. Find the probability that they both like oranges but not bananas.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "Complete the table for y = (6 + 2x - x²).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Draw the graph of y = (6+2x-x²) for-3 ≤ x ≤ 4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7c",
+    "Question_text": "By drawing a tangent, estimate the gradient of y = (6+2x-x²) at (-2, 0.8).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7d",
+    "Question_text": "Use your graph to solve the equation x(6 + 2x – x²) = 10.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "A, B, C and D are points on the circle centre O. TA and TC are tangents to the circle. TDOB is a straight line. ATO = x°. Show that triangle OAT is congruent to triangle OCT. Give a reason for each statement you make.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Find, in terms of x, giving your answers as simply as possible (i) AỘT, (ii) OAB,",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "The radius of the circle is 6 cm. Given that x = 35°, work out BT.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Find the position vector, OB, of point B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use position vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Find AB.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.3 Magnitude of a vector",
+    "Sub_topic": [
+      "Calculate magnitude of vector as sqrt(x² + y²)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9c",
+    "Question_text": "Given that AB = 3CB, find the coordinates of point C.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "Line L is parallel to AB and passes through the point (–2, 5). Find the equation of line L.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.6 Parallel lines",
+    "Sub_topic": [
+      "Find the gradient and equation of a straight line parallel to a given line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "Line M is perpendicular to line L and passes through the origin. Find the equation of line M.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.7 Perpendicular lines",
+    "Sub_topic": [
+      "Find the gradient and equation of a straight line perpendicular to a given line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "If n represents the number in the top of the rectangle, complete the rectangle with expressions, in terms of n, for the other two numbers.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "Omar multiplies the top number in the rectangle by the bottom number. He then squares the middle number in the rectangle. He finds the difference between these two results. Using your answers to part (a), show that this difference is always 25.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Expand products of algebraic expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11c",
+    "Question_text": "Lena places a rectangle on the grid. She adds the three numbers in her rectangle. The sum of the three numbers is 174. Find the largest number in Lena's rectangle.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "Show that the volume of lamp A is 650 cm³, correct to 3 significant figures.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Calculate the curved surface area of lamp A.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13a",
+    "Question_text": "Lamp B is mathematically similar to lamp A. The volume of lamp B is 450 cm³. Calculate the total height of lamp B.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13b",
+    "Question_text": "The mass of lamp C is 340g, correct to the nearest 10g. 8 of these lamps are placed in a packing case. The total mass of the packing case and the 8 lamps is 4.2kg, correct to the nearest 0.1 kg. Calculate the upper bound of the mass of the packing case when empty.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14a",
+    "Question_text": "The diagram shows a prism with a rectangular base of length 15 cm and width x cm. The cross section of the prism is a right-angled triangle. Show that 3x² - 12x - 176 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14b",
+    "Question_text": "Solve the equation 3x² - 12x – 176 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14c",
+    "Question_text": "Find the height of the prism.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "A line is drawn on the surface of the prism from B to F. Another line is drawn on the surface of the prism from A to F. Calculate angle AFB.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.4 Pythagoras’ theorem and trigonometry in 3D",
+    "Sub_topic": [
+      "Carry out calculations and solve problems in three dimensions using Pythagoras’ theorem and trigonometry, including angle between line and plane"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16a",
+    "Question_text": "Express as a single fraction in its simplest form",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Manipulate algebraic fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b",
+    "Question_text": "Simplify",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  }
+]

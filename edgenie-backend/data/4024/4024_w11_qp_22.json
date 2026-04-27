@@ -1,0 +1,527 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q1",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby",
+      "Solve fractional equations with numerical and linear algebraic denominators",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A = h(4m + h) Express m in terms of A and h.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Factorise completely 3ax + 5bx – 6ay –10by .",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Solve the equation (5x-1)/9 = 9/(5x-1)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q2",
+    "Question_text": "The diagram shows four points, A, B, P and Q, at sea. B is due South of A and P is due East of A. AP = 3.73 km, BP = 5.47 km, AQ = 5.32km and PÂQ = 25°.",
+    "image": "A diagram showing four points A, B, P, and Q. Point B is directly below A (South). Point P is directly to the right of A (East). AP is 3.73 km, BP is 5.47 km. A line segment AQ has length 5.32 km and forms an angle of 25 degrees with AP. There is a North arrow pointing upwards from A. The points form a general quadrilateral AQP B.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Use and interpret three-figure bearings",
+      "Carry out calculations involving angles of elevation and depression"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate AВР.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate PQ.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A boat sailed in a straight line from Q to A. Find the bearing of A from Q.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A lighthouse is situated at A. The top of the lighthouse is 30m above sea level. Calculate the angle of depression of the boat from the top of the lighthouse when the boat is 100 m from A.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q3",
+    "Question_text": "",
+    "image": "Diagram I shows a large circle containing five identical small circles. Four of the small circles are arranged symmetrically around the center, with their centers forming a square/diamond shape. The fifth small circle is at the very center. Radii from the large circle's center are shown touching the small circles. A shaded region is shown as a segment of the large circle between two small circles.",
+    "Unit": "Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving circumference and area of a circle",
+      "Recognise line symmetry and order of rotational symmetry in two dimensions",
+      "Give ratios simply",
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Know and use angle properties of regular and irregular polygons",
+      "Use and interpret vocabulary of a circle"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe the symmetry of the diagram.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The radius of the large circle is R centimetres and the radius of each small circle is r centimetres. Each small circle is equal in area to the shaded region. Find R2: r2.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Diagram II shows the same large circle and arcs of the same small circles as in Diagram I. C is the centre of one of the small circles. This circle touches the adjacent circles at A and B. O is the centre of the large circle. Show that reflex ACB = 252°.",
+        "image": "Diagram II shows a large circle with four small circles arranged symmetrically inside it. The center of the large circle is O. One of the small circles has its center labeled C. This small circle touches two adjacent small circles at points A and B respectively. The arc ACB is highlighted, indicating an angle at the center C formed by the points A, C, and B. The small circles have a radius 'r'."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The perimeter of the shaded region is kπr centimetres. Calculate the value of k.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change",
+      "Calculate percentage of quantity",
+      "Calculate reverse percentages",
+      "Construct, solve and interpret linear inequalities",
+      "Convert currencies",
+      "Apply other rates"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)(a)",
+        "part_text": "A shopkeeper buys some plates from a manufacturer for $10 each. The shopkeeper sells a plate for $12. Calculate the percentage profit.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)(b)",
+        "part_text": "The shopkeeper buys 240 plates and sells 180 at $12 each. The rest were sold to a café for a total of $540. Calculate the percentage discount given to the café.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The manufacturer made a profit of 60% when he sold each plate for $10. Calculate the cost of manufacturing each plate.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Another shopkeeper bought 100 pans at $5 each. He sold 63 at $6 each and x at $4 each. He did not sell all the pans nor enough to make an overall profit. Form an inequality in x.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Hence find the greatest possible number of pans that were sold.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "One day, the rate of exchange between American dollars ($) and British pounds (£) was $1.45 = £1. Alan changed £300 into dollars. Calculate how many dollars he received.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On the same day, the rate of exchange between South African rands (R) and pounds was R10.44 = £1. Calculate the number of rands received in exchange for one dollar.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q5",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns",
+      "Recognise, describe and draw reflection of shape in straight line"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find x and y. ( (3 -1) * (x) = (4) ) ( (1 0) * (y) = (9) )",
+        "image": null
+      },
+      {
+        "part_label": "b(i)(a)",
+        "part_text": "The transformation A is represented by the matrix ( (a b) / (c d) ). Find, in terms of a, b, c and d as appropriate, the image of (1, 0) under the transformation A,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)(b)",
+        "part_text": "the image of (0, 1) under the transformation A.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The transformation B maps (1, 0) onto (1, 3) and (0, 1) onto (-3, -2). Write down the matrix that represents transformation B.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Describe fully the transformation given by the matrix ( (1 0) / (0 -1) ).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q6",
+    "Question_text": "You may use the graph paper on the next page to help answer this question. The point A is (0, 7), and the point B is (6, 9).",
+    "image": null,
+    "Unit": "Coordinate geometry",
+    "Topic": "3.3 Gradient of linear graphs",
+    "Sub_topic": [
+      "Describe translation using vector",
+      "Calculate the gradient of a straight line from the coordinates of two points on it",
+      "Interpret and obtain the equation of a straight-line graph",
+      "Find the coordinates of the midpoint of a line segment",
+      "Calculate the length of a line segment",
+      "Use and interpret Cartesian coordinates in two dimensions",
+      "Find the gradient and equation of a straight line parallel to a given line",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express AB as a column vector.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the gradient of AB.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The equation of the line AB is x + Py + Q = 0 . Find P and Q.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The point C is (12, 2). Given that C is the midpoint of BM, find the coordinates of M.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Calculate AC.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)(a)",
+        "part_text": "The point D lies on the line AB. The line CD is parallel to the y-axis. Find the coordinates of D.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)(b)",
+        "part_text": "Express AD in terms of AB .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q7",
+    "Question_text": "In Diagram I, ABC is an equilateral triangle of side 8 cm. D and E are the midpoints of AC and BC respectively. BD and AE intersect at F.",
+    "image": "Diagram I shows an equilateral triangle ABC. D is the midpoint of AC, and E is the midpoint of BC. Line segments BD and AE are drawn, intersecting at F. The side length of the triangle is marked as 8 cm.",
+    "Unit": "Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Use area of triangle formula (1/2 ab sin C)",
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)",
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Know and use Pythagoras’ theorem",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find the area of triangle ABC.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Show that AFB = 120°.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate AF.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "[The volume of a pyramid = 1/3 × base area × height] The equilateral triangle of side 8 cm in Diagram I forms the base of the triangular pyramid VABC in Diagram II. The vertex V is vertically above F. VA = VB = VC = 8 cm. Calculate the surface area of the pyramid.",
+        "image": "Diagram II shows a triangular pyramid VABC. The base ABC is an equilateral triangle. F is marked as the center of the base, and V is directly above F. The edges VA, VB, VC are all 8 cm."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the volume of the pyramid.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A pyramid P is geometrically similar to VABC and its volume is 1/64 of the volume of VABC. Find the length of an edge of P.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A pyramid that is identical to P is removed from each of the four vertices of VABC. State the number of faces of the new solid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q8",
+    "Question_text": "Two companies, A and B, were started 10 years ago. Initial investments of $25 or multiples of $25 could be made when Company A started business.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Use proportional reasoning",
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Substitute numbers into expressions and formulas",
+      "Draw straight-line graphs for linear equations",
+      "Estimate gradients of curves by drawing tangents",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Find the gradient of a straight line"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The table shows the value of an initial investment of $25 at the end of each of the next 10 years. (table provided) Calculate the value of an initial investment of $500 after 8 years.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On the grid, plot the points given in the table and join them with a smooth curve.",
+        "image": "An empty Cartesian coordinate grid with x-axis from 0 to 10 years and y-axis from 0 to 80 dollars, with major grid lines at intervals of 2 for x and 10 for y. This grid is intended for plotting the investment value against years for Company A."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Using your graph, find x when the value of an initial investment of $100 had increased to $168.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "An initial investment of $25 was made when company B started business. The value, y dollars, after x years, is given by the equation y = 3.75x + 25. Calculate the value of an initial investment of $500 after 8 years.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On the grid, draw the graph of y = 3.75x + 25.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using your graphs, find the value of x when an initial investment of $25 had increased to the same value in each company.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "By drawing a tangent to the graph representing an investment in company A, find the rate of increase of this investment when x = 7.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State the rate of increase of an investment in company B.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "By drawing another tangent to the graph representing an investment in company A, find the value of x when the rates of increase of investments in each company were the same.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q9",
+    "Question_text": "",
+    "image": "Diagram I: A square ABCD. P is the midpoint of AD. Q is the midpoint of AB. Line segments BP and QC are drawn.",
+    "Unit": "Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids",
+      "Solve problems and give simple explanations involving similarity",
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)",
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor",
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor",
+      "Calculate lengths of similar shapes",
+      "Know and use Pythagoras’ theorem",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In Diagram I, ABCD is a square. P and Q are the midpoints of AD and AB respectively. Show that triangles APB and BQC are congruent.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In Diagram II, QC and PB intersect at M. Show that BMC = 90°. State your reasons clearly.",
+        "image": "Diagram II: A square ABCD. P is the midpoint of AD, and Q is the midpoint of AB. Line segments BP and QC are drawn, intersecting at M."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In Diagram III, the circle centre Q has diameter AB. The circle intersects BP at N. State the reason why AÑB = 90°.",
+        "image": "Diagram III: A square ABCD. P is the midpoint of AD. Q is the midpoint of AB. A circle is drawn with center Q and diameter AB. This circle intersects the line segment BP at point N. The square is also shown."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Triangle BMQ is mapped onto triangle BNA by an enlargement. Write down the centre and scale factor of the enlargement.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)(a)",
+        "part_text": "Given that QM = 3 cm, find AN,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)(b)",
+        "part_text": "show that MN = 6cm,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)(c)",
+        "part_text": "find MC,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)(d)",
+        "part_text": "find the area of triangle APB.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q10",
+    "Question_text": "A piece of wire, 28 cm in length, is cut into two parts. One part is used to make a rectangle and the other a square. The length of the rectangle is three times its width. The width of the rectangle is x centimetres.",
+    "image": "Two empty rectangular boxes, one labeled 'x' representing the width of the rectangle, and the other implicitly representing the square.",
+    "Unit": "Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Simplify expressions by collecting like terms",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Round answers reasonably"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Write down an expression, in terms of x, for the length of the rectangle.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find, and simplify, an expression, in terms of x, for the length of a side of the square.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "It is given that the area of the rectangle is equal to the area of the square. Form an equation in x and show that it reduces to x2 – 28x + 49 = 0 .",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Solve the equation x2 – 28x + 49 = 0, giving each solution correct to 3 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Which solution represents the width of the rectangle? Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Calculate the area of the square.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2011/Q11",
+    "Question_text": "A sports club has 120 members. The cumulative frequency table for their ages is shown below. (table provided)",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams",
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On the grid on the next page draw a horizontal x-axis for 0 ≤ x ≤ 70, using a scale of 2 cm to represent 10 years and a vertical axis from 0 to 120, using a scale of 2 cm to represent 20 members. On your axes draw a smooth cumulative frequency curve to illustrate the information in the table.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find the upper quartile age.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Find the interquartile range of the ages.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Members who are not more than 15, and members who are over 50, pay reduced fees. Use your graph to find an estimate of the number of members who pay reduced fees.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A bag contains 12 discs. There are 8 blue and 4 red discs. A disc is picked out at random and not replaced. A second disc is then picked out at random and not replaced. The tree diagram below shows the possible outcomes and one of their probabilities. Complete the tree diagram.",
+        "image": "A partially completed tree diagram showing two levels of selection for picking discs from a bag. The first selection branches into 'Blue' and 'Red' outcomes. The 'Red' branch shows 4/12 as its probability. The second selection branches again into 'Blue' and 'Red' from each of the first outcomes. One probability (3/11) is shown for picking 'Red' after 'Red'."
+      },
+      {
+        "part_label": "b(ii)(a)",
+        "part_text": "Expressing each of your answers as a fraction in its lowest terms, calculate the probability that both discs are red,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(b)",
+        "part_text": "at least one disc is blue.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "A third disc is picked out at random. Calculate the probability that all three discs are red.",
+        "image": null
+      }
+    ]
+  }
+]

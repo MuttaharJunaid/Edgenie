@@ -1,0 +1,267 @@
+[
+  {
+    "QuestionNumber": "1a(i)",
+    "Question_text": "Describe the appearance of zinc.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(ii)",
+    "Question_text": "Zinc oxide can be made from zinc by heating in air. Construct the equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox reactions definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(iii)",
+    "Question_text": "Which compound may be used to convert zinc oxide into zinc nitrate?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b(i)",
+    "Question_text": "Suggest why the heating is done in a fume cupboard.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Equilibrium in closed system"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b(ii)",
+    "Question_text": "Calculate the number of moles of zinc nitrate in 3.78 g of zinc nitrate.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b(iii)",
+    "Question_text": "Using the equation for the reaction and your answer to (b)(ii) calculate the volume of each gas produced when 3.78 g of zinc nitrate is heated.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "The general formula of a carboxylic acid is CnH2n+1COOH G is a carboxylic acid and has a relative formula mass of 88. Deduce the value of n in the formula and hence name compound G.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "General formulae"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "When magnesium reacts with G, a gas is formed. Name the gas and give a test and observation to identify this gas.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Reactions with water, steam and acid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Ethyl ethanoate has the same molecular formula as G.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural isomers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "With which piece of apparatus should a safety bulb be used?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Concentrated aqueous sodium chloride is electrolysed using carbon electrodes. Which of the following is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Metal A displaces metal B from a solution of its ions. Metal B displaces metal C from a solution of its ions. What could A, B and C be?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A student adds solid zinc powder to a beaker containing aqueous copper(II) sulfate. Which of the following observations are correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Relative reactivities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "A student is asked to make 250 cm³ of 0.20 mol/dm³ sodium hydroxide. What is the mass of sodium hydroxide required?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "How can the student confirm that all the ammonia has evolved?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "What is the colour of the solution in the conical flask before hydrochloric acid is added, at the end-point?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Effects on indicators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "The student does three titrations. The diagrams show parts of the burette with the liquid levels at the beginning and end of each titration. Use the diagrams to complete the following table. Tick the best titration results. Using these results, the average volume of hydrochloric acid is...",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "Calculate the number of moles of hydrochloric acid in the average volume of 0.100mol/dm³ hydrochloric acid in (c).",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8e",
+    "Question_text": "Using the equation HCl + NaOH → NaCl + H₂O deduce the number of moles of sodium hydroxide in 25.0cm³ of T.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8f",
+    "Question_text": "Calculate the number of moles of sodium hydroxide in 50cm³ of 2.00mol/dm³ sodium hydroxide.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8g",
+    "Question_text": "By subtracting your answer to (e)(ii) from your answer to (f) calculate the number of moles of sodium hydroxide which reacts with 25.0cm³ of R.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8h",
+    "Question_text": "When 1 mole of sodium hydroxide reacts with ammonium sulfate, 17g of ammonia are produced. Calculate",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "The following table shows the tests a student does on compound M and the conclusions made from observations. Complete the table by giving the observations in tests (a), (b) and (c) and suggest both the test and observation that lead to the conclusion in test (d).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "A student investigates the solubility of two salts, ammonium chloride and potassium nitrate. He uses the apparatus shown.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Solubility rules"
+    ],
+    "Parts": []
+  }
+]

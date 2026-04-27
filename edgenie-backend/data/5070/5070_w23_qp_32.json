@@ -1,0 +1,167 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Record initial and highest temperatures and calculate temperature rise in 6 experiments. Rinse and fill a burette with Q. Place the plastic cup into a beaker. Use a volumetric pipette to add 25.0 cm³ of P to the plastic cup. Use a measuring cylinder to add 20 cm³ of water to the plastic cup. Stir the mixture in the cup with the thermometer and measure its temperature to the nearest 0.5°C. Record this initial temperature in column E of Table 1.1. Use the burette to add 5.0 cm³ of Q to the plastic cup whilst stirring. Measure the highest temperature reached. Record this value in column F of Table 1.1. Empty the plastic cup and rinse it with water.Repeat Experiment 1 using the volumes of water and Q shown in columns C and D of the table. Refill the burette as necessary.Calculate the temperature rise for each of Experiments 1–6 and record them in column G of Table 1.1.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions",
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Draw a graph of temperature rise against volume of Q on the grid in Fig 1.1. You should: plot the point (0,0) as there is no temperature rise when no Q is added plot temperature rise (column G) against volume of Q (column D) from Experiments 1–6 draw a straight line of best fit for the first four points draw a straight line of best fit for the last three points extend the lines so that they intersect.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "The point where the two lines intersect indicates the volume of Q that exactly neutralises 25.0 cm³ of P. Determine the volume of Q where the two lines on the graph intersect.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction",
+      "Neutralisation equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "P is 1.25 mol/dm³ aqueous sodium hydroxide. Use your answer to (c) to calculate the concentration of sulfuric acid in Q.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations",
+      "Concentration measurement",
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "Describe and explain what happens to the gradient of the straight line for the first four points on the graph if a metal cup is used instead of a plastic cup.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1f",
+    "Question_text": "A burette may be used instead of a measuring cylinder to measure the volume of water in these experiments. Suggest how this improves the experiments.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Put the sample of Y in a boiling tube and use a measuring cylinder to add 8 cm³ of dilute nitric acid. Record your observations. Test the gas given off. Describe the test and its result. Identify the gas. Keep the mixture for use in (b) and (c).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Use a measuring cylinder to transfer 2cm³ of the mixture from (a) into a boiling tube. Add aqueous sodium hydroxide drop by drop until a change is seen. Then add more aqueous sodium hydroxide until a further change is seen. Record your observations.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Use a measuring cylinder to transfer 2cm³ of the mixture from (a) into a boiling tube. Add aqueous ammonia drop by drop until a change is seen. Then add more aqueous ammonia until a further change is seen. Record your observations.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Identify the cation and the anion in Y.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e",
+    "Question_text": "Put 1 cm depth of Z into a boiling tube. Add 1 cm depth of aqueous sodium hydroxide. Gently warm the mixture. Test the gas given off. Describe the test and its result. Identify the gas. Keep the mixture for use in (f).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2f",
+    "Question_text": "Add 3 cm depth of dilute nitric acid to the mixture from (e). Then add 1 cm depth of aqueous silver nitrate. Record your observations.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2g",
+    "Question_text": "Identify the cation and the anion in Z.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Plan an experiment to prepare pure dry crystals of copper(II) sulfate. Your plan should include the use of: common laboratory apparatusdilute sulfuric acidsolid copper(II) oxide.No other chemicals should be used. Your plan should include:the apparatus neededthe method to use.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts",
+      "Hydrated and anhydrous substances",
+      "Water of crystallisation"
+    ],
+    "Parts": []
+  }
+]

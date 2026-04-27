@@ -1,0 +1,409 @@
+[
+  {
+    "QuestionNumber": "1(a)",
+    "Question_text": "Evaluate (2.05 + 1.4) × 0.2",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1(b)",
+    "Question_text": "Evaluate 1 1/5 - 4/3",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(a)",
+    "Question_text": "Complete this description: A rectangle has rotational symmetry of order ... and ... lines of symmetry.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2(b)",
+    "Question_text": "Shade 4 more small squares in the shape below to make a pattern with rotational symmetry of order 4.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(a)",
+    "Question_text": "Use this information to draw a conversion graph between pounds and dollars on the grid below.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3(b)",
+    "Question_text": "Use your graph to convert $64 to pounds.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Complete the table",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Convert between forms",
+      "Recognize equivalence"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(a)",
+    "Question_text": "Find the difference between the maximum and minimum temperatures on 1 March.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5(b)",
+    "Question_text": "The minimum temperature, T °C, on 1 February was 13 degrees lower than the minimum temperature on 1 March. Find T.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(a)",
+    "Question_text": "Express 96 as a product of its prime factors.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify prime numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6(b)",
+    "Question_text": "24 is a common factor of 96 and the integer n. Given that n is less than 96, find the largest possible value of n.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(a)",
+    "Question_text": "Work out the time difference between Dubai and Mumbai.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7(b)",
+    "Question_text": "Work out the local time in Mumbai when the 16 10 flight arrives.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "y is directly proportional to the square of x. When x = 10, y = 20. Find the value of y when x = 6.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "50 students are asked what type of movie they like to watch. Of these students, 26 like comedy, 15 like both action and comedy and 8 like neither action nor comedy. Using a Venn diagram, or otherwise, find the number of students who like action but not comedy.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Solve the simultaneous equations. 6x + y = 1 4x - y = 4",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(a)",
+    "Question_text": "Simplify 5x^7y / 15x^3y^4",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11(b)",
+    "Question_text": "Simplify (4x^2/y^4)^1/2",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use indices (positive, zero, negative and fractional)",
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12(a)",
+    "Question_text": "On the diagram construct the locus of points inside the triangle that are (i) 3.5 cm from A, (ii) equidistant from AC and BC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12(b)",
+    "Question_text": "On the diagram, shade the region inside the triangle containing the points that are more than 3.5 cm from A and closer to AC than to BC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13(a)",
+    "Question_text": "Write these values in order of size, starting with the smallest: 2^5, 5^2, √1000, 27^0",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13(b)",
+    "Question_text": "Write down one possible value of x that satisfies each inequality. (i) 2 < √x < 3 (ii) -1 < x³ < 0",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "The coordinates of the midpoint of the line AB are (1, 2). The length of the line AB is 10 units. (a) If the gradient of AB is 0, find the coordinates of A and B. (b) If the gradient of AB is 3/4, find the coordinates of A and B.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Calculate the length of a line segment",
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "The diagram shows the lines x + y = 8 and 2y = x + 4. (a) The shaded region on the diagram is defined by three inequalities. Write down these three inequalities. (b) Another region, R, is defined by the inequalities x + y ≤ 8, 2y ≥ x + 4 and y ≥ a, where a is an integer. This region contains 5 points with integer coordinates. Write down the value of a.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Anil has some sweets with a mass of 600 g, correct to the nearest 10 grams. (a) Write down the lower bound of the mass of sweets. (b) Anil sells the sweets in small portions. Each portion has a mass of 25 g, correct to the nearest gram. He sells 10 portions of the sweets. Calculate the lower bound of the mass of sweets remaining.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds",
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "In the diagram, the bearing of B from A is 170°. The bearing of A from C is 060°. The bearing of C from B is x°. Given that triangle ABC is isosceles, find the three possible values of x.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "The diagram is the speed-time graph for part of a car's journey. The retardation of the car between t = 8 and t = 12 is 4 m/s2. (a) Find v. (b) Find the total distance travelled by the car in the 12 seconds.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "AB is a diameter of the circle, centre O. PA and QB are tangents to the circle at A and B respectively. Prove that triangle PAO is congruent to triangle QBO. Give a reason for each statement you make.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "A bag contains 10 counters of which 8 are blue and 2 are white. Two counters are taken from the bag at random without replacement. (a) Complete the tree diagram to show the possible outcomes and their probabilities. (b) Find, as a fraction, the probability that (i) both counters are blue, (ii) one counter is blue and the other is white.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "(a) The table shows the values of the function f(x) for some values of x. Express the function f(x) in terms of x. (b) g(x) = (8-3x)/2. (i) Evaluate g(-2). (ii) Find g⁻¹(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "The table shows the populations, correct to 2 significant figures, of some African countries in 2014. (a) In 2014, the population of Nigeria was 177156000. Complete the table with the population of Nigeria using standard form, correct to 2 significant figures. (b) Complete the following. The population of Chad was ... times the population of Namibia. (c) The population density of a country is measured as the number of people per square kilometre. It can be found by dividing the population of the country by its area in km². The area of Sudan is 1.86 × 106 square kilometres. Estimate the population density of Sudan. Give your answer correct to 1 significant figure.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Use A × 10^n form",
+      "Convert to standard form",
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "The table and histogram show some information about the times taken by a group of students to travel to school one day. (a) Complete the histogram. (b) Find the value of m. (c) Work out the fraction of students who took more than half an hour to travel to school.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Calculate with frequency density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "The diagram shows a sector of a circle with radius 3r cm and angle a° and a circle with radius r cm. The ratio of the area of the sector to the area of the circle with radius r cm is 8 : 1. (a) Find the value of a. (b) Find an expression, in terms of π and r, for the perimeter of the sector.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "(a) The nth term of a sequence is given by n² – 5n. (i) Find the 2nd term in the sequence. (ii) The pth term in the sequence is 150. Find the value of p. (b) The nth term of another sequence is given by 3n² – kn. The 5th term in this sequence is 55. Find the value of k.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26(a)",
+    "Question_text": "Make p the subject of the formula t = (p + 3) / (p - 4)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26(b)",
+    "Question_text": "Simplify fully (4x² - 1) / (2x² - 9x - 5)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  }
+]

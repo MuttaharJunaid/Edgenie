@@ -1,0 +1,476 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2016/Q1",
+    "Question_text": "Fig. 1.1 shows the speed-time graph for a car travelling along a horizontal road.",
+    "image": "A speed-time graph titled Fig. 1.1 shows speed in m/s on the y-axis ranging from 20 to 30, and time in s on the x-axis ranging from 0 to 10. The graph starts at (0, 30), maintains a constant speed of 30 m/s until t=2s, then shows a curved line where speed decreases from 30 m/s to approximately 22 m/s at t=6s, and then remains constant at approximately 22 m/s until t=10s. The curve between t=2s and t=6s represents non-uniform deceleration.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 1.1, mark and label a point where the car has a non-uniform deceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the deceleration of the car at t = 3.0 s.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain, in terms of the horizontal forces that act on the car, why its speed is constant at t = 1.0s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q2",
+    "Question_text": "Fig. 2.1 shows an electric motor lifting a load. The load, of weight 5.0N, is raised through a vertical height of 3.5m at a constant speed. The efficiency of the electric motor is 0.65 (65%).",
+    "image": "A diagram titled Fig. 2.1 shows an electric motor connected to a power supply. The motor is attached to a pulley system that lifts a load. The load is depicted as a block hanging from a rope that goes over a pulley connected to the motor. Labels point to 'power supply', 'electric motor', and 'load'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Efficiency",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the increase in gravitational potential energy of the load.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the formula that relates efficiency, energy input and useful energy output.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the energy input to the motor.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest one reason why the efficiency of the motor is less than 1.0 (100%).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q3",
+    "Question_text": "A student has three springs A, B and C. He measures the length of each spring, in turn, when different weights are placed on the end of each spring. His table of results is shown in Fig. 3.1.",
+    "image": "A table titled Fig. 3.1 shows experimental results for three springs A, B, and C. The first column is 'weight/N' with values 1.0, 1.5, 2.0, 2.5, 3.0. The second column is 'length of spring A/cm' with values 6.1, 6.9, 7.7, 8.5, 9.3. The third column is 'length of spring B/cm' with values 8.6, 9.5, 10.4, 11.2, 12.1. The fourth column is 'length of spring C/cm' with values 9.7, 10.5, 11.3, 13.1, 16.9.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State which spring has been stretched past the limit of proportionality.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Using data from Fig. 3.1, explain how you obtained your answer to (a)(i).",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the unstretched length of spring A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the student can use spring A to determine the mass of a small rock.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q4",
+    "Question_text": "A beaker is filled with water and placed on a hot-plate to boil, as shown in Fig. 4.1. The hot-plate is on top of a balance, which measures the mass of water in the beaker. The liquid boils for a long time. There are bubbles within the boiling water.",
+    "image": "A diagram titled Fig. 4.1 shows a beaker of boiling water placed on a hot-plate, which is on top of a balance. Bubbles are visible within the boiling water. Labels point to 'boiling water', 'bubble', and 'hot-plate'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat",
+      "Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is inside each bubble.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The mass of water is measured at two different times, while the water is boiling steadily. During this time: the mass of water in the beaker decreases by 20 g; the energy supplied to the hot-plate is 52000 J; the energy lost from the hot-plate and beaker to the atmosphere is 6000 J. Calculate the specific latent heat of vaporisation of water.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The beaker of water is taken off the hot-plate. The boiling stops but evaporation still continues and the water cools. Explain, using ideas about molecules, how evaporation causes cooling.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q5",
+    "Question_text": "A person can focus clearly on objects that are far away, but near objects appear blurred. Fig. 5.1 shows three rays from a point on a near object as they pass through the person's eye. The refraction of the light as it enters the eye is ignored.",
+    "image": "A diagram titled Fig. 5.1 illustrates light rays from a 'point on near object' passing through a 'lens' (representing the eye's lens) and converging before reaching the 'eye' (retina). The rays are shown converging in front of the retina, indicating a focusing defect where near objects appear blurred.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of the eye defect shown in Fig. 5.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain what causes the image of the near object to appear blurred.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 5.2, draw a suitable lens placed in front of the eye and continue the path of the three rays to the back of the eye.",
+        "image": "A diagram titled Fig. 5.2 shows an eye with light rays originating from a 'point on near object' approaching it. It is similar to Fig. 5.1 but without the lens in front of the eye, providing space to draw a corrective lens."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State what type of lens is used.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q6",
+    "Question_text": "Fig. 6.1 shows some of the colours in the visible part of the electromagnetic spectrum.",
+    "image": "A horizontal bar chart titled Fig. 6.1 shows five color blocks labeled from left to right: 'red', 'orange', 'yellow', 'green', 'blue'. These represent a portion of the visible electromagnetic spectrum, typically in order of increasing frequency and decreasing wavelength from red to blue.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State which colour in Fig. 6.1 has the largest wavelength,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the highest frequency.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Visible light, infra-red, ultra-violet and radio waves are four components of the electromagnetic spectrum. State two other components of the electromagnetic spectrum and describe a different use that is made of each component.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q7",
+    "Question_text": "An uncharged piece of metal P rests on an insulator. A positively charged rod is placed close to P, as shown in Fig. 7.1.",
+    "image": "A diagram titled Fig. 7.1 shows a rectangular 'metal P' resting on an 'insulator'. A 'positively charged rod' with '+' symbols is placed near one end of the metal P, indicating an induction of charges.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State a material that is an electrical insulator.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 7.1, draw the distribution of charges on P.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "P is then connected to earth by a wire, as shown in Fig. 7.2.",
+        "image": "A diagram titled Fig. 7.2 shows the same setup as Fig. 7.1 (metal P on insulator, positively charged rod nearby), but with an 'earth wire' connected to metal P on the side opposite the charged rod. 'positively charged rod' and 'earth wire' are labeled."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 7.2, show the distribution of charges on P with the earth wire connected.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii) 1",
+        "part_text": "State what happens to the charges on P if the positively charged rod is removed with the earth wire still connected to P,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii) 2",
+        "part_text": "after the earth wire is disconnected from P.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q8",
+    "Question_text": "A transformer and a diode are used to charge a battery. Fig. 8.1 shows the transformer, which contains a soft-iron core and two coils. The primary coil is connected to the 240V a.c. mains supply. The secondary coil is connected in series with the diode and the battery.",
+    "image": "A circuit diagram titled Fig. 8.1 shows a transformer. The transformer consists of a 'soft-iron core' linking a 'primary coil' and a 'secondary coil'. The primary coil is connected to a '240 V a.c.' supply. The secondary coil is connected in series with a 'diode' and a 'battery being charged'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Electromagnetic Induction",
+      "The A.C. Generator"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why an electromotive force (e.m.f.) is induced in the secondary coil.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The e.m.f. induced in the secondary coil is less than 240V. Suggest why.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest why steel is not used as the core of a transformer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe the action of the diode.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q9",
+    "Question_text": "Fig. 9.1 is a circuit diagram. The electromotive force (e.m.f.) of the battery is 12V.",
+    "image": "A circuit diagram titled Fig. 9.1 shows a 12 V battery connected in series with two resistors, an 18 Ω resistor and a 30 Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Combined Resistance",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by electromotive force.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "An 18Ω resistor and a 30Ω resistor are connected in series with the battery.",
+        "image": null
+      },
+      {
+        "part_label": "b(i) 1",
+        "part_text": "State the relationship between the current Iß in the battery, the current I₁ in the 18Ω resistor and the current I₂ in the 30Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(i) 2",
+        "part_text": "State an equation that relates the e.m.f. E of the battery, the potential difference V₁ across the 18Ω resistor and the potential difference V₂ across the 30Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the current in the battery.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the potential difference (p.d.) across the 18Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "iv",
+        "part_text": "Calculate the power produced in the 18Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The resistors obey Ohm's law. State Ohm's law and describe one limitation on this law.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The resistors are made from the same material, but have different cross-sectional areas and different lengths. State the relationship between",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "the resistance R and the length l of a wire of constant cross-sectional area,",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "the resistance R and the cross-sectional area A of a wire of constant length.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "A resistor is shown in Fig. 9.2 and part of the resistor colour code is shown in Fig. 9.3. State the colour of the bands on the 30Ω resistor.",
+        "image": "Fig. 9.2 shows a diagram of a resistor with three bands labeled 'first band', 'second band', and 'third band'. Fig. 9.3 shows a table with two columns: 'digit or multiplier' and 'colour'. The rows are: 0 - black, 1 - brown, 2 - red, 3 - orange. This table represents a partial resistor colour code for the first two significant digits and the multiplier band."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q10",
+    "Question_text": "Fig. 10.1 shows the basic structure of a cathode-ray oscilloscope (c.r.o.). Electrons strike the middle of the screen and a bright spot is produced.",
+    "image": "A schematic diagram titled Fig. 10.1 illustrates the basic structure of a cathode-ray oscilloscope (c.r.o.). It shows a 'cathode' labeled 'A' at one end, emitting electrons. These electrons pass through components labeled 'B', 'D', 'E', and 'F' before striking a 'screen' labeled 'C'. Component B is typically the control grid, D is the focusing anode, E is the Y-plates, and F is the X-plates.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 10.1, write the names of parts B, D, E and F in the spaces provided.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii) 1",
+        "part_text": "State the purpose of part B,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii) 2",
+        "part_text": "part D.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State the useful energy change that occurs as electrons hit the screen of the c.r.o.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Describe what happens inside the c.r.o. to turn the spot into a horizontal line.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A microphone is connected to a c.r.o. to display a sound wave. Fig. 10.2 shows the trace on the c.r.o. The settings on the c.r.o. are: Y-gain 0.5V/division; time base 2.0ms/division.",
+        "image": "A graph titled Fig. 10.2 shows a sinusoidal wave trace on a c.r.o. screen with grid lines. The wave completes approximately 3 full cycles across 6 horizontal divisions. The peak amplitude is 3 vertical divisions from the center line. Both horizontal and vertical grid lines are marked with '1 division' indicators."
+      },
+      {
+        "part_label": "b(i) 1",
+        "part_text": "Determine the maximum voltage,",
+        "image": null
+      },
+      {
+        "part_label": "b(i) 2",
+        "part_text": "the time for one oscillation,",
+        "image": null
+      },
+      {
+        "part_label": "b(i) 3",
+        "part_text": "the frequency of the sound wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The settings of the c.r.o. remain the same. On Fig. 10.2, sketch the trace of a sound wave with a smaller amplitude and a lower frequency.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2016/Q11",
+    "Question_text": "Fig. 11.1 represents a nuclear fusion reaction. At very high temperatures, nuclei of the two isotopes ³₁H and ²₁H fuse together. Energy is produced and two new particles are formed, particle A and particle B.",
+    "image": "A diagram titled Fig. 11.1 illustrates a nuclear fusion reaction. It shows two initial isotopes of hydrogen: one labeled '³₁H' (tritium, depicted as one dark and two light spheres) and another labeled '²₁H' (deuterium, depicted as one dark and one light sphere). The diagram shows these merging, then splitting into two product particles: 'particle A' (depicted as one dark sphere) and 'particle B' (depicted as two dark and two light spheres). Particle A represents a neutron (¹₀n) and particle B represents Helium-4 (⁴₂He).",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Fusion",
+      "Half-Life"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by isotopes of hydrogen.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Using Fig. 11.1, state",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the number of neutrons in a nucleus of the isotope ³₁H,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the name of particle A,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "the proton number of particle B,",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "the nucleon number (mass number) of particle B.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A very high temperature is needed to force nuclei together. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A star forms from a large cloud of gas and dust in space. Describe what happens as the star forms.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The isotope of hydrogen ³₁H has a half-life of 12 years.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "State what is meant by half-life.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "A sample contains 16000 atoms of ³₁H. Calculate the number of atoms of ³₁H present in the sample after 48 years.",
+        "image": null
+      }
+    ]
+  }
+]

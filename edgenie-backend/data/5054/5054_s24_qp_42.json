@@ -1,0 +1,178 @@
+[
+  {
+    "QuestionNumber": "May/June/2024/Q1",
+    "Question_text": "A student investigates the resistance of a diode when different currents flow through it. The student sets up the circuit shown in Fig. 1.1.",
+    "image": "Fig. 1.1 displays a circuit diagram. It includes a power source (indicated by positive and negative terminals), an ammeter labeled 'A', a switch, and a component labeled 'P'. The circuit path continues from 'P' through a resistor, and then through a diode which is positioned between terminals 'X' (cathode) and 'Y' (anode). The circuit completes by connecting back to the negative terminal of the power source. The ammeter is in series, measuring the total current.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student connects a voltmeter into the circuit to measure the potential difference (p.d.) across the diode. On Fig. 1.1, draw the symbol for a voltmeter connected to measure the p.d. across the diode.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student: uses a connecting lead to connect the terminals X and Y together; closes the switch; records the voltmeter reading V; records the ammeter reading I; opens the switch and removes the connecting lead. Fig. 1.2 shows the readings on the voltmeter and the ammeter. Record the readings shown in Fig. 1.2 in the top row of Table 1.1.",
+        "image": "Fig. 1.2 shows two analogue meters. The first is a voltmeter with a scale from 0 to 2V, labeled 'V', where the needle indicates a reading of 0.82V. The second is an ammeter with a scale from 0 to 1A, labeled 'A', where the needle indicates a reading of 0.27A. Both meters have a curved scale with divisions for precise readings."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the resistance R of the diode using the equation: R = V / I. Record your answer in the top row of Table 1.1 to an appropriate number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student: connects a 3.3Ω resistor between terminals X and Y; closes the switch; records the voltmeter reading V in Table 1.1; records the ammeter reading I in Table 1.1; opens the switch and removes the 3.3Ω resistor; repeats this procedure for resistors of 6.8Ω and 10Ω. Complete Table 1.1 by inserting the missing values.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "As the resistance between terminals X and Y is changed, the current in the circuit changes. Examine the results shown in Table 1.1. Describe how the change in current affects: the voltage across the diode.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "As the resistance between terminals X and Y is changed, the current in the circuit changes. Examine the results shown in Table 1.1. Describe how the change in current affects: the resistance of the diode.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "A student sets up a circuit using the diagram shown in Fig. 1.1. The student finds that, when the connecting lead is connected across the terminals X and Y and the switch is closed, the ammeter does not give a reading. The ammeter is not broken. Suggest the error that the student has made while assembling the circuit.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2024/Q2",
+    "Question_text": "A student investigates the rate of cooling of hot water in a test-tube under different conditions.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Conduction",
+      "Convection",
+      "Consequences of Thermal Energy Transfer",
+      "Radiation",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student arranges a test-tube as shown in Fig. 2.1. Pours 200 cm³ of cold water into a beaker. Pours hot water into the test-tube until it is approximately one-third full. Lowers the test-tube into the beaker of cold water until the level of the hot water in the test-tube is below the level of the cold water in the beaker as shown in Fig. 2.2. Places a thermometer into the test-tube. Waits for approximately 30s before measuring the temperature and starting a stop-watch.",
+        "image": "Fig. 2.1 illustrates a test-tube held vertically by a clamp on a stand. Fig. 2.2 shows a beaker containing 'cold water' placed on the stand's base. The test-tube, now containing 'hot water', is immersed in the cold water. The level of the hot water inside the test-tube is shown to be below the level of the cold water in the beaker, demonstrating a setup for investigating cooling."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student measures the temperature θ of the hot water every 30s for a further 180s. The readings are shown in Table 2.1. Complete the column headings by adding appropriate units.",
+        "image": "Fig. 2.3 shows a close-up of a thermometer scale, ranging from 60 to 80 degrees, with major markings at 10-degree intervals. The mercury column indicates a temperature of 75 degrees. Table 2.1 is presented with three columns: 'time t / ......', 'test-tube cooling in cold water temperature θ/ ..........', and 'test-tube cooling in warm water temperature θ/ ..........'. The initial time (t=0) is provided, and the corresponding temperature for cold water is 75."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Complete the time column.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe in detail one precaution that the student must take to make sure that the temperature measurements are as accurate as possible.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The student repeats the procedure in (a) and (b) but with 200 cm³ of warm water instead of cold water in the beaker as shown in Fig. 2.4. The student's readings with warm water are shown in Table 2.1. One of the student's readings for warm water recorded in Table 2.1 is anomalous. Identify the anomalous temperature reading and explain how you decided that the reading is anomalous.",
+        "image": "Fig. 2.4 depicts an experimental setup similar to Fig. 2.2. A test-tube containing 'hot water' is immersed in a beaker, but this time the beaker contains 'warm water' instead of cold water. The test-tube is supported by a clamp on a stand, illustrating the altered conditions for the cooling experiment."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Use the temperature readings in Table 2.1 to calculate the temperature decrease of the hot water in the test-tube after cooling for 180s in both the beaker of cold water and the beaker of warm water.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Use your answers to (d)(ii) to decide how the temperature of the water in the beaker affects the rate of cooling of hot water in the test-tube. State your conclusion.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Suggest one improvement to the experimental procedure described in (a) and (b) that allows a more valid comparison to be made between the two rates of cooling.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2024/Q3",
+    "Question_text": "A student investigates the balancing of a metre rule which has a load of mass M fixed to it at the 5.0 cm mark.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium",
+      "Investigating Centre of Gravity",
+      "Measurement",
+      "Moments"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The student: places a pivot under the 50.0 cm mark of the rule; places another load of mass m = 50g on the rule; adjusts the position of the load with mass m = 50g until the rule is as close to balanced as possible as shown in Fig. 3.1. Take readings from the rule and use them to determine the position of the centre of the 50g mass on the rule.",
+        "image": "Fig. 3.1 illustrates a metre rule balanced on a pivot at the 50 cm mark. A fixed load of mass 'M' is attached at the 5 cm mark. A movable load of mass 'm' is placed on the opposite side of the pivot at a distance 'd' from it, for balancing. The rule is shown resting on a bench. Fig. 3.2 provides a top-down view of the metre rule's scale, specifically from 92 cm to 97 cm. An arrow points to the position of the '50 g mass' on the rule, indicating a reading of 96.5 cm."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the distance d from the centre of the 50g mass to the 50.0cm mark on the rule. Record your answer on the answer line and in Table 3.1 on page 12.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the value of 1000/d. Record your answer on the answer line and in Table 3.1 on page 12.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "It is difficult to balance the rule exactly. Describe a technique that the student uses to make sure that the value of d is as accurate as possible.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student repeats the procedure in (a) for values of mass m from 60g to 100g and records all the readings in Table 3.1. On the grid provided in Fig. 3.3 on page 13, plot a graph of m on the y-axis against 1000/d on the x-axis. The axes do not need to start from the origin (0, 0). Draw the straight line of best fit.",
+        "image": "Table 3.1 presents experimental data in three columns: 'mass m/g', 'distance d/cm', and '1000/d / 1 cm'. The table includes values for m from 50g to 100g, and corresponding d and 1000/d values, with some initially blank spaces for the first row. Fig. 3.3 is a blank graph grid, with uniformly spaced lines, provided for plotting the data from Table 3.1."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the gradient G of your line. Show all working and indicate on the graph the values you use.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The mass M of the load fixed to the rule can be determined using the equation: M = 22.2 x G. Use your value of G from (d)(i) to calculate the mass M of the load fixed to the rule.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Suggest why this method of determining the mass M of the fixed load is unsuitable if a movable load of mass m = 40g is used.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2024/Q4",
+    "Question_text": "A student has a converging (convex) lens and needs to determine its focal length. Plan an experiment that will enable the student to measure an accurate value for the focal length f of the lens. The focal length f of a lens can be calculated using the equation: f = uv / (u + v) where u is the distance between an object and the lens and v is the distance between the focussed image of the object and the lens. Fig. 4.1 shows some of the apparatus available. The lamp is connected to a power supply and can be switched on and off as required. Write a plan for the experiment. In your plan you should: list any additional apparatus needed; draw a diagram of the arrangement of the apparatus, labelling u and v; explain briefly how to do the experiment; state the steps taken to obtain a sharp, focussed image; explain how to use your readings to determine f.",
+    "image": "Fig. 4.1 illustrates an optical setup on a bench. From left to right: a lamp connected to a power supply, a 'triangular object hole cut into a piece of card' acting as an object, a 'converging lens' held by a 'lens holder'. These components are arranged linearly on a 'bench', typically for forming images.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Linear Magnification",
+      "Measurement",
+      "Ray Diagrams",
+      "Thin Lenses"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which diagram shows the positions of the chloroplasts and the nucleus in a cell?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Examine animal and plant cells",
+      "Draw animal and plant cells",
+      "Identify animal cell structures",
+      "Identify plant cell structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "How do plants absorb nitrate ions by active transport?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.2 Active transport",
+    "Sub_topic": [
+      "Active transport definition",
+      "Ion uptake by roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "The diagram shows the net movement of water by osmosis between four adjacent cells. Which cell has the highest water potential?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Water as solvent",
+      "Energy for diffusion/osmosis",
+      "Diffusion definition",
+      "Factors influencing diffusion",
+      "Osmosis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "The diagram represents an enzyme and four molecules, A, B, C and D. Which molecule is the substrate of this enzyme?",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Catalyst definition",
+      "Enzymes as catalysts",
+      "Enzyme action mechanism",
+      "Enzyme specificity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "The diagram shows the upper layers of a leaf. What are the structures labelled X and Y?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.2 Leaf structure",
+    "Sub_topic": [
+      "Leaf adaptations",
+      "Leaf structures adaptations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A variegated plant is destarched and then placed in the sunlight for several hours. A leaf is then taken and tested for starch using iodine solution. Which diagram shows the correct results?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis definition",
+      "Chlorophyll pigment",
+      "Chlorophyll energy transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "A container is filled with water from a lake and placed on an outside table in the sunlight. Healthy plant seedlings are placed in the container and left for 3 months. Distilled water is added to the container as required. At the end of each month a typical mature leaf grown during the previous 30 days is removed and drawn to the same scale. The diagram shows the three drawings that are made. Why is the leaf from month 3 the smallest?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.3 Mineral nutrition",
+    "Sub_topic": [
+      "Nitrate for amino acids",
+      "Magnesium for chlorophyll"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which is a large molecule built up from amino acids?",
+    "image": null,
+    "Unit": "UNIT 4: Biological molecules",
+    "Topic": "4.1 Biological molecules",
+    "Sub_topic": [
+      "Elements in molecules",
+      "Large from small molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Each part of the alimentary canal has the optimum pH for the enzymes that digest food there. What is the optimum pH for an enzyme that works in the stomach?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Enzyme functions products",
+      "Hydrochloric acid function",
+      "Proteases pH levels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Which features make a villus well adapted for absorbing amino acids from the ileum?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.3 Absorption and assimilation",
+    "Sub_topic": [
+      "Small intestine absorption",
+      "Absorption processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Samples of four different tissues are removed from the same plant. The concentration of water in each of the four tissues is measured. Which tissue is likely to have the highest water concentration?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.1 Uptake and transport of water and ions",
+    "Sub_topic": [
+      "Root hair function",
+      "Water pathway in plant"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "The diagrams show a plant in a flask of water. It is left in the light at 16°C for six hours. What explains the change in mass after six hours?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Transpiration definition",
+      "Water evaporation in leaves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "The diagram shows chemicals being exchanged between some cells and a blood capillary. What could be the identities of chemicals P and Q?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.4 Blood",
+    "Sub_topic": [
+      "Substance transfer capillaries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "In the human circulatory system, what causes the transfer of materials from the capillaries to the tissue fluid?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.3 Blood vessels",
+    "Sub_topic": [
+      "Blood vessel structures",
+      "Structures related to pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "The graph shows the death rates from coronary heart disease in two different countries. What could not explain the difference between the two countries?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.2 Heart",
+    "Sub_topic": [
+      "Coronary heart disease",
+      "Diet exercise reducing risk"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "What happens to the diaphragm and the external intercostal muscles when breathing in?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Breathing structures",
+      "Breathing mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The pie charts show the proportion of gases in samples of dried inspired and expired air. Which segments represent which gases?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Atmospheric gas percentages",
+      "Inspired expired differences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Which changes occur as a person exercises?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Activity effect on breathing"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "The diagram shows the kidneys and associated structures. What are the contents of the labelled structures?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Urinary structures functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "What are the responses to decreased body temperature?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Temperature regulation processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which process keeps conditions such as temperature and glucose concentration constant inside the body?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.4 Homeostasis",
+    "Sub_topic": [
+      "Homeostasis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "What is a function of sensory neurones?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "Neurone types"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "What does the hypothalamus control?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Hypothalamus and receptors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "The diagram shows the main muscles and bones of the arm. What happens when muscle X contracts?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "What are the cause, signs and symptoms and treatment for diabetes mellitus?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.6 Blood glucose control",
+    "Sub_topic": [
+      "Type 1 diabetes treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Foods can be made by treating milk in different ways. Which processes occur in both cheese and yoghurt production?",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.1 Biotechnology",
+    "Sub_topic": [
+      "Bacteria in biotechnology",
+      "Fermenters production"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "An ocean is polluted by an oil spill. What is least likely to speed up the rate of decomposition of oil by microorganisms?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Pollution effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "The diagram shows the label from a bottle of gin. What will happen, during the next few hours, after a person drinks a large amount of gin?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Alcohol consumption effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "The diagram shows changes in the appearance of a leaf over a period of time, as it lies on the damp ground. Which type of organism is most likely to cause these changes?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Trophic levels terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "The diagram shows some stages in the nitrogen cycle. Which arrow represents the action of nitrogen-fixing bacteria?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Nitrogen cycle microorganisms",
+      "Nitrogen cycle description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Which method of malarial control is effective against both adult and larval forms of the mosquito?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Mosquito as vector",
+      "Malarial parasite transmission",
+      "Mosquito control life cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "The diagram shows a food web. To which pair of animals is the greatest amount of energy available?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Food web description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Some effects of deforestation are listed. Which effects contribute to causing climate change?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Habitat destruction causes",
+      "Greenhouse gases effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "What passes down a pollen tube after pollination?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Pollen tube growth fertilisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "The diagram shows a broad bean seed. Part of it has been cut away to show the internal structure. Which parts make up the complete embryo?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Seed structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "Human gametes are different from each other. Which information about male gametes is correct?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Sperm structure function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "The main function of which hormone is to maintain the uterus lining after ovulation?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Hormones in menstrual cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "Which row in the table is correct?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Sex determination humans"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "The diagram shows the inheritance of the allele, E, for polydactyly (having extra fingers) which is dominant over the normal allele, e. What are the genotypes of persons M and N?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Genetic terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Bacteria can be genetically engineered to produce human insulin by adding a human insulin gene to the bacterial DNA. What is an advantage of this procedure?",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.2 Genetic modification",
+    "Sub_topic": [
+      "Insulin production bacteria"
+    ],
+    "Parts": []
+  }
+]

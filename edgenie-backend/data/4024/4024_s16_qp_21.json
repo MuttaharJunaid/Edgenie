@@ -1,0 +1,585 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "A shopkeeper buys some plates from a manufacturer for $12 each. (a) The manufacturer makes a profit of 60%. Calculate the cost of manufacturing each plate.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate reverse percentages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "A shopkeeper buys some plates from a manufacturer for $12 each. (b) The shopkeeper sells each plate for $17.40. Calculate the percentage profit made by the shopkeeper.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "A shopkeeper buys some plates from a manufacturer for $12 each. (c) In a sale, each plate is reduced from $17.40 to $11.31. Calculate the percentage discount given.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "The shopkeeper buys 100 plates at $12 each. He sells 60 plates at $17.40 each and x plates at $11.31 each. The shopkeeper makes a profit of at least 10%. Find the least possible value of x.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Solve the equation p-1/7-p = 5",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Simplify (9ab/3a^2)^2",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Simplify (q^2-q^3)/(3-3q)",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "(i) Factorise 4t² + 35t-9.(ii) Hence solve the equation 4t² + 35t − 9 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "The table below is for y = x²+x-3. Using a scale of 2cm to 1 unit on the x-axis for -3 ≤x≤2 and a scale of 1 cm to 1 unit on the y-axis for-4≤ y ≤4, plot the points from the table and join them with a smooth curve.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3bi",
+    "Question_text": "The table below is for y = x²+x-3. Use your graph to estimate the solutions of the equation x²+x-3 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3bii",
+    "Question_text": "The table below is for y = x²+x-3. Use your graph to estimate the solutions of the equation x²+x− 5 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "The table below is for y = x²+x-3. By drawing a tangent, estimate the gradient of the curve at (1,−1).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "The equation x²-x-1=0 can be solved by drawing a straight line on the graph of y = x² + x - 3. (i) Find the equation of this straight line. (ii) Draw this straight line and hence solve x2 - x - 1 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "ANB, BLC and CMA are straight lines. NM is parallel to BC and LN is parallel to CA. Prove that triangle ANM is similar to triangle NBL. Give a reason for each statement you make.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4bi",
+    "Question_text": "AN : NB = 2 : 3 (i) Find NM : BC.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4bii",
+    "Question_text": "AN : NB = 2 : 3 (ii) Find area ANM: area NBL.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4biii",
+    "Question_text": "AN : NB = 2 : 3 (iii) Find area ANM: area NMCL.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "AB is vertical and CB is horizontal. AB = 31 m and CB = 115m. Calculate the angle of depression of C from A.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Carry out calculations involving angles of elevation and depression"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5bi",
+    "Question_text": "Jand K are two positions at sea. The base of a lighthouse is at L. Jis due East of L and K is due South of L. KL = 354 m and KJ = 1100 m. (i) Calculate LĴK.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.1 Pythagoras’ theorem",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5bii",
+    "Question_text": "Jand K are two positions at sea. The base of a lighthouse is at L. Jis due East of L and K is due South of L. KL = 354 m and KJ = 1100 m. (ii) Hence find the bearing of K from J.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "A=(4 -1/1 3) B=(2 0/7 -5) Evaluate 2A - B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "A=(4 -1/1 3) B=(2 0/7 -5) Find A².",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c",
+    "Question_text": "A=(4 -1/1 3) B=(2 0/7 -5) Find B^-1.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6d",
+    "Question_text": "A=(4 -1/1 3) B=(2 0/7 -5) A+ Z = A Find Z.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6e",
+    "Question_text": "A=(4 -1/1 3) B=(2 0/7 -5) M + 2I = B, where I is the 2 × 2 identity matrix. Find M.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "AC is a diameter of the circle, centre O, radius 5 cm. ACB = 64°. Calculate the length of the minor arc BC.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7bi",
+    "Question_text": "A baking tray is an open cylinder of radius 15.5 cm with a rim. The outer edge of the rim is a circle of radius 16.5 cm. Calculate the area of the top surface of the rim.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving circumference and area of a circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7bii",
+    "Question_text": "A baking tray is an open cylinder of radius 15.5 cm with a rim. The outer edge of the rim is a circle of radius 16.5 cm. 44 identical circular holes are cut out of the bottom of the baking tray. The area of the bottom that remains is 650 cm². Calculate the radius of each circular hole.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving circumference and area of a circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7biii",
+    "Question_text": "A baking tray is an open cylinder of radius 15.5 cm with a rim. The outer edge of the rim is a circle of radius 16.5 cm. To make a pizza, the baking tray is completely filled with dough to a depth of dmm. The open cylinder holds 500 cm³ of dough. Calculate the depth of the dough, dmm, giving your answer correct to the nearest millimetre.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8ai",
+    "Question_text": "p=(8-5q)/q (i) Find p when q = 2.6 .",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8aii",
+    "Question_text": "p=(8-5q)/q (ii) Express q in terms of p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8bi",
+    "Question_text": "The lengths of the parallel sides of trapezium A are x cm and (x – 2) cm. The lengths of the parallel sides of trapezium B are x cm and (x + 3) cm. The height of trapezium A is Hcm and the height of trapezium B is hcm. The area of each trapezium is 15cm². (i) Show that H =15/x-1 and h =30/2x + 3.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8bii",
+    "Question_text": "The lengths of the parallel sides of trapezium A are x cm and (x – 2) cm. The lengths of the parallel sides of trapezium B are x cm and (x + 3) cm. The height of trapezium A is Hcm and the height of trapezium B is hcm. The area of each trapezium is 15cm². (ii) Find an expression in terms of x for the difference in height, H – h, between trapezium A and trapezium B, and show that it simplifies to 75/(x - 1)(2x + 3) ˙",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Manipulate algebraic fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8biii",
+    "Question_text": "The lengths of the parallel sides of trapezium A are x cm and (x – 2) cm. The lengths of the parallel sides of trapezium B are x cm and (x + 3) cm. The height of trapezium A is Hcm and the height of trapezium B is hcm. The area of each trapezium is 15cm². (iii) The difference in height is 1.5 cm. (a) Show that 2x2 + x − 53 = 0.(b) Find x, giving your answer correct to 2 decimal places.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9ai",
+    "Question_text": "ABCD represents the rectangular sloping surface of a triangular prism. ABEF is a horizontal rectangle. CE and DF are vertical. CBE = 15°, DC = 5 m and AD = 2m. (i) Calculate AC.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.1 Pythagoras’ theorem",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9aii",
+    "Question_text": "ABCD represents the rectangular sloping surface of a triangular prism. ABEF is a horizontal rectangle. CE and DF are vertical. CBE = 15°, DC = 5 m and AD = 2m. (ii) Calculate CE.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9aiii",
+    "Question_text": "ABCD represents the rectangular sloping surface of a triangular prism. ABEF is a horizontal rectangle. CE and DF are vertical. CBE = 15°, DC = 5 m and AD = 2m. (iii) Calculate FÂE.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.4 Pythagoras’ theorem and trigonometry in 3D",
+    "Sub_topic": [
+      "Carry out calculations and solve problems in three dimensions using Pythagoras’ theorem and trigonometry, including angle between line and plane"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9bi",
+    "Question_text": "A triangle has sides of 10cm, 9 cm and 6 cm, and an angle of θ°, as shown in the diagram. Calculate θ.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9bii",
+    "Question_text": "The triangle KGH has sides of a cm, bem and ccm as shown in the diagram. It is given that KGH is an obtuse angle. Complete the statement below using one of the symbols < < = > >. c2 (a² + b²)",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "100 electric light bulbs of Brand A were tested to find how long each bulb lasted. The results are summarised in the table below. (a) Complete the cumulative frequency table.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "100 electric light bulbs of Brand A were tested to find how long each bulb lasted. The results are summarised in the table below. (b) On the grid, draw a smooth cumulative frequency curve to represent this information. Label this curve Brand A.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10ci",
+    "Question_text": "100 electric light bulbs of Brand A were tested to find how long each bulb lasted. The results are summarised in the table below. (c) (i) Use your graph to estimate the median.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10cii",
+    "Question_text": "100 electric light bulbs of Brand A were tested to find how long each bulb lasted. The results are summarised in the table below. (c) (ii) Use your graph to estimate the interquartile range.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d",
+    "Question_text": "100 Brand B bulbs gave the following results. 4 bulbs lasted 50 hours or less. The longest time any bulb lasted was 300 hours. The median is 250 hours. The upper quartile is 275 hours. The interquartile range is 75 hours. On the grid, draw and label the cumulative frequency curve for the Brand B bulbs.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10e",
+    "Question_text": "100 electric light bulbs of Brand A were tested to find how long each bulb lasted. The results are summarised in the table below. (e) Using your graph, estimate the number of Brand A bulbs that lasted 275 hours or less.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10f",
+    "Question_text": "100 electric light bulbs of Brand A were tested to find how long each bulb lasted. The results are summarised in the table below. (f) Complete the statement below. Brand ............ had ........... more bulbs that lasted longer than 275 hours than Brand .............",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Compare sets of data using tables, graphs and statistical measures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "Triangle ABC has vertices A(2, 2), B(3, 5) and C(4, 1). Triangle A Bl lCl has vertices Al(–4, 4), Bl(–3, 7) and Cl(–2, 3). Write down the column vector of the translation that maps triangle ABC onto triangle A Bl lCl .",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw translation of shape by vector"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11bi",
+    "Question_text": "PQRS is a parallelogram. The position vector of P relative to O is given by OP = (-4/-2) The position vector of Q relative to O is given by OQ = (4/6). (i) Express PQ as a column vector.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Describe translation using vector"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11bii",
+    "Question_text": "PQRS is a parallelogram. The position vector of P relative to O is given by OP = (-4/-2) The position vector of Q relative to O is given by OQ = (4/6). (ii) Find RS.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11biii",
+    "Question_text": "PQRS is a parallelogram. The position vector of P relative to O is given by OP = (-4/-2) The position vector of Q relative to O is given by OQ = (4/6). (iii) Find RS.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.3 Magnitude of a vector",
+    "Sub_topic": [
+      "Calculate magnitude of vector as sqrt(x² + y²)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11ci",
+    "Question_text": "The diagram shows triangle D. (i) An enlargement with centre (5, 4), scale factor 2, maps triangle D onto triangle E. Draw and label triangle E.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11cii",
+    "Question_text": "The diagram shows triangle D. (ii) An enlargement with centre (5, 4), scale factor 0.5, maps triangle D onto triangle F. Draw and label triangle F.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11ciii",
+    "Question_text": "The diagram shows triangle D. (iii) Triangle G has vertices (5, 4), (4, 3) and (3, 5). Triangle F can be mapped onto triangle G using a single enlargement. Triangle F can also be mapped onto triangle G using a different single transformation T. Describe fully the single transformation T.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°"
+    ],
+    "Parts": []
+  }
+]

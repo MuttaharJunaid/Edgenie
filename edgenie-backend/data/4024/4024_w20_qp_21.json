@@ -1,0 +1,404 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Here is some information about a holiday.7-night holiday $340 per person 8% discount if you book before 31 MarchOn 15 February, Naseem books this holiday for 2 people.Calculate the total cost of his holiday.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Naseem hires a car for his holiday.The total cost is $241.50. This cost includes 15% tax. Calculate the cost of hiring the car excluding tax.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate reverse percentages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Naseem drives a total of 800km on holiday. He uses a total of 29.6 litres of fuel. Calculate the average rate of fuel used in litres per 100km.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Naseem changes $450 to euros (€) for his holiday. The exchange rate between dollars and euros is $1 = €0.82 .On holiday, he spends €297.Naseem changes the remaining money back to dollars when he returns home.The exchange rate is now $1 = €0.80 .Work out how many dollars he receives.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money",
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "The cumulative frequency diagram shows the masses, in grams, of 60 potatoes of variety A. Use the diagram to estimate (a) the median, (b) the interquartile range.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median",
+      "Estimate and interpret quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aii",
+    "Question_text": "Potatoes with a mass greater than 220 g are sold as baking potatoes. Find the percentage of the potatoes that are sold as baking potatoes.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret percentiles from cumulative frequency diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aiii",
+    "Question_text": "The masses of 60 potatoes of variety B are also measured. For variety B, the median is 175 g and the interquartile range is 30 g.Kali wants to buy potatoes that are more consistent in mass.Should she choose variety A or variety B? Explain how you decide.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Compare sets of data using tables, graphs and statistical measures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "The table shows the masses, m grams, of 120 potatoes of variety C. Calculate an estimate of the mean mass.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate estimate of mean for grouped discrete or continuous data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "A bag of potatoes has a mass of 2.5 kg, correct to the nearest 100 g. Bags of potatoes are packed into a box. The mass of the box is 600 g, correct to the nearest 10g. Calculate the upper bound of the total mass, in kilograms, of a box containing 10 of these bags of potatoes.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give upper bounds",
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "In triangle PQR, PR = 7.5 cm and QR = 6cm. Using a ruler and compasses only, construct triangle PQR.By taking suitable measurements from your triangle, calculate the area of triangle PQR.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "The diagram shows two triangles. AB = 9.7 cm, BC = 6.4cm, CD = 3.8 cm and AC = 5.3 cm.ADC = 63°.Calculate DÂC. Calculate ABC.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Complete the table for y = 4/5 * 2^x.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "On the grid, draw the graph of y = 4/5 * 2^x for -3 <= x <= 3.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: abˣ + c where n = –2, –1, ½–, 0, ½, 1, 2, 3; a and c are rational numbers; and b is a positive integer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c",
+    "Question_text": "By drawing a tangent, estimate the gradient of y = 4/5 * 2^x when x = 2.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4d",
+    "Question_text": "Use your graph to estimate the solution of the equation 4 * 2^x = 5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "The diagram shows a garden shed positioned on horizontal ground. It is in the shape of a prism with trapezium ABCD as its cross-section.The base of the shed, ABFE, is a rectangle. AB = 1.55m, AD = 2.25m, BC = 1.85m and BF = 2.10m. Calculate the volume of the shed.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "The roof of the shed, CGHD, is painted. 1 litre of paint covers 2 square metres. Calculate the amount of paint used.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "Calculate the angle of elevation of D from F.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Carry out calculations involving angles of elevation and depression",
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "Solve the inequality 6x-7 > 5-2x.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Chen buys 4 notebooks and 3 pens for $17.50 . Liu buys 2 notebooks and 5 pens for $14. Form a pair of simultaneous equations and solve them to find the cost of a notebook and the cost of a pen.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c",
+    "Question_text": "Show that x/(x+2) - 3/(x-5) = 4 can be rearranged to 3x^2 - 4x - 34 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Manipulate algebraic fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6cii",
+    "Question_text": "Solve the equation 3x^2 - 4x - 34 = 0. Show your working and give your answers correct to 2 decimal places.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "A, B, C and D are points on the circle, centre O. BAD = 68° and CBO = 52°. Find CDO.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "The cross-section of solid A is the sector of a circle of radius 6 cm and angle 40°. The height of solid A is 5 cm. Calculate the total surface area of solid A. Solid B is mathematically similar to solid A. The ratio volume of solid A : volume of solid B = 27 : 1.Calculate the surface area of solid B.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "A bag contains 36 balls. There are n red balls in the bag. The rest of the balls are green. Esther takes two balls from the bag, at random, without replacement. Complete the tree diagram.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Write an expression, in terms of n, for the probability that Esther's first ball is red and her second ball is green.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "The probability that Esther's first ball is red and her second ball is green is 1/2. Show that n² - 36n + 180 = 0.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8d",
+    "Question_text": "Solve the equation n² - 36n + 180 = 0. Show your working.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8e",
+    "Question_text": "There are more green balls than red balls in the bag. Find the probability that Esther takes two green balls. Give your answer as a fraction in its lowest terms.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "H is the point (5, 2) and J is the point (-3, 6). Find HJ. Calculate the magnitude of HJ. M is the midpoint of HJ. Find the position vector of M.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Calculate magnitude of vector as sqrt(x² + y²)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "The diagram shows a shape made from seven identical equilateral triangles. OA = p and OF = q. Express, as simply as possible, in terms of p and/or q",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9bii",
+    "Question_text": "X is a point on FB and FX : XB = 3 : 1. Express OX, as simply as possible, in terms of p and/or q.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9biii",
+    "Question_text": "Y is a point on BD.Quadrilateral OXYF is a trapezium. Express XY, as simply as possible, in terms of p and/or q.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "f(x) = (3 - 2x) / 5. g(x) = (x - 7) / 4. Find f(-4).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "f(x) = (3 - 2x) / 5. g(x) = (x - 7) / 4. Find f⁻¹(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "f(x) = (3 - 2x) / 5. g(x) = (x - 7) / 4. g(p) = f(p+1). Find the value of p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Form composite functions as defined by gf(x) = g(f(x))"
+    ],
+    "Parts": []
+  }
+]

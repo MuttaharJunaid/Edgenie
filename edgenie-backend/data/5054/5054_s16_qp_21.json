@@ -1,0 +1,515 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2016/Q1",
+    "Question_text": "A sky-diver jumps from a stationary balloon. His initial downwards acceleration is 10m/s². Fig. 1.1 shows the directions of the air resistance and the weight of the sky-diver. The mass of the sky-diver is 60kg and his weight is 600N.",
+    "image": "Fig. 1.1 shows a diagram of a sky-diver falling. An upward arrow labelled 'air resistance' points from the sky-diver's body upwards. A downward arrow labelled 'weight' points from the sky-diver's center downwards.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Freefall",
+      "Mass & Weight",
+      "Resultant Forces",
+      "terminal velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain, using ideas about the forces, why his initial downwards acceleration is 10m/s².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the parachute opens, the sky-diver experiences an upward acceleration for a short time. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The total force of air resistance on the sky-diver and open parachute changes with their speed, as shown in Fig. 1.2. After the parachute opens, the sky-diver slows down to a terminal velocity. The weight of the sky-diver is 600N.",
+        "image": "Fig. 1.2 shows a graph of air resistance (N) versus speed (m/s). The x-axis is speed from 0 to 6 m/s. The y-axis is air resistance from 0 to 800 N. The graph shows an upward curving line starting from (0,0) and reaching approximately (6, 750), indicating that air resistance increases with speed. The line shows a non-linear relationship where air resistance increases significantly with higher speeds."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Using Fig. 1.2, determine the terminal velocity of the sky-diver.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the resultant force on the sky-diver when his speed is 5.5m/s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q2",
+    "Question_text": "A student hangs various masses from the end of a spring and determines the extension produced. Fig. 2.1 shows the spring hanging vertically on its own and with an unknown mass X at one end.",
+    "image": "Fig. 2.1 shows two diagrams of a spring. The first diagram shows a spring hanging vertically, with its unextended length indicated as 10 cm. The second diagram shows the same spring hanging vertically with an unknown mass 'X' attached to its end, and its extended length indicated as 30 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student plots a graph of the extension of the spring against the mass hanging on the spring. Fig. 2.2 shows the student's graph.",
+        "image": "Fig. 2.2 shows a graph of extension/cm versus mass/g. The x-axis (mass/g) ranges from 0 to 500. The y-axis (extension/cm) ranges from 0 to 40. The graph shows a straight line originating from (0,0) up to a point P, which is around (320g, 32cm), after which the line curves upwards, indicating a non-linear extension beyond this point."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "At point P on the graph, the line begins to curve. State the name of point P.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Using Fig. 2.1 and Fig. 2.2, determine the mass X.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The gravitational field strength g is 10N/kg. Calculate the weight of X.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "An identical spring is used with the original spring, as shown in Fig. 2.3. Together they support the mass X. State and explain how the extension in Fig. 2.3 compares with the extension in Fig. 2.1.",
+        "image": "Fig. 2.3 shows two identical springs connected in parallel, both hanging vertically and supporting the mass X from below."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q3",
+    "Question_text": "Fig. 3.1 shows a thin sheet of plastic. A student tries to measure the thickness of the sheet with a ruler, but the sheet is too thin to measure accurately. The student measures the mass of the sheet and obtains the value 0.12 g.",
+    "image": "Fig. 3.1 shows a perspective drawing of a thin rectangular sheet of plastic, indicating its general shape but no specific dimensions.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measurement",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by mass.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The student is told that the density of the plastic is 0.91 g/cm³. Calculate the volume of the plastic sheet.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The student measures the length and width of the sheet. The readings obtained are: length of sheet = 3.0 cm, width of sheet = 2.0 cm. Calculate the thickness of the sheet.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State a measuring instrument that can be used to measure the thickness of the sheet accurately.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q4",
+    "Question_text": "Equal volumes of air, copper and water are heated from 20°C to 80°C. They expand by different amounts.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw a line from each box on the left-hand side to show which expands the most and which expands the least. Left boxes: 'expands the most', 'expands the least'. Right boxes: 'air', 'copper', 'water'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 4.1 shows a mercury thermometer. This thermometer has a suitable range for use in laboratory experiments, but has a low sensitivity for some experiments.",
+        "image": "Fig. 4.1 shows a mercury-in-glass thermometer. It has a bulb at the bottom and a narrow stem with a mercury column. The scale ranges from 0°C to 100°C, marked at 10°C intervals with smaller subdivisions."
+      },
+      {
+        "part_label": "b(i)1.",
+        "part_text": "With reference to this thermometer, describe what is meant by range.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)2.",
+        "part_text": "With reference to this thermometer, describe what is meant by low sensitivity.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one change in the design of a thermometer that increases its sensitivity.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q5",
+    "Question_text": "Light is a transverse wave. The direction of vibration is perpendicular to the direction of transfer of the energy.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Properties of Sound Waves",
+      "Sound Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the table of Fig. 5.1 to show the direction of vibration and the type of wave associated with a sound wave and with a wave on the surface of water in a ripple tank. The table has columns: 'wave', 'direction of vibration', 'type of wave'. Rows are 'light', 'sound', 'water'. The row for 'light' is partially filled: 'direction of vibration: perpendicular to the direction of transfer of the energy', 'type of wave: transverse'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A wave travels along a rope. Fig. 5.2 shows how the height of one point on the rope varies with time as the wave passes.",
+        "image": "Fig. 5.2 shows a graph of height/m versus time/s, representing a wave's oscillation. The x-axis (time/s) ranges from 0 to 3.5. The y-axis (height/m) ranges from 0.70 to 1.30. The graph displays a sinusoidal wave oscillating around a central height of 1.00 m, with peaks at approximately 1.25 m and troughs at approximately 0.75 m. The wave completes multiple cycles within the given time frame."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Determine the amplitude of the vibration at time = 0.25 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the graph shows that the frequency of the wave is constant.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q6",
+    "Question_text": "Explain what is meant by critical angle.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by critical angle.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Diamonds are attractive because of their ability to reflect light. The critical angle for diamond in air is 24°.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the refractive index of diamond.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 6.1 shows two diamonds of different shapes. A ray of light enters each diamond, as shown. On Fig. 6.1 continue the path of each ray of light until it emerges into the air.",
+        "image": "Fig. 6.1 shows two diamond shapes. The left diamond is a prism-like shape with a flat top and angled sides, showing a ray of light entering from the top and striking an internal surface at 70 degrees to the normal. The right diamond is a larger, more traditional gem cut shape, showing a ray of light entering from the top and striking an internal surface at 45 degrees to the normal."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q7",
+    "Question_text": "Fig. 7.1 shows part of a loudspeaker. A coil is attached to a paper cone and is suspended freely within a cylindrical magnet.",
+    "image": "Fig. 7.1 shows a cross-section diagram of a loudspeaker. It illustrates a paper cone connected to a coil. The coil is positioned within the magnetic field of a cylindrical magnet, with the N and S poles of the magnet indicated. An arrow points to the coil, labelled 'current'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Properties of Sound Waves",
+      "Sound Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why a current in the coil causes the paper cone to move.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe and explain the movement of the cone when there is an alternating current in the coil.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The loudspeaker produces sound of frequency 500 Hz. The speed of sound is 320m/s. Calculate the wavelength of the sound produced.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q8",
+    "Question_text": "Fig. 8.1 shows a circuit that contains a battery, a fixed resistor of resistance 1000Ω and a variable resistor R.",
+    "image": "Fig. 8.1 shows a series electrical circuit diagram. A battery is connected in series with a fixed resistor of 1000 Ω and a variable resistor R.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Current in Circuits",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Potential Difference in Circuits",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the relationship between the current I_B in the battery, the current I_1 in the fixed resistor and the current I_2 in the variable resistor.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State an equation that relates the potential difference (p.d.) V_B across the battery, the p.d. V_1 across the fixed resistor and the p.d. V_2 across the variable resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The p.d. across the battery is 9.0V. The resistance of R is set at 500 Ω. Calculate the current in R.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q9(EITHER)",
+    "Question_text": "Fig. 9.1 shows a cathode-ray oscilloscope (c.r.o.). An alternating voltage supply is applied to the input and the trace produced is shown.",
+    "image": "Fig. 9.1 shows a cathode-ray oscilloscope (c.r.o.) displaying a sinusoidal alternating voltage waveform. The screen shows a grid with the waveform, and controls are visible below the screen. The Y-gain control options are 0.5, 1, 2, 5, 10 V/division. The time base control options are 0.5, 1, 2, 5, 10 ms/division. The input terminals are shown connected to an alternating supply. A label '1 division' indicates the grid spacing on the screen.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Use Fig. 9.1 to determine the maximum voltage of the supply.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the trace on the screen and the controls on the c.r.o. are used to measure the time between any two points on the trace.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q9(OR)",
+    "Question_text": "The circuit diagram shown in Fig. 9.2 uses an LDR as the sensor in an automatic night light. When it gets dark, the lamp turns on.",
+    "image": "Fig. 9.2 shows a circuit diagram for an automatic night light. A battery is connected in series with a Light Dependent Resistor (LDR) and another component 'A'. Component 'A' is shown as a transistor, which then controls a lamp connected in parallel with part of the circuit, specifically to the collector-emitter path of the transistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of component A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the lamp turns on when it gets dark.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q10",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer",
+      "Evaporation",
+      "Melting, Boiling & Evaporation",
+      "Particle Model",
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "States of Matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by melting point.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The temperature of a liquid is between its melting point and its boiling point. Using ideas about molecules, describe the changes that occur when the liquid evaporates.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The boiling point of nitrogen is –196 °C. Liquid nitrogen, below its boiling point, is stored in a vacuum flask, as shown in Fig. 10.1.",
+        "image": "Fig. 10.1 shows a cross-section diagram of a vacuum flask. It consists of an inner and outer glass wall, with a vacuum in between them. The flask contains 'liquid nitrogen'. The labels 'glass walls' and 'vacuum' are indicated, illustrating the design for thermal insulation."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suggest where, in the apparatus shown in Fig. 10.1, evaporation occurs.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State and explain the advantage of having a vacuum between the two glass walls.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The liquid nitrogen reaches –196 °C, its boiling point. A small piece of metal at 20 °C is lowered slowly into the liquid nitrogen. Bubbles form within the liquid nitrogen as it boils.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is inside the bubbles.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)1.",
+        "part_text": "Calculate the thermal energy (heat) lost from the metal as it cools.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)2.",
+        "part_text": "Calculate the mass of nitrogen that boils away.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q11",
+    "Question_text": "Induced currents can be formed in a coil of wire by electromagnetic induction.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Demonstrating Induction",
+      "Electrical Current",
+      "Electrical Energy",
+      "Electrical Power",
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Transformers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe how to demonstrate the formation of an induced current in a coil of wire. Sketch and label a diagram of the arrangement of the apparatus.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State two changes to the apparatus that increase the induced current.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)1.",
+        "part_text": "State Lenz's Law.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)2.",
+        "part_text": "Describe how Lenz's Law applies in the experiment you described in (a)(i).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "An electrical generator supplies power to a distant factory.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)1.",
+        "part_text": "The factory receives 500kW of electrical power at a voltage of 33kV. Calculate the current in the wires supplying the power.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)2.",
+        "part_text": "Calculate the electrical energy supplied to the factory in one hour.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The 33 kV voltage supplied to the factory is very high. Transmitting electrical energy at high voltage reduces energy losses in the transmission lines. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2016/Q12",
+    "Question_text": "The overall stopping distance of a cyclist is made up of two parts, as shown in Fig. 12.1: the distance the cyclist travels during the reaction time of the cyclist (the thinking distance), the distance the cyclist travels after the brakes are applied (the braking distance).",
+    "image": "Fig. 12.1 shows a diagram illustrating the stopping distance of a cyclist. A cyclist on a bicycle is depicted. Arrows indicate 'thinking distance' and 'braking distance' contributing to the 'overall stopping distance'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Pressure & Forces",
+      "Speed-Time Graphs",
+      "Stopping Distances"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the energy change that occurs during braking.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A ball rolls in front of a cyclist at time t = 0 and the cyclist brakes and comes to rest. Fig. 12.2 shows the speed-time graph for the cyclist.",
+        "image": "Fig. 12.2 shows a speed-time graph for a cyclist. The x-axis (time/s) ranges from 0 to 2.4. The y-axis (speed/m/s) ranges from 0 to 8. The graph shows an initial constant speed of approximately 7.2 m/s from t=0 to t=0.4 s, followed by a linear decrease in speed until it reaches 0 m/s at t=2.4 s."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using Fig. 12.2, determine the reaction time of the cyclist.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using Fig. 12.2, calculate the thinking distance.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State how the braking distance is found using Fig. 12.2.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "On another occasion, the same cyclist travels at an initial speed of 5.0m/s. A ball rolls in front of the cycle at time t = 0. The cyclist has the same reaction time and the deceleration of the cycle is the same as in Fig. 12.2. On Fig. 12.2 draw the new speed-time graph for the cyclist.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "The braking distance is longer when the cyclist stops on a wet road. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 12.3 shows the hydraulic braking system of the cycle.",
+        "image": "Fig. 12.3 shows a diagram of a hydraulic braking system for a bicycle. It includes a brake lever connected to a pivot, which applies a force 'F' to a piston 'R' via a handlebar. Piston R is connected via oil in a hydraulic line to piston S, which in turn actuates brake pads against a spinning brake disc on the axle of a wheel."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The cyclist applies a force on the brake lever. This increases the pressure in the oil by 1.2 x 10⁶ Pa. The cross-sectional area of piston R is 5.0 × 10⁻⁵ m². Calculate the force F applied by the brake lever to piston R.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The force applied to each of the brake pads is larger than F. Explain why.",
+        "image": null
+      }
+    ]
+  }
+]

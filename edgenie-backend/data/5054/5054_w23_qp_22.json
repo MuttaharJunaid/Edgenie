@@ -1,0 +1,376 @@
+[
+  {
+    "QuestionNumber": "October-November/22/2023/Q1",
+    "Question_text": "Velocity is a vector quantity but speed is a scalar quantity.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Calculating with Vectors",
+      "Speed & Velocity",
+      "Acceleration",
+      "Momentum"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how a vector quantity differs from a scalar quantity.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Underline all the vector quantities in the list. acceleration distance energy mass momentum temperature",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 1.1 shows a passenger running across a large ship at right angles to the direction in which the ship is moving. The passenger runs across the ship at 2.4m/s due north. The large ship is travelling due east at 6.8m/s. Determine, either graphically or by calculation, the resultant velocity of the passenger. Give the direction in which the passenger is moving relative to due north. Show how the answer is obtained.",
+        "image": "A diagram (Fig. 1.1, not to scale) shows a large ship moving due east at a velocity of 6.8 m/s. A passenger is running across the ship, moving due north at a velocity of 2.4 m/s. The two velocity vectors are depicted originating from the same point on the ship, at a 90-degree angle to each other."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q2",
+    "Question_text": "A spacecraft of mass 300kg is moving in a straight line in space, at a speed of 8000m/s.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Momentum",
+      "Kinetic Energy",
+      "Energy Stores & Transfers",
+      "Impulse",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the momentum of the spacecraft.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The fuel on the spacecraft explodes and the spacecraft splits into two parts. The direction in which the parts move does not change. After the explosion, the speed of the front part increases to 9000m/s. It has a mass of 150 kg. Calculate the speed of the rear part after the explosion.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The total kinetic energy of the two parts after the explosion is greater than the original kinetic energy of the spacecraft. State the energy transfer that occurs in the explosion.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The explosion lasts for 0.20s. Calculate the average force on the front part during this time.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q3",
+    "Question_text": "A plane, irregular lamina has a mass of 50 g. It hangs from a nail that passes through a small hole H near to the edge of the lamina. The nail acts as a pivot and the lamina can swing about it. The lamina is held in the position shown in Fig. 3.1, a small distance above a horizontal bench. The centre of gravity of the lamina is at G.",
+    "image": "A diagram (Fig. 3.1, not to scale) shows an irregular-shaped lamina hanging from a pivot point H. The lamina's center of gravity (G) is marked below and to the right of H. A vertical distance of 6.0 cm is shown between H and G, and a horizontal distance of 8.0 cm from a vertical line through H to a vertical line through G. A horizontal 'bench' is shown beneath the lamina. The overall shape is labeled 'lamina'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Centre of Gravity",
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The weight of the lamina is a force that acts downwards. Explain why the lamina experiences this downward force.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the weight of the lamina on Earth.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The weight produces a moment about the pivot through H. Using Fig. 3.1, calculate the moment of the weight about the pivot.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The lamina is now released from the position shown in Fig. 3.1. Describe what happens to the lamina from the time it is released until it stops moving.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q4",
+    "Question_text": "Fig. 4.1 shows a long vertical tube, sealed at the base and open at the other end. The tube is 1.0m long. The cross-sectional area of the tube is 4.0 × 10-4m². It is filled with a liquid of density 1.4 × 104kg/m³. The atmospheric pressure is 1.0 × 105 Pa.",
+    "image": "A diagram (Fig. 4.1, not to scale) depicts a vertical tube of 1.0 m length, sealed at its base and open at the top. It is filled with a 'dense liquid' and stands on a 'bench'. The base of the tube is labeled with a cross-sectional area of 4.0 × 10^-4 m^2.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Density",
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate: the total pressure in the liquid at the bottom of the tube",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the force exerted on the inside surface of the bottom of the tube.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A small sheet of glass is placed over the open end of the tube. The tube is inverted in a container of the dense liquid. The open end of the tube and the sheet of glass are a short distance below the surface of the liquid. Fig. 4.2 shows the arrangement.",
+        "image": "A diagram (Fig. 4.2, not to scale) illustrates an 'inverted tube' submerged in a 'container' filled with 'dense liquid'. A 'sheet of glass' is placed over the open end of the inverted tube, and both are positioned a short distance below the surface of the liquid in the container."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The sheet of glass seals the open end of the inverted tube. Describe what happens in the inverted tube when the sheet of glass is removed.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "This equipment is used to make a measurement that is used to calculate atmospheric pressure. Describe the measurement made and then used in the calculation of atmospheric pressure. You may draw a diagram to help your description.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q5",
+    "Question_text": "Fig. 5.1 shows a device that cools the air in a room by evaporation. Water drips from the container into the sponge block and keeps it wet. Air flows in through one grille and out through the other. As the air flows through the wet sponge block, the water in the sponge block evaporates.",
+    "image": "A diagram (Fig. 5.1) illustrates an air cooling device. It features a top 'container' with 'water' from which drips fall onto a 'wet sponge block'. A 'fan' is positioned to circulate air, drawing it in through one 'grille' and expelling it through another after it passes through the wet sponge block.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Specific Latent Heat",
+      "Particle Model",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "When the water evaporates, the temperature of water remaining in the sponge block decreases. Explain, in terms of the movement of particles, why this decrease in temperature occurs.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why energy is needed when the water evaporates.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State two ways in which evaporation differs from boiling.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q6",
+    "Question_text": "The loudspeaker shown in Fig. 6.1 produces a sound of frequency 800 Hz.",
+    "image": "A diagram (Fig. 6.1) displays a loudspeaker connected to a power supply. The loudspeaker consists of a 'cone' and is labeled 'loudspeaker'. Arrows indicate 'sound of frequency 800 Hz' being emitted from the cone.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Features of Waves",
+      "Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by 'frequency'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain whether the sound produced by the speaker is audible to a human with healthy hearing.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe the motion of the cone in Fig. 6.1 and explain how this causes the production of sound.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The Sun is a very large and extremely violent ball of gas. Electromagnetic radiation from explosions on the surface of the Sun reaches the Earth. Explain why sound from explosions on the surface of the Sun does not reach the Earth.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q7",
+    "Question_text": "An electric circuit contains a battery, a fixed resistor R, a voltmeter and a thermistor. Fig. 7.1 is an incomplete circuit diagram of the arrangement. The thermistor is connected between terminals T1 and T2.",
+    "image": "An incomplete circuit diagram (Fig. 7.1) shows a battery connected to a fixed resistor R. A voltmeter (V) is connected in parallel across two terminals, T1 and T2, which are part of the circuit. A space is left between T1 and T2 for a component to be inserted.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Electrical Power",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete Fig. 7.1 by drawing the circuit symbol for a thermistor connected between T1 and T2.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The resistance of R is 2.5Ω. The reading on the voltmeter is 0.40V. Calculate: the current in R",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the power transferred in R.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The temperature of the thermistor increases. Explain what happens to the reading on the voltmeter.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q8",
+    "Question_text": "Fig. 8.1 shows a permanent magnet attached to one end of an unstretched spring and held at rest just above a solenoid. The solenoid is connected to a sensitive ammeter.",
+    "image": "A diagram (Fig. 8.1) shows a permanent magnet suspended by an unstretched spring. The magnet, with its North (N) and South (S) poles labeled, is held directly above a solenoid. The solenoid is connected in series to a sensitive ammeter, labeled 'A'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Electromagnetic Induction",
+      "Magnetic Effect of a Current",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of a substance from which permanent magnets are made.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The magnet is released and moves downwards towards the solenoid. The ammeter shows that there is a current in the solenoid when the magnet moves. Explain why there is a current in the solenoid.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The current causes the top end of the solenoid to become the S pole of an electromagnet. The bottom end of the permanent magnet is an S pole. Explain why the top end of the solenoid becomes an S pole as the magnet moves downwards towards the solenoid.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The magnet oscillates up and down. Describe what happens to the current in the solenoid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q9",
+    "Question_text": "In space, an interstellar cloud of dust and gas collapses to form a protostar. The cloud contains hydrogen.",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "Stars",
+      "The Sun as a Star",
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Fusion",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the energy transfers that take place as the cloud collapses and forms the protostar.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The collapse results in a nuclear reaction in the protostar that involves the isotope hydrogen-3 (3H). The isotope hydrogen-3 (H) is radioactive. It decays by beta particle emission.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State how the nuclei of isotopes of the same element are different.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why hydrogen-3 cannot decay by alpha particle emission.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Complete the equation for the decay of hydrogen-3 to an isotope of helium (He). 3H → β + He",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Explain how the nuclear reaction in the protostar stops further collapse as the protostar becomes a stable star.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The cloud of dust and gas that collapses also contains atoms of the heaviest elements. State which part of the life cycle of a star is responsible for the production of the heaviest elements.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2023/Q10",
+    "Question_text": "The isotope iodine-131 emits two types of nuclear radiation. Gamma radiation is one of the types emitted. A sample of iodine-131 produces a narrow beam of radiation which passes into a magnetic field. Fig. 10.1 shows some of the paths taken in the magnetic field by the radiation emitted from the sample.",
+    "image": "A diagram (Fig. 10.1) shows a 'sample' emitting a narrow beam of radiation into a magnetic field. The magnetic field is directed 'into page', indicated by multiple 'X' symbols. Three distinct paths are shown after the radiation enters the field: one straight (undeflected) path, one path curving significantly upwards, and another path curving downwards.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Detection of Radioactivity",
+      "Electromagnetic Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The direction of the magnetic field is into the page.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 10.1, mark with a gamma symbol (γ) any of the paths taken by the gamma radiation.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine the other type of radiation emitted by iodine-131. Explain how you obtain your answer. type of radiation explanation",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "In another experiment, the beam of radiation from the sample is incident on a 5mm thick sheet of lead. State what happens to the two types of radiation in the beam.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The gamma radiation produced has a frequency of 8.8 × 10^19 Hz. The speed of electromagnetic radiation in a vacuum is 3.0 x 10^8m/s. Calculate the wavelength of this gamma radiation in a vacuum.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Write the ratio 175 ml: 2.5 litres in its simplest form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Dan, Erika and Fatik share $540 in the ratio 4:5:3. Find the amount that Erika receives.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Convert 6.1 m² to cm².",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Chris wants to exchange $350 for euros (€) at the bank. The bank only gives euros in multiples of €5. The exchange rate is $1 = €0.92 . Calculate the number of euros he receives and his change from $350.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "Zaya invests $4500 in a savings account. The account pays simple interest at a rate of 3.2% per year. Calculate the value of the investment at the end of 5 years.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate simple interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "Aisha invests $2750 in a different savings account. This account pays compound interest at a rate of 2.1% per year. Calculate the total amount of interest she receives at the end of 3 years.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate compound interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Factorise 7hx+6fy-21fx - 2hy",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17a",
+    "Question_text": "f(x) = (10-x)/3. Find f(-8).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.1 Introduction to algebra",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17b",
+    "Question_text": "g(x) = 4x+3 Find g⁻¹(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Find the value of x and the value of y. Diagram with two parallel lines crossed by two lines with labelled angles.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "In a survey, students are asked to choose their favourite type of movie. The table shows the results. Calculate the relative frequency of a student choosing Thriller.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.2 Relative and expected frequencies",
+    "Sub_topic": [
+      "Understand relative frequency as estimate of probability"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "500 students take part in the survey. Calculate the number of students who choose Science Fiction.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.2 Relative and expected frequencies",
+    "Sub_topic": [
+      "Calculate expected frequencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Calculate the interior angle of a regular octagon.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "On the Venn diagram, shade the region represented by (A∩B)'. In a class of 22 students: 12 play the piano, 9 play the guitar, 6 do not play the piano or the guitar. Find the number of students who play both the piano and the guitar.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Simplify 7x²y⁵/x³y².",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "A bag contains 9 red counters and 3 green counters. Lee takes two counters from the bag at random without replacement. Complete the tree diagram. Work out the probability that both counters are red.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "PQRS is a cyclic quadrilateral. APB is a tangent to the circle at P. Angle SPB = 37° and angle PSQ = 85°. Find angle PQS. Find angle QRS.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "These are the first four patterns in a sequence made from black beads and from white beads. Complete the table for Pattern 5. Find an expression for the number of white beads in Pattern n. Find an expression for the total number of beads in Pattern n. Bill has only 88 white beads but lots of black beads. Pattern p is the largest possible pattern he can make using these beads. Work out the value of p.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "The population of Kenya is 5.71 ×10⁷ people. The area of Kenya is 6×10⁵ km². Calculate the population density of Kenya.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "300 students take part in a competition. The table shows information about their scores. Calculate an estimate of the mean score. On the grid, complete the histogram to represent the data in the table.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Calculate with frequency density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "ABCD and EFGD are rectangles. Show that CD = x-1. The area of rectangle ABCD is 1/4 of the area of rectangle EFGD. Form an equation in x and show that it simplifies to x²-6x + 3 = 0 . Use the quadratic formula to solve the equation x²-6x+3 = 0. You must show all your working and give your answers correct to 2 decimal places. Calculate the shaded area.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "The diagram shows a solid formed by joining a cone to a hemisphere.The diameter of the cone is 14 cm and the diameter of the hemisphere is 14cm.The total height of the solid is 24 cm. Calculate the volume of the solid. Show that the total surface area of the solid is 712cm², correct to the nearest integer.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "The diagram shows a triangular field ABC. AB = 150m, BC = 187m and angle ABC = 112°. Fencing is needed for the perimeter of the field. Fencing is sold in rolls of length 20 m. Calculate the number of rolls of fencing needed. Calculate the shortest distance from B to AC.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Zara cycles a distance of 500 metres, correct to the nearest 5 metres.This takes 24.7 seconds, correct to the nearest 0.1 seconds.Calculate the lower bound of her average speed.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds",
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "QuestionNumber": "May/June/22/2025/Q1",
+    "Question_text": "A ball is dropped by the side of a vertical scale that is marked in centimetres. A video recording of the fall shows the position of the ball on the scale every 0.10s. The distance the ball falls is shown by the position on the scale. Table 1.1 shows the results.",
+    "image": "Fig. 1.1 shows an empty distance-time graph grid with the x-axis labeled 'time/s' ranging from 0 to 0.60, and the y-axis labeled 'distance/cm' ranging from 0 to 140. Major grid lines are marked every 0.10s on the x-axis and every 20cm on the y-axis, with finer subdivisions. A table, Table 1.1, is also provided with two rows: 'time/s' (values: 0, 0.10, 0.20, 0.30, 0.40, 0.50) and 'distance/cm' (values: 0, 5, 20, 44, 78, 123). The image context implies plotting these points on the graph.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity",
+      "Acceleration",
+      "Freefall",
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "terminal velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 1.1, plot the distance-time graph for the ball. Draw a suitable line.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the average speed of the ball between time t = 0 and time t = 0.40 s.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe how to use the graph in Fig. 1.1 to determine the speed of the ball at time t = 0.40 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain, in terms of the forces acting, why the acceleration decreases, and why it eventually becomes zero.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe the appearance of a distance-time graph when the acceleration of the ball is zero.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2025/Q2",
+    "Question_text": "Fig. 2.1 shows a fork-lift truck used to lift a load. When lifting the load, the electric motor on the fork-lift truck has a useful output power of 600 W.",
+    "image": "Fig. 2.1 shows a schematic diagram of a fork-lift truck. The truck has a cab, front and rear wheels, and a mast with forks at the front. A rectangular 'load' is depicted being lifted by the forks. The main components are labeled 'fork-lift truck' and 'load'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Efficiency",
+      "Work",
+      "Energy Stores & Transfers",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define 'power'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The efficiency of the motor is 70%. Calculate the input power to the motor.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the work done in lifting the load.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the time taken to lift the load.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe how energy is transferred to thermal energy as the load is lifted by the fork-lift truck.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2025/Q3",
+    "Question_text": "Fig. 3.1 shows a flat tyre on a car. The tyre needs to be inflated.",
+    "image": "Fig. 3.1 shows a cross-sectional view of a deflated car tyre, with its lower part flattened and in contact with the ground. The tyre is labeled 'tyre'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Momentum",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the pressure exerted by the flat tyre on the road.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how the area of the tyre in contact with the road changes.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Define 'momentum'.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using ideas about momentum, explain why there is a force on the wall of the tyre as the particle collides with it.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using ideas about particles, explain why the pressure increases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2025/Q4",
+    "Question_text": "A sound wave from a vibrating tuning fork is displayed on the oscilloscope shown in Fig. 4.1. The sound wave is detected using a microphone.",
+    "image": "Fig. 4.1 shows a diagram illustrating the setup for detecting sound waves. A 'tuning fork' is shown, with lines indicating 'vibrations' emanating from it. These vibrations are received by a 'microphone', which is connected by a cable to an 'oscilloscope'. The oscilloscope screen displays a sinusoidal wave pattern.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Uses of an Oscilloscope",
+      "Features of Waves",
+      "Transverse & Longitudinal Waves",
+      "Wave Behaviour"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the motion of the air particles as the sound wave passes from the tuning fork to the microphone.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by 'frequency'.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The trace shown on Fig. 4.2 is produced in 0.050 s. Calculate the frequency of the sound wave.",
+        "image": "Fig. 4.2 shows an oscilloscope trace displaying a sinusoidal wave. The x-axis (time) is marked with a double-headed arrow indicating a duration of '0.050 s' across 2.5 complete cycles of the wave."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "A student near the tuning fork observes the trace and listens to the sound. He notices that the amplitude of the trace decreases. State how the sound heard by the student changes.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "On Fig. 4.3, draw the trace obtained with the new tuning fork. The trace obtained with the original tuning fork is shown.",
+        "image": "Fig. 4.3 shows an oscilloscope grid with a pre-drawn sinusoidal wave labeled 'original trace'. The grid has five full horizontal divisions spanning two complete cycles of the original trace. The task is to draw a new trace with half the frequency on this same grid."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 4.4, draw the three wavefronts after they pass through the gap.",
+        "image": "Fig. 4.4 shows three parallel straight lines representing 'wavefronts' approaching a 'wall' which has a rectangular 'open door' (a gap). A point 'P' is marked on the opposite side of the wall, slightly offset from the center of the gap."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State the name of the process involved as the wavefronts pass through the gap and reach P.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2025/Q5",
+    "Question_text": "A student sets up the circuit shown in Fig. 5.1 to measure the resistance of a length of wire. The circuit contains four identical cells.",
+    "image": "Fig. 5.1 shows an electrical circuit diagram. Four cells are connected in series, then through a switch, to an ammeter (A). The ammeter is in series with a component labeled 'length of wire'. A voltmeter (V) is shown connected in series with the 'length of wire' (which is an incorrect configuration for measuring voltage across a component).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe all the changes to the circuit in Fig. 5.1 that are needed so that the meters produce readings that can be used to calculate the resistance of the length of wire.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the resistance of the 9.0cm length of wire.",
+        "image": "Fig. 5.2 shows a current-voltage graph. The x-axis is 'voltage/V' from 0 to 6, and the y-axis is 'current/A' from 0 to 0.8. Two straight lines pass through the origin. 'line P' is labeled '9.0 cm wire' and has a shallower slope, passing through approximately (6 V, 0.6 A). 'line Q' has a steeper slope, passing through approximately (3 V, 0.7 A) or (6V, 1.4A if it continued)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain whether line Q is obtained with a length of wire that is longer or shorter than 9.0 cm.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the length of the wire used to obtain line Q.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2025/Q6",
+    "Question_text": "Fig. 6.1 shows part of a mains circuit that includes three lamps and a heater.",
+    "image": "Fig. 6.1 shows a circuit diagram of a mains electrical wiring. A 'live' wire branches into two parallel circuits. The first circuit contains a fuse (unlabeled rating) followed by a 'heater'. The second circuit, labeled 'lighting circuit fuse' with a 'rating = 5 A', is followed by three lamps connected in parallel: two labeled 'lamp type P' and one 'lamp type Q'. Both circuits then connect to a 'neutral' wire.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Power",
+      "Current in Circuits",
+      "Combined Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Underline the most suitable fuse value for the heating circuit fuse, and explain your choice. Your answer must include a calculation. available fuses: 5A 8A 13A 30A",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe what happens to a fuse when the current is too large.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the current in the lighting circuit fuse when all three lamps are switched on.",
+        "image": "Table 6.1 provides current values for two lamp types: 'lamp type P' has a current of '0.26 A', and 'lamp type Q' has a current of '0.43 A'."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The rating for the lighting circuit fuse in Fig. 6.1 is 5A. The lamp of type Q is removed from the circuit. Calculate the maximum number of additional lamps of type P that can now be connected in parallel to the lighting circuit.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State two advantages of using a trip switch rather than a fuse.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2025/Q7",
+    "Question_text": "Fig. 7.1 shows a simple d.c. motor. The poles at the ends of the magnets are not labelled.",
+    "image": "Fig. 7.1 shows a diagram of a simple DC motor. A rectangular 'coil' is positioned between two unlabelled magnet poles, referred to as 'end of magnet 1' (left) and 'end of magnet 2' (right). The coil rotates around an 'axis'. Forces of '2.3 N' are indicated acting upwards on the 'LEFT' side of the coil and downwards on the 'RIGHT' side of the coil. The distance from the axis to the side of the coil is '0.15m'. The coil is connected to a 'split-ring commutator' and 'brush' which are in turn connected to a 'battery'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Force on a Current-Carrying Conductor",
+      "Magnetic Fields",
+      "Moments"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the purpose of the split-ring commutator and the brushes.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the direction of this magnetic field. Explain how you determined this direction.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State what happens to the rotation of the coil if the magnetic field and the current in the coil are both reversed at the same time.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the total moment exerted on the coil by these forces. Give the unit of your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Explain why the turning effect becomes smaller as the coil becomes more vertical.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2025/Q8",
+    "Question_text": "Fig. 8.1 is a diagram of a nuclear reactor.",
+    "image": "Fig. 8.1 shows a cross-sectional diagram of a nuclear reactor. It depicts a cylindrical 'container vessel' housing vertical 'fuel rod' assemblies, with 'moderator' material between them. 'Control rod's are shown extending into the fuel rod assemblies from above. The entire vessel is encased in thick 'concrete shielding'. Arrows indicate 'coolant in' at the bottom and 'coolant out' at the top of the vessel.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "The Nucleus",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In Table 8.1 state the purpose of each part of the reactor.",
+        "image": "Table 8.1 lists reactor parts and requires their purpose. The parts are: 'container vessel', 'concrete shielding', 'control rods', and 'moderator'. The purpose for 'container vessel' is pre-filled as 'to withstand high pressures and temperatures and make sure no coolant escapes'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe what causes the fission of a single nucleus of uranium-235 in the fuel rods, and describe what happens during the fission.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is meant by 'specific heat capacity'.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest and explain whether the coolant should have a large or a small specific heat capacity.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/22/2025/Q9",
+    "Question_text": "Fig. 9.1 shows the path of a comet, the orbit of Earth and the orbit of Jupiter around the Sun.",
+    "image": "Fig. 9.1 shows a diagram of parts of the solar system, labeled '(not to scale)'. The 'Sun' is at the center. Two concentric circular orbits are shown, an inner one labeled 'orbit of Earth' and an outer one labeled 'orbit of Jupiter'. An elongated elliptical or parabolic path, labeled 'path of comet', is shown intersecting both orbits. Four positions (1, 2, 3, 4) are marked along the comet's path, and one position (5) is marked on Earth's orbit.",
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "The Solar System",
+      "Orbiting Bodies",
+      "Gravitational Effects on Orbits",
+      "Calculating Orbital Speeds"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 9.1, draw the orbits of Mercury and Mars. Label each orbit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the comet at position 3 cannot be seen from Earth when Earth is at position 5.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State the name of the force that acts on the comet.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 9.1, mark the direction of the force that acts on the comet at each of the four positions shown.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Describe how the strength of the force that acts on the comet changes as the comet moves from position 1 through position 3 to position 4. Explain your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the number of orbits that Earth makes around the Sun in the time that Jupiter makes one orbit. Show your working.",
+        "image": "Table 9.1 provides orbital data. For 'Earth', the 'orbital radius/km' is '1.5 x 10^8' and 'orbital speed km/s' is '30'. For 'Jupiter', the 'orbital radius/km' is '7.8 x 10^8' and 'orbital speed km/s' is '13'."
+      }
+    ]
+  }
+]

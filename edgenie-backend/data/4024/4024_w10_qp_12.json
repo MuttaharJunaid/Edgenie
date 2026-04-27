@@ -1,0 +1,674 @@
+[
+  {
+    "QuestionNumber": "October/November/2010/Q1",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use mixed numbers",
+      "Use proper fractions",
+      "Use improper fractions",
+      "1.6 The four operations",
+      "Use operations with fractions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 3⅓ - 2¾.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate (2/9) × 1⅞, giving your answer as a fraction in its lowest terms.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use decimals",
+      "1.6 The four operations",
+      "Use operations with decimals",
+      "1.5 Ordering",
+      "Order by magnitude"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 6.3 ÷ 0.09.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the decimal number that is exactly halfway between 3.8 and 4.3.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form",
+      "Use A × 10^n form",
+      "1.13 Percentages",
+      "Calculate percentage change"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express 0.0000706 in standard form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A house was bought for $20000 and sold for $50000. Calculate the percentage profit.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q4",
+    "Question_text": "The temperatures, in °C, at midnight on 10 consecutive days were 4, 1, 0, -2, -1, -3, 1, 2, 3, -1.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude",
+      "1.6 The four operations",
+      "Use operations with integers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the difference between the highest and the lowest temperature.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "How many of these temperatures are within 2.5 °C of 1°C?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q5",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "1.11 Ratio and proportion",
+      "Give ratios simply"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The mass of a container and its contents is 2.4 kg. The mass of the contents is 750 g. Calculate the mass, in kilograms, of the container.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Express the ratio 24 cm to 3 m in its lowest terms. Give your answer in the form p : q, where p and q are integers.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q6",
+    "Question_text": "Factorise",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Factorise expressions of the form: ax² + bx + c"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "4t² - 9",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "3x² + 5x - 2",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q7",
+    "Question_text": "y is directly proportional to the square of x. Given that y = 50 when x = 5, find the value of y when x = 3.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q8",
+    "Question_text": "Make x the subject of the formula y = 2x² + 3.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q9",
+    "Question_text": "Vector AB = (3, -4)",
+    "image": null,
+    "Unit": "Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "7.3 Magnitude of a vector",
+      "Calculate magnitude of vector as sqrt(x² + y²)",
+      "3.4 Length and midpoint",
+      "Find the coordinates of the midpoint of a line segment",
+      "2.5 Equations",
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find |AB|.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A is the point (0, 2). The equation of the line AB may be written 3y + 4x = k. Find the value of k.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find the coordinates of the midpoint of AB.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q10",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Understand zero indices",
+      "Understand negative indices",
+      "Use rules of indices",
+      "2.4 Indices II",
+      "Understand and use the rules of indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 5⁰ – 5⁻¹.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Simplify (5x³)².",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Simplify (16/n¹⁶)^½.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q11",
+    "Question_text": "The Venn diagram shows the sets ε, P, Q and R. ε = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}",
+    "image": "A Venn diagram showing a universal set E containing elements 1 to 10. There are three overlapping sets P, Q, and R. Elements are distributed as follows: P contains {1, 2, 3, 4}, Q contains {2, 5, 6, 9}, R contains {4, 7, 8}. Element 10 is outside P, Q, and R but inside E. The intersections are P∩Q={2}, P∩R={4}, Q∩R={6,9}. P only has 1, 3. Q only has 5. R only has 7, 8.",
+    "Unit": "Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams",
+      "8.1 Introduction to probability",
+      "Calculate probability of single event"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the value of n(Q U R).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "List the elements of the set P' ∩ (Q U R).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "One element is chosen at random from E. Write down the probability that this element belongs to (P ∩ Q) U (P ∩ R).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q12",
+    "Question_text": "f(x) = 6 - x/2.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find f(5).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find f⁻¹(x).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q13",
+    "Question_text": "In the diagram, ABC = 90°, BC = 5 cm and AC = √89 cm.",
+    "image": "A right-angled triangle labeled A, B, C with the right angle at B. Side BC is 5 cm. The hypotenuse AC is √89 cm.",
+    "Unit": "Trigonometry",
+    "Topic": "6.1 Pythagoras’ theorem",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem",
+      "1.1 Types of number",
+      "Identify irrational numbers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "What special kind of number is √89?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate AB.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q14",
+    "Question_text": "Solve the simultaneous equations. 3y = 2x, x + 2y = 21",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q15",
+    "Question_text": "In a sale, a shopkeeper reduced the marked price of his goods by 20%.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Calculate reverse percentages",
+      "Calculate percentage change"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The marked price of a book was $20. Calculate its price in the sale.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The price of a camera in the sale was $60. Calculate its marked price.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q16",
+    "Question_text": "Given A = ((2, -3), (-1, 0)) and B = ((5, -4), (-2, 2)). Find",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Matrices (subtraction, scalar multiplication, inverse of 2x2 matrix)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "2A - B",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A⁻¹",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q17",
+    "Question_text": "A shop sells bunches of flowers. One bunch contains 3 roses, 4 carnations and 5 freesias. Another bunch contains 6 roses and 4 carnations. Each rose costs 60 cents, each carnation costs 40 cents and each freesia costs 30 cents. This information can be represented by the matrices P and Q below. P = ((3, 4, 5), (6, 4, 0)) and Q = ((60), (40), (30))",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Matrices (multiplication)",
+      "Problem solving with matrices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find PQ.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain what the numbers in your answer represent.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q18",
+    "Question_text": "The times taken for 200 children to run 100m were recorded. The cumulative frequency curve summarises the results.",
+    "image": "A cumulative frequency curve. The x-axis is 'Time (seconds)' ranging from 14 to 16. The y-axis is 'Cumulative frequency' ranging from 0 to 200. The curve starts at (14,0), rises, and ends at (16,200).",
+    "Unit": "Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Use the curve to find the lower quartile.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Use the curve to find the number of children who took at least 15.5 seconds.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q19",
+    "Question_text": "A bag contains 7 balls, 6 of which are green and 1 is red. Two balls are taken from the bag, at random, without replacement. The tree diagram that represents these events is drawn below.",
+    "image": "A probability tree diagram for drawing two balls without replacement. The first draw shows branches for green (6/7) and red (1/7). From the green branch, the second draw shows green (5/6) and red (1/6). From the red branch, the second draw shows green (p) and red (q).",
+    "Unit": "Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the values of p and q.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Expressing each answer as a fraction in its simplest form, find the probability that both balls are green.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Expressing each answer as a fraction in its simplest form, find the probability that the two balls have different colours.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q20",
+    "Question_text": "The three lines 3x = 7, 2y = 5 and 4x + 4y = 35 intersect to form the triangle ABC, as shown in the diagram. The region inside the triangle ABC is defined by three inequalities. One of these is 2y > 5.",
+    "image": "A coordinate plane showing a triangle ABC formed by the intersection of three lines: x = 7/3 (vertical line), y = 5/2 (horizontal line), and 4x + 4y = 35 (sloping line). The points A, B, C are labeled.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region",
+      "3.1 Coordinates",
+      "Use and interpret Cartesian coordinates in two dimensions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the other two inequalities.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the point, with integer coordinates, that lies inside the triangle ABC and is closest to B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q21",
+    "Question_text": "ABC is a triangle. Angle A is 62°, correct to the nearest degree. Angle B is 53.4°, correct to the nearest tenth of a degree.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds",
+      "Give upper bounds",
+      "Find bounds of calculations",
+      "4.6 Angles",
+      "Calculate unknown angles using triangle sum (180°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the lower bound for angle B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the upper bound for angle C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q22",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy",
+      "Make estimates",
+      "Round answers reasonably"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Express 15823.769, correct to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Express 0.003 0489, correct to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Use your answers to part (a) to estimate, correct to one significant figure, the value of 15823.769 × 0.003 048 9.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q23",
+    "Question_text": "In the diagram, A, B, C, D, E and F lie on the circle, centre O. AD and FC are diameters, and FCD = 57°.",
+    "image": "A circle with center O. Points A, B, C, D, E, F are on the circumference. AD and FC are diameters. Angle FCD is marked as 57 degrees. Various chords and lines connect points within the circle.",
+    "Unit": "Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find DÊF,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find FBD,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find CÎD,",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Find AÔF.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q24",
+    "Question_text": "In the diagram, AB = p, CA = q and DC = 3AB.",
+    "image": "A diagram with points A, B, C, D and vectors. Vector AB is labeled p. Vector CA is labeled q. Point E is introduced in part (b).",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Represent vectors by directed line segments",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems",
+      "7.2 Vectors in two dimensions",
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express DA in terms of p and q.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "E is the point such that BE = kq. Write down the name given to the special quadrilateral ACBE.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Express AE in terms of p, q and k.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Given that D, A and E lie on a straight line, find the value of k.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q25",
+    "Question_text": "The diagram is the speed-time graph of part of the journey of a car. From t = 0 to t = 20 the car moves with a constant acceleration. From t = 20 to t = 60 the car moves with a constant speed of u metres per second.",
+    "image": "A speed-time graph. The x-axis is 'Time (t seconds)' from 0 to 100. The y-axis is 'Speed (m/s)' up to u. From t=0 to t=20, the graph is a straight line sloping up from (0,0) to (20,u). From t=20 to t=60, the graph is a horizontal line at speed u. Beyond t=60, the graph shows deceleration.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph",
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "When t = 20 the car has travelled D metres from the start. Calculate the value of t when the car has travelled 2D metres from the start.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "At t = 60, the car slows down with a constant deceleration. This deceleration is half of the acceleration between t = 0 and t = 20. During this period of deceleration, calculate the value of t when the car has a speed of (u/4) metres per second.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q26",
+    "Question_text": "In the diagram, DAB is a straight line. BC = 10cm, CÂB = a° and CÊA = b°. Use as much information given in the table as is necessary to answer the following questions. Table: sin x°, cos x°, tan x° values for a° and b°.",
+    "image": "A triangle ABC with an external angle at A. DAB is a straight line. Angle CAB is a°. Angle CBA is b°. Side BC = 10. A table provides values for sin x°, cos x°, tan x° for angles a° and b°.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "4.6 Angles",
+      "Calculate unknown angles using sum of angles on a straight line (180°)",
+      "Calculate unknown angles using triangle sum (180°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the value of cos DÂC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate AC.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q27",
+    "Question_text": "The diagram shows a shape made from thin wire. The shape is formed from 3 identical sectors of a circle, each with an angle of 40°. The angle between each pair of sectors is x°.",
+    "image": "A shape made from thin wire consisting of three identical circular sectors, each with an angle of 40 degrees. These sectors are arranged symmetrically around a central point, with gaps between them. The angles of these gaps are labeled x°.",
+    "Unit": "Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions",
+      "4.6 Angles",
+      "Calculate unknown angles using sum of angles at a point (360°)",
+      "5.3 Circles, arcs and sectors",
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the order of rotational symmetry of the shape.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the value of x.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In this part take the value of π to be 3. Given that the total length of the wire is 60 cm, calculate the radius of one of the sectors.",
+        "image": null
+      }
+    ]
+  }
+]

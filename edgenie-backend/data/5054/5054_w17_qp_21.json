@@ -1,0 +1,492 @@
+[
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q1",
+    "Question_text": "Fig. 1.1 shows a painter standing on a wooden plank, directly above the right-hand support. The plank has length 3.6m, width 0.35m and thickness 0.025m. The gravitational field strength g is 10N/kg and the mass of the plank is 23 kg.",
+    "image": "Fig. 1.1 shows a painter standing on a wooden plank. The plank is supported at two points by two supports. The left support is 0.35m from the left end of the plank. The right support is 1.3m from the right end of the plank. The total length of the plank is 3.6m. The thickness of the plank is 0.025m. The center of mass of the plank is indicated near the middle. The painter is standing directly above the right-hand support.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density, 1.3 Mass & weight, 1.5 Forces",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Mass & Weight",
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the density of the wood from which the plank is made.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The centre of mass of the plank is in the middle of the plank at a distance of 1.3m from each of the supports. Calculate the weight of the plank,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the moment of the plank about the right-hand support.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The painter moves further to the right along the plank and the plank rotates about the right-hand support. Explain why the plank rotates.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q2",
+    "Question_text": "Fig. 2.1 shows a can of compressed air that is being used to blow dust off a computer keyboard.",
+    "image": "Fig. 2.1 shows a person holding a can of compressed air and using it to blow dust off a computer keyboard. The can has a nozzle from which air is directed towards the keyboard.",
+    "Unit": "UNIT 1: Motion, Forces & Energy, UNIT 2: THERMAL PHYSICS",
+    "Topic": "1.8 Pressure, 2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Atmospheric pressure",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by the term pressure.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain, in terms of molecules, why the pressure of the air inside the can decreases as it is used.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A student uses an inverted measuring cylinder in a water trough to measure the volume that the air occupies at atmospheric pressure. Initially the inverted measuring cylinder is full of water. The student presses the top of the can and air passes through the rubber tubing into the inverted measuring cylinder. The air gradually replaces the water in the cylinder until no more air can leave the can. The final temperature of the air is equal to its initial temperature. The volume of the air inside the can is 1.8 x 10⁻⁴ m³. The student observes that, at an atmospheric pressure of 1.0 × 10⁵ Pa, the total volume of the air in the measuring cylinder, the can and the tubing is now 9.4 × 10–4 m³. Determine the original pressure of the air in the can.",
+        "image": "Fig. 2.2 shows an experimental setup with an inverted measuring cylinder submerged in a water trough. A rubber tube from a can is inserted under the measuring cylinder, allowing air from the can to displace water inside the cylinder. The measuring cylinder is marked with a scale for volume, and the water level inside it is visible."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q3",
+    "Question_text": "Unwanted gold jewellery is heated in a furnace until it melts. Fig. 3.1 shows the liquid gold being poured into a mould to make a gold bar. The melting point of gold is 1100°C.",
+    "image": "Fig. 3.1 shows a pair of tongs holding a crucible from which molten gold is being poured into a rectangular mould. The gold is depicted as a glowing liquid stream.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter, 2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two ways in which the molecular structure of gold at 1200 °C differs from its structure at 1000 °C.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In the furnace, 0.84 kg of solid gold reaches its melting point. The furnace continues to supply thermal energy and, after a short time, all the gold melts. Explain, in terms of the molecules, why thermal energy is needed to melt the gold.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The specific latent heat of fusion of gold is 64 kJ/kg. Calculate the thermal energy supplied to melt all the gold.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q4",
+    "Question_text": "Fig. 4.1 shows a mercury-in-glass thermometer made using a glass capillary tube.",
+    "image": "Fig. 4.1 shows a diagram of a mercury-in-glass thermometer. It has a bulb at the bottom containing mercury, connected to a thin glass capillary tube with a scale marked from -10 °C to 110 °C in increments of 10 °C.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how to check that the 100°C mark is in the correct position on the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Some thermometers contain ethanol instead of mercury. A second glass capillary tube is identical to the tube in Fig. 4.1, except that it has no markings on the glass. This tube is used to make an ethanol-in-glass thermometer. The volume of the ethanol in this thermometer is equal to the volume of mercury in the thermometer in Fig. 4.1. The thermal expansion of ethanol is more than that of mercury. State and explain how the maximum possible range of the ethanol-in-glass thermometer differs from the range of the thermometer in Fig. 4.1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q5",
+    "Question_text": "Some medical processes involve the use of ultrasound.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by ultrasound.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain briefly how ultrasound is used in pre-natal scanning.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q6 (EITHER)",
+    "Question_text": "The main part of a cathode-ray oscilloscope consists of a glass tube. At one end of the tube, electrons are emitted by a hot metal filament.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two requirements for there to be a continuous flow of electrons in the tube.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A microphone detects two pulses of sound. The output is displayed on the screen of an oscilloscope. Describe how the time between the two pulses can be determined using the display on the screen of the oscilloscope.",
+        "image": "Fig. 6.1 shows a graph of voltage versus time, representing the output of a microphone. There are two distinct pulses shown as peaks on the graph, separated by a duration of time. The x-axis is time (0 to some value) and the y-axis is voltage (0 to some value)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q6 (OR)",
+    "Question_text": "Many electronic and digital circuits include logic gates. The NAND gate is a type of logic gate.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism, UNIT 1: Motion, Forces & Energy",
+    "Topic": "4.2 Electrical Quantities, 4.3 Electric Circuits, 1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw the circuit symbol for a NAND gate.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The two input terminals of a NAND gate are connected to zero voltage (logic state 0) and no energy is supplied to these terminals. The output of the NAND gate is connected to an LED (light-emitting diode). The output is not zero (it has a logic state of 1) and the LED is glowing brightly. Energy is supplied to the LED by the NAND gate. State where this energy comes from.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Complete the truth table for a NAND gate.",
+        "image": "A table titled 'inputs output' with two input columns and one output column. The input rows are '0 0', '0 1', '1 0', and '1 1'. The output column cells are empty, indicating they are to be completed by the user."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q7",
+    "Question_text": "An electric circuit consists of a battery, a variable resistor and connecting wires. Sections PQ and QR of the connecting wire are in a region of space where there is a uniform magnetic field. In Fig. 7.1, the shaded area represents the magnetic field. The direction of the magnetic field is into the page. A current-carrying wire in a magnetic field can experience a force.",
+    "image": "Fig. 7.1 shows an electric circuit connected to a region of uniform magnetic field. The circuit includes a battery, a variable resistor, and a wire with sections labeled P, Q, and R. Section PQ is horizontal, and section QR is vertical. The magnetic field is represented by 'X' symbols, indicating it is directed into the page. The force on the wire segments is indicated by Fleming's Left-Hand Rule context.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the table, mark one tick (✔) in each column to indicate the force on PQ and the force on QR.",
+        "image": "A table with two columns, 'section PQ' and 'section QR', and rows for different force directions: 'no force on this section', 'a force towards the top of the page', 'a force towards the bottom of the page', 'a force out of the page', 'a force into the page', 'a force towards the left of the page', 'a force towards the right of the page'. Cells are empty for marking."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The battery in the circuit in Fig. 7.1 is reversed. State and explain the effect of this on PQ and QR.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The variable resistor is adjusted and the current in the circuit decreases. Suggest one effect of decreasing the current.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q8",
+    "Question_text": "A sample of the radioactive isotope radon-222 decays by the emission of alpha-particles.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom, 5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "Half-Life"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "As alpha-particles travel through air, the air is ionised. Describe the composition of an alpha-particle.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how an alpha-particle ionises air.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)1",
+        "part_text": "State how the relative ionising effect of alpha-particles compares with that of beta-particles,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)2",
+        "part_text": "gamma rays.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The half-life of radon-222 is 3.3 x 10⁵s. The number of radon-222 atoms in the sample is 4.8 × 10⁴. Determine the time that it takes for the number of radon-222 atoms in this sample to decrease to 1.5 x 10³.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest one reason why, in practice, the time for the number of radon-222 atoms to decrease to 1.5 × 10³ may differ slightly from the value obtained in (b)(i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q9",
+    "Question_text": "Fig. 9.1 shows a large container ship travelling at constant speed in a straight line. The resistive force acting on the ship is 2.8 × 10⁶ N.",
+    "image": "Fig. 9.1 depicts a large container ship sailing on water. The ship has multiple levels of containers stacked on its deck and is shown moving in a straight line.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion, 1.5 Forces, 1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Newton's Second Law",
+      "Friction",
+      "Work",
+      "Power",
+      "Efficiency",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The speed of the ship is 9.7 m/s. Calculate the work done against the resistive force on the ship in 1.0s.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The engines are powered by oil. State the energy transfer that is taking place when the ship is travelling at constant speed.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The mass of the ship is 2.2 x 10⁸kg. The engines are switched off and the resistive force causes the ship to decelerate. Calculate the initial deceleration of the ship.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "As the speed of the ship decreases, its deceleration changes. Suggest and explain how the deceleration changes.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "On Fig. 9.2, sketch a possible speed-time graph for the ship as it decelerates to rest.",
+        "image": "Fig. 9.2 shows an empty graph with speed (m/s) on the y-axis and time (s) on the x-axis. The y-axis is marked with a value of 9.7. The origin (0,0) is also marked."
+      },
+      {
+        "part_label": "b(ii)3",
+        "part_text": "Explain how the distance travelled by the ship may be determined from the speed-time graph.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "When the ship is travelling at a different speed, energy is being supplied to the engines at a rate of 33 MJ/s. The efficiency of the engines is 0.36 (36%). State a relationship that defines efficiency.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the rate at which energy is wasted in the engines.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q10",
+    "Question_text": "Fig. 10.1 represents the electromagnetic spectrum.",
+    "image": "Fig. 10.1 shows a diagram representing a segment of the electromagnetic spectrum. It is drawn as a horizontal band divided into sections. From left to right, some sections are labeled: 'P', 'X-rays', 'Q', 'infra-red radiation', 'R', 'radio waves'. 'visible light' is shown spanning across a section. The task is to identify the missing components P, Q, R, and mark those with frequencies greater than visible light.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves, 3.2 Light, 3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Refraction of Light",
+      "Snell's Law",
+      "Dispersion of Light",
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of the component of the electromagnetic spectrum that is found in region P,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Q,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "R.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 10.1, mark a tick (✔) in all of the boxes that represent the components with frequencies greater than the frequencies of visible light.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The speed of electromagnetic radiation in a vacuum is 3.0 x 10⁸m/s. A television remote controller uses infra-red radiation of wavelength 9.4 × 10–7 m. Calculate the frequency of this radiation.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain how infra-red radiation is used in television remote controllers.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Fig. 10.2 shows a ray of green light in air striking the side of a glass prism. The refractive index of the glass for green light is 1.5.",
+        "image": "Fig. 10.2 shows a triangular glass prism. A ray of green light in air is incident on one of its flat surfaces. The ray is labeled 'green light' and approaches the prism from the left at an angle."
+      },
+      {
+        "part_label": "d(i)1",
+        "part_text": "On Fig. 10.2, draw the normal for this ray,",
+        "image": null
+      },
+      {
+        "part_label": "d(i)2",
+        "part_text": "mark the angle of incidence with a letter i.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "This angle of incidence is 57°. Calculate the angle of refraction in the glass.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)1",
+        "part_text": "State what happens, as the light enters the glass, to the light's frequency,",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)2",
+        "part_text": "speed,",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)3",
+        "part_text": "wavelength.",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "On Fig. 10.2, draw the path taken by the light as it passes through the glass and into the air.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/17/Q11",
+    "Question_text": "Fig. 11.1 shows a negatively charged rod close to an uncharged metal sphere that is mounted on an insulating stand.",
+    "image": "Fig. 11.1 shows a negatively charged rod held close to, but not touching, an uncharged metal sphere. The metal sphere rests on an insulating stand.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities, 4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Demonstrating Electric Charges",
+      "Static Electricity",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Combined Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Suggest a material for the insulating stand.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 11.1, draw the distribution of charges on the sphere.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)1",
+        "part_text": "A metal wire connected to earth is touched against the sphere. Explain what happens to the charge on the sphere.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)2",
+        "part_text": "The earth wire remains in contact with the sphere. Describe what happens in the wire as the rod is moved away.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A circuit contains a 7.5V d.c. power supply and three resistors.",
+        "image": "Fig. 11.2 shows an electrical circuit diagram. A d.c. power supply (7.5V) is connected to a series-parallel combination of resistors. An 18 Ω resistor is in series with a parallel combination of a 60 Ω resistor and a 15 Ω resistor."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Determine the total resistance of the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the current in the power supply.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)1",
+        "part_text": "There is a different current in each of the three resistors in the circuit in Fig. 11.2. Underline the resistor in which the current is the largest,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)2",
+        "part_text": "the smallest.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The 7.5 V d.c. power supply is made from five 1.5V cells. In the space below, draw a diagram that shows how the cells are arranged.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "The 18 Ω resistor is made of metal. State and explain what happens to the current in this resistor as its temperature increases.",
+        "image": null
+      }
+    ]
+  }
+]

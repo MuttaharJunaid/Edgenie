@@ -1,0 +1,194 @@
+[
+  {
+    "QuestionNumber": "May-June/42/2015/Q1",
+    "Question_text": "Two students decide to mark out a 100 m length to use as a running track on a school field.",
+    "image": "A simple line drawing of a person walking. The person is in profile, moving from left to right, with their left leg extended forward and right arm swinging forward, depicting a stride.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 1.1, mark and label the length l of one stride.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Estimate a value for the length l of the stride of the student.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Using your value for l, calculate the number of strides the student takes when walking 100 m.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The second student uses a trundle wheel, as shown in Fig. 1.2. The circumference of the wheel is 50.0 cm and the wheel makes a click each time it turns once.",
+        "image": "A diagram shows a student pushing a trundle wheel. The trundle wheel has a handle and a circular wheel with a detailed face showing markings from 0 to 90 and a pointer. The wheel is labeled 'trundle wheel' twice."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain how a trundle wheel is used to measure the distance of 100 m for the track.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why this is a more accurate method of measuring a distance of 100 m than the method in (a).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2015/Q2",
+    "Question_text": "A student investigates how the area of a parachute affects the time taken for it to fall. The student cuts a square from an A4 sheet of paper to make the parachute. He attaches the parachute to an eraser using four pieces of thin string of equal length, as shown in Fig. 2.1. An A4 sheet of paper is the same size as one page of the examination paper.",
+    "image": "Fig. 2.1, labeled '(not to scale)', shows a simple diagram of a parachute setup. A square parachute is suspended by four thin strings attached to an eraser. The components are labeled 'ceiling', 'parachute', 'thin string', 'eraser', and 'floor', illustrating the fall experiment.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity",
+      "Acceleration",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student holds the top of the parachute against the ceiling. He releases the parachute and measures the time t it takes for the eraser to hit the floor.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "The student makes the parachute from a square of paper of side 21.0 cm. He obtains the following five values of t, measured in seconds. 1.25 1.29 1.31 1.22 1.27 Calculate t_av, the average value for t. Give your answer to 2 decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest a reason why the value for t_av is not given to more than 2 decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest a reason why the distance that the parachute falls is chosen to be as large as possible.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The length l of one side of the parachute is 21.0 cm. Calculate the area A of the paper that is used to make parachute.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Suggest a reason why the student cannot make a parachute with an area greater than your answer to (a)(iv) when using the sheet of A4 paper.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student repeats the experiment for different values of l. The results obtained are recorded in Fig. 2.2.",
+        "image": "Fig. 2.2 shows a table with three columns: 'l / cm', 'A / cm^2', and 't_av / s'. The 'l / cm' column has values: 21.0, 20.0, 18.0, 16.0, 14.0, 12.0. The 't_av / s' column has corresponding values: 1.19, 1.11, 1.01, 0.97, 0.89. The 'A / cm^2' column is left blank for completion."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.2, write your values of A and t_av for l = 21.0 cm.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "complete the column for A.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "On Fig. 2.3, plot the graph of t_av / s on the y-axis against A / cm^2 on the x-axis. Start your axes from (100, 0.7). Draw the straight line of best fit.",
+        "image": "Fig. 2.3 displays a large, empty grid intended for plotting a graph. The x-axis is partially labeled '100' and the y-axis is partially labeled '0.7', indicating the starting points for plotting."
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "When extended, the line of best fit does not go through the origin (0,0). Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2015/Q3",
+    "Question_text": "A student uses a cathode-ray oscilloscope (c.r.o.) to measure a voltage.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "Circuit Diagrams & Circuit Components",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a circuit diagram containing a battery, a switch, a fixed resistor and a variable resistor, all connected in series.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The c.r.o. is used to measure the voltage across the fixed resistor. On your circuit diagram, label the two points A and B where the c.r.o. is connected to the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 3.1a shows the c.r.o. screen when the switch in the circuit is open. There are four control knobs on the c.r.o.: X-shift Y-shift Y-gain time-base State which control knob is adjusted to move the dot to the centre of the screen, as shown in Fig. 3.1b.",
+        "image": "Fig. 3.1a and Fig. 3.1b show two cathode-ray oscilloscope (c.r.o.) screens with grids. In Fig. 3.1a, a single bright dot is located precisely at the center of the screen. In Fig. 3.1b, the dot has been moved to the top-center position on the screen, exactly one division above the central horizontal line."
+      },
+      {
+        "part_label": "d",
+        "part_text": "The Y-gain is set at 2 V/div. With the dot in the centre of the screen, the switch is then closed and the dot moves to the position shown in Fig. 3.2.",
+        "image": "Fig. 3.2 shows a cathode-ray oscilloscope (c.r.o.) screen with a grid. A single bright dot is positioned one division above the central horizontal line, directly on the central vertical line. A label '1 division' points to the vertical distance between the center and the dot."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the voltage V_AB across the fixed resistor.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The resistance of the variable resistor is reduced. State what happens to the dot on the screen.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2015/Q4",
+    "Question_text": "You are asked to take a set of readings to plot a cooling curve that shows how quickly hot water in a test-tube cools.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer",
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "You are given a test-tube about half-full of hot water. List the additional apparatus you need.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the space below, draw a diagram of the apparatus, showing the position of the eye when taking the readings.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 4.1 is the top of a table for the readings. Complete the headings in the table.",
+        "image": "Fig. 4.1 shows an empty table consisting of two columns and multiple rows, represented by horizontal and vertical lines, indicating a structure for recording data."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest two ways in which the apparatus is arranged to make the readings accurate.",
+        "image": null
+      }
+    ]
+  }
+]

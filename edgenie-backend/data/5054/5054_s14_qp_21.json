@@ -1,0 +1,448 @@
+[
+  {
+    "QuestionNumber": "May/June/21/2014/Q1",
+    "Question_text": "A small boat travels with a velocity of 4.0 m/s due north in an area of still water.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Calculating with Vectors",
+      "Scalars & Vectors",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by velocity.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The boat travels from the area of still water into an area where the velocity of the water is 2.0 m/s towards the north-east, as shown in Fig. 1.1. Combining the initial velocity of the boat with the velocity of the water gives the resultant velocity of the boat. In the space on the page opposite, draw a vector diagram to show the resultant velocity. Use your diagram to find the size and direction of the resultant velocity. size of resultant velocity = ... direction of resultant velocity = ...",
+        "image": "Fig. 1.1 shows a vector diagram. On the left is a compass indicating North (N) and East (E). A dashed line extends from the origin at 45 degrees between N and E. Three parallel arrows point along the N-E direction, labeled 'velocity of water 2.0 m/s'. Below the compass, a small boat is shown, and an arrow points upwards (North) from it, labeled 'velocity of boat in still water 4.0 m/s'. The diagram is labeled '(not to scale)'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q2",
+    "Question_text": "Fig. 2.1 shows apparatus used when determining the specific heat capacity of aluminium. Meter 1 and meter 2 are electrical meters.",
+    "image": "Fig. 2.1 shows an experimental setup to determine the specific heat capacity of aluminium. An aluminium block is shown, with an electrical heater inserted into a central hole and a thermometer inserted into another hole. The heater is connected to a power supply via two electrical meters, labeled 'meter 1' and 'meter 2', arranged in series. The overall setup indicates how heat is supplied to the block and temperature change is monitored.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Convection",
+      "Consequences of Thermal Energy Transfer",
+      "Electrical Current",
+      "Electrical Energy",
+      "Electromotive Force & Potential Difference",
+      "Specific Heat Capacity",
+      "Thermal Conduction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the quantities measured by meter 1 and by meter 2. meter 1: ... meter 2: ...",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The following results are obtained in the experiment: initial temperature of block = 18°C, final temperature of block = 40°C, mass of block = 0.85 kg, energy supplied to heater = 17000 J. Assuming that no heat is lost from the block during the experiment, calculate the specific heat capacity of aluminium. specific heat capacity = ...",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In practice, some heat is lost from the block and the air above it becomes hot. Describe and explain the process by which the hot air moves away from the block.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest how to reduce the loss of heat from the block in the experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q3",
+    "Question_text": "A collector views a postage stamp of height 1.5cm through a lens. The lens is 2.0cm from the stamp. The image has a linear magnification of 3.0. The stamp, the image of the stamp and the position of the lens are shown full scale in Fig. 3.1. A ray of light from the top of the stamp to the lens is shown on Fig. 3.1.",
+    "image": "Fig. 3.1 is a full-scale diagram on a grid, illustrating a lens, a stamp, and its image. A vertical object labeled 'stamp' is positioned to the left of a vertical line representing the 'position of lens'. A taller, inverted image, labeled 'image of stamp', is shown further to the left, implying it's a real image formed by a converging lens. The image appears larger than the object. A horizontal axis runs through the center of the lens. A single ray is shown originating from the top of the stamp, traveling towards the lens, and then passing through it, continuing on the other side. A small arrow indicates '1 cm' for scale on the grid. A label 'image viewed from this side of the lens' points to the right side of the lens, and the image itself is shown on the left of the lens.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Linear Magnification",
+      "Ray Diagrams",
+      "Refraction of Light",
+      "Thin Lenses",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the type of lens used.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State what is meant by linear magnification.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 3.1, complete the path of the ray from the top of the stamp after it passes through the lens.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use your drawing to determine the focal length of the lens.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "On Fig. 3.1, draw two additional rays from the top of the stamp to show how the image is formed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q4",
+    "Question_text": "A teacher demonstrates magnetic screening. When a magnet is placed near a small cardboard box, paper clips on the other side of the box are picked up, as shown in Fig. 4.1. When a small piece of soft iron is placed inside the box as shown in Fig. 4.2, the paper clips fall off. Magnetic field lines in each diagram are shown as thin lines.",
+    "image": "Fig. 4.1 and Fig. 4.2 illustrate magnetic screening. Fig. 4.1 shows a U-shaped magnet with North (N) and South (S) poles. A cardboard box is placed between the poles, and magnetic field lines are drawn passing through the box. Paper clips are shown clinging to the outside of the box, indicating the magnetic field penetrates it. Fig. 4.2 shows a similar setup, but with a piece of 'soft iron' placed inside the cardboard box. In this case, the magnetic field lines appear to be concentrated within the soft iron, and the paper clips previously clinging to the outside of the box are now fallen off, indicating the soft iron has screened the area outside the box from the magnetic field.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnetism",
+      "Magnets",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 4.1, mark an arrow on each of the magnetic field lines to show its direction.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why placing the soft iron inside the box causes the paper clips to fall off.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain why it is sensible to have magnetic screening around the tube of a cathode-ray oscilloscope.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q5",
+    "Question_text": "A positively charged sphere C is brought close to a small, uncharged metal sphere U. Sphere U is suspended from an insulating thread, as shown in Fig. 5.1. Sphere C is moved towards sphere U until the spheres touch. Sphere U is then repelled by sphere C, as shown in Fig. 5.2. The charges on C and U are not shown.",
+    "image": "Fig. 5.1 shows a positively charged sphere C (represented by a circle with plus signs) positioned near a smaller uncharged metal sphere U. Sphere U is suspended by an insulating thread from a horizontal support. Fig. 5.2 shows the two spheres after touching. Sphere U is now repelled by sphere C and swings away from it, still suspended by the insulating thread. The charges on C and U are not explicitly shown in Fig. 5.2.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Demonstrating Electric Charges",
+      "Electrical Charge",
+      "Electric Fields",
+      "Static Electricity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 5.1, draw the induced charges on sphere U.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State and explain what happens to the charge on the two spheres as they touch. charge on C: ... charge on U: ...",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why U is repelled by C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q6",
+    "Question_text": "Fig. 6.1 shows a coil of wire connected by flexible leads to a switch and a battery. The coil is placed between the poles of a permanent magnet and is free to turn about the axis. When the switch is closed, forces due to the current act on the sides of the coil. The coil starts to turn.",
+    "image": "Fig. 6.1 illustrates a simple DC motor setup. A rectangular coil of wire, labeled 'coil', is positioned between the North (N) and South (S) poles of a permanent magnet. The coil is connected by 'flexible leads' to a switch and a battery. An 'axis' is indicated, around which the coil is free to rotate. The flexible leads connect to a split-ring commutator (not explicitly labeled as such in the main diagram, but implied by the circuit and the mention in part c) which contacts carbon brushes.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Force on a Current-Carrying Conductor",
+      "Magnetic Effect of a Current",
+      "The A.C. Generator"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 6.1, draw arrows to show the directions of the forces.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The coil stops when it is vertical. Explain why the turning effect of the forces is zero at this position.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In order for the coil to rotate continuously, a split-ring commutator is connected between the battery and the coil. Explain how the split-ring commutator enables the coil to rotate continuously. Include a diagram in your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q7",
+    "Question_text": "Fig. 7.1 shows a variable potential divider (potentiometer) connected to a 6.0 V battery. The movable contact can slide between A and B. As it moves, the output voltage changes. Fig. 7.2 shows a thermistor in a potential divider circuit that is used to monitor temperature. The fixed resistor has a resistance of 2000 Ω.",
+    "image": "Fig. 7.1 shows a potential divider circuit. A 6.0 V battery is connected across a resistor wire with terminals A and B. A movable contact slides along this wire, and the 'output voltage' is taken between the movable contact and terminal B. Fig. 7.2 shows a thermistor in a potential divider circuit. A 6.0 V battery is connected in series with a thermistor and a fixed resistor of 2000 Ω. The output voltage is measured across the thermistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Potential Dividers",
+      "Resistance",
+      "Resistance of a Wire",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the table below to show the output voltage when the contact is at A and at B. position of movable contact | A | B output voltage | |",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why the voltage across the thermistor decreases as its temperature rises.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "At one temperature, the thermistor has a resistance of 1000Ω. Calculate the current in the thermistor. current = ...",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q8",
+    "Question_text": "A hospital laboratory uses a small sample of a radioactive isotope of iodine, 131I. The count in one minute from the source is measured several times. Fig. 8.1 shows the readings obtained.",
+    "image": "Fig. 8.1 shows a table of readings for the count from a radioactive source in one minute. The readings are 2686, 2759, 2847, and 2799.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "The Atom",
+      "The Nucleus",
+      "Detection of Radioactivity",
+      "Radioactive Decay"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe the structure of the nucleus of an atom of this isotope.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The sample is radioactive. Describe what happens in radioactive decay.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suggest why the readings are different.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The half-life of 131I is 8.0 days. Estimate the count in one minute obtained from the sample after 24 days. count = ...",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q9",
+    "Question_text": "A garden pond contains a small fountain. An electric pump in the water causes the water to rise above the surface of the pond, as shown in Fig. 9.1.",
+    "image": "Fig. 9.1 illustrates a garden pond with a fountain. A submerged 'electric pump' is shown at the bottom of the pond, drawing water through a 'water inlet pipe'. The pump then expels water upwards, creating a 'water fountain' above the 'pond' surface.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Conservation of Energy",
+      "Density",
+      "Density",
+      "Energy Stores & Transfers",
+      "Gravitational Potential Energy",
+      "Mass & Weight",
+      "Power",
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The pressure of the water in the pond increases with depth. Explain what is meant by pressure.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the pressure below the surface of the water increases with depth.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State the unit of pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe the energy changes that occur within the pump.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A volume of 0.78m³ of water passes through the pump in one hour. The density of water is 1000kg/m³. Calculate the mass of water that passes through the pump in one hour. mass = ...",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The water rises 1.5m. The gravitational field strength g is 10N/kg. Calculate the useful work done in one hour raising the water to the top of the fountain. work done = ...",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Calculate the minimum power output of the pump. power = ...",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe an experiment to check that the density of water is 1000kg/m³.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q10",
+    "Question_text": "A sound wave travels through air. A short pulse of sound waves produces an echo from a wall 20m away. The echo arrives back at the source of the sound 0.12s after the pulse is produced. The wavelength of the sound wave is 30 mm.",
+    "image": "Fig. 10.1 shows a linear arrangement of black dots, representing air molecules in a sound wave at one instant. The dots are clustered together in some regions (compressions) and spread apart in others (rarefactions). Two specific molecules are labeled: 'A' is in a region where molecules are spread apart (rarefaction), and 'B' is in a region where molecules are clustered together (compression). The arrangement illustrates the longitudinal nature of sound waves.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Features of Waves",
+      "Measuring the Speed of Sound",
+      "Properties of Sound Waves",
+      "Reflection of Sound Waves",
+      "Sound Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by the wavelength of a wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 10.1 represents air molecules in the sound wave at one instant. Describe the motion of a molecule of air due to the sound.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one difference between the motion of molecule A and the motion of molecule B.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe an experiment that shows that a medium is needed to transmit sound waves. Draw a labelled diagram of the apparatus.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "State what is meant by an echo.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Calculate the speed of the sound. speed = ...",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Calculate the frequency of the sound. frequency = ...",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "The sound wave produces compressions and rarefactions in the air as it passes. Calculate the distance between a compression and the nearest rarefaction. distance = ...",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/21/2014/Q11",
+    "Question_text": "A torch contains a filament lamp connected to a battery. The battery contains four 1.5V cells connected in series. Fig. 11.1 shows the current/potential difference (voltage) graph for the filament lamp. Another torch contains a light-emitting diode (LED) instead of a filament lamp. The battery in the torch uses four 1.5V cells, some in series and some in parallel. The p.d. across the LED when in operation is 3.0V.",
+    "image": "Fig. 11.1 shows a current/potential difference (voltage) graph for a filament lamp. The x-axis represents potential difference in V, ranging from 0 to 6 V. The y-axis represents current in mA, ranging from 0 to 400 mA. The graph starts from the origin and shows a curve where the current increases with potential difference, but at a decreasing rate, indicating that the resistance of the lamp increases with voltage.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Electrical Charge",
+      "Electrical Current",
+      "Electrical Energy",
+      "Electrical Power",
+      "Electromotive Force & Potential Difference",
+      "Potential Dividers",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by the potential difference (p.d.) across the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)1",
+        "part_text": "Fig. 11.1 shows that the current in the lamp is not proportional to the p.d. State how Fig. 11.1 shows this.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)2",
+        "part_text": "Suggest why the current is not proportional to the p.d.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)1",
+        "part_text": "The lamp is at normal brightness and there is a p.d. of 6.0V across the lamp. Use Fig. 11.1 to find the current in the lamp. current = ...",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)2",
+        "part_text": "Calculate the charge that passes through the lamp in 2.0 hours. charge = ...",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)3",
+        "part_text": "The battery in the torch is able to keep the lamp lit for 2.0 hours. Estimate the initial energy stored in the battery. energy = ...",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)4",
+        "part_text": "Explain why your value is only an estimate.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest and explain an advantage of using two cells in parallel rather than a single cell.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In the space below, draw a circuit diagram showing how the four cells, a switch and the LED are connected.",
+        "image": null
+      }
+    ]
+  }
+]

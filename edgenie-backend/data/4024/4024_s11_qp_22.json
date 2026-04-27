@@ -1,0 +1,358 @@
+[
+  {
+    "QuestionNumber": "4024/22/2011/Q1",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Manipulate algebraic fractions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Express as a single fraction in its simplest form (1 / 2x) - (2 / 5x).",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Express as a single fraction in its simplest form (4 / x) + (7 / (x - 3)).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A function is defined by f(x) = (2x - 3) / 4.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The formula for the area of a trapezium is A = ½h (c + d). Find an expression for c in terms of A, h and d.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The diagram shows a trapezium with dimensions given in centimetres. The perpendicular distance between the parallel lines is 4 cm. The area of the trapezium is 22 cm². Find c.",
+        "image": "A trapezium is shown with parallel sides of lengths 'c' and 8 cm. The perpendicular height between the parallel sides is 4 cm."
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the diagram, the shaded area represents a rectangular picture frame. The outer rectangle is 32 cm by 20 cm. The inner rectangle is 26cm by 14cm. All measurements are given to the nearest centimetre.",
+        "image": "A diagram showing two concentric rectangles. The outer rectangle has dimensions 32 cm by 20 cm. The inner rectangle has dimensions 26 cm by 14 cm. The area between the two rectangles is shaded, representing a picture frame."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q3",
+    "Question_text": "The letters spelling the word BANANA are written on six tiles.",
+    "image": "Six square tiles arranged horizontally, each with a single letter: B, A, N, A, N, A.",
+    "Unit": "Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event",
+      "Understand probability of event not occurring = 1 – probability of occurring"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the probability that a tile chosen at random has the letter N on it. Give your answer as a fraction in its simplest form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The six tiles are placed in a bag. Three tiles are chosen at random without replacement. The first is placed in Position 1, the second in Position 2 and the third in Position 3.",
+        "image": "Three empty rectangular boxes labeled Position 1, Position 2, Position 3, indicating where chosen tiles are placed."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q4",
+    "Question_text": "u_n is the nth term of the sequence 4, 7, 10, 13, ..........",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Write down an expression, in terms of n, for u_n.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Hence find the 20th term of the sequence.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "v_n is the nth term of the sequence 15, 13, 11, 9, ..........",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q5",
+    "Question_text": "The distance-time graph shows Ravi's cycle journey. He sets out from home and cycles to a park. After a short stop at the park, he then continues his journey to a shopping centre. He stops for lunch at the shopping centre before cycling home.",
+    "image": "A distance-time graph titled 'Distance from home (km)' vs 'Time of day'. The y-axis ranges from 0 to 20 km. The x-axis ranges from 11:00 to 14:00. The graph shows a journey starting at (11:00, 0), increasing linearly to (11:30, 10), then flat to (12:00, 10), then increasing linearly to (12:30, 17), then flat to (13:00, 17), then decreasing linearly back to (14:00, 0).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "At what time does Ravi arrive at the park?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "How many minutes does Ravi spend at the shopping centre?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "How far is the park from the shopping centre?",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "At what speed does Ravi cycle home? Give your answer in kilometres per hour.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Between which two places did Ravi cycle slowest?",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Salim, Ravi's brother, sets out from home at 1115. He cycles directly to the shopping centre at a constant speed of 15km/h. Who arrives at the shopping centre first? How many minutes later does his brother arrive?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q6",
+    "Question_text": "The pie chart, not drawn accurately, represents the weekly income of the five employees in a small British company in 2009. Andrew's weekly income is represented by a sector with an angle of 72°. Brian's weekly income is represented by a sector with an angle of 60°.",
+    "image": "A pie chart showing the distribution of weekly income for five employees: Ed, Andrew (72°), David, Brian (60°), and Carol. The angles for Ed, David, and Carol are not given explicitly but are part of the total 360 degrees.",
+    "Unit": "Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret pie charts"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Andrew's weekly income was £270. Find the total weekly income of the five employees.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate Brian's weekly income.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Carol's weekly income was £405. Calculate the angle of the sector representing Carol's weekly income.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "David's weekly income was twice as much as Ed's weekly income. Calculate David's weekly income.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Andrew paid 20% of his weekly income of £270 as tax. He also paid 6% of his weekly income of £270 towards his pension. How much of his weekly income did he have left after paying tax and pension?",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Carol paid 20% of her weekly income of £405 as tax. She also paid x% of her weekly income towards her pension. She then had £287.55 of her weekly income left. Find x.",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "Andrew's weekly income of £270 in 2009 was 8% more than his weekly income in 2008. Find his weekly income in 2008.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the diagram, ABCDEF is a hexagon with rotational symmetry of order 2. ED = 2p, EF = q and AF = r. X is the midpoint of CD and Y is the point on AB such that AY:YB is 3:1.",
+        "image": "A hexagon labeled ABCDEF. Vectors are shown: AF=r, EF=q, ED=2p. Point Y is on AB. Point X is on CD. Rotational symmetry of order 2 is indicated."
+      },
+      {
+        "part_label": "b",
+        "part_text": "PQRSTU is a similar hexagon to ABCDEF. U^PS = 95° and P^QR = 140°. Find",
+        "image": "A hexagon labeled PQRSTU. Angles U^PS = 95° and P^QR = 140° are marked."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q8",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms",
+      "Manipulate algebraic fractions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A is the matrix [[4, 3], [-1, 2]] and B is the matrix [[5, 4], [-3, -2]]. Find 2A - B.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "A is the matrix [[4, 3], [-1, 2]] and B is the matrix [[5, 4], [-3, -2]]. Find the inverse of matrix B (B⁻¹).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The diagram shows triangles A, B and C.",
+        "image": "A Cartesian coordinate system (x from -8 to 8, y from -3 to 9) with grid lines. Three triangles are plotted: Triangle A has vertices (1,1), (5,1), (5,3). Triangle B has vertices (3,-1), (7,-1), (7,-3). Triangle C has vertices (-1,2), (-5,2), (-5,4)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q9",
+    "Question_text": "The table below shows some of the values of x and the corresponding values of y for y = (2x – 3)(x + 2).",
+    "image": "A table showing values for x and y. x values: -3, -2, -1, 0, 1, 2, 3. y values: 9, 0, (missing), -3, 4, 15, (missing).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the table given for y = (2x – 3)(x + 2).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the axes provided, plot the points from the table and join them with a smooth curve.",
+        "image": "A Cartesian coordinate system (x from -3 to 3, y from -8 to 16) with grid lines, prepared for plotting a quadratic function."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q10",
+    "Question_text": "The angle of depression of a buoy, B, from a point, C, on a cliff is 15°. The distance BC is 250 m. A seagull, S, hovers so that it is vertically above B and SB = 300m.",
+    "image": "A right-angled triangle diagram with points C (top of cliff), D (base of cliff, vertically below C), and B (buoy on sea level). Line CB is 250m. The angle of depression from C to B is 15°. Point S is vertically above B such that SB is 300m.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry",
+      "Carry out calculations involving angles of elevation and depression"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find S^BC.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find SC.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Find the angle of elevation of S from C.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "D is a marker at sea level vertically below C and due west of B.",
+        "image": "A diagram showing points C (on cliff), D (at sea level below C), and B (buoy at sea level). CD is perpendicular to DB. Angle of depression from C to B is 15°, CB is 250m. A right angle is marked at D."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q11",
+    "Question_text": "[Volume of a cone = (1/3)πr²h] The solid above consists of a cone with base radius r centimetres on top of a cylinder of radius r centimetres. The height of the cylinder is twice the height of the cone. The total height of the solid is H centimetres.",
+    "image": "A solid object composed of a cone on top of a cylinder. Both have radius 'r'. The cone has height 'h_cone' and the cylinder has height 'h_cylinder'. The total height of the solid is H.",
+    "Unit": "Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes",
+      "Carry out calculations and solve problems involving surface areas and volumes of compound solids and parts of solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find an expression, in terms of π, r and H, for the volume of the solid. Give your answer in its simplest form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "It is given that r = 10 and the height of the cone is 15cm.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/22/2011/Q12",
+    "Question_text": "The time taken by each of 320 students taking a Physics test was recorded. The following table shows a distribution of their times.",
+    "image": "A frequency table showing time intervals (m minutes) and corresponding frequencies. Intervals: 60<m<=70 (Freq 24), 70<m<=80 (Freq 92), 80<m<=90 (Freq 104), 90<m<=100 (Freq 68), 100<m<=110 (Freq 24), 110<m<=120 (Freq 8).",
+    "Unit": "Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the cumulative frequency table below, given a frequency distribution of student times for a Physics test.",
+        "image": "A cumulative frequency table with m minutes intervals (m<=60, m<=70, m<=80, m<=90, m<=100, m<=110, m<=120) and some cumulative frequencies (0, 24, 116) provided, with blanks to fill."
+      },
+      {
+        "part_label": "b",
+        "part_text": "For this part of the question use the graph paper opposite (page 23).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A group of 300 students of similar ability took an equivalent test the previous year. The following graph shows a distribution of their times.",
+        "image": "A cumulative frequency graph titled 'Cumulative frequency' vs 'Time (minutes)'. The x-axis ranges from 60 to 120 minutes. The y-axis ranges from 0 to 300 cumulative frequency. The curve starts at (60,0) and rises to (120,300), showing an S-shape typical for cumulative frequency."
+      }
+    ]
+  }
+]

@@ -1,0 +1,631 @@
+[
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q1",
+    "Question_text": "In this shape all the lengths are in centimetres.",
+    "image": "A two-dimensional composite rectilinear shape. The shape has several right angles. Starting from the bottom-left corner and moving clockwise: a vertical side of length 20 cm, a horizontal side of length 5 cm, a vertical side of length 5 cm, a horizontal side of length 10 cm, a vertical side of unknown length (implied 20 - 12 - 5 = 3), a horizontal side of length 25 cm, a vertical side of length 12 cm, and a horizontal side of unknown length (implied 25 - 5 - 10 = 10). The question asks to work out the perimeter and the area of this shape.",
+    "Unit": "Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Work out the perimeter,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Work out the area.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q2",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals",
+      "Order operations correctly"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "0.3 × 0.2,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "3.5 ÷ 0.07 .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A bag containing fruit has mass 3.813 kilograms. When the bag is empty its mass is 257 grams. Find, in kilograms, the mass of the fruit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The area of a shape is 1.2 m². Convert this area to cm².",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude",
+      "Use symbols (=, ≠, >, <, ⩾, ⩽)",
+      "Convert between forms",
+      "Use percentages"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the statement in the answer space using one of these symbols. Answer 0.65 ... 27/40",
+        "image": "A box containing inequality symbols: less than or equal to, less than, equals, greater than, greater than or equal to."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Express 7% as a decimal.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q5",
+    "Question_text": "PQ is a chord of the circle, centre O. X is the midpoint of PQ. OX = 6 cm and the radius of the circle is 10 cm. Calculate PQ.",
+    "image": "A circle with centre O. A chord PQ is drawn inside the circle. Point X is the midpoint of PQ. A line segment OX is drawn, with length 6 cm. A radius from O to Q is drawn, with length 10 cm, forming a right-angled triangle OXQ where angle OXQ is 90 degrees.",
+    "Unit": "Trigonometry",
+    "Topic": "6.1 Pythagoras’ theorem",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem",
+      "Use circle symmetry properties: equal chords equidistant from centre, perpendicular bisector of chord through centre, tangents from external point equal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q6",
+    "Question_text": "A bag contains red, yellow and green sweets. 2/5 of the sweets are red and 1/4 of the sweets are yellow. What fraction of the sweets are green?",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q7",
+    "Question_text": "On a map the length of a lake is 4.5 centimetres. The actual length of the lake is 2.7 kilometres. Write the scale of the map as a ratio in the form 1 : n.",
+    "image": null,
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings",
+      "Give ratios simply",
+      "Use proportional reasoning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q8",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "One approximate solution of the equation sinx° = 0.53 is x = 32. Use this value of x to find the solution of the equation that lies between 90° and 180°.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Triangle ABC is right-angled at B and BC is produced to D. AB = 5 cm, BC = 12 cm and AC = 13 cm. Write down the value of cos AĈD.",
+        "image": "A right-angled triangle ABC, with the right angle at B. Side AB is 5 cm, BC is 12 cm, and the hypotenuse AC is 13 cm. The side BC is extended to point D, forming a straight line BCD. The angle AĈD is indicated."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q9",
+    "Question_text": "Ahmed pays a total of $81 for wood, paint and a hammer.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio",
+      "Calculate reverse percentages"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The amounts he pays for the wood, paint and hammer are in the ratio 4 : 3 : 2. Calculate how much Ahmed pays for the hammer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When Ahmed paid $81 he had received a 10% discount on the normal price. Calculate the normal price.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q10",
+    "Question_text": "b = m (a − c)",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas",
+      "Change the subject of formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate b when m = 5, a = 8 and c = -3.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Rearrange the formula to make c the subject.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q11",
+    "Question_text": "Choose a quadrilateral from the list to complete each statement.",
+    "image": "A list of quadrilateral types: Kite, Parallelogram, Rectangle, Rhombus, Square, Trapezium.",
+    "Unit": "Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A ________ has four equal sides and four angles of 90°.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A ________ has just one pair of parallel sides.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A ________ has just one pair of opposite angles equal and its diagonals bisect at 90°.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q12",
+    "Question_text": "The three cards above can be rearranged to make three-digit numbers, for example 916. Arrange the three cards to make",
+    "image": "Three cards displaying the digits 6, 9, and 1.",
+    "Unit": "Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify square numbers",
+      "Identify common multiples",
+      "Order by magnitude"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the three-digit number that is closest to 650,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the three-digit number that is a multiple of 7,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "a three-digit number that is a square number.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q13",
+    "Question_text": "The diagram shows the speed-time graph for 70 seconds of a car's journey. After 20 seconds the car reaches a speed of v m/s. During the 70 seconds the car travels 1375 m.",
+    "image": "A speed-time graph with time (t seconds) on the x-axis from 0 to 70 and speed (v m/s) on the y-axis. The graph shows three distinct phases: an initial acceleration from t=0 to t=20s where speed increases linearly to v m/s; a constant speed phase from t=20s to t=60s at v m/s; and a deceleration phase from t=60s to t=70s where speed decreases linearly to 0 m/s.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate v.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the acceleration of the car during the first 20 seconds.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q14",
+    "Question_text": "A, B and T are points on a circle, centre O. AOD is a straight line and DT is a tangent to the circle at T. TÂO = 32°. Find",
+    "image": "A circle with centre O. Points A, B, T are on the circumference. Line AOD is a straight line passing through the centre O, with A on the circle and D outside. Line DT is a tangent to the circle at point T. Angle TÂO (angle ATO in OCR text, but the image shows angle TAO) is given as 32°.",
+    "Unit": "Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "AÔT,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "TÔD,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A B T.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q15",
+    "Question_text": "",
+    "image": "A quadrilateral labeled ABCD, with vertices A, B, C, D in counter-clockwise order.",
+    "Unit": "Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles",
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Construct the locus of all points, inside the quadrilateral ABCD, which are equidistant from DA and DC,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Construct the locus of all points, inside the quadrilateral ABCD, which are 5 cm from B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the diagram, shade the region inside the quadrilateral containing the points that are nearer to DA than DC and more than 5 cm from B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q16",
+    "Question_text": "Maryam makes two geometrically similar cakes. The heights of the cakes are 6 cm and 9 cm.",
+    "image": "Two rectangular prism cakes, one smaller and one larger, representing geometrically similar shapes.",
+    "Unit": "Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Maryam decorates each cake with a ribbon around the outside. The length of the ribbon for the larger cake is 66 cm. Find the length of the ribbon for the smaller cake.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Maryam uses 1600 cm³ of cake mixture to make the smaller cake. Find the volume of cake mixture she uses to make the larger cake.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q17",
+    "Question_text": "p = 2.4 × 10², q = 6 × 10³. Giving your answers in standard form, find",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "p + q,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "2pq.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q18",
+    "Question_text": "Eighty cyclists were each asked the distance (in kilometres) they cycled last week. The cumulative frequency diagram represents the results. Use the graph to estimate",
+    "image": "A cumulative frequency graph. The x-axis represents Distance (kilometres) from 0 to 120. The y-axis represents Cumulative frequency from 0 to 80. The graph shows an S-shaped curve starting near (0,0) and rising to (120,80).",
+    "Unit": "Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the number of cyclists who cycled between 60 and 80 kilometres,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the median distance cycled,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "the interquartile range for the distance cycled.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q19",
+    "Question_text": "The diagram shows the metal cover for a circular drain. Water drains out through the shaded sections. O is the centre of circles with radii 1 cm, 2 cm, 3 cm, 4 cm and 5 cm. The cover has rotational symmetry of order 6 and BÔC = 40°.",
+    "image": "A circular diagram representing a drain cover. It consists of five concentric circles centered at O, with radii 1, 2, 3, 4, and 5 cm. The cover is divided into sectors. There are alternating shaded and unshaded regions. A specific shaded section is labeled ABCD, where A, B, C, D are points on the concentric circles.",
+    "Unit": "Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the area of the shaded section ABCD, giving your answer in terms of π.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The total area of the metal (unshaded) sections of the cover is 55/3 π cm². Calculate the total area of the shaded sections, giving your answer in terms of π.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the fraction of the total area of the cover that is metal (unshaded). Give your answer in its simplest form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q20",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Understand zero indices",
+      "Understand negative indices",
+      "Understand fractional indices",
+      "Use rules of indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Evaluate 5⁰ + 5².",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Evaluate 36^(1/2).",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Evaluate (2⁻¹)⁶.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the value of k when (1/3)ᵏ = 9.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q21",
+    "Question_text": "R is directly proportional to the cube of p. When p = 2, R = 24.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities",
+      "Recognise, sketch and interpret graphs of the following functions: (c) cubic"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the formula for R in terms of p.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the value of p when R = 192.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Which of the diagrams below represents the graph of R against p?",
+        "image": "Five small graphs labeled Diagram 1 to Diagram 5, each showing a different relationship between R and p. Diagram 1 appears to be linear, Diagram 2 exponential/quadratic, Diagram 3 cubic, Diagram 4 linear, Diagram 5 inverse."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q22",
+    "Question_text": "The diagram shows triangles A and B.",
+    "image": "A coordinate grid with x-axis from -7 to 8 and y-axis from -5 to 7. Two triangles are drawn: Triangle A (smaller, in first quadrant) and Triangle B (larger, in first quadrant).",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw translation of shape by vector",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The translation (-4/3) maps triangle A onto triangle C. On the diagram, draw and label triangle C.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The rotation 90° clockwise, centre (1, 1), maps triangle A onto triangle D. On the diagram, draw and label triangle D.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the matrix of the transformation that maps triangle A onto triangle B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q23",
+    "Question_text": "The diagram shows a triangle RST.",
+    "image": "A coordinate grid with x-axis from 0 to 8 and y-axis from 0 to 7. A triangle RST is drawn and shaded. The vertices are S(0,2), R(6,2), and T(6,6).",
+    "Unit": "Coordinate geometry",
+    "Topic": "3.3 Gradient of linear graphs",
+    "Sub_topic": [
+      "Calculate the gradient of a straight line from the coordinates of two points on it",
+      "Interpret and obtain the equation of a straight-line graph",
+      "Find the gradient and equation of a straight line parallel to a given line",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Write down the gradient of the line ST,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Write down the equation of a line that is parallel to ST,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Write down the equation of the line with gradient 3 that passes through S.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "One of the inequalities that defines the shaded region RST is x ≤ 6. Write down the other two inequalities that define this region.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q24",
+    "Question_text": "Given matrices A = ((4, 3), (1, 2)) and B = ((2, -3), (1, 1)).",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find 2A - B.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find B⁻¹.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Given Universal Set E = {natural numbers}, P = {factors of 8}, Q = {factors of 12}. List the elements of the set P ∪ Q.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use set notation to describe the shaded subset in the Venn diagram.",
+        "image": "A Venn diagram showing a universal set E, with two overlapping sets M and N. The region representing the intersection of M and N is shaded."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/11/May-June/2013/Q25",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Manipulate algebraic fractions",
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Factorise fully 10x²y + 15xy².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Factorise 25a² - b².",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Simplify 3/(x+1)² - 2/(x+1).",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Simplify (3a²)/(10bc) ÷ (9a)/(5b²c).",
+        "image": null
+      }
+    ]
+  }
+]

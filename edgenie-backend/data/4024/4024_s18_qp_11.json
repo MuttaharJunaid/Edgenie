@@ -1,0 +1,624 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Evaluate 3.5-1.9/0.8",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Evaluate 9+6÷3-4",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Order operations correctly",
+      "Use brackets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Work out 15% of 80",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Work out 3/5 - 2/7. Give your answer as a fraction in its simplest form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Write these numbers in order of size, starting with the smallest. 1/3, 0.32, 15/40, 0.3, 9/31",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.5 Ordering",
+    "Sub_topic": [
+      "Order by magnitude"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "The diagram shows part of a shape which is symmetrical about the line L. Complete the shape.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "The diagram shows part of a shape which has rotational symmetry of order 2 about the point O. Complete the shape.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "A plane lands in Dubai where the local time is 17 20. The flight time is 6 hours 50 minutes. The local time in Dubai is 3 hours ahead of the local time in London. Calculate the local time in London when the flight left.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "At one time during the flight the temperature inside the plane is 17°C. The temperature outside the plane is -43 °C. Work out the difference between the inside and outside temperatures.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5c",
+    "Question_text": "The plane leaves London where the temperature outside is 17°C. The plane rises to a height where the temperature outside is -43 °C. The temperature decreases by 2°C with every increase of 300m in height. Calculate the increase in height of the plane.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "What fraction of this 4 × 4 square is shaded?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use proper fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "A youth club has 150 members. 60 of the members are girls. What percentage of the club members are girls?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c",
+    "Question_text": "Ben is given some money. He spends some of it and saves the remainder. The ratio of the money he spends to the money he saves is 3: 1. He spends $15. Calculate the amount of money Ben was given.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "Usama recorded the number of items bought by each of 20 customers at a shop. Write down the mode.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Usama recorded the number of items bought by each of 20 customers at a shop. Find the median number of items bought.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7c",
+    "Question_text": "Usama recorded the number of items bought by each of 20 customers at a shop. Calculate the mean number of items bought.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7d",
+    "Question_text": "Usama draws a pie chart to show the data. Calculate the angle of the sector on the pie chart which represents the number of people who bought 3 items.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret pie charts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "A, B and C are points on the circumference of a circle centre O. O is the midpoint of BC and ABC = 38°. Tangents are drawn from T to touch the circle at A and B. Calculate BĈA.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "A, B and C are points on the circumference of a circle centre O. O is the midpoint of BC and ABC = 38°. Tangents are drawn from T to touch the circle at A and B. Calculate ATB.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.8 Circle theorems II",
+    "Sub_topic": [
+      "Use circle symmetry properties: equal chords equidistant from centre, perpendicular bisector of chord through centre, tangents from external point equal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Find the integers that satisfy _1<3x+5 < 11.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The scale diagram below shows a barn ABCD. AB = 7 m and BC = 4 m. On the diagram 1 cm represents 1 m. A horizontal rail is attached to the outside wall of the barn from A to B. Jasper is a dog attached to a rope 3 m long. The other end of the rope is attached to the rail and can slide along it. On the diagram, shade the region where Jasper can go.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Find a and b. (2 -3)(a 1) - (-4 3) = (7 15)(10 2)",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "Basia records the colour of 100 cars passing the school gate. Use Basia's results to estimate the probability that the next car seen is a blue car.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Basia records the colour of 100 cars passing the school gate. In the next hour, 500 cars pass the school gate. Use Basia's results to estimate the number of these cars that are red.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.2 Relative and expected frequencies",
+    "Sub_topic": [
+      "Calculate expected frequencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12c",
+    "Question_text": "Colin records the colour of the next 100 cars passing the school gate. Use Basia's and Colin's combined results to estimate the number of red cars that would be seen when 500 cars pass the school gate.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.2 Relative and expected frequencies",
+    "Sub_topic": [
+      "Calculate expected frequencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12d",
+    "Question_text": "Basia records the colour of 100 cars passing the school gate. Which of the estimates in part (b) or in part (c) is likely to be the best? Give a reason for your decision.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Appreciate restrictions on drawing conclusions from given data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13a",
+    "Question_text": "The table below shows the masses of 10 mothers and their babies at birth. On the grid, complete the scatter diagram.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw and interpret scatter diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13b",
+    "Question_text": "The table below shows the masses of 10 mothers and their babies at birth. What type of correlation is shown on the scatter diagram?",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Understand positive, negative and zero correlation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13c",
+    "Question_text": "The table below shows the masses of 10 mothers and their babies at birth. On the scatter diagram, draw a line of best fit.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13d",
+    "Question_text": "The table below shows the masses of 10 mothers and their babies at birth. Anna has a mass of 82 kg and gives birth to a baby. Use your line of best fit to estimate the mass of her baby.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.5 Scatter diagrams",
+    "Sub_topic": [
+      "Draw by eye, interpret and use straight line of best fit"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14a",
+    "Question_text": "Factorise completely 2ax-3by + 6bx – ay",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14b",
+    "Question_text": "Factorise completely 27x²-3y²",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: a²x² – b²y²"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15a",
+    "Question_text": "f(x) = 3 - 2x g(x) = 4x³ - 1 Find f(5).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15b",
+    "Question_text": "f(x) = 3 - 2x g(x) = 4x³ - 1 Find g(-2).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15c",
+    "Question_text": "f(x) = 3 - 2x g(x) = 4x³ - 1 Find and simplify f(4x³ – 1).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Form composite functions as defined by gf(x) = g(f(x))"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16a",
+    "Question_text": "Evaluate 33-30",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand zero indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b",
+    "Question_text": "Simplify completely (9a³b³/16ba⁵)^½",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use indices (positive, zero, negative and fractional)",
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The diagram shows a square ABCD joined to a right-angled triangle BEC. BE = 6 cm and EC = 7 cm. Calculate the area of the pentagon, ABECD.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18a",
+    "Question_text": "The speed-time graph shows the motion of a car. Describe fully the motion of the car represented by each of the lines AB, BC and CD on the graph. AB has been done for you.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18b",
+    "Question_text": "The speed-time graph shows the motion of a car. Find the total distance travelled by the car during this motion.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19a",
+    "Question_text": "One day in 2016 the population of Nepal was 28795701. Write this number correct to three significant figures.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b(i)",
+    "Question_text": "The table below shows the approximate population of some countries in 2016 and their land areas. The population of India was approximately 130000000. Write the number in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b(ii)",
+    "Question_text": "The table below shows the approximate population of some countries in 2016 and their land areas. Calculate the total land area of India and Nigeria. Give your answer in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b(iii)",
+    "Question_text": "The table below shows the approximate population of some countries in 2016 and their land areas. Which country in the table has the smallest population per km²?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20a",
+    "Question_text": "A paving slab is a cuboid with length 40cm, width 20cm and depth h cm. Its volume is 2400 cm³. Find the value of h.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20b",
+    "Question_text": "A paving slab is a cuboid with length 40cm, width 20cm and depth h cm. Its volume is 2400 cm³. Calculate the volume of concrete needed to make 1000 of these slabs. Give your answer in m³.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20c",
+    "Question_text": "A paving slab is a cuboid with length 40cm, width 20cm and depth h cm. Its volume is 2400 cm³. A mathematically similar slab has length 60cm. Calculate the volume of concrete, in cm³, needed to make one of these larger slabs.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21a",
+    "Question_text": "p = (3 1) q = (-4 4) Write 3p - q as a column vector.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21b",
+    "Question_text": "p = (3 1) q = (-4 4) R is the point (11, -2) and O is the point (0, 0). The vector OR can be written in the form p + nq, where n is an integer. Find the value of n.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22a",
+    "Question_text": "s = √t+4 Find s when t = 121.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.3 Powers and roots",
+    "Sub_topic": [
+      "Calculate square roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22b",
+    "Question_text": "s = √t+4 Rearrange the formula to make t the subject.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Change the subject of formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23a",
+    "Question_text": "State which of the figures above could be the graph of y = x² + 2",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.11 Sketching curves",
+    "Sub_topic": [
+      "Recognise, sketch and interpret graphs of the following functions: (b) quadratic"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23b",
+    "Question_text": "State which of the figures above could be the graph of y = 2/x",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.11 Sketching curves",
+    "Sub_topic": [
+      "Recognise, sketch and interpret graphs of the following functions: (d) reciprocal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23c",
+    "Question_text": "State which of the figures above could be the graph of y = 2-x²",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.11 Sketching curves",
+    "Sub_topic": [
+      "Recognise, sketch and interpret graphs of the following functions: (b) quadratic"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24a",
+    "Question_text": "Show that 12/(x+2) + 10/(x-1) = 7/2 can be simplified to give the equation 7x²-37x-30 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Manipulate algebraic fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24b",
+    "Question_text": "Solve, by factorisation, 7x² - 37x - 30 = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q1",
+    "Question_text": "Fig. 1.1 shows how the length of a spring varies as the force applied to it increases.",
+    "image": "A graph titled 'Fig. 1.1' showing 'force/N' on the y-axis (from 0 to 2.0 N) and 'length of spring/cm' on the x-axis (from 0 to 30 cm). The graph shows a straight line passing through (10 cm, 0 N) and (30 cm, 1.5 N), indicating a linear relationship between force and extension. The line is extrapolated back to the origin for force but shows a non-zero length at zero force.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Acceleration",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine the length of the unstretched spring.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how the graph shows that the limit of proportionality is not reached.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The spring is attached to a mass M of 0.20kg and placed on a frictionless surface, as shown in Fig. 1.2. The apparatus is placed on the floor of a car. When the car accelerates uniformly in the direction shown, the spring extends.",
+        "image": "A diagram titled 'Fig. 1.2 (not to scale)' showing a mass M connected to a spring. The spring is attached to a vertical wall on the left, and the mass rests on a frictionless surface. An arrow indicates that a 'car accelerates in this direction' to the right. The text labels 'frictionless surface', 'M', 'spring', and 'car accelerates in this direction'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is meant by a uniform acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The extension of the spring is 9.0cm. Using Fig. 1.1, determine",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)1",
+        "part_text": "the horizontal force on M,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)2",
+        "part_text": "the acceleration of M.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q2",
+    "Question_text": "Fig. 2.1 shows apparatus used to investigate the turning effect of a force. The uniform metre rule is freely pivoted at its centre. The newton meter is 20cm from the pivot and a 4.0N weight is 40cm from the pivot. The metre rule is in equilibrium.",
+    "image": "A diagram titled 'Fig. 2.1' showing a uniform metre rule pivoted at its centre. A newton meter is attached 20 cm to the left of the pivot, pulling upwards. A 4.0 N weight is hung 40 cm to the right of the pivot, pulling downwards. The labels indicate 'newton meter', 'pivot', 'uniform metre rule', '20 cm', '40 cm', and '4.0 N'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the principle of moments for a body in equilibrium.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the reading on the newton meter.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The weight of the metre rule is 1.2N. Calculate the size of the force exerted on the metre rule by the pivot.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q3",
+    "Question_text": "Fig. 3.1 shows a glass tube dipped into mercury. A vacuum pump is connected to the top of the tube and switched on. The mercury rises up the tube and stops.",
+    "image": "A diagram titled 'Fig. 3.1' showing a glass tube inverted in a beaker of mercury. A vacuum pump is connected to the top of the tube. The mercury inside the tube has risen to a height of 0.76 m above the level in the beaker. Points P (top of the mercury column inside the tube), Q (just above the mercury level in the beaker, inside the tube), and R (on the surface of the mercury in the beaker) are labeled. The labels include 'to vacuum pump', 'glass tube', '0.76 m', 'mercury'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Three points on Fig. 3.1 are labelled P, Q and R. State which two of these points are at atmospheric pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The density of mercury is 13600kg/m³ and the gravitational field strength g is 10N/kg. Calculate the pressure due to the column of mercury of length 0.76 m.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State and explain what happens if the mercury in the apparatus shown in Fig. 3.1 is replaced with water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q4",
+    "Question_text": "Fig. 4.1 shows a laboratory thermometer.",
+    "image": "A diagram titled 'Fig. 4.1' showing a liquid-in-glass thermometer. The scale ranges from -10 °C to 110 °C, marked in 10-degree intervals with smaller divisions. The liquid column is visible. Labels include 'liquid' and the temperature scale.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the range of the thermometer shown in Fig. 4.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how Fig. 4.1 shows that the thermometer has a linear scale.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The manufacturer of the thermometer changes the design to make a more sensitive thermometer. Fig. 4.2 shows part of the scale on the original thermometer. On Fig. 4.3, draw a more sensitive scale.",
+        "image": "Fig. 4.2 shows a segment of a thermometer scale from 10 to 70 with 10-degree markings. Fig. 4.3 provides a blank line segment, labeled 'your scale showing a more sensitive thermometer', below Fig. 4.2."
+      },
+      {
+        "part_label": "b",
+        "part_text": "State one other property, apart from volume or expansion, which can be used to measure temperature.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q5",
+    "Question_text": "Fig. 5.1 shows a ray of light that enters a semicircular glass block at A. At B, some of the light is reflected and some light leaves the glass and travels along the surface.",
+    "image": "A diagram titled 'Fig. 5.1' showing a semicircular glass block. A ray of light enters the block at point A. Inside the block, it travels to point B on the flat surface. At B, a normal is drawn, and the angle of incidence is marked as 41°. A reflected ray is shown inside the block, and a refracted ray travels along the surface (at 90 degrees to the normal). The diameter of the block is indicated as 0.10m. Labels include 'glass block', 'A', 'B', '0.10m', '41°'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Total Internal Reflection",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the angle of incidence marked 41°.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Rays of light are incident at B with different angles of incidence.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 5.2a, the angle i₁ is less than 41°. Draw the path taken by the ray of light after B.",
+        "image": "Fig. 5.2a shows a semicircular glass block with a ray incident at B and a normal. An angle i₁ is indicated, less than 41°."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 5.2b, the angle i₂ is greater than 41°. Draw the path taken by the ray of light after B.",
+        "image": "Fig. 5.2b shows a semicircular glass block with a ray incident at B and a normal. An angle i₂ is indicated, greater than 41°."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The speed of light in the glass block is 2.0 x 10⁸m/s. The diameter of the glass block is 0.10m. Calculate the time taken for the light to travel from A to B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q6",
+    "Question_text": "Fig. 6.1 is a graph of current against potential difference (p.d.) for a length of metal wire.",
+    "image": "A graph titled 'Fig. 6.1' showing 'current/A' on the y-axis (from 0 to 0.3 A) and 'p.d./V' on the x-axis (from 0 to 5 V). A straight line passes through the origin (0,0) and extends to (5 V, 0.25 A), indicating a linear relationship. The grid is marked with major divisions every 0.05 A and 1 V.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The metal wire obeys Ohm's law. State Ohm's law in words.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the resistance of the metal wire.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A new wire is made from the same metal as the original wire. The two wires have the same length. The cross-sectional area of the new wire is half that of the original wire.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the resistance of the new wire.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 6.1, draw a line to show how current varies with p.d. for the new wire.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q7",
+    "Question_text": "A student connects a thermistor in series with a power supply and a fixed resistor.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw the circuit diagram of the apparatus.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Values for potential difference (p.d.) and current are given in Fig. 7.1. The maximum power rating of the thermistor is 150mW.",
+        "image": "A table titled 'Fig. 7.1' with columns for 'p.d. across the thermistor/V', 'p.d. across the fixed resistor/V', 'e.m.f. of power supply/V', 'current in the thermistor/A', and 'current in the fixed resistor/A'. The row contains values 8.0, 4.0, (blank), 0.018, (blank)."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In the blank spaces in Fig. 7.1, insert the values of the electromotive force (e.m.f.) of the power supply and the current in the fixed resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the power produced in the thermistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The e.m.f. of the power supply is doubled. Describe what happens to the thermistor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q8",
+    "Question_text": "Fig. 8.1 shows a simple transformer.",
+    "image": "A diagram titled 'Fig. 8.1' showing a simple transformer with a laminated iron core. An 'alternating current supply' is connected to the primary coil on the left. A light bulb is connected to the secondary coil on the right. Labels include 'alternating current supply', 'primary coil', 'core', 'secondary coil'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Electromagnetic Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the metal used for the core of a transformer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how an alternating current in the primary coil causes the lamp to light.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Transformers are used to produce high voltages for the transmission of electrical power over long distances. State one advantage of high voltage transmission.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q9",
+    "Question_text": "Fig. 9.1 shows a conveyor belt carrying suitcases into an aeroplane. An electric motor drives the conveyor belt.",
+    "image": "A diagram titled 'Fig. 9.1 (not to scale)' showing a conveyor belt moving suitcases up an incline into an aeroplane. The vertical height gained is 6.0 m, and the length along the incline is 9.0 m. An 'aeroplane' is at the top right, 'suitcase' is on the belt, 'conveyor belt' is labeled, and a 'motor' is at the bottom driving the belt. Distances '9.0 m' (length of incline) and '6.0 m' (vertical height) are indicated.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Conservation of Energy",
+      "Energy Resources",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A suitcase of mass 20 kg is lifted from the ground into the aeroplane.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain what is meant by mass and by weight.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The gravitational field strength g is 10N/kg. Calculate the increase in the gravitational potential energy of the suitcase.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The suitcase takes 12s to travel 9.0m along the conveyor belt. Calculate the kinetic energy of the suitcase.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The electric motor is powered by an input voltage of 230V and a current of 1.5 A. Calculate the electrical energy input to the motor in 12s.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)1",
+        "part_text": "State the principle of the conservation of energy.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)2",
+        "part_text": "Explain how this principle applies to the lifting of the suitcases into the aeroplane.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Some of the electrical energy for the motor comes from renewable energy sources.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain what is meant by a renewable energy source.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State two renewable energy sources.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q10",
+    "Question_text": "The average input power to a freezer is 80W. The cost of 1 kWh is 25 cents.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Electrical Power",
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "States of Matter",
+      "Particle Model",
+      "Kinetic Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain what is meant by the kilowatt-hour (kWh).",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the cost of running the freezer for one week.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A large jug containing 1.5kg of water is placed in the freezer.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The water cools from 25°C to 0°C in a time of 60 minutes. The specific heat capacity of water is 4.2J/(g°C). Calculate the thermal energy (heat) removed from the water as it cools from 25°C to 0°C.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "After the water has reached 0°C, thermal energy is removed from the water at the same rate as in (i). The specific latent heat of fusion of water is 3.3 × 10⁵J/kg. Calculate the mass of water at 0°C that becomes ice in 60 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Describe the arrangement and the movement of the molecules",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)1",
+        "part_text": "in liquid water,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)2",
+        "part_text": "in ice.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Ice at 0°C becomes water at 0°C. State what, if anything, happens to the kinetic energy and the potential energy of the molecules as this happens.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/2013/Q11",
+    "Question_text": "The nucleus of an atom of carbon-14 is represented as ¹⁴₆C.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "Half-Life",
+      "The Three Types of Emission",
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "Uses of Radiation",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe the structure of an atom of carbon-14.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Carbon has several isotopes. Describe, in terms of the particles within the nucleus, how isotopes are",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)1",
+        "part_text": "different from one another,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)2",
+        "part_text": "the same as one another.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Carbon-14 decays by beta emission to a stable isotope of nitrogen. Carbon-14 has a half-life of 5700 years and is used to find the age of objects by carbon dating.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A pure sample of carbon-14 initially contains 8.0 × 10²⁰ atoms. Calculate the number of atoms of carbon and of nitrogen present in the sample after 11400 years.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why carbon-14 is not used to find the age of a piece of coal that has been in the ground for millions of years.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A teacher sets up the apparatus shown in Fig. 11.1.",
+        "image": "A diagram titled 'Fig. 11.1' showing a setup for demonstrating beta-particle absorption. A 'radioactive source emitting beta-particles' is enclosed in a 'lead' casing with an opening. At a distance of '6 mm' from the source, there is a 'detector' connected to a 'counter'. Labels include 'lead', 'radioactive source emitting beta-particles', '6 mm', 'detector', 'counter'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe how the apparatus and the sheets are used to demonstrate that beta-particles are stopped by 5mm of aluminium. In your account, make clear how the background count is measured and used.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest why the lead in Fig. 11.1 is placed around the radioactive source during the demonstration.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The radioactive source in Fig. 11.1 is changed for one that emits gamma-rays. Describe why the apparatus cannot be used to find the thickness of aluminium needed to stop gamma-rays.",
+        "image": null
+      }
+    ]
+  }
+]

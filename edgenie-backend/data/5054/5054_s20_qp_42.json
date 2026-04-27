@@ -1,0 +1,180 @@
+[
+  {
+    "QuestionNumber": "May-June/42/2020/Q1",
+    "Question_text": "A student investigates the refraction of light by a glass block. She places the glass block on a sheet of paper and draws around the outline of the block. She uses a ray box to shine an incident ray on to the side AB, as shown in Fig. 1.1. The ray is incident at point E.",
+    "image": "Figure 1.1 illustrates the setup for a refraction experiment. It shows a rectangular glass block labeled ABCD on a sheet of paper. A ray box is positioned to the left, emitting an incident light ray towards point E on the side AB of the glass block. A dashed line represents the path of the incident ray before entering the block. Labels include 'ray box', 'E', 'A', 'B', 'C', 'D', and 'glass block'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 1.1, draw the normal at point E.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Measure and record the angle of incidence i.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The ray is refracted into the block at an angle of refraction of 25°. On Fig. 1.1 draw the refracted ray. Continue the ray until it meets the side CD of the block. Label the point where the refracted ray meets the side CD with the letter F.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe how the student accurately traces the path of the light emerging from the block through side CD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2020/Q2",
+    "Question_text": "A student investigates the terminal velocities v of small steel spheres of different diameters d falling through oil. A steel sphere falling through oil reaches terminal velocity when the weight of the sphere is balanced by the drag force of the oil acting upon the sphere. The student measures the diameter d of a steel sphere. The diameter of the sphere is 7.82 mm. He fills a large glass cylinder with oil. He places two rubber bands around the cylinder, one above the other, at a distance of 10.0 cm apart, as shown in Fig. 2.1.",
+    "image": "Figure 2.1 shows a vertical glass cylinder filled with oil. A steel sphere is indicated near the top, ready to fall. Two horizontal rubber bands are placed around the cylinder, one above the other, marking a vertical distance of 10.0 cm indicated between them. Labels include 'steel sphere', 'rubber band', '10.0 cm', and 'oil'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Speed & Velocity",
+      "Measurement",
+      "Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "He obtains the following values of the time t for the sphere to fall a distance of 10.0cm. 0.83 s, 0.69 s, 0.60 s Calculate tAV, the average value of t. Give your answer to 2 decimal places. Record your answer on the answer line and in Table 2.1 on page 4.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest why tAV is not recorded to more than 2 decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the average velocity v of this sphere as it falls between the rubber bands. Use the equation shown. Record your answer on the answer line and in Table 2.1. v = 10.0 / tAV",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate d² for this sphere. Record your answer to the nearest whole number on the answer line and in Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Name a measuring instrument suitable for measuring the diameter d of the steel sphere to a precision of 0.01 mm.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest why the top rubber band is not placed close to the surface of the oil.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The student repeats the procedure using steel spheres of different diameters. His results are shown in Table 2.1. Table 2.1 d/mm tAV/s v/cm/s d²/mm² 7.82 6.92 0.91 11 48 5.13 1.65 6.1 26 4.41 2.24 4.5 19 3.18 4.24 2.4 10 Using the data in Table 2.1, plot on Fig. 2.2 a graph of v on the y-axis against d² on the x-axis. Start both axes from the origin. Draw the straight line of best fit.",
+        "image": "Figure 2.2 is a large, empty grid with an origin marked at (0,0) in the bottom-left corner. It is intended for plotting a graph of velocity (v) on the y-axis against the square of the diameter (d²) on the x-axis."
+      },
+      {
+        "part_label": "f",
+        "part_text": "Describe the relationship between v and d² shown by your graph.",
+        "image": null
+      },
+      {
+        "part_label": "g(i)",
+        "part_text": "Human reaction time errors occur when using a stop-watch. Use Table 2.1 on page 4 to suggest why the average time tAV for a smaller sphere is more accurate than for a larger sphere.",
+        "image": null
+      },
+      {
+        "part_label": "g(ii)",
+        "part_text": "Suggest one modification to the apparatus that produces more accurate timings.",
+        "image": null
+      },
+      {
+        "part_label": "h",
+        "part_text": "The student removes the steel spheres from the oil at the bottom of the cylinder by dipping a magnet attached to a length of string into the oil. State why this procedure does not work if the spheres are made of copper.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2020/Q3",
+    "Question_text": "A student investigates the effective resistance of different combinations of three identical resistors. She sets up circuit 1, shown in Fig. 3.1.",
+    "image": "Figure 3.1 displays 'circuit 1', an electrical circuit diagram. It includes a switch, an ammeter (labeled 'A'), and three identical resistors connected in series between points X and Y. A voltmeter (labeled 'V') is connected in parallel across the series combination of the three resistors.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Read the voltmeter scale shown in Fig. 3.2. Record your answer on the answer line and in Table 3.1 on page 8. voltmeter reading = V [1]",
+        "image": "Figure 3.2 shows a magnified portion of a voltmeter scale. The scale is marked from 1.4 to 1.5 V, with 10 smaller divisions between these main markings. The needle points precisely to the middle of the 10 divisions, corresponding to 1.45 V."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student uses two more combinations of the three resistors. The combinations are shown in Fig. 3.3. She replaces the resistor combination shown between X and Y in circuit 1 with that of circuit 2 and then that of circuit 3, in turn. Each time she records the current I in the circuit and the potential difference V across the resistor combination. Her results are shown in Table 3.1. The resistance R of each combination of resistors is given by R = V/I",
+        "image": "Figure 3.3 presents two additional circuit diagrams. 'circuit 2' shows three identical resistors connected in a parallel arrangement. 'circuit 3' shows two identical resistors connected in parallel, with a third identical resistor connected in series with this parallel combination."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete the column headings in Table 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the resistance R of each combination of resistors. Record the values of R in Table 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Theory suggests that for identical resistors, the resistance of the resistor combination in circuit 1 is double the resistance of the resistor combination in circuit 2. State whether your results support this theory, within the limits of experimental accuracy. Give a reason for your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Give one precaution that the student takes so that her readings of current and voltage are as accurate as possible.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2020/Q4",
+    "Question_text": "A student investigates the rate of cooling of thermometer bulbs under different conditions. The student takes two identical thermometers P and Q. He leaves the bulb of thermometer P exposed to the air, but wraps and secures a small piece of cloth around the bulb of thermometer Q. He places thermometer P into a beaker of hot water. Fig. 4.1 shows the reading on thermometer P at time t = 0.",
+    "image": "Figure 4.1 depicts a mercury-in-glass thermometer. The graduated scale is visible from 80 °C to 90 °C, with markings for each degree. The mercury column has risen to indicate a temperature of 86 °C.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer",
+      "Thermal properties & Temperature",
+      "Radiation",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Record on the answer line, and in Table 4.1, the temperature shown at time t = 0.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student removes thermometer P from the hot water and starts the stop-watch. He takes the reading of the temperature of the thermometer bulb at 30s intervals for 3 minutes. He repeats the experiment using thermometer Q. His results are shown in Table 4.1. State which thermometer cooled more quickly at the start of the investigation. Justify your answer by referring to readings in Table 4.1 on page 9.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest two conditions that must be kept the same to ensure that a fair comparison is made between the rates of cooling of the two thermometers.",
+        "image": null
+      }
+    ]
+  }
+]

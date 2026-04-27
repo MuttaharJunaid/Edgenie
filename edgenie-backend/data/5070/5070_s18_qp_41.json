@@ -1,0 +1,365 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Name the three pieces of apparatus A, B, C",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1bi",
+    "Question_text": "Record initial and final reading and calculate volume of sodium hydroxide used",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1bii",
+    "Question_text": "Complete the results table by calculating the volume of 0.0250mol/dm³ sodium hydroxide used for each of titrations 1 and 3.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1biii",
+    "Question_text": "In the results table, tick (✔) the best titration results and use them to calculate the average titre.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1biv",
+    "Question_text": "Suggest an improvement that the student can make to the method to make the results more accurate. Explain your answer.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1ci",
+    "Question_text": "Calculate the number of moles of 0.0250mol/dm³ sodium hydroxide used.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1cii",
+    "Question_text": "Calculate the number of moles of ethanoic acid present in the 25cm³ of diluted vinegar solution transferred into apparatus B for each titration.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1ciii",
+    "Question_text": "Calculate the number of moles of ethanoic acid in the original 5.0 cm³ sample of vinegar.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1civ",
+    "Question_text": "Calculate the concentration, in mol/dm³, of ethanoic acid in the original sample of vinegar.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Complete the table by adding the observations for each of tests (a) and (c) and the conclusion for test (b). To a portion of L in a boiling tube, dilute hydrochloric acid is added until all the solid has dissolved.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Complete the table by adding the observations for each of tests (a) and (c) and the conclusion for test (b). To a portion of the solution from (a) in a test-tube, dilute nitric acid is added, followed by aqueous barium nitrate.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ci",
+    "Question_text": "Complete the table by adding the observations for each of tests (a) and (c) and the conclusion for test (b). To a portion of the solution from (a) in a test-tube, aqueous ammonia is added until a change is seen.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2cii",
+    "Question_text": "Complete the table by adding the observations for each of tests (a) and (c) and the conclusion for test (b). An excess of aqueous ammonia is added to the mixture from (i).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Suggest why the initial line is drawn in pencil and not ink.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Draw a line on the diagram of the chromatogram to show the depth of solvent into which the paper is placed.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Suggest how the chromatogram needs to be treated to make the spots visible.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Locating agents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "What effect does hydrolysis have on the sample of the molecule?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3e",
+    "Question_text": "Suggest a reason why only three spots are detected on the final chromatogram.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Interpreting chromatograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3fi",
+    "Question_text": "State how an Rf value is calculated.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Rf equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3fii",
+    "Question_text": "State which one of the amino acids, listed in the table, is present on the chromatogram.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Interpreting chromatograms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Describe what the student observes when zinc is placed into aqueous copper(II) nitrate.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Relative reactivities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4bi",
+    "Question_text": "Use the experimental results to deduce the order of reactivity of these four metals.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order from results"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4bii",
+    "Question_text": "Explain how the results support this order of reactivity.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Relative reactivities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c",
+    "Question_text": "Describe how you would do this experiment. The order of reactivity of these four metals can also be found by measuring the temperature change when each metal reacts with dilute hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Relative reactivities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5ai",
+    "Question_text": "What property of oxygen gas allows it to be collected by this method?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5aii",
+    "Question_text": "Name an alternative piece of apparatus that could be used to collect and measure the volume of oxygen gas.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5aiii",
+    "Question_text": "Give a test and observation to identify oxygen.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5bi",
+    "Question_text": "Plot the results on the grid.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5bii",
+    "Question_text": "Draw a circle around the anomalous point on the graph.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5biii",
+    "Question_text": "Use the points to draw a curve of best fit.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5biv",
+    "Question_text": "The student repeats the experiment at 50°C. All other variables are kept constant. Draw a second curve on the grid to represent the results that are obtained at this higher temperature. Explain your answer.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "For each mixture, describe a method to obtain a pure sample of each substance in the mixture. In your description you should include the names of any techniques and apparatus used. solid sodium chloride and sand",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "For each mixture, describe a method to obtain a pure sample of each substance in the mixture. In your description you should include the names of any techniques and apparatus used. ethanol and butanol",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation"
+    ],
+    "Parts": []
+  }
+]

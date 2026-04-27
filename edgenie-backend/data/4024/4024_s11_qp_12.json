@@ -1,0 +1,656 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2011/Q1",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers",
+      "Order operations correctly"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 12+6÷2-8.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 2.6 x 0.2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.4 Fractions, decimals and percentages",
+    "Sub_topic": [
+      "Use decimals",
+      "Convert between forms",
+      "Order by magnitude",
+      "Use symbols (=, ≠, >, <, ⩾, ⩽)",
+      "Express as percentage"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "It is given that 1/5 < n < 1/4. Write down a decimal value of n that satisfies this inequality.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Express 48/60 as a percentage.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions",
+      "Use proper fractions",
+      "Use mixed numbers",
+      "Write fractions simply"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 2/3 - 3/8.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 1 3/4 × 2/9, giving your answer as a fraction in its lowest terms.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities",
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve 5y - 3 > 3y + 12.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down all the integers that satisfy the inequality −6 ≤ 3x < 6 .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q5",
+    "Question_text": "c = (3 2), d = (8 -6)",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Calculate magnitude of vector as sqrt(x² + y²)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate 2c - d.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate |d|.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q6",
+    "Question_text": "ABC is a right-angled triangle with AB = 6cm and BC = 9cm. A semicircle of diameter 6cm is joined to the triangle along AB. Find an expression, in the form a + bπ, for the total area of the shape.",
+    "image": "A diagram showing a right-angled triangle ABC. The right angle is at B. Side AB is vertical with length 6cm, and side BC is horizontal with length 9cm. A semicircle is joined to the triangle along AB, extending outwards from the triangle, with AB as its diameter.",
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply",
+      "Divide quantity by ratio",
+      "Use proportional reasoning",
+      "Use proper fractions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The ratio of boys to girls in a class is 4:5. What fraction of the class are boys?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The ratio of boys to girls in a school is 3:4. There are 120 more girls than boys. How many students are in the school?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q8",
+    "Question_text": "y is directly proportional to the square of x. Given that y = 2 when x = 4, find y when x = 10.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q9",
+    "Question_text": "The shaded region on the diagram is represented by three inequalities. One of these is y ≥ 3x - 2. Write down the other two inequalities.",
+    "image": "A Cartesian coordinate system showing a shaded triangular region. The region is bounded by three lines. One line passes through (0, -2) and (1, 1) and is represented by y = 3x - 2. Another line is horizontal at y = 3. A third line is the y-axis, represented by x = 0. The shaded region is above the line y = 3x - 2, below the line y = 3, and to the right of the line x = 0.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q10",
+    "Question_text": "These two cylinders are similar. The ratio of their volumes is 8:27. The height of cylinder A is 12cm. Find the height of cylinder B.",
+    "image": "Two cylinders, labeled A and B, indicating that cylinder A is smaller than cylinder B.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids",
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q11",
+    "Question_text": "ABCD is a trapezium with AB = 21 cm and CD = 35 cm. ABC = BCD = 90° and ADC = θ. Using as much information from the table as is necessary, calculate AD.",
+    "image": "A right-angled trapezium ABCD. AB is parallel to CD. Angle B and Angle C are 90 degrees. Side AB is 21 cm, side CD is 35 cm. Angle ADC is labeled as θ. A table provides trigonometric ratios: sin θ = 24/25, cos θ = 7/25, tan θ = 24/7.",
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q12",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the Venn diagram, shade the set A ∩ B ∩ C'.",
+        "image": "A Venn diagram showing three overlapping circles labeled A, B, and C inside a universal set E."
+      },
+      {
+        "part_label": "b",
+        "part_text": "E = {2, 3, 4, 5, 6, 7, 8, 9, 10}, P = {x: x is a prime number}, Q = {x : x ≥ 5}",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Find the value of n(P ∩ Q).",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "List the elements of P ∪ Q' .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q13",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Use A × 10^n form",
+      "Convert to standard form",
+      "Calculate with standard form",
+      "Order by magnitude"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The mass of one grain of rice is 0.000 02kg. Write 0.000 02 in standard form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The table shows the amount of rice grown in some countries in 2002.",
+        "image": "A table showing the amount of rice grown in tonnes for China (1.2 x 10^8), Brazil (7.6 x 10^6), India (8.0 x 10^7), and Vietnam (2.1 x 10^7) in 2002."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Write these amounts in order, smallest first.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the difference in the amount of rice grown in Brazil and Vietnam. Give your answer in standard form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q14",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify prime numbers",
+      "Identify common factors",
+      "Identify common multiples",
+      "Understand positive indices",
+      "Use rules of indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express 108 as a product of its prime factors.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Written as products of their prime factors, N = 2^p × 5^q × 7^r and 500 = 2^2 × 5^3. The highest common factor of N and 500 is 2^2 × 5^2. The lowest common multiple of N and 500 is 2^3 × 5^3 × 7. Find p, q and r.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q15",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Factorise completely 9pq – 12q².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Factorise completely 8px + 4py – 6x – 3y.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q16",
+    "Question_text": "The scale drawing shows three towns, A, B and C. The scale of the drawing is 1 cm to 25 km.",
+    "image": "A scale drawing showing three points A, B, C forming a triangle. A 'North' arrow points vertically upwards from point C. The points A, B, C are arranged such that C is to the southwest of A and B is to the southeast of A.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings",
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure the bearing of A from C.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the bearing of C from A.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the actual distance, in kilometres, from B to C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q17",
+    "Question_text": "The table shows the height, in metres, above sea level of the highest and lowest points in some continents. A negative value indicates a point below sea level.",
+    "image": "A table displaying the highest and lowest points (in meters) for Asia, Africa, Europe, and South America. Highest points: Asia (8850m), Africa (5963m), Europe (5633m), South America (6959m). Lowest points: Asia (-409m), Africa (-156m), Europe (-28m), South America (-40m).",
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "What is the height above sea level of the highest point in Africa? Give your answer in kilometres.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In South America, how much higher is the highest point than the lowest point? Give your answer in metres.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "How much higher is the lowest point in Europe than the lowest point in Asia? Give your answer in metres.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q18",
+    "Question_text": "The diagram below shows the quadrilateral PQRS.",
+    "image": "A quadrilateral PQRS drawn on a blank space, with vertices P, Q, R, S labeled counter-clockwise.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles",
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On the diagram, construct the bisector of ∠SPQ,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the perpendicular bisector of QR.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the diagram, shade the region inside the quadrilateral containing the points that are closer to PQ than to PS and nearer to Q than to R.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q19",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy",
+      "Make estimates",
+      "Calculate square roots",
+      "Order operations correctly",
+      "Calculate squares"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express 0.047 852 correct to two decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Estimate the value of √200, giving your answer correct to two significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "By writing each number correct to one significant figure, estimate the value of (212 × 1.97^2) / 0.763.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q20",
+    "Question_text": "The table shows the distribution of the number of complete lengths swum by a group of swimmers.",
+    "image": "A frequency distribution table showing the number of complete lengths (n) swum and their corresponding frequencies. Classes for 'n' are: 0 < n ≤ 20, 20 < n ≤ 40, 40 < n ≤ 60, 60 < n ≤ 80. Frequencies are: 5, 20, 10, 5 respectively.",
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Identify modal class from grouped frequency distribution",
+      "Calculate estimate of mean for grouped discrete or continuous data"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the modal class.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate an estimate of the mean.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q21",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand negative indices",
+      "Use rules of indices",
+      "Calculate cube roots",
+      "Understand fractional indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate (1/4)^-2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 64^(1/3).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Simplify (4x²y⁹) / (x⁴y).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q22",
+    "Question_text": "Points A, B, C and D lie on the circumference of a circle, centre O, and AB = CD. AC and BD intersect at E. OBC = 20°.",
+    "image": "A circle with center O. Points A, B, C, D are on the circumference. Chords AB and CD are marked as equal. Chords AC and BD intersect at point E within the circle. A radius OB is drawn, and angle OBC is given as 20 degrees.",
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor",
+      "Use circle symmetry properties: equal chords equidistant from centre, perpendicular bisector of chord through centre, tangents from external point equal"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate BÔC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate CÂB.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Show that triangles AEB and DEC are congruent.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q23",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money",
+      "Use operations with integers",
+      "Calculate percentage change",
+      "Calculate percentage of quantity",
+      "Convert currencies"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Imran is paid $16 per hour.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "One week he works 35 hours. Calculate the amount he is paid for the week.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Imran is paid 20% extra per hour for working at weekends. Work out the total amount Imran is paid for working 4 hours at the weekend.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The exchange rate between pounds and dollars is £1 = $1.80. Anna converts $270 into pounds. Calculate the number of pounds Anna receives.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q24",
+    "Question_text": "P is the point (-2, 1) and Q is the point (3, 7).",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment",
+      "Calculate the gradient of a straight line from the coordinates of two points on it",
+      "Use and interpret Cartesian coordinates in two dimensions",
+      "Interpret and obtain the equation of a straight-line graph",
+      "Substitute numbers into expressions and formulas",
+      "Solve linear equations in one unknown",
+      "Find the gradient of a straight line"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "M is the midpoint of PQ. Find the coordinates of M.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the gradient of the line PQ.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The line with equation 2y + 3x + k = 0 passes through the point P.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Find k.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Find the gradient of this line.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q25",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown",
+      "Expand products of algebraic expressions",
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve 10 - 3(2x - 1) = 3x + 1.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve the simultaneous equations. 4x + 3y = 11, 2x - 5y = 25.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/12/2011/Q26",
+    "Question_text": "The diagram shows a rectangle with length (2x + 3) cm and width (x - 1) cm.",
+    "image": "A rectangle labeled with its length as (2x + 3) cm and its width as (x - 1) cm.",
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas",
+      "Expand products of algebraic expressions",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The area of the rectangle is 12cm². Form an equation in x and show that it reduces to 2x² + x - 15 = 0 .",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve 2x² + x - 15 = 0 .",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the perimeter of the rectangle.",
+        "image": null
+      }
+    ]
+  }
+]

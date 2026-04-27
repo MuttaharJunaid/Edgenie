@@ -1,0 +1,439 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2017/Q1",
+    "Question_text": "A car accelerates from rest in a straight line. During the first 14s, the acceleration is uniform and the car reaches a speed of 25 m/s.",
+    "image": "A speed-time graph (Fig. 1.1) with time/s on the x-axis from 0 to 80 and speed m/s on the y-axis from 0 to 60. A grid is present, and lines for plotting are expected.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion, 1.5 Forces",
+    "Sub_topic": [
+      "Acceleration",
+      "Newton's First Law",
+      "Speed & Velocity",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the acceleration of the car.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "After the first 14s, the speed of the car continues to increase but the acceleration decreases. From 70s to 80s after the start, the car moves at a constant speed of 55 m/s. On Fig. 1.1, draw a possible speed-time graph for the car.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "At a later time, the driver applies the brakes to stop. He is wearing a seat belt and slows down in his seat. A bag on the seat next to him slides forwards, across the seat towards the front of the car. Using ideas about the forces acting, explain why the driver slows down but the bag slides forwards.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q2",
+    "Question_text": "A swing is made by tying rope loosely to the branch of a tree, as shown in Fig. 2.1. A child swings backwards and forwards several times, starting at the highest point A.",
+    "image": "A diagram (Fig. 2.1) showing a swing hanging from a tree branch. A rope is tied to the branch, and a seat is at the bottom. Three positions are marked: A (highest point on one side), B (lowest point/equilibrium), and C (highest point on the other side). The swing is currently at position A.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques, 1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Conservation of Energy",
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how another child can obtain an accurate measurement of the time for one complete swing.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "When the child moves from A to B, she falls a vertical distance of 0.60m. She loses 240 J of gravitational potential energy. The gravitational field strength g is 10N/kg. Calculate the mass of the child.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest two reasons why her kinetic energy at B is not equal to 240 J.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q3",
+    "Question_text": "Fig. 3.1 shows the brake pedal of a car which is connected to a brake cylinder. The brake is pressed with a force F. This force produces a moment about the pivot. Pressing the brake causes a force of 80 N to act on the piston.",
+    "image": "A diagram (Fig. 3.1) of a brake pedal mechanism. It shows a pivot point, a brake pedal where force F is applied, and a connection to a brake cylinder. Distances are marked: 18 cm from the force F to the pivot, and 4.0 cm from the pivot to where an 80 N force acts on a piston connected to a fluid.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces, 1.8 Pressure",
+    "Sub_topic": [
+      "Moments",
+      "Pressure & Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define the term moment.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the force F applied to the brake pedal.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The cross-sectional area of the piston is 0.0012m². Calculate the pressure exerted by the brake piston on the fluid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q4",
+    "Question_text": "Fig. 4.1 shows apparatus used to measure the specific heat capacity of a metal. The electric heater is switched on and supplies 17000J of thermal energy (heat) to the block of metal. The temperature of the metal rises from 16°C to 38°C. The mass of the block of metal is 850 g. No energy is lost from the metal.",
+    "image": "A diagram (Fig. 4.1) showing apparatus for measuring specific heat capacity. It consists of a metal block with an electric heater inserted into it and a thermometer inserted into another hole in the block.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature, 2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Thermal Conduction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the specific heat capacity of the metal.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the heat capacity of the block of metal.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain how thermal energy (heat) is conducted through the metal.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q5",
+    "Question_text": "When a sample of a solid is heated, it becomes a liquid and eventually becomes a gas. Fig. 5.1 shows the arrangement of the molecules in the solid.",
+    "image": "A diagram (Fig. 5.1) showing a regular, closely packed arrangement of circular molecules in a solid state.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "States of Matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw the arrangement of the molecules in the liquid.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete the table by describing the motion of the molecules in the solid, liquid and gas.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest why a gas is able to fill a container but a solid has a fixed shape.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q6",
+    "Question_text": "Explain the difference between a longitudinal wave and a transverse wave.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves, 3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves",
+      "Sound Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "You may draw a diagram, if you wish, to help your explanation.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A sound wave has a frequency of 3.8 kHz and a speed of 330 m/s. Calculate the wavelength of the sound.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A different sound has a frequency of 3.8 Hz. State and explain whether a human with normal hearing is able to hear this sound.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q7",
+    "Question_text": "Fig. 7.1 shows part of a d.c. electric motor. A coil of wire ABCD is placed between the poles of a magnet. Ends X and Y are connected to a commutator and a battery.",
+    "image": "A diagram (Fig. 7.1) illustrating part of a d.c. electric motor. It shows a rectangular coil ABCD positioned within a magnetic field, indicated by an 'axis' line. Wires X and Y extend from the coil, presumably connecting to a commutator and battery, though these components are not fully drawn.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "1.7 Energy, Work and Power, 4.2 Electrical Quantities, 4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Efficiency",
+      "Electric Motors",
+      "Electrical Current",
+      "Electrical Energy",
+      "Electromotive Force & Potential Difference",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State why there is a force on side AB of the coil.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the commutator keeps the coil rotating in one direction.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The current in the motor is 2.0A and the battery has an electromotive force (e.m.f.) of 12V. In a time of 8.0s, the motor does 140J of work. Calculate the energy supplied to the motor in 8.0s,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the efficiency of the motor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q8",
+    "Question_text": "Fig. 8.1 shows charges on a rod and on a cloth.",
+    "image": "A diagram (Fig. 8.1) showing a plastic rod with negative (-) and positive (+) charges distributed along its surface. A cloth, with predominantly positive charges (+), is shown near the rod, implying interaction or charging by rubbing.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Demonstrating Electric Charges",
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how Fig. 8.1 shows that the rod and the cloth are uncharged.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The plastic rod becomes negatively charged when rubbed by the cloth. Describe what happens to the charges on the rod and on the cloth during the charging process.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe a simple experiment to show that the plastic rod is charged. You may draw a diagram if you wish.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q9",
+    "Question_text": "Fig. 9.1 shows a man in a room looking into a mirror, as viewed from above. The man can see an image of part of the wall AB in the mirror. Point C is the point on the wall closest to A that the man can see by reflection in the mirror. This point is not marked on Fig. 9.1.",
+    "image": "A top-down diagram (Fig. 9.1) of a room with a man looking into a plane mirror placed on one wall. A section of the wall is labeled AB.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Ray Diagrams",
+      "Reflection of Light",
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 9.1, find point C and draw a ray of light from C which enables the man to see the image of C.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On the ray that you have drawn on Fig. 9.1, label the angle of incidence i and the angle of reflection r.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 1",
+        "part_text": "One characteristic of the image formed by the mirror is that it is virtual. Explain what is meant by a virtual image.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 2",
+        "part_text": "State one other characteristic of an image formed by a plane mirror.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Light travels along optical fibres by total internal reflection. State two differences between total internal reflection and reflection in a mirror.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The critical angle for light travelling from the material of the fibre to air is 44°. Calculate the refractive index of the material in the fibre.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Light enters the optical fibre from air with an angle of incidence of 50°. Calculate the angle of refraction.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Optical fibres are used in telecommunications to send large amounts of data. Pulses of light travel at almost the same speed along a fibre as electrical pulses travel along a metal wire. State two advantages of using optical fibres rather than wires for transmitting data.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q10",
+    "Question_text": "Measurements are made of the current in a metal wire and the potential difference (p.d.) across it. Fig. 10.1 shows a graph of the current against the p.d. for the wire.",
+    "image": "A graph (Fig. 10.1) showing current/A on the y-axis (0 to 0.5) against potential difference (p.d.)/V on the x-axis (0 to 5). A straight line passes through the origin, indicating a linear relationship.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities, 4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Current in Circuits",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Potential Difference in Circuits",
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the relationship between the current and the p.d. for the metal wire.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how the graph shows that the temperature of the wire does not change in the experiment.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 1",
+        "part_text": "Another wire of the same material has the same length as the original wire but has only half the cross-sectional area. Compare the resistance of the new wire and the original wire.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 2",
+        "part_text": "On Fig. 10.1, draw the graph for the new wire.",
+        "image": null
+      },
+      {
+        "part_label": "b(i) 1",
+        "part_text": "Three resistors are connected to a d.c. power supply, as shown in Fig. 10.2. The electromotive force (e.m.f.) of the power supply is 6.0 V. Calculate the total resistance of the circuit,",
+        "image": "A circuit diagram (Fig. 10.2) showing a 6.0 V d.c. power supply connected to three resistors. A 24 Ω resistor is in series with a parallel combination of 20 Ω and 80 Ω resistors."
+      },
+      {
+        "part_label": "b(i) 2",
+        "part_text": "the current supplied by the power supply,",
+        "image": null
+      },
+      {
+        "part_label": "b(i) 3",
+        "part_text": "the p.d. across the 20Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 1",
+        "part_text": "The d.c. power supply is a battery that contains a number of cells. Each cell has an electromotive force (e.m.f.) of 1.5V. State what is meant by the electromotive force (e.m.f.) of a cell.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 2",
+        "part_text": "In the space below, draw a diagram to show how four of these cells are connected to make a battery of e.m.f. 6.0 V. Mark the positive terminal of the battery.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 3",
+        "part_text": "In another arrangement to produce a battery of e.m.f. 6.0V, eight cells of e.m.f. 1.5V are connected. In this arrangement, some cells are connected in series and some in parallel. In the space below, draw a diagram to show how the eight cells are connected to make the battery.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State one advantage of using a battery made from cells in parallel rather than a single cell.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2017/Q11",
+    "Question_text": "One source of background radiation is cosmic rays. The cosmic rays that enter the Earth's atmosphere are known as primary cosmic rays. Most of these rays are fast-moving protons or fast-moving alpha-particles. Both the Earth's magnetic field and the Earth's atmosphere reduce the number of primary cosmic rays that reach the Earth's surface.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom, 5.2 Radioactivity",
+    "Sub_topic": [
+      "Background Radiation",
+      "Half-Life",
+      "Radioactive Decay",
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Name a source of background radiation apart from cosmic rays.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one effect of background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State the number of protons and the number of neutrons in an alpha-particle. number of protons number of neutrons",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Explain how the Earth's atmosphere reduces the number of alpha-particles that reach the surface.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Fig. 11.1 shows an area where there is a uniform magnetic field into the page. On Fig. 11.1, draw a diagram to show the deflection of an alpha-particle by this magnetic field.",
+        "image": "A grey rectangular area labeled 'magnetic field into page' (Fig. 11.1), indicating a region of uniform magnetic field perpendicular to the page. This area is blank for drawing."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Primary cosmic rays produce carbon-14 in the atmosphere. The half-life of carbon-14 is 5700 years. Define the term half-life.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A specimen of wood is found to contain 25000 atoms of carbon-14. An otherwise identical specimen taken from a living tree is found to contain 200000 atoms of carbon-14. Determine the age of the specimen that contains 25000 atoms of carbon-14.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State why it is not possible to use the amount of carbon-14 to date a specimen that is 570000 years old.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Carbon-14 is one of the isotopes of carbon. Another isotope is carbon-12. Describe how a nucleus of carbon-14 differs from a nucleus of carbon-12.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe one similarity in the structure of the nuclei of these isotopes.",
+        "image": null
+      }
+    ]
+  }
+]

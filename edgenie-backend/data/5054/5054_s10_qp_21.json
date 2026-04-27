@@ -1,0 +1,451 @@
+[
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q1",
+    "Question_text": "Fig. 1.1 shows the speed-time graph of a ball. The ball is dropped at time t = 0.",
+    "image": "A speed-time graph titled Fig. 1.1 shows speed in m/s on the y-axis (ranging from 0 to 3.0) and time in s on the x-axis (ranging from 0 to 0.28). The graph displays the speed increasing linearly from t=0 to t=0.20s, and then remaining constant at approximately 1.5 m/s after t=0.20s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Freefall",
+      "terminal velocity",
+      "Newton's First Law",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "After t = 0.20s, the ball falls at a constant speed. Explain, using ideas about forces, why the speed of the ball is constant after time t = 0.20 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the value of the acceleration of free-fall.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the speed of the second ball at t = 0.20 s.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "On Fig. 1.1, draw the speed-time graph for the second ball from t = 0 to t = 0.28 s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q2",
+    "Question_text": "Fig. 2.1 shows a weight of 4.0N attached to a spring. The unstretched length of the spring is 8.0cm. With the 4.0N weight attached to the spring, the length is 14.0cm. The spring is within its limit of proportionality.",
+    "image": "A diagram titled Fig. 2.1 illustrates a vertical spring suspended from the top. A ruler (rule) is placed next to the spring for measurement. A pointer is attached to the bottom of the spring, and a weight of 4.0N is hanging from it, causing the spring to extend.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by the limit of proportionality of a spring.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The 4.0 N weight is replaced with a 2.0N weight. Calculate the new length of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe how the apparatus in Fig. 2.1 is used to obtain readings to plot an extension-load graph.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q3",
+    "Question_text": "Fig. 3.1 shows a student rubbing her hands together.",
+    "image": "A diagram titled Fig. 3.1 depicts two hands rubbing against each other.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Work",
+      "Power",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the main energy conversion that causes the hands to become warm.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State why the hands become even warmer if they are pressed harder together when rubbing.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The average force used to slide one hand along the other is 1.2N. In each movement, one hand moves 0.080 m. The other hand remains stationary. Calculate the number of movements needed for 2.0J of work to be done.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Each movement takes 0.20s. Calculate the average power developed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q4",
+    "Question_text": "Fig. 4.1 and Fig.4.2 are diagrams of a ripple tank being used to show two properties of waves.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank",
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete Fig. 4.1 to show the reflection of the wavefronts at the barrier.",
+        "image": "A diagram titled Fig. 4.1 shows parallel wavefronts approaching a diagonal barrier in a ripple tank. An arrow indicates the direction of propagation. The task is to draw the reflected wavefronts, showing their change in direction while maintaining wavelength."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete Fig. 4.2 to show the wavefronts in the shallow water.",
+        "image": "A diagram titled Fig. 4.2 shows parallel wavefronts approaching a rectangular region labeled 'piece of glass beneath water' (representing shallow water). An arrow indicates the direction of propagation. The task is to draw the wavefronts as they enter the shallow water, showing their reduced wavelength and change in direction (refraction)."
+      },
+      {
+        "part_label": "b(ii) 1.",
+        "part_text": "As the wave passes into the shallow water, state what, if anything, happens to 1. the wave speed,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii) 2.",
+        "part_text": "2. the frequency.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q5",
+    "Question_text": "Fig. 5.1 shows a ray of white light incident on a glass prism. Fig. 5.1 is not complete; it shows only the ray of red light produced from the white light.",
+    "image": "A diagram titled Fig. 5.1 shows a triangular glass prism. A ray of white light is incident on one face. Inside the prism and emerging from the opposite face, a ray of red light is depicted, showing its path after refraction and dispersion. Labels include 'glass prism', 'red light', and 'white light'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Dispersion of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 5.1, draw the ray of blue light produced in, and beyond, the prism.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State two colours of the spectrum found between the red and blue rays.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 5.2 shows the same prism with the ray of white light incident at a different angle. Fig. 5.2 is complete; no spectrum is produced. Explain why no light emerges from the prism at Q.",
+        "image": "A diagram titled Fig. 5.2 displays the same glass prism. A ray of white light is incident on the first face. The ray refracts inside the prism and then strikes the second face at point Q, but no light emerges from Q; instead, it is shown reflecting internally as white light. Labels 'white light' and 'Q' are present."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why no spectrum is produced.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q6",
+    "Question_text": "Fig. 6.1 shows a circuit used in an experiment to measure the current in a lamp for different values of the potential difference (p.d.) across the lamp.",
+    "image": "A circuit diagram titled Fig. 6.1 depicts a power supply, a variable resistor labeled 'P', an ammeter labeled 'A' in series with a filament lamp, and a voltmeter labeled 'V' connected in parallel across the lamp.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of component P.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the axes below, sketch a graph of current against p.d. for a filament lamp.",
+        "image": "A graph with a horizontal x-axis labeled 'p.d.' and a vertical y-axis labeled 'current'. Both axes originate from '0'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State how the resistance of the lamp changes as the p.d. increases.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain how the graph in (b) shows the change you have described in (c)(i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q7",
+    "Question_text": "(a) Fig. 7.1 shows a circuit with two resistors in series. (b) Fig. 7.2 and Fig. 7.3 show circuits containing a capacitor and a transistor respectively.",
+    "image": "A circuit diagram titled Fig. 7.1 shows a 6V power supply connected to two resistors in series: an 800 Ω resistor and a 1600 Ω resistor. A voltmeter labeled 'V' is connected in parallel across the 1600 Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the current in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the reading on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b (EITHER)",
+        "part_text": "Explain the action of the capacitor shown in Fig. 7.2 when the switch is closed.",
+        "image": "A circuit diagram titled Fig. 7.2 shows a power supply, an open switch, a high resistance, a capacitor, and a voltmeter (V) connected across the capacitor."
+      },
+      {
+        "part_label": "b (OR)",
+        "part_text": "Explain the action of the transistor shown in Fig. 7.3 when the switch is closed.",
+        "image": "A circuit diagram titled Fig. 7.3 shows a power supply, a light bulb, and a transistor circuit with an open switch controlling the base current of the transistor. The light bulb is in the collector circuit."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q8",
+    "Question_text": "Fig. 8.1 shows two coils of wire wound on an iron ring. One coil is connected in series to a switch and a d.c. supply. The other coil is connected to a very sensitive centre-zero ammeter. At first the switch is open, as shown in Fig. 8.1. The following actions are taken in turn. Describe and explain what happens to the reading on the ammeter in each case.",
+    "image": "A diagram titled Fig. 8.1 illustrates an iron ring with two coils of wire wound around it. The primary coil is connected in series to a d.c. supply and an open switch. The secondary coil is connected to a sensitive centre-zero ammeter, showing a setup for demonstrating electromagnetic induction.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The switch is closed.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The switch is left closed for a long time.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The switch is opened.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q9",
+    "Question_text": "Fig. 9.1 shows a laboratory thermometer. Fig. 9.2 shows a copper block of mass 1.8kg with two holes in the top. An 80W heater is placed in one hole and a thermometer in the other. The heater is switched on for 5.0 minutes. Assume that no energy is lost from the block.",
+    "image": "A horizontal diagram titled Fig. 9.1 shows a mercury-in-glass laboratory thermometer with a scale ranging from -10 °C to 110 °C, marked in 10-degree increments.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Specific Heat Capacity",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the range of the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one change in the design of the thermometer to increase its range.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how the behaviour of a more sensitive thermometer is different from a less sensitive thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one change in the design of the thermometer to make it more sensitive.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe how a clinical thermometer differs from a laboratory thermometer. A diagram may be included in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "In the space below, draw a labelled diagram of a thermocouple thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State two reasons why a thermocouple thermometer is sometimes a better choice than a laboratory thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Calculate the energy supplied to the block.",
+        "image": "A cross-sectional diagram titled Fig. 9.2 shows a cylindrical copper block with two holes in its top surface. An 80W heater is inserted into one hole, and a thermometer into the other. Labels include 'thermometer', 'heater', and 'copper block'."
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "The specific heat capacity of copper is 390J/(kg°C). Calculate the rise in temperature of the block.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q10",
+    "Question_text": "Fig. 10.1 shows a car braking system. The brake fluid is an oily liquid. Fig. 10.2 shows a master cylinder sealed at one end. Instead of brake fluid, the cylinder contains air. When a force is applied to the piston, the length d changes from 6.0cm to 4.0cm. The pressure of the air increases but the temperature stays constant.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Moments",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how pushing the brake pedal makes the brake shoes rub against the drum.",
+        "image": "A diagram titled Fig. 10.1 illustrates a hydraulic car braking system. It includes a brake pedal connected via a pivot to a master piston. This master piston pushes brake fluid into a master cylinder, which then transfers pressure to slave pistons. The slave pistons push brake shoes against a brake drum. Key components such as 'brake pedal', 'pivot', 'master cylinder', 'slave pistons', 'brake fluid', 'brake drum', and 'brake shoe' are labeled."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The cross-sectional area of the master piston is 2.0cm². A force of 140N is applied to the master piston. Calculate the pressure created in the brake fluid by the master piston.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The cross-sectional area of each slave piston is 2.8cm². Calculate the force exerted on each slave piston by the brake fluid.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The force exerted on the master piston is greater than the force applied by the foot on the brake pedal. Using the principle of moments, explain this.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe how the molecules of the air exert a pressure.",
+        "image": "A diagram titled Fig. 10.2 shows a master cylinder sealed at one end. It contains a piston of area 2.0 cm² at the open end. The length of the air column inside the cylinder is labeled 'd'. The space between the piston and the sealed end is filled with 'air'."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the pressure increases even though the temperature stays constant.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The initial pressure of the air inside the cylinder is 1.0 × 10⁵ Pa. Calculate the final pressure of the air. State the formula that you use in your calculation.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Air bubbles form in the brake fluid of Fig. 10.1. State the effect this has on the braking system.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/May-June/2010/Q11",
+    "Question_text": "Complete the table of Fig. 11.1. Technetium-99 is a radioactive isotope that emits gamma-rays and it has a half-life of 6.0 hours. In a hospital, a solution containing this isotope is injected into a patient. The solution travels around the body and the isotope attaches to cancer cells. A few hours after the injection, an instrument is used to detect the gamma-rays emitted by the isotope. A high reading on the instrument indicates the position of cancer cells. A different radioactive isotope used in hospitals has a half-life of 13 hours. A sample of this isotope and a detector are placed in a lead box. The count rate is recorded every minute for three minutes. The values obtained are 3202, 3140 and 3258 counts per minute.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "Half-Life",
+      "Uses of Radiation",
+      "Dangers of Radiation",
+      "Detection of Radioactivity",
+      "Background Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the table of Fig. 11.1.",
+        "image": "A table titled Fig. 11.1 with three columns: 'type of radiation', 'nature of radiation', and 'charge'. The rows are for 'alpha-particle', 'beta-particle', and 'gamma-ray'. The 'alpha-particle' row is partially filled with 'two protons and two neutrons' for 'nature of radiation' and 'positive' for 'charge'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain what is meant by half-life.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why an isotope emitting gamma-rays is used rather than an isotope emitting alpha-particles.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain why using an isotope with a half-life of 6 hours is better than using an isotope with a half-life of 6 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Explain why using an isotope with a half-life of 6 hours is better than using an isotope with a half-life of 6 days.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain why the three readings are not the same.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Estimate the time taken for the average count rate to fall to 200 counts per minute.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The sample and the detector are taken out of the lead box. The count rate rises slightly because of background radiation. State one cause of background radiation.",
+        "image": null
+      }
+    ]
+  }
+]

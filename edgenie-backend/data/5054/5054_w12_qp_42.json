@@ -1,0 +1,185 @@
+[
+  {
+    "QuestionNumber": "October-November/42/2012/Q1",
+    "Question_text": "A student investigates the speed of water waves. A rectangular plastic tray has a layer of water in the bottom, as shown in Fig. 1.1. The cyclist leaves town A at time t = 0 and arrives at town B at t = 4.0 hours.",
+    "image": "Fig. 1.1 shows a rectangular plastic tray with a layer of water at the bottom, labeled 'tray' and 'water'. Fig. 1.2a shows one end of the tray lifted slightly upwards, indicating the direction 'up', with 'water' and 'tray' labeled. Fig. 1.2b shows the tray lowered quickly, creating a 'wave' traveling across the water surface, with the lowered side indicating 'down'. The wave is reflected by the ends of the tray and travels backwards and forwards several times.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Ripple Tank",
+      "Wave Behaviour",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student estimates the time for the wave to travel one length of the tray to be about one second. Suggest a reason why the student decides to measure the time for the wave to travel five lengths of the tray.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The ends of the tray slope outwards. Explain why this makes it difficult to measure accurately the distance travelled by the wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe a possible method of measuring the distance travelled by the wave. You may use a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student measures the depth d of the water. He has two identical 30 cm rulers. Part of one ruler is shown in Fig. 1.3.",
+        "image": "Fig. 1.3 displays a section of a 30 cm ruler, marked from 0 cm to 5 cm with millimeter divisions below, labeled 'cm'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain why it is difficult to measure d using only one of these rulers.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe a method of measuring d using the two rulers. You may use a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student repeats the experiment for different values of d and calculates the speed v of the wave for each value of d. Fig. 1.4 shows the student's results.",
+        "image": "Fig. 1.4 presents a table of results with two columns: 'd/cm' and 'v/(cm/s)'. The values are: 0.5 cm, 20.6 cm/s; 1.0 cm, 28.5 cm/s; 1.5 cm, 35.5 cm/s; 2.0 cm, 42.0 cm/s; 2.5 cm, 46.3 cm/s; 3.0 cm, 50.5 cm/s."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "On Fig. 1.5, plot the graph of v/(cm/s) on the y-axis against d/cm on the x-axis. Start your graph at v = 20 cm/s and d = 0. Draw a smooth curve of best fit.",
+        "image": "Fig. 1.5 shows an empty graph grid with the y-axis starting at 20 and the x-axis starting at 0, designed for plotting wave speed (v) against water depth (d)."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Suggest a possible reason why the student cannot take readings for d greater than 3.0 cm.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Using your graph, suggest how the speed varies with depth for very large values of d.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2012/Q2",
+    "Question_text": "A student uses an electric kettle to measure the specific heat capacity of water. Fig. 2.1 shows a kettle containing 1.0kg of water. The kettle has a label on the base, as shown in Fig. 2.2. The initial temperature of the water is 19°C. The kettle is switched on for 1.0 minute and the final temperature of the water is 53°C.",
+    "image": "Fig. 2.1 illustrates a cross-section of an electric kettle with a 'thermometer' inserted into the 'water'. Other labels include 'kettle', 'metal plate', and 'heating element'. Fig. 2.2 displays a label with '2755 – 3000 W' and '230 – 240 V'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Electrical Power",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The relationship power x time = mass x specific heat capacity × temperature change is used to find the specific heat capacity of water. Use the relationship and the given data to find the smallest possible value for the specific heat capacity c of water. Give your answer to a suitable number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why the water should be stirred before reading the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the thermometer should not touch the metal plate when measuring the temperature of the water.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student's answer for c is larger than the accepted value. Suggest a reason why this answer is too large.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2012/Q3",
+    "Question_text": "A student investigates the behaviour of a pendulum. Fig. 3.1 shows the pendulum hanging from a fixed support. The mass of the pendulum bob is m. The student measures the time t for 10 complete swings of the pendulum for different values of m. She starts with m = 20 g and increases m in 20 g steps up to 100g. The values obtained for t, in order, are 16.32s, 16.28s, 16.38s, 16.44s, 16.35s.",
+    "image": "Fig. 3.1 is a diagram of a simple pendulum, showing a 'pendulum bob mass m' suspended by a 'string' from a 'support'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Motion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a table of results for this experiment.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using the results from the table, comment on whether m affects t,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "suggest further readings the student can take so that a more reliable comment can be made.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/42/2012/Q4",
+    "Question_text": "A student investigates the deviation of a ray of light by a prism. A ray of red light passes through the prism. The student places pins P1 and P2 on the incident ray and pins P3 and P4 on the emergent ray. Fig. 4.1 on page 11 shows the positions of the pins and the prism.",
+    "image": "Fig. 4.1 shows a triangular prism on a surface with four pin markers: 'x P1' and 'x P2' are positioned on one side, indicating the incident ray path. 'x P3' and 'x P4' are positioned on the opposite side, indicating the emergent ray path.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Dispersion of Light",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 4.1, draw a straight line through P1 and P2. Continue this line through the prism.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 4.1, draw a straight line through P3 and P4. Continue this line to cross the line drawn in (i).",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Measure the smaller angle between the line drawn in (i) and the line drawn in (ii).",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "On Fig. 4.1, draw a line to represent the actual path of the ray through the prism.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest why the student uses red light and not white light in this experiment.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In a different experiment, the student is asked to draw the normal at the point where an incident ray strikes a prism. The student draws a line, as shown in Fig. 4.2.",
+        "image": "Fig. 4.2 illustrates an 'incident ray' striking a 'prism'. A dashed line, labeled 'student's line', is drawn from the point of incidence at an angle to the prism surface, not perpendicular."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain why the student's line is not the normal.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 4.2, draw the correct normal. Measure the angle of incidence i.",
+        "image": null
+      }
+    ]
+  }
+]

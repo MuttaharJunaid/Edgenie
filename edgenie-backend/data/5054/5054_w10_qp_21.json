@@ -1,0 +1,397 @@
+[
+  {
+    "QuestionNumber": "October-November/21/2010/Q1",
+    "Question_text": "A window cleaner drops a sponge from the balcony of a hotel at time t = 0. Fig. 1.1 is the speed-time graph for the motion of the sponge.",
+    "image": "Fig. 1.1 shows a speed-time graph. The x-axis is labeled 't/s' (time in seconds) ranging from 0 to 3.0. The y-axis is labeled 'speed m/s' (speed in meters per second) ranging from 0 to 14. The graph starts at (0,0) and curves upwards, showing decreasing acceleration, until it reaches a constant speed of approximately 11.5 m/s at around t = 1.5 s. This constant speed is maintained until t = 2.5 s, after which the graph shows a vertical line dropping to the x-axis, indicating an instantaneous stop.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "terminal velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State a value for t when the sponge is moving with a uniform speed,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "accelerating at a non-uniform rate,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "decelerating.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the distance travelled by the sponge between t = 0 and t = 0.75 s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q2",
+    "Question_text": "Fig. 2.1 shows the planet Venus orbiting the Sun in a circular orbit at constant speed. A force acting on Venus keeps it moving in a circle.",
+    "image": "Fig. 2.1, not to scale, illustrates a planetary system. The 'Sun' is depicted as a star at the center. The 'Venus' planet is shown on a circular path around the Sun, labeled 'circular orbit'. Dashed lines indicate the circular path.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of this force and the object that causes it.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.1, draw an arrow through Venus that represents the direction of its acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The size of this acceleration is 9.7 × 10⁻³m/s² and the mass of Venus is 4.9 × 10²⁴ kg. Calculate the size of the force acting on the planet.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "As time passes, the planet Venus moves a considerable distance around the circular orbit. State why no work is done by the force acting on the planet as it moves.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q3",
+    "Question_text": "Fig. 3.1 shows a miner using a head torch powered by a battery pack. The battery pack contains the cells that power the filament lamp in the head torch.",
+    "image": "Fig. 3.1 depicts a miner wearing a hard hat with a 'head torch' attached. A beam of light emits from the torch. A cable extends from the head torch to a 'battery pack' worn by the miner.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Conservation of Energy",
+      "Energy Stores & Transfers",
+      "Efficiency"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the principle of conservation of energy.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the main energy change that takes place in the cells.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State two different forms of energy that are produced in the filament lamp. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "An identical battery pack powers a different head torch that uses light-emitting diodes (LEDs) instead of the filament lamp. The two torches are equally bright but the efficiency of the torch using the LEDs is much higher. State how the amounts of the different forms of energy produced in the LEDs compare with the amounts produced in the filament lamp.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q4",
+    "Question_text": "A large number of television sets in a shop are tuned to the same station. The signal travels to some of the sets via a satellite in orbit above the Earth.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why only electromagnetic waves are used to transmit the television signal.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the region of the electromagnetic spectrum used to transmit the television signal.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest why satellites are sometimes used to transmit television signals.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The other television sets receive the signal directly from a ground-based transmitter very near to the shop. A salesman notices that the signal sent via the satellite arrives 0.24 s later than the signal sent directly to the other television sets. The speed of electromagnetic waves is 3.0 × 10⁸m/s. Calculate the distance travelled by the television signal in 0.24 s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q5",
+    "Question_text": "A motor car has a 12V electrical supply. Fig. 5.1 shows a heating element in the rear window. This heater uses a current of 35 A from the supply.",
+    "image": "Fig. 5.1 illustrates the rear section of a car. Horizontal lines on the rear window represent a 'heater' element.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy",
+      "Electrical Current",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the power developed by the heater,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the thermal energy (heat) generated by the heater in 2.0 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "One cold morning, the rear window of this car is covered in ice. Ice has a specific latent heat of fusion of 330J/g. Calculate the maximum mass of ice that this heater melts in 2.0 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State two reasons why the actual quantity of ice melted in 2.0 minutes may be less than the value calculated. 1. 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q6",
+    "Question_text": "Fig. 6.1 shows the coil of a loudspeaker attached to a cardboard cone. One pole of a stationary cylindrical magnet lies near to the coil. There is an alternating current in the coil of the loudspeaker. A student hears the note produced.",
+    "image": "Fig. 6.1 displays a cross-sectional diagram of a loudspeaker component. It shows a 'cylindrical magnet' with 'N' (North) and 'S' (South) poles, positioned next to a 'coil'. The coil is connected to a '60 Hz a.c. supply' and is attached to a 'cardboard cone'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Force on a Current-Carrying Conductor",
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why the cone of the loudspeaker vibrates.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how the vibrating cone produces sound waves in the air.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A stronger cylindrical magnet is now used. State the difference in the note heard.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q7",
+    "Question_text": "A householder installs a burglar alarm. The alarm does not operate for the first 200 s after it is switched on. This time delay lets the householder leave the house and lock up without setting off the alarm. Fig. 7.1 is a circuit inside the burglar alarm. Initially, the switch is open.",
+    "image": "Fig. 7.1 shows a circuit diagram. It consists of a switch connected in series with a capacitor and a 'high resistance'. The switch is depicted in an open state.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The switch is now closed. Explain what happens to the potential difference across the capacitor as time passes.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest how this circuit may be used for the time delay of the burglar alarm.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The capacitor in the circuit is uncharged when the burglar alarm is first switched on. A current then starts to charge the capacitor and after 200s, the charge stored is 5.4 x 10⁻⁷ C. Calculate the average value of the current during this time.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q8",
+    "Question_text": "A car has a gas-filled shock absorber for each of its four wheels. Fig. 8.1 shows one of these shock absorbers. The axles are attached to the cylinders. The body of the car is supported by the four pistons, which can move up and down inside the cylinders. Each piston has a cross-sectional area of 35 cm².",
+    "image": "Fig. 8.1 is a diagram of a car shock absorber. It shows a 'cylinder' with a 'piston' inside. 'Trapped gas' is shown below the piston. The top of the piston rod is labeled 'attached to car body', and the bottom of the cylinder is labeled 'axle'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Pressure & Forces",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A driver of mass 70kg gets into the car. Calculate the driver's weight,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the average increase in the pressure of the gas in the cylinders.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain in detail how the molecules of the gas trapped inside the cylinder by the piston exert a pressure on the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The temperature of the trapped gas remains constant. Explain why the pressure of the gas increases as the piston is moved further into the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "At the end of a long journey, the temperature of the trapped gas in the shock absorbers has increased substantially. State what happens to the molecules of the trapped gas due to the temperature increase.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State and explain the effect of the increased temperature of the gas on the height of the car body above the road surface.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q9",
+    "Question_text": "Fig. 9.1 shows a young boy lying on his back on the bottom of a swimming pool. He is holding his breath and his eyes are open. A red light is positioned on the ground at Q. At first the boy's head is touching the pool wall. He notices that, as he slides away from the pool wall, his eye reaches a point P where he first sees the light at Q. Fig. 9.1 shows the boy in this position. Fig. 9.2 is a scale diagram showing the position and size of both the display and the image on the wall. R is a point on the display.",
+    "image": "Fig. 9.1: A cross-section diagram showing a swimming pool with 'air' above 'water'. A 'red light' is positioned at point 'Q' on the ground outside the pool. A boy is lying on the bottom of the pool, with his 'eye' labeled 'P'. A 'pool wall' is also indicated. \nFig. 9.2: A grid diagram depicting a lens setup. A small vertical object, labeled 'R' on its top, is referred to as 'display'. To the right, a much larger, inverted 'image on the wall' is shown. A scale indicates '1 cm represents 12 cm' (horizontally) and '1 cm' for vertical grid units. The display's height is 1 cm on the diagram.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection",
+      "Dispersion of Light",
+      "Features of Waves",
+      "Ray Diagrams",
+      "Thin Lenses",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 9.1, draw the ray of light travelling from Q to P. Mark the critical angle for light in water and label it C.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the boy is unable to see the red light at Q when his eye is closer to the pool wall than P.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The critical angle is 49°. Calculate the refractive index of water.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The red light is now replaced with a blue light. State the effect of this on the wavelength of the light in the air.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The image is inverted and magnified. State two other properties of the image. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 9.2, draw the straight-line ray from R to the image.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "On Fig. 9.2, draw a vertical line representing the lens and label it L.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "A second ray from R to the image passes through a focal point (principal focus) of the lens. On Fig. 9.2, draw this ray and use it to mark this focal point. Label this focal point F.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "Determine the focal length of the lens.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2010/Q10",
+    "Question_text": "An atom of phosphorus (chemical symbol P) is composed of 15 electrons, 17 neutrons and 15 protons.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Detection of Radioactivity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "For this atom, state the proton number (atomic number),",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the nucleon number (mass number).",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "This phosphorus atom is radioactive. As it decays to an atom of sulfur (chemical symbol S), it emits a beta-particle (symbol β). Write a nuclear equation for this decay.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain what is meant by a beta-particle.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "A sample of radioactive material contains many of these phosphorus atoms. Describe an experiment to investigate whether the sample emits only beta-particles. A diagram may be included.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "This isotope of phosphorus has a radioactive half-life of 14.3 days. Explain what is meant by radioactive half-life.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A solution containing such phosphorus atoms is used in a medical procedure. When it is prepared, the solution has an activity of 1400 counts/second. The solution cannot be used when its activity falls below 350 counts/second. Calculate the maximum time between preparing and using the solution.",
+        "image": null
+      }
+    ]
+  }
+]

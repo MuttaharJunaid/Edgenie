@@ -1,0 +1,473 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2014/Q1",
+    "Question_text": "Each row contains a vector and a scalar. In which row is the size of the vector equal to the size of the scalar?",
+    "image": "A table with two columns, 'vector' and 'scalar'. Row A lists 'displacement of a car' and 'speed of the car'. Row B lists 'velocity of a car' and 'distance travelled by the car'. Row C lists 'velocity of a car' and 'speed of the car'. Row D lists 'weight of a car' and 'mass of the car'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q2",
+    "Question_text": "What is the size of the resultant of the two forces shown in the diagram?",
+    "image": "A right-angled force diagram. A 3.0 N force acts vertically upwards, and a 4.0 N force acts horizontally to the right. Both forces originate from a common point.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q3",
+    "Question_text": "A student measures, as accurately as possible, the length and internal diameter of a straight glass tube. The length is approximately 25 cm and the internal diameter is approximately 2 cm. What is the best combination of instruments for the student to use?",
+    "image": "A table with two columns, 'internal diameter' and 'length'. Row A suggests 'ruler' and 'micrometer'. Row B suggests 'ruler' and 'ruler'. Row C suggests 'vernier calipers' and 'micrometer'. Row D suggests 'vernier calipers' and 'ruler'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q4",
+    "Question_text": "An object falls from rest through the air. Its velocity increases until it reaches terminal velocity. Which quantity increases until its terminal velocity is reached?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Acceleration",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q5",
+    "Question_text": "The diagram shows a block of stone on a rough horizontal surface. Force P acts on the block as shown. The block is at rest. A frictional force F acts on the block. Which row shows the direction and size of F?",
+    "image": "A rectangular block resting on a rough horizontal surface. A horizontal force 'P' acts on the block, pushing it to the right. Below this, a table with columns 'direction of F' and 'size of F' is shown. Row A suggests 'to the left' and 'more than P'. Row B suggests 'to the right' and 'more than P'. Row C suggests 'to the left' and 'same as P'. Row D suggests 'to the right' and 'same as P'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Equilibrium",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q6",
+    "Question_text": "The distance travelled by a car is increasing uniformly as it is driven along a straight road up a hill. Which quantity for the car is constant but not zero?",
+    "image": "A distance-time graph. The x-axis is 'time' and the y-axis is 'distance travelled'. A straight line with a positive slope starts from the origin and goes upwards to the right, indicating uniform speed.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity",
+      "Kinetic Energy",
+      "Acceleration",
+      "Resultant Forces",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q7",
+    "Question_text": "Four rocks on different planets have masses and weights as shown. Which planet has the greatest gravitational field strength?",
+    "image": "A table with two columns, 'mass/kg' and 'weight/N'. Row A has mass 2.0 and weight 14. Row B has mass 2.5 and weight 20. Row C has mass 3.0 and weight 21. Row D has mass 3.5 and weight 19.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q8",
+    "Question_text": "A stone has a mass of 390 g and a density of 2.7g/cm³. Cooking oil has a density of 0.90g/cm³. Which mass of oil has the same volume as the stone?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q9",
+    "Question_text": "A beam of length 40 cm is pivoted at one end. The weight of the beam is 4.0N and acts at a point 20cm from the pivot. A 2.0N weight hangs 10 cm from the pivot. An upward force U is needed to keep the beam horizontal. What is the size of U?",
+    "image": "A diagram of a horizontal beam pivoted at its left end. The total length of the beam is 40 cm. A downward force of 2.0 N is applied at 10 cm from the pivot. Another downward force of 4.0 N (representing the beam's weight) is applied at 20 cm from the pivot. An upward force 'U' is applied at the rightmost end of the beam, 40 cm from the pivot.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q10",
+    "Question_text": "A man uses clay to make a pot. He wants the pot to be as stable as possible when placed on a flat surface. Which two features of the pot must the man consider?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q11",
+    "Question_text": "A force is applied to a body. Which property of the body cannot be changed by the force?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q12",
+    "Question_text": "The graph shows the extension of a piece of copper wire as the load on it is increased. What does the graph show?",
+    "image": "A graph with 'extension of wire' on the y-axis and 'load' on the x-axis. The graph starts from the origin, is a straight line for a significant portion, and then curves upwards, becoming steeper. The labels '0' are at the origin of both axes, with 'LA' pointing to the curve.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q13",
+    "Question_text": "The diagram shows a manometer containing mercury that is sealed at one end. What happens to the distance h when the manometer is taken to the top of a mountain?",
+    "image": "A U-tube manometer. One arm is sealed and connected to a 'vacuum'. The other arm is open to the atmosphere. The difference in the mercury levels in the two arms is labelled 'h'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q14",
+    "Question_text": "Which graph shows the total external pressure acting on a submarine at different depths below the surface of the sea?",
+    "image": "Four graphs plotting 'pressure' on the y-axis against 'depth' on the x-axis. Graph A starts above zero and curves upwards. Graph B starts above zero and shows a straight line increasing with depth. Graph C starts at zero and curves upwards. Graph D starts at zero and shows a straight line increasing with depth.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q15",
+    "Question_text": "A gas occupies a volume of 2.0m³ in a cylinder at a pressure of 240kPa. A piston compresses the gas until the volume is 0.50 m³, the temperature remaining constant. What is the new pressure of the gas?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q16",
+    "Question_text": "Which source releases carbon dioxide, a greenhouse gas, when generating electricity?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Fuels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q17",
+    "Question_text": "Where is energy released by the fusion of hydrogen nuclei to form helium?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q18",
+    "Question_text": "A crane lifts a load of 6000N through a vertical distance of 15m in 30 s. What is the average useful power during this operation?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q19",
+    "Question_text": "The diagram shows a liquid-in-glass thermometer. At 0°C, the length of the liquid column is 2.0cm. At 100°C, the length of the liquid column is 22.0 cm. What is the length of the liquid column at 40 °C?",
+    "image": "A diagram of a liquid-in-glass thermometer. A scale is marked from 0 to 22.0 cm. The liquid column starts at 2.0 cm, corresponding to 0°C, and extends to 22.0 cm, corresponding to 100°C.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q20",
+    "Question_text": "A thermometer is used to measure a temperature of 80 °C. Which thermometer is the most sensitive?",
+    "image": "Four diagrams of thermometer scales. A shows a scale from -40°C to 160°C. B shows a scale from 50°C to 150°C. C shows a scale from 20°C to 170°C. D shows a scale from 0°C to 200°C. All scales include intermediate markings and a °C unit.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q21",
+    "Question_text": "The diagram shows a flask containing air. The air is trapped by a drop of oil in a narrow tube. When the flask is heated the oil drop rises up the tube. Which statement is not correct?",
+    "image": "A diagram showing a conical flask connected to a narrow vertical tube. An oil drop is positioned within the narrow tube, trapping a volume of air inside the flask.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q22",
+    "Question_text": "Thermal energy is transferred to a solid. First it melts and then it boils to produce a gas. Which statement about the temperature is correct?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q23",
+    "Question_text": "Steam at 100 °C is passed into some water in a beaker. All the steam condenses in the water. The mass of water in the beaker rises from 120.0g to 122.0g. The specific latent heat of vaporisation of water is 2250 J/g. How much thermal energy is lost by the steam as it condenses?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q24",
+    "Question_text": "A hot liquid is poured into a beaker. The graph shows how the temperature of the liquid changes as it cools towards room temperature. What is occurring at region X?",
+    "image": "A graph of 'temperature' on the y-axis against 'time' on the x-axis. The graph shows a decreasing temperature, then a horizontal plateau labelled 'X', followed by a further decrease in temperature.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q25",
+    "Question_text": "What is the frequency of a wave?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q26",
+    "Question_text": "The diagram shows two divergent rays of light from an object O being reflected from a plane mirror. At which position is the image formed?",
+    "image": "A diagram showing an object 'O' in front of a vertical plane mirror. Two rays from O strike the mirror and are reflected. Dashed lines extend the reflected rays backwards, converging at a point 'C' behind the mirror. Points 'B' and 'D' are also behind the mirror, and point 'A' is in front of the mirror.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q27",
+    "Question_text": "Which statement is correct for all electromagnetic waves?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q28",
+    "Question_text": "Which frequency is in the ultrasound range?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q29",
+    "Question_text": "In an experiment to determine the speed of sound in air, a student stands 200m away from a cliff and claps two pieces of wood together. His class-mates standing next to him start stopwatches when the two pieces of wood meet and stop the stopwatches when they hear the echo. Their times are: 1.44 s 1.70 s 1.58 s 1.76 s Which value for the speed of sound do they obtain?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Measuring the Speed of Sound",
+      "Reflection of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q30",
+    "Question_text": "What always produces a permanent bar magnet?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q31",
+    "Question_text": "Which row shows an electrical conductor and an insulator?",
+    "image": "A table with two columns, 'electrical conductor' and 'insulator'. Row A lists 'aluminium' and 'rubber'. Row B lists 'copper' and 'aluminium'. Row C lists 'plastic' and 'copper'. Row D lists 'rubber' and 'plastic'.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q32",
+    "Question_text": "A metal sphere is connected to earth. A positively charged rod approaches the sphere and stops before touching it. What is the movement of charge on the sphere and what is the final charge on the sphere?",
+    "image": "A diagram showing a metal sphere connected to the earth via a wire. A positively charged rod, indicated by '+' symbols, is held near the sphere but not touching it.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q33",
+    "Question_text": "An appliance uses a current of 3 A. Which row is correct for the fuse in this appliance?",
+    "image": "A table with two columns, 'most suitable fuse rating/A' and 'fuse connected in'. Row A suggests '5' and 'earth wire'. Row B suggests '5' and 'live wire'. Row C suggests '13' and 'earth wire'. Row D suggests '13' and 'live wire'.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q34",
+    "Question_text": "Which device uses the force experienced by a current in a magnetic field when in normal use?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q35",
+    "Question_text": "A relay is used in a circuit containing a bell. How can the apparatus be altered to make the sound of the bell louder?",
+    "image": "A circuit diagram showing a relay. Battery P is connected in series with a switch S and a coil T, forming the control circuit. Coil T acts as an electromagnet. When activated, it closes a separate circuit containing a bell and battery Q, causing the bell to ring.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q36",
+    "Question_text": "As a magnet is moved into the coil of wire as shown, there is a small reading on the sensitive ammeter. Which change increases the size of the reading?",
+    "image": "A diagram showing a bar magnet, with its North pole (N) facing a coil of wire. The magnet is moving towards the coil. The coil is connected to a sensitive ammeter, indicated by a circle with 'A' inside.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q37",
+    "Question_text": "What are emitted by the hot filament inside a cathode-ray tube?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q38",
+    "Question_text": "The table contains part of the colour code for resistors. What is the resistance of the resistor with the colour bands shown?",
+    "image": "A table showing resistor colour codes: black=0, brown=1, red=2. Below the table is an image of a resistor with three colour bands: red, black, brown, in that order.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q39",
+    "Question_text": "Which row states the nature and range of beta-particles in air?",
+    "image": "A table with two columns, 'nature' and 'range in air'. Row A lists 'electromagnetic radiation' and '1-10 cm'. Row B lists 'electromagnetic radiation' and '10-100 cm'. Row C lists 'electron' and '1-10 cm'. Row D lists 'electron' and '10-100 cm'.",
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2014/Q40",
+    "Question_text": "Which particle has the smallest mass?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  }
+]

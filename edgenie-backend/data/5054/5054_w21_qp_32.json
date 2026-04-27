@@ -1,0 +1,153 @@
+[
+  {
+    "QuestionNumber": "October-November/32/2021/Q1",
+    "Question_text": "In this experiment you will investigate angles of reflection. You are provided with: • an illuminated slit (slit plate and small lamp) or ray box • a pair of mirrors joined together with tape • a small amount of adhesive putty • a 30 cm ruler • a protractor.",
+    "image": "Fig. 1.1 on page 3 shows the experimental setup for investigating angles of reflection. It depicts two mirrors, mirror 1 and mirror 2, joined together at a point C. Mirror 1 is positioned such that its glass surface faces a vertical dashed 'centre line'. An arrow indicates light reflecting from mirror 1. Mirror 2 is shown at an angle 'a' relative to mirror 1, with a curved arrow suggesting its adjustability around point C. A point 'X' is marked on the centre line, and a thick horizontal line 'P-P' is positioned at the bottom of the diagram, intersecting the centre line. The setup allows for measurement of angles and distances related to reflected light.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 is on page 3 of your question paper. Measure and record angle a on Fig. 1.1. angle a = .° [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 1.1: • place the illuminated slit plate or the slit plate of the ray box on the line PP. If you are using the small lamp with the slit plate, you will need to turn the lamp upside down so that the glass is touching the paper next to the slit. Adjust the position of the slit plate so that, when the lamp or ray box is switched on, a single ray of light emerging from the slit lines up with the centre line marked on Fig. 1.1 • place the pair of mirrors so that the corner where they are joined together is at point C and one mirror lines up with the marked area (========), as shown on Fig. 1.1. A small amount of adhesive putty may be used to fix the mirror in place. This mirror is mirror 1. Switch on the lamp. Observe the ray reflected from mirror 1. Without moving mirror 1, adjust the position of mirror 2 so that the ray also reflects from this mirror to cross the centre line between X and the slit. The distance from X to the point where the reflected ray crosses the centre line is d. Describe how you could investigate the relationship between angle a and the distance d.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On Fig. 1.2, sketch a graph of the relationship between the angle a and distance d. angle a distance d Fig. 1.2",
+        "image": "Fig. 1.2 shows a blank coordinate plane with 'angle a' labeled on the y-axis (vertical) and 'distance d' labeled on the x-axis (horizontal), intended for sketching a graph to represent the relationship between these two variables."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2021/Q2",
+    "Question_text": "In this experiment you will investigate an electrical circuit. You are provided with: • components joined together in an electrical circuit • a voltmeter connected into the circuit. The supervisor has set up the circuit.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Resistance",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Some electrical symbols are shown in Fig. 2.1. cell switch lamp fixed resistor ammeter variable resistor voltmeter thermistor junction of conductors light dependent resistor Fig. 2.1 Draw a diagram of the circuit.",
+        "image": "Fig. 2.1 displays various standard electrical circuit symbols, arranged in two columns. The symbols include: a cell, switch, lamp, fixed resistor, ammeter, variable resistor, voltmeter, thermistor, junction of conductors, and a light dependent resistor. Each symbol is clearly labeled with its component name."
+      },
+      {
+        "part_label": "b",
+        "part_text": "You are also provided with • a beaker of iced water. Check that the thermistor can be safely placed in the beaker of iced water. Carefully move the beaker closer to the circuit if necessary. Take the thermistor out of the beaker and wait a minute to let it warm up to room temperature. Close the switch. Record the reading on the voltmeter when • the thermistor is on the bench voltmeter reading with thermistor on bench = V [1] • the thermistor is placed in the iced water. voltmeter reading with thermistor in iced water = V [1] Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe the precaution you take to obtain a steady voltmeter reading when the thermistor is in iced water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2021/Q3",
+    "Question_text": "In this experiment you will investigate the speed of a falling mass. You are provided with: • a pulley attached to a stand • two 100g mass hangers • a length of string (twine) • a metre rule • set square • a stop-watch • heavy weight or G-clamp to stabilise stand.",
+    "image": "Fig. 3.1 illustrates the experimental setup for investigating the speed of a falling mass. A stand is depicted on the right, with a pulley attached at its top. A string passes over the pulley, with a mass hanger tied to each end. One mass hanger is shown at a higher position, and the other is hanging downwards towards the floor. The height 'h' from the base of the lower mass hanger to the floor is indicated by a vertical double-headed arrow. A 'bench' is shown to the left of the stand.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Measurement",
+      "Freefall"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Adjust the positions of the mass hangers so that the base of each hanger is at the same height h above the floor. Measure and record h in centimetres to the nearest millimetre. h = cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe two techniques you use to ensure an accurate measurement of h.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "You are also provided with a small piece of modelling clay or adhesive putty. Carefully place the piece of modelling clay on one of the mass hangers and hold this mass hanger in position. Release the mass hanger and start the stop-watch. (You may have to give the mass hanger a gentle push downwards to start the movement). Measure and record an accurate value for the time t for the mass hanger to fall to the floor. t = s [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the average speed v of the falling mass using the equation: v = h/t v = cm/s [1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2021/Q4",
+    "Question_text": "In this experiment you will investigate a pendulum. You are provided with: • a mass attached to a metre rule • a triangular block to act as a pivot.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Features of Waves",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The mass has been attached to the metre rule at the 80cm mark. Place the metre rule with the mass attached on the pivot, as shown in Fig. 4.1. Adjust the position of the rule on the pivot so that the metre rule is as near as possible to being balanced. The point on the metre rule underneath which the pivot is positioned is X. 5 cm mark d X 0 cm mark 80 cm mark pivot mass Fig. 4.1 Record the distance x between the 0cm mark and point X to the nearest centimetre. x = cm [1]",
+        "image": "Fig. 4.1 shows a metre rule resting horizontally on a triangular block, which serves as a pivot. A small rectangular mass is attached to the metre rule near the 80cm mark. The pivot point on the rule is labeled 'X'. The 0cm and 5cm marks are indicated on the left side of the rule, and the 80cm mark is on the right. A distance 'd' is shown between the 5cm mark and point X, and the distance 'x' is implied from the 0cm mark to point X."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The metre rule has holes that are spaced 5cm apart along its length. Determine the distance d between the hole at the 5cm mark and X to the nearest centimetre. d = cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "You are also provided with: • a stand and boss • a metal rod to act as a pivot • a stop-watch. The metal rod has been attached to the boss on the stand. Remove the brightly coloured piece of paper from the tip of the rod. Do not remove the rod from the boss or the mass from the metre rule. Pass the metal rod through the hole in the rule at the 5cm mark and let the rule hang freely. Rotate the bottom end of the rule a small distance to the left. Release the rule and observe it swing to the right and then swing back to its starting position. This is one oscillation. Measure and record the time t10 for ten oscillations of the pendulum. t10 = S [1] Calculate the time T for one oscillation of the pendulum. T = S [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the procedure used in (b)(i) gives a more accurate value for the time T than timing just one oscillation.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Record in Table 4.1 your measurements of d, t10 and T from (a)(ii) and (b)(i) for the rod position of 5 cm. Add appropriate headings with units to each column. Move the metal rod to the hole at 10cm. This is rod position 10cm. Determine the new value of d, t10 and T. Continue the procedure in (b)(i) for each rod position up to 60cm. You may need to adapt the procedure described in (b)(i) in order to complete all the measurements. When you have completed your measurements, place the brightly coloured paper back on the tip of the metal rod. Table 4.1 rod position /cm 5 10 15 20 25 30 35 40 45 50 55 60",
+        "image": "Table 4.1 is a blank table designed for recording experimental data. It has one pre-filled column titled 'rod position /cm' with values from 5 to 60 in increments of 5. There are three additional blank columns to the right, intended for measurements of 'd', 't10', and 'T', along with their respective units."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid on page 13, plot a graph of T on the y-axis against d on the x-axis. You do not need to start your graph from the origin (0, 0). Draw the curved line of best fit.",
+        "image": "Page 13 contains a large, blank grid with a fine mesh of lines, suitable for plotting a graph. It lacks pre-labeled axes or titles, indicating it is for general plotting purposes."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Explain why it is more difficult to measure t10 when d is small.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Explain how the procedure described in (b)(i) can be adapted to overcome this difficulty.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "A student suggests that T is a minimum when d = (x-5). Use your graph and your value for x from (a)(i) to explain whether the student's suggestion is correct. You should draw lines on your graph to support your answer.",
+        "image": null
+      }
+    ]
+  }
+]

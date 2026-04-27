@@ -1,0 +1,197 @@
+[
+  {
+    "QuestionNumber": "May/June/2024/Q1",
+    "Question_text": "A student finds the volume of a small glass ball (marble) by two different methods.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measurement",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "method 1 The student: places six small glass balls by the side of a metre rule as shown in Fig. 1.1 makes sure that there are no gaps between the balls.",
+        "image": "Fig. 1.1: A diagram showing six identical glass balls (marbles) arranged in a single, touching row along a metre rule. The left edge of the first ball is marked as point 'A' and aligns with the 10.0 cm mark on the ruler. The right edge of the sixth ball is marked as point 'B' and aligns with the 19.0 cm mark. The total length 'l' spanning across the six balls is indicated, along with markings on the ruler from 10 to 20 cm. The ruler is labeled 'metre rule'."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Take readings on the metre rule of the positions of points A and B shown in Fig. 1.1. Give your readings to the nearest 0.1 cm.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The length l on Fig. 1.1 is the distance between points A and B. The average diameter d of one ball can be found using the equation: l = 6d Use your answers to (a)(i) to calculate the length l and diameter d. Give your answers to the nearest 0.1 cm.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The average volume V of one glass ball using this method, is given by the equation: V = 3.14d³/6 Calculate V.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "method 2 The student pours water into a measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The volume of water in the measuring cylinder V₁ is shown in Fig. 1.2. Write down the reading V₁.",
+        "image": "Fig. 1.2: A diagram of a measuring cylinder with a capacity of 50 cm³, containing water. The scale is marked every 10 cm³ with subdivisions for every 1 cm³. The water level (meniscus) is precisely at the 22 cm³ mark. A magnified section highlights the meniscus at this reading."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The six glass balls are carefully added to the water in the measuring cylinder. The new reading on the measuring cylinder V₂ is shown in Fig. 1.3. The volume V_T of the six balls is given by V_T = V₂ - V₁. Calculate V_T. Show your working.",
+        "image": "Fig. 1.3: A diagram of the same measuring cylinder as in Fig. 1.2, now containing water and six glass balls. The water level (meniscus) has risen to the 34 cm³ mark. A magnified section highlights the meniscus at this reading."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the average volume V of one ball using this method. Give your answer to the nearest 0.1 cm³.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest whether method 1 or method 2 gives the more accurate value for the volume of the ball. Explain your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student now uses the six glass balls to find the average mass of one glass ball using a small beaker and a top pan (electronic) balance. Describe the method the student uses.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2024/Q2",
+    "Question_text": "A student investigates how the temperature of the surroundings affects the rate of cooling of water.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer",
+      "Investigating Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The student: pours 100 cm³ of hot water into a 250 cm³ beaker uses a thermometer to take the temperature of the water at time t = 0s. The thermometer reading at time t = 0s is shown in Fig. 2.1. Record the temperature of the water at time t = 0s in Table 2.1.",
+        "image": "Fig. 2.1: A vertical thermometer with a mercury column showing a temperature reading. The scale is marked in °C, with major divisions at 60, 70, and 80. The mercury level is precisely at 71 °C, one small division above the 70 °C mark."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The student then records the temperature of the water every 30s for 240s. The results are recorded in Table 2.1. Before taking each temperature reading, the student carefully stirs the water in the beaker. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the average cooling rate C₁ of the water for the first 90s of the experiment. Use the readings in Table 2.1 and the equation: C₁ = (θ₀ - θ₉₀) / t where θ₀ is the temperature of the water at 0s, θ₉₀ is the temperature at 90s and t is the time of 90 s. Give the unit for C₁.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Calculate the average cooling rate C₂ of the water for the final 90s of the experiment. Use the equation: C₂ = (θ₁₅₀ - θ₂₄₀) / t where θ₁₅₀ is the temperature of the water at 150s, θ₂₄₀ is the temperature of the water at 240 s and t is the time of 90 s.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Compare your values of C₁ and C₂. Explain any difference in these values.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student repeats the procedure described in (a)(i) but this time he places the 250cm³ beaker inside a larger beaker containing iced water. The arrangement is shown in Fig. 2.2.",
+        "image": "Fig. 2.2: A cross-sectional diagram showing a cooling experiment setup. A smaller 250 cm³ beaker, containing 'hot water', is placed centrally within a larger 500 cm³ beaker. The space between the two beakers is filled with 'iced water'. A thermometer is immersed in the hot water of the inner beaker. The diagram labels the components: 'thermometer', '250 cm³ beaker', '500 cm³ beaker', 'iced water', and 'hot water'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the average cooling rate of the hot water for the 90s. Use the readings in Table 2.2 and the equation: C₃ = (θ₀ - θ₉₀) / t",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how C₃ differs from C₁. Explain your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The recorded readings show that this experiment is not a valid comparison of C₁ and C₃. By referring to the results recorded in Table 2.1 and Table 2.2, explain why this is not a valid comparison.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "State one other variable that should be kept constant to make a valid comparison.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2024/Q3",
+    "Question_text": "A student measures the focal length of a lens. Fig. 3.1 shows the apparatus she uses and the position of the lens when a clearly focused image is formed on the screen. The student: places the screen a distance D = 60.0 cm from the illuminated object places the lens between the object and the screen so that the lens is very close to the illuminated object moves the lens slowly away from the illuminated object until a clearly focused image is formed on the screen.",
+    "image": "Fig. 3.1 (one fifth full size): A diagram depicting an optical bench setup. From left to right, it shows a 'lamp' (labeled as 'illuminated object'), a 'convex lens in holder', and a 'screen'. The total distance between the illuminated object and the screen is labeled 'D'. The distance from the illuminated object to the lens is labeled 'x'. The distance from the lens to the screen is labeled 'y'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure and record distance x on Fig. 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Fig. 3.1 is drawn to a scale of one fifth full size. Use your answer to (a)(i) to calculate the actual object distance u from the lens.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Deduce the image distance v, the distance from the lens to the screen when a clear image is seen.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 3.2 shows the shape of the illuminated object and Fig. 3.3 shows the image seen on the screen. Describe two differences between the illuminated object and its image on the screen.",
+        "image": "Fig. 3.2: A diagram of an illuminated object, depicted as an 'L' shape oriented upright and pointing to the right. Fig. 3.3: A diagram of the image seen on the screen, also an 'L' shape, but it is inverted and laterally reversed (pointing down and to the left) relative to the object, and appears larger than the object."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student moves the screen away from the illuminated object and repeats the procedure for values of D = 70.0 cm, 80.0cm, 90.0cm and 100.0 cm. Table 3.1 shows the values recorded. Add your values for u and v from (a)(ii) and (a)(iii) to Table 3.1 on page 12. Complete Table 3.1 by calculating the value of (u x v) for each value of D. Give your answers to 3 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use the grid provided in Fig. 3.4 on page 13 to plot a graph of (u × v)/cm² on the y-axis against D/cm on the x-axis. You do not need to start your axes at the origin (0,0). Draw the straight line of best fit.",
+        "image": "Fig. 3.4: An empty Cartesian grid with evenly spaced lines, provided for plotting a graph. No axes or labels are pre-drawn, indicating they should be added by the user."
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The focal length f of the lens is numerically equal to the gradient of the line. Calculate the gradient of the line. Show all working and indicate on your graph in Fig. 3.4 the values you use.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The lens manufacturer states that the focal length of the lens is 15.0cm ± 10%. Decide, with a calculation, whether your value of f agrees with this statement and tick the box that shows your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2024/Q4",
+    "Question_text": "Plan an experiment to investigate how the thickness of a metal wire affects its resistance. The resistance of a wire can be found using the equation: resistance of wire = potential difference (p.d.) across wire / current in the wire The following apparatus is available: six lengths of metal wire, each of different thickness an ammeter a voltmeter a power supply several connecting leads a micrometer. Other apparatus normally available in a school laboratory can also be used. In your plan, you should: draw a circuit diagram to show how you will use the apparatus explain briefly how to carry out the investigation state the key variables to keep constant draw a table, with column headings, to show how to display readings (you are not required to enter any readings in the table) explain how to use these readings to reach a conclusion.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Measurement"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2012/Q1",
+    "Question_text": "In this experiment, you will determine the mass of a piece of modelling clay. You have been provided with: • a piece of modelling clay, • a metre rule, • a knife-edge, • a 50 g mass.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Balance the metre rule on the knife-edge. The knife-edge shows the position of the centre of mass of the rule. Record the position of the knife-edge.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the modelling clay at one end of the metre rule and adjust the position of the 50g mass at the other end until the rule balances. The knife-edge must remain below the centre of mass of the rule. The arrangement is shown in Fig. 1.1.",
+        "image": "A diagram (Fig. 1.1) illustrates a metre rule balanced on a knife-edge. A piece of modelling clay is positioned on the left side of the rule, and a 50g mass is placed on the right side. The horizontal distance from the centre of the modelling clay to the knife-edge is labeled 'x', and the horizontal distance from the knife-edge to the centre of the 50g mass is labeled 'y'. The knife-edge is shown to be below the labelled 'centre of mass of rule', and the entire setup rests on a 'bench surface'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Determine the horizontal distance x from the centre of the modelling clay to the knife-edge and the horizontal distance y from the knife-edge to the centre of the 50g mass.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how you ensured that your measurement of y was taken to the centre of the 50 g mass.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the mass M of the modelling clay using the relationship M = (50y/x) gram.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2012/Q2",
+    "Question_text": "In this experiment, you will investigate the motion of a mass attached to the end of a metre rule. You have been provided with: • a metre rule clamped horizontally at the edge of the bench, with a mass attached to the rule at its free end, • a pin in a cork, • a stand, boss and clamp to hold the pin, • a stopwatch.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 2.1 shows the metre rule clamped horizontally at the edge of the bench. The Supervisor has attached a mass close to the free end of the rule. The pin is clamped at the height of the equilibrium position of the end of the metre rule, as shown in Fig. 2.1. When the rule is pulled downwards a small distance and released, it vibrates up and down. One complete vibration is from the position of the pin, up to the highest position, down to the lowest position and back up to the position of the pin, as shown in Fig. 2.2.",
+        "image": "Fig. 2.1 depicts a metre rule clamped horizontally to a bench using a G-clamp and a small block of wood. A mass is attached to the free end of the rule. A pin in a cork is held by a stand, boss, and clamp, positioned at the free end of the rule at its equilibrium height. Fig. 2.2 illustrates the three positions during one complete vibration of the rule: highest position, equilibrium position (where the pin is), and lowest position."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "The time for 20 complete vibrations is t₁. Take measurements to determine an accurate value of t₁.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the time T₁ for one vibration.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Loosen the clamp and adjust the rule so that the 15.0 cm mark on the rule is at the edge of the bench. Tighten the clamp.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Determine an accurate value for the time t₂ taken for 20 complete vibrations with the rule in this new position.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the time T₂ for one vibration.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the value of T₂/T₁.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2012/Q3",
+    "Question_text": "In this experiment, you will determine the specific heat capacity of the metal from which a mass is made. You have been provided with: • a 100 g mass with a length of string attached, • a supply of hot water, • a 250 cm³ beaker for use with hot water, labelled H, • a cover for this beaker, • a stirrer, • a supply of water at room temperature, • a second 250 cm³ beaker for use with cold water, labelled C, • a 100 cm³ measuring cylinder, • two thermometers.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Thermal Conduction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Pour 100cm³ from the supply of water at room temperature into the measuring cylinder. Pour this volume of water into the beaker labelled C. Measure the temperature θ₁ of the water in this beaker.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the 100g mass into the beaker labelled H. Ensure the string hangs over the edge of the beaker. Add hot water to beaker H up to the level of the top of the label. Place the cover over the beaker and insert the stirrer and second thermometer as shown in Fig. 3.1.",
+        "image": "Fig. 3.1 illustrates an experimental setup on a bench surface. A beaker, labeled H, contains hot water. A 100g mass, attached to a string, is submerged in the hot water. The string extends out of the beaker. The beaker is fitted with a cover, through which a stirrer and a thermometer are inserted into the water. The thermometer measures the temperature of the hot water."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Stir the water for approximately 1 minute. Measure the temperature θ₂ of the water in beaker H and quickly transfer the mass from beaker H to beaker C. Try not to transfer any hot water.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Record the maximum temperature θ₃ reached by the water in beaker C.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The specific heat capacity C_M of the metal is found using the relationship C_M = C_W * ((θ₃-θ₁)/(θ₂-θ₃)) where the specific heat capacity C_W of water is 4.2J/(g°C). Calculate C_M.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2012/Q4",
+    "Question_text": "In this experiment, you will investigate the relationship between resistance and length of a wire. You have been provided with a circuit consisting of: • a power supply, • a length of resistance wire attached to a metre rule, • an ammeter, • a voltmeter, • a jockey or sliding contact to connect one side of the voltmeter to the wire, • a resistor, • a switch, • connecting wires, • crocodile clips.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Close the switch and place the pointed end of the sliding contact onto the wire at the 10.0cm mark on the rule. Exert a sufficient force on the sliding contact so that a good connection is made between it and the wire. Record",
+        "image": "Fig. 4.1 shows an electrical circuit diagram. A power supply is connected in series with a switch, a resistor, and an ammeter (A). This series circuit then connects to a length of resistance wire, which is laid out along a metre rule. A voltmeter (V) is connected in parallel across a section of the resistance wire. One end of the voltmeter is connected to the start of the resistance wire (via a crocodile clip), and the other end is connected to a sliding contact or jockey, which can be moved along the resistance wire to vary the length 'L' across which the voltage is measured."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "the length L of wire across which the voltage is measured,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the voltage V across the length of wire,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "the current I in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Open the switch. Calculate the resistance R of the length L of wire using the relationship R = V/I.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "By placing the sliding contact at different positions on the wire, repeat (a) and (b) for a wide range of values of L. Record your results for L, V, I and R in Fig. 4.2. Include the results from (a) and (b) in your table.",
+        "image": "Fig. 4.2 shows an empty table designed for recording experimental data. It would typically have columns for Length (L), Voltage (V), Current (I), and Resistance (R), as indicated by the question text."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of R / Ω against L/cm. Draw the straight line of best fit through your points.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Determine the gradient of the line of best fit.",
+        "image": null
+      }
+    ]
+  }
+]

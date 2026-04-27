@@ -1,0 +1,388 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which row shows both a property of a gas and the correct explanation for this property?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.1 Solids, liquids and gases",
+    "Sub_topic": [
+      "Distinguishing properties of solids, liquids and gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "When measured under the same conditions of temperature and pressure, which gas diffuses at the same rate as nitrogen?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.2 Diffusion",
+    "Sub_topic": [
+      "Effect of molecular mass on diffusion rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "An ion has an electronic configuration of 2,8,8. It has a 2- charge and a nucleon number of 36. How many neutrons are present in the nucleus of this ion?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure",
+      "Proton number / atomic number",
+      "Mass number / nucleon number",
+      "Electronic configuration of elements and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "The formulae for two ions are given. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.3 Isotopes",
+    "Sub_topic": [
+      "Symbols for atoms and ions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Which pair of molecules have the same number of electrons in covalent bonds?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Chrome alum is a salt that contains two different cations and one anion. The ions present in chrome alum are K+, Cr3+ and SO42-. What is the formula of the salt?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formulae of elements and compounds",
+      "Formula of ionic compound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Which mass of carbon contains the same number of atoms as 16.0 g of sulfur?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Compound X contains carbon, hydrogen and oxygen only. It has an M₁ of 90. 100 g of compound X contains 40.0 g of carbon and 6.7 g of hydrogen. How many oxygen atoms are there in each molecule of compound X?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Empirical and molecular formulae"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Aqueous copper(II) sulfate is electrolysed using copper electrodes. Which row describes the changes that take place during the electrolysis?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Which row describes one advantage and one disadvantage of using a hydrogen-oxygen fuel cell to power a road vehicle?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.2 Hydrogen–oxygen fuel cells",
+    "Sub_topic": [
+      "Hydrogen–oxygen fuel cell",
+      "Advantages and disadvantages of fuel cells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Two gases react together to produce a single product. The rate of the reaction is affected by an increase in pressure. The reaction is catalysed by platinum. Which row describes one effect on this reaction of increasing pressure and one effect on this reaction of adding platinum?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Catalyst effect",
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "If calcium carbonate is heated in a closed container, it will decompose, forming calcium oxide and carbon dioxide. Calcium oxide and carbon dioxide can recombine to form calcium carbonate. After some time, a position is reached where calcium carbonate is decomposing, and calcium oxide and carbon dioxide are recombining at the same rate. What is this position called?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Equilibrium in closed system"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Which set of conditions is used in the Contact process?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation",
+      "Sources in Contact process",
+      "Conditions in Contact process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Copper forms a red oxide, Cu2O, and a black oxide, CuO. In the presence of a catalyst, aqueous hydrogen peroxide, H2O2, decomposes to form water. The black oxide has copper in a .1...... oxidation state than in the red oxide. In forming water, hydrogen peroxide is .............. Which words correctly complete gaps 1 and 2?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidation number",
+      "Redox reactions definition",
+      "Oxidation definition",
+      "Reduction definition",
+      "Identifying redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Which statement about oxides is correct?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Classifying oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "A student is provided with suitable apparatus, distilled water and the following reagents. solid magnesium hydroxide solid lead carbonate dilute nitric acid aqueous sodium chloride aqueous sodium sulfate Which salts can the student prepare as a pure dry sample?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts",
+      "Preparation of insoluble salts",
+      "Solubility rules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Which formula represents the oxide of element Z in Group II of the Periodic Table?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Periodic Table arrangement",
+      "Group number and ion charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Element X is in Group I. Some statements about element X are given. X is not the least dense element in Group I. X is more reactive than potassium. X has an Ar value less than 100. Which element is X?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.2 Group I properties",
+    "Sub_topic": [
+      "Group I trends"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Group I elements and transition elements are metals. Student X suggests that the Group I elements are above hydrogen in the reactivity series but that not all transition elements are above hydrogen. Student Y suggests that the densities of Group I elements are lower than those of the transition elements. Which students are correct?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.4 Transition elements",
+    "Sub_topic": [
+      "Properties of transition elements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "The equations for three reactions are given. These reactions take place in the extraction of metals. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Ease of extraction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "The domestic water supply is treated to make it safe to drink. Which row identifies the treatment and its effect?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Sodium phosphate, Na3PO4, and ammonium nitrate, NH4NO3, are both used as fertilisers. Which row shows the correct percentage by mass of the element in each compound that improves plant growth?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "Ammonium salts and nitrates as fertilisers",
+      "NPK fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Three processes are shown. Which row shows a gas produced in each process?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Composition of clean air",
+      "Sources of air pollutants",
+      "Photosynthesis reaction",
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Which compound is not an alkane, alkene, alcohol or carboxylic acid?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Functional group definition",
+      "Structural formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Alkenes can be produced by the cracking of alkanes, such as decane, C10H22. Which equation shows the cracking of decane to produce two different alkenes and at least one other product?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Manufacture by cracking",
+      "Reasons for cracking"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Alkenes undergo addition reactions with bromine to form dibromoalkanes. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Addition reaction",
+      "Addition reactions of alkenes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "How many moles of oxygen are required for the complete combustion of 2 moles of ethanol?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Combustion of alcohols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "Two reactions are shown. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Manufacture of ethanol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "A section of the structure of a protein is shown. How many amino acid monomer molecules have been used to make this section of the structure?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Proteins as polyamides",
+      "Structure of proteins"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "Which piece of apparatus is used to measure exactly 27.3 cm³ of a liquid?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "A student titrates aqueous sodium hydroxide with 0.1mol/dm³ hydrochloric acid. The titration results are used to calculate the concentration of the aqueous sodium hydroxide. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "A mixture of four coloured dyes is analysed by chromatography. The result is shown. Which change allows the four coloured dyes to be seen separately?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "An aqueous solution contains cations of metal X. A precipitate forms when a few drops of aqueous sodium hydroxide are added to the solution. The precipitate dissolves in excess aqueous sodium hydroxide. What is a possible identity of metal X?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  }
+]

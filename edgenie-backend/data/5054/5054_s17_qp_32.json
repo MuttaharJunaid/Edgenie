@@ -1,0 +1,157 @@
+[
+  {
+    "QuestionNumber": "May-June/2017/Q1",
+    "Question_text": "In this experiment, you will investigate the time taken for a mass to rotate on the end of a wire. You are provided with: • a stopwatch, • a length of wire, • a 100g mass hanger with a pointer, • seven 100 g slotted masses, • safety glasses, • a stand, boss and clamp to hold the wire and mass set. The Supervisor has set up the apparatus as shown in Fig. 1.1 with all seven slotted masses on the mass hanger. You must wear the safety glasses throughout this experiment.",
+    "image": "Fig. 1.1 shows a side view of the experimental setup. A stand, boss, and clamp are positioned at the top. A wire hangs vertically from the clamp. At the lower end of the wire, a mass hanger is attached, onto which several slotted masses are placed. A pointer is fixed horizontally to the mass hanger. Labels indicate 'stand, boss and clamp', 'wire', 'slotted masses and mass hanger', and 'pointer'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Observe the position of the pointer when the mass is at rest. By pushing against the end of the pointer, rotate the mass through two complete revolutions in a clockwise direction as shown in Fig. 1.2. When released the mass rotates in an anticlockwise direction until it stops for the first time. It then rotates in a clockwise direction. Determine an accurate time t₁ for the mass to rotate from this initial position until it stops for the first time.",
+        "image": "Fig. 1.2 shows a top-down view of a circular motion with a pointer. A solid shaded circle represents the rotating mass, with a pointer extending horizontally from its center. A dashed circle indicates the path of rotation. An arrow shows a clockwise rotational push from the 'rest position of pointer' over two complete revolutions."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Remove six slotted masses from the mass hanger. Repeat (a) to determine the new time t₂.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate t₁ / t₂",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2017/Q2",
+    "Question_text": "In this experiment, you will investigate the width of a shadow. You are provided with: • a lamp in a lamp holder connected to a power supply, • an opaque cylindrical object, • a 30 cm ruler. Place the lamp holder on Fig. 2.1 on page 5 so that the centre of the filament of the lamp is directly above the point labelled X. Place the cylinder upright on Fig. 2.1 so that its centre is on the point labelled Y. With the lamp switched on, there is a shadow of the cylinder on Fig. 2.1.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Ray Diagrams",
+      "Measurement",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine the length L_s of the shadow along the line PZQ.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how you could investigate the relationship between the cylinder's position along the line XYZ and the length of the shadow along PZQ.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 2.2, sketch a graph of the relationship between the cylinder's position along the line XYZ and the length of the shadow along PZQ.",
+        "image": "Fig. 2.2 shows an empty graph grid with the x-axis labeled 'position of cylinder' and marked with points X, Y, Z. The y-axis is left unlabeled, intended for the length of the shadow."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2017/Q3",
+    "Question_text": "In this experiment, you will investigate an electrical circuit containing a light-emitting diode (LED). You are provided with: • a power supply, • a switch, • a 330 Ω resistor, • a light-emitting diode (LED). The Supervisor has set up the circuit as shown in Fig. 3.1. You are also provided with: • a voltmeter with two connecting leads that may be connected between various points in the circuit.",
+    "image": "Fig. 3.1 displays a circuit diagram. A d.c. power supply, indicated by positive and negative terminals, is connected in series. It includes a switch, followed by a 330 Ω resistor between points A and B, and a light-emitting diode (LED) between points B and C. The components are arranged in a single loop.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Potential Difference in Circuits",
+      "Electrical Current",
+      "Resistance",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Connect the voltmeter across the 330 Ω resistor between points A and B. Ensure that the positive (+) terminal of the voltmeter is connected to A. Close the switch. Record the voltmeter reading V_AB.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Open the switch. Disconnect the voltmeter from points A and B. Connect the voltmeter across the LED between points B and C. Ensure that the positive (+) terminal of the voltmeter is connected to B. Close the switch. Record the voltmeter reading V_BC.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Open the switch. Disconnect the voltmeter from points B and C. Connect the voltmeter between points A and C. Ensure that the positive (+) terminal of the voltmeter is connected to A. Close the switch. Record the voltmeter reading V_AC. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The current I in the circuit is given by I = V_AB / R where R = 330Ω. Calculate I.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the resistance R_L of the LED using R_L = V_BC / I.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2017/Q4",
+    "Question_text": "In this experiment, you will investigate the rate of temperature increase of a coil of wire. You are provided with: • a cell, • a switch, • an ammeter, • a thermometer, • a length of coiled wire, • connecting leads, • a stopwatch. The Supervisor has set up a circuit as shown in Fig. 4.1. It shows a wire coiled around the end of a thermometer. The switch is open.",
+    "image": "Fig. 4.1 shows a circuit diagram. A cell is connected to an open switch, which is then connected to an ammeter (labeled 'A'). The ammeter is connected to a coil of wire, around which a thermometer is placed. The circuit completes by connecting the other end of the coil back to the cell. The coil is labeled 'coil of wire' and the thermometer is labeled 'thermometer'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy",
+      "Electrical Current",
+      "Resistance",
+      "Specific Heat Capacity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Record the temperature θ_r of the thermometer at room temperature.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Close the switch and record the ammeter reading I after 5 seconds. Immediately open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the power P supplied to the coil using P = I²R where the resistance R, of the coil, is 4.0Ω.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Write headings in the top row of the results table of Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Close the switch. Start the stopwatch when the temperature is θ_r + 2.0°C.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "For each further 2.0°C rise in temperature record the time shown on the stopwatch. Continue to record times until the temperature has risen by 18.0°C. Open the switch. Record all of your results in the table of Fig. 4.2. Include the temperature reading when you started the stopwatch.",
+        "image": "Fig. 4.2 shows an empty table with several rows and two columns, designed for recording experimental results, specifically temperature and time readings."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of time on the y-axis against temperature on the x-axis.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Determine the gradient of your graph when the temperature is θ_r + 11°C.",
+        "image": null
+      }
+    ]
+  }
+]

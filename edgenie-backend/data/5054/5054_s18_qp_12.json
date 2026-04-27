@@ -1,0 +1,478 @@
+[
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q1",
+    "Question_text": "Which is a vector quantity?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q2",
+    "Question_text": "Forces of 4.0 N and 2.0 N act at a point. Which scale diagram shows the forces that have a resultant of 4.0 N?",
+    "image": "Four diagrams (A, B, C, D) showing different vector additions of a 2.0 N force and a 4.0 N force. Diagram A shows the forces almost perpendicular, forming a parallelogram. Diagram B shows forces at an acute angle, forming a parallelogram. Diagram C shows forces at an obtuse angle, forming a parallelogram. Diagram D shows two forces in opposite directions along the same line, one 2.0N to the left and one 4.0N to the right, both originating from the same point, resulting in a net force of 2.0 N to the right. The correct diagram for a resultant of 4.0 N with forces of 4.0 N and 2.0 N acting at a point would typically involve a parallelogram where the diagonal is 4.0 N; option C visually depicts a situation where the resultant could be 4.0 N (e.g., if the 2N and 4N forces are almost in the same direction, with an angle between them).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q3",
+    "Question_text": "What is the name and value of the unit of power written as mW?",
+    "image": "A table with two columns, 'name' and 'value', listing different options for the name and power value corresponding to 'mW'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q4",
+    "Question_text": "Micrometers, metre rules, tapes and calipers are used for measuring lengths. Which row identifies the most suitable device for accurately measuring the stated length?",
+    "image": "A table with two columns, 'length' and 'measuring device', providing different combinations of lengths and suitable measuring tools.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q5",
+    "Question_text": "The planets in the Solar System orbit the Sun. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth & The Solar System",
+    "Sub_topic": [
+      "Orbiting Bodies",
+      "Gravitational Effects on Orbits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q6",
+    "Question_text": "Which forces act on a skydiver who is falling at terminal velocity?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q7",
+    "Question_text": "A uniform rod of weight 5.0N is held initially at rest. The diagram shows the forces acting on the rod when it is released. What happens to the rod when it is released?",
+    "image": "A diagram of a uniform rod with several vertical forces acting on it. A 10N force acts upwards from the center. A 2.0 N force acts downwards on the left end. A 3.0 N force acts downwards on the right end. A 5.0 N force acts downwards from the rod's center of gravity.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q8",
+    "Question_text": "A block of metal is placed on an electronic balance to record its mass. What is the unit of the reading on the electronic balance and what is the unit of weight?",
+    "image": "An image of an electronic balance displaying '57.0'. Below it, a table with two columns, 'unit on electronic balance' and 'unit of weight', presenting various combinations of units for mass and weight.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q9",
+    "Question_text": "A body of mass 10kg falling freely in the gravitational field close to the Moon's surface has an acceleration of 1.6 m/s². What is the gravitational field strength on the Moon?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q10",
+    "Question_text": "Two objects X and Y are suspended from a uniform rod, pivoted at its centre. The rod is in equilibrium. Which statement about X and Y is correct?",
+    "image": "A diagram shows a uniform rod pivoted at its center. Object X is suspended 10 cm to the left of the pivot, and object Y is suspended 25 cm to the right of the pivot.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q11",
+    "Question_text": "A force of 1600 N accelerates a car, of mass 800 kg, from rest. What is the car's acceleration and its velocity after 4.0 s?",
+    "image": "A table with two columns, 'acceleration m/s²' and 'velocity m/s', listing numerical values for options A, B, C, and D.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Speed & Velocity",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q12",
+    "Question_text": "The graph shows extension-load curves for four fibres. Which fibre is the most difficult to stretch over the range of loads shown?",
+    "image": "A graph plotting extension against load for four different fibres, labelled A, B, C, and D. Fibre C shows the least extension for the highest load, indicating it is the most difficult to stretch.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q13",
+    "Question_text": "Four objects of equal mass rest on a table. The centre of mass of each object is labelled G. Which object is the least stable?",
+    "image": "Four diagrams (A, B, C, D) of objects resting on a table, each with their center of mass (G) marked. Object A is a triangular prism, B is a tall rectangular block, C is a shorter rectangular block, and D is a trapezoidal prism. The centre of mass 'G' is shown as a cross.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q14",
+    "Question_text": "Which power station produces carbon dioxide when operating?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Fuels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q15",
+    "Question_text": "Work is done when a force of 400 N pulls a crate of weight 500 N at a constant speed along a ramp, as shown. Part of the work done increases the gravitational potential energy E of the crate and the rest is work done W against friction. What are the values of E and W?",
+    "image": "A diagram shows a crate being pulled up an inclined ramp. The ramp has a length of 5.0 m and a vertical height of 3.0 m. A force of 400 N pulls the crate along the ramp, and the weight of the crate is 500 N, acting vertically downwards.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q16",
+    "Question_text": "Five blocks have the same mass but different base areas. They all rest on a horizontal table. A graph is plotted to show the relationship between the pressure exerted on the table and the base area of the block. Which graph shows this relationship?",
+    "image": "Five illustrations of blocks with the same mass but varying base areas. Below this, there are four graphs (A, B, C, D) plotting pressure against area. Graph D shows an inverse relationship, where pressure decreases as area increases, consistent with P=F/A for constant force.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q17",
+    "Question_text": "The diagram shows a simple mercury barometer. Which height is a measure of the atmospheric pressure?",
+    "image": "A diagram of a simple mercury barometer. Labels A, B, C, and D indicate different vertical lengths relative to the mercury column and the mercury level in the trough. C represents the height of the mercury column above the reservoir surface.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q18",
+    "Question_text": "A sealed packet containing air and a snack is purchased at an airport. The sealed packet is taken on board an aircraft. During the flight the packet becomes larger. What causes the packet to become larger?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q19",
+    "Question_text": "A sealed container of gas is heated and the pressure inside increases. What happens to the molecules of the gas to cause this increase in pressure?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q20",
+    "Question_text": "Equal masses of copper and water are heated to the same temperature. As they cool down, the copper and the water lose thermal energy at the same rate. The temperature of the copper falls faster. Why is this?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q21",
+    "Question_text": "The diagram shows a thermometer. What is in region X of the capillary tube?",
+    "image": "A diagram of a liquid-in-glass thermometer, showing the bulb, capillary tube, column of mercury, and a region labelled X above the mercury column in the capillary tube.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q22",
+    "Question_text": "The diagrams represent four thermometers. Which thermometer has the greatest sensitivity and which thermometer has the greatest range?",
+    "image": "Four diagrams (P, Q, R, S) representing different thermometers, each showing a mercury column and a temperature scale. Thermometer P has a range from 0°C to 25°C with 5°C intervals. Thermometer Q has a range from 0°C to 40°C with 5°C intervals. Thermometer R has a range from 0°C to 250°C with 50°C intervals. Thermometer S has a range from 100°C to 300°C with 40°C intervals. A table lists the options for greatest sensitivity and greatest range.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q23",
+    "Question_text": "The resistance R of a wire increases uniformly with temperature. The values of R at the fixed points are shown in the table. What is the temperature when R = 160Ω?",
+    "image": "A table showing resistance values at two temperatures: 0°C corresponds to 100 Ω, and 100°C corresponds to 250 Ω.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q24",
+    "Question_text": "Samples of four different materials at room temperature are heated from below and heat is transferred upwards. In which material is all of the heat transferred by the vibration of molecules?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q25",
+    "Question_text": "The diagrams show four identical cans with their outside surfaces either polished silver or painted dull black. Each can contains the same volume of water, initially at 80 °C. After five minutes in a cool room, which can contains the coolest water?",
+    "image": "Four diagrams of identical cans, each containing water. Can A is dull black with no lid. Can B is polished silver with no lid. Can C is dull black with a lid. Can D is polished silver with a lid.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q26",
+    "Question_text": "A communications system uses microwaves with a wavelength of 15cm. The speed of light is 3.0 x 10⁸ m/s. What is the frequency of the microwaves?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q27",
+    "Question_text": "The diagram shows two divergent rays of light from an object O being reflected from a plane mirror. At which position is the image formed?",
+    "image": "A diagram shows an object O in front of a plane mirror. Two divergent rays originating from O strike the mirror and are reflected. The reflected rays are extended backwards as dashed lines, intersecting at a point labelled B behind the mirror. Other points A, C, D are also marked behind the mirror.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q28",
+    "Question_text": "Which statement about blue light is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light",
+      "Refraction of Light",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q29",
+    "Question_text": "Which device uses total internal reflection?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q30",
+    "Question_text": "A television controller emits an infra-red beam. Which statement about infra-red radiation is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Dangers of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q31",
+    "Question_text": "The diagram shows a loudspeaker that is producing a continuous sound wave of frequency 200 Hz in air. Which diagram best shows how the sound wave causes a molecule at P to move during 1/200 s?",
+    "image": "A diagram of a loudspeaker on the left. To its right, there are four diagrams (A, B, C, D) illustrating the motion of a molecule at point P over a specified time. Diagram A shows an oscillating motion back and forth. Diagram B shows a displacement to the right and back. Diagram C shows a circular motion. Diagram D shows an upward displacement.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q32",
+    "Question_text": "Which frequency is in the range heard by a healthy human ear?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q33",
+    "Question_text": "What is one of the uses of ultrasound?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q34",
+    "Question_text": "The diagram shows an alarm system. What happens when battery P is disconnected?",
+    "image": "A circuit diagram illustrating an alarm system. It includes a battery P, an iron core with wire coiled around it (forming an electromagnet), a pivot, an iron armature, and a bell. The iron armature is held towards the electromagnet when current flows.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Magnetism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q35",
+    "Question_text": "V is a potential difference, I is a current, R is a resistance, and t is a time. Which expression has units of energy?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q36",
+    "Question_text": "A step-down transformer has a primary coil and a secondary coil wound on a soft-iron core. The primary coil is connected to a 6.0V direct current (d.c.) supply. Which statement about the transformer is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q37",
+    "Question_text": "Which symbol is used for a light-dependent resistor?",
+    "image": "Four different circuit symbols are shown. Symbol A is a light-emitting diode (LED). Symbol B is a thermistor. Symbol C is a variable resistor. Symbol D is a light-dependent resistor (LDR).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q38",
+    "Question_text": "The circuit diagram shows a variable resistor R connected in parallel to the lower half of a potential divider. The resistance of R increases. What happens to the two voltmeter readings?",
+    "image": "A circuit diagram showing a potential divider with two fixed resistors in series across a voltage source. A voltmeter V₁ is connected across the upper fixed resistor. A variable resistor R is connected in parallel with the lower fixed resistor. A voltmeter V₂ is connected across this parallel combination (and thus across the lower fixed resistor and R).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Combined Resistance",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q39",
+    "Question_text": "An oscilloscope is used to measure potential difference (p.d.). The trace with no input connected is shown. A 1.5V d.c. supply is connected to the oscilloscope. The Y-gain is set at 0.5V/div. The time-base is set at 0.5ms/div. Which trace shows a supply of 1.5 Vd.c.?",
+    "image": "A grid representing an oscilloscope screen with a single dot at the center, labelled 'one division'. Below this, four separate oscilloscope screen diagrams (A, B, C, D) show different traces. Trace A is a horizontal line three divisions above the center. Trace B is a vertical line at the center. Trace C is a horizontal line at the center. Trace D is a diagonal line.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/May/June/2018/Q40",
+    "Question_text": "How many nucleons are in one neutral atom of the krypton isotope Kr?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  }
+]

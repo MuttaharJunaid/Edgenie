@@ -1,0 +1,427 @@
+[
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q1",
+    "Question_text": "Fig. 1.1 shows a skydiver falling vertically through the air. In the first part of the fall, her speed increases and her acceleration decreases. In the second part of the fall, her speed is constant.",
+    "image": "Fig. 1.1: A drawing of a skydiver in a spread-eagle position, indicating she is falling vertically through the air. The drawing shows the skydiver's body and limbs outstretched, suggesting the presence of air resistance.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Freefall",
+      "terminal velocity",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 1.2 sketch the speed-time graph for the skydiver. On your graph, mark one point where the speed of the skydiver is increasing with an A and one point where the speed of the skydiver is constant with a B.",
+        "image": "Fig. 1.2: A blank speed-time graph with 'speed' on the y-axis and 'time' on the x-axis, both originating from zero. The graph provides a grid for plotting."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how the graph shows that the acceleration decreases as the speed increases.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "During the first part of the fall, there is a resultant vertical force acting downwards on the skydiver. One of the vertical forces acting on the skydiver is her weight. State the name of the other vertical force that acts on the skydiver.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the resultant vertical force eventually becomes zero.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "At one instant, the vertical force on the skydiver is 400N downwards. At the same instant, the wind causes an additional horizontal force of 100N to the right to act on the skydiver. Draw a vector diagram to determine the resultant of the 400N vertical force and the 100N horizontal force. Place an arrow on all of the forces to show their directions. Determine the magnitude (size) of this resultant force and its direction to the vertical.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the principle of moments.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "An airline passenger wishes to check the weight of a suitcase that he carries as hand luggage onto an aeroplane. He uses a uniform plank of wood, pivoted at its centre, as shown in Fig. 2.1. The plank is balanced with the suitcase on one side of the pivot and three bags of sugar, each of mass 2.0 kg, on the other side. The distances are shown on Fig. 2.1.",
+        "image": "Fig. 2.1: A diagram showing a uniform plank of wood balanced on a central pivot. On the left side, three identical rectangular blocks labeled 'three bags of sugar' are placed 80 cm from the pivot. On the right side, a rectangular block labeled 'suitcase' is placed 90 cm from the pivot."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the weight of one bag of sugar.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The maximum weight of a suitcase that can be carried onto the aeroplane is 67 N. Determine whether the weight of the suitcase exceeds the maximum allowed. Show a calculation in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A tall bus is tested for stability. Fig. 2.2 shows the bus on a slope. The centre of gravity of the bus is marked.",
+        "image": "Fig. 2.2: A diagram illustrating a tall bus on a slope. The bus is tilted. A point labeled 'centre of gravity' is marked inside the bus, high up. A point 'P' is marked on the lower edge of the bus's base where it contacts the slope."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is meant by the 'centre of gravity' of an object.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "When the slope is made very steep, the bus falls over by rotating about point P. Explain why the bus falls over.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q3",
+    "Question_text": "A battery, a pulley and a motor are used to lift a load as shown in Fig. 3.1.",
+    "image": "Fig. 3.1: A circuit diagram showing a battery connected to a motor. The motor's shaft is connected to a pulley system. A rope passes over the pulley, with one end attached to the motor and the other to a 'load', indicating the motor is used to lift the load.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Conservation of Energy",
+      "Efficiency",
+      "Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the transfers between energy stores that occur as the load is lifted.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The efficiency of the motor, pulley and load system is less than 100%. By comparing the input energy and the useful output energy, explain why the efficiency is less than 100%.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how the principle of conservation of energy applies in lifting the load.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The input power to the motor is 15W. The motor is used for 20s. The efficiency of the motor is 60%. Calculate the energy supplied to the load.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation",
+      "Specific Heat Capacity",
+      "Convection",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Evaporation of water from the surface of the skin causes cooling. Describe, using ideas about particles, how evaporation causes cooling.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one difference between evaporation and boiling.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When a refrigerator is switched on, cooling coils placed at the top of the space inside the refrigerator become cold. This causes a convection current which cools the air inside the refrigerator. The refrigerator is shown in Fig. 4.1.",
+        "image": "Fig. 4.1: A cross-sectional diagram of a refrigerator showing 'cold cooling coils inside refrigerator' at the top. Arrows illustrate a 'convection current' where cold air descends and warmer air rises. A 'pump' is also indicated at the bottom, and the entire unit is labeled 'refrigerator'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain how the cooling coils cause a convection current in the air inside the refrigerator.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The food in the refrigerator is initially at a temperature of 20.0°C. The food has a mass of 3.6 kg and a specific heat capacity of 3000 J/(kg°C). Calculate the final temperature of the food after 160000 J of thermal energy is removed from it.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q5",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Features of Waves",
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 5.1 is a diagram showing the arrangement of air particles as a longitudinal wave passes through them.",
+        "image": "Fig. 5.1: A diagram representing air particles as evenly spaced vertical lines, with sections showing particles bunched together (compression) and spread apart (rarefaction), illustrating a longitudinal wave."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 5.1, mark the centre of a compression with the letter C, and mark the centre of a rarefaction with the letter R.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe the difference between a compression and a rarefaction.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In a ripple tank, a water wave is produced by a wooden bar moving up and down on the surface of water.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The wooden bar makes 45 complete oscillations in 1.0 minute. Calculate the frequency of the wave produced.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The frequency of the water wave is increased by moving the wooden bar up and down more quickly. State what happens to the speed and what happens to the wavelength of the wave produced.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The crests of the water wave move into the shallow region shown in Fig. 5.2. On Fig. 5.2, draw the crests in the shallow region.",
+        "image": "Fig. 5.2: A diagram showing parallel straight lines representing wave crests approaching a shaded rectangular region labeled 'shallow region' at an angle. An arrow indicates the direction of wave propagation."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe what is meant by the diffraction of a water wave.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q6",
+    "Question_text": "A student sets up a circuit to determine the resistance of a length of wire. The circuit contains a battery of unknown e.m.f., a length of a wire used to make a resistor X, an ammeter, a voltmeter and a variable resistor R.",
+    "image": "Fig. 6.1: An incomplete circuit diagram showing a battery connected in series with two resistors, labeled 'X' and 'R'. Resistor R is a variable resistor (rheostat symbol).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 6.1, complete the circuit diagram by adding one voltmeter and one ammeter in suitable places to allow the determination of the resistance of X.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how X and R act as a variable potential divider.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student determines the resistance of the resistor X for five different lengths of the wire making it. The lengths of wire range from 20cm to 60cm. The type of wire and the cross-sectional area of the wire are kept constant. Fig. 6.2 shows a graph of the results.",
+        "image": "Fig. 6.2: A line graph showing 'resistance/Ω' on the y-axis (from 0 to 6) against 'length/cm' on the x-axis (from 0 to 100). The graph displays a straight line passing through the origin, with plotted points at 20cm (approx. 1.2Ω), 30cm (approx. 1.8Ω), 40cm (approx. 2.4Ω), 50cm (approx. 3.0Ω), and 60cm (approx. 3.6Ω)."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the relationship between the resistance of the wire and the length of the wire.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the current in a 90cm length of the wire when there is a potential difference (p.d.) of 9.0 V across it. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The p.d. across the wire making the resistor X is kept constant for all the measurements of resistance. Describe the relationship between the current in the wire and the length of the wire.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State how the resistance of a wire depends upon the cross-sectional area of the wire.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q7",
+    "Question_text": "Fig. 7.1 shows an alternating current (a.c.) power supply connected to a transformer.",
+    "image": "Fig. 7.1: A schematic diagram of a transformer. An 'a.c. power supply' is connected to the 'primary coil' on the left, which is wound around an 'iron core'. On the right, a 'secondary coil' is shown, also wound around the iron core, connected to 'output voltage'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Electromagnetic Induction",
+      "Transformer Calculations",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how an alternating current in the primary coil produces an alternating output voltage.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A student uses a voltmeter set on a 0-10V range to measure the input and output voltages. She obtains the values shown in Table 7.1. Table 7.1: A table showing input and output voltages. Input voltages are 1.2V, 2.3V, 4.8V, 6.4V. Corresponding output voltages are 2.4V, 4.6V, 9.6V, and 'no reading' for 6.4V input.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suggest why no output voltage reading is obtained with this voltmeter when the input voltage is 6.4V.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The number of turns on the primary coil is 48. Calculate the number of turns on the secondary coil.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student uses an oscilloscope to display an alternating output voltage from the transformer. Fig. 7.2 shows the front of the oscilloscope before it is connected to the transformer.",
+        "image": "Fig. 7.2: A diagram of an oscilloscope screen with a square grid. The timebase setting is '50 ms/division' and the Y-gain setting is '2.0 V/division'. The screen shows a horizontal line at the center, representing zero voltage."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 7.2, draw a trace representing an alternating output voltage on the screen.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe how to use the trace to measure the maximum value of the output voltage.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q8",
+    "Question_text": "Plutonium-239 (239Pu) is an isotope that is used as the fuel in some nuclear reactors.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom",
+      "Fission",
+      "The Three Types of Emission",
+      "Detection of Radioactivity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the names of the types of particles found in a nucleus of plutonium-239, and state how many there are of each type.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 8.1 shows the nuclear fission process that occurs within the fuel rods of the nuclear reactor.",
+        "image": "Fig. 8.1: A diagram illustrating nuclear fission. A 'neutron' is shown approaching and striking a large nucleus labeled '239Pu'. This nucleus then splits into two smaller 'fission fragment' nuclei and releases three additional 'neutrons', which are shown moving away."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain how the fission process produces a chain reaction.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how control rods are used to increase and decrease the rate of the chain reaction in a nuclear reactor.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Plutonium-239 decays by the emission of an alpha particle (α-particle). State two differences between an alpha particle and a beta particle (β-particle).",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Alpha particles from the radioactive source are detected in a cloud chamber or with a spark counter. Draw a labelled diagram of either a cloud chamber or a spark counter. Label the position of the radioactive source with an S.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State what causes the tracks in a cloud chamber or state what causes the sparks in a spark counter.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/25/Q9",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "Stars",
+      "The Sun as a Star",
+      "The Universe",
+      "Gravitational Effects on Orbits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The life cycle of a star begins with a large cloud of dust and gas which collapses. Five later stages of the life cycle of a very massive star are: black hole, protostar, red supergiant, stable star, supernova. Place these stages in Table 9.1 in the order in which they occur. Table 9.1: A table with 'earlier time' indicated at the top and 'later time' at the bottom. The first row contains 'cloud of dust and gas', followed by five blank rows for the subsequent stages of star evolution.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The original collapse of the cloud of dust and gas that formed the Sun was caused by an inward force. State the name of the inward force.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Further collapse is prevented by an outward force. The Sun will remain in the stable stage of its life cycle for a few billion years. Describe what causes the outward force.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "One of the first supernovas ever observed is known as SN185. It was formed from the explosion of a star in the Milky Way galaxy. The remnants of SN185 are at a distance of 8200 light-years from Earth. State what is meant by a 'light-year'.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State the time that passed between the explosion that formed SN185 and the electromagnetic radiation from the explosion reaching Earth.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "A recently observed supernova is SN2014J. The remnants of SN2014J are 12 million light-years from Earth, outside the Milky Way. There is no redshift seen in the electromagnetic radiation from the remnants of SN185 but a large redshift is seen in the electromagnetic radiation from the remnants of SN2014J. Explain this difference.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Most of the atoms found in the early Universe were hydrogen and helium. The Universe now contains atoms of heavier elements. Explain how the heavier elements are formed.",
+        "image": null
+      }
+    ]
+  }
+]

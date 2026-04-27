@@ -1,0 +1,381 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2024/Q1",
+    "Question_text": "Fig. 1.1 shows two trolleys. On the front of trolley A, there is a wooden rod. Trolley B is initially at rest. As trolley A moves towards the right, the rod enters the modelling clay. Trolley A slows down and trolley B starts moving. The trolleys then stick together and continue moving towards the right. Fig. 1.2 shows the speed-time graph for the two trolleys. The trolleys start to collide at time t = 0.30s. At t = 0.50s, the trolleys are moving at the same speed.",
+    "image": "Fig 1.1 shows two trolleys, A and B, on a horizontal surface. Trolley A is on the left, depicted with a wooden rod extending from its front. Trolley B is on the right, equipped with a block of modelling clay at its front. The illustration suggests trolley A moving towards trolley B, with the rod of trolley A entering the modelling clay of trolley B during a collision. Fig 1.2 is a speed-time graph. The x-axis represents time (t/s) from 0 to 0.8 s. The y-axis represents speed (m/s) from 0 to 0.8 m/s. Two distinct lines are plotted: one for 'trolley A' and one for 'trolley B'. The line for 'trolley A' starts at t=0s with a speed of 0.6 m/s, remains constant until t=0.3s, then linearly decreases to 0.4 m/s at t=0.5s, and stays constant at 0.4 m/s until t=0.8s. The line for 'trolley B' starts at t=0s with a speed of 0 m/s, remains at 0 m/s until t=0.3s, then linearly increases to 0.4 m/s at t=0.5s, and subsequently stays constant at 0.4 m/s until t=0.8s. From t=0.5s onwards, both lines merge and are labeled 'trolley A and B', indicating they move together.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Distance-Time Graphs",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Momentum"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State how Fig. 1.2 shows that, during the collision, trolley B has a uniform acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how the graph in Fig. 1.2 shows that the magnitude (size) of the acceleration of trolley B is larger than the magnitude of the deceleration of trolley A.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the acceleration of trolley B when t = 0.40s.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The mass of trolley A = 0.80 kg. The mass of trolley B = 0.60 kg. Show that momentum is conserved in the collision.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In another collision between the same trolleys, the rod and modelling clay are not present. Trolley A hits trolley B with the same initial speed. Explain why the force between the trolleys is larger in this collision.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2024/Q2",
+    "Question_text": "Fig. 2.1 shows a small swimming pool containing water. The depth of water in the pool is 0.80 m. The density of water is 1000kg/m³.",
+    "image": "Fig. 2.1 displays a small, rectangular swimming pool filled with water, viewed from a slightly elevated perspective. The pool's dimensions are labeled: a width of 2.1 m and a length of 4.0 m. Inside the pool, three individuals are depicted: two adults and one child, suggesting typical usage. The water level is clearly visible within the pool structure.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Density",
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Show that the mass of water in the pool is approximately 6700 kg.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Define 'pressure'.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the pressure on the base of the pool due to the water.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The water in the pool is initially at a temperature of 10°C. The temperature rises when 5.1 × 10⁶ J of energy is transferred to the water. The specific heat capacity of water is 4200 J/(kg°C). Calculate the final temperature of the water.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain, in terms of the movement of particles, how evaporation causes cooling.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Changes to factors in the environment of the swimming pool can cause an increase or decrease in the amount of evaporation from the surface of the water. State two changes to environmental factors that increase the amount of evaporation from the surface of the water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2024/Q3",
+    "Question_text": "Fig. 3.1 shows a solar-powered charger connected to a cell phone (mobile phone). The battery inside the cell phone is charged by the solar-powered charger.",
+    "image": "Fig. 3.1 illustrates a solar-powered charger connected to a cell phone. The charger, a rectangular panel with grid-like cells, is on the right, representing solar cells. A cable connects the charger to the cell phone, which is depicted on the left, indicating that the phone's battery is being charged.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Energy Stores & Transfers",
+      "Energy from the Sun",
+      "Thermal Conduction",
+      "Convection",
+      "Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete Fig. 3.2 to show the useful transfer of energy from the Sun to the battery. [Fig. 3.2 presents a flowchart with boxes and arrows. The first box is 'energy in Sun'. An arrow points to 'light from Sun'. Another box is 'electric field in charger'. Another box is 'electrical current'. The final box is 'energy in battery'. The task is to complete the connections and label any missing boxes.]",
+        "image": "Fig. 3.2 shows an incomplete energy transfer diagram represented by a flowchart. It begins with 'energy in Sun', leading to 'light from Sun'. An empty arrow space needs to be completed to connect 'light from Sun' to 'electric field in charger'. Subsequently, 'electric field in charger' leads to 'electrical current', which then proceeds to 'energy in battery'. The diagram outlines the energy conversion process from solar energy to electrical energy stored in a battery."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the battery takes a long time to charge on a cloudy day.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "After use, the outside surface of the cell phone is warm. When switched off, the cell phone cools down. Name and describe the three processes by which thermal energy is transferred as the cell phone cools down.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "It takes 4.5 hours to charge the battery with an average current of 300 mA. Calculate the quantity of charge that enters the battery. Give the unit of your answer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2024/Q4",
+    "Question_text": "Fig. 4.1 shows light passing through a triangular glass prism.",
+    "image": "Fig. 4.1 illustrates a triangular glass prism. A light ray is shown entering the prism from the top left, striking the top-left face at point P perpendicularly (angle of incidence = 0). The ray then travels straight through the prism to point Q on the bottom face. At point Q, the ray is shown reflecting internally and traveling to point R on the top-right face. From point R, the ray exits the prism, again shown perpendicular to the surface. The overall path suggests total internal reflection occurring at point Q.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Total Internal Reflection",
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the value of the angle of incidence at point P.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Draw the normal and the angle of incidence at point R. Label the angle of incidence.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State two conditions needed so that no light refracts from the glass into the air at point Q.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Information is sent across the internet using pulses of visible light through long, thin glass fibres and electrical signals through copper wires. State the name of one other type of electromagnetic radiation used to transmit information through long, thin glass fibres.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest two advantages of using glass fibres rather than copper wires to transmit information from the internet.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2024/Q5",
+    "Question_text": "An initially uncharged rubber balloon is rubbed with a woollen cloth as shown in Fig. 5.1. Rubbing the balloon causes the balloon to have a negative charge.",
+    "image": "Fig. 5.1 illustrates a hand holding a woollen cloth actively rubbing the surface of an inflated rubber balloon. The balloon is depicted with a dashed outline where it contacts the cloth, emphasizing the rubbing action. Two incomplete labels are present: one points to the woollen cloth with text 'woollen cloth loses ... and now has a ... charge', and another points to the balloon with text 'balloon gains ... and now has a negative charge'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 5.1, complete the labels on the diagram.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the balloon stays negatively charged for a long time.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Rubbing the balloon causes the temperature of the air inside it to rise. Explain, in terms of the particles of air, why the volume of the balloon increases when the temperature of the air rises.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2024/Q6",
+    "Question_text": "Fig. 6.1 shows a circuit diagram containing a battery, a light-dependent resistor (LDR) and a fixed resistor of resistance 240 Ω connected in series. There is a lamp near the circuit. Light from the lamp is incident on the LDR when the lamp is switched on. Fig. 6.2 shows the current-voltage graph for the LDR with the lamp switched on and with the lamp switched off.",
+    "image": "Fig. 6.1 depicts a series electrical circuit. It includes a battery (represented by standard cell symbols), a fixed resistor labeled '240 Ω', and a Light-Dependent Resistor (LDR) symbol, all connected sequentially. Fig. 6.2 presents a current-voltage (I-V) graph for the LDR. The x-axis indicates voltage (V) ranging from 0 to 8V, and the y-axis indicates current (A) ranging from 0 to 0.10A. Two straight lines originating from the origin are plotted: the upper line is labeled 'with lamp switched on', and the lower line is labeled 'with lamp switched off'. Both lines illustrate a linear relationship between current and voltage.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State Ohm's law.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how the graph lines in Fig. 6.2 show that Ohm's law applies to the LDR.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use values from Fig. 6.2 to explain the effect of light on the resistance of the LDR.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "With the lamp switched on, the current in the LDR is 0.050A. Determine the current in the fixed resistor.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Calculate the electromotive force (e.m.f.) of the cell.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2024/Q7",
+    "Question_text": "A plotting compass contains a needle. The needle is a small magnet that can rotate about its centre. Fig. 7.1 shows the plotting compass placed close to a bar magnet.",
+    "image": "Fig. 7.1 displays a horizontal bar magnet. Below the left end of the bar magnet, a circular plotting compass is positioned. The compass needle within is marked 'NS' indicating its North and South poles. A point 'P' is marked to the right of the bar magnet. The diagram is explicitly labeled '(not to scale)'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields",
+      "Electromagnetic Induction",
+      "Demonstrating Induction",
+      "The A.C. Generator"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 7.1 mark the magnetic poles on the bar magnet.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "There is a piece of paper underneath the magnet. Describe how the compass is used to plot the magnetic field line that passes from one pole to the other and through P.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe how to use the compass in Fig. 7.1 to determine the direction of the magnetic field at P.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 7.2 shows the apparatus a student uses to produce an alternating current (a.c.). The magnet is moved into and out of the coil.",
+        "image": "Fig. 7.2 shows a hand holding a bar magnet that is being moved in and out of a coiled wire. The coil is connected to a circular meter, labeled 'A' in the center, and identified as a 'centre-zero ammeter', indicating it can measure current in both directions."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why a current is produced when the magnet moves.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe the movement of the magnet that produces an a.c. of frequency 0.50 Hz.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Describe how the centre-zero ammeter shows the current is a.c. rather than d.c. (direct current).",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Explain why increasing the frequency of the a.c. produced also increases the magnitude (size) of the a.c produced.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2024/Q8",
+    "Question_text": "Fig. 8.1 is a picture of a nebula formed from a supernova.",
+    "image": "Fig. 8.1 is an astronomical photograph of a nebula, which is a large, diffuse cloud of gas and dust. It shows a luminous, expanding structure with complex filaments and glowing regions, characteristic of a supernova remnant. The central area appears brighter, with light radiating outwards into the surrounding cosmic dust.",
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "Stars",
+      "The Universe",
+      "The Sun as a Star",
+      "The Solar System",
+      "Orbiting Bodies",
+      "Calculating Orbital Speeds"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by 'a supernova'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how a protostar forms inside a nebula.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Our Sun is in a circular orbit around a black hole at the centre of our galaxy. State the name of the galaxy that contains our Sun.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State what is meant by a light-year.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The time taken for one complete orbit of our Sun around the black hole is 7.3 x 10¹⁵s. The distance from our Sun to the black hole is 26000 light-years. 1 year = 3.2 × 10⁷ s speed of light = 3.0 x 10⁸m/s Calculate the speed of our Sun as it orbits the black hole. Show your working and give your answer in m/s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2024/Q9",
+    "Question_text": "Alpha particles are sometimes emitted from the nuclei of radioactive elements. This emission is both random and spontaneous.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Detection of Radioactivity",
+      "Half-Life"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe what is meant by 'spontaneous' emission.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe the composition of an alpha particle.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Alpha particles are detected using the tracks shown in a cloud chamber or by the sparks produced in a spark counter. Describe the structure of either a cloud chamber or a spark counter. Include a labelled drawing of the apparatus.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe how the emission of alpha particles is shown as random in the apparatus you described in (c)(i).",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "A radioactive source produces 120 tracks in one minute in a cloud chamber. 6.0 hours later, the same source produces 15 tracks in one minute. Without the source present, no tracks are produced. Calculate the half-life of the radioactive isotope in the source.",
+        "image": null
+      }
+    ]
+  }
+]

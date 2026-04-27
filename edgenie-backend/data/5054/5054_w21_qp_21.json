@@ -1,0 +1,431 @@
+[
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q1",
+    "Question_text": "Fig. 1.1 shows a wooden bench of weight 2000 N.",
+    "image": "Fig. 1.1 shows a 3D isometric view of a wooden bench with two rectangular support legs. The bench top is 2.2 m long and 0.48 m wide. The left support leg is 0.25 m high and positioned under the left end of the bench. A point P is marked on the top-left edge of the bench. A point Q is marked on the bottom-front-left corner of the left support. The total weight of the bench is 2000 N.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Centre of Gravity",
+      "Pressure & Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Each of the two supports has an area of 0.040m² in contact with the ground. Calculate the pressure on the ground due to the bench.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The centre of mass of the bench is 1.1 m from the left-hand end of the bench and 0.24 m from the front. Suggest one reason why the centre of mass is in this position.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "There is a force exerted vertically downwards from the point P shown in Fig. 1.1. Calculate the maximum force that can be exerted vertically downwards at P without the bench rotating about the point Q shown in Fig. 1.1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q2",
+    "Question_text": "Fig. 2.1 shows a man of mass 80kg standing in a lift (elevator). The gravitational field strength g is 10N/kg.",
+    "image": "Fig. 2.1 shows a schematic diagram of a man's silhouette standing inside a lift (elevator). Labels indicate 'man', 'lift', and 'floor'. The man's mass is 80 kg.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Distance-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the weight of the man.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The lift accelerates upwards uniformly at 0.50m/s². Calculate: the resultant upward force on the man",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the force exerted on the man by the floor of the lift.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The lift accelerates upwards uniformly from rest for 4.0s and then decelerates uniformly to rest in 4.0 s. The total distance travelled is 8.0 m. On Fig. 2.2, sketch the distance-time graph for this journey.",
+        "image": "Fig. 2.2 shows a blank distance-time graph. The y-axis is labeled 'distance/m' and ranges from 0 to 8.0. The x-axis is labeled 'time/s' and ranges from 0 to 8.0, with an intermediate mark at 4.0. The task requires sketching a graph on these axes to represent the lift's journey."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q3",
+    "Question_text": "A type of nuclear reaction takes place at the centre of the Sun. The reaction releases thermal energy. Thermal energy is emitted from the surface of the Sun into space. The energy is transferred through the vacuum of space by thermal radiation.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Fusion",
+      "Electromagnetic Waves",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the type of nuclear reaction that takes place at the centre of the Sun.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe the radiation that is emitted from the surface of the Sun.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the speed of this radiation in a vacuum.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The Earth is 1.5 × 10¹¹ m from the surface of the Sun. Calculate the time taken for this radiation to travel to Earth.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain one advantage of wearing white clothes on sunny days.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q4",
+    "Question_text": "In a coal-fired power station, coal is burnt and electrical energy is produced.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Conservation of Energy",
+      "Efficiency",
+      "Energy from Fuels"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the form of energy in the coal that is transferred to electrical energy.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the principle of the conservation of energy.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The quantity of electrical energy produced by the power station is much less than the quantity of energy in the coal that is burnt to generate the electricity. Explain why this is so.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State one environmental consequence of generating electricity in coal-fired power stations.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q5",
+    "Question_text": "A plastic rod that is initially neutral is rubbed with a woollen cloth. After the rod has been rubbed, it is positively charged. An uncharged, conducting sphere is suspended from an insulating thread. The positively charged rod is placed near to the sphere, as shown in Fig. 5.1.",
+    "image": "Fig. 5.1 shows a positively charged rod positioned to the left of an uncharged conducting sphere, which is suspended from an insulating thread. The rod has multiple '+' signs indicating positive charge.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain, in terms of particles, why the rod is now positively charged.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State what happens to the woollen cloth.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 5.1, draw the distribution of charge on the sphere.",
+        "image": "Fig. 5.1 shows a diagram of a positively charged rod near an uncharged conducting sphere suspended by an insulating thread. The sphere is currently uncharged and requires drawing the induced charge distribution on it."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the sphere is pulled towards the rod.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q6",
+    "Question_text": "A circuit contains a battery of electromotive force (e.m.f.) 4.5V, a 28Ω resistor and a variable resistor. Fig. 6.1 is the circuit diagram.",
+    "image": "Fig. 6.1 shows a series electrical circuit diagram. It includes a battery (indicated as a voltage source of 4.5V), a fixed resistor (labeled 28Ω), and a variable resistor (rheostat symbol).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The battery consists of three identical cells in series. Determine the e.m.f. of each cell.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The potential difference (p.d.) across the variable resistor is 2.5V. State what is meant by potential difference.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the resistance of the variable resistor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q7(EITHER)",
+    "Question_text": "Fig. 7.1 shows a solenoid connected to an ammeter. The S-pole of a permanent magnet moves into the left-hand end of the solenoid. The ammeter reading shows that there is a small positive current in the circuit.",
+    "image": "Fig. 7.1 illustrates a solenoid connected to an ammeter 'A'. A permanent magnet, with its North (N) pole to the left and South (S) pole to the right, is shown moving into the left-hand end of the solenoid, indicated by an arrow.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Magnetic Effect of a Current",
+      "Magnets",
+      "Magnetic Fields",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why there is a current in the circuit when the magnet moves.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the magnet is inside the solenoid, it stops moving. It is then pulled back out of the solenoid. Explain what happens to the ammeter reading as the magnet moves out of the left-hand end of the solenoid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q7(OR)",
+    "Question_text": "Fig. 7.2 shows the symbol for a logic gate and its truth table. Fig. 7.3 shows two of these logic gates connected to make a bistable circuit. Terminals P and Q each have the logic level 0. Terminal X has the logic level 1.",
+    "image": "Fig. 7.2 displays the symbol for a NOR logic gate (an OR gate with an inversion bubble at the output) along with its truth table. The truth table shows two inputs and one output, defining the NOR operation (00->1, 01->0, 10->0, 11->0). Fig. 7.3 shows a bistable circuit (flip-flop) constructed from two interconnected NOR gates. Inputs P and Q are connected to one input of each gate respectively. The output of the first gate is X, and its input also comes from Y. The output of the second gate is Y, and its input also comes from X.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the logic gate shown in Fig. 7.2.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why terminal Y has the logic level 0.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Terminal P is briefly connected to a supply of logic level 1. State the effect of this on the logic level of terminal X and the logic level of terminal Y.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Terminal P returns to logic level 0 again. State the effect of this return to value 0 on the logic level of terminal X and on the logic level of terminal Y.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "State how this circuit exhibits the property of memory.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q8",
+    "Question_text": "A loudspeaker is made from a coil of wire fixed to a cardboard tube. The tube is attached to a cardboard cone. Fig. 8.1 shows part of the arrangement of the loudspeaker. When there is a current in the coil, the coil experiences a force.",
+    "image": "Fig. 8.1 shows a cross-sectional diagram of a loudspeaker mechanism. A coil of wire is wrapped around a cardboard tube, which is connected to a larger cardboard cone. Labels point to 'cardboard cone', 'coil', and 'cardboard tube'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Transverse & Longitudinal Waves",
+      "The Wave Equation",
+      "Force on a Current-Carrying Conductor",
+      "The A.C. Generator"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what else is needed in a loudspeaker to make a current-carrying wire experience a force.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A student connects the coil to the output of an alternating current (a.c.) generator. Fig. 8.2 shows how the electromotive force (e.m.f.) produced by the generator varies with time. Explain why the e.m.f. shown in Fig. 8.2 makes the coil vibrate.",
+        "image": "Fig. 8.2 shows a graph of electromotive force (e.m.f./V) versus time (time/s). The e.m.f. varies sinusoidally, completing one full cycle from 0 to 0.020s. It peaks at 4.0V at 0.005s and reaches -4.0V at 0.015s."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The vibrating cone produces sound in the surrounding air. Explain, in terms of molecules, how the cone produces a sound wave that travels through the air.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Sound is a longitudinal wave. Describe the difference between a longitudinal wave and a transverse wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Using Fig. 8.2, determine the number of times that the cone reverses its direction of motion in 1.0s.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "The speed of sound in air is 340m/s. Calculate the wavelength of the sound.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student adjusts the generator so that the maximum voltage of the output is now 3.0V. Everything else stays the same as the output shown on the graph in Fig. 8.2. Explain any effect on the loudness of the sound.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain any effect on the pitch of the sound.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q9",
+    "Question_text": "Liquid-in-glass thermometers use the expansion of a liquid to indicate the temperature. Fig. 9.1 shows the molecular structure of a solid and a gas. Fig. 9.2 shows the liquid-in-glass thermometer. There is no scale on the thermometer.",
+    "image": "Fig. 9.1 displays three boxes representing states of matter: 'solid' (particles closely packed in an ordered lattice), an empty box labeled 'liquid', and 'gas' (particles far apart and randomly distributed). Fig. 9.2 shows a diagram of a liquid-in-glass thermometer, consisting of a 'bulb' containing 'liquid' and connected to a 'narrow tube'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Thermal Expansion",
+      "Temperature & Pressure",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "In the middle box of Fig. 9.1, sketch a diagram to show the molecular structure of a liquid.",
+        "image": "Fig. 9.1 shows three boxes representing states of matter. The 'solid' box contains ordered, closely packed circles. The 'gas' box contains sparse, randomly distributed circles. The middle 'liquid' box is empty, awaiting a sketch of the molecular structure of a liquid."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why it is easier to compress a gas than to compress a solid.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The temperature of a liquid-in-glass thermometer increases. State two ways in which the molecules of the liquid in the thermometer are affected.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by the ice point and the steam point.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the ice point and the steam point are used on the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain how the range of a liquid-in-glass thermometer is affected by: increasing the mass of liquid in the bulb",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "increasing the diameter of the narrow tube.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/O/N/21/Q10",
+    "Question_text": "The isotope yttrium-90 (⁹⁰₃₉Y) is radioactive. It is a beta-particle emitter that decays to product Q. Product Q is stable. A sample of yttrium-90 is placed close to a radiation detector in a laboratory. There are no other radioactive samples in the laboratory. A counter records the count rate. Fig. 10.1 is a graph of the count rate plotted against time.",
+    "image": "Fig. 10.1 displays a graph of count rate (counts/minute) versus time (hours). The count rate decreases exponentially from approximately 75 counts/minute at time = 0 hours, showing scattered data points around a best-fit decay curve. The graph extends to 700 hours. Fig. 10.2 shows a beam of beta-particles moving horizontally into a region between two parallel metal plates. The top plate is positively charged ('+') and the bottom plate is negatively charged ('-'). The path of the beta-particles needs to be drawn.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Background Radiation",
+      "Half-Life",
+      "Detection of Radioactivity",
+      "Electric Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State one feature that is common to all isotopes of yttrium.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how a neutral atom of Q differs from a neutral atom of yttrium-90.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Using Fig. 10.1, determine the average background count rate.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest two different origins for the background count.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Using Fig. 10.1, determine the half-life of yttrium-90. Show how the answer is obtained.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Many of the points plotted in Fig. 10.1 do not lie on the best-fit line. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A beam of beta-particles, travelling in a vacuum, enters the region between two parallel, metal plates. One plate is negatively charged and the other is positively charged. On Fig. 10.2, draw the path taken by the beta-particles as they travel between the two plates.",
+        "image": "Fig. 10.2 shows a horizontal beam of beta-particles entering a region between two parallel metal plates. The top plate is positively charged ('+') and the bottom plate is negatively charged ('-'). The user is required to draw the path of the beta-particles within this electric field."
+      }
+    ]
+  }
+]

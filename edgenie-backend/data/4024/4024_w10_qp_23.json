@@ -1,0 +1,487 @@
+[
+  {
+    "QuestionNumber": "October-November/23/2010/Q1",
+    "Question_text": "Answer all questions in this section.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms",
+      "Expand products of algebraic expressions",
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Simplify (x + y) / (8x + 8y)",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Simplify x(x – 2) – (3x² – 5).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve the equation 3t-4 = 7 + 2(t + 3).",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Factorise 5px – 7qx + 10py – 14qy.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "When x = −2, which of the two expressions, 3x + 4 and 2 – x, has the greater value? You must show your working.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Solve the inequality 3x +4 <2-x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q2",
+    "Question_text": "The rate of exchange between pounds (£) and dollars ($) is £1 = $1.87. The rate of exchange between pounds (£) and euros (€ ) is £1 = €1.21.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money",
+      "Convert currencies",
+      "Calculate simple interest",
+      "Calculate percentage change"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Catherine changes £500 into dollars. Calculate how many dollars she receives.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Esther changes € 726 into pounds. Calculate how many pounds she receives.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Rose changes $850 into euros. Calculate how many euros she receives.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Matthew changes $770 into rupees. He receives 40000 rupees. How many rupees did he receive for each dollar?",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Lily bought a car for $13500. She paid for it in 36 equal monthly payments. Calculate the amount she paid each month.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "George bought a car for $27000. He borrowed the $27000 at 15% per year simple interest for 3 years. He repaid the total amount in 36 equal monthly payments. Calculate the amount he paid each month.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons",
+      "Recognise line symmetry and order of rotational symmetry in two dimensions",
+      "Solve linear equations in one unknown",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Know that letters can be used to represent generalised numbers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the interior angle of a regular 10-sided polygon.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "AH is the line of symmetry of the pentagon ABCDE. HAB = x°, ABC = 80° and EDH = 4x°. Find x.",
+        "image": "A pentagon ABCDE is shown. A is the topmost vertex. A line segment AH connects vertex A to a point H on the base edge CD, serving as the line of symmetry. Angle HAB is labeled x°, angle ABC is labeled 80°, and angle EDH is labeled 4x°. The side lengths are not specified, only the angles."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "PY is the line of symmetry of the pentagon PQRST. PY and TQ intersect at N. PN = NY. TQ = 12 cm and SR = 10 cm. Given that PY = 2h centimetres, find an expression, in terms of h, for the area of the trapezium QRST.",
+        "image": "A pentagon PQRST is shown. P is the apex, and Q, R, S, T are points on the perimeter. A vertical line PY is drawn from P to the midpoint Y of the base SR, representing the line of symmetry. A horizontal line segment TQ is drawn, intersecting PY at N. The length TQ is 12, SR is 10. The height PY is stated as 2h, and PN = NY."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Given that the area of PQRST is 221 cm², calculate h.",
+        "image": "A pentagon PQRST is shown. P is the apex, and Q, R, S, T are points on the perimeter. A vertical line PY is drawn from P to the midpoint Y of the base SR, representing the line of symmetry. A horizontal line segment TQ is drawn, intersecting PY at N. The length TQ is 12, SR is 10. The height PY is stated as 2h, and PN = NY."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q4",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry",
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "In the quadrilateral PQRS, PQ = 7cm and QS = 9cm. PQS = QRS = 90° and QSR = 35°. Calculate SPQ,",
+        "image": "A quadrilateral PQRS is depicted. Side PQ has length 7. Side QS has length 9. Angle PQS is marked as 90 degrees. Angle QRS is marked as 90 degrees. Angle QSR is marked as 35 degrees. The shape resembles a combination of two right-angled triangles sharing side QS."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate RS.",
+        "image": "A quadrilateral PQRS is depicted. Side PQ has length 7. Side QS has length 9. Angle PQS is marked as 90 degrees. Angle QRS is marked as 90 degrees. Angle QSR is marked as 35 degrees. The shape resembles a combination of two right-angled triangles sharing side QS."
+      },
+      {
+        "part_label": "b",
+        "part_text": "[The area of the curved surface of a cone of radius r and slant height I is πrl] The diagram shows a cone ABC. The diameter AB = 8 cm and ACB = 40°. Calculate the curved surface area of this cone.",
+        "image": "A cone is shown with its apex labeled C and its circular base with diameter AB labeled 8. The angle ACB at the apex, subtended by the diameter, is 40 degrees. A dashed line indicates the altitude from C to the center of the base."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q5",
+    "Question_text": "The table shows the distribution of the masses of 90 apples.",
+    "image": "A table presents the distribution of masses (m grams) of 90 apples. The mass intervals are: 60 < m ≤ 80 (Frequency: 10), 80 < m ≤ 90 (Frequency: 16), 90 < m ≤ 95 (Frequency: 20), 95 < m ≤ 100 (Frequency: 21), 100 < m ≤ 110 (Frequency: 22), 110 < m (Frequency: 1).",
+    "Unit": "Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate estimate of mean for grouped discrete or continuous data",
+      "Identify modal class from grouped frequency distribution",
+      "Draw and interpret histograms",
+      "Calculate with frequency density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In which interval does the median lie?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate an estimate of the mean.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A histogram is drawn to represent this information. Calculate the frequency density of the interval 90 < m ≤ 95.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The rectangle representing the apples with masses in the interval 80 < m ≤ 90 has width 2 cm and height 4 cm. Find the width and height of the rectangle representing the apples with masses in the interval 90 < m ≤ 95.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q6",
+    "Question_text": "Answer this question on a new page. A and B are two coastguard stations with A due north of B. On your new blank page, mark A in a position near the top right hand corner, as shown in the diagram.",
+    "image": "A small diagram showing a compass rose with 'North' indicated upwards, and two points labeled 'A' and '•B'. Point A is positioned directly above point B, confirming A is due north of B.",
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings",
+      "Measure and draw lines and angles",
+      "Construct a triangle given lengths of all sides using ruler and compasses",
+      "Use and interpret three-figure bearings",
+      "Represent and interpret linear inequalities in two variables graphically"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The distance between A and B is 140km. Using a scale of 1 cm to 10km, mark the position of B and draw the line AB,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(a)",
+        "part_text": "construct the locus of the points west of AB that are equidistant from A and B,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(b)",
+        "part_text": "construct the locus of the points west of AB that are 90 km from B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A ship, S, lies to the west of AB and is I nearer to A than B, II within 90 km of B. On your diagram, shade the region in which the ship is situated.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "It is also known that the bearing of the ship from A is 204°. On your diagram, mark the two extreme positions, S₁ and S₂, of the ship.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Measure the angle S₁BS2.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The bearing of the ship from B is x°. Find the least possible value of x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q7",
+    "Question_text": "ABCD and PQRS are rectangles. Each rectangle has an area of 13 cm². AD = x centimetres and PS = (x + 5) centimetres.",
+    "image": "Two rectangles are shown side by side. The first, ABCD, has its vertical side AD labeled 'x'. The second, PQRS, has its vertical side PS labeled '(x + 5)'. The horizontal sides AB and PQ are not explicitly labeled with lengths but are implicitly denoted.",
+    "Unit": "Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Know that letters can be used to represent generalised numbers",
+      "Construct expressions, equations and formulas",
+      "Solve fractional equations with numerical and linear algebraic denominators",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula",
+      "Round to accuracy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find, in terms of x, an expression for AB,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find, in terms of x, an expression for PQ.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Given that AB is 3 cm greater than PQ, form an equation in x and show that it simplifies to 3x² + 15x – 65 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Solve the equation 3x² + 15x – 65 = 0, giving each answer correct to 2 decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Show that the perimeter of ABCD is 14.9cm, correct to 3 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Find the difference between the perimeters of the two rectangles.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q8",
+    "Question_text": "Answer the whole of this question on a sheet of graph paper. The variables x and y are connected by the equation y = x³/10 - x/2. The table below shows some corresponding values of x and y.",
+    "image": "A table displays corresponding values for variables x and y, connected by the equation y = x³/10 - x/2. The x values are 0, 1, 2, 3, 4, 4.5. The corresponding y values are 0, -0.4, -0.2, 1.2, 4.4, and p (an unknown value for x=4.5).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Substitute numbers into expressions and formulas",
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)",
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods",
+      "Estimate gradients of curves by drawing tangents",
+      "Draw straight-line graphs for linear equations",
+      "Calculate the gradient of a straight line from the coordinates of two points on it",
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate p.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Using a scale of 2cm to 1 unit on each axis, draw a horizontal x-axis for 0 ≤ x ≤ 5 and a vertical y-axis for −1 ≤ y ≤ 7. On your axes, plot the points given in the table and join them with a smooth curve.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use your graph to solve the equation x³/10 - x/2 = 0.3 for values of x in the range 0 ≤ x ≤ 5.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Draw the chord joining the two points (0, 0) and (3, 1.2) and calculate its gradient.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Draw a tangent at the point where the gradient of the curve is equal to the gradient of the chord.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "On the same axes, draw the graph of the straight line y = -x + 6.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Write down the x coordinate of the point where the line crosses the curve.",
+        "image": null
+      },
+      {
+        "part_label": "e(iii)",
+        "part_text": "This value of x is a solution of the equation x³ + Ax + B = 0. Find A and B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q9",
+    "Question_text": "Diagram I shows a cube with a triangular pyramid removed from one vertex. This triangular pyramid ABCD is shown in Diagram II. AB = AC = AD = 5 cm.",
+    "image": "Diagram I shows a wireframe cube with one of its corners removed, revealing a triangular face where the corner used to be. Diagram II shows a triangular pyramid labeled ABCD. The edges AB, AC, and AD are each 5 cm in length, and right-angle symbols are shown at vertex A for the angles BAC, CAD, and DAB, indicating these edges are mutually perpendicular. Diagram III shows a complex polyhedron formed by removing an identical triangular pyramid from each of the 8 vertices of a cube.",
+    "Unit": "Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular",
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Know and use Pythagoras’ theorem",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Use and interpret vocabulary of triangles, special quadrilaterals, polygons, nets, solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the height of this pyramid when the base is triangle ABD.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the volume of the pyramid. [The volume of a pyramid = 1/3 × area of base × height]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the area of triangle BCD,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the height of the pyramid when the base is triangle BCD.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "An identical triangular pyramid is removed from each of the other 7 vertices of the cube to form the new solid shown in Diagram III. For the new solid, write down the number of faces,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "For the new solid, write down the number of vertices,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "For the new solid, write down the number of edges.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q10",
+    "Question_text": "PQRS and P'Q'R'S' are congruent quadrilaterals. R is the same point as S'. S is the same point as R'. A single transformation maps P onto P', Q onto Q', R onto R' and S onto S'.",
+    "image": "A diagram shows two quadrilaterals, PQRS and P'Q'R'S', on a Cartesian grid. PQRS is in the lower left quadrant. P'Q'R'S' is in the upper right quadrant. The vertices R and S' are at the same point, and S and R' are at the same point. Triangle A (vertices (1,0), (2,0), (1,1)) and triangle B (vertices (3,3), (4,3), (3,4)) are also shown on a separate Cartesian grid.",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°",
+      "Describe translation using vector",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe fully this transformation.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Write down two facts connecting PQ and Q'P'.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The diagram shows triangle A and triangle B. A translation, T, maps triangle A onto triangle B. State the column vector representing this translation.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The transformation, S, that maps triangle A onto triangle C is represented by the matrix (2 0 / 0 1). Find the vertices of triangle C.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Given that TS(A) = D, find the vertices of triangle D.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)(a)",
+        "part_text": "Triangle E has vertices (0,0), (2,0) and (0,3). It is given that (0,0) → (0,0), (1,0) → (2,0) and (0,1) → (0,3). Find the matrix that represents this transformation.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)(b)",
+        "part_text": "Describe fully the single transformation that maps triangle A onto triangle E.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/23/2010/Q11",
+    "Question_text": "The points X, Y and Z are on horizontal ground. XY = 4km, XZ = 17km and YXZ = 125°.",
+    "image": "A diagram shows a horizontal triangular ground XYZ. Side XY is 4km, side XZ is 17km. The angle YXZ at vertex X is 125°. Another diagram shows points P and Q vertically above X and Z respectively, indicating a 3D setup. An angle of elevation from Y to P is 44°. The distance from Y to X is 4.",
+    "Unit": "Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Carry out calculations involving angles of elevation and depression",
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Round answers reasonably",
+      "Calculate with time units",
+      "Use 24-hour clock",
+      "Solve average speed problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate YZ.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The points P and Q are the same height vertically above X and Z respectively. When an aircraft was at P, its angle of elevation from Y was 44°. Calculate PX. Give your answer in metres, correct to the nearest 100 metres.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(a)",
+        "part_text": "The aircraft took 2 minutes 54 seconds to fly from P to Q. The aircraft reached its destination 39 minutes 6 seconds after flying over Q. The flight ended at 15 03. At what time did the aircraft fly over P?",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(b)",
+        "part_text": "Calculate the average speed of the aircraft as it flew from P to Q. Give your answer in kilometres per hour.",
+        "image": null
+      }
+    ]
+  }
+]

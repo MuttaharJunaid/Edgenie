@@ -1,0 +1,414 @@
+[
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q1",
+    "Question_text": "An aircraft pulls a glider along a runway as shown in Fig. 1.1. Fig. 1.2 shows the speed of the glider during the first 12s of the motion.",
+    "image": "Fig. 1.1 shows a diagram depicting an aircraft on a runway pulling a glider. The aircraft is on the right, and the glider is on the left, both oriented to the right along the runway, connected by a tow line. Labels point to 'glider', 'runway', and 'aircraft'. Fig. 1.2 displays a speed-time graph. The x-axis is labeled 'time/s' ranging from 0 to 12. The y-axis is labeled 'speed m/s' ranging from 0 to 25. The graph shows a straight line increasing linearly from (0,0) to (6,20), indicating constant acceleration. From t=6s to t=12s, the graph shows a horizontal line at speed = 20 m/s, indicating constant speed.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Distance-Time Graphs",
+      "Newton's Second Law",
+      "Mass & Weight",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the motion of the glider in the first 12s.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the first 6.0s of the motion, there is a resultant force of 1800N on the glider. Using the increase in speed in the first 6.0s, calculate the mass of the glider.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Determine the distance travelled by the glider in the first 6.0s of its motion.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The glider has no engine and stays in the air with the use of convection currents. State what is meant by a 'convection current'.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Suggest how the convection current that supports the glider is formed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q2",
+    "Question_text": "In a safety test, a car of mass 1100kg travels at a speed of 10m/s and collides with a stationary van of mass 3000kg. After the collision the car and the van move together with a velocity v. Fig. 2.1 shows the car and van before and after the collision. The total momentum of the car and van is conserved during the collision.",
+    "image": "Fig. 2.1 illustrates a two-part diagram showing a car and van collision. The 'before collision' scenario depicts a car (labeled 'car mass = 1100kg', 'velocity = 10 m/s') moving towards a stationary van (labeled 'van mass = 3000 kg', 'velocity = 0 m/s'). The 'after collision' scenario shows the car and van joined together as a single unit, moving in the same direction as the initial car, with a combined 'velocity = v'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Momentum",
+      "Kinetic Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Define 'momentum'.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the unit of momentum.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the velocity v of the car and van after the collision.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the total kinetic energy of the car and van after the collision.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State the transfer of energy that occurs in the collision.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q3",
+    "Question_text": "Fig. 3.1 shows a circuit containing three resistors, a 12V power supply and an ammeter.",
+    "image": "Fig. 3.1 displays a circuit diagram. A 12V power supply, with positive and negative terminals, is connected. An ammeter, labeled 'A', is placed in series with the power supply. Following the ammeter, the circuit branches into a parallel arrangement of three resistors: 400 Ω, 200 Ω, and 100 Ω. All components are connected to form a complete circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the current in the 400 Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the power produced in the 400 Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A student uses all of the components shown in Fig. 3.1 in another circuit. She connects them so that there is the largest possible current in each resistor. The current in one of the resistors is larger than the current in the other two resistors. The student connects the ammeter into the circuit to measure the current in this resistor. Draw the circuit diagram of the arrangement. Label each resistor with the value of its resistance.",
+        "image": "An empty space is provided for drawing a circuit diagram. The drawing should illustrate the 12V power supply connected to the three resistors (400 Ω, 200 Ω, 100 Ω) in a parallel configuration to achieve the largest possible current through each. An ammeter should be included in series with the 100 Ω resistor to measure the current, as this resistor would naturally have the largest current in a parallel arrangement."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q4",
+    "Question_text": "(a) A student pushes a drawing pin into a wooden board, as shown in Fig. 4.1. The area of the pin in contact with the finger is 5.0 × 10⁻⁵ m². The student pushes downwards with a force of 26 N. The mass of the drawing pin is very small.",
+    "image": "Fig. 4.1 shows a cross-sectional diagram of a finger pressing a drawing pin into a wooden board. The finger is positioned over the flat, wide head of the drawing pin, applying a downward force. The sharp, pointed end of the drawing pin is shown penetrating the wooden board. Labels indicate 'finger', 'drawing pin', and 'wooden board'. Fig. 4.2 illustrates a hand squeezing a plastic bag filled with water, which has multiple small holes. Water streams out from these holes. Two specific holes are labeled: 'A' near the bottom of the bag and 'B' higher up. The streams of water emerging from the holes are shown, with the stream from A appearing to emerge with greater speed than from B.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Newton's Third Law",
+      "Pressure in a Liquid"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the pressure exerted by the finger on the drawing pin.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Compare the force exerted by the finger on the drawing pin with the force exerted by the drawing pin on the wooden board.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain why the drawing pin goes into the wooden board but not into the finger.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why the water emerges from each hole in a direction at right angles to the surface of the bag.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The holes at A and B are the same size. Explain why the water emerges faster from the hole at A than from the hole at B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q5",
+    "Question_text": "Fig. 5.1 shows the particles (molecules) in a sample of liquid water.",
+    "image": "Fig. 5.1 depicts a collection of randomly arranged, closely packed spherical particles, representing molecules in a liquid state. They are shown in contact but without a fixed, ordered structure, characteristic of a liquid where particles can move past each other. Fig. 5.2 illustrates an experimental setup for heating a metal sample. A thermometer and an electric heater are both immersed into a block of metal within a container, labeled 'sample of metal'. The heater has wires extending upwards, and the thermometer indicates a temperature reading.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Gases & Absolute Temperature",
+      "Thermal Expansion",
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain, using ideas about particles, why liquids expand more than solids for the same temperature rise.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The boiling point of water is 100°C. State the boiling point of water on the Kelvin scale of temperature.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The temperature remains constant as water turns from liquid to gas at the boiling point. Explain, in terms of particles, why energy must be provided even though the temperature stays constant.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "An electric heater is used to heat a sample of metal, as shown in Fig. 5.2. There is no thermal energy transferred from the metal to the surroundings during the heating. The metal has a mass of 200g and is initially at 15°C. The heater is switched on for 2.0 minutes and then switched off. The maximum temperature reached by the metal is 40°C. The power of the heater is 20 W. Calculate the specific heat capacity of the metal. Show your working.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q6",
+    "Question_text": "The virtual reality headset in Fig. 6.1 contains a display and a lens, as shown in Fig. 6.2. The display is the object for the lens. The lens acts as a magnifying glass and forms a virtual image of the display.",
+    "image": "Fig. 6.1 shows a person wearing a virtual reality headset, with labels indicating 'display' (internal) and 'virtual reality headset'. Fig. 6.2 (not to scale) provides a cross-sectional view of the headset's optical components, including an 'eye' on the right, a 'lens' in front of the eye, and a 'display' screen to the left of the lens. Fig. 6.3 shows a grid for a ray diagram. A vertical line represents lens 'L'. An object arrow 'O' is drawn to the left of the lens. A larger, virtual image arrow 'I' is also drawn to the left of the object. A scale indicates '1 cm represents 2 cm'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe where the display must be positioned relative to the focal length of the lens for the lens to act as a magnifying glass for the image on the display.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how a virtual image is formed.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 6.3, draw a ray diagram to show the formation of the virtual image I.",
+        "image": "The provided grid in Fig. 6.3, containing the pre-drawn object 'O', lens 'L', and virtual image 'I' at their scaled positions, serves as the workspace for drawing the required ray diagram to illustrate image formation."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the focal length of the lens.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q7",
+    "Question_text": "A water wave in a ripple tank diffracts as it passes through the gap in a barrier. Fig. 7.1 shows a drawing made by a student of the crests in the pattern.",
+    "image": "Fig. 7.1 shows a diagram illustrating wave diffraction. Straight parallel wave crests approach a barrier with a gap. After passing through the gap, the crests are drawn as curved lines, depicting diffraction. Fig. 7.2 shows a barrier with a gap that is smaller than the wavelength, with incident straight parallel wave crests approaching from the left. The region immediately after the gap is empty, indicating the area where the new diffraction pattern is to be completed.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank",
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State one way in which the student's drawing of the crests is wrong.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The gap in the barrier is now made smaller than the wavelength, as shown in Fig. 7.2. Complete Fig. 7.2 with at least three crests to show the new diffraction pattern.",
+        "image": "The provided space in Fig. 7.2, which depicts a narrow gap in a barrier with incident straight waves, requires the completion of the diagram by drawing at least three concentric, semicircular wave crests originating from the narrow gap, illustrating a pronounced diffraction pattern."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Define the term 'wavelength'.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the frequency of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Calculate the wavelength of the wave in the shallow part of the tank.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q8",
+    "Question_text": "A filament lamp is arranged above a shiny metal surface, as shown in Fig. 8.1. A student reads in a textbook that a light-emitting diode (LED) is more efficient than a filament lamp.",
+    "image": "Fig. 8.1 shows a filament lamp suspended above a shiny metal surface, highlighting an experimental setup often used to demonstrate reflection or heat transfer. Table 8.1 presents a comparison of a filament lamp and an LED, with columns for 'input power/W' and 'energy efficiency'. For the filament lamp, input power is 120 W and efficiency is 6.2%. For the LED, input power is 15 W, with its efficiency left blank for calculation.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Energy Stores & Transfers",
+      "Electrical Safety",
+      "Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by 'efficiency'.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Suggest why the efficiency of a filament lamp is very low.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student considers replacing the filament lamp shown in Fig. 8.1 with an LED of the same brightness. Data about the filament lamp and a suitable LED are shown in Table 8.1. The LED emits the same amount of visible light as the filament lamp. Using this information and the data in Table 8.1, determine the efficiency of the LED.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe what then happens.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "In another similar lamp, the fuse is wrongly connected into the earth wire. Explain why a person is not protected when the live wire touches the shiny metal surface.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q9",
+    "Question_text": "Fig. 9.1 shows a simple a.c. generator.",
+    "image": "Fig. 9.1 provides a schematic diagram of a simple a.c. generator. A rectangular 'coil' (labeled ABCD with AB on the left) is shown rotating between the North (N) and South (S) poles of a magnet. The ends of the coil are connected to 'slip rings', which make contact with stationary 'brush' components. These brushes are connected to a 'voltage output'. Fig. 9.2 shows a matching exercise with four shaded boxes listing coil positions: 'coil horizontal with AB on the left', 'coil horizontal with AB on the right', 'coil vertical with AB on the top', 'coil vertical with AB on the bottom'. On the right are three circled voltage values: '+6.0V', '0V', '-6.0V'. A line is already drawn connecting 'coil horizontal with AB on the left' to '+6.0V'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Electric Motors",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why there is a voltage induced in the coil when the coil is turned.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In Fig. 9.1 the coil is horizontal, with side AB on the left. The output voltage is +6.0V. On Fig. 9.2 draw a line from each of the shaded boxes to one of the circled voltages to show the voltage output when the coil is in different positions. One line has been drawn for you.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Fig. 9.1 shows how the brushes are connected to the coil in an a.c. generator. Draw a diagram to show how the brushes are connected to the coil in a d.c. motor.",
+        "image": "An empty space is provided for drawing a circuit diagram illustrating the connection of brushes to the coil in a d.c. motor, specifically showing a split-ring commutator."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State why there are forces on the sides of the coil in a d.c. motor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q10",
+    "Question_text": "Carbon-14 is an isotope of carbon. It undergoes radioactive decay with a half-life of 6000 years. The age of a sample of wood is found using the carbon-14 that it contains.",
+    "image": "Fig. 10.1 shows an empty graph grid for plotting 'count rate counts/minute' on the y-axis (from 0 to 1600) against 'time/years' on the x-axis (from 0 to 24000). An 'x' mark is already present at the initial count rate (0, 1600), where the graph of radioactive decay is expected to be drawn.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "Radioactive Decay",
+      "Half-Life",
+      "Detection of Radioactivity",
+      "Uses of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe what happens during radioactive decay.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The count rate of the carbon-14 in the sample of wood is initially 1600 counts/minute. On Fig. 10.1 draw a graph to show how the count rate will vary over the next 24000 years. The initial count rate is already marked with an x.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Name the apparatus used to measure the radiation from the sample of wood and describe how it is used to measure the count rate.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe how the count rate from a sample of wood is used to find its age.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/21/M/J/23/Q11",
+    "Question_text": "Table 11.1 shows details about eight planets in the solar system, their average distance from the Sun, their orbital period and their average surface temperature.",
+    "image": "Table 11.1 presents astronomical data for eight planets in the solar system, with columns for 'planet', 'distance from the Sun/km', 'orbital period/s', and 'average surface temperature/°C'. The table includes data for Venus, Earth, Mars, Saturn, and Neptune, but leaves the 'planet' names blank for Mercury, Jupiter, and Uranus, requiring these to be filled in.",
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "The Solar System",
+      "Orbiting Bodies",
+      "Calculating Orbital Speeds"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete Table 11.1 by adding the names of the three planets that are not given.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the orbital speed of Mars as it travels around the Sun.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe the relationship between the distance of a planet from the Sun and its orbital period.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe the relationship between the distance from the Sun and the average surface temperature of a planet. In your description, include any anomalies.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "ABCD is a level field. F and E are points on AD such that BF and CE are perpendicular to AD. BF = 40 m and CE = 58 m. AF = 34 m, FE = 38 m and ED = 42 m. (a) Calculate the area of the field. (b) Calculate the length of BC. (c) Calculate CÔDE.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "(a) The results of a survey of the number of cars owned by 50 families are given in the table Number of cars 0 1 2 3 Number of families 4 35 6 5 (i) Calculate the mean number of cars per family. (ii) When the same 50 families were surveyed at a later date, the results were as follows. Number of cars 0 1 2 3 Number of families X 37 y 5 The mean number of cars per family stayed the same as before. Find x and y. (b) A service station sells diesel, unleaded and super unleaded fuel. During one week, 13500 litres of diesel and 36000 litres of unleaded were sold. The total number of litres of fuel sold that week was 54000. (i) What fraction of the total number of litres sold was super unleaded? Give your answer in its lowest terms. (ii) Complete the pie chart to represent the amounts of fuel sold.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "(a) Find the value of a + √a² + b² / a² - 2ab when a = -4 and b = -3. Give your answer as a fraction. (b) Expand the brackets and simplify (3x² - 1)(2x + 3) – x(9x – 2). (c) (i) Factorise 9x² + 5x - 4. (ii) Use your answer to part (c)(i) to solve the equation 9x2 + 5x-4 = 0. (d) The sum of three consecutive integers is 84. Find these three integers.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "(a) AB and BC are chords of a circle centre O. D is the midpoint of AB and E is the midpoint of BC. ABC = 108°. Find DÕE giving your reasons. (b) A circle centre P and a circle centre Q intersect at R and S. (i) Show that triangle PRQ is congruent to triangle PSQ. (ii) RS and PQ intersect at T. (a) State the name of the special quadrilateral PRQS. (b) Find PTR.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "(a) = {x: x is an integer and 2 ≤ x ≤ 12} M = {x : x is a multiple of 3} P = {x : x is a prime number} (i) a∈MOP Find a. (ii) Find (MP)΄. (b) In a survey, 90 people were asked “Do you own a car?” and “Do you own a bicycle?”. A total of 27 people said they owned a bicycle. Of these, 13 owned only a bicycle. 11 people owned neither a car nor a bicycle. By drawing a Venn diagram, or otherwise, find how many people said that they owned a car. (c) The Venn diagrams show a Universal set, &, and subsets A, B and C. (i) Shade the set (AUC)'∩B. (ii) Express in set notation the subset shaded in this diagram.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "(a) (i) The cost price of bicycle A is $620. The shopkeeper sells it and makes a profit of 45%. Calculate the selling price. (ii) In a sale, the price of bicycle B is reduced from $2400 to $1596. Calculate the percentage reduction given. (iii) Tax on the original price of bicycle C is charged at 20% of the original price. After tax has been included, Matthew pays $1080 for this bicycle. Calculate the original price. (b) Ada invests $600 in an account that earns simple interest. At the end of 3 years, the investment is worth $681. Calculate the rate of simple interest per year.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Express as percentage",
+      "Calculate percentage change",
+      "Calculate simple interest",
+      "Calculate compound interest",
+      "Calculate reverse percentages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "(a) Express as a single matrix 2 1 / 5-1 -4/ 3 0 / -3. (b) Express as a single matrix 1 -1 3 / 2 0 4/ 2 / (c) A=(1 0 / -2 4 (i) Find A¯¹. (ii) B + 3I = A where I is the 2 × 2 identity matrix. Find B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Describe translation using vector",
+      "Add and subtract vectors",
+      "Multiply vector by scalar"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The diagram shows a sector AOB of a circle with centre O and radius 6 cm. The angle of the sector is 310°. (a) Calculate the total perimeter of the sector. (b) Calculate the area of the sector. (c) This sector is cut from a rectangular piece of card of height 12 cm and width w cm. One edge of the rectangular piece of card passes through A and B. The other edges are tangents to the circle. (i) Calculate the value of w. (ii) When the sector is cut out, the triangle AOB is retained. The rest of the rectangular piece of card, shown shaded, is discarded as waste. Calculate the percentage of the rectangular piece of card that is discarded as waste.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving circumference and area of a circle",
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "The variables x and y are connected by the equation y = x + 1 / X The table below shows some values of x and the corresponding values of y. The values of y are correct to 2 decimal places where appropriate. x 0.25 0.5 0.75 1 1.25 1.5 1.75 2 y 4.25 2.5 2.08 2 2.05 2.17 2.32 2.5 (a) On the grid, plot the points given in the table and join them with a smooth curve. (b) By drawing a tangent, estimate the gradient of the curve when x = 0.75. (c) Let f(x) = x + 1 / x (i) Given that f(a) = b, find f(− a)in terms of b. (ii) Hence, or otherwise, complete the table below for y y=x+ 1 /x x -2 -1.75 -1.5 -1.25 -1 -0.75 -0.5 -0.25 y -2 (iii) On the grid opposite, draw the graph of y = x + 1 /x for -2≤x≤-0.25. (iv) Write down an estimate for the gradient of the curve when x =-0.75. (d) (i) On the grid opposite, draw the graph of the straight line y = 4 - x. (ii) Write down the x-coordinate of each of the points where the graphs of y = 4-x and y = x + 1 intersect. (iii) Find the equation for which these x values are the solutions. Give your equation in the form Ax² + Bx + C = 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "(a) Two boats sail from A. One boat sails to B, and the other boat sails to C. AB = 8km, AC = 6km and BẬC = 115°. (i) Calculate the distance, BC, between the boats. (ii) The bearing of B from A is 200°. Find the bearing of A from C. (b) In triangle PQS, SQP = 65° and QŜP = 44°. R is the point on QS such that QR = 200m and RPS = 36°. (i) In triangle PQR, by using the sine rule, show that PR 200 sin 65 / sin 35 (ii) Hence show that SR 200 sin 65 sin 36 / sin 35 sin 44 (iii) Hence find the length of SR. (iv) Hence evaluate area of triangle SPQ / area of triangle PQR",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle",
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "(a) Express as a single fraction, in its simplest form, 7 /p+2 - 4 / 2p-3. (b) The distance between London and York is 320 km . A train takes x hours to travel between London and York. (i) Write down an expression, in terms of x, for the average speed of the train. (ii) A car takes 2½ hours longer than a train to travel between London and York. The average speed of the train is 80 km/h greater than the average speed of the car. Form an equation in x and show that it simplifies to 2x² + 5x − 20 = 0. (iii) Solve the equation 2x² + 5x − 20 = 0, giving your answers correct to 2 decimal. (iv) Hence find the average speed of the car correct to the nearest km/h.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "(a) B F C G D A H E (i) AD =(1 /0) Calculate AD. (ii) AE =(2 /1) H is the midpoint of AD. Find EH. (iii) BF = (1.5 / 0) CG = (0.5 / -1.5) F is the midpoint of BC. Find FG. (iv) Use your answers to parts (ii) and (iii) to complete the following statement. The lines EH and FG are ___________________ and _______________. (v) Given that E is the midpoint of AB, show that G is the midpoint of CD.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Represent vectors by directed line segments",
+      "Use position vectors",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "(b) Triangle A has vertices (1, 2), (1, 5) and (3, 5). (i) An enlargement, centre (1, 2), scale factor 1.5, maps triangle A onto triangle B. Draw triangle B. (ii) An enlargement, centre (1, 2), scale factor -0.5, maps triangle A onto triangle C. Draw triangle C. (iii) Find the ratio area of triangle C: area of triangle B.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor",
+      "Recognise, describe and draw translation of shape by vector"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "How should the owner of a business use his financial statements?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.4 Interested parties",
+    "Sub_topic": [
+      "Uses by owners/managers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "A business had the following assets and liabilities. What was the owner's capital after the transaction?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Apply accounting equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Sarah sells goods on credit to Zafar. How is this recorded in Sarah's ledgers?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Post transactions ledgers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Which statement about a debit note is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.2 Business documents",
+    "Sub_topic": [
+      "Recognise business documents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Hassan maintains a sales journal, purchases journal, sales returns journal and a purchases returns journal. At the end of each month, Hassan transfers the totals of these journals to the ledger. Which entries will Hassan make in his ledger to record these totals?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Use/process prime entry books",
+      "Post from prime entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "At the end of April the discount column on the debit side of a three column cash book showed entries of $80 and $60. How is this recorded in the ledger?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Post from prime entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "On 1 May a trader's bank statement showed an overdraft of $80. The following were recorded in the cash book but did not appear on the bank statement. What was the balance in the cash book on 1 May?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The following account appeared in the books of Abdul. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "On 1 January 2014 a trader owed one month's rent. During the year rent was paid by a cheque. On 31 December 2014 two month's rent was prepaid. How did the trader calculate the rent for the year ended 31 December 2014?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid expenses",
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "At the end of the financial year, Ryan had accrued motor expenses of $200. How will this appear in Ryan's ledger and statement of financial position?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid expenses",
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "A business maintains a provision for doubtful debts of 2% of trade receivables. On 1 January 2014 the provision was $1000. On 31 December 2014 the trade receivables amounted to $150000. Which entry should be made on 31 December 2014?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record/adjust doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Ezra received the following cheques. How did Ezra classify these receipts?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Distinguish capital/revenue receipts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Repairs to a motor vehicle were debited in error to the motor vehicles account. How does this affect the profit for the year and the non-current assets in the statement of financial position?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Effect on profit incorrect treatment",
+      "Effect on assets incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "What is the formula for calculating the depreciation for the year using the revaluation method?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Depreciation methods description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "A vehicle purchased for $15000 was sold four years later for $2000. The balance on the provision for depreciation account was $12000 at the date of sale. What was the profit or loss on the sale?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Ledger/journal for disposals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Carla is preparing her sales ledger control account. Where will she obtain information about contra entries?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "On 1 January 2014 Kim's net assets totalled $70000. On 31 December 2014 they totalled $55000. During the year Kim withdrew $4000 for personal use. What was the profit or loss for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate profit/loss capital change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "How should inventory be valued?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Inventory valuation basis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "How is capital employed calculated?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Capital structure understanding"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Amelia is a photographer. She provided the following information. How much would be entered for fees in the income statement?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Prepare income statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "In the accounts of a partnership, where would interest on drawings appear?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Record partner interests/salaries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Clear is a sole trader making annual profits of $24000. He decides to admit Deep as a partner. They agree that Clear would receive salary, and profits and losses would be shared equally. The forecast appropriation account for the partnership's first year of trading is: By how much will Clear's total income increase?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Prepare statements/appropriation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "At the end of the financial year, some members of Allsports Club had not paid their subscription. How will these unpaid subscriptions be recorded by Allsports Club?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Prepare income/expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "What is similar to a statement of affairs?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Prepare statements of affairs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Vivek provided the following information for the month of April. What were purchases for April?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Use/process prime entry books"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "A limited company provided the following information. What were the retained earnings on 31 December?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Prepare company statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Martha received gross pay of $1000 per month. Her employer provided the following information. What was Martha's net pay for the month?",
+    "image": null,
+    "Unit": "N/A",
+    "Topic": "N/A",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "A company provided the following information about its current ratio. What would explain the changes in the ratio?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "What is the going concern principle?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "The payment of an insurance premium was entered in the cash book and in the insurance account. Which accounting principle was applied?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

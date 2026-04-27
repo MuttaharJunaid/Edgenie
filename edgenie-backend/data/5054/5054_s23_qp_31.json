@@ -1,0 +1,170 @@
+[
+  {
+    "QuestionNumber": "May-June/31/2023/Q1",
+    "Question_text": "In this experiment you will investigate specific heat capacity. You are provided with: • a 100 cm³ beaker labelled A with a mark at the 25 cm³ level • a beaker of water labelled B • a thermometer • access to a 50 g mass at 100°C.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Pour 25 cm³ of water from beaker B into beaker A. Measure and record the temperature θ₁ of the water. Place the thermometer back on the bench.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The supervisor has placed some 50 g masses in boiling water. Each mass has been tied to a length of string. Take beaker A to where the masses are in boiling water. Using the string, remove one mass from the boiling water and place it carefully in the beaker. Do not touch the mass. Allow the string to hang over the side of beaker A and return beaker A to your workstation.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure and record the maximum temperature θ₂ of the water in beaker A.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how you make sure that your value of θ₂ is as accurate as possible.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Beaker A has a capacity of 100cm³ and beaker B has a capacity of 250cm³. Explain why beaker A is more suitable for this experiment than beaker B.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Calculate the specific heat capacity c_m of the 50g mass using the equation: c_m = 2.1 (θ₂ - θ₁) / (100 – θ₂) Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe two sources of error in the method used to determine c_m.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest two improvements to the method.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2023/Q2",
+    "Question_text": "In this experiment you will investigate a thermistor. You are provided with: • a battery of cells • a switch or plug key • a fixed resistor • a thermistor • a voltmeter • a thermometer • connecting leads • a beaker containing ice and water. The supervisor has assembled the apparatus shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a circuit diagram. A battery of cells is connected in series with a switch, a fixed resistor, and a thermistor. A voltmeter is connected in parallel across the thermistor. Connecting leads complete the circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Measurement",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw a circuit diagram of the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "There is a thermometer attached to your bench by a small amount of adhesive putty. Record the temperature T_W on the thermometer. This is room temperature. Close the switch. Record the reading V_W on the voltmeter Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "There is a beaker containing ice and water near the thermistor. Carefully move the beaker closer to the circuit and submerge the thermistor in the cold water in the beaker. Wait about one minute until the reading on the voltmeter is steady. Record the new voltage V_C. Remove the thermistor from the cold water.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Assume that the temperature T_C of the ice and water is 0°C. Calculate the average change in voltage for one degree temperature change ΔV_AV using the equation: ΔV_AV = (V_C - V_W) / (T_W - T_C) State the unit of your answer.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Use your answer to (d)(i) to predict the voltage V_PB across the thermistor when the thermistor is at body temperature. Body temperature is 37°C. You may assume that the average change in voltage for one degree temperature change ΔV_AV is constant.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "A student suggests that if the thermistor is held between a thumb and forefinger for two minutes, the reading on the voltmeter will be the same as the predicted voltage V_PB in (d)(ii). Two quantities are considered to be equal, within the limits of experimental accuracy, if their values are within 10% of each other. Hold the thermistor between your thumb and forefinger for two minutes, until the voltmeter shows a new steady reading. Read and record this voltage V_AB. State whether the student's results indicate that V_PB and V_AB are equal within the limits of experimental accuracy. Support your statement with a calculation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2023/Q3",
+    "Question_text": "In this experiment you will investigate a falling mass. You have been provided with: • a pulley attached to a stand • two 100g mass hangers attached by a length of string • a metre rule • a stop-watch • one piece of adhesive putty labelled 5.0g • four other pieces of putty each with mass 2.0g. The supervisor has set up the apparatus as shown in Fig. 3.1. Do not remove the pulley from the stand.",
+    "image": "Fig. 3.1 shows a diagram of an experiment to investigate a falling mass. A clamp stand supports a pulley. A string passes over the pulley, with mass hanger A suspended on one side and mass hanger B on the other. Mass hanger B hangs off the side of a bench, which has a heavy weight placed on it for stability. The height 'h' is indicated as the vertical distance from the bottom of mass hanger A to the floor.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Acceleration",
+      "Measurement",
+      "Distance-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The bottom of mass hanger A is at a height h above the floor as shown in Fig. 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure h.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe one source of error when measuring h and suggest one improvement to the procedure to reduce this error.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the piece of adhesive putty labelled 5.0g on mass hanger A.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Take two measurements t₁ and t₂ of the time it takes for the mass hanger to fall to the floor and determine the average time t_AV for the mass hanger to fall to the floor. You may need to give the hanger a gentle push to start the movement. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Add one 2.0g piece of adhesive putty to hanger A. There is now a total mass m of 7.0g of putty on the hanger. Repeat (b)(i). Continue adding further 2.0g masses, one at a time, and repeating (b)(i) until there is a total mass m of 13.0g of putty on the hanger. Record all your measurements, including (b)(i), in Table 3.1. Complete the headings and give units.",
+        "image": "Table 3.1 is an empty table with several rows and columns, designed for recording data from the experiment. The first column heading is 'total mass m of putty on hanger', and the first data row has '5.0' pre-filled in this column. Other columns are blank, awaiting headings for time measurements (e.g., t1, t2, tAV)."
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid provided on page 9, plot a graph of time t_AV on the y-axis against the total mass m of putty on the x-axis. Draw the best-fit curve.",
+        "image": "A blank grid for plotting a graph of time t_AV on the y-axis against total mass m on the x-axis, covering page 9."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe the relationship between t_AV and m shown by the graph.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2023/Q4",
+    "Question_text": "A student attaches a propeller to an electric motor driven by a 0 to 12Vd.c. power supply as shown in Fig. 4.1. Moving air from the propeller exerts a force on the balance. Plan an experiment to investigate how this force varies with the voltage of the power supply. The following apparatus is available: an electric motor, an electronic balance, a power supply, a propeller, a voltmeter. You can also use other apparatus and materials that are usually available in a school laboratory. You are not required to do this investigation. In your plan, you should: • explain briefly how to carry out the investigation • state the key variables to control • draw a table, with column headings, to show how to display your readings (you are not required to enter any readings in the table) • explain how to use your readings to reach a conclusion.",
+    "image": "Fig. 4.1 shows a diagram of an experimental setup. A clamp stand supports an electric motor with a propeller attached. The electric motor is connected to a 0 to 12 volt d.c. power supply. Below the propeller, an electronic balance is positioned, indicating that the force exerted by the moving air from the propeller on the balance will be measured.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Electromotive Force & Potential Difference",
+      "Newton's Second Law",
+      "Measurement"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "QuestionNumber": "October-November/12/2013/Q1",
+    "Question_text": "A length of copper pipe, of uniform cross-section and several metres long, carries water to a tap. Measurements are taken to determine accurately the volume of copper in the pipe. Which instruments are used?",
+    "image": "A diagram showing a cross-section of a copper pipe with an arrow indicating a measurement of '2 cm' across its outer diameter.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q2",
+    "Question_text": "An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5m/s velocity at Q = 12m/s What is the acceleration?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q3",
+    "Question_text": "The graph shows how the height of an object above the ground changes with time. What is the terminal velocity?",
+    "image": "A graph showing height above ground (m) on the y-axis against time (s) on the x-axis. The curve starts at 4m height at 0s, decreases non-linearly, becoming steeper before levelling off at 0m around 2.2-2.5s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q4",
+    "Question_text": "A skier of mass 80 kg accelerates down a slope at 2m/s². The gravitational field strength g is 10N/kg. What is the weight of the skier and the resultant force on the skier?",
+    "image": "A diagram of a skier on a sloped surface. An arrow labeled 'acceleration' points downwards along the slope, indicating the direction of motion.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q5",
+    "Question_text": "The diagram shows an aeroplane turning in a horizontal circle at constant speed. In which direction is there a resultant force?",
+    "image": "A top-down diagram of an aeroplane banking and turning in a horizontal circle. Four arrows (A, B, C, D) originate from the center of the aeroplane. Arrow A points towards the center of the circular path. Arrow B points forward. Arrow C points backward and inward. Arrow D points directly outward from the side of the aeroplane.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q6",
+    "Question_text": "The weight of a cylinder on the Moon is less than its weight on the Earth. How do the gravitational field strength and the mass of the cylinder on the Moon compare with their values on the Earth?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q7",
+    "Question_text": "Two stretched springs X and Y are attached to one end of a metre rule as shown. A weight W is hung from the other end. A pivot is at the centre of the rule. The weight W is moved towards the pivot. How does the extension of each spring change?",
+    "image": "A diagram showing a metre rule balanced on a pivot at its center. A spring X is attached to the left side of the rule, extending upwards to a fixed ceiling. A spring Y is attached to the right side of the rule, extending downwards to a fixed floor. A weight W is hung from the far left end of the rule.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q8",
+    "Question_text": "A piece of uniform card is suspended freely from a horizontal pin. Which point is its centre of mass?",
+    "image": "A diagram of an irregularly shaped piece of card suspended from a pin at its top edge. A vertical line extends downwards from the pin, passing through points A, B, C, and D, which are marked inside the card along this line from top to bottom.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q9",
+    "Question_text": "An extension-load graph is plotted to show the result of increasing the load on a spring. Which point marks the limit of proportionality for this spring?",
+    "image": "A graph showing extension on the y-axis versus load on the x-axis for a spring. The graph is initially a straight line passing through the origin up to point A. After point A, the curve bends and continues through points B, C, and D, where D is the highest load and extension shown.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q10",
+    "Question_text": "Two vessels S and T are filled to the same level with the same liquid. The area of the base of S is less than that of T. Which statement is correct?",
+    "image": "Two diagrams of open vessels, S and T, on a horizontal surface, filled with liquid to the same height. Vessel S is a narrow cylinder, and vessel T is a wider cylinder, indicating that the base area of S is less than that of T.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q11",
+    "Question_text": "Four different liquids are poured into identical measuring cylinders. The diagrams show the depths of the liquids and their densities. Which liquid causes the largest pressure on the base of its measuring cylinder?",
+    "image": "Four identical measuring cylinders, labeled A, B, C, and D, each containing a different liquid. The depth of the liquid and its density are indicated for each: A (10 cm, 2.0 g/cm³), B (20 cm, 1.6 g/cm³), C (30 cm, 1.2 g/cm³), D (40 cm, 0.7 g/cm³).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q12",
+    "Question_text": "The conditions at the bottom and at the surface of a lake are given in the table. bottom of lake: temperature 10°C, pressure 500 kPa. surface of lake: temperature 10°C, pressure 100 kPa. A bubble of volume 1.0 cm³ forms at the bottom of the lake. What is the volume of the bubble as it reaches the surface?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Gases & Absolute Temperature",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q13",
+    "Question_text": "When exposed to light, a solar cell generates electrical energy. Two solar cells of equal area are tested. Each cell is exposed to sunlight of different brightness for the same time. Which statement could apply to the more efficient cell?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Energy Resources",
+      "Energy from the Sun"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q14",
+    "Question_text": "The diagram shows the path of a diver after leaving a platform and before entering the water in a swimming pool. The gravitational potential energy of the diver is zero when he is at the surface of the water. Which statement about the diver's energy along the path is correct?",
+    "image": "A diagram illustrating a diver jumping from a platform and following a parabolic trajectory towards the water. The platform is shown on the left, and the water surface as a dashed line at the bottom. Point X is marked near the apex of the diver's path.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Conservation of Energy",
+      "Kinetic Energy",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q15",
+    "Question_text": "A saucepan is used to heat up some water. How is heat transferred through the aluminium pan and through the plastic handle?",
+    "image": "A cross-sectional diagram of a saucepan on a hot plate, heating water. The pan is labeled 'aluminium pan' and the handle is labeled 'plastic handle'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q16",
+    "Question_text": "A silver cup is filled with boiling water from a kettle. A man touches the outside surface of the cup and finds that it is extremely hot. Why is the surface so hot?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q17",
+    "Question_text": "The temperature shown by a mercury-in-glass thermometer increases. Which of the following is constant?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q18",
+    "Question_text": "Different amounts of energy are supplied to copper blocks of different masses. Which block experiences the greatest temperature change?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q19",
+    "Question_text": "A fixed mass of gas is kept at constant pressure. Its temperature is raised. What happens to the volume of the gas and to its molecules?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q20",
+    "Question_text": "Air is heated in a sealed container with constant volume. Why does the air pressure increase when the temperature increases?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q21",
+    "Question_text": "The more energetic molecules in a liquid may escape from its top surface. What is this process called?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q22",
+    "Question_text": "The diagram shows a ball floating in a tank of water. Which diagram shows the movement of the ball as the wave passes?",
+    "image": "A diagram showing a tank of water with a ball floating on the surface. A wave is shown propagating from left to right. Below this, four smaller diagrams (A, B, C, D) illustrate different types of motion for the ball: A (horizontal oscillation), B (another form of horizontal oscillation), C (circular motion), D (vertical oscillation).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q23",
+    "Question_text": "A ray of red light from a laser passes into a semi-circular glass block. What is shown at M?",
+    "image": "A diagram illustrating a ray of red light from a laser entering a semi-circular glass block through its flat face, passing through the center, and then exiting the curved face. Point M is indicated at the exit point on the curved surface, where the light ray bends away from the normal.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q24",
+    "Question_text": "A ray of light strikes the surface of a glass block at an angle of incidence of 45°. The refractive index of the glass is 1.8. What is the angle of refraction inside the block?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Snell's Law",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q25",
+    "Question_text": "Two campers are woken up in the middle of the night by a thunderstorm. Their tent is lit up by a flash of lightning and they hear the thunderclap 5.0 s later. The speed of sound is 340m/s. How far away from the tent is the lightning?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q26",
+    "Question_text": "The sounds produced by two musical instruments are directed towards a microphone connected to an oscilloscope (c.r.o.). The waveforms produced on the screen are shown. The waveforms show that the sounds produced have a different property. What is the property?",
+    "image": "Two oscilloscope waveforms are displayed. The top waveform shows a smooth, undulating wave. The bottom waveform shows a more complex, jagged wave with the same fundamental frequency but different overtones/harmonics, indicating a difference in wave shape.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q27",
+    "Question_text": "Which material is best for magnetic screening?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q28",
+    "Question_text": "An ammeter is used to measure the current in a 300Ω resistor. The ammeter is shown below. What is the potential difference across the resistor?",
+    "image": "A diagram of an analog ammeter with a scale from 0 to 10 mA, marked with divisions for 2, 4, 6, 8. The needle points exactly to 6 mA.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q29",
+    "Question_text": "The diagram shows a circuit in which all the switches are open. Which switch positions give a resistance of 6.0Ω between X and Y?",
+    "image": "A circuit diagram showing two 3.0Ω resistors in parallel, each with a series switch (S1 for the top 3.0Ω, S2 for the bottom 3.0Ω). This parallel combination is then connected in series with a 4.5Ω resistor and a switch S3, leading to terminals X and Y. X is at the beginning of the parallel branches, and Y is after S3.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q30",
+    "Question_text": "Which is the current/voltage (I/V) graph of a filament lamp?",
+    "image": "Four graphs plotting current (I) on the y-axis against voltage (V) on the x-axis. Graph A shows a curve that becomes less steep as voltage increases. Graph B shows a straight line through the origin. Graph C shows a curve that becomes steeper as voltage increases. Graph D shows a straight line that starts from a non-zero current at zero voltage.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q31",
+    "Question_text": "The diagram shows a circuit containing five resistors connected to a battery. In which resistor is the current the smallest?",
+    "image": "A circuit diagram with a battery. Resistor A (50Ω) is in parallel with a complex network of resistors. This network consists of two parallel branches: one with resistors B (10Ω) and C (30Ω) in series, and another with two 40Ω resistors (labeled D and an unlabeled 40Ω) in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q32",
+    "Question_text": "The diagram shows a wire placed between two magnetic poles of equal strength. A current passes through the wire in the direction shown. The current causes a downward force on the wire. What is the arrangement of the magnetic poles?",
+    "image": "A 3D perspective diagram showing a wire positioned horizontally between two magnetic poles. An upward arrow indicates the 'direction of current' in the wire. A downward arrow indicates the 'direction of force' acting on the wire. Four separate diagrams show different possible arrangements of North (N) and South (S) poles above and below the wire.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q33",
+    "Question_text": "The graph shows the output of an a.c. generator. The coil in the generator rotates 20 times in one second. The speed of rotation of the coil steadily increases. Which graph best shows how the output changes?",
+    "image": "An initial graph displaying the output potential difference (p.d./V) of an AC generator over time (s), showing a sinusoidal wave with a peak voltage of +1V and a period of 0.10s. Below this, four additional graphs (A, B, C, D) are provided, each illustrating different changes to the waveform's amplitude and frequency.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q34",
+    "Question_text": "There is a bright spot on the screen of a cathode-ray oscilloscope (c.r.o.). This is caused by fast-moving particles. What are these particles?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q35",
+    "Question_text": "A thermistor and a light-dependent resistor are connected in series. Which conditions give the largest resistance?",
+    "image": "Four diagrams, each showing a thermistor and a light-dependent resistor (LDR) connected in series. Each diagram specifies the condition for the thermistor as 'cold' or 'hot' and for the LDR as 'dark' or 'light'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q36",
+    "Question_text": "Three types of radiation emitted by unstable nuclei are helium nuclei, short wavelength electromagnetic waves and electrons. What are these three types of radiation?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q37",
+    "Question_text": "Which row is correct for nuclear fission and for nuclear fusion?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q38",
+    "Question_text": "Which graph shows how the count rate of a radioactive isotope varies with time?",
+    "image": "Four graphs of count rate versus time. Graph A shows an exponential decay. Graph B shows a linear decrease. Graph C shows an exponential increase. Graph D shows a linear increase.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q39",
+    "Question_text": "For which purpose is the radioactive isotope carbon-14 used?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Uses of Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2013/Q40",
+    "Question_text": "A nucleus of phosphorus (³²₁₅P) emits a beta-particle to form a new nucleus. What is the nucleon number and what is the proton number of the new nucleus?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  }
+]

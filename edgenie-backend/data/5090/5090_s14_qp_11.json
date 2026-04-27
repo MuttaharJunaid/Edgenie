@@ -1,0 +1,629 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which of the following have both cytoplasm and cell walls?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Examine animal and plant cells",
+      "Draw animal and plant cells",
+      "Identify animal cell structures",
+      "Identify plant cell structures",
+      "Bacterial cell structure",
+      "Functions of cell structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Plant cells are placed in a solution with a lower water potential than that of the cells. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Water as solvent",
+      "Energy for diffusion/osmosis",
+      "Diffusion definition",
+      "Factors influencing diffusion",
+      "Osmosis definition",
+      "Plant cell water support",
+      "Osmosis effects on tissues",
+      "Effects on plant tissues",
+      "Investigate osmosis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Which diagram illustrates the process of active transport?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.2 Active transport",
+    "Sub_topic": [
+      "Active transport definition",
+      "Ion uptake by roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "A bacterium lives in hot springs at temperatures of 75°C to 85 °C. Which graph represents the activity of enzymes found in these bacteria?",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.2 Effects of temperature and pH",
+    "Sub_topic": [
+      "Measuring enzyme reactions",
+      "Investigate temperature/pH effects",
+      "Explain temperature/pH effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "The diagram shows the structure of a leaf of a dicotyledonous plant. What are the functions of the parts labelled on the diagram?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.2 Leaf structure",
+    "Sub_topic": [
+      "Leaf adaptations",
+      "Leaf structures adaptations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "The diagram refers to some substances found in plant cells. Which area of the diagram represents the end products of photosynthesis?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis definition",
+      "Chlorophyll pigment",
+      "Chlorophyll energy transfer",
+      "Uses of carbohydrates",
+      "Photosynthesis equations",
+      "Investigate requirements",
+      "Factors affecting rate",
+      "Investigate rate effects",
+      "Limiting factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "The diagrams show an experiment to find the rate of photosynthesis in an aquatic plant in different conditions. Which plant produces the most bubbles per minute?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis definition",
+      "Chlorophyll pigment",
+      "Chlorophyll energy transfer",
+      "Uses of carbohydrates",
+      "Photosynthesis equations",
+      "Investigate requirements",
+      "Factors affecting rate",
+      "Investigate rate effects",
+      "Limiting factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which symptom of malnutrition can be treated by an increased amount of protein in the diet?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.1 Diet",
+    "Sub_topic": [
+      "Nutrient sources importance",
+      "Deficiency diseases symptoms",
+      "Balanced diet concept"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "The table shows the rates of absorption of two different sugars, arabinose and glucose, in living and dead intestines. The concentrations of the sugars inside the intestines were the same in each case. What are the main methods of absorption of arabinose and glucose in living intestine?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.3 Absorption and assimilation",
+    "Sub_topic": [
+      "Small intestine absorption",
+      "Absorption processes",
+      "Assimilation definition",
+      "Villus structure roles",
+      "Villi surface area increase",
+      "Water absorption sites",
+      "Hepatic portal vein function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The table describes some characteristics of four people. Which person requires the highest energy intake in their diet?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.1 Diet",
+    "Sub_topic": [
+      "Nutrient sources importance",
+      "Deficiency diseases symptoms",
+      "Balanced diet concept"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "The diagram shows a section through the stem of a dicotyledonous plant. Which tissue transports sugars through the stem?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Transpiration definition",
+      "Water evaporation in leaves",
+      "Factors and wilting",
+      "Investigate transpiration effects",
+      "Transpiration pull mechanism",
+      "Translocation definition",
+      "Tissues in roots/stems",
+      "Xylem functions",
+      "Xylem vessel structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Which effects will an increase in temperature and an increase in humidity have on the transpiration rate of a plant?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Transpiration definition",
+      "Water evaporation in leaves",
+      "Factors and wilting",
+      "Investigate transpiration effects",
+      "Transpiration pull mechanism",
+      "Translocation definition",
+      "Tissues in roots/stems",
+      "Xylem functions",
+      "Xylem vessel structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Which sequence shows the shortest route taken by blood travelling from a leg to an arm in the human body?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.1 Circulatory system",
+    "Sub_topic": [
+      "Circulatory system description",
+      "Double circulation description",
+      "Double circulation advantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "The diagram shows a section through part of a vein. What could be the first organs found in the directions 1 and 2?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.3 Blood vessels",
+    "Sub_topic": [
+      "Main blood vessels named",
+      "Blood vessel structures",
+      "Structures related to pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "The graph shows the pressure changes in the left atrium and the left ventricle while the heart is beating. When does the atrio-ventricular (bicuspid) valve close?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.2 Heart",
+    "Sub_topic": [
+      "Heart structures",
+      "Muscle thickness explanation",
+      "Heart functioning heartbeat",
+      "Blood flow directions",
+      "Heart activity monitoring",
+      "Activity effect on heart rate",
+      "Coronary heart disease",
+      "Diet exercise reducing risk"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Anaerobic respiration in yeast can be summarised as follows. glucose → ethanol + carbon dioxide. How many molecules of carbon dioxide will be produced from the breakdown of two molecules of glucose?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.3 Anaerobic respiration",
+    "Sub_topic": [
+      "Anaerobic respiration definition",
+      "Anaerobic equation humans",
+      "Anaerobic equation yeast",
+      "Lactic acid during exercise",
+      "Removing oxygen debt"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The diagram shows an alveolus and an associated blood capillary. At which point will the greatest rate of diffusion of carbon dioxide occur?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Gas exchange features",
+      "Atmospheric gas percentages",
+      "Inspired expired differences",
+      "Respiratory structures",
+      "Alveoli exchange role",
+      "Breathing structures",
+      "Breathing mechanism",
+      "Activity effect on breathing",
+      "Protection by goblet cells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "What happens to the volume of the thorax and the air pressure in the lungs during breathing out?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Gas exchange features",
+      "Atmospheric gas percentages",
+      "Inspired expired differences",
+      "Respiratory structures",
+      "Alveoli exchange role",
+      "Breathing structures",
+      "Breathing mechanism",
+      "Activity effect on breathing",
+      "Protection by goblet cells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Which process occurs in a kidney dialysis machine?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Urinary structures functions",
+      "Need for excretion",
+      "Nephron structure",
+      "Nephron functions",
+      "Liver assimilating amino acids",
+      "Deamination in liver"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "What happens when the body temperature rises above normal?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Skin structures",
+      "Insulation role",
+      "Hypothalamus and receptors",
+      "Temperature regulation processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "A man stands 10 metres away from a sign and can see it clearly. He walks towards the sign and stops 0.5 metres from it. Which changes occur in his eyes so that the sign is still in focus?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Sense organs definition",
+      "Eye structures",
+      "Eye part functions",
+      "Pupil reflex explanation",
+      "Accommodation explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "The diagram shows a section through the brain. What are some functions of the parts labelled 1, 2 and 3?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "Nervous system role",
+      "CNS and PNS",
+      "Neurone types",
+      "Impulses along neurones",
+      "Reflex arc components",
+      "Reflex action definition",
+      "Synapse definition",
+      "Synapse structure",
+      "Events at synapse",
+      "One direction impulses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "How does adrenaline affect glucose uptake by muscle cells and carbohydrate conversion by liver cells?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.3 Mammalian hormones",
+    "Sub_topic": [
+      "Hormone definition",
+      "Endocrine glands hormones",
+      "Adrenaline role",
+      "Nervous vs hormonal control"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "The diagrams show the bones of the forelimb in a bat and in a human. Which structure in the forelimb of the bat can be identified as the humerus?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.1 Variation",
+    "Sub_topic": [
+      "Variation definition",
+      "Continuous variation",
+      "Discontinuous variation",
+      "Causes of variation",
+      "Variation examples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "The bar chart shows the percentage of women who had babies of low weight, amongst smokers and non-smokers. What is shown by the bar chart?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Pathogen definition",
+      "Transmissible disease definition",
+      "Pathogen transmission methods",
+      "Barriers to pathogens",
+      "Mosquito as vector",
+      "Malarial parasite transmission",
+      "Mosquito control life cycle",
+      "HIV as viral pathogen",
+      "HIV transmission methods",
+      "HIV leading to AIDS",
+      "HIV control methods",
+      "Cholera bacterium disease",
+      "Cholera prevention measures",
+      "Cholera toxin effects",
+      "Alcohol consumption effects",
+      "Tobacco smoke effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which substances are produced using bacteria?",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.1 Biotechnology",
+    "Sub_topic": [
+      "Yeast in bread ethanol",
+      "Bacteria in biotechnology",
+      "Bacteria advantages",
+      "Fermenters production",
+      "Enzyme uses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Using the key, which organism is a virus?",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.2 Features of organisms",
+    "Sub_topic": [
+      "Features of five kingdoms",
+      "Features of animal groups",
+      "Features of plant groups",
+      "Classify using features",
+      "Features of viruses",
+      "Virus replication in cells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Which statement correctly describes relationships in ecosystems?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.1 Energy flow",
+    "Sub_topic": [
+      "Energy from sun",
+      "Producers consumers",
+      "Energy flow in chains",
+      "Energy loss reasons",
+      "Energy flow efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "The diagram shows a food chain. grass rabbit fox → flea Which pyramid of numbers matches this food chain?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Food chain definition",
+      "Trophic levels terms",
+      "Food web description",
+      "Effects of organism removal",
+      "Food chains and energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "In which natural cycles are protein molecules involved?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Carbon cycle description",
+      "Water cycle description",
+      "Nitrogen cycle microorganisms",
+      "Nitrogen cycle description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Why is the organism that causes malaria called both a parasite and a pathogen?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Pathogen definition",
+      "Transmissible disease definition",
+      "Pathogen transmission methods",
+      "Barriers to pathogens",
+      "Mosquito as vector",
+      "Malarial parasite transmission",
+      "Mosquito control life cycle",
+      "HIV as viral pathogen",
+      "HIV transmission methods",
+      "HIV leading to AIDS",
+      "HIV control methods",
+      "Cholera bacterium disease",
+      "Cholera prevention measures",
+      "Cholera toxin effects",
+      "Alcohol consumption effects",
+      "Tobacco smoke effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "The list shows some changes that may occur in a lake that is polluted with nitrogen-containing fertiliser. In which order do these changes occur?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Population increase effects",
+      "Habitat destruction causes",
+      "Pollution effects",
+      "Eutrophication process",
+      "Greenhouse gases effects",
+      "Acid rain effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "What are two female parts of a flower?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Flower parts insect-pollinated",
+      "Flower parts wind-pollinated",
+      "Flower parts functions",
+      "Pollination types comparison",
+      "Pollination types",
+      "Pollination effects on population",
+      "Pollen tube growth fertilisation",
+      "Seed fruit development",
+      "Seed structure",
+      "Dispersal importance",
+      "Dispersal features",
+      "Germination conditions",
+      "Germination process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "Cell X contains 24 chromosomes. It divides by mitosis to produce cells Y and Z. How many chromosomes does cell Z contain?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Chromosomes and genes",
+      "Haploid nucleus",
+      "Diploid nucleus",
+      "Chromosome pairs in humans",
+      "Mitosis description",
+      "Mitosis roles",
+      "Stem cells description",
+      "Meiosis in gametes",
+      "Meiosis description",
+      "Uncontrolled cell division"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "The graph shows the concentration of a hormone in the blood during one menstrual cycle. Which hormone concentration was measured?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Male reproductive system",
+      "Female reproductive system",
+      "Sperm structure function",
+      "Egg structure function",
+      "Fertilisation definition",
+      "Gametes comparison",
+      "Hormones in puberty",
+      "Menstrual cycle description",
+      "Hormones in menstrual cycle",
+      "Zygote early development",
+      "Amniotic sac fluid functions",
+      "Placenta umbilical functions",
+      "Viruses across placenta"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "Which substances are present in breast milk but not in bottled milk made from milk powder?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.3 Immunity",
+    "Sub_topic": [
+      "Active immunity definition",
+      "Pathogen antigens",
+      "Antibodies function",
+      "Antibody antigen shapes",
+      "Active immunity sources",
+      "Vaccination process",
+      "Vaccination controlling spread",
+      "Passive immunity definition",
+      "Breast-feeding passive immunity",
+      "No memory in passive",
+      "HIV effect on immunity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "Which outcomes might farmers want to achieve by using artificial selection?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.4 Selection",
+    "Sub_topic": [
+      "Natural selection process",
+      "Population evolution",
+      "Antibiotic resistance example",
+      "Artificial selection process",
+      "Artificial selection role"
+    ],
+    "Parts": []
+  }
+]

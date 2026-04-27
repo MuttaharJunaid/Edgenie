@@ -1,0 +1,387 @@
+[
+  {
+    "QuestionNumber": "October/November/2023/Q1",
+    "Question_text": "Fig. 1.1 shows a toy water rocket. The rocket is half-filled with water and connected by rubber tubing to a pump.",
+    "image": "A diagram showing a toy water rocket. It consists of a bottle-shaped rocket with fins, partially filled with water. A rubber tubing from an air pump is connected to the bottom of the rocket. Labels indicate 'rocket', 'air', 'water', 'air pump', and 'rubber tubing'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Momentum",
+      "Pressure & Forces",
+      "Acceleration",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Newton's Third Law",
+      "Newton's Second Law",
+      "Mass & Weight",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain, in terms of particles, why the air in the rocket exerts a pressure on the walls of the rocket.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The temperature of the air in the rocket remains constant as air is pumped into the rocket. Explain why increasing the number of air particles in the rocket increases the pressure of the air in the rocket.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the air pressure in the rocket is high, the rubber tubing is removed from the rocket. The water in the rocket is expelled downwards. Explain, in terms of momentum, why the rocket begins to accelerate upwards.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "As the water is expelled from the rocket, the upward acceleration of the rocket changes. Suggest two reasons for the change in the acceleration of the rocket.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q2",
+    "Question_text": "A lorry (truck) is at rest on a straight, horizontal road. A constant driving force of 5.4 × 10⁴ N acts on the lorry and it accelerates forwards.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Acceleration",
+      "Work",
+      "Kinetic Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define what is meant by 'acceleration'.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "As the lorry moves forwards, work is done on it by the driving force. State the equation that defines work done. Refer to the direction of the force exerted.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the work done on the lorry by the driving force when the lorry travels a distance of 280 m.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "At one point on the road, the kinetic energy of the lorry is 3.2 × 10⁶ J and its speed is 12m/s. Calculate the mass of the lorry.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q3",
+    "Question_text": "When the temperature of a liquid increases, the kinetic energy of its particles increases and the liquid expands.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Particle Model",
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "Thermal Conduction",
+      "Convection",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain, by referring to particles, why a liquid expands when heated.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The heater in a kettle is near to the base of the kettle. The kettle is filled with water at a temperature of 17°C and the heater is switched on. State the name of the method of thermal energy transfer that causes energy to be transferred to the water that is touching the heater.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how thermal energy is transferred through all of the water in the kettle.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State the boiling temperature of water at standard atmospheric pressure. Include the unit in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The kettle contains 2.5kg of water at standard atmospheric pressure. The specific heat capacity of water is 4200 J/(kg°C). When the water reaches its boiling temperature, the kettle switches off. Calculate the increase in the internal energy of the water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q4",
+    "Question_text": "Red light of frequency 4.7 × 10¹⁴ Hz travels in air at a speed of 3.0 x 10⁸ m/s.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Refraction of Light",
+      "Wave Behaviour",
+      "Snell's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the wavelength in air of this red light.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 4.1 shows a narrow beam of this red light striking the surface of a parallel-sided glass block.",
+        "image": "A diagram showing a red light ray incident on a rectangular glass block from air. The incident ray makes an angle of 45° with the normal (indicated by a dashed line). The refracted ray within the glass block makes an angle of 30° with the normal. Labels show 'glass block', 'red light', '45°', and '30°'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what happens to the speed, to the frequency and to the wavelength of the light as it enters the block.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using the angles shown on Fig. 4.1, calculate the refractive index of the glass.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The light continues along the path shown in Fig. 4.1 until it strikes the bottom surface of the block. Light then emerges into the air. Draw on Fig. 4.1 to show the path taken by the light until it strikes the bottom surface and the path of the light that emerges into the air.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q5",
+    "Question_text": "Most of the energy emitted by the Sun is in three regions of the electromagnetic spectrum.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Dangers of Electromagnetic Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The name of one of these three regions is the ultraviolet region. State the names of all three regions in order of increasing frequency. smallest frequency intermediate frequency largest frequency",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Some of the ultraviolet radiation emitted by the Sun reaches the surface of the Earth. Give one possible damaging effect of ultraviolet radiation on the human body and the property of ultraviolet radiation that causes this damage. damaging effect property",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Electromagnetic radiation is a transverse wave. Describe the difference between a transverse wave and a longitudinal wave.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q6",
+    "Question_text": "Fig. 6.1 shows a circuit that contains two identical cells, each of e.m.f. 1.5V, that are connected in parallel. The circuit also contains two ammeters, a thermistor T and two resistors R and S.",
+    "image": "A circuit diagram showing two cells connected in parallel. The positive terminals are joined, and the negative terminals are joined. The circuit includes two ammeters, labeled 'ammeter 1' and 'ammeter 2'. Resistors R and S are connected in series with a thermistor T. Ammeter 1 is placed before R and S, while Ammeter 2 is placed between S and T. The diagram shows current flowing from the cells through ammeter 1, then R, then S, then ammeter 2, then T, and back to the cells.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Combined Resistance",
+      "Resistance",
+      "Potential Difference in Circuits",
+      "Electromotive Force & Potential Difference",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The reading on ammeter 1 is 0.20A. State why the reading on ammeter 2 is also 0.20A.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The resistance of R is 1.5Ω and the resistance of S is 3.5Ω. Calculate the resistance of T.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The temperature of T increases. Explain why the potential difference (p.d.) across T decreases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q7",
+    "Question_text": "An alternating current (a.c.) generator is used in a remote location to supply electricity.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Uses of an Oscilloscope",
+      "Electromagnetic Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 7.1 shows the structure of a simple a.c. generator with the coil horizontal.",
+        "image": "A diagram of a simple A.C. generator. It shows a coil rotating within a magnetic field produced by two poles (S and N). The ends of the coil are connected to two slip rings (labeled Q), which are in contact with carbon brushes (labeled P). Wires from the brushes lead to 'output terminals'. An arrow indicates 'rotation' of the coil. The coil is currently shown in a horizontal position."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of the components labelled P and Q on Fig. 7.1. P Q",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "When the generator is producing an electrical output, P is stationary and Q is rotating. Explain the purpose of P and Q.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The output of the generator is connected to an oscilloscope. On the oscilloscope the Y-gain is set at 5.0V/cm and the timebase setting is 2.0ms/cm. Fig. 7.2 shows the trace on the screen of the oscilloscope.",
+        "image": "A graph displaying a sinusoidal waveform (trace) on an oscilloscope screen with grid lines. The vertical axis represents voltage, and the horizontal axis represents time. A '1 cm' label is shown for both horizontal and vertical grid spacing. The peak-to-peak amplitude is 4 cm (2 cm from center to peak), and one full wavelength spans 4 cm horizontally."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Write a letter X on the trace shown in Fig. 7.2 to indicate one point when the coil is vertical.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using Fig. 7.2, determine the maximum value of the e.m.f. produced by the generator.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Using Fig. 7.2, determine, in milliseconds, the time it takes for one revolution of the coil.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Determine the frequency of the output of the generator.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q8",
+    "Question_text": "Uranium-235 (²³⁵U) is the isotope of uranium that is used as the fuel in a nuclear power station.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Fission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The isotope of uranium that is most abundant in nature is uranium-238 (²³⁸U). State how a neutral atom of uranium-235 differs from a neutral atom of uranium-238.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the reactor of a nuclear power station, a nucleus of uranium-235 absorbs a slow-moving neutron and undergoes fission.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what happens to the nucleus of an atom during fission.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how fission can lead to a chain reaction in the reactor.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State the purpose of the moderator in the reactor.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Explain the action of the control rods in the reactor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q9",
+    "Question_text": "The planet Venus orbits the Sun at a constant speed of 3.5 × 10⁴ m/s and takes a time Tv to complete one orbit.",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "The Solar System",
+      "Orbiting Bodies",
+      "Gravitational Effects on Orbits",
+      "Calculating Orbital Speeds",
+      "Circular Motion",
+      "Scalars & Vectors",
+      "Speed & Velocity",
+      "Resultant Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Venus is always 1.1 × 10¹¹ m from the Sun. Calculate Tv.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why speed is a scalar quantity.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Velocity is a vector quantity.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain what happens to the velocity of Venus as it orbits the Sun.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "There is a resultant force on Venus as it orbits the Sun. The force is perpendicular to the direction of the motion of Venus. State why this force is needed.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Fig. 9.1 shows the orbit of Venus around the Sun. On Fig. 9.1, draw an arrow to show the resultant force on Venus.",
+        "image": "A diagram showing a circular orbit. In the center is the 'Sun', represented by a starburst symbol. On the circular path, there is a planet labeled 'Venus'. The orbit is shown with a dashed line."
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "State what causes the force acting on Venus.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "One planet in the Solar System is closer to the Sun than Venus.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "State the name of this planet.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Compare the time that this planet takes to complete one orbit of the Sun with Tv and explain the difference.",
+        "image": null
+      }
+    ]
+  }
+]

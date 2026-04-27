@@ -1,0 +1,453 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "What are characteristics of bacteria?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Bacterial cell structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Some students were provided with some specimens of arthropods. They counted the number of legs on each arthropod. Their results are shown in the table. Which statement about the arthropods is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.2 Features of organisms",
+    "Sub_topic": [
+      "Features of animal groups",
+      "Classify using features"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "The diagram shows two plant cells, X and Y. Cell X has a higher water potential than Y. In which direction and by which process will water move between these two cells?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Osmosis definition",
+      "Plant cell water support"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Which row identifies how ions and molecules move by active transport?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.2 Active transport",
+    "Sub_topic": [
+      "Active transport definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A student carried out two tests on a liquid. When Benedict's solution was added to half of the liquid and heated, it turned red. When biuret reagent was added to the rest of the liquid, it turned mauve (purple). Which conclusion is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Biological molecules",
+    "Topic": "4.1 Biological molecules",
+    "Sub_topic": [
+      "Chemical tests for molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Enzymes are involved in many reactions in living cells. Which statement describes the action of enzymes?",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Enzymes as catalysts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "The diagram shows the movement of substances involved in photosynthesis in a leaf. Which row shows the correct labels for the diagram?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The diagram shows a plant cell. Compared with the rest of the cell, which row describes the concentrations of oxygen and magnesium inside structure P during the daytime?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Chlorophyll pigment",
+      "Photosynthesis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "The diagram shows a root hair cell. How does the shape of the cell help the plant?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.1 Uptake and transport of water and ions",
+    "Sub_topic": [
+      "Root hair function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "A student used the apparatus shown to measure the rate of water loss by the leafy stem at increasing wind speeds. Which graph was produced from their results?",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Factors and wilting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "A deficiency disease in children causes soft and deformed bones. What is the name and cause of this deficiency disease?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.1 Diet",
+    "Sub_topic": [
+      "Deficiency diseases symptoms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "The diagram shows the human digestive system. Where do egestion and ingestion occur?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Digestive system regions",
+      "Functions of digestive regions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Which graph best represents the effect of pH on the action of gastric protease?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Proteases pH levels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "The graph shows the changes in lung volume during breathing when a person was at rest and then when they began to exercise. From resting to exercise, the volume of air breathed in at each breath increased from............. dm³ to ............. dm³. Looking at the graph, which numbers correctly complete the gaps in the sentence?",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Activity effect on breathing",
+      "Breathing mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "What are the products of anaerobic respiration in muscle?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.3 Anaerobic respiration",
+    "Sub_topic": [
+      "Anaerobic equation humans",
+      "Lactic acid during exercise"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which label shows where lactic acid is broken down?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.3 Anaerobic respiration",
+    "Sub_topic": [
+      "Lactic acid during exercise"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Two people carried out a short period of exercise on a treadmill. Each of the two people ran on the treadmill for the same amount of time and at the same speed. The graph shows the pulse rates of these two people before, during and after the period of exercise. Which interpretation of the graph is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.2 Heart",
+    "Sub_topic": [
+      "Activity effect on heart rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Which blood vessels carry deoxygenated blood?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.3 Blood vessels",
+    "Sub_topic": [
+      "Main blood vessels named"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "What describes the microorganism that causes cholera and its method of transmission?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Cholera bacterium disease",
+      "Pathogen transmission methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "The chart gives information about a car being driven at 110km/h by someone who has not consumed alcohol. It shows how far the car travels from the time the driver sees a hazard and reacts by using the brakes and how far the car will then travel before finally stopping. If the same driver consumes alcohol before driving, the distance travelled before reacting to the hazard increases by 20%. What would then be the total distance travelled by the car before stopping?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Alcohol consumption effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Drugs can be used to treat infections in the body. What are antibiotics used for?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.2 Antibiotics",
+    "Sub_topic": [
+      "Antibiotics for bacteria"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Human immunodeficiency virus (HIV) affects the immune system resulting in decreased lymphocyte numbers. The diagnosis of AIDS can be made when lymphocyte numbers decrease below 200 cells/mm³ of blood. The graph shows the lymphocyte numbers after HIV infection in a patient. How many years after infection would this patient be diagnosed with AIDS?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "HIV leading to AIDS"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Some people require a treatment called dialysis to remove waste products and excess salts from their blood. For these individuals, which part of the body is not functioning correctly?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Need for excretion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Which change occurs in the eye as a person focuses on a vehicle approaching from a long distance?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Accommodation explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "A light was shone into a person's eye for 50 seconds. During this time, the intensity of the light was varied. The graph shows changes in the person's pupil size. Which statement explains the change in pupil size?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Pupil reflex explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "The graph shows the blood sugar level for a person over eight hours. They did not exercise during this time. Which statement explains the shape of the graph between X and Y?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.6 Blood glucose control",
+    "Sub_topic": [
+      "Blood glucose control need",
+      "Glucose control by organs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which actions may lead to the contraction of hair erector muscles in the skin?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.5 Temperature control",
+    "Sub_topic": [
+      "Skin structures",
+      "Temperature regulation processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "An experiment on the growth of a young plant shoot was set up, as shown. What does the shoot look like after 48 hours?",
+    "image": null,
+    "Unit": "UNIT 15: Coordination and response in plants",
+    "Topic": "15.1 Coordination and response in plants",
+    "Sub_topic": [
+      "Auxin role in shoots",
+      "Phototropism definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "A scientist takes four pairs of samples from a wild cherry tree. In which pair of samples could there be cells with different genotypes?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Meiosis in gametes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "The diagram shows how a large number of carrot plants can be produced from small pieces of carrot root. Which row is correct for this method of plant production?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.2 Asexual and sexual reproduction",
+    "Sub_topic": [
+      "Asexual reproduction definition",
+      "Asexual examples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "In plant reproduction, the following processes occur. In which order do these processes take place?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Pollen tube growth fertilisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Which hormone causes the release of an egg cell from the ovary?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Hormones in menstrual cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "The diagram shows a baby about to be born. Which labelled structures are the cervix and uterus?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Zygote early development"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "In a DNA molecule, bonds between pairs of bases hold the strands together. Which pairs of bases are found in DNA?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.2 DNA",
+    "Sub_topic": [
+      "DNA molecule structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "The inheritance of the ABO blood groups in humans is controlled by three alleles (IA, IB and Iº), only two of which can be present in one individual. What are the possible blood groups of children born to a homozygous group A woman and a heterozygous group B man?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Codominance ABO groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "The antibiotic penicillin is produced by a fungus called Penicillium. The graph shows the changes in the masses of Penicillium fungus, penicillin and sugar in a fermenter during the production of a batch of antibiotic. What is represented by each curve on the graph?",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.1 Biotechnology",
+    "Sub_topic": [
+      "Fermenters production"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "The diagram shows a food chain. Which organisms are present in the largest numbers in this food chain?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Food chain definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "Some bacteria and fungi are decomposers. What is produced when decomposers break down plant and animal protein?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Nitrogen cycle microorganisms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "What is the definition of a community?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.1 Energy flow",
+    "Sub_topic": [
+      "Producers consumers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "The list shows some changes that may occur in a lake that is polluted with nitrogen-containing fertiliser. In which order do these changes occur?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Eutrophication process"
+    ],
+    "Parts": []
+  }
+]

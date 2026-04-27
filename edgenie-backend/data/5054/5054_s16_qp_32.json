@@ -1,0 +1,234 @@
+[
+  {
+    "QuestionNumber": "May-June/2016/5054/32/Q1",
+    "Question_text": "In this experiment, you will determine an accurate value for the mass of a 30cm plastic ruler. You have been provided with • a 30 cm plastic ruler with a mm scale, • a 10g mass, • a pivot (knife-edge).",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Measurement",
+      "Measuring Mass & Weight",
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 shows a 30 cm ruler of total length L. At one end of the ruler there is a ‘dead space' of length d₁ before the 0.0cm mark and at the other end there is a ‘dead space' of length d₂ after the 30.0cm mark.",
+        "image": "Fig. 1.1 shows a 30 cm ruler with its ends labeled 'end A' and 'end B'. The left end has a 'dead space' of length d1 before the 0.0 cm mark. The ruler has 'edge C' and a 30.0 cm mark. The right end has a 'dead space' of length d2 after the 30.0 cm mark. The total length of the ruler including dead spaces is L. The ruler has a scale from 0.0 cm to 30.0 cm marked on it. Arrows indicate d1, d2, and L."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Place the ruler provided on Fig. 1.2. Align the 0.0cm mark and edge C of the ruler with the lines in the diagram. Draw a line on Fig. 1.2 to mark the position of end A of the ruler. Using Fig. 1.2, measure d₁.",
+        "image": "Fig. 1.2 shows a diagram of a ruler's end. It has a vertical line labeled '0.0 cm' and a horizontal line labeled 'edge C' to the right of it. This is a template for placing the actual ruler to measure d1. A blank space is provided for the value of d1."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Using Fig. 1.3, repeat (a)(i) with end B and measure d₂.",
+        "image": "Fig. 1.3 shows a diagram similar to Fig. 1.2, but for the other end of the ruler. It has a vertical line labeled '30.0 cm' and a horizontal line labeled 'edge C' to the left of it. This is a template for placing the actual ruler to measure d2. A blank space is provided for the value of d2."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the total length L of the ruler.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Place the ruler on the pivot. Move the position of the ruler until it balances horizontally. Record the scale reading S₁ shown on the ruler at the position of the pivot.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Place the 10g mass so that its outer edge is at the 30.0cm mark on the ruler. Record the scale reading S₂ shown on the ruler at the position of the centre of the 10g mass.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "With the 10g mass position in (b)(ii), place the ruler on the pivot and move the position of the ruler until it balances horizontally. The arrangement is shown in Fig. 1.4.",
+        "image": "Fig. 1.4 shows a diagram of a plastic ruler balanced horizontally on a pivot (knife-edge). A 10 g mass is placed on the right side of the ruler. The pivot is at scale reading S3. The ruler's centre of gravity is implied to be at S1. The distance from the pivot to the centre of the ruler is x, and the distance from the pivot to the centre of the 10g mass is y. Scale readings S1, S2, S3 are marked on the ruler."
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Determine the distances x and y shown on Fig. 1.4.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the mass M of the ruler using M = 10y/x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2016/5054/32/Q2",
+    "Question_text": "In this experiment, you will investigate the oscillations of a metre rule with added masses. You have been provided with • a metre rule with a hole at the 10.0 cm mark, • an optical pin in a cork, • a stand, boss and clamp to hold the cork, • two 100 g masses, • Blu-tack, • a stopwatch.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Measurement",
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The Supervisor has set up the apparatus as shown in Fig. 2.1. Remove the metre rule from the pin. Use the Blu-tack to attach the masses to the rule, at the 100 cm end. The masses should be attached on each side of the rule and the edge of the masses should be level with the 100cm mark. A front view of the arrangement is shown in Fig. 2.2 and a side view in Fig. 2.3. Press the masses firmly to the rule. Determine the distance d₁ from the centre of the hole at the 10.0cm mark to the centre of the masses.",
+        "image": "Fig. 2.1 shows an apparatus setup where a metre rule is suspended from an optical pin, which is held by a cork, clamp, and boss attached to a stand on a bench. Fig. 2.2 (front view) and Fig. 2.3 (side view) show details of two slotted masses attached with Blu-tack to the 100 cm end of the metre rule, positioned on either side of the rule. The bottom part of the metre rule and the slotted masses are shown, with the masses' edges aligned with the 100 cm mark. A blank space is provided for the value of d1."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Replace the metre rule on the pin using the hole at the 10 cm mark. When the rule is displaced a small distance to the left and released, it moves to the right and then back to the left. This is one complete oscillation as shown in Fig. 2.4.",
+        "image": "Fig. 2.4 illustrates one complete oscillation of the metre rule. A suspended ruler is shown in its extreme positions (dashed lines) and its central equilibrium position (solid line). An arrow indicates the path of oscillation, starting from a displaced position, moving to the opposite extreme, and returning to the initial displaced position to complete one cycle."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The time for 10 complete oscillations is t₁. Take measurements to determine an accurate value of t₁.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the time T₁ for one complete oscillation. Give your answer to a suitable number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Remove the metre rule from the pin. Move the masses so that they are each side of the rule with their bottom edges at the 50.0 cm mark. Replace the metre rule on the pin using the hole at the 10.0 cm mark.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The time for 10 complete oscillations is t₂. Take measurements to determine an accurate value of t₂.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the time T₂ for one complete oscillation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2016/5054/32/Q3",
+    "Question_text": "In this experiment, you will investigate an effect of the refraction of light using water. You are provided with • a glass beaker, • a supply of water, • a block with a white face, • an optical pin in a cork, • a stand, boss and clamp to hold the optics pin, • a half-metre rule, • a set square, • paper towels to mop up spillages.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The beaker has a horizontal line, labelled M, near the top. Using the half-metre rule, determine an average value for the internal distance h from the base of the beaker to line M.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the empty beaker on top of the white face of the block. Fill the beaker to the line M with water. Clamp the optical pin horizontally close to line M as shown in Fig. 3.1. Turn the beaker so that the line on the base of the beaker is aligned with the optical pin as shown in Fig. 3.2.",
+        "image": "Fig. 3.1 shows an experimental setup for investigating refraction. A beaker containing water is placed on a block. An optical pin in a cork is clamped horizontally by a boss and clamp to a stand, positioned above the beaker's waterline. Fig. 3.2 shows a top-down view of the beaker. The optical pin is aligned with line M (on the beaker) and the line on the base of the beaker. Points A and B are marked on the front edge of the bench relative to the beaker's base."
+      },
+      {
+        "part_label": "c",
+        "part_text": "View the arrangement from vertically above. Move your head from side to side in a direction along a line between A and B. Observe what happens to the alignment of the pin and the line drawn on the base of the beaker. Draw and label diagrams of what you see, at A, at a point directly above the line on the beaker and at B.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Lower the pin until the pin and the line on the bottom of the beaker stay in line as you move your head from side to side along AB. Determine an average value for the vertical distance d from the pin to the surface of the water.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Calculate h/d.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/2016/5054/32/Q4",
+    "Question_text": "In this experiment, you will investigate an electrical circuit. You have been provided with an incomplete circuit consisting of • a power supply, • a switch, • an unknown resistor labelled X, • a voltmeter, • connecting leads. Two points in the circuit have been labelled A and B. Fig. 4.1 shows the arrangement of the components in the incomplete circuit.",
+    "image": "Fig. 4.1 shows an incomplete electrical circuit diagram. It consists of a power supply, a switch, and an unknown resistor labelled 'X' connected in series. A voltmeter is connected in parallel across resistor X. Points A and B are marked in the circuit, indicating where additional components can be connected.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Without changing the circuit, close the switch and record the reading V₀ on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Open the switch. Connect the resistor of resistance R = 10Ω between points A and B.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Close the switch and record the reading V on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Open the switch. Calculate the current I in the circuit using I = V/R.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Each time you take a reading on the voltmeter, close the switch and open it after you have taken your reading.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Fig. 4.2 is a table for your results and calculations. Add units to the headings in the table. Transfer your values for R, V and I from (b) into the table.",
+        "image": "Fig. 4.2 shows a table with three columns for 'R', 'V', and 'I' respectively, and several rows for recording experimental data. It's meant for recording resistance, voltage, and current values, including units in the headings."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Remove the 10Ω resistor from the circuit and replace it with the 22Ω resistor. Record the new reading V in Fig. 4.2. Calculate the new current I in the circuit and record it in Fig. 4.2 along with the resistance R used.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Replace the 22Ω resistor with the 39Ω resistor and obtain new values for V and I. Record these in Fig. 4.2 along with the resistance R used.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Remove the 39Ω resistor. For two resistors in series Rtotal = R₁ + R₂. Calculate three possible values of resistance that can be obtained by connecting the 10Ω, the 22Ω and the 39Ω resistors in series. Record these values in Fig. 4.2. For each of your values, obtain values for V and I and record these in Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "c(v)",
+        "part_text": "For two resistors in parallel 1/Rtotal = 1/R₁ + 1/R₂. Calculate the resistance of the 10Ω and 22Ω resistors when they are connected in parallel and record your value in Fig. 4.2. For this parallel combination, obtain values of V and I and record your values in Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of V on the y-axis against I on the x-axis. Start your axes at the origin. Draw a straight line of best fit.",
+        "image": "A blank grid for plotting a graph with V on the y-axis and I on the x-axis, designed for drawing a straight line of best fit from the origin."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Determine the gradient G of the line of best fit. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Use your graph to find the value of V at I = 0.",
+        "image": null
+      }
+    ]
+  }
+]

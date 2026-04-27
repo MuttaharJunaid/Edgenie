@@ -1,0 +1,471 @@
+[
+  {
+    "QuestionNumber": "October-November/11/2024/Q1",
+    "Question_text": "A crane lifts a heavy load at a steady rate. Which unit is suitable for the output power of the crane's motor?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q2",
+    "Question_text": "Which statement about mass is correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q3",
+    "Question_text": "The bob of a simple pendulum is pulled horizontally by a force that is equal to weight W of the bob. Which diagram shows the angle between the pendulum thread and the vertical?",
+    "image": "Four diagrams (A, B, C, D) each showing a simple pendulum with a bob of weight W. A horizontal force, also labeled W, is applied to the bob, displacing it from the vertical. The angles of displacement from the vertical are different for each diagram: 15° for A, 30° for B, 45° for C, and 60° for D. The weight W is shown acting vertically downwards from the bob, and the applied horizontal force W is shown acting horizontally from the bob. The tension in the thread is also implied.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q4",
+    "Question_text": "A student takes 20 minutes to walk from X to Y at a speed of 3.0 km/h. She turns 90° at Y and walks at a speed of 4.0 km/h for 15 minutes to reach Z. What is her average speed from X to Z?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q5",
+    "Question_text": "A car is at rest by a red traffic light. When the light changes to green, the car starts moving. The graph represents the motion of the car. The car has a constant acceleration. Which quantity is plotted on the x-axis and which quantity is plotted on the y-axis?",
+    "image": "A graph with an x-axis labeled 'x-axis' and a y-axis labeled 'y-axis'. The graph shows a curve starting from the origin (0,0) and increasing upwards, concave up, typical for a distance-time graph with constant positive acceleration.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Distance-Time Graphs",
+      "Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q6",
+    "Question_text": "An object falls without air resistance. Its position at equal time intervals is shown by a sequence of dots. Which sequence of dots is correct?",
+    "image": "Four sequences of dots (A, B, C, D) representing the position of a falling object at equal time intervals. A 'direction of movement' arrow points downwards next to each sequence. Sequence A shows equally spaced dots. Sequence B shows dots that are initially close and gradually spread out. Sequence C shows dots that are initially far apart and gradually get closer. Sequence D shows dots where the spacing between consecutive dots progressively increases as they move downwards, indicating increasing speed.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q7",
+    "Question_text": "Some gas trapped in a container is compressed at constant temperature by a piston. Which property of the gas does not change?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q8",
+    "Question_text": "A car has a weight of 8000 N. What is the mass of the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q9",
+    "Question_text": "A lorry is travelling along a straight, horizontal road. The constant driving force on the lorry is 80 kN and the total resistive force is 20 kN. Which row describes the motion of the lorry and gives the resultant force acting on it?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q10",
+    "Question_text": "As a cyclist uses the brakes on a bicycle, energy is transferred from the kinetic store to the thermal store. What causes the transfer of energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q11",
+    "Question_text": "The extension of a spring is measured as the load stretching it is increased. The graph shows the results. Which point is the spring's limit of proportionality?",
+    "image": "A graph with 'extension' on the y-axis and 'load' on the x-axis. The graph starts from the origin and increases linearly up to point B, passing through point A. After point B, the graph begins to curve, becoming less steep, and passes through point C and then D. Point B represents the limit of proportionality where the graph starts to deviate from linearity.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q12",
+    "Question_text": "A satellite orbits the Earth. What is the direction of the force on the satellite causing this circular motion?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Gravitational Effects on Orbits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q13",
+    "Question_text": "A uniform beam is pivoted at its centre and balanced by three weights as shown. What is distance x?",
+    "image": "A uniform beam pivoted at its centre. Three downward forces (weights) are applied: 2.0 N at distance x from the pivot on the left, 3.0 N at 5.0 cm from the pivot on the right, and 2.0 N at 30 cm from the pivot on the right. The beam appears to be in equilibrium.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q14",
+    "Question_text": "A piece of card of uniform thickness and density is suspended freely from a horizontal pin. The diagram shows the card at rest. Which cross is the centre of gravity of the card?",
+    "image": "A diagram showing an irregularly shaped piece of card suspended from a horizontal pin, labeled 'pin', at its top left edge. The card hangs vertically at rest. Four crosses, A, B, C, and D, are marked on or near the card. Cross A is exactly at the pin. Crosses B and C are inside the card, with C located directly below the pin (A) and below B. Cross D is located below the card.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q15",
+    "Question_text": "Trolley X of mass 2.0 kg is moving to the right at 2.0 m/s. Trolley Y of mass 1.0 kg is moving to the left at 1.0 m/s. The trolleys collide and stick together. The collision takes a total time of 0.20 s. What is the average force acting on trolley X during the collision?",
+    "image": "A diagram showing two trolleys, X and Y, on a horizontal surface. Trolley X (mass = 2.0 kg) is shown moving to the right at 2.0 m/s. Trolley Y (mass = 1.0 kg) is shown moving to the left at 1.0 m/s. Arrows indicate the direction and magnitude of their velocities. The diagram illustrates an impending collision.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Momentum",
+      "Impulse"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q16",
+    "Question_text": "An object of mass 5.0 kg is moving at a constant speed. It has 10 J of kinetic energy. What is the speed of the object?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q17",
+    "Question_text": "A wind-up radio is used in areas where mains electricity is not available. A person winds a spring in the radio using the handle. When the spring unwinds, it makes a small coil rotate in a magnetic field. Which energy transfer is not useful for this radio?",
+    "image": "A diagram of a wind-up radio with a prominent handle on its side. The radio has a speaker grill and tuning knob visible. An arrow points from the handle towards the radio body, illustrating the winding action.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q18",
+    "Question_text": "Energy is transferred in a filament lamp at a rate of 60 W. The lamp wastes energy at a rate of 46 W. Which ratio is used to calculate the efficiency of the lamp?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q19",
+    "Question_text": "A liquid is held in a cylindrical container. The diameter of the base of the cylinder is d. The mass of the liquid is m and its depth is h. Which expression gives the pressure due to the liquid on the bottom of the cylinder?",
+    "image": "A diagram of a cylindrical container holding a liquid. The liquid has a depth 'h' and the base of the cylinder has a diameter 'd'. The liquid is labeled 'liquid'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q20",
+    "Question_text": "The diagram shows an instrument that is used to measure the atmospheric pressure. The density of mercury is 1.4 × 10⁴ kg/m³. What is the atmospheric pressure?",
+    "image": "A diagram of a mercury barometer. An inverted tube is placed in a reservoir of mercury, creating a vacuum above the mercury column in the tube. The height of the mercury column from the reservoir surface to the top of the column is 760 mm. The total length of the mercury in the tube above the bottom of the reservoir is indicated by 850 mm, and the depth of the mercury in the reservoir itself is 150 mm. A small 20 mm gap is shown above the 760mm column to the top of the tube, labeled 'vacuum'. The diagram is labeled 'NOT TO SCALE'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q21",
+    "Question_text": "Air at atmospheric pressure and room temperature is trapped in an insulated container by a frictionless piston of negligible weight. The air can be compressed by placing masses on top of the piston. A mass of 1.0 kg is placed on the piston and the volume of the trapped air decreases from 100 cm³ to 90 cm³. Which statement is correct?",
+    "image": "A diagram showing a cylindrical container with trapped air, sealed by a piston. Masses are placed on top of the piston. Labels include 'masses', 'piston', 'trapped air', and 'container'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q22",
+    "Question_text": "A substance has a melting temperature of -17 °C and a boiling temperature of 117 °C. In which state does the substance exist at -10 °C and at 110 °C?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q23",
+    "Question_text": "Thermal energy is supplied at a constant rate to a fixed mass of a substance that is initially solid. The graph shows how the temperature of the fixed mass of the substance varies with time. In which sections of the graph does the substance absorb latent heat?",
+    "image": "A temperature-time graph for a substance being heated at a constant rate. The y-axis is 'temperature' and the x-axis is 'time'. The graph shows segments: W (temperature increasing, solid phase), X (horizontal plateau, melting), Y (temperature increasing, liquid phase), Z (horizontal plateau, boiling).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q24",
+    "Question_text": "A piece of paper torn out of an exercise book is shown. 'As the average kinetic energy of the molecules decreases, the space between them decreases and they move downwards.' Which process is being described?",
+    "image": "A rectangular piece of paper, as if torn from an exercise book, with handwritten text inside a box. The text reads: 'As the average kinetic energy of the molecules decreases, the space between them decreases and they move downwards.'",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q25",
+    "Question_text": "A ray of light passes from glass to air. Which arrow shows the direction of the ray in air?",
+    "image": "A diagram showing an interface between 'air' (top) and 'glass' (bottom). A ray of light is incident from the glass onto the interface. A dashed normal line is implied at the point of incidence. Four possible paths for the refracted ray in the air are indicated by arrows labeled A, B, C, D. Arrow D shows bending towards the normal, while Arrows A and B show bending away from the normal (A more than B). Arrow C shows no bending.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q26",
+    "Question_text": "A short-sighted student looks at a distant object. Which row shows the position of an image in a short-sighted eye and the type of lens used to correct short-sightedness?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q27",
+    "Question_text": "A student makes four statements about infrared waves. 1 They can be seen by the human eye. 2 They travel at 330 m/s in air. 3 They are transverse waves. 4 They are used by intruder alarms. Which statements are correct for infrared waves?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q28",
+    "Question_text": "Which waves are longitudinal?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q29",
+    "Question_text": "A person hears an echo after a sound hits a solid cliff face. What causes the echo?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q30",
+    "Question_text": "A plastic strip is rubbed with a cloth and the plastic becomes negatively charged. Which statement explains this?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q31",
+    "Question_text": "Two parallel, conducting plates are charged. The charge on the upper plate is positive. The charge on the lower plate is equal in size but negative. Which diagram shows the pattern and the direction of the electric field between the two plates?",
+    "image": "Four diagrams (A, B, C, D) showing two parallel, charged conducting plates. The upper plate is marked '+' and the lower plate is marked '-'. Electric field lines are depicted between the plates. Diagram A shows straight, parallel lines pointing downwards from '+' to '-'. Diagram B shows straight, parallel lines pointing upwards from '-' to '+'. Diagram C shows curved lines pointing downwards from '+' to '-'. Diagram D shows curved lines pointing upwards from '-' to '+'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q32",
+    "Question_text": "Which quantity is defined as the electrical work done by a source in moving a unit charge around a complete circuit?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q33",
+    "Question_text": "Four 1.5 V cells are connected in a circuit as shown. The switch is closed. What is the reading on the voltmeter?",
+    "image": "A circuit diagram showing four 1.5 V cells connected in series. A switch is shown. A voltmeter (V) is connected in parallel across one of the 1.5 V cells.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Difference in Circuits",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q34",
+    "Question_text": "Two resistors are connected in series with a battery, as shown. The readings on three voltmeters V₀, V₁ and V₂ and the currents I₀, I₁ and I₂ are also shown. Which row gives values for the current I₀ and the potential difference V₀?",
+    "image": "A circuit diagram showing a battery connected to two resistors (R1 and R2) in series. Ammeters measure currents I₀ (total), I₁ (through R1), and I₂ (through R2). Voltmeters measure V₀ (across battery/total), V₁ (across R1), and V₂ (across R2).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q35",
+    "Question_text": "The current in a home computer varies between 0.40 A and 1.2 A when the computer is connected to the mains supply. What is the rating of the most suitable fuse to use to protect the computer?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q36",
+    "Question_text": "Students are asked to draw the pattern and direction of the magnetic field due to a direct current (d.c.) in a straight wire. Diagrams 1, 2 and 3 are three of their answers. The students do not know the direction of the current in the wire. Which diagrams show possible patterns and directions for the magnetic field due to the current in the wire?",
+    "image": "Three diagrams (1, 2, 3) illustrating the magnetic field around a vertical straight wire carrying direct current. Each diagram shows the wire and concentric circles representing magnetic field lines. Diagram 1 shows anticlockwise field lines. Diagram 2 shows clockwise field lines. Diagram 3 shows field lines with arrows indicating both clockwise and anticlockwise directions on the same field line.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q37",
+    "Question_text": "Which row identifies the positive and negative particles in the atom?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q38",
+    "Question_text": "The nuclide notation of a certain isotope of element Q is R Z Q. What is the total number of protons, neutrons and electrons in a neutral atom of this isotope?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q39",
+    "Question_text": "Which list shows the planets in order of increasing distance from the Sun?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "The Solar System"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2024/Q40",
+    "Question_text": "A student spills ink on the page in a textbook that defines redshift. The ink covers the three important words 1, 2 and 3. Redshift is ......1...... in the observed ......2...... of electromagnetic radiation emitted from ......3...... stars and galaxies. What are words 1, 2 and 3?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "The Universe"
+    ],
+    "Parts": []
+  }
+]

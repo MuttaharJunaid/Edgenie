@@ -1,0 +1,199 @@
+[
+  {
+    "QuestionNumber": "October/November/2010/Q1",
+    "Question_text": "In this experiment, you will estimate the temperature of a Bunsen flame. You have been provided with a Bunsen burner, a 10g mass, tongs, a supply of water at room temperature, a stirrer, a measuring cylinder, a glass beaker, a thermometer and a stand, boss and clamp to hold the thermometer.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer",
+      "Specific Heat Capacity",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Using the measuring cylinder, transfer 50 cm³ of water from the supply to the beaker. Clamp the thermometer so that the thermometer bulb is covered by the water in the beaker. Record the temperature θ₁ of the water.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Adjust the Bunsen burner so that a blue flame is produced. Holding the 10g mass in the tongs, place the mass in the centre of the Bunsen flame. Hold in this position for approximately 1 minute. Quickly transfer the mass to the water and record the highest temperature θ₂ reached by the water. The 10g mass will be very hot; it should only be held with the tongs.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The heat transferred from one object to another is given by the equation change in thermal energy = mass × specific heat capacity × change in temperature. A volume of 50 cm³ of water has a mass of 50g. The specific heat capacity of water is 4.2J/(g°C) and the specific heat capacity of the 10g mass is 0.42J/(g°C).",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the heat gained by the water in the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Assuming that the heat gained by the water is equal to the heat lost by the 10g mass, calculate the fall in temperature of the mass.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Hence deduce the temperature θB of the Bunsen flame.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest a reason why your value for θB might be lower than the actual temperature of the Bunsen flame.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q2",
+    "Question_text": "In this experiment, you will find the position of an object formed by a plane mirror. You have been provided with a plane mirror in a holder, three optics pins and a soft board or polystyrene tile.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Investigating Reflection",
+      "Reflection of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.1, draw a normal to the line XY at the point M, towards the bottom of the page. The normal should be greater than 10.0cm long.",
+        "image": "A diagram (Fig. 2.1) showing a horizontal line segment labeled XY with a point M marked in the center. This line represents the position for a plane mirror, and M is a reference point for drawing a normal and placing an object pin."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Place Fig. 2.1 on top of the soft board or polystyrene tile. Place the front surface of the mirror along the line XY with the reflective surface facing the bottom of the page. Place a pin at a distance of 10.0cm from M along the normal. This is the object pin.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Mark the position of this pin on the page with the letter O.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "You are to determine the position of two reflected rays and the position of the image as accurately as possible.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Look at the image of the object pin from the bottom right-hand corner of the page. Without moving your head, place another pin in line with the image. This pin is a sighting pin. Place a second sighting pin in line with the image and the first sighting pin. Label the positions of the sighting pins on the page with the letters P1 and P2. Remove the sighting pins.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Look at the image from a different point on the page. Repeat (i) and label the positions of the sighting pins P3 and P4. Remove the sighting pins and mirror.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Draw a line connecting points P₁ and P₂ and extend the line so that it passes behind the position of the mirror. Also draw a line connecting points P3 and P4 and extend this line so that it intersects the line connecting points P₁ and P₂. Label the point of intersection I.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Measure and record the perpendicular distance y from I to the line XY.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q3",
+    "Question_text": "In this experiment, you will investigate a capacitor charging through a resistor. You have been provided with a circuit consisting of a power supply, a resistor, a capacitor, a switch and a voltmeter. You have also been provided with a stopwatch.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Charge",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a circuit diagram of the circuit. The symbol for the capacitor has been drawn for you.",
+        "image": "A partial circuit diagram showing the symbol for a capacitor. It consists of two parallel vertical lines, with the left line being longer and having a '+' sign next to its top end, indicating a polarized capacitor."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Close the switch to ensure that the capacitor has been discharged and that the voltmeter reads zero.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Open the switch and observe that the reading on the voltmeter rises as the capacitor charges.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Close the switch again to discharge the capacitor. Open the switch and start the stopwatch. Stop the stopwatch when the reading on the voltmeter is 2.0V. Determine the average time t₂ taken for the capacitor to charge to 2.0V.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Repeat the procedure of (b)(iii). This time, stop the stopwatch when the reading on the voltmeter is 1.0V. Determine the average time t₁ taken for the capacitor to charge to 1.0V.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate t₂ / t₁.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2010/Q4",
+    "Question_text": "In this experiment, you will investigate the bending of a wooden metre rule when masses are added to the end of the rule. You have been provided with a wooden metre rule that has been clamped horizontally at the edge of the bench, a 100g mass hanger and four 100g masses, a set square, a second metre rule and a stand, boss and clamp to support the second metre rule. Do not adjust the position of the wooden metre rule that is clamped at the edge of the bench.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Clamp the second metre rule vertically with the zero end of the rule uppermost. Position the vertical rule close to the free end of the horizontal metre rule, with its scale facing towards you, as shown in Fig. 4.1. Explain, with the aid of a diagram, how you ensured that the metre rule was vertical.",
+        "image": "A diagram (Fig. 4.1) illustrating an experimental setup for investigating the bending of a rule. A horizontal metre rule is clamped to a bench using a G-clamp and a small block of wood. The free end of this horizontal rule has a hook. A second metre rule is clamped vertically nearby, with its 0.0 cm mark at the top, positioned to measure the vertical displacement of the horizontal rule's end."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suspend the 100g mass hanger from the small hook at the end of the horizontal rule, as shown in Fig. 4.2.",
+        "image": "A diagram (Fig. 4.2) showing the experimental setup from Fig. 4.1, but now with a 100g mass hanger suspended from the hook at the free end of the horizontal metre rule. The diagram indicates two positions for the rule: the 'initial position of rule' (straight) and the 'position of rule after mass added' (bent downwards). A vertical arrow labeled 'y' illustrates the vertical displacement between these two positions at the point where the mass is suspended."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Determine the vertical displacement y of the end of the horizontal rule, as shown in Fig. 4.2. Show the two readings that you took from the vertical rule in order to determine y.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Add a further 100g to the mass hanger and measure the total vertical displacement of the end of the horizontal rule from its starting position when no load was applied. Record the total mass M suspended from the rule and the new value of y. Show the readings that you took in order to determine the total vertical displacement.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Repeat (c) for a further three values of M. Record your results in a table, including your results from (b)(ii) and (c).",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Using the grid opposite, plot a graph of y/cm against M/g. Draw a straight line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Determine the gradient of your graph.",
+        "image": null
+      }
+    ]
+  }
+]

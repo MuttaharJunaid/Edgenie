@@ -1,0 +1,203 @@
+[
+  {
+    "QuestionNumber": "5054/42/M/J/25/Q1",
+    "Question_text": "A student investigates the refraction of a ray of light passing through a transparent block and determines the refractive index n of the block. The student's ray-trace sheet is shown full size in Fig. 1.1. The outline of the transparent block is shown by the rectangle ABCD. A line SR that meets side AD of the block is also marked.",
+    "image": "Fig. 1.1 shows a ray-trace sheet. A rectangular transparent block labeled ABCD is drawn on the sheet. An incident ray, labeled SR, approaches side AD of the block, meeting it at point R. The area within the rectangle is labeled 'transparent block'. Two small '+' marks are indicated on the ray-trace sheet, one to the right of the block and another below the center of the block.",
+    "Unit": "UNIT 3: Waves, UNIT 1: Motion, Forces & Energy",
+    "Topic": "3.2 Light, 1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 1.1, draw a normal to the block at the point R. Extend your normal 6cm above side AD and below side BC. Label the point where the normal crosses side BC of the block with the letter T. Measure the angle θ between SR and the normal. θ = .............................................. ° [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student: • positions an illuminated slit on the ray-trace sheet so that a ray of light passes along the line SR towards R • marks with small crosses (x) two points on the ray that leaves side BC of the block • removes the transparent block. On Fig. 1.1, draw a straight line through the two crosses to meet side BC of the block. Label the point where this line meets side BC with the letter E. Label the other end of this line as F. Draw a straight line from E to R. This shows the path of the ray of light through the block. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Measure the length a of line ET on Fig. 1.1. a = .............................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Measure the length b of line ER on Fig. 1.1. b = .............................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "On Fig. 1.1, extend the line FE into the block, until it meets the line RT. Label the point where FE meets RT with the letter G. Measure the length c of line EG on Fig. 1.1. c = .............................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Use your values from (c)(i) and (c)(ii) to calculate a first value n₁ for the refractive index of the block. Use the equation shown. n₁ = b / 2a = .............................................. [1]",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Use your values from (c)(ii) and (d) to calculate a second value n₂ for the refractive index of the block. Use the equation shown. n₂ = b / c n₂ = .............................................. [1]",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Two quantities can be considered to be the same within the limits of experimental accuracy if their values are within 10% of each other. Compare your value n₁ for the refractive index calculated in (e)(i) with the value n₂ calculated in (e)(ii). State if your two values can be considered to be the same. Support your statement with a calculation. calculation .................................................................................................................................... statement .................................................................................................................................... [2]",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "One source of inaccuracy in this experiment is careless measurement. Suggest another source of inaccuracy in this experiment. .................................................................................................................................... .................................................................................................................................... .................................................................................................................................... [1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/M/J/25/Q2",
+    "Question_text": "A student investigates the resistance of a thermistor at different temperatures. The student constructs the circuit shown in Fig. 2.1. The thermistor shown in Fig. 2.1 is placed in an empty beaker and is at room temperature.",
+    "image": "Fig. 2.1 shows an electrical circuit diagram. It includes a power supply (battery symbol), a switch, a thermistor labeled with points X and Y, and a 220 Ω resistor labeled with points Y and Z. A voltmeter, labeled V, is connected in parallel across the thermistor (between X and Y). The switch is shown open.",
+    "Unit": "UNIT 4: Electricity & Magnetism, UNIT 2: THERMAL PHYSICS, UNIT 1: Motion, Forces & Energy",
+    "Topic": "4.2 Electrical Quantities, 4.3 Electric Circuits, 2.2 Thermal properties & Temperature, 2.3 Transfer of Thermal Energy, 1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Thermal properties & Temperature",
+      "Convection",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student measures the room temperature θR. The thermometer is shown in Fig. 2.2. Record the reading of θR on the answer line. θR = .............................................. °C [1]",
+        "image": "Fig. 2.2 shows a mercury-in-glass thermometer. The temperature scale is marked in degrees Celsius, ranging from 10 to 30, with major divisions at 10, 20, 30 and minor divisions for each unit. The liquid column indicates a temperature of 23 °C."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student: • closes the switch • records the potential difference across the thermistor VXY while the thermistor is at room temperature θR in the top row of Table 2.1 • opens the switch. The voltmeter is shown in Fig. 2.3. Record the potential difference VXY while the thermistor is at room temperature θR in Table 2.1. Table 2.1 VXY/V | VYZ/V | I/A thermistor at room temperature θR | | 1.4 | thermistor at temperature of hot water θH | 1.2 | 3.3 | [1]",
+        "image": "Fig. 2.3 shows an analogue voltmeter with a scale from 0 to 5 V. The scale has major markings at 0, 1, 2, 3, 4, 5 and is divided into 10 smaller intervals between each major mark. The needle points to 1.8 V."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student: • disconnects the voltmeter from points X and Y • reconnects the voltmeter across the 220 Ω resistor between points Y and Z • closes the switch and records the potential difference across the 220 Ω resistor VYZ while the thermistor is at room temperature θR in the top row of Table 2.1. Re-draw the circuit shown in Fig. 2.1 on page 5 to show the voltmeter connected to measure the potential difference across the 220 Ω resistor. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student: • pours some hot water into the beaker containing the thermistor • places the thermometer into the hot water and stirs the water gently • waits for 30 s • measures the temperature of the hot water θH • measures new values for potential differences VXY and VYZ while the thermistor is at the temperature of the hot water θH. The temperature of the hot water θH is 83°C. The student's measurements are recorded in the bottom row of Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain why the student waits for 30 s before measuring the temperature of the hot water. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the student stirs the water before reading the temperature of the hot water from the thermometer. [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Examine the data in Table 2.1. Compare the reading for the potential difference across the thermistor VXY at room temperature θR with the reading for the potential difference across the thermistor VXY at the temperature of the hot water θH. Suggest what causes the difference in the readings. [1]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The current I in the circuit is calculated using the equation: I = VYZ / R where R = 220 Ω. Use the measurements recorded in Table 2.1 to calculate the current I at room temperature θR and at the temperature of the hot water θH. Record your answers in Table 2.1. [1]",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "The resistance RT of the thermistor is calculated using the equation: RT = VXY / I Use the data in Table 2.1 on page 6 to calculate RT at room temperature θR and at the temperature of the hot water θH. RT at room temperature θR = .............................................. Ω RT at temperature of hot water θH = .............................................. Ω [1]",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "Calculate α, the average change in the resistance of the thermistor per degree Celsius, for the thermistor as the temperature of the thermistor rises from room temperature θR to the temperature of the hot water θH. Use the equation shown. α = change in resistance of thermistor / change in temperature Give your answer to 2 significant figures. α = .............................................. Ω/°C [2]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/M/J/25/Q3",
+    "Question_text": "A student investigates the stretching of a spring. The student suspends the spring from the clamp of a retort stand as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a retort stand with a clamp holding a helical spring. A vertical metre rule is positioned alongside the spring to measure its length. The components are labeled: 'clamp', 'spring', 'stand', and 'metre rule'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces, 1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.2, take readings from the metre rule level with the top of the spring and level with the bottom of the spring. Do not include the loops at the top and the bottom of the spring in your measurements. Record your readings to the nearest 0.1 cm. reading level with top of spring = .............................................. cm reading level with bottom of spring = .............................................. cm [2]",
+        "image": "Fig. 3.2 shows a close-up view of a helical spring alongside a vertical metre rule. The metre rule scale is visible from 39 cm to 41 cm, with 10 subdivisions per cm. The top of the coiled part of the spring is indicated as 'top of spring' and aligns with 39.2 cm. The bottom of the coiled part of the spring is indicated as 'bottom of spring' and aligns with 40.2 cm. The entire rule is labeled 'metre rule'."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Draw on Fig. 3.2 to show how the student uses a set-square to take a reading from the metre rule level with the bottom of the spring. [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the length l of the coiled part of the spring. Use the equation shown. l = reading level with bottom of spring – reading level with top of spring Show your working. Record l in Table 3.1 on page 12 for a load L = 0.0N. [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student: • places a load L = 1.0 N on the spring • takes readings to determine the new length l of the spring. The top of the spring does not move but the bottom of the spring moves downwards. The student determines that the new reading on the rule level with the bottom of spring is 45.2 cm. Calculate the new length l of the spring. Record your answer for the new length l for a load L = 1.0N in Table 3.1 on page 12. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student repeats the procedure in (b)(ii) for loads L = 2.0N, 3.0N, 4.0N and 5.0N. The results are shown in Table 3.1. Table 3.1 load L/N | 0 | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 length l/cm | | | 10.0 | 14.0 | 18.2 | 21.9 On the grid provided in Fig. 3.3 on page 13, plot a graph of l on the y-axis against L on the x-axis. Start from the origin (0, 0). Draw the straight line of best fit. [4]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Use the data in Table 3.1 and the graph in Fig. 3.3 to determine the extension of the spring when a load of 3.5N is added to the spring. Show your working. extension = .............................................. cm [2]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "A student suggests that the stretched length l of the spring is proportional to load L. State if the data in Table 3.1 supports this suggestion. Justify your statement using the data in Table 3.1 or the graph in Fig. 3.3. statement .................................................................................................................................... justification .................................................................................................................................... [1]",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Line of sight (parallax) errors can occur when readings are taken from the metre rule. State one practical technique, other than using a set square, that ensures accurate readings are taken from a metre rule. [1]",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "The student repeats the procedure described in (c) two more times and averages the readings before calculating the spring lengths l for each load L. Explain why the student does this. [1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/42/M/J/25/Q4",
+    "Question_text": "As a metal ball falls through a liquid, it experiences a frictional force from the liquid that opposes the motion of the metal ball. Plan an experiment to determine the relationship between the density of a liquid contained in a measuring cylinder and the average speed of a metal ball falling through the liquid from the surface of the liquid to the bottom of the cylinder. The average speed of the ball is calculated using the equation: average speed = distance travelled / time taken The arrangement of the apparatus is shown in Fig. 4.1. The apparatus available includes: • a measuring cylinder • a metal ball • a selection of different liquids whose densities are known. You may also use any other apparatus commonly found in a school laboratory. In your plan, include: • any other apparatus needed • a brief description of the method, including what you will measure and how you make sure that your measurements are accurate • the variables you will control • a results table to record your measurements (you are not required to enter any readings in the table) • how you will process your results to draw a conclusion. [6]",
+    "image": "Fig. 4.1 shows a cross-section of a measuring cylinder containing a liquid. A spherical metal ball is depicted inside the liquid, implying it is falling or submerged. The components are labeled: 'measuring cylinder', 'metal ball', and 'liquid'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density, 1.2 Motion, 1.5 Forces, 1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Speed & Velocity",
+      "Friction",
+      "Measurement"
+    ],
+    "Parts": []
+  }
+]

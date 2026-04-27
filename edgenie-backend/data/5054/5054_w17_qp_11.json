@@ -1,0 +1,486 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q1",
+    "Question_text": "Which list contains only scalar quantities?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q2",
+    "Question_text": "A manufacturer measures the three dimensions of a wooden floor tile using three different instruments. The approximate dimensions of the tile are shown. length 0.4 m, width 0.08 m, thickness 0.005 m (not to scale) Which instruments are used to measure accurately each of these dimensions?",
+    "image": "A 3D isometric diagram of a rectangular wooden floor tile with its approximate dimensions labeled. The length is 0.4 m, the width is 0.08 m, and the thickness is 0.005 m. The diagram is marked 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q3",
+    "Question_text": "The speed-time graph represents a short journey. Which distance-time graph represents the same journey?",
+    "image": "An initial speed-time graph shows speed increasing linearly from zero over time. Four distance-time graphs are provided as options. Option A shows distance increasing with an increasing gradient (parabolic curve up). Option B shows distance increasing with increasing gradient, then decreasing gradient. Option C shows distance increasing linearly from zero. Option D shows distance increasing linearly and then becoming constant.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Distance-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q4",
+    "Question_text": "An object travels for 20s with a constant speed of 10m/s. For the next 10s, it accelerates uniformly to 20 m/s. What is the total distance travelled by the object in the 30s?",
+    "image": "A speed-time graph. From t=0 to t=20s, speed is constant at 10 m/s. From t=20s to t=30s, speed increases uniformly from 10 m/s to 20 m/s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q5",
+    "Question_text": "A skydiver falls at terminal velocity. He then opens his parachute. Which row gives the direction of the resultant force on the skydiver and the direction of the acceleration of the skydiver immediately after the parachute opens?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Resultant Forces",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q6",
+    "Question_text": "The diagram shows two objects on a beam balance. The beam balance is in equilibrium. Which quantities may be different?",
+    "image": "A diagram of a beam balance in equilibrium. There is a small object on the left pan and a larger object on the right pan, both at equal distances from the central pivot. The beam itself is horizontal.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Mass & Weight",
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q7",
+    "Question_text": "A metal wire is suspended from a support and loads of different mass are attached to the lower end. The table shows how the extension of the wire depends on the mass of the load. mass/kg: 0, 2.0, 4.0, 6.0, 8.0, 10.0; extension/mm: 0, 0.35, 0.70, 1.05, 1.50, 2.05. Between which values of mass does the limit of proportionality lie?",
+    "image": "A table showing mass/kg and corresponding extension/mm for a metal wire under load. The values are: mass 0 kg, extension 0 mm; mass 2.0 kg, extension 0.35 mm; mass 4.0 kg, extension 0.70 mm; mass 6.0 kg, extension 1.05 mm; mass 8.0 kg, extension 1.50 mm; mass 10.0 kg, extension 2.05 mm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q8",
+    "Question_text": "The diagram shows a mercury manometer connected to a gas container. The density of mercury is 14000 kg/m³. The gravitational field strength g is 10N/kg. What is the pressure difference between the gas in the container and the atmosphere?",
+    "image": "A diagram of a U-tube manometer. One end is open to the atmosphere, and the other end is connected to a gas container. The liquid in the manometer is mercury. The mercury level in the arm connected to the gas container is higher (0.60 m from the bottom) than the level in the arm open to the atmosphere (0.20 m from the bottom). The difference in height is 0.40 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q9",
+    "Question_text": "An astronaut on the Moon drops a tool box of mass 3.0 kg. It falls from rest and its kinetic energy as it hits the surface is 0.96 J. At which speed does the tool box hit the surface of the Moon?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q10",
+    "Question_text": "A car travels a distance of 200 m in 20 s. The engine of the car provides a driving force of 1000 N. What is the power output of the engine?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Work",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q11",
+    "Question_text": "A gas is heated in a closed container of constant volume. What happens to the molecules of the gas?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q12",
+    "Question_text": "Scientists believe that some lakes are shrinking because of evaporation. What increases the rate of evaporation?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q13",
+    "Question_text": "Solid wax is melted in a boiling tube and then allowed to cool. The graph shows the cooling curve. What is happening between points X and Y?",
+    "image": "A cooling curve graph showing temperature versus time. The temperature decreases, then there's a horizontal plateau labeled X to Y, after which the temperature decreases again, approaching zero.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q14",
+    "Question_text": "During boiling and during melting, a substance either takes in energy or gives out energy. Which row gives the energy transfer corresponding to the change of state?",
+    "image": "A table with two columns, 'during boiling' and 'during melting', and four rows of 'gives out energy' or 'takes in energy' as options A-D.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q15",
+    "Question_text": "The temperature of a 50g mass of a metal is raised by 40°C. The specific heat capacity of the metal is 0.40 J/(g°C). How much thermal energy is supplied?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q16",
+    "Question_text": "In which substance is the conduction of thermal energy mainly due to the movement of electrons?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q17",
+    "Question_text": "Four similar metal plates are the same distance from a heater that emits infra-red radiation. The plates are painted dull black, dull white, shiny black and shiny white. Which plate absorbs the most radiation and which plate reflects the most radiation?",
+    "image": "A table with two columns 'absorbs most radiation' and 'reflects most radiation', and four rows with combinations of 'dull black', 'dull white', 'shiny black', and 'shiny white' as options A-D.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q18",
+    "Question_text": "A wave is travelling in water in a glass-sided tank. The diagram shows a side view of the wave at one instant. What are the amplitude and the wavelength of the wave?",
+    "image": "A diagram showing a transverse wave. The vertical distance from the equilibrium position to a crest is labeled as 4.0 cm. The horizontal distance from a crest to an adjacent trough is labeled as 5.0 cm.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q19",
+    "Question_text": "An earthquake wave travels through the solid surface of the Earth from east to west. The solid surface vibrates in a north-south direction. How can the earthquake wave be described?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q20",
+    "Question_text": "A solid plastic cylinder is immersed in a liquid of refractive index 1.4. Light travelling in the plastic cylinder strikes the inside surface at an angle of incidence of 70°. The light undergoes total internal reflection. What are the values of the critical angle in the plastic and the refractive index of the plastic?",
+    "image": "A diagram showing light travelling in a plastic cylinder and striking its boundary with a liquid. The angle of incidence is 70°, measured from the normal. The light is shown undergoing total internal reflection. The liquid has a refractive index of 1.4. A reflected ray is shown.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection",
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q21",
+    "Question_text": "What is the name and shape of the lens used to correct short sight?",
+    "image": "A table with two columns: 'name of lens' and 'shape of lens'. Option A shows 'converging' with a biconvex lens shape. Option B shows 'converging' with a plano-convex lens shape. Option C shows 'diverging' with a biconcave lens shape. Option D shows 'diverging' with a plano-concave lens shape.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q22",
+    "Question_text": "An object is placed in front of a converging lens. The lens forms a magnified image of the object on a screen. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q23",
+    "Question_text": "A type of electromagnetic radiation possesses the following properties. It is ionising. Its frequency is higher than the frequency of microwaves. It is not detected by the human eye. What is this radiation?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Dangers of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q24",
+    "Question_text": "Which row gives the speed of sound in air, in water and in steel?",
+    "image": "A table with three columns 'speed in air m/s', 'speed in water m/s', 'speed in steel m/s', and four rows of numerical values as options A-D.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q25",
+    "Question_text": "As a sound wave travels from one medium to another, its wavelength increases. What happens to the frequency and to the speed of the sound?",
+    "image": "A table with two columns 'frequency' and 'speed', and four rows with 'decreases', 'increases', or 'stays constant' as options A-D.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q26",
+    "Question_text": "The diagram shows the pattern and the direction of the magnetic field between two magnetic poles X and Y. Which types of pole are X and Y?",
+    "image": "A diagram showing magnetic field lines between two magnetic poles, X and Y. The field lines emerge from pole X and enter pole Y, indicating the direction of the magnetic field from X to Y.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q27",
+    "Question_text": "The diagram shows a sensitive device surrounded by a shield that prevents the magnetic field from reaching the device. How does the shield protect the device?",
+    "image": "A diagram illustrating magnetic shielding. A 'device' is enclosed within a rectangular 'shield'. Magnetic field lines are shown approaching from the left, being diverted around the shield, and emerging on the right, indicating that the shield channels the field.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnetism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q28",
+    "Question_text": "A polythene rod is charged by rubbing it with a cloth. Which statement explains why the cloth is charged?",
+    "image": "Two diagrams illustrating triboelectric charging. 'before charging' shows a neutral cloth and a neutral polythene rod. 'after charging' shows the polythene rod with negative charges (X's) and the cloth with positive charges (+s), with arrows indicating some charge transfer from cloth to rod.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity",
+      "Electrical Charge",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q29",
+    "Question_text": "What is electromotive force (e.m.f.)?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q30",
+    "Question_text": "In a circuit, a voltmeter is used to measure the potential difference across a lamp. An ammeter is used to measure the current in the lamp. Which diagram shows the circuit?",
+    "image": "Four circuit diagrams (A, B, C, D) each containing a battery, a lamp, an ammeter (A), and a voltmeter (V). Only option A shows the ammeter in series with the lamp and the voltmeter in parallel across the lamp.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q31",
+    "Question_text": "The battery in a circuit contains two identical cells connected in parallel. Which row shows the relationship between currents I₁ and I₂ and gives the electromotive force (e.m.f.) of the battery?",
+    "image": "A circuit diagram showing two identical cells, each 2.0 V, connected in parallel to form a battery. Current I1 flows from the top cell and current I2 from the bottom cell. The output terminals of the parallel combination are shown.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Current in Circuits",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q32",
+    "Question_text": "The diagram shows the circuit for a hair-dryer. The fan motor has a power rating of 0.10kW and the heaters each have a rating of 0.40 kW. The cost of electricity is 8.0 cents/kWh. What is the cost of running the hair-dryer for two hours with switches P and Q closed and switch R open?",
+    "image": "A circuit diagram of a hair-dryer. It shows a fan motor (M) and two heater elements in parallel, connected to an AC supply. Switches P, Q, and R control different parts of the circuit. P controls the fan motor, Q controls one heater, and R controls the other heater.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q33",
+    "Question_text": "Why are the metal casings of electrical appliances earthed?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q34",
+    "Question_text": "The diagram shows a wire XY lying between the poles of a magnet. The ends of the wire are connected to a sensitive ammeter. The wire is moved and a reading is registered. In which direction is the wire moved?",
+    "image": "A diagram showing a wire XY placed between the North (N) and South (S) poles of a magnet. The wire is connected to an ammeter (A). Four possible directions of movement for the wire are indicated by arrows: A (towards N-pole), B (downwards), C (towards S-pole), D (upwards).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q35",
+    "Question_text": "Which particles are emitted by a hot metal filament?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q36",
+    "Question_text": "A light-emitting diode (LED) is connected to an alternating current (a.c.) supply. The LED flashes on and off. What is the direction of the current in the LED when it emits light?",
+    "image": "A circuit diagram showing a light-emitting diode (LED) connected to an alternating current (a.c.) supply. The LED symbol's arrow points to the right.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q37",
+    "Question_text": "A narrow beam of alpha-particles is fired at a thin piece of gold foil. What is the final direction of the largest number of alpha-particles?",
+    "image": "A diagram illustrating the Rutherford scattering experiment. A beam of alpha-particles approaches a gold foil. Four possible directions (A, B, C, D) are shown for the particles after interacting with the foil. Direction A is straight through, B is deflected slightly upwards, C is deflected slightly downwards, and D is deflected significantly back towards the source.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q38",
+    "Question_text": "A nucleus of phosphorus (³²₁₅P) emits a beta-particle to form a new nucleus. What is the nucleon number and what is the proton number of the new nucleus?",
+    "image": "A table with two columns 'nucleon number (mass number)' and 'proton number (atomic number)', and four rows of numerical values as options A-D.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q39",
+    "Question_text": "How does a nucleus of the isotope chlorine-37 differ from a nucleus of the isotope chlorine-35?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2017/Q40",
+    "Question_text": "Which types of radiation may be emitted by radioactive decay?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  }
+]

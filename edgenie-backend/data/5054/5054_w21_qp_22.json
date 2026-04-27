@@ -1,0 +1,299 @@
+[
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q1",
+    "Question_text": "Fig. 1.1 shows a jug of liquid and an empty measuring cylinder that is on an electronic balance. The cyclist leaves town A at time t = 0 and arrives at town B at t = 4.0 hours.",
+    "image": "Fig. 1.1 shows a diagram of an experimental setup. An electronic balance displays '34.9 g'. On the balance, there is an empty measuring cylinder. Next to the balance, there is a jug labeled 'jug' containing a liquid labeled 'liquid'. The measuring cylinder is labeled 'measuring cylinder'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight",
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The electronic balance uses the weight of the measuring cylinder to determine its mass. Weight and mass have different units. State two other ways in which weight differs from mass.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how to determine the density of the liquid using the apparatus shown in Fig. 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The density of the liquid is 780kg/m³. Determine the volume of 0.65 kg of the liquid.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q2",
+    "Question_text": "Force is a vector quantity.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Newton's Third Law",
+      "Speed & Velocity",
+      "Friction",
+      "Resultant Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by a vector.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A swimmer reaches the end wall of a swimming pool and turns around under the water. Fig. 2.1 shows the swimmer immediately after turning around.",
+        "image": "Fig. 2.1 shows a swimmer under water immediately after turning around. The swimmer's body is horizontal, with arms extended forward and legs bent, pushing off the 'end wall' which is on the left. Bubbles are visible around the swimmer's body. The 'water surface' is indicated above the swimmer."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q3",
+    "Question_text": "Fig. 3.1 shows light entering a transparent block. The light enters the block at an angle θ to the normal and travels through the block until it meets the bottom surface. The angle between the ray in the block and the vertical side of the block is φ.",
+    "image": "Fig. 3.1 (not to scale) shows a ray of light entering a transparent block from the top surface. The light ray enters at an angle θ to the normal (dashed line) drawn perpendicular to the surface. Inside the block, the ray is refracted, bending towards the normal. The angle between the refracted ray and the vertical side of the block is labeled φ. The ray then travels to the bottom surface, where it makes an angle of incidence 'i' with the normal to the bottom surface.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection",
+      "The Wave Equation",
+      "Wave Behaviour"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Light travels more slowly in the block than in air.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The refractive index of the transparent material is 1.6. Angle is 45°.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q4",
+    "Question_text": "A washing machine is working normally with both the water heater and the motor switched on. The washing machine is connected to the mains supply by a cable.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Current",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The current in the live wire in the cable is 13A. State the size of the current in:",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The insulation on the mains cable is now damaged and, as the washing machine vibrates, the live wire touches the metal casing.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q5_EITHER",
+    "Question_text": "Fig. 5.1 shows a circuit that contains a direct current (d.c.) power supply, a light-dependent resistor (LDR), two fixed resistors, M and N, and two ammeters.",
+    "image": "Fig. 5.1 shows a series-parallel circuit. A DC power supply with positive and negative terminals is connected to ammeter 1. The circuit then splits into two parallel branches. The top branch contains a fixed resistor M and an LDR (light-dependent resistor). The bottom branch contains a fixed resistor N and ammeter 2. The branches then rejoin and connect back to the negative terminal of the power supply. Ammeter 1 measures the total current, while ammeter 2 measures the current through resistor N.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electrical Charge",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The reading on ammeter 1 is 1.6 mA. Calculate the time taken for a charge of 7.2C to pass through ammeter 1.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Some time later, the brightness of the light incident on the LDR decreases. Explain what happens to:",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q5_OR",
+    "Question_text": "Fig. 5.2 shows the symbol for an electronic circuit component.",
+    "image": "Fig. 5.2 shows a circuit symbol for a transistor, specifically an NPN bipolar junction transistor (BJT) with emitter, base, and collector terminals. The arrow on the emitter points outwards.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electromagnetic Effects",
+      "Electric Motors",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the component shown in Fig. 5.2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 5.3 is the diagram of a circuit that includes this component, a light-dependent resistor (LDR) and a relay. The motor in Fig. 5.3 is part of the pump in a garden fountain. In the dark, the pump does not work. In the morning, the brightness of the light incident on the LDR increases.",
+        "image": "Fig. 5.3 shows a circuit diagram. A 6.0V DC power supply is connected to a series circuit containing an LDR and a resistor. The junction between the LDR and the resistor is connected to the base of an NPN transistor (the component from Fig. 5.2). The emitter of the transistor is connected to the negative terminal of the 6.0V supply. The collector of the transistor is connected through a coil to the positive terminal of the 6.0V supply. This coil is part of a relay. The relay also shows a switch mechanism that connects a motor (labeled 'M') to a 'mains supply' when activated."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q6",
+    "Question_text": "Isotope X is radioactive. It decays by alpha-particle emission to a stable isotope.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "Magnetic Fields",
+      "Force on a Current-Carrying Conductor",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how a nucleus of X changes when it emits an alpha-particle.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "There is a radiation detector in a laboratory where there are no radioactive samples. The detector is switched on and shows an average count rate of 22 counts/minute.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "An alpha-particle passes into a region where there is a magnetic field. In the magnetic field, a force acts on the alpha-particle so that it follows a circular path. Fig. 6.1 shows that the particle passes through point J.",
+        "image": "Fig. 6.1 shows a region labeled 'magnetic field' containing a curved path. An arrow indicates the 'path of alpha particle' entering the magnetic field from the left and curving upwards in a circular arc. Point J is marked on this circular path."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q7",
+    "Question_text": "A hydraulic press is used at a recycling centre to compress waste material. Fig. 7.1 is a side view of the press.",
+    "image": "Fig. 7.1 (not to scale) shows a hydraulic press. It consists of two vertical cylinders connected by a horizontal pipe, all filled with 'oil'. Piston 1 is in the right cylinder, and a force acts on it from the left. Piston 2 is in the left cylinder, labeled with 'upper surface of piston 2'. Below piston 2, 'waste' material is shown. The pipe connecting the two cylinders is labeled 'pipe', and a point 'P' is marked within this pipe. The bottom of the waste material is labeled 'ground'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Density",
+      "Measuring Density",
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Oil is a liquid.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest one advantage of using oil as the liquid in a hydraulic press.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The cross-sectional area of piston 1 is 0.018m². Piston 1 exerts a force of 4500 N on the oil.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "As piston 1 moves along the pipe: the pressure of the oil in the pipe at point P remains constant, piston 2 moves downwards, the pressure of the oil at the upper surface of piston 2 increases.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "There is air trapped in the plastic bags that contain the waste. The temperature of the air in the bags remains constant. Explain, in terms of molecules, why the pressure of the trapped air increases as it is compressed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q8",
+    "Question_text": "The turning effect of a force is measured by its moment.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Investigating Centre of Gravity",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 8.1 shows a force F acting on an object at point P. The object is free to rotate about an axis at X that is perpendicular to the page. Write down an expression for the moment of F about the axis at X. Draw on Fig. 8.1 to show what is meant by any other term used in your expression.",
+        "image": "Fig. 8.1 shows a top-down view of an irregular 'object' with a marked point 'X' representing the axis of rotation, perpendicular to the page. A force 'F' is acting at point 'P' on the object, with its line of action indicated by a dashed line. A perpendicular distance from X to the line of action of F would need to be drawn."
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the principle of moments.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A worker carries a ladder on his shoulder. His shoulder acts as a pivot. Fig. 8.2 shows that the ladder is horizontal. The ladder is wider at one end than at the other end. The mass of the ladder is 8.0kg.",
+        "image": "Fig. 8.2 shows a worker carrying a ladder horizontally on his right shoulder, which acts as a pivot. The ladder is labeled 'L'. A bucket is suspended from the left end of the ladder. Key distances are marked: 1.3 m from the shoulder to the bucket, 0.54 m from the shoulder to point L, and 0.90 m from the shoulder to the 'centre of mass' of the ladder."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/October/November/2021/Q9",
+    "Question_text": "A filament lamp is connected to a 240V alternating current (a.c.) mains supply.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Current",
+      "Resistance",
+      "Combined Resistance",
+      "Electrical Energy",
+      "Circuit Diagrams & Circuit Components",
+      "Electromotive Force & Potential Difference",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the output of an a.c. supply differs from the output of a direct current (d.c.) supply. Sketch two voltage-time graphs in the blank space to help your explanation.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The lamp is rated at 60W and is designed to be used with a 240V supply.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A student takes the lamp in (b) to school and connects it in a circuit using a 1.5V cell, an ammeter and a voltmeter. The circuit is used to determine the resistance of the lamp.",
+        "image": null
+      }
+    ]
+  }
+]

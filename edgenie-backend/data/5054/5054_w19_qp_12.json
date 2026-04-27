@@ -1,0 +1,494 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q1",
+    "Question_text": "Which word is the name of a vector quantity?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q2",
+    "Question_text": "What is the size of the resultant of the two forces shown in the diagram?",
+    "image": "A diagram showing two perpendicular forces. One force of 3.0 N acts vertically upwards, and another force of 4.0 N acts horizontally to the right. Both forces originate from a common point, forming a right angle.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q3",
+    "Question_text": "What is the correct unit for the quantity shown?",
+    "image": "A table with two columns, 'quantity' and 'unit'. It lists four pairs: A) electromotive force (e.m.f.) - N, B) latent heat - J, C) pressure - kg/m³, D) weight - kg.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q4",
+    "Question_text": "A length of copper pipe, of uniform cross-section and several metres long, carries water to a tap. Measurements are taken to determine accurately the volume of copper in the pipe. Which instruments are used?",
+    "image": "A diagram of a copper pipe with uniform cross-section. An arrow indicates the outer diameter of the pipe as 2 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q5",
+    "Question_text": "Part of a speed-time graph for two runners is shown. They are running along the same track. Which statement must be correct?",
+    "image": "A speed-time graph. The y-axis represents speed and the x-axis represents time. Two horizontal lines are shown, both starting from time=0. The upper line is labeled 'runner 1' and the lower line is labeled 'runner 2', indicating that runner 1 maintains a higher constant speed than runner 2.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q6",
+    "Question_text": "The graph shows how the speed of a car varies with time. Which statement about the acceleration of the car between the times 10s and 20s is correct?",
+    "image": "A speed-time graph. The y-axis is speed in m/s, reaching 15 m/s. The x-axis is time in s, reaching 20 s. The graph shows the speed increasing from 0 to 15 m/s in the first 10 seconds, with a curve indicating decreasing acceleration. From 10 s to 20 s, the speed remains constant at 15 m/s, represented by a horizontal line.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration",
+      "Calculating Acceleration from Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q7",
+    "Question_text": "In which descent is the acceleration equal to the acceleration of free fall g at all times?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q8",
+    "Question_text": "A body slides down a frictionless slope, as shown. As the body presses on the surface, the surface pushes back on the body. In which direction does the surface push back on the body?",
+    "image": "A diagram showing a rectangular body sliding down a slope. An arrow labeled 'direction of motion' points downwards along the slope. Four arrows (A, B, C, D) originate from the body. Arrow B is perpendicular to the surface of the slope, pointing upwards and away from the slope, representing the normal force.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q9",
+    "Question_text": "The Earth travels at constant speed in a circular orbit around the Sun. Which arrows show the direction of the acceleration of the Earth and the direction of the velocity of the Earth?",
+    "image": "A diagram illustrating the Earth's orbit around the Sun. The Earth is shown at a point in its circular orbit. Three arrows, P, Q, and R, originate from the Earth. Arrow P points radially outwards from the Sun. Arrow Q points tangentially to the orbit in the direction of motion. Arrow R points radially inwards towards the Sun.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Orbiting Bodies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q10",
+    "Question_text": "A student balances a non-uniform object on a pivot. To do this, a weight is suspended near the left-hand end of the object, as shown. Where is the centre of mass of the object?",
+    "image": "A diagram showing a non-uniform object balanced on a pivot point in the middle. A weight is suspended from the left side of the object. Four points, A, B, C, and D, are marked along the length of the object, with A and B on the left of the pivot, and C and D on the right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q11",
+    "Question_text": "A load L is suspended from two springs that are in parallel. The extension of each spring is x. The springs are then arranged to hang vertically, one below the other. In this new arrangement, what is the total extension of the two springs?",
+    "image": "Two diagrams showing springs and a load L. The first diagram shows two identical springs connected in parallel, supporting load L. The second diagram shows the same two identical springs connected in series (one below the other), supporting the same load L.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q12",
+    "Question_text": "The diagram shows three tubes P, Q and R. Each tube contains air trapped by a water column. Which statement is correct?",
+    "image": "A diagram showing three glass tubes, P, Q, and R, inverted and partially submerged in a trough of water, trapping air above the water column inside each tube. Tube Q is submerged deepest, followed by P and R which are at similar, shallower depths. Tube R is tilted, while P and Q are vertical.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q13",
+    "Question_text": "Which graph shows the relationship between the pressure and the volume of a fixed mass of gas at constant temperature?",
+    "image": "Four graphs plotting pressure against volume. Graph A shows a curve where pressure is inversely proportional to volume (hyperbolic shape), consistent with Boyle's Law. Graphs B, C, and D show different linear or non-linear relationships that do not represent Boyle's Law.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q14",
+    "Question_text": "An object X has mass m and velocity v. A second object Y has mass 2m and velocity 2v. What is the value of the ratio kinetic energy of Y / kinetic energy of X?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q15",
+    "Question_text": "Where is energy released by the fusion of hydrogen nuclei to form helium?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion",
+      "Energy from the Sun"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q16",
+    "Question_text": "A student uses a newton meter to pull an object a distance d horizontally along a flat surface in a time of t. The newton meter reading is F. What is given by the expression (F × d)/t?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Power",
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q17",
+    "Question_text": "A student is given a thermometer that reads 1°C in pure melting ice and 101°C in pure boiling water. She uses it to measure the temperature of some water before and after it is heated. How does the rise in temperature of the water calculated from her results compare with the correct value?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q18",
+    "Question_text": "A student makes four statements about evaporation and boiling. 1 Both involve an increase in molecular separation. 2 Both occur only at a fixed temperature. 3 Both involve the absorption of thermal energy. 4 Both occur throughout the liquid. Which two statements are correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Evaporation",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q19",
+    "Question_text": "How is specific latent heat defined?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q20",
+    "Question_text": "A syringe containing air is sealed at one end. The piston is free to move. The air is heated. What happens to the average distance between air molecules and the density of the air?",
+    "image": "A diagram of a syringe with air trapped inside by a movable piston. The syringe is sealed at one end.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "States of Matter",
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q21",
+    "Question_text": "A metal disc is heated to 600 °C and then lowered into a beaker of water. What happens to the mass of the metal disc and to the mass of the water in the beaker?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q22",
+    "Question_text": "Which description defines the amplitude of a water wave in a ripple tank?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q23",
+    "Question_text": "Here are four statements about wavefronts. 1 Wavefronts from a point source are straight lines. 2 Wavefronts from a point source are circular. 3 Wavefronts are parallel to the direction of energy movement. 4 Wavefronts are perpendicular to the direction of energy movement. Which two statements are correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q24",
+    "Question_text": "An object O is placed in front of a plane mirror. I is the image formed. A ray from the top of the object is incident on the mirror at X. What happens to this ray?",
+    "image": "A ray diagram showing a vertical object O placed in front of a plane mirror. Its virtual image I is formed behind the mirror. A ray from the top of object O travels horizontally to point X on the mirror.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q25",
+    "Question_text": "The diagram shows light passing from glass into air. What is the name of angle P?",
+    "image": "A diagram illustrating a light ray passing from a denser medium (glass) to a less dense medium (air). A normal line is drawn perpendicular to the interface. Angle P is depicted between the incident ray and the normal in the glass medium.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q26",
+    "Question_text": "An object is placed in front of a converging lens of focal length 4.0 cm. The height of the image is 6.0 cm. The arrangement is shown on the scale diagram. What is the linear magnification produced by the lens?",
+    "image": "A ray diagram on a grid for a converging lens. An object is placed to the left of the lens. Its inverted and magnified real image is formed to the right. The diagram indicates the object height as 3 grid units and the image height as 6 grid units. The lens is centered on the optical axis.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q27",
+    "Question_text": "Which row shows the speed of sound in air (ca), liquid (c_l) and solid (c_s) in order from slowest to fastest?",
+    "image": "A table with three columns: 'slowest', 'medium', 'fastest'. Each row provides a different ordering of ca (speed in air), cl (speed in liquid), and cs (speed in solid).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q28",
+    "Question_text": "A man stands 80 m in front of a cliff face. He makes a loud bang and listens for the echo. He makes a loud bang once every second. He hears an echo exactly halfway between the bang that caused it and the next bang. What is the speed of sound?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q29",
+    "Question_text": "The diagram shows two magnetic field lines of the magnetic field around two bar magnets. Which row shows the magnetic poles at end P and end Q of the two magnets?",
+    "image": "A diagram illustrating two bar magnets placed end-to-end, with magnetic field lines drawn between them. The field lines are shown curving from the end labeled P on the left magnet to the end labeled Q on the right magnet, indicating an attractive force between the two ends.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q30",
+    "Question_text": "A metal plate X is attached to earth by a battery. The plate has a positive charge. A second metal plate Y is initially uncharged and connected to earth. This plate is positioned parallel to X. What happens as Y is brought closer to X?",
+    "image": "A circuit diagram with two parallel metal plates, X and Y. Plate X is shown with positive charges and connected to earth via a battery. Plate Y is uncharged and connected directly to earth. The plates are positioned parallel to each other.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Demonstrating Electric Charges",
+      "Static Electricity",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q31",
+    "Question_text": "The diagram shows a metal lightning conductor attached to a building. Why is the lightning conductor made of copper?",
+    "image": "A diagram of a building with a metal lightning conductor extending from its highest point to the ground, where it is connected to the earth.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Investigating Conductors & Insulators",
+      "Resistance",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q32",
+    "Question_text": "Which symbol does not represent a power source?",
+    "image": "Four standard electrical circuit symbols: A) a cell or DC power supply (long and short parallel lines), B) a voltmeter (circle with 'V' inside), C) an AC power supply (circle with a sine wave inside), D) a battery (multiple cells in series).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q33",
+    "Question_text": "Resistors of different resistances are connected to a power supply in either a parallel circuit or a series circuit. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q34",
+    "Question_text": "An ammeter is connected to three resistors and a power supply. Which arrangement of resistors gives the greatest ammeter reading?",
+    "image": "Four circuit diagrams (A, B, C, D), each showing a power supply and an ammeter connected to three resistors (2Ω, 4Ω, 4Ω) arranged differently. Option A shows two 4Ω resistors in series, then the 2Ω resistor in parallel with this combination. Option B shows two 4Ω resistors in parallel, then the 2Ω resistor in series with this combination. Option C shows all three resistors (2Ω, 4Ω, 4Ω) connected in parallel. Option D shows all three resistors (2Ω, 4Ω, 4Ω) connected in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q35",
+    "Question_text": "A hotplate on an electric cooker contains two identical resistors. The switch has three positions. position 1 The two resistors are connected in series to the mains supply. position 2 The two resistors are connected in parallel to the mains supply. position 3 Just one resistor is connected to the mains supply. Which positions correspond to the low, the medium and the high power settings?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q36",
+    "Question_text": "A mains electric circuit is fitted with a circuit breaker rather than a fuse. Where is the circuit breaker connected and what happens when the current is too large?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q37",
+    "Question_text": "Transformers are used to transmit electrical energy between power stations and transmission cables, as shown. What is the purpose of the transformer in the diagram?",
+    "image": "A block diagram showing the flow of electrical energy: 'power station' -> 'transformer' -> 'transmission cables'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations",
+      "Electrical Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q38",
+    "Question_text": "A thermistor warms up as the current in it increases. Which graph shows how the voltage V across the thermistor changes as the current I through it is increased?",
+    "image": "Four graphs plotting voltage (V) on the y-axis against current (I) on the x-axis. Graph A shows a curve where V increases non-linearly with I, with the slope decreasing as I increases (representing decreasing resistance). Graph B shows a linear relationship (constant resistance). Graph C shows V increasing then flattening out. Graph D shows V increasing linearly, then more steeply (representing increasing resistance).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q39",
+    "Question_text": "Radioactive substances are used as tracers in medical examinations. A liquid tracer is injected into a patient. A detector 20 cm above the patient shows where the radioactive substance is in the body. What is the best radioactive substance to use?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Uses of Radiation",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Dangers of Radiation",
+      "Detection of Radioactivity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/12/2019/Q40",
+    "Question_text": "An isotope of lead, ²¹²₈₂Pb, is radioactive. After three decays, two beta-particles and an alpha-particle have been emitted. Another radioactive isotope of lead is formed. What is the mass number (nucleon number) of the new isotope of lead?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

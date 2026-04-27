@@ -1,0 +1,116 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Reactions between alkalis and acids are exothermic. The change in temperature when aqueous sodium hydroxide is added to dilute hydrochloric acid of known concentration can be used to determine the concentration of the alkali.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "(i) Put P into a burette and use it to measure 10cm³ of P into a plastic cup. Measure the temperature of P to the nearest 0.5°C and record the value in column D of the table. (ii) Using a measuring cylinder, measure 40cm³ of Q as accurately as possible. Pour this volume of Q into the plastic cup containing P. Stir, using the thermometer, and measure the highest temperature reached. Record the value in column E of the table.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Plot a graph of temperature rise (column F) against volume of P (column B) on the grid opposite. Using these points, draw two intersecting straight lines.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Definitions in experiments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "From the graph, read the volume of P where the two lines cross.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Interpreting data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Calculate the number of moles of hydrochloric acid present in the volume of P you gave as an answer to (c).",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "Deduce the number of moles of sodium hydroxide which react with the number of moles of hydrochloric acid you gave as an answer to (d).",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1f",
+    "Question_text": "Calculate the concentration, in mol/dm³, of the aqueous sodium hydroxide, Q.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "You are provided with solutions R and S. Carry out the following tests and record your observations in the table. You should test and name any gas evolved.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases",
+      "Tests for anions",
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2 - Conclusions",
+    "Question_text": "Give the formula for a cation and the formula for an anion in R.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2 - Conclusions - 2",
+    "Question_text": "In Tests 4 and 6, S is acting as",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidising agent definition",
+      "Reducing agent definition"
+    ],
+    "Parts": []
+  }
+]

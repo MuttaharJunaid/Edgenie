@@ -1,0 +1,414 @@
+[
+  {
+    "QuestionNumber": "O/N/21/2024/Q1",
+    "Question_text": "A trolley of mass 0.20 kg is at rest on a frictionless surface. A block of wood is attached to the trolley. The volume of the block of wood is 0.0012m³, and the density of the wood is 650kg/m³.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Mass & Weight",
+      "Hooke's Law",
+      "Investigating Force & Extension",
+      "Work",
+      "Power",
+      "Kinetic Energy",
+      "Elastic Potential Energy",
+      "Acceleration",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the combined mass of the trolley and block.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 1.1 shows that a student attaches a spring of spring constant 14N/m to the front of the trolley. The student holds the trolley and block and stretches the spring. He releases the trolley and block. The trolley and block accelerate from rest. As the trolley and block accelerate, the student keeps the extension of the spring at 0.035 m.",
+        "image": "Fig. 1.1 shows a diagram of a block of wood attached to a trolley on a frictionless surface. A spring is attached to the front of the trolley, being stretched by a hand. The labels indicate 'spring', 'block of wood', 'trolley', and 'frictionless surface'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the force exerted by the spring on the trolley.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The trolley and block are pulled a distance of 0.86 m by the spring. Calculate the work done on the trolley.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain why the power transferred to the trolley and block increases as the speed increases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/21/2024/Q2",
+    "Question_text": "A student makes a ball from modelling clay. The ball has a mass of 0.20 kg. She drops the ball from a height of 40 m above the ground.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Conservation of Energy",
+      "Specific Heat Capacity",
+      "Energy Stores & Transfers",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the initial gravitational potential energy of the ball.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the speed of the ball immediately before the ball hits the ground. Ignore the effect of air resistance.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the ball hits the ground, it stops moving. The kinetic energy of the ball is transferred to internal energy. The temperature of the ball increases.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The specific heat capacity of modelling clay is 1400J/(kg°C). Calculate the maximum possible temperature increase of the ball. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest one reason why the actual temperature increase of the ball may be smaller than the value calculated in (b)(i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/21/2024/Q3",
+    "Question_text": "Fig. 3.1 shows gas at room temperature. The gas is trapped in a metal cylinder by a metal piston fixed in position. The metal cylinder is immersed in boiling water and the temperature of the trapped gas increases.",
+    "image": "Fig. 3.1 shows a diagram of a metal cylinder with a metal piston fixed in position, trapping gas. The components are labeled: 'gas', 'piston', 'metal cylinder'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Thermal Conduction",
+      "Gases & Absolute Temperature",
+      "States of Matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain, in terms of electrons and the atoms of the metal, how thermal energy is transferred through the walls of the metal cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The piston is fixed in position so the pressure of the gas increases as the temperature of the gas increases.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what happens to the motion of the particles of the gas as the temperature increases.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain, in terms of the particles of the gas, why the pressure the gas exerts on the walls of the metal cylinder increases as the temperature increases.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The gas in the cylinder reaches a temperature of 100 °C. The piston is released and moves to the right. The temperature remains at 100°C. The pressure of the gas now decreases.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain, in terms of the particles of the gas, why the pressure of the gas now decreases.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Eventually, the piston stops moving. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/21/2024/Q4",
+    "Question_text": "A student directs a beam of white light from a filament lamp towards a glass prism in a dark room. Fig. 4.1 shows the beam of white light incident on the left-hand side of the glass prism. A screen is placed to the right of the glass prism. Red light is observed at point R on the screen and violet light is observed at point V.",
+    "image": "Fig. 4.1 shows a diagram of a beam of white light incident on a glass prism. The white light enters from air, hits the prism, and then exits, separating into different colors. A screen is placed to the right, showing points R (red) and V (violet), and point P is next to R. The path of the white light beam to the prism is labeled 'beam of white light'. The medium before the prism is 'air', and the prism itself is 'glass prism'. The light paths within the prism and to the screen for red and violet light are not yet drawn.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light",
+      "Refraction of Light",
+      "Features of Waves",
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw on Fig. 4.1 to show the paths of the red light and the violet light between the left-hand side of the prism and the screen at point R and point V.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State what these observations show about the change in speed of red light and change in speed of violet light as each enters the glass from the air.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Five other colours of light appear on the screen between the red light at point R and the violet light at point V.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State the names of the five colours and list them in the correct order from red to violet.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State how the frequency and the wavelength of the coloured light change going from red light to violet light.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "On Fig. 4.1, point P is shown immediately next to point R. No light is observed at point P, but a detector at point P registers radiation reaching the detector. State which region of the electromagnetic spectrum is detected at point P.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/21/2024/Q5",
+    "Question_text": "Ultrasound is a longitudinal wave which cannot be heard by humans as the frequency of ultrasound is too high.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Sound Waves",
+      "Transverse & Longitudinal Waves",
+      "The Wave Equation",
+      "Features of Waves",
+      "Wave Behaviour"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Ultrasound waves cannot travel in a vacuum. Explain why.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how a longitudinal wave differs from a transverse wave.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "An ultrasound transmitter used for a medical scan produces an ultrasound wave of frequency 8.4 MHz. In soft human tissue, ultrasound travels at 1500m/s.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the wavelength of this ultrasound wave in soft human tissue.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The ultrasound wave passes from the soft tissue into bone where the speed of the ultrasound wave is greater than 1500 m/s. State what happens to the frequency and to the wavelength of the ultrasound wave as it passes into the bone.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/21/2024/Q6",
+    "Question_text": "A bar magnet can rotate freely around a thin rod through its centre. The bar magnet is at rest on a frictionless horizontal surface in a laboratory which is shielded from the Earth's magnetic field.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields",
+      "Magnetic Effect of a Current",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State a substance from which the bar magnet could be made.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The thin rod is perpendicular to the top and bottom surfaces of the bar magnet. Fig. 6.1 shows a view from above of the bar magnet with the N pole, the S pole and the thin rod labelled. Draw on Fig. 6.1 to show the pattern and the direction of the magnetic field around the bar magnet.",
+        "image": "Fig. 6.1 shows a top-down view of a bar magnet with a thin rod passing through its center. The North pole (N) is on the left and the South pole (S) is on the right. The rod is perpendicular to the magnet's surface, acting as a pivot."
+      },
+      {
+        "part_label": "c",
+        "part_text": "An electromagnet is switched on and a strong magnetic field is created around the bar magnet. Fig. 6.2 shows that the direction of the strong magnetic field due to the electromagnet is from left to right across the page.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Draw arrows on Fig. 6.2 to show the direction of the horizontal forces that act on the poles of the bar magnet.",
+        "image": "Fig. 6.2 shows a bar magnet with North (N) and South (S) poles placed within uniform magnetic field lines, which are directed from left to right across the page, labeled 'magnetic field lines due to electromagnet'."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe and explain what happens to the bar magnet when the electromagnet is switched on.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/21/2024/Q7",
+    "Question_text": "A filament lamp connected to a 12V power supply transfers 24W of power.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Electrical Power",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Dividers",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "the current in the lamp",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the resistance of the lamp in this circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A student has a battery of electromotive force (e.m.f.) 12V. The student uses the battery in a circuit with the 12V filament lamp to obtain a range of suitable readings and plots the current-voltage graph for the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 7.1 shows the battery and the filament lamp. On Fig. 7.1, complete the circuit diagram of a suitable circuit. You will need to add additional components.",
+        "image": "Fig. 7.1 shows a partial circuit diagram consisting of a 12V battery and a filament lamp symbol. The battery is drawn with positive and negative terminals, and the lamp is represented by a circle with a cross inside."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 7.2, draw the shape of the current-voltage graph for the filament lamp.",
+        "image": "Fig. 7.2 shows a blank graph with 'current' on the y-axis and 'voltage/V' on the x-axis, with voltage marked at 0, 3, 6, 9, 12."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State what happens to the resistance of a filament lamp as the applied voltage increases and explain one reason for this happening.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/21/2024/Q8",
+    "Question_text": "The nuclide notation for the radioactive isotope hydrogen-3 is H.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "The Nucleus"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why hydrogen-3 cannot decay by the emission of alpha particles.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Hydrogen-3 decays by the emission of beta particles to an isotope of a different element. This element is represented in the equation by Q.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete the nuclide equation for the decay of hydrogen-3.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the name of the element represented by Q.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The half-life of hydrogen-3 is 12 years.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Define 'half-life'.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A sample of hydrogen-3 is placed on a laboratory bench next to a Geiger-Müller tube and counter. The count rate is recorded at the same time on four successive days. Table 8.1 shows the count rates obtained. State why the count rate decreases and increases.",
+        "image": "Table 8.1 titled 'count rates obtained' shows a table with 'day' (1, 2, 3, 4) and 'count rate counts/s' (98, 89, 93, 85)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/21/2024/Q9",
+    "Question_text": "A stable star in a distant galaxy has a mass that is more than 15 times the mass of the Sun.",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "Stars",
+      "The Sun as a Star",
+      "The Universe",
+      "Fusion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of the nuclear reaction that occurs at the centre of the star and describe this nuclear reaction.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how this nuclear reaction helps to keep the star stable.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "As a massive star approaches the end of its life, it stops being stable and becomes a red supergiant.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State why the nuclear reaction can no longer keep the star stable.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe what then happens to the red supergiant.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,448 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2015/Q1",
+    "Question_text": "Fig. 1.1 shows the distance-time graph for two cyclists A and B. They start a 500m race together but finish the race at different times.",
+    "image": "A distance-time graph titled 'Fig. 1.1' with 'time/s' on the x-axis (from 0 to 70s) and 'distance/m' on the y-axis (from 0 to 600m). Two straight lines, labeled 'A' and 'B', originate from (0,0). Line A reaches 500m distance at approximately 45s, and Line B reaches 500m at approximately 60s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Distance-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Use Fig. 1.1 to determine the distance between A and B at time t = 20s,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the difference in the time taken by A and B for the race.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Cyclist C starts the race at the same time as A and B and covers the first 200 m of the race at a constant speed of 5.0m/s. He then accelerates and finishes the race at t = 60s. On Fig. 1.1, draw the distance-time graph for cyclist C.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the average speed of cyclist C for the whole race.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q2",
+    "Question_text": "Fig. 2.1 shows a student doing a press-up. A total force F acts upwards on his hands. There is also a force upwards on his toes. The weight of the student is 600N and this force acts downwards from his centre of mass.",
+    "image": "A diagram titled 'Fig. 2.1 (not to scale)' shows a person in a press-up position. The person is supported by their hands and toes. An upward force 'F' is indicated at the hands. The 'centre of mass' is marked between the hands and toes, with a downward force of '600 N' (representing weight) acting from it. Distances are labeled: 0.40 m from toes to the centre of mass, and 0.80 m from the centre of mass to the hands.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Centre of Gravity",
+      "Work",
+      "Energy Stores & Transfers",
+      "Resultant Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why the student does work as his body rises from the ground.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the form of energy that the student uses to do this work.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "At the position shown in Fig. 2.1, the student is stationary. The weight of the student causes a moment about his toes. Calculate the moment of the weight of the student about his toes.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the value of the force F.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q3",
+    "Question_text": "An experiment is carried out to find how the pressure of a fixed mass of air at room temperature varies with volume. Fig. 3.1 shows the apparatus used. The syringe is sealed at one end and the piston is free to move up and down as different metal weights are used.",
+    "image": "A diagram titled 'Fig. 3.1' shows a vertical syringe. Metal weights are placed on top of a 'piston'. A 'volume scale' is marked along the side of the 'syringe'. 'Air' is enclosed beneath the piston, and the bottom end of the syringe is a 'sealed end'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Pressure & Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the unit in which pressure is measured.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 3.2 shows the axes for a graph of pressure against volume for the air in the syringe. One point is plotted on the graph at pressure of Po and volume Vo. The temperature of the air is kept constant. On Fig. 3.2, plot points at volumes of 0.5 V0 and 2.0 V0,",
+        "image": "A graph titled 'Fig. 3.2' with 'pressure' on the y-axis (labeled from 0.5 P0 to 2.0 P0) and 'volume' on the x-axis (labeled from 0.5 V0 to 2.0 V0). A single point 'X' is plotted at coordinates (V0, P0)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "complete the graph.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "More metal weights are placed on top of the syringe. Explain how the molecules of air inside the syringe are able to support more metal weights.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q4",
+    "Question_text": "Fig. 4.1 shows a wave on a string. The wave is travelling towards the right.",
+    "image": "A diagram titled 'Fig. 4.1' depicts a person holding one end of a string, generating a transverse wave. The wave pattern is sinusoidal, and the direction of wave travel is indicated as 'distance along string' towards the right. Specific points along the string are marked at 0.05 m, 0.25 m, 0.45 m, and 0.65 m from the origin.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the movement of the particles of the string.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Determine the wavelength of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The speed of the wave is 2.0m/s. Calculate the frequency of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 4.1, draw the string at a time 0.10s later than the time in Fig. 4.1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q5",
+    "Question_text": "Fig. 5.1 shows a ray of light entering and passing along an optical fibre.",
+    "image": "A diagram titled 'Fig. 5.1' illustrates a ray of light passing from 'air' into 'glass'. The incident ray in air makes an angle of 50° with the normal to the surface. The refracted ray in glass makes an angle of 30° with the normal. The ray then travels within the glass and strikes an internal boundary at point 'A'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the refractive index of the glass in the optical fibre.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the ray of light is totally internally reflected at A.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Both optical fibre and copper wire are used to transmit data. Optical fibre is cheaper and can carry more data per second than copper wire. State one other advantage of using optical fibre rather than copper wire to transmit data.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q6",
+    "Question_text": "Fig. 6.1 shows a circuit that contains a resistor connected to a power supply of 6.0V and a lamp L. The resistor has a resistance of 60Ω. The lamp is marked 6.0V, 0.90W.",
+    "image": "A circuit diagram titled 'Fig. 6.1' shows a 6.0 V power supply connected to a 60 Ω resistor in series. A lamp 'L' is connected in parallel across the 60 Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the current in the resistor,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the current in the power supply.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A second lamp is added to the circuit shown in Fig. 6.1. The second lamp is in series with the 60Ω resistor, but is not in series with lamp L. In the space below draw a circuit diagram of this new circuit. The power supply, 60Ω resistor and lamp L have been drawn for you.",
+        "image": "An incomplete circuit diagram showing a power supply, a 60 Ω resistor, and a lamp L, identical to Fig 6.1, but with a gap indicating where a second lamp should be added in series with the 60 Ω resistor, but parallel to lamp L's original connection point."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The two lamps are identical. Explain why the second lamp is dimmer than lamp L. A calculation is not required.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q7",
+    "Question_text": "A simple apparatus used to demonstrate electromagnetic induction is shown in Fig. 7.1. The coil is connected to two light-emitting diodes (LEDs). The magnet moves into and out of the coil.",
+    "image": "A diagram titled 'Fig. 7.1' illustrates an experimental setup. A 'magnet' (labeled with S and N poles) is suspended by a 'spring' from a 'support'. The magnet is positioned above a 'coil'. An arrow indicates 'movement' of the magnet. The coil is connected to two 'LED's, which are shown in an anti-parallel configuration.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why there is an induced e.m.f. in the coil when the magnet moves.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why one LED lights up when the magnet moves into the coil and the other LED lights up when the magnet moves out of the coil.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The LEDs are brighter when the magnet moves faster. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q8",
+    "Question_text": "Fig. 8.1 shows the basic structure of a cathode-ray oscilloscope (c.r.o.). Some parts are missing. Electrons are emitted from the filament by thermionic emission.",
+    "image": "A diagram titled 'Fig. 8.1' shows the basic components of a cathode-ray oscilloscope (C.R.O.) tube. On the left, a filament is connected to an AC power source and surrounded by a cathode labeled 'C'. An 'anode' is positioned further along the tube. The electron beam path extends towards the right, ending at a flat 'screen' within a 'glass tube'. Deflection plates are not shown.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "Electrical Charge"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by thermionic emission.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Electrons hit the screen at high speed. Explain how the electrons are made to travel at high speed.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The spot on the screen is made to move up and down and also across the screen. The parts of the c.r.o. that make this happen are not shown in Fig. 8.1. On Fig. 8.1, draw and label the parts that are needed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q9",
+    "Question_text": "Fig. 9.1 shows a satellite in orbit around the Earth.",
+    "image": "A diagram titled 'Fig. 9.1 (not to scale)' shows a large circle representing 'Earth' at the center. A smaller, concentric circle illustrates the orbit, with a small dot labeled 'satellite' moving along this path.",
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "Orbiting Bodies",
+      "Gravitational Effects on Orbits",
+      "Scalars & Vectors",
+      "Speed & Velocity",
+      "Acceleration",
+      "Resultant Forces",
+      "Mass & Weight",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The satellite travels at a constant speed in a circular orbit. Underline the quantities in the list below that are scalars. acceleration force mass speed velocity",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)1.",
+        "part_text": "The velocity of the satellite changes, but its speed is constant. State what is meant by velocity.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)2.",
+        "part_text": "Explain why the velocity changes.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain what makes this satellite move in an orbit that is circular.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The satellite is placed into orbit by a rocket. Fig. 9.2 shows the rocket as it takes off. The rocket and fuel have a total mass of 40000kg and a total weight of 400000 N. The resultant force acting upwards on the rocket is 50000 N. Calculate the thrust produced by the rocket engine.",
+        "image": "A diagram titled 'Fig. 9.2' shows a rocket taking off. Upward arrows indicate 'thrust of engine' and 'resultant force'. A downward arrow indicates 'weight'."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the acceleration of the rocket.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In the first four minutes after take-off, the acceleration of the rocket is uniform. State what is meant by a uniform acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Fig. 9.3 describes the motion of the rocket in the first 12 minutes. On Fig. 9.4, sketch the speed-time graph of the rocket for the first 12 minutes. You do not need to give values for the speed.",
+        "image": "Two figures are provided. Fig. 9.3 is a table with columns 'time/minutes' (0 to 12) and 'motion of the rocket' (uniform acceleration, increasing acceleration, decreasing acceleration, constant speed). Fig. 9.4 is an empty speed-time graph with 'time after take-off/min' on the x-axis (0 to 12) and 'speed' on the y-axis."
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "State how the speed-time graph in (ii) can be used to find the distance travelled by the rocket.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q10",
+    "Question_text": "A student makes a diagram of the molecules in a liquid, as shown in Fig. 10.1.",
+    "image": "A diagram titled 'Fig. 10.1' illustrates several circular 'molecule' symbols, somewhat regularly arranged with small gaps, typical of a liquid. Each molecule has small arrows emanating from it, indicating 'motion' in various directions.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Evaporation",
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest two ways in which the student's diagram does not show the positions and motion of the molecules accurately.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Some of the molecules of a liquid evaporate. Describe what happens during evaporation.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why evaporation has a cooling effect on the liquid.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The beaker shown in Fig. 10.2 contains pure water at a temperature of 80°C. A thermometer, initially at room temperature, is placed in the air just above the water. The reading on the thermometer starts to increase slowly. Explain how convection in the air causes the reading on the thermometer to increase.",
+        "image": "A diagram titled 'Fig. 10.2' shows a beaker containing 'water'. A 'thermometer' is suspended in the air directly above the water surface, not touching the water."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A heater is placed underneath the beaker and the water boils vigorously to produce steam. The thermometer reading increases quickly. Explain how the water in the gas state gives thermal energy (heat) to the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)1.",
+        "part_text": "The heater placed underneath the beaker has a power of 200W. The mass of water in the beaker is initially 100g. The water in the beaker is heated for a time of 120s. During this time, the temperature of the water in the beaker rises from 80°C to 100°C and then the water boils. At the end of this time, the mass of water in the beaker is 95 g. The specific heat capacity of water is 4.2J/(g°C). The specific latent heat of vaporisation of water is 2250J/g. Calculate the thermal energy (heat) produced by the heater in 120s,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)2.",
+        "part_text": "used to warm the water from 80°C to 100°C,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)3.",
+        "part_text": "used to reduce the mass of water in the beaker,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)4.",
+        "part_text": "produced by the heater that is not transferred to the water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2015/Q11",
+    "Question_text": "A student makes a model of an atom. The model contains 24 electrons, 25 protons and 26 neutrons. Some of these particles are inside a nucleus at the centre of the model.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the nucleon number (mass number) of the atom.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the model represents a charged atom.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The student makes a new model of a different isotope of the same element. Describe the nucleus of this new model.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Americium-241 is radioactive. Its nuclide notation is 241/94Am. Determine the number of neutrons in a nucleus of americium-241.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A nucleus of americium-241 emits an α-particle and decays to uranium-237. Complete the nuclear equation for the decay of americium-241. 241/94 Am → α + 237/U",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Geiger and Marsden studied the structure of gold atoms. Fig. 11.1 shows a version of their apparatus. Alpha-particles strike a thin gold foil. The apparatus shown is in a container from which all the air is removed. Suggest why it is necessary to remove all the air from the container.",
+        "image": "A diagram titled 'Fig. 11.1' shows the Geiger-Marsden experiment setup. An 'alpha-particle source' directs a beam through a 'slit' towards a 'gold foil'. A circular 'detecting screen' surrounds the gold foil, showing alpha particles deflected at various angles, some passing straight through, some with small deflections, and a few with large deflections."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The alpha-particles are emitted from the source at random. Explain why most of the alpha particles from the source do not reach the gold foil.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Fig. 11.2 shows a model of an atom of the gold foil, with its nucleus at the centre. The alpha-particle labelled A is deflected by the nucleus, as shown. On Fig. 11.2, complete the path of the alpha-particle labelled B.",
+        "image": "A diagram titled 'Fig. 11.2 (not to scale)' shows a central 'nucleus' within an atom. 'Alpha-particle A' is depicted approaching the nucleus and being deflected away from it. 'Alpha-particle B' is shown on a path further from the nucleus, with its trajectory incomplete, indicating it needs to be drawn."
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Explain how the alpha-particle scattering experiment provides evidence for the existence of a small nucleus inside the atom.",
+        "image": null
+      }
+    ]
+  }
+]

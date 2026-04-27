@@ -1,0 +1,388 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which task will not be performed by a book-keeper?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "What are assets?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Sammy bought goods on credit and later returned some of these goods. How would he record the returns in his books of account?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Outline double entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "An account in Peter's books of account was as follows: Rami $ $ bank 380 balance b/d 400 discount received 20 400 400 Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Trade/cash discount accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "At the end of her financial year, Jasmine balanced her cash book and ledger accounts and made appropriate year-end transfers. Which statements are correct? 1 The debit balance on the account of a credit customer will be shown as an asset in the statement of financial position. 2 The debit balance on the bank column in the cash book will be shown as a liability in the statement of financial position. 3 The total of the discount received account will be included in the cost of sales in the income statement. 4 The total of the general expenses account will be deducted from gross profit in the income statement.",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Update cash book items"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A trader bought goods on credit from a supplier. In which book of prime entry would the trader record this transaction?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Use/process prime entry books"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Which account balance will appear in the debit column of a trial balance?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Trial balance statement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The totals of a trial balance did not agree, and a suspense account was opened. It was later found that the total of the discount allowed column in the cash book of $100 had been credited to the discount allowed account. Which journal entry corrects this error?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Suspense account usage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "After calculating his profit for the year, Yui discovered the following errors. 1 A purchase of a new motor vehicle for $3200 was debited to motor expenses. 2 The purchases account was overcast by $500. What was the effect on the profit for the year after correcting these errors (ignore depreciation)?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Effect on profit incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Jerry received a cheque of $450 from Fatima. He entered the receipt of the cheque correctly in his cash book. The posting to Fatima's account was reversed in error. Which journal entry corrects this error?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Process data double entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Somraj's bank statement showed a credit balance of $740 at 31 January. Somraj compared the bank statement with his cash book and updated the cash book after he found the following: $ bank charges not recorded in the cash book 30 cheque paid but not presented to the bank 150 What was the updated cash book balance at 31 January?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "George is preparing his purchases ledger control account. Which information would he obtain from his general journal in order to do this?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Sources for control entries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Javid's sales ledger control account had a debit balance of $12000. Interest of $40 on an overdue account and also discount allowed of $150 had been omitted. What was the correct balance on the sales ledger control account?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "What is the effect of incorrectly treating expenses as capital expenditure?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Effect on profit incorrect treatment",
+      "Effect on assets incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "Atif depreciates his motor vehicles at a rate of 20% per annum, using the reducing balance method. On 1 May 2024, Atif owned motor vehicles which had cost $35000. The accumulated depreciation on these motor vehicles was $12600 on 1 May 2024. What will be the balance on Atif's provision for depreciation account on 30 April 2025?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Depreciation methods description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "T Limited rents out part of its premises. At the start of the year, the tenant was $600 in arrears. During the year, T Limited received $8650 in rent from the tenant. T Limited's income statement showed rent receivable for the year as $7900. What was the balance brought down on the rent receivable account at the start of the following year?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "A provision for doubtful debts of 5% of trade receivables is maintained. At 1 January 2024, the provision for doubtful debts account had a credit balance of $240. At 31 December 2024, trade receivables owed $5200. It was decided that $200 of this amount was irrecoverable. Which entry was made in the provision for doubtful debts account on 31 December 2024?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record/adjust doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "How should a business value its inventory?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Inventory valuation basis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Which items are shown in a statement of financial position?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Financial position content"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "A business provided the following information about two expenses. 1 January 2024 $ amount paid during year ended 31 December 2024 $ 31 December 2024 $ electricity 240 accrued 1500 360 accrued insurance 180 prepaid 1200 220 prepaid Which amounts are charged to the income statement for the year ended 31 December 2024?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid expenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which item is a current liability?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "What is an advantage to a sole trader of forming a partnership?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Partnership advantages/disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Which statements are correct in relation to the financial statements of a partnership? 1 Interest on partners' capital is shown as an expense in the income statement. 2 Interest on partners' drawings is added to the profit for the year in the appropriation account. 3 Partners' current account balances are shown in the statement of financial position. 4 Partners' salaries are shown as an expense in the income statement.",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Prepare statements/appropriation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "R Limited provided the following information. $ At 1 January 2024 ordinary share capital 350 000 retained earnings 46 000 general reserve 37 000 For year ended 31 December 2024 profit for the year 32000 dividends paid 20 000 What was the value of total equity at the end of the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Capital structure understanding"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "A club included the balance on its accumulated fund in its statement of financial position. What is the equivalent of the accumulated fund in a statement of financial position of a sole trader?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Accumulated fund calculation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which item is included in a manufacturing account?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Direct/indirect costs distinction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "A trader's assets increased by $25000 and liabilities decreased by $5000 during the year. He took no drawings during the year. What was the profit or loss for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate profit/loss capital change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "A trader does not maintain a full set of accounting records. How could he calculate the profit for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate profit/loss capital change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Janice started trading on 1 January. All her sales were made on a cash basis. During the year, Janice paid wages of $12100 and took drawings of $7800 out of the amount received from customers. She also banked $56000 of these receipts. At the year end, she held $150 of unbanked sales in cash. Which value for Janice's sales was recorded in the income statement?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Prepare from incomplete records"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "A trader provided the following information. $ revenue 120 000 inventory at the start of the year 9600 inventory at the end of the year 10 200 A mark-up of 25% is applied. What were the purchases for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "A trader provided the following information for the year ended 31 December. $ total cash and credit purchases of goods for resale 150 000 cash purchases of goods for resale 17000 credit purchases of non-current assets 25000 His trade payables at that date were $8000. What was the trade payables turnover?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "The following information is taken from an income statement. $ cost of sales 15000 gross profit 10000 motor expenses 4000 general expenses 1000 What is the profit margin for the year?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "The trade receivables turnover of a business is 42 days. Trade receivables are allowed 30 days to settle their accounts. The business has difficulty paying its credit suppliers. Which statements are correct? 1 Credit customers are taking longer than allowed to pay their accounts. 2 It takes on average 42 days to receive payments from credit customers. 3 It would be easier to pay credit suppliers if credit customers paid within 30 days. 4 The business has an efficient credit control system.",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.2 Interpretation of accounting ratios",
+    "Sub_topic": [
+      "Compare results statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "A business does not record the skills or morale of its employees in its financial statements. Which accounting principle is being applied?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "What does the objective of understandability assume users of financial statements will possess?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

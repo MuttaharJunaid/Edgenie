@@ -1,0 +1,447 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2020/Q1",
+    "Question_text": "Fig. 1.1 shows part of the speed-time graph for an athlete in a race.",
+    "image": "Fig. 1.1 is a speed-time graph for an athlete. The x-axis represents time in seconds (s) from 0 to 11.0, with major grid lines every 1.0s. The y-axis represents speed in meters per second (m/s) from 0 to 14.0, with major grid lines every 2.0 m/s. The graph starts at (0,0) and is a straight line sloping upwards to (2.0s, 8.0m/s). The remaining part of the graph (from 2.0s to 11.0s) is incomplete, awaiting completion based on instructions in part (c).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "During the race, the acceleration of the athlete is uniform in the first 2.0s. State how the graph shows that the acceleration is uniform.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Determine the distance travelled by the athlete in the first 2.0s.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "During the rest of the race: • from 2.0 s to 5.5s, the acceleration of the athlete decreases • at 5.5s, the athlete reaches a maximum speed of 12m/s • from 5.5s to 8.0s, the athlete travels at a speed of 12 m/s • from 8.0s to 11.0s, the athlete decelerates, finishing the race at a speed of 10m/s. On Fig. 1.1, complete the speed-time graph for times between 2.0 and 11.0s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q2",
+    "Question_text": "Fig. 2.1 shows the thinking distance and the braking distance for a car driven at 100km/h. The car has old, smooth tyres.",
+    "image": "Fig. 2.1 is a horizontal block diagram illustrating total stopping distance. It shows 'thinking distance' as 21 m, and 'braking distance' as 75 m. These two sections are concatenated visually, implying their sum is the total stopping distance.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the total stopping distance for the car.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The car is now fitted with new tyres. At a speed greater than 100km/h, the total stopping distance is the same as in (a). State and explain the effect that the increase in speed and the use of new tyres have on the thinking distance.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State and explain the effect that the increase in speed and the new tyres have on the braking distance.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q3",
+    "Question_text": "Fig. 3.1 shows part of a hydraulic press that is used to compress waste paper into a brick for burning. A force of 20 N is exerted downwards on the end of the handle.",
+    "image": "Fig. 3.1 depicts a hydraulic press mechanism. A horizontal 'handle' pivots around a central 'pivot' point. A '20 N force' is applied downwards at one end of the handle. The other end of the handle pushes down on a small piston, labeled 'piston P'. Piston P is connected by an 'oil'-filled channel to a larger piston, labeled 'piston Q'. Piston Q is positioned beneath a block of 'waste paper', which it is intended to compress.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Pressure in a Liquid",
+      "Work",
+      "Efficiency"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The force on the handle creates a moment about the pivot. Define the moment of a force.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the force exerted on piston P is greater than the force exerted on the handle.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how the hydraulic press enables a greater force to be exerted on piston Q than is exerted on piston P.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In moving the handle downwards, the 20N force moves through a distance of 0.60m and piston Q rises by 0.020 m. The force exerted by piston Q on the paper is 400 N. Calculate: the work done in moving the handle downwards",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate: the efficiency of the hydraulic press.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q4",
+    "Question_text": "Two mirrors, A and B, are inclined at an angle of 60° to each other. Light strikes mirror A at an angle of 30°, as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 illustrates two plane mirrors, 'mirror A' and 'mirror B', positioned with an angle of 60° between their reflecting surfaces. A 'ray of light' approaches mirror A. The angle between this incoming ray and the surface of mirror A is labeled 30°. The diagram shows the ray reflecting off mirror A and then striking mirror B, and subsequently reflecting off mirror B.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the angle of incidence at mirror A.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine the angle of incidence at mirror B.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe the path of the reflected ray after it leaves mirror B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A plane mirror hanging on a wall is used to form the image of an object. State three characteristics of the image formed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q5",
+    "Question_text": "The components of the electromagnetic spectrum have different uses. Microwaves are used in cooking and ultraviolet rays are used in sterilisation.",
+    "image": "The image for part (a) is a matching exercise with two columns. The left column lists 'component' with 'microwaves' and 'ultraviolet'. The right column lists 'use' with 'sunbeds', 'television controller', 'satellite television', and 'airport security check of cases'. Lines are expected to be drawn to connect each component to a suitable use.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Thermal Conduction",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw one line from each component of the spectrum to another suitable use for that component.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 5.1 shows a microwave oven used to heat soup. The container for the soup is a glass bowl. Microwaves created inside the oven are reflected by the metal walls.",
+        "image": "Fig. 5.1 (for part b) shows a cross-section diagram of a microwave oven. Inside the oven, a 'glass bowl' containing 'soup' is depicted. The oven's interior is suggested to have metal walls for microwave reflection, and a control panel is visible on the right side of the oven."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why the choice of material for the container is important in microwave cooking.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The soup is mostly water. Microwaves are completely absorbed by a few centimetres of water. As a result, microwaves do not reach the centre of the soup. The instructions suggest that, after the microwave oven is turned off, the soup: • is not stirred • is left for some minutes so that the centre becomes hot. State the name of and describe each of the two processes by which thermal energy transfers throughout the soup after the microwave oven is turned off.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q6",
+    "Question_text": "The clothes iron shown in Fig. 6.1 is connected to the electrical mains.",
+    "image": "Fig. 6.1 depicts a clothes 'iron' connected to the electrical mains via a 'cable'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The boxes in the left column below contain some electrical hazards. The boxes in the right column contain methods of protection from these hazards. For each hazard, draw one line to the appropriate method of protection.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The power of the iron is 1200W. The cost of 1 kWh of electrical energy is 20 cents (20c). Define the kilowatt-hour (kWh).",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The iron is on at full power for 20 minutes. Calculate the cost of running the iron for this time.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q7",
+    "Question_text": "Radon-222 is an isotope of radon which undergoes a series of radioactive decays. Fig. 7.1 is a diagram showing the proton number (atomic number) and nucleon number (mass number) of nuclei involved in the series of decays. The point P represents a nucleus of radon-222. Starting at P, a nucleus of radon-222 decays to Q; then from Q to R; then from R to S; then from S to T; and finally from T to U.",
+    "image": "Fig. 7.1 is a nuclear decay chain diagram plotted on a graph. The y-axis represents 'proton number' ranging from 82 to 86. The x-axis represents 'nucleon number' ranging from 210 to 222. Points representing different nuclei are plotted and labeled: P (222, 86), Q (218, 84), R (214, 82), S (214, 83), T (212, 84), and U (210, 82). Arrows indicate the sequence of decays: P→Q→R→S→T→U.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State two points on Fig. 7.1 which represent isotopes of the same element.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Different isotopes of the same element have different atomic compositions. State how the composition of their atoms is different.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A nucleus of radon-222 emits an alpha-particle as it decays. The radioactive decay of a single nucleus is random. Explain what is meant by the random radioactive decay of a nucleus.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "In nuclide notation, radon-222 is written as ²²²Rn. When a nucleus of radon-222 emits an alpha-particle (α), it decays to an isotope of polonium (Po). Complete the decay equation below for this decay: ²²²Rn -> ....Po + ....α",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State the name of the particle emitted as a nucleus of R decays to a nucleus of S.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe the change in the composition of a nucleus of R as it decays to a nucleus of S.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q8",
+    "Question_text": "Fig. 8.1 shows the circuit diagram of a temperature gauge. It contains an ammeter, a thermistor, a fixed resistor R and a battery. The current is measured at different temperatures and a graph of the results is shown in Fig. 8.2.",
+    "image": "Fig. 8.1 shows a series circuit diagram containing a battery, an ammeter (labeled 'A'), a thermistor, and a fixed resistor (labeled 'R'). Fig. 8.2 is a graph plotting 'current / A' (y-axis from 0 to 0.025 A) against 'temperature / °C' (x-axis from 0 to 100 °C). The graph displays a non-linear curve, starting with low current at low temperatures and increasing significantly as temperature rises.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State how the resistance of the thermistor changes with temperature and explain how Fig. 8.2 shows this change.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Resistance and current are used for the measurement of temperature. State one other physical property that is used for the measurement of temperature.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A temperature scale involves the use of fixed points. State what is meant by: the ice point",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State what is meant by: the steam point.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "At 80°C, the potential difference (p.d.) across the thermistor is 3.6V. State what is meant by potential difference.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the resistance of the thermistor when the temperature is 80°C.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The electromotive force (e.m.f.) of the battery is 25V. Calculate the resistance of the resistor R.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The current scale on the ammeter is linear. Using values from Fig. 8.2, a student marks the scale on the ammeter with temperature values that correspond to the values of the current. The temperature is then read directly from the temperature scale on the ammeter. State what is meant by a sensitive thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State and explain at which temperatures this thermometer is most sensitive.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The temperature gauge is used to measure the temperature of a room. Suggest why the temperature obtained using the gauge is slightly higher than the actual temperature of the room.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q9",
+    "Question_text": "Fig. 9.1 shows a simple relay used to switch a mains electric motor on and off.",
+    "image": "Fig. 9.1 illustrates a simple electromagnetic relay. A 'coil of wire' is wrapped around an 'iron' 'core'. A switch 'S' is in series with the coil. An 'iron armature', made of 'springy metal', pivots near the core. When the coil is energized, the armature is attracted, causing electrical 'contacts' to close. These contacts are part of a separate circuit which connects a 'motor M' to the 'mains' power supply. An 'insulator' is shown separating parts of the armature mechanism. A 'pivot' for the armature is also indicated.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnetic Fields",
+      "Magnetic Effect of a Current",
+      "Electric Motors",
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why the motor switches on when switch S is closed.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the core is made of iron rather than steel.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "A student suggests that the motor can be turned on and off without a relay. He suggests connecting the mains to a simple switch in series with the motor. Suggest one reason why, in some situations, using the relay is better.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 9.2 shows the coil of wire wrapped around a cardboard tube. There is no core. There is an electric current in the wire in the direction shown by the arrows.",
+        "image": "Fig. 9.2 shows a solenoid, which is a 'coil of wire' wound around a 'cardboard tube'. Arrows indicate the direction of electric current flowing through the wire of the coil, defining its polarity."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 9.2, draw the pattern of the magnetic field inside and around the coil. Mark the direction of this magnetic field.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 9.2, mark the N-pole of the coil.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The supply of current to the coil is removed. The ends of the coil are connected to a sensitive ammeter, as shown in Fig. 9.3.",
+        "image": "Fig. 9.3 shows the same 'coil of wire' wrapped around a tube as in Fig. 9.2, but without the current supply. Instead, its ends are connected to a sensitive ammeter, labeled 'A'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe how a permanent magnet is used to produce a large reading on the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why a current is produced in (i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2020/Q10",
+    "Question_text": "An oscilloscope is a device used to display waveforms.",
+    "image": "Fig. 10.1 displays a sinusoidal waveform on an oscilloscope screen, drawn on a grid. The waveform completes approximately 2.5 cycles within the visible x-axis range. The peak vertical amplitude from the center line is 2 divisions (meaning peak-to-peak is 4 divisions). One complete wavelength (oscillation) spans 4 divisions horizontally. Labels indicate '1 division' for both horizontal and vertical grid spacing.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope",
+      "Features of Waves",
+      "The Wave Equation",
+      "Electrical Charge",
+      "Electromotive Force & Potential Difference",
+      "Kinetic Energy",
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Transverse & Longitudinal Waves",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Inside the oscilloscope, a beam of electrons is emitted from a metal filament by thermionic emission. The emitted electrons are accelerated away from the filament by a potential difference of 2000 V. State what must happen to the metal filament for thermionic emission to occur.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the electrons accelerate away from the filament.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The charge on one electron is 1.6 × 10⁻¹⁹ С. Calculate the maximum kinetic energy of one electron after it has been accelerated through 2000V.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 10.1 is the trace on the screen of the oscilloscope. The settings on the oscilloscope are 10ms/division for the x-axis and 3.0V/division for the y-axis. Calculate the amplitude of the trace shown in Fig. 10.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the time for one oscillation (complete wavelength) of the trace shown in Fig. 10.1.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The trace shown in Fig. 10.1 is caused by a sound. The sound travels through the air to a microphone from the place that it is made. The microphone is connected to the oscilloscope which displays the waveform shown. Sound is a type of wave. State which type.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe the motion of the air molecules as the sound passes through the air to the microphone.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Describe and explain how the trace on the screen changes as the pitch of the sound becomes higher. The settings on the oscilloscope are unchanged.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A student investigates what happens when a diode is connected between the microphone and the oscilloscope. Fig. 10.2 shows the circuit that he uses.",
+        "image": "Fig. 10.2 shows a circuit diagram. An output labeled 'output from microphone' is connected in series with a diode symbol (arrow pointing right with a line across its tip), which is then connected to an 'oscilloscope' input."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Without the diode, the output from the microphone is an alternating current and the trace is as shown in Fig. 10.1 on page 18. Describe the action of the diode on the current from the microphone.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "On the grid in Fig. 10.3, sketch the trace seen on the screen when the diode is used.",
+        "image": "Fig. 10.3 is an empty grid representing an oscilloscope screen, provided for sketching a waveform. It has the same grid structure as Fig. 10.1."
+      }
+    ]
+  }
+]

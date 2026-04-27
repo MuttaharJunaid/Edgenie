@@ -1,0 +1,160 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2023/Q1",
+    "Question_text": "A student investigates specific heat capacity.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "He puts 25cm³ of water in a beaker. The thermometer in Fig. 1.1 shows the temperature θ₁ of the water. Record θ₁.",
+        "image": "Fig. 1.1 displays a mercury-in-glass thermometer with a scale ranging from -10 °C to 110 °C. The mercury level indicates a temperature of 20 °C."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The teacher has placed some 50g masses in boiling water. Each mass has been tied to a length of string. The student takes the beaker of water to where the masses are in boiling water. He uses the string to remove one mass from the boiling water and places it carefully into the beaker as shown in Fig. 1.2. He then returns to his workstation and replaces the thermometer in the beaker.",
+        "image": "Fig. 1.2 illustrates a beaker containing water. A 50g mass, labeled '50 g mass', is submerged in the water and suspended by a 'string' that extends out of the beaker. The beaker itself is labeled 'beaker'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The thermometer in Fig. 1.3 shows the maximum temperature θ₂ of the water. Calculate the temperature change θ₂ – θ₁.",
+        "image": "Fig. 1.3 shows a mercury-in-glass thermometer with a scale ranging from -10 °C to 110 °C. The mercury level indicates a temperature of 30 °C."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how to ensure that θ₂ is measured as accurately as possible.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The beaker is made from a special type of glass. Suggest why it is suitable for this experiment.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Calculate the specific heat capacity cm of the 50g mass using the equation: Cm = 4.2 (θ₂ – θ₁) / 2 (100 – θ₂)",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe two sources of error in the method used to determine Cm",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest two improvements to the method.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2023/Q2",
+    "Question_text": "A student investigates a thermistor using the circuit in Fig. 2.1.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw a circuit diagram of the circuit.",
+        "image": "Fig. 2.1 shows a physical circuit setup. A 'battery of cells' is connected in series with a 'switch', a 'resistor', and a 'thermistor'. A 'voltmeter' is connected in parallel across the thermistor. The components are linked by 'connecting lead'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student measures the temperature of the room and records it. The recorded result is shown in Fig. 2.2. Fig. 2.3 shows the reading Vw on the voltmeter when the switch is closed. Record the reading Vw",
+        "image": "Fig. 2.2 shows a piece of paper or notebook with the handwritten text 'Room temperature Tw = 20°C.'. Fig. 2.3 displays an analog voltmeter with a scale from 0 to 5 V, marked with intervals for 1, 2, 3, 4, 5. The needle points exactly to 2.5 V."
+      },
+      {
+        "part_label": "c",
+        "part_text": "There is a beaker containing ice and water near the thermistor. The student measures the temperature Tc of the ice and water and records it. The recorded result is shown in Fig. 2.4. The thermistor is placed in the beaker of ice and water and after a minute, the voltmeter is read again. Fig. 2.5 shows the reading on the voltmeter when the thermistor is in the beaker of ice and water. Record the reading Vc.",
+        "image": "Fig. 2.4 shows a piece of paper or notebook with the handwritten text 'Temperature of ice and water Tc = 0°C.'. Fig. 2.5 displays an analog voltmeter with a scale from 0 to 5 V, marked with intervals for 1, 2, 3, 4, 5. The needle points exactly to 3.5 V."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the average change in voltage for one degree temperature change ΔV_AV using the equation: ΔV_AV = (V_C - V_W) / (T_W - T_C). State the unit of your answer",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Use your answer to (d)(i) to predict the voltage V_PB across the thermistor when the thermistor is at body temperature. Body temperature is 37°C. You may assume that the average change in voltage for one degree temperature change ΔV_AV is constant.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "The student is told that if the thermistor is held between a thumb and forefinger for two minutes, the reading on the voltmeter V_AB will be the same as the predicted voltage V_PB in (d)(ii). Two quantities are considered to be equal, within the limits of experimental accuracy, if their values are within 10% of each other. The thermistor is held between the student's thumb and forefinger for two minutes and the student reads and records the voltage V_AB. The recorded result is shown in Fig. 2.6. State whether the student's results indicate that V_PB and V_AB are equal within the limits of experimental accuracy. Support your statement with a calculation.",
+        "image": "Fig. 2.6 shows a piece of paper or notebook with the handwritten text 'Thermistor voltage when held between thumb and finger V_AB = 0.80 V'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2023/Q3",
+    "Question_text": "A student investigates a falling mass. The student uses the apparatus shown in Fig. 3.1.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Measurement",
+      "Speed & Velocity",
+      "Acceleration",
+      "Freefall",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The bottom of mass hanger A is at a height h above the floor as shown in Fig. 3.1. The student places one end of a metre rule on the floor and the other end near to the mass hanger. The top of the metre rule is shown in Fig. 3.2. Record h.",
+        "image": "Fig. 3.1 illustrates an experimental setup with a pulley mounted on a clamp stand, which is secured to a 'bench'. A string passes over the 'pulley', with 'mass hanger A' attached to one end and 'mass hanger B' attached to the other. A 'heavy weight' is placed on the bench to stabilize the setup. The height 'h' is indicated as the vertical distance from the bottom of mass hanger A to the floor. Fig. 3.2 shows a close-up of a metre rule segment positioned next to 'mass hanger A'. The rule is marked with numbers 1, 2, 3, 4, 5, 6, 7, 08 (presumably 8). The bottom of mass hanger A is aligned with the '1' cm mark on the depicted metre rule segment."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe one source of error when measuring h and suggest one improvement to the procedure to reduce this error.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student places a mass m = 5.0g on mass hanger A. The additional mass causes the mass hanger to descend slowly. The student uses a stop-watch to take three readings of the time taken for mass hanger A to fall to the floor. Using the stop-watch readings in Fig. 3.3, determine an accurate average time tav for the mass hanger to descend the height h. Show your working.",
+        "image": "Fig. 3.3 displays three digital stopwatch readings. The times shown are 00:06.11, 00:05.87, and 00:06.02."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student repeats the time measurements with different masses placed on hanger A. Record the measurements from (b)(i), in Table 3.1. Complete the headings and give units.",
+        "image": "Table 3.1 is a two-column table with headings 'mass m on hanger' and 'average time tav'. The 'mass m on hanger' column has values 5.0, 7.0, 9.0, 11.0, 13.0. The corresponding 'average time tav' column is populated for 7.0g (4.03, 4.40, 4.09 -> 4.2), 9.0g (3.06, 2.93, 3.09 -> 3.0), 11.0g (2.50, 2.59, 2.56 -> 2.6), and 13.0g (2.13, 2.28, 2.28 -> 2.2). The row for 5.0g has an empty 'average time tav' slot."
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid provided on page 11, plot a graph of average time tav on the y-axis against the mass m on the x-axis. Draw the best-fit curve.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe the relationship between tav and m shown by the graph.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2023/Q4",
+    "Question_text": "A student attaches a propeller to an electric motor driven by a 0 to 12Vd.c. power supply as shown in Fig. 4.1. Moving air from the propeller exerts a force on the balance. Plan an experiment to investigate how this force varies with the voltage of the power supply. The following apparatus is available: an electric motor, an electronic balance, a power supply, a propeller, a voltmeter. You can also use other apparatus and materials that are usually available in a school laboratory. In your plan, you should: explain briefly how to carry out the investigation, state the key variables to control, draw a table, with column headings, to show how to display your readings (you are not required to enter any readings in the table), explain how to use your readings to reach a conclusion.",
+    "image": "Fig. 4.1 depicts an experimental setup. An 'electric motor' with a 'propeller' attached is mounted on a 'clamp stand'. The motor is positioned directly above an 'electronic balance'. The motor is connected to a '0 to 12 volt d.c. power supply'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Resultant Forces",
+      "Electric Motors",
+      "Electrical Power",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  }
+]

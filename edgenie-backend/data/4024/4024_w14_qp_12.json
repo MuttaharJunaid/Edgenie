@@ -1,0 +1,674 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "She bought 3 drinks at $1.42 each and 1 cake for 85 cents. How much did she spend altogether?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "She left home at 10.45 a.m. and returned at 1.20 p.m. How long, in hours and minutes, was she away from home?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "A cookery book states that the time it takes to cook some meat is 13 minutes for every 500 grams of meat + 20 minutes. Calculate the number of minutes it takes to cook 1.5kg of meat.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "It takes T minutes to cook M grams of meat. Find a formula for T.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "In an experiment, a red die and a blue die were thrown 10 times. Each time, the score on the red die was subtracted from the score on the blue die. For these results, find the median.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "In an experiment, a red die and a blue die were thrown 10 times. Each time, the score on the red die was subtracted from the score on the blue die. For these results, find the mean.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "f(x) = 2(x-3) Evaluate f(½).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "f(x) = 2(x-3) Find f¯¹(x).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Write the value of 1234.567, correct to 2 significant figures.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "Write down an estimate for the value of sqrt(28/π).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "On the Venn diagram, shade the set C'∩(AUB).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "E = {-1, 0, 1, 2, 3, 4, 5, 6 } P = {-1, 0, 1, 2} Q = { x² : x ∈ P} Find n(Q).",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "A car travels at 90 km/h. How many metres does it travel in 1 second?",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Use common rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Two bottles are geometrically similar. The ratio of the areas of their bases is 1: 4. Write down the ratios of their heights.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Two bottles are geometrically similar. The ratio of the areas of their bases is 1: 4. Write down the ratios of their volumes.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "The time taken to run a race is given as 54.3 seconds, correct to the nearest 0.1 of a second. Find the lower bound for the time taken.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "The distance run is given as d metres, correct to the nearest metre. Write down an expression, in terms of d, for the maximum possible average speed, in metres per second.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Find bounds of calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "y is inversely proportional to x. Given that y = 9 when x = 8, find y when x = 6.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11a",
+    "Question_text": "The sequence of diagrams below shows small black and small white squares in an arrangement to form large squares. For each diagram, how many more black squares are there than white squares?",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11b",
+    "Question_text": "The sequence of diagrams below shows small black and small white squares in an arrangement to form large squares. On the table, complete the column for Diagram 4.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11c",
+    "Question_text": "The sequence of diagrams below shows small black and small white squares in an arrangement to form large squares. Write down an expression, in terms of n, for the total number of black and white squares in Diagram n.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12a",
+    "Question_text": "Write the number 0.000567 in standard form.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Giving your answer in standard form, evaluate (3 x 10^-5)/(5 x 10^6)",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13a",
+    "Question_text": "In the diagram, BE = 5 cm, CD = 7 cm and AE = 3 cm. BE is parallel to CD. Express CD as a percentage of BE.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Express as percentage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13b",
+    "Question_text": "In the diagram, BE = 5 cm, CD = 7 cm and AE = 3 cm. BE is parallel to CD. Find ED.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14a",
+    "Question_text": "A hollow cone has a base radius 6 cm and slant height 10 cm. The curved surface of the cone is cut, and opened out into the shape of a sector of a circle, with angle x° and radius rcm. Write down the value of r.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14b",
+    "Question_text": "A hollow cone has a base radius 6 cm and slant height 10 cm. The curved surface of the cone is cut, and opened out into the shape of a sector of a circle, with angle x° and radius rcm. Calculate x.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15a",
+    "Question_text": "The volume of a sphere is (4/3)πr³. 20 spheres, each of radius 3 cm, have a total volume of kπ cm³. Find the value of k.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of sphere"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15b",
+    "Question_text": "The volume of a sphere is (4/3)πr³. 20 spheres, each of radius 3 cm, have a total volume of kπ cm³. The spheres are inside an open cylinder, with radius 6cm. The cylinder stands on a horizontal surface and contains enough water to cover the spheres. Calculate the change in depth of the water when the spheres are taken out of the cylinder.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cylinder"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16a",
+    "Question_text": "A is the point (5, 5) AB = (-1, -3) AB is mapped onto CD by a reflection in the y-axis. Find CD.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16b",
+    "Question_text": "A is the point (5, 5) AB = (-1, -3) AB is mapped onto AE by a rotation, centre A, through an angle of 90° clockwise. Find AE.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16c",
+    "Question_text": "A is the point (5, 5) AB = (-1, -3) Find |AB|.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.3 Magnitude of a vector",
+    "Sub_topic": [
+      "Calculate magnitude of vector as sqrt(x² + y²)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17a",
+    "Question_text": "Simplify p²(p³-3p⁻²).",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use the rules of indices"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17b",
+    "Question_text": "Simplify (27x⁶)¹/³.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.4 Indices II",
+    "Sub_topic": [
+      "Understand and use indices (positive, zero, negative and fractional)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18a",
+    "Question_text": "Factorise completely 4a - 16a².",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18b",
+    "Question_text": "Factorise 9b² - c².",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18c",
+    "Question_text": "Factorise x² - 5y - xy + 5x.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19a",
+    "Question_text": "The diagram shows a figure made from four identical hexagons. It has both line and rotational symmetry. What is the order of the rotational symmetry?",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19b",
+    "Question_text": "The diagram shows a figure made from four identical hexagons. It has both line and rotational symmetry. Each marked angle is 60°. Find the other angles in one of the hexagons.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20a",
+    "Question_text": "In the diagram, A, B, C and D lie on the circle, centre O. CO is parallel to DA. The tangents to the circle at A and C meet at T. AÔC = 136°. Find x.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: centre twice circumference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20b",
+    "Question_text": "In the diagram, A, B, C and D lie on the circle, centre O. CO is parallel to DA. The tangents to the circle at A and C meet at T. AÔC = 136°. Find y.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: same segment equal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20c",
+    "Question_text": "In the diagram, A, B, C and D lie on the circle, centre O. CO is parallel to DA. The tangents to the circle at A and C meet at T. AÔC = 136°. Find z.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: tangent-radius 90°"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20d",
+    "Question_text": "In the diagram, A, B, C and D lie on the circle, centre O. CO is parallel to DA. The tangents to the circle at A and C meet at T. AÔC = 136°. Find t.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: alternate equal"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21a",
+    "Question_text": "A bag contains 5 balls, 2 of which are blue and 3 are red. One ball is taken, at random, from the bag. If it is red it is put back into the bag. If it is blue it is not put back into the bag. A second ball is taken, at random, from the bag. Complete the tree diagram.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21bi",
+    "Question_text": "A bag contains 5 balls, 2 of which are blue and 3 are red. One ball is taken, at random, from the bag. If it is red it is put back into the bag. If it is blue it is not put back into the bag. A second ball is taken, at random, from the bag. Expressing each answer as a fraction in its simplest form, find the probability that both balls taken are blue.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21bii",
+    "Question_text": "A bag contains 5 balls, 2 of which are blue and 3 are red. One ball is taken, at random, from the bag. If it is red it is put back into the bag. If it is blue it is not put back into the bag. A second ball is taken, at random, from the bag. Expressing each answer as a fraction in its simplest form, find the probability that the second ball taken is blue.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using tree diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22a",
+    "Question_text": "The diagram shows the speed-time graph of a cyclist's journey. Find the retardation.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22b",
+    "Question_text": "The diagram shows the speed-time graph of a cyclist's journey. Find the speed when t = 9.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22c",
+    "Question_text": "The diagram shows the speed-time graph of a cyclist's journey. Find the distance travelled by the cyclist from t = 0 to t = 60.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23a",
+    "Question_text": "The diagram shows the three lines x = 8, x+y = 21 and 2y = 12 + x which intersect at the points A, B and C. Find the coordinates of B.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.1 Coordinates",
+    "Sub_topic": [
+      "Use and interpret Cartesian coordinates in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23b",
+    "Question_text": "The diagram shows the three lines x = 8, x+y = 21 and 2y = 12 + x which intersect at the points A, B and C. The region inside triangle ABC is defined by three inequalities. One of these is x + y < 21. Write down the other two inequalities.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23c",
+    "Question_text": "The diagram shows the three lines x = 8, x+y = 21 and 2y = 12 + x which intersect at the points A, B and C. Find the coordinates of the point, with integer coordinates, that is inside triangle ABC.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "List inequalities that define a given region"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24a",
+    "Question_text": "The diagram shows the positions, on a map, of three boats A, B and C. The map has a scale of 1cm to 1 km. Find the bearing of B from A.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24b",
+    "Question_text": "The diagram shows the positions, on a map, of three boats A, B and C. The map has a scale of 1cm to 1 km. A fourth boat, D, is closer to B than to A, less than 4 km from C. By drawing appropriate loci find, and shade, the region in which D is situated.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25a",
+    "Question_text": "P is (-4, 4) and Q is (3, -2). M is the midpoint of PQ. Find the coordinates of M.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25b",
+    "Question_text": "P is (-4, 4) and Q is (3, -2). Find the gradient of the line PQ.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.3 Gradient of linear graphs",
+    "Sub_topic": [
+      "Calculate the gradient of a straight line from the coordinates of two points on it"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25ci",
+    "Question_text": "P is (-4, 4) and Q is (3, -2). Q is the midpoint of the line PQR. Find the coordinates of R.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25cii",
+    "Question_text": "P is (-4, 4) and Q is (3, -2). Q is the midpoint of the line PQR. Write down the value of PM/MR.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret geometrical terms: point, vertex, line, plane, parallel, perpendicular, perpendicular bisector, bearing, right angle, acute/obtuse/reflex angles, interior/exterior angles, similar, congruent, scale factor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26a",
+    "Question_text": "A = (3 1, 1 2) A⁻¹ = (2 -1, -1 3) Find the value of k.",
+    "image": null,
+    "Unit": "No unit",
+    "Topic": "No topic",
+    "Sub_topic": [
+      "No subtopic"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26b",
+    "Question_text": "Find the matrix X, where 2A + X = (5 -2, 0 4)",
+    "image": null,
+    "Unit": "No unit",
+    "Topic": "No topic",
+    "Sub_topic": [
+      "No subtopic"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26c",
+    "Question_text": "Find the matrix Y, where YA = (6 2)",
+    "image": null,
+    "Unit": "No unit",
+    "Topic": "No topic",
+    "Sub_topic": [
+      "No subtopic"
+    ],
+    "Parts": []
+  }
+]

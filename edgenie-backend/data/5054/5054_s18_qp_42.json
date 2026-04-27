@@ -1,0 +1,175 @@
+[
+  {
+    "QuestionNumber": "May-June/42/2018/Q1",
+    "Question_text": "A student measures the resistance of a lamp when there are different currents in the lamp. She sets up the circuit shown in Fig. 1.1.",
+    "image": "Fig. 1.1 shows a basic electrical circuit diagram. It includes a power supply, a variable resistor (represented by a resistor with an arrow through it), an ammeter (labeled 'A' in a circle), and a lamp (represented by a circle with a cross inside). All components are connected in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 1.1, draw the symbol for a voltmeter connected to measure the potential difference V across the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "She adjusts the variable resistor until she obtains the readings on the voltmeter scale and the ammeter scale shown in Fig. 1.2. Read, and record in the table of Fig. 1.3, the potential difference V and the current I.",
+        "image": "Fig. 1.2 displays two meter scales. The first scale is for a voltmeter, labeled 'V', showing readings from 0 to 3 in 0.2V increments, with an arrow pointing to a value between 2 and 3 (specifically, 2.4V). The second scale is for an ammeter, labeled 'A', showing readings from 0 to 1.0 in 0.05A increments, with an arrow pointing to a value between 0.4 and 0.5 (specifically, 0.45A)."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student adjusts the variable resistor and measures the new values of V and I. Her values are shown in the table of Fig. 1.3. The lamp is dimmer. Use the equation R = V/I to calculate the resistance R of the lamp for both settings of the variable resistor. Record your answers in the table to an appropriate number of significant figures.",
+        "image": "Fig. 1.3 is a table with columns 'V/V', 'I/A', 'R/Ω', and 'brightness of lamp'. The 'first readings' row has empty cells for 'V/V', 'I/A', and 'R/Ω', with 'bright' under 'brightness of lamp'. The 'second readings' row has '0.83' under 'V/V', '0.11' under 'I/A', and 'dim' under 'brightness of lamp'."
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student thinks that because the same lamp is used throughout the experiment, its resistance is constant. State whether the student's results confirm this. Justify your answer by referring to the results.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Another student says that the resistance of a lamp filament increases when it gets hot. State, giving a reason, whether the observations confirm this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2018/Q2",
+    "Question_text": "A student investigates the reflection of light by a plane mirror. She places the mirror vertically on a sheet of paper. She uses a pencil to mark the position of the plane mirror with a straight line and labels the line XY. She removes the mirror and draws a normal at the centre of the line, and labels the normal AC. She labels the point where the normal crosses the mirror with the letter B. The sheet of paper is shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a diagram on a sheet of paper. A horizontal line segment is labeled XY, representing the position of a plane mirror. A vertical line, labeled AC, acts as a normal, intersecting XY at point B. Above the line XY, a point P4 is marked. To the right and below the line XY, an eye symbol labeled 'E' is shown, with a point P3 near it. An arrow indicating the line of sight from E towards the mirror is also present.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A ray of light is incident on the mirror at B with an angle of incidence of 40°. On Fig. 2.1, draw a line 10cm long from B to the left of the normal and below the mirror to represent the incident ray. Label the other end of the line D.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student replaces the mirror. She places a pin P₁ close to point B on the line DB and places a second pin P₂ at point D. She views the images of P₁ and P₂ in the mirror from the direction indicated by the eye E in Fig. 2.1. She places two pins P3 and P4 on the paper so that P3 and P4, and the images of P₁ and P₂ when viewed by E, are in a straight line. The positions of P3 and P4 are shown in Fig. 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.1, draw a line joining the positions of P3 and P4. Continue your line until it reaches the mirror.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Measure the angle of reflection r. r = ............ °",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State one precaution that the student should take when positioning the pins to obtain an accurate value for r.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2018/Q3",
+    "Question_text": "A student measures the least pressure that a rectangular wooden block exerts on a table. He places the wooden block on a sheet of paper, with its largest surface touching the paper. He uses a pencil to draw the outline of the wooden block on the paper. Fig. 3.1 shows the outline of the block drawn on the paper.",
+    "image": "Fig. 3.1 shows the outline of a rectangular wooden block viewed from above, drawn on a sheet of paper. The outline is a simple rectangle labeled 'wooden block'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Measurement",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Take measurements from the block to the nearest 0.1 cm and calculate the area A of its largest surface. length = ............ width = ............ A = ............ cm²",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student finds the weight W of the block with a newton meter, as shown in Fig. 3.2. Write down the weight W of the block.",
+        "image": "Fig. 3.2 shows a newton meter suspended vertically, hooked onto a rectangular wooden block resting on a surface. The newton meter scale is marked from 0 N to 1.0 N in 0.1 N increments, with intermediate tick marks. The pointer indicates a reading of 0.7 N. The meter is labeled 'newton meter' and the block is labeled 'wooden block'."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Use the equation p = W/A to calculate the pressure p due to the weight of the block on the table. p = ............ N/cm²",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Another student says that the actual pressure due to the weight of the block on the table is greater than the value calculated in (c). Suggest one practical reason for this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2018/Q4",
+    "Question_text": "A student measures the density of copper using a balancing method. She sets up the apparatus as shown in Fig. 4.1. She places a pivot under the 60.0cm mark of the metre rule. The position of the pivot is not changed during the experiment. She places a 150g mass M on the rule so that its centre is at the 90.0 cm mark of the rule, as shown in Fig. 4.1. She places a copper cylinder on the rule and adjusts its position until the rule is just balanced. Fig. 4.2 shows the position of the cylinder at balance. The distance from the left-hand end of the metre rule to the centre of the base of the cylinder is r₁.",
+    "image": "Fig. 4.1 depicts a balancing experiment. A metre rule is balanced on a triangular pivot placed at the 60 cm mark. On the right side, a mass M (labeled 'mass M') is placed at the 90 cm mark. On the left side, a copper cylinder (labeled 'copper cylinder') is placed at an unspecified position, with its distance from the left end of the rule labeled 'r1'. The distances from the pivot to the copper cylinder and mass M are labeled 'x' and 'y' respectively. The metre rule scale marks 0 cm, 60 cm, 90 cm, and 100 cm. Fig. 4.2 is a top-down view showing a copper cylinder placed on a segment of a ruler. The ruler segment shows markings from 8 cm to 11 cm, with main divisions at each centimeter and subdivisions for millimeters. The copper cylinder's center appears to be positioned at approximately 8.7 cm on the ruler. The cylinder is labeled 'copper cylinder'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density",
+      "Moments",
+      "Measuring Mass & Weight",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Take readings from Fig. 4.2 to find r₁. Record your value of r₁ in the table of Fig. 4.3. Show your working. r₁ = ............ cm",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student repeats the procedure by moving mass M and placing its centre on the 85.0, 80.0, 75.0 and 70.0 cm marks of the metre rule. Her results are shown in the table of Fig. 4.3. The distance from the left-hand end of the metre rule to the centre of mass M is r₂.",
+        "image": "Fig. 4.3 is a table with four columns: 'r₁/cm', 'r₂/cm', 'distance of centre of the cylinder from pivot x = (60 - r₁)/cm', and 'distance of centre of mass M from pivot y = (r₂ - 60)/cm'. The table contains one empty row for initial r₁ and r₂ values, followed by four rows of numerical data for r₁, r₂, and corresponding x and y values."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Record, in the table of Fig. 4.3, the missing values of x and y.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On the grid in Fig. 4.4, plot a graph of y (y-axis) against x (x-axis). Start your axes from the origin (0,0). Draw the straight line of best fit.",
+        "image": "Fig. 4.4 shows an empty graph grid. The x-axis is horizontal and the y-axis is vertical, both originating from (0,0). The grid is uniformly divided by lines, suitable for plotting data points and drawing a line of best fit."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Determine the gradient of your line. Show your working and indicate on your graph the values you choose. gradient of line = ....................",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The mass m, in grams, of the copper cylinder is given by the equation m = 150 x gradient. Use this equation to calculate m to the nearest gram. m = ............ g",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student uses a measuring cylinder to find the volume V of the copper cylinder. She pours 50 cm³ of water into the measuring cylinder. She lowers the copper cylinder gently into the measuring cylinder. Fig. 4.5 shows the measuring cylinder containing the copper cylinder. Use the information in Fig. 4.5 to calculate the volume V of the copper cylinder. V = ............ cm³",
+        "image": "Fig. 4.5 displays a measuring cylinder with volume markings from 10 cm³ to 100 cm³ in increments of 10 cm³, with subdivisions for every 2 cm³. It contains water, with the initial level at 50 cm³. A copper cylinder is submerged in the water, raising the water level to 70 cm³. The measuring cylinder is labeled 'measuring cylinder', the water 'water', and the submerged cylinder 'copper cylinder'."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the density ρ of copper using your answers to (b)(iv) and (c) and the equation ρ = m/V. ρ = ............ g/cm³",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The value for the density of copper obtained in (d) differs slightly from the correct value. State one practical reason for this difference.",
+        "image": null
+      }
+    ]
+  }
+]

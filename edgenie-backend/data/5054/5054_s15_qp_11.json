@@ -1,0 +1,463 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2015/Q1",
+    "Question_text": "Is mass a scalar or a vector, and is acceleration a scalar or a vector?",
+    "image": "A table with two columns, 'mass' and 'acceleration', and four rows (A, B, C, D) specifying combinations of scalar or vector for each quantity.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q2",
+    "Question_text": "The diameter and the length of a thin wire, approximately 50 cm in length, are measured as precisely as possible. What are the best instruments to use?",
+    "image": "A table with two columns, 'diameter' and 'length', and four rows (A, B, C, D) listing different measuring instruments (micrometer, rule, vernier calipers, tape).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q3",
+    "Question_text": "A student walks at a constant speed. He takes 100s to walk 160 paces. The length of each pace is 0.80 m. How far does the student walk in 50 s?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q4",
+    "Question_text": "The mass of a stone is found on Earth using a pan balance. The weight of the stone is found using a newton meter. Are the readings the same or different on the Moon?",
+    "image": "Two diagrams showing methods of measuring mass and weight. The left diagram shows a pan balance with a stone on one pan and standard masses on the other, labelled 'pan balance' and 'stone'. The right diagram shows a stone hanging from a spring balance, labelled 'newton meter' and 'stone'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q5",
+    "Question_text": "The table shows the weights and masses of four objects on different planets. On which planet is the gravitational field strength the largest?",
+    "image": "A table with two columns, 'weight/N' and 'mass/kg', and four rows (A, B, C, D) listing numerical values for weight and mass.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q6",
+    "Question_text": "Four forces act at a point as shown. What is the size of the resultant force?",
+    "image": "A diagram showing a central point with four force vectors originating from it: 2N upwards, 2N downwards, 8N to the left, and 4N to the right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q7",
+    "Question_text": "A student drops, from rest, a table-tennis ball in air. What happens to the velocity and to the acceleration of the ball during the first few seconds after release?",
+    "image": "A table with two columns, 'velocity' and 'acceleration', and four rows (A, B, C, D) describing how these quantities change (increases or decreases).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q8",
+    "Question_text": "The mass and volume of four different objects are plotted as shown. Which object has the smallest density?",
+    "image": "A scatter plot with 'mass/g' on the y-axis (from 0 to 20) and 'volume/cm³' on the x-axis (from 0 to 10). Four data points are plotted and labeled A, B, C, D. Point A is at (5, 20), B at (8, 20), C at (5, 12), and D at (8, 12).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q9",
+    "Question_text": "Newton's third law involves two quantities which are equal in size and opposite in direction. What is the unit for these two quantities?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q10",
+    "Question_text": "When a car turns a corner at speed, it risks toppling over. Two factors affecting the stability of a car are the height of its centre of mass and the distance between its front wheels. Which factors make the car most stable?",
+    "image": "A table with two columns, 'centre of mass' and 'distance between front wheels', and four rows (A, B, C, D) describing combinations of 'high' or 'low' for centre of mass and 'small' or 'large' for wheel distance.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q11",
+    "Question_text": "A cyclist travels along a horizontal track at constant speed. The work done by the cyclist is equal to",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Energy Stores & Transfers",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q12",
+    "Question_text": "A 2.0 kg mass has 300 J of kinetic energy. What is the speed of the mass?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q13",
+    "Question_text": "The diagram shows a simple model of the braking system of a car. A force of 20 N is applied to piston P. As a result, there is a force F on piston Q. Piston P has an area of 5.0 cm² and piston Q has an area of 25 cm². What is the force F?",
+    "image": "A diagram illustrating a hydraulic braking system model. A small piston P, with an area of 5.0 cm², has a 20 N force applied to it. This piston is connected by an oil-filled pipe to a larger piston Q, with an area of 25 cm², where a force F is exerted. Piston Q is labeled 'piston Q' and piston P is labeled 'piston P'. The connecting fluid is labeled 'oil'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q14",
+    "Question_text": "The diagrams show liquids in containers. Which column of liquid exerts the greatest pressure on the base of its container?",
+    "image": "Four diagrams (A, B, C, D) each showing a liquid column in a container. Below each container, the liquid type (paraffin or water) and its density (0.8 g/cm³ or 1.0 g/cm³) are specified. Visually, containers A and C show taller liquid columns than B and D. Containers B and C appear wider than A and D.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q15",
+    "Question_text": "A solid bar is heated at one end. How is thermal energy transferred to the other end of the bar?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q16",
+    "Question_text": "The tubes inside solar heating panels use the Sun's radiation to warm water. Why are the tubes painted black?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q17",
+    "Question_text": "Why is there a constriction in a clinical thermometer?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q18",
+    "Question_text": "In a liquid-in-glass thermometer, the liquid column is 2.0 cm long at 0°C and it expands 10.0 cm when heated to 100 °C. Measuring from P, how long is the liquid column at 30°C?",
+    "image": "A linear diagram representing the scale of a liquid-in-glass thermometer. Point P marks the start of the liquid column. The column length is 2.0 cm at 0°C. An additional 10.0 cm expansion is shown between 0°C and 100°C.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q19",
+    "Question_text": "Which substance in the table is liquid at 20°C?",
+    "image": "A table with two columns, 'melting point /°C' and 'boiling point /°C', and four rows (A, B, C, D) listing numerical values for these temperatures.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q20",
+    "Question_text": "In which situation do sound waves not travel?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q21",
+    "Question_text": "A wave in a ripple tank passes from a deeper to a shallower region and refracts. Which wave properties decrease as the wave enters the shallow region?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q22",
+    "Question_text": "A ray of light is incident on the surface of a glass block, as shown in the diagram below. The refractive index of the glass is 1.5. The light ray changes direction when entering the glass. What is the angle x through which the ray moves?",
+    "image": "A diagram showing a light ray incident from 'air' onto a 'glass' block. A normal line is drawn at the point of incidence. The angle of incidence is marked as 45°. The ray refracts into the glass. The angle between the incident ray and the refracted ray (the angle of deviation) is marked as 'x'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q23",
+    "Question_text": "An image is formed by a thin converging lens when it is used as a magnifying glass. What is the correct description of the image?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q24",
+    "Question_text": "A ray of light travels from X to Y along an optical fibre. The angle of incidence at Y is greater than the critical angle. In which direction does the ray of light travel after reaching point Y?",
+    "image": "A diagram of a curved optical fibre. A light ray is shown travelling from point X to point Y within the fibre. At point Y, the ray encounters the boundary of the fibre. Four possible paths for the ray after Y are indicated by arrows labeled A, B, C, and D. Path C shows the ray reflecting internally back into the fibre along the lower curve, while A, B, and D show various paths outside or along different directions inside the fiber.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q25",
+    "Question_text": "One end of a rod picks up the N-pole of a bar magnet when in position 1. The same end of the rod picks up the S-pole of the bar magnet when in position 2. Which material is the rod made from and what is the pole at end P of the rod when in position 1?",
+    "image": "Two diagrams, 'position 1' and 'position 2', illustrating a rod with end P interacting with a bar magnet. In position 1, the N-pole of the bar magnet is near end P of the rod, and an attraction is indicated. In position 2, the S-pole of the bar magnet is near end P of the rod, and an attraction is again indicated. The rod is resting on a 'bench'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q26",
+    "Question_text": "A metal ring screens a piece of equipment from a magnetic field. Which metal should be used for the ring, and why?",
+    "image": "A diagram showing parallel 'magnetic field' lines approaching a circular 'metal ring'. Inside the ring is 'equipment'. The magnetic field lines are depicted bending to pass through the metal ring, effectively shielding the equipment within the ring.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q27",
+    "Question_text": "The diagram shows the magnetic field pattern of a current in a solenoid. When the current in the solenoid is increased, where is there an increase in the magnetic field strength?",
+    "image": "A diagram illustrating the magnetic field lines around and through a 'solenoid'. Point M is located inside the solenoid, while points K and L are located outside the solenoid at different positions. Arrows indicate the direction of the magnetic field lines.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q28",
+    "Question_text": "The diagram shows a circuit. Which circuit diagram shows this circuit?",
+    "image": "An illustrative diagram of an electrical circuit consisting of two cells connected in series and two lamps connected in parallel to each other, both connected across the series combination of cells. Below this, there are four standard circuit diagrams (A, B, C, D), each showing variations of cells and lamps connections. Option C correctly represents the given circuit with two cells in series and two lamps in parallel across them.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q29",
+    "Question_text": "A charge of 7.5 C flows through a resistor in 5.0 s. A student has ammeters with different ranges that he can use to measure the current in the resistor. Which ammeter range is the most appropriate?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q30",
+    "Question_text": "Three identical cells are connected in parallel to a resistor. What is the advantage of using three cells in parallel, rather than using a single cell?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q31",
+    "Question_text": "When the flash on a camera is used, a charge of 1.5 C flows through the flash-tube in 0.0030 s. The average voltage across the flash-tube is 3600 V. What is the electrical energy supplied to the flash-tube and what is the average power supplied?",
+    "image": "A table with two columns, 'energy/J' and 'power/W', and four rows (A, B, C, D) listing numerical values for energy and power.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q32",
+    "Question_text": "A 1.0 m length of wire of cross-sectional area 0.40 mm² has a resistance of 2.0 Ω. What is the resistance of a 0.50 m length of wire, of the same material, with a cross-sectional area of 0.80 mm²?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q33",
+    "Question_text": "The diagram shows three resistors in parallel. What is the combined resistance?",
+    "image": "A circuit diagram illustrating three resistors connected in parallel across two common points. The resistances are labelled as 15 Ω, 30 Ω, and 30 Ω.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q34",
+    "Question_text": "In which circuit is the voltmeter reading 7.2V?",
+    "image": "Four circuit diagrams (A, B, C, D). Each diagram shows a 12V battery connected to two resistors in series. A voltmeter is connected in parallel across the second resistor in each series combination. The resistor values are different for each option.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Difference in Circuits",
+      "Potential Dividers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q35",
+    "Question_text": "The diagram shows the information found on an electric kettle. What is the frequency of the electrical supply used to power the kettle?",
+    "image": "A rectangular box displaying text representing the specifications of an electric kettle: '240 V', '600 W', '50 Hz', '700 cm³'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q36",
+    "Question_text": "A magnet is placed near to a solenoid that is connected to a sensitive centre-zero ammeter. The magnet is pushed towards the solenoid. It accelerates, then moves at constant speed, then decelerates and stops inside the solenoid. When is the reading on the ammeter zero?",
+    "image": "A diagram showing a solenoid connected in a closed circuit to a 'sensitive ammeter' (labelled 'A'). A bar 'magnet' is positioned near one end of the solenoid, indicating a setup to demonstrate electromagnetic induction.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q37",
+    "Question_text": "A radioactive material decays by this process: Z L → Z+1 M + x. What is particle x?",
+    "image": "A nuclear decay equation written as Z L → Z+1 M + x, where Z represents the atomic number, L and M represent different atomic nuclei, and x is the emitted particle.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q38",
+    "Question_text": "A factory continuously produces plastic sheets. A radioactive isotope and a detector are used to check the thickness of the sheets. What is the most suitable source to use?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Uses of Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q39",
+    "Question_text": "A source contains a radioactive material. Without the radioactive source present, a detector records a background count rate of 20 counts per minute. This source is placed in a fixed position near the detector. Initially a count rate of 520 per minute is recorded. What count rate is recorded after a time of two half-lifes of the radioactive source?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2015/Q40",
+    "Question_text": "A nucleus contains 94 protons and 240 nucleons. It emits an alpha-particle. How many protons and how many neutrons are in the nucleus produced?",
+    "image": "A table with two columns, 'number of protons' and 'number of neutrons', and four rows (A, B, C, D) listing numerical values for these quantities.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Three Types of Emission",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,496 @@
+[
+  {
+    "QuestionNumber": "October-November/21/2018/Q1",
+    "Question_text": "A girl of mass 35 kg, on a bicycle, accelerates from rest and travels down a slope in a straight line. The girl does not use the pedals. Fig. 1.1 shows that the gradient of the slope is constant.",
+    "image": "Fig. 1.1 shows a diagram of a girl on a bicycle travelling down a slope. The slope is labeled 'slope' and the girl on the bicycle is labeled 'girl'. The slope has a constant gradient.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Distance-Time Graphs",
+      "Speed-Time Graphs",
+      "Resultant Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the resultant force on the girl when she is accelerating at 2.6m/s².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "At first, her acceleration is constant. At time t₁, her acceleration starts to decrease gradually until she is travelling at a constant speed in a straight line.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 1.2, sketch a speed-time graph for the girl from when she starts moving until she is travelling at a constant speed.",
+        "image": "Fig. 1.2 shows an empty speed-time graph with speed on the y-axis and time on the x-axis, with markings at 0 and t1 on the time axis."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State how the distance travelled is found from a speed-time graph.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q2",
+    "Question_text": "A small crack appears in an oil tank and a stream of oil is pushed out through the crack. The oil hits the floor at P where a puddle of oil starts to form. Fig. 2.1 shows the oil tank.",
+    "image": "Fig. 2.1 shows a vertical rectangular oil tank with oil inside, indicated by a shaded region up to a certain height. A horizontal dashed line indicates the oil surface. A crack is shown on the side of the tank, 3.3 m below the oil surface. A stream of oil emerges from the crack and hits the floor at point P. The components are labeled 'oil tank', 'oil', '3.3 m', 'crack', 'stream of oil', and 'P'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Density",
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The gravitational field strength g is equal to 10N/kg. The density of the oil is 940kg/m³ and the crack is 3.3 m below the surface of the oil.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the pressure due to the oil at the level of the crack.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the atmospheric pressure does not affect the rate at which the oil is pushed out through the crack.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "As time passes, the point where the oil hits the floor moves away from P and towards the tank. Explain why this happens.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q3",
+    "Question_text": "A student uses the apparatus shown in Fig. 3.1 to obtain the extension-load graph of a spring. The weights of the loads are known. The student suspends loads of increasing size from the spring and determines the different extensions produced. Fig. 3.2 is the graph the student obtains. The spring reaches its limit of proportionality when the load is 7.0N.",
+    "image": "Fig. 3.1 shows an apparatus for investigating spring extension. A spring is hung from a clamp stand. Weights are attached to the bottom of the spring. The spring is labeled 'spring', the stand 'clamp stand', and the attached objects 'load'.\nFig. 3.2 shows an extension-load graph. The y-axis is 'extension/cm' ranging from 0 to 30, and the x-axis is 'load/N' ranging from 0 to 10. A straight line graph passes through the origin and extends up to a load of 7.0 N, reaching an extension of approximately 17.5 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 3.2, sketch the shape of the graph for loads greater than 7.0N.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "All the loads are removed from the spring. A block of wood is suspended from the end of the spring. The length of the spring increases from 4.9cm to 13.4cm. Determine the weight of the wooden block.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student takes a second spring that is identical to the one in Fig. 3.1 and hangs it next to the first spring. Fig. 3.3 shows a light rod passing through the rings at the lower ends of the springs. The student repeats the experiment and gradually increases the load to 9.0N. State and explain whether the limit of proportionality is reached.",
+        "image": "Fig. 3.3 shows two identical springs hung side-by-side from a clamp stand. A light rod passes horizontally through rings at the lower ends of both springs, and a single load is suspended from the center of this rod. Components are labeled 'springs', 'clamp stand', 'light rod', 'load'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q4",
+    "Question_text": "A rock from space is travelling at high speed towards the Earth.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Conservation of Energy",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the equation for the kinetic energy of an object travelling with a speed v and state what any other terms in the equation represent.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The mass of the rock is 0.60 kg. When it hits the Earth, its average temperature increases by 25°C.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The specific heat capacity of the rock is 560J/(kg°C). Calculate the increase in the internal energy of the rock.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Use the answer from (b)(i) to determine the minimum possible speed of the rock when it hits the Earth.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Suggest one reason why the speed determined in (b)(ii) is less than the actual speed of the rock when it hits the Earth.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q5",
+    "Question_text": "A nurse uses a mercury-in-glass, clinical thermometer to measure the temperature of a patient. Fig. 5.1 shows the structure of a clinical thermometer.",
+    "image": "Fig. 5.1 shows a diagram of a clinical thermometer. It contains mercury in a bulb and a narrow capillary tube with a constriction near the bulb. The scale ranges from 34 °C to 42 °C, with markings for each degree. Labels include 'mercury', 'constriction', and '°C'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The clinical thermometer has a small range and a high sensitivity.",
+        "image": null
+      },
+      {
+        "part_label": "a(i) 1",
+        "part_text": "State what is meant by range,",
+        "image": null
+      },
+      {
+        "part_label": "a(i) 2",
+        "part_text": "sensitivity.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State and explain one feature of this clinical thermometer that produces a high sensitivity.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the purpose of the constriction in the clinical thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain, in terms of the mercury molecules, how an increase in temperature produces an increased reading on the thermometer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q6",
+    "Question_text": "Fig. 6.1 is the view from above of a stationary magnet and a small compass on a laboratory bench.",
+    "image": "Fig. 6.1 shows a top-down view of a bar magnet and a compass. The bar magnet is labeled with 'N' for North pole and 'S' for South pole. A small compass with its needle pointing towards the South pole of the bar magnet is shown near one end of the magnet. Labels include 'N', 'S', 'magnet', 'compass'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the material from which the compass needle is made.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the small compass is used to plot magnetic field lines in the region surrounding the magnet.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "An unmagnetised iron bar PQ is placed near to the magnet on the laboratory bench. Fig. 6.2 shows the two poles of the magnet and PQ. The iron bar is initially at rest and the magnet is moved to the right very slowly. When the magnet is a short distance from the iron bar, the iron bar moves very quickly to the left towards it. Explain why the iron bar is attracted to the magnet.",
+        "image": "Fig. 6.2 illustrates a bar magnet with its North (N) and South (S) poles. An arrow indicates the 'movement of magnet' to the right. An iron bar, labeled 'iron bar', is positioned to the right of the magnet, with its ends marked 'P' and 'Q'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q7",
+    "Question_text": "A student sets up the circuit shown in Fig. 7.1. The electromotive force (e.m.f.) of the battery is 6.0 V.",
+    "image": "Fig. 7.1 shows an electrical circuit diagram. A 6.0 V battery is connected in series with an ammeter (A) and a 2.8 Ω resistor. This series combination is then connected in parallel with a 3.6 Ω resistor and a variable resistor X. The variable resistor X is shown with an arrow through a rectangle, and the 3.6 Ω resistor is in series with it, forming a parallel branch to the 2.8 Ω resistor and ammeter.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Combined Resistance",
+      "Potential Difference in Circuits",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The resistance of the variable resistor X is set to 1.8Ω. Determine",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "the total resistance of the circuit,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the current measured by the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by the potential difference (p.d.) across a component in a circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Add to Fig. 7.1 the symbol for a component that is measuring the p.d. across the 2.8Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The resistance of X is increased. Explain why the p.d. across the 2.8Ω resistor decreases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q8",
+    "Question_text": "A bucket of water is pulled up out of a well using a rope. Fig. 8.1 shows the rope winding on to a cylinder as the handle is turned. The empty bucket has a mass of 1.0 kg.",
+    "image": "Fig. 8.1 shows a system for pulling a bucket from a well. A handle is attached to an axle, which turns a cylinder. A rope is wound around the cylinder and extends down to a bucket. The radius of the cylinder is shown as 0.12 m, and the distance from the axle to the handle is 0.40 m. Labels include 'axle', 'rope', 'cylinder', 'handle', 'bucket', '0.12 m', and '0.40 m'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Density",
+      "Moments",
+      "Equilibrium",
+      "Energy Stores & Transfers",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the sentences that describe mass by filling in the gaps. The mass of a body is a measure of the amount of ... in the body. It resists a change in the state of ... the body.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When the bucket is full, it contains 2.4 × 10–2 m³ of water. The gravitational field strength g is equal to 10N/kg.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain what is meant by a gravitational field.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The density of water is 1000kg/m³. Determine the total weight of the bucket and the water.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The radius of the cylinder is 0.12m and the handle is 0.40 m from the axle of the cylinder. The weight of the bucket and the water produce a moment that acts on the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate this moment.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the minimum force on the handle that balances this moment.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A farmer pulls the bucket of water up at a constant speed. He needs to exert a force on the handle that is greater than that calculated in (c)(ii). He notices that there is a slight increase in temperature where the axle is in contact with the frame holding it.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Suggest two reasons why the force exerted is greater than the value calculated.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State the energy changes that are taking place as the bucket is being lifted at a constant speed.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "State what can be deduced about the forces acting on the bucket when it is travelling upwards at a constant speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q9",
+    "Question_text": "Some waves are longitudinal and some waves are transverse.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Features of Waves",
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Ripple Tank",
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection",
+      "Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how a longitudinal wave differs from a transverse wave.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A vibrating rod produces a water wave in a ripple tank. Fig. 9.1 shows the crests of the wave passing into the right-hand section of the tank where the depth of the water is different from the depth in the rest of the tank. The arrows on Fig. 9.1 show the direction of travel of the wave in the two sections of the ripple tank.",
+        "image": "Fig. 9.1 depicts a ripple tank experiment. A vibrating rod on the left generates parallel wave crests that propagate to the right. A section on the right, labeled 'depth of water different', shows the wave crests changing direction and possibly wavelength, indicating refraction. Arrows show the direction of wave travel, bending as they enter the different depth region."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In the left-hand section of the tank, the wavelength of the wave is 0.019m and it travels at 0.17 m/s. Calculate the frequency of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State what happens to the frequency of the wave, as it passes into the right-hand section of the tank.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Using Fig. 9.1, state and explain what happens to the speed of the wave as it passes into the right-hand section of the tank.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 9.2 shows light, in air, striking the vertical side of a rectangular glass block at an angle of incidence of 60°. The refractive index of the glass is 1.6. The light travels in the glass and strikes side XY at P.",
+        "image": "Fig. 9.2 illustrates a light ray entering a rectangular glass block from air. The incident ray makes an angle of 60° with the normal to the surface. The refracted ray is shown inside the glass, bending towards the normal, and then striking the inner surface XY at point P. The angle of refraction is labeled 'r', and the angle between the refracted ray and the normal at P is labeled 'θ'. Labels include '60°', 'r', 'θ', 'P', 'X', 'Y', 'glass block'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Underline all the terms that describe a light wave. electromagnetic longitudinal transverse",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "At the point where the light enters the glass, the angle of refraction is r. Calculate angle r.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) 1",
+        "part_text": "Calculate the critical angle c for light travelling in the block.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) 2",
+        "part_text": "At P, the angle θ between the ray and the normal is given by θ = 90° − r. State and explain what happens to the light when it strikes side XY.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) 3",
+        "part_text": "On Fig. 9.2, draw the path of the light after it strikes side XY at P and the path of the light when it is again travelling in the air.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/21/2018/Q10",
+    "Question_text": "Two neutral atoms are atoms of different isotopes of the same element.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Fission",
+      "Energy Resources",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "one similarity in the structures of these two atoms,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "one difference between the structures of these two atoms.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The isotope plutonium-239 decays by the emission of an alpha-particle (symbol α) to an isotope of uranium (symbol U). The half-life for this decay is 2.4 × 10⁴ years.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete the equation for this decay. 239Pu -> U + α 94",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The count rate measured due to a pure sample of plutonium-239 is 6400 counts/second. Calculate the count rate after a period of 1.2 × 10⁵ years has elapsed.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Fig. 10.1 shows an alpha-particle entering a uniform magnetic field.",
+        "image": "Fig. 10.1 shows an alpha-particle represented by an arrow entering a region labeled 'magnetic field out of page'. The arrow for the alpha-particle is horizontal, pointing right."
+      },
+      {
+        "part_label": "b(iii) 1",
+        "part_text": "On Fig. 10.1, draw the path of the alpha-particle in the magnetic field.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii) 2",
+        "part_text": "Explain why the alpha-particle follows the path you drew in (b)(iii)1.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "In a nuclear reactor at a power station, plutonium-239 is made to undergo nuclear fission.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is meant by nuclear fission.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State what happens to a plutonium-239 nucleus in the nuclear reactor to cause fission.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) 1",
+        "part_text": "State one advantage of generating electricity in a nuclear power station rather than using an oil-fired power station,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii) 2",
+        "part_text": "an array of wind turbines.",
+        "image": null
+      }
+    ]
+  }
+]

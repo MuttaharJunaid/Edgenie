@@ -1,0 +1,199 @@
+[
+  {
+    "QuestionNumber": "October-November/32/2012/Q1",
+    "Question_text": "In this experiment, you will investigate the motion of a wooden block on a ramp. You have been provided with • a wooden block with a face labelled A, • a length of wood that can be used to form a ramp, • a stand and boss holding a rod that can be used to support the ramp, • a metre rule, • a mass of 200 g, • a piece of Blu-Tack, • a set square.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Friction",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Set up the apparatus as shown in Fig. 1.1.",
+        "image": "Figure 1.1 illustrates an experimental setup on a bench. A stand with a boss and rod supports one end of a ramp (a length of wood) at an incline. A wooden block with face 'A' is placed on the ramp. Blu-Tack is used to prevent the lower end of the ramp from sliding across the bench surface."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Lower the boss holding the rod so that it is as low as possible on the stand. Use some of the Blu-Tack to prevent the end of the ramp sliding across the bench. Place the wooden block at the top of the ramp with face A downwards. Raise the boss to slowly raise one end of the ramp. As you slowly raise the ramp, keep giving the wooden block small pushes until it moves down the ramp at approximately constant speed. When this happens tighten the boss to the stand so that the ramp is fixed in position. This is shown Fig. 1.2.",
+        "image": "Figure 1.2 presents a detailed side view of the inclined ramp setup. It shows the ramp, supported by a rod and stand, resting on a bench surface. A wooden block is on the ramp. The diagram clearly labels 'x' as the horizontal distance between the ends of the ramp on the bench, and 'y' as the vertical height difference between the ends of the ramp."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The distances x and y are the horizontal and vertical distances between the ends of the ramp, as shown in Fig. 1.2. Measure x and y. X = y =",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the value of y/x. y/x =",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Repeat (b) and obtain a new set of values for x, y and y/x. X = y = y/x =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Using your two values for y/x, calculate the average value for y/x. average value for y/x =",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Use a piece of Blu-Tack to secure the 200g mass to the wooden block. Repeat (b) and (c) to obtain a second average value for y/x. average value for y/x =",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Theory suggests that the value of y/x does not depend on the total mass of the block. Comment on your results, taking account of this suggestion.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2012/Q2",
+    "Question_text": "In this experiment, you will investigate a light-emitting diode (LED). You have been provided with • a power supply, • a switch, • a light-emitting diode (LED), • a voltmeter, • a 100 Ω resistor, • a 330 Ω resistor. The Supervisor has set up the circuit as shown in Fig. 2.1, with the 100Ω resistor connected.",
+    "image": "Figure 2.1 displays a circuit diagram consisting of a power supply, a switch, a light-emitting diode (LED), and a 100 Ω resistor all connected in series. A voltmeter (labeled 'V') is shown connected in parallel across the 100 Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Connect the voltmeter in parallel with the LED. Close the switch and measure the potential difference (p.d.) Vd across the LED. Vd =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Open the switch and disconnect the voltmeter. Connect the voltmeter in parallel with the resistor. Close the switch and measure the p.d. Vr across the resistor. Vr =",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Open the switch and disconnect the voltmeter. Calculate the current I in the circuit using the relationship I = Vr/R , where R is the resistance of the resistor that is in the circuit, in this case 100Ω. I =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Disconnect the 100Ω resistor from the circuit and replace it with the 330Ω resistor. Repeat (a) to obtain new values for Vd, Vr and I. Vd = Vr = I =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Comment on the results that you have obtained in (a) and (b).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2012/Q3",
+    "Question_text": "In this experiment, you will investigate the extension of a spring when different loads are added. You have been provided with • a spring, • a stand, two bosses and two clamps, • a 100 g mass hanger and a 100g slotted mass, • a metre rule, • a set square, • a piece of modelling clay formed around a hook.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Set up the apparatus as shown in Fig. 3.1.",
+        "image": "Figure 3.1 illustrates an experimental setup for measuring spring extension. A stand with two clamps and bosses is shown. A spring is suspended vertically from the upper clamp. A metre rule is held vertically by the lower clamp, positioned adjacent to the spring, with its zero mark aligned with the top of the spring, ready to measure extension."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how you ensured that the metre rule was vertical. You may add to Fig. 3.1 if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suspend a 200 g mass from the spring and determine the extension e of the spring. e =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The extension e of the spring is directly proportional to the mass m suspended from it according to the relationship e = Cm, where C is a constant. Use your result from (b) to determine a value for C. C =",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Remove the mass from the spring and suspend the hook with the modelling clay from the spring. Determine the new extension e of the spring. new e =",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Using your answers to (c) and (d)(i), calculate the total mass of the modelling clay and the hook. total mass =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2012/Q4",
+    "Question_text": "In this experiment, you will investigate the motion of a tennis ball rolling down a ramp. You have been provided with • a tennis ball, • a stopwatch, • a ramp, • two metre rules that are attached to the ramp, • a stop at the end of the ramp, • a half-metre rule, • a set square. The apparatus has been set up as shown in Fig. 4.1. The ramp is supported by a wooden block. Do not disturb the position of the ramp or the wooden block.",
+    "image": "Figure 4.1 illustrates an experimental setup for studying the motion of a tennis ball down a ramp. An inclined ramp, with two metre rules attached, is supported by a wooden block on a bench. A tennis ball is shown at the top of the ramp, and a stop is placed at the bottom. The diagram labels 'x' as the distance along the ramp and 'h' as the vertical height from the bench surface to the underside of the ramp at its higher end.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Measurement",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine the average time tav for the ball to travel, from rest, a distance x = 90.0cm to the bottom of the ramp. tav =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how you ensured that the distance travelled by the ball was exactly 90.0 cm.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the final speed v of the ball using the relationship v = 2x/tav v = cm/s",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate v². v² = (cm/s)²",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Measure the height h, above the bench, of the underside of the ramp at the 90.0cm mark on the metre rule. This height is shown in Fig. 4.1. h =",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Release the ball from different positions on the ramp greater than 30cm from the stop. For each position, determine • the distance x travelled by the ball to the stop, • the height h of the lower side of the ramp above the bench at the position of release, • a set of values for the time t for the ball to travel the distance x, • the average time tav for your set of values of t, • the final speed v of the ball, • the value of v². Record your results in Fig. 4.2. Add units to the column headings. Include your results from (a), (c) and (d).",
+        "image": "Figure 4.2 displays an empty table for recording experimental data. It features column headers for 'x/', 'h/', 't/', 'tav/', 'v/(cm/s)', and 'v²/(cm/s)²', with multiple blank rows provided for entering measurements and calculated values."
+      },
+      {
+        "part_label": "f",
+        "part_text": "Using the grid opposite, plot a graph of v²/(cm/s)² on the y-axis against h/cm on the x-axis. Draw a straight line of best fit through your points.",
+        "image": "An empty grid (graph paper) is presented, covering a significant portion of the page, intended for plotting the data collected in the experiment. It is suitable for creating a scatter plot and drawing a line of best fit."
+      },
+      {
+        "part_label": "g",
+        "part_text": "Determine the gradient of the line of best fit. gradient =",
+        "image": null
+      }
+    ]
+  }
+]

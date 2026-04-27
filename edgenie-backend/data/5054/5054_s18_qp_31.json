@@ -1,0 +1,172 @@
+[
+  {
+    "QuestionNumber": "May-June/31/2018/Q1",
+    "Question_text": "In this experiment, you will investigate the extension of a spring. You are provided with • a spring, • a length of string, • a stand, boss and rod, • a 30 cm ruler with a mm scale, • a mass holder.",
+    "image": "Fig. 1.1 shows a diagram of a coiled spring. A horizontal double-headed arrow labeled 'lA' indicates the length of the coiled part of the spring, representing its unstretched length.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Friction",
+      "Moments"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the spring provided measure the unstretched length lA of the coiled part of the spring, as shown in Fig. 1.1. lA = __________ [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Hold the free end of the spring in one hand and place the string over the rod, as shown in Fig. 1.2.",
+        "image": "Fig. 1.2 shows a laboratory setup. A stand has a vertical rod clamped by a boss. A spring is attached to the rod at one end, while the other end has a string passing over the rod and connected to a mass holder. A hand is shown holding the loose end of the string. The components are labeled: 'boss', 'rod', 'string', 'stand', 'hand', 'spring', 'mass holder'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Hold the free end of the spring so that the string is horizontal, as shown in Fig. 1.3. The string is in contact with one quarter of the circumference of the rod. Slowly pull the spring horizontally to the right until the mass holder starts to move upwards. Measure the stretched length lB of the spring at the instant that the mass holder starts to move. lB = __________ [1]",
+        "image": "Fig. 1.3 shows a spring connected to a rod via a string, which also supports a mass holder. The spring is stretched horizontally to the right. The length 'lB' is indicated on the stretched spring. The string passes over approximately one-quarter of the rod's circumference. Labels include 'rod', 'string', 'mass holder', 'spring', and 'lB'."
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "Measure the stretched length, lC, of the spring at the instant that the mass holder starts to move when the spring is pulled vertically downwards, as shown in Fig. 1.4a. The string is in contact with half of the circumference of the rod.",
+        "image": "Fig. 1.4a shows a spring being pulled vertically downwards by a mass holder. The string passes over half the circumference of a rod. The stretched length 'lC' is indicated on the spring."
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "Measure the stretched length, lD, of the spring at the instant that the mass holder starts to move when the spring is pulled horizontally to the left, as shown in Fig. 1.4b. The string is in contact with three quarters of the circumference of the rod. lC = __________ lD = __________ [1]",
+        "image": "Fig. 1.4b shows a spring being pulled horizontally to the left by a mass holder. The string passes over three-quarters of the circumference of a rod. The stretched length 'lD' is indicated on the spring."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Write a conclusion for this investigation and suggest why the lengths lB, lC, and lD are different. conclusion suggestion [2]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2018/Q2",
+    "Question_text": "In this experiment, you will investigate the cooling of a thermometer. You are provided with • a thermometer placed in a container of very hot water, • a stopwatch, • a small tube of aluminium foil, • access to a supply of hot water.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why care must be taken when removing the thermometer from the water. [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Remove the thermometer from the hot water and hold it in the air. Describe how the temperature decreases during the first minute. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Put the thermometer back in the container of hot water. If the reading on the thermometer does not reach at least 70°C ask the supervisor to replace the hot water in the container. When the reading on the thermometer is 70°C or more, remove the thermometer from the hot water and hold it in the air. Start the stopwatch when the reading on the thermometer is 60°C. Stop the stopwatch when the reading is 40°C. Repeat and average to determine an accurate value TA for the time taken for the reading on the thermometer to change from 60°C to 40°C. Show your working. TA = __________ s [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Put the thermometer back in the container of hot water. If the reading on the thermometer does not reach at least 70°C ask the supervisor to replace the hot water in the container. When the reading on the thermometer is 70 °C or more, remove the thermometer from the hot water. Immediately place the bulb end of the thermometer in the small tube of aluminium foil, as shown in Fig. 2.1. Determine an accurate value TF for the time taken for the reading on the thermometer to change from 60°C to 40°C. TF = __________ s [1]",
+        "image": "Fig. 2.1 shows the bulb end of a thermometer inserted into a small tube made of aluminium foil. The stem of the thermometer is visible extending out of the foil tube. Labels indicate 'aluminium foil' and 'thermometer'."
+      },
+      {
+        "part_label": "e",
+        "part_text": "It is suggested that trapped air reduces convection. Explain whether your observations support this statement. [1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2018/Q3",
+    "Question_text": "In this experiment, you will investigate the electrical properties of a salt solution. You are provided with • a power supply, • a switch, • a 47 Ω resistor, • a voltmeter, • a measuring cylinder, • a beaker with two pieces of bare copper wire fixed on opposite sides, • a container containing salt solution, • connecting leads and crocodile clips. The Supervisor has set up a circuit, as shown in Fig. 3.1. It shows a dry beaker with two pieces of thick copper wire on opposite sides. The copper wire is in series with a resistor of resistance R, where R = 47Ω, and a power supply.",
+    "image": "Fig. 3.1 shows a circuit diagram. A power supply is connected in series with a 47Ω resistor. The circuit continues to a beaker, where two bare copper wires are inserted on opposite sides. A voltmeter is connected in parallel across the section of the circuit containing the copper wires in the beaker. Blu-tack is shown holding the wires in place. Labels include 'power supply', 'bare copper wire', '47Ω', 'V' (for voltmeter), 'crocodile clip', 'beaker', and 'Blu-tack to hold wire in place'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Use the measuring cylinder to pour 50cm³ of salt solution into the dry beaker. Switch on the circuit. Wait a few moments until the reading on the voltmeter is steady. Record the voltmeter reading V in the table of Fig. 3.2. Switch off the circuit.",
+        "image": "Fig. 3.2 displays a table with two columns. The first column is labeled 'volume of salt solution/cm³' and contains numerical entries: 50, 100, 150, 200, 250. The second column is labeled 'potential difference V/V' and is empty, awaiting data entry."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Add a further 50cm³ of salt solution and measure the potential difference across the resistor. Record your result in the table of Fig. 3.2. Repeat until the total volume of salt solution is 250 cm³. Complete the table in Fig. 3.2. [3]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A student suggests that the greater the volume of salt solution in the beaker, the larger the current I in the circuit. Use the equation I = V/R in two calculations to explain whether your results support this suggestion. [2]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/31/2018/Q4",
+    "Question_text": "In this experiment, you will investigate the time taken for water to flow through a small hole in the bottom of a can. You are provided with • a can with a small hole at the bottom, • a supply of water, • a 250 cm³ beaker with a mark at the 150cm³ level, • a funnel, • a stand, boss and clamp, • a measuring cylinder, • a stopwatch. The Supervisor has set up the apparatus, as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows an experimental setup. A can is clamped vertically to a stand using a boss and clamp. A funnel is placed on top of the can. Directly beneath the can's small hole, a measuring cylinder is positioned to collect any water that flows out. The components are labeled: 'can', 'funnel', 'measuring cylinder'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Distance-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Pour water into the beaker up to the 150cm³ mark on the side of the beaker. Pour all of this water quickly into the can. Observe the water flow into the measuring cylinder. Empty the water from the measuring cylinder back into the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Repeat (a)(i) and as you pour the water into the can, start the stopwatch. Measure the time t when the volume V of water in the measuring cylinder is 30 cm³. t= __________ s [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the flow rate F using the equation F = V/t, where V = 30 cm³. Give the unit of your answer. F= __________ unit __________ [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Empty the water from the measuring cylinder back into the beaker. Repeat (a)(i) and as you pour the water into the can, start the stopwatch. Measure the time t when there is 60cm³ of water in the measuring cylinder. t= __________ s [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Calculate the flow rate F for V = 60 cm³. Give the unit of your answer. F= __________ unit __________ [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Empty the water from the measuring cylinder back into the beaker. Continue the investigation. Pour 150 cm³ of water from the beaker into the can and record the readings on the stopwatch when the volume of the water in the measuring cylinder reaches values in the range 30 cm³ to 100cm³. • Record all of your results in the table of Fig. 4.2. • Repeat the experiment once and calculate the average times. • Write headings in the top row of the results table of Fig. 4.2. (Do not calculate the flow rates)",
+        "image": "Fig. 4.2 shows a table for recording experimental results. The first column heading is partially filled as 'volume/........' and the subsequent column headings are blank, indicated by '........./.........'. There are multiple empty rows below the headings for data entry."
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid opposite, plot a graph of time on the y-axis against volume on the x-axis. Draw the curve of best fit through your points. [4]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Draw a tangent to the curve when the volume of water is 70 cm³. Determine the gradient G of the tangent at this point. G = __________ [3]",
+        "image": null
+      }
+    ]
+  }
+]

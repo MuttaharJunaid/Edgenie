@@ -1,0 +1,424 @@
+[
+  {
+    "QuestionNumber": "October/November/2012/Q1",
+    "Question_text": "A parachutist of total weight 950 N falls vertically at a constant velocity of 6.5m/s.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Freefall",
+      "terminal velocity",
+      "Resultant Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the size and direction of the resistive (drag) force acting on the parachutist. size of resistive force: direction of resistive force:",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "At a certain height, the wind starts to blow and the parachutist moves horizontally at a velocity of 4.5m/s as he continues to fall. Use a graphical method to add together the horizontal and the vertical velocities to determine the size of the resultant velocity of the parachutist. Label the velocities and state the scale that you use. size of velocity = scale =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q2",
+    "Question_text": "A thermocouple thermometer is made from two different metals and a voltmeter. One junction of the thermocouple thermometer is placed in a beaker containing a mixture of water and ice. The other junction is placed inside a high-temperature furnace, as shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a thermocouple thermometer. One junction (metal 1 and metal 2 connected to a voltmeter) is immersed in a beaker with water and ice. The other junction (metal 1 and metal 2) is placed inside a high-temperature furnace. The voltmeter measures the potential difference generated.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The thermocouple thermometer has a linear output over the operating temperature range of the furnace. State what, for a thermocouple thermometer, is meant by a linear output.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The junction inside the furnace is at temperature T. Fig. 2.2 shows the reading V of the voltmeter at two values of T that are within the operating temperature range of the furnace. Fig. 2.2 is a table showing temperature T in °C and corresponding voltmeter reading V in mV. At 750 °C, V is 6.20 mV. At 800 °C, V is 7.70 mV. When the furnace is operating at a high temperature, the furnace door is opened and the reading of the voltmeter falls to 6.80 mV. Calculate the temperature of the junction inside the furnace. temperature =",
+        "image": "Fig. 2.2 is a table showing temperature T in °C and corresponding voltmeter reading V in mV. At 750 °C, V is 6.20 mV. At 800 °C, V is 7.70 mV."
+      },
+      {
+        "part_label": "b",
+        "part_text": "State why a liquid-in-glass thermometer is not used to measure the temperature inside the furnace.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q3",
+    "Question_text": "Fig. 3.1 shows an electric motor being used on a building site to lift bricks. The gravitational field strength is 10N/kg. The motor lifts bricks of total mass 54 kg through a height of 2.8 m in 3.0s.",
+    "image": "Fig. 3.1 depicts a building site scenario. An electric motor is shown attached to a pulley system. A worker is standing on scaffolding near the motor. A stack of bricks is being lifted by a rope and pulley from the ground to a height of 2.8 m. The electric motor is labeled.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Power",
+      "Efficiency",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the work done in lifting the bricks, work done =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the useful output power of the motor. power =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Suggest two reasons why the electrical power supplied to the motor is greater than its useful output power.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Fig. 3.2 shows a battery and an electric motor. The battery is used to power the motor. Complete Fig. 3.2 to show the circuit diagram of a circuit that is used to determine the power supplied to the electric motor.",
+        "image": "Fig. 3.2 shows an incomplete circuit diagram with a battery and an electric motor (represented by 'M' in a circle) already present. The battery has positive and negative terminals. The task is to complete the circuit to measure power."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State how the power supplied is calculated.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q4",
+    "Question_text": "A petrol tanker has mass 2800kg when empty and holds 30m³ of petrol when full. The density of petrol is 740kg/m³.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Mass & Weight",
+      "Acceleration",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the total mass of the tanker when full of petrol. mass =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The full tanker is travelling along a road when the driver observes an obstruction and applies the brakes. A resultant force of 30000N acts on the tanker. Calculate the deceleration of the tanker. deceleration =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q5",
+    "Question_text": "A water wave of frequency 3.6Hz is generated in a ripple tank. Fig. 5.1 is a scale diagram that shows the wavefronts travelling from deep water to shallow water in the ripple tank. A length of 1.0cm on the diagram represents 8.0cm in the ripple tank.",
+    "image": "Fig. 5.1 is a scale diagram of a ripple tank. A wave generator is on the left, producing waves that travel from a deep water region to a shallow water region. The wavefronts are shown as parallel lines, with wider spacing in deep water and closer spacing in shallow water, indicating a change in wavelength. The interface between deep and shallow water is an angled line. A scale of 1:8 is indicated.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Ripple Tank"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Using measurements from Fig. 5.1, determine the wavelength of the wave in the deep water. wavelength =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the speed of the wave in the deep water. speed =",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "As the wave passes into the shallow water, state what happens to the frequency,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "As the wave passes into the shallow water, state what happens to the speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q6",
+    "Question_text": "Fig. 6.1 shows part of a page from a pupil's notebook.",
+    "image": "Fig. 6.1 displays a handwritten diagram titled 'The Electromagnetic Spectrum' from a pupil's notebook. It lists different types of waves in boxes: 'gamma-rays', 'X-rays', 'ultra-sound', 'micro-waves', 'infra-red', 'radio waves'. An arrow below indicates 'increasing wavelength' from left to right. There are blank lines below the diagram for listing errors.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "List three errors in the pupil's notes.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State and explain one application of X-rays in engineering.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q7",
+    "Question_text": "Fig. 7.1 shows a solenoid made from wire wound around a plastic cylinder. A current in the solenoid produces a magnetic field.",
+    "image": "Fig. 7.1 shows a solenoid formed by wire wound around a plastic cylinder. It has two terminals, one marked '+' (positive) and the other unmarked, implying negative. The task involves drawing magnetic field lines on this diagram.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Magnetic Fields",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 7.1, draw the pattern of the magnetic field lines inside and outside the cylinder.",
+        "image": "Fig. 7.1 shows a solenoid formed by wire wound around a plastic cylinder. It has two terminals, one marked '+' (positive) and the other unmarked, implying negative. The task involves drawing magnetic field lines on this diagram."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 7.2 shows a beam of beta-particles, in a vacuum, passing into a magnetic field.",
+        "image": "Fig. 7.2 illustrates a beam of beta-particles moving from left to right, entering a shaded rectangular region where a magnetic field is present, directed out of the page. The path of the beta-particles within the field needs to be drawn, and the conventional current direction identified."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 7.2, draw an arrow to show the direction of the conventional current.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A solenoid is used to produce the magnetic field that lies within the shaded region of Fig. 7.2. The direction of the field is out of the page.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "On Fig. 7.2, draw the path followed by one of the beta-particles in the shaded region.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "The direction of the current in the solenoid is reversed. State what happens to the path of the beta-particle.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q8",
+    "Question_text": "A 600Ω resistor and a thermistor are connected in series with an ammeter and a 20V d.c. (direct current) power supply. A voltmeter is in parallel with the resistor. Fig. 8.1 is the circuit diagram. The ammeter reads 0.025 A.",
+    "image": "Fig. 8.1 is a circuit diagram. A 20V d.c. power supply is connected in series with an ammeter, a 600Ω resistor, and a thermistor. A voltmeter is connected in parallel across the 600Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Resistance",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the reading on the voltmeter, reading =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the resistance of the thermistor. resistance =",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The temperature of the thermistor increases. State what, if anything, happens to the resistance of the thermistor,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The temperature of the thermistor increases. State what, if anything, happens to the ammeter reading and to the voltmeter reading. ammeter reading: voltmeter reading:",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q9",
+    "Question_text": "A submarine is at rest deep beneath the surface of the sea. The gravitational field strength is 10N/kg, the atmospheric pressure is 1.0 × 10⁵ Pa and the density of sea water is 1.0 x 10³ kg/m³.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the pressure due to the sea water at a depth of 120m, pressure =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the total pressure at a depth of 120m. total pressure =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 9.1 shows a horizontal hatch of surface area 0.45m² on the top of the submarine. The hatch is at a depth of 120m beneath the surface of the sea.",
+        "image": "Fig. 9.1 shows a cross-section of a submarine, with a horizontal hatch on its top surface. The hatch is labeled with its surface area of 0.45 m². Curved lines beneath the submarine represent water currents or field lines, suggesting its underwater environment."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the downward force acting on the surface of the hatch. force =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State two reasons why the force needed to lift the hatch is different from the value calculated in (i).",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The submarine uses ultrasound to detect obstacles. State what is meant by ultrasound.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The ultrasound is produced by a vibrating source. Describe how the ultrasound is transmitted through the water.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "An ultrasound pulse is emitted. At a later time, the reflected pulse is detected. The time between the emission and the detection of the pulse is t.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)1",
+        "part_text": "State the other quantity that must be known in order to determine the distance of the obstacle from the submarine.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)2",
+        "part_text": "State how the distance of the obstacle from the submarine is calculated.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "State one other use of ultrasound.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q10",
+    "Question_text": "Fig. 10.1 shows a domestic heater that is used to heat a room. It contains 16 large bricks each of mass 7.5kg. During the night, the bricks are heated from a temperature of 17°C to 96°C. The bricks are made from a material that has a specific heat capacity of 2300J/(kg°C).",
+    "image": "Fig. 10.1 depicts a rectangular domestic heater, with horizontal fins or ridges along its top and sides, suggesting a design for heat dissipation. It appears to be a common room heater.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the thermal energy (heat) supplied to the bricks. thermal energy =",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "During the day, the bricks gradually cool and the stored thermal energy is released to the room. After 7.0 hours, the bricks have cooled to 17°C. Calculate the average rate of release of thermal energy to the room during these 7.0 hours. rate =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "At the beginning of the day, the heater releases thermal energy at a greater rate than later in the day. Suggest why.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 10.2 is a diagram of the heater standing on the floor of the room and placed next to one of the walls. Describe, and explain in detail, how the thermal energy is transferred throughout the room. You may draw on Fig. 10.2.",
+        "image": "Fig. 10.2 shows a rectangular room with a floor and a wall. A domestic heater is placed on the floor, next to one of the walls. The diagram is simplified, showing the basic layout for illustrating heat transfer."
+      },
+      {
+        "part_label": "d",
+        "part_text": "State one method of thermal insulation that is used to keep a room warm, and explain why it is effective.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q11",
+    "Question_text": "Fig. 11.1 shows a thunder cloud with a flat, positively charged base. It passes over a tall tree growing in a region of flat, open land.",
+    "image": "Fig. 11.1 (not to scale) shows a thunder cloud positioned above a tall tree. The base of the thunder cloud is explicitly labeled with positive '+' charges, indicating a positively charged base. The ground beneath the tree is flat and open.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electrical Current",
+      "Electric Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 11.1, mark the charge on the tree.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how the tree becomes charged.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "A lightning strike occurs and, in 2.0 × 10⁻⁴s, a charge of 560C passes from the cloud to the tree. The size of the charge on an electron is 1.6 × 10⁻¹⁹C.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)1",
+        "part_text": "Calculate the number of electrons that pass between the tree and the cloud. number =",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)2",
+        "part_text": "Calculate the average current in the lightning strike. current =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Two flat metal plates are positioned horizontally, one above the other. Fig. 11.2 shows the positive terminal of a high-voltage supply unit connected to the bottom plate and the negative terminal connected to the top plate.",
+        "image": "Fig. 11.2 displays two horizontal metal plates, one above the other. A high-voltage supply unit is shown on the left, with its positive terminal connected to the bottom plate and its negative terminal connected to the top plate. The space between the plates is empty, awaiting an electric field to be drawn."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 11.2, draw the shape and the direction of the electric field produced.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest why a small, charged oil droplet placed between the two metal plates accelerates upwards.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The oil droplet touches the top metal plate. State and explain what happens to the charge on the oil droplet.",
+        "image": null
+      }
+    ]
+  }
+]

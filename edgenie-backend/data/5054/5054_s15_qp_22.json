@@ -1,0 +1,339 @@
+[
+  {
+    "QuestionNumber": "May-June/22/2015/Q1",
+    "Question_text": "The apparatus shown in Fig. 1.1 is used to measure the extension of a spring. The cyclist leaves town A at time t = 0 and arrives at town B at t = 4.0 hours.",
+    "image": "Fig. 1.1 shows a vertical spring with a mass hanging from its bottom end. A vertical scale is placed next to the spring to measure its length/extension. The top of the spring is attached to a fixed support. Labels indicate 'spring', 'mass', and 'scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Mass & Weight",
+      "Scalars & Vectors"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how the mass causes a force on the spring.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The force on the spring is a vector quantity. State what is meant by a vector quantity.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 1.2 shows a graph of the length of the spring plotted against the force on the spring, for forces between 0 and 10N.",
+        "image": "Fig. 1.2 is a graph plotting length/cm on the y-axis (ranging from 0 to 140 cm, with intervals of 20 cm) against force/N on the x-axis (ranging from 0 to 14 N, with intervals of 2 N). A straight line is plotted, starting at (0 N, 40 cm) and extending linearly to (10 N, 90 cm)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q2",
+    "Question_text": "Fig. 2.1 shows two engineers measuring the length of a wall made from concrete. The wall is 2.0m high, 15m long and 0.25 m thick. The weight of the wall is 180000N and the mass of the wall is 18000 kg.",
+    "image": "Fig. 2.1 shows a rectangular concrete wall with two engineers. One engineer is at one end of the wall, and the other is at the other end, both appearing to measure its length. Dimensions are indicated: 2.0 m for height, 0.25 m for thickness, and 15 m for length. The image is marked as '(not to scale)'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Density",
+      "Measuring Density",
+      "Pressure & Forces",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The engineers measure the length of the wall in one single measurement. State the name of the measuring instrument they use.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The engineers state that the density of the concrete affects the pressure exerted by the wall on the ground but that the length of the wall does not affect this pressure.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q3",
+    "Question_text": "Two different kettles are used to heat water, as shown in Fig. 3.1. Data for the two kettles is shown in Fig. 3.2.",
+    "image": "Fig. 3.1 shows two types of kettles. On the left is an 'electric kettle', a standard electric jug-style kettle. On the right is a 'gas heated kettle' placed on top of a 'gas burner', a traditional stovetop kettle.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Efficiency",
+      "Power",
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Data for the two kettles is shown in Fig. 3.2.",
+        "image": "Fig. 3.2 is a table with two rows (electric kettle, gas heated kettle) and two columns (energy supplied to the kettle in one minute/J, thermal energy (heat) supplied by the kettle to the water in one minute/J). The values are: electric kettle - 120000 J supplied, 95000 J thermal energy; gas heated kettle - 130000 J supplied, 90000 J thermal energy."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Both kettles contain the same mass of water, at the same initial temperature. State and explain which kettle brings the water to boiling point first.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The boiling water produces steam at 100°C. State one difference between molecules in the steam and molecules in the boiling water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q4",
+    "Question_text": "A metal can and a plastic bottle, both containing liquid, are cooled by placing them in a jug of melting ice, as shown in Fig. 4.1. The can and bottle each contain 330 g of the same liquid at 15°C.",
+    "image": "Fig. 4.1 shows a cross-section of a jug containing 'melting ice'. Inside the melting ice, there is a metal can and a plastic bottle, both containing liquid. The liquid in the can is shown as a grey cylinder, and the liquid in the bottle is shown as a light grey bottle shape.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Thermal Conduction",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The specific heat capacity of the liquid is 4.2J/(g°C). Calculate the thermal energy released when 330 g of the liquid at 15°C cools to 2°C.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When water at 0°C is used in the jug, instead of the melting ice, the cooling is slower. Explain why cooling is faster when using melting ice in the jug, rather than water at 0°C.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The liquid in the metal can cools down faster than the liquid in the plastic bottle. Suggest why this happens.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q5",
+    "Question_text": "When a balloon is rubbed on hair, the balloon becomes negatively charged. The balloon is shown in Fig. 5.1.",
+    "image": "Fig. 5.1 shows a person holding a balloon that has been rubbed on their hair. The hair on their head is shown attracted towards the balloon, standing on end.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Demonstrating Electric Charges",
+      "Static Electricity",
+      "Electric Fields",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how rubbing causes the balloon to become negatively charged.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the hair is pulled towards the balloon.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain why it is important that the balloon is made from an electrical insulator.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State one example where static electricity is useful.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q6",
+    "Question_text": "Fig. 6.1 shows a simple a.c. generator.",
+    "image": "Fig. 6.1 shows a diagram of a simple A.C. generator. A rectangular coil is placed between the N and S poles of a magnet. The coil is connected to a circuit with an 'output voltage' and shows 'rotation of coil'. The ends of the coil are connected to slip rings and brushes, which then connect to the output.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction",
+      "The A.C. Generator"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The coil rotates and an alternating electromotive force (e.m.f.) is induced in the coil. Fig. 6.2 shows how the alternating e.m.f. varies with time as the coil rotates.",
+        "image": "Fig. 6.2 is a graph plotting e.m.f. on the y-axis (+, 0, - labels) against time on the x-axis. The graph shows a sinusoidal wave oscillating around zero, representing an alternating e.m.f."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Changes are made to the a.c. generator, one at a time: • stronger magnets are used • more turns are wound on the coil • the coil is turned faster. Complete the table in Fig. 6.3 to show what happens to the maximum value of the e.m.f. and to the frequency of the alternating e.m.f.",
+        "image": "Fig. 6.3 is a table with three rows ('stronger magnets', 'more turns on the coil', 'the coil is turned faster') and two columns ('what happens to the maximum value of the e.m.f.', 'what happens to the frequency of the e.m.f.'). The cells are empty, to be completed."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q7",
+    "Question_text": "An electric hairdryer and an electric heater are connected to the mains supply, as shown in Fig. 7.1.",
+    "image": "Fig. 7.1 shows a diagram of an electric hairdryer and an electric heater. Both appliances are connected via a mains plug to a wall socket, illustrating their connection to the mains supply.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electric Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The cable from the heater to the mains supply has a live, a neutral and an earth wire. State the purpose of the neutral wire.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The live wire in the electric heater touches the outer metal case. Explain how the earth and the fuse together protect the user from electric shock.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The hairdryer does not have an earth wire. Explain why this hairdryer is still safe to use.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "In some modern homes, circuit breakers are used instead of fuses. Suggest one advantage of using a circuit breaker rather than a fuse.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q8",
+    "Question_text": "Two isotopes of hydrogen are written as ¹H and ³H.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete Fig. 8.1 to show the number of protons and neutrons in one nucleus of each of these isotopes of hydrogen.",
+        "image": "Fig. 8.1 is a table with two rows ('¹H', '³H') and two columns ('number of protons', 'number of neutrons'). The cells are empty, to be completed."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain, using ideas about electrons, neutrons and protons, why atoms of ¹H and ³H are uncharged.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q9",
+    "Question_text": "Fig. 9.1 shows the wavefronts of a water wave in deep water in a ripple tank. The frequency of the wave in deep water is 5.0Hz.",
+    "image": "Fig. 9.1 shows a ripple tank setup with a region of 'deep water'. Parallel wavefronts are shown propagating. The distance between five consecutive wavefronts (four wavelengths) is indicated as 6.0 cm.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Wave Behaviour",
+      "Ripple Tank",
+      "Transverse & Longitudinal Waves",
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Reflection of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by the frequency of a wave.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The frequency of the wave in deep water is 5.0Hz.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The wave passes from deep water into shallow water. The speed of the wave is less in shallower water.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Sound is also a wave.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q10",
+    "Question_text": "Fig. 10.1 shows a relay connected to a cell and a switch.",
+    "image": "Fig. 10.1 shows a diagram of an electromagnetic relay. It consists of an iron core wound with a coil. A switch (S) and a cell are connected to the coil. An iron armature is pivoted, and when the coil is energized, the armature is attracted to the iron core, completing a secondary circuit indicated by points A and B.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Effect of a Current",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "When switch S is closed, the iron core is magnetised. The left side of the core is an N-pole, as shown in Fig. 10.1. The iron armature is attracted to the core.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 10.2 shows the relay connected in a circuit to a 12V battery. The bell is not ringing.",
+        "image": "Fig. 10.2 shows a circuit diagram. A 12V battery is connected to a variable resistor (labeled X) in series with a coil of a relay. The relay has contacts (labeled C and D) that are currently open. A bell is connected across points A and B in a separate circuit, which is open due to the relay contacts C and D being open."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/22/2015/Q11",
+    "Question_text": "A bungee jumper falls from a bridge above a river, as shown in Fig. 11.1. The man starts from position A in Fig. 11.1. The elastic cord starts to stretch at position C and he stops for the first time at position D. He continues to rise and fall. Fig. 11.2 shows how the velocity of the man varies with time t.",
+    "image": "Fig. 11.1 illustrates a bungee jump sequence: Position A: man at the top of a bridge, above a river. Position B: man has fallen, cord is slack. Position C: cord starts to stretch. Position D: man at the lowest point, cord fully stretched. The positions show a progression from top to bottom.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Freefall",
+      "Newton's Second Law",
+      "Hooke's Law",
+      "Energy Stores & Transfers",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Elastic Potential Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 11.2 shows how the velocity of the man varies with time t.",
+        "image": "Fig. 11.2 is a velocity-time graph. The y-axis is velocity (m/s) from -20 to 20, with intervals of 5 m/s. The x-axis is time (t/s) from 0 to 6, with intervals of 1 s. The graph starts at (0,0), increases linearly to approximately (1.4 s, 14 m/s), then curves downwards, crosses the x-axis around t=2.9 s, reaches a minimum velocity around (4.3 s, -17 m/s), and then increases back towards zero velocity."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 11.3 shows the values for the gravitational potential energy of the man, the kinetic energy of the man and the elastic potential energy in the cord at A, C and D. You may ignore the effect of air resistance in this question.",
+        "image": "Fig. 11.3 is a table with rows for 'position A', 'position C', 'position D' and columns for 'gravitational potential energy/J', 'kinetic energy/J', 'elastic potential energy/J'. The values provided are: Position A: GPE=20000, KE=0, EPE=0. Position C: GPE=15000. Position D: GPE=0."
+      }
+    ]
+  }
+]

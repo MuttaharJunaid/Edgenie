@@ -1,0 +1,455 @@
+[
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q1",
+    "Question_text": "A student drops a small metal object into a cylinder of oil. The object falls alongside a vertical ruler and a camera records its position at 1.0s intervals, as shown in Fig. 1.1.",
+    "image": "Figure 1.1 shows a transparent cylinder filled with oil, containing a vertical ruler marked in centimeters (0-7 cm) and a small metal object falling through the oil. The position of the object is indicated at different time intervals: t=0s (at 0 cm), t=1.0s (at 1 cm), t=2.0s (at 2 cm), t=3.0s (at 3 cm), t=4.0s (at 5 cm), and t=5.0s (at 7 cm). A label 'position of object when time t=0' points to the top of the oil, and 'oil' labels the liquid.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity",
+      "Freefall",
+      "terminal velocity",
+      "Resultant Forces",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the grid in Fig. 1.2, plot a distance-time graph for the object.",
+        "image": "Figure 1.2 shows a blank grid for plotting a distance-time graph. The y-axis is labeled 'distance/cm' from 0 to 8, and the x-axis is labeled 'time/s' from 0 to 5. The grid is divided into 1 cm by 1 s squares, with further subdivisions indicated by lighter lines."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The object has a constant speed for some of the time. State and explain how a distance-time graph shows that speed is constant.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain, in terms of the forces acting on the object, how it is able to fall at a constant speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q2",
+    "Question_text": "In an experiment, a student takes measurements and determines the extension of a spring for different loads. The apparatus is shown in Fig. 2.1. The table in Fig. 2.2 shows the results.",
+    "image": "Figure 2.1 illustrates an apparatus consisting of a spring suspended from a support. A vertical scale is visible alongside the spring. A load is attached to the bottom of the spring, pointing downwards. Labels indicate 'spring', 'scale', and 'load'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Elastic Potential Energy",
+      "Gravitational Potential Energy",
+      "Conservation of Energy",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Only some of the extensions are shown in the table. Complete the table to show all of the extensions. Figure 2.2 shows a table with three rows: 'load/N', 'length of spring/mm', and 'extension/mm'. The columns show data for loads 0, 1.0, 2.0, 3.0, 4.0, 5.0 N. Corresponding lengths of spring are 200, 235, 270, 305, 350, 420 mm. The 'extension/mm' row is partially filled with 0, 35, 70, 105 mm, with the values for 4.0 N and 5.0 N left blank.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the load that produces an extension of 49 mm.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student pulls a load downwards from position A to position B and holds it fixed at position B, as shown in Fig. 2.3. The load is stationary at A and at B. The load has no kinetic energy at either point. Place ticks (✔) in the boxes to show how the value of each of the forms of energy compares at A and B. A table with three columns ('equal at A and B', 'larger at A', 'larger at B') and two rows ('energy stored in spring', 'gravitational potential energy of load') is provided for ticking. Figure 2.3 shows two diagrams of a spring and load setup. Diagram A shows a spring suspended, with a load attached, at an initial position A. Diagram B shows the same spring stretched further down, with the load held at position B, lower than A. Both springs are shown with coils, and the load is a triangular shape at the bottom of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Work is done by the student to pull the load down. The law of conservation of energy states that energy cannot be created and cannot be destroyed. Explain how this principle applies in this case.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q3",
+    "Question_text": "Equal volumes of metal, water and air are heated from 20 °C to 80°C.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State whether the metal, the water or the air expands the most.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 3.1 is a diagram of the metal at 20°C. The metal is a large, square sheet with a square hole at its centre. The sheet lies flat on a table. On Fig. 3.1, draw the outline of the sheet and of the hole after the metal is heated. Make sure that the expansion is noticeable. Figure 3.1 shows a top-down view of a square metal sheet with a smaller square hole precisely in its center. The outer edges of the sheet and the inner edges of the hole are clearly defined. A label 'hole' points to the central square opening.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The metal has a mass of 5.0kg and a density of 7.5 × 10³kg/m³. Define density.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the volume of the metal. Give your answer to a suitable number of significant figures.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q4",
+    "Question_text": "One form of latent heat is the thermal energy needed to melt a solid.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Thermal Conduction",
+      "Convection",
+      "Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define specific latent heat.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 4.1 shows one method of measuring the thermal energy needed to melt ice. The ice is contained in a glass funnel and covered with an insulator. The heater is switched on and the ice melts. The specific latent heat of fusion of ice is 3.3 × 10⁵J/kg. Calculate the energy needed to melt 5.0 g of ice.",
+        "image": "Figure 4.1 shows an experimental setup to measure the thermal energy needed to melt ice. A heater is placed above a glass funnel which contains ice. The funnel is covered with an insulator. Melted water drips from the funnel into a beaker below. Labels indicate 'insulator', 'heater', 'glass funnel', 'ice', and 'water droplets' falling into a container."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Before the heater is switched on, thermal energy from the room causes some of the ice to melt. Describe the process by which the ice gains thermal energy from the air.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q5",
+    "Question_text": "A microwave signal from a transmitter on the Earth's surface is sent up to a satellite in orbit and is then immediately transmitted back to Earth.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves",
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A pulse of microwaves from the transmitter is received back at the transmitter 0.24 s later. The speed of microwaves is 3.0 x 10⁸m/s. Calculate the distance from the transmitter on the Earth to the satellite.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The microwave signal is used in a telephone system that produces sound. Waves are described as longitudinal or transverse. Some waves are also electromagnetic. Place ticks (✔) in the table in Fig. 5.1 to show whether microwaves and sound waves are longitudinal or transverse and to show whether they are electromagnetic. Figure 5.1 shows a table with three columns: 'longitudinal', 'transverse', and 'electromagnetic'. It has two rows: 'microwaves' and 'sound', with empty boxes for ticks.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A longitudinal wave contains a compression. Describe what is meant by a compression.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q6",
+    "Question_text": "A converging lens has a focal length of 3.0 cm. An object of height 2.0 cm is placed 5.0cm from the centre of the lens. Fig. 6.1 shows the arrangement of the object and the lens.",
+    "image": "Figure 6.1 displays a grid showing a converging lens placed vertically along a central grid line. A horizontal principal axis runs through the center of the lens. An object, represented by an upward arrow, is placed on the left side of the lens, 5.0 cm away from its center and has a height of 2.0 cm (implied by the grid). The grid includes a scale where each major square represents 1 cm by 1 cm. Labels indicate 'lens' and 'object'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 6.1, draw rays from the top of the object to show how the lens forms an image of the object. Mark the image clearly.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The image is magnified. State one other feature of the image.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the linear magnification produced by the lens in this case.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State the name of one optical device that produces a magnified image as shown by Fig. 6.1.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q7",
+    "Question_text": "A computer hard disk contains a layer of a magnetic material. Data is stored on the disk as a series of N-poles and S-poles. Fig. 7.1 shows part of the hard disk. The thin layer of magnetic material contains small regions. Each region has an N-pole and an S-pole. Some magnetic field lines are shown on Fig. 7.1.",
+    "image": "Figure 7.1 (not to scale) shows a cross-section of a hard disk with a magnetic material layer. The layer is divided into regions, each containing an N-pole and an S-pole. The arrangement shown is 'S N N S S N S N N S' from left to right. Magnetic field lines are drawn, curving from N-poles to S-poles both within the material and above it. A coil is positioned above the magnetic layer. Labels indicate 'magnetic field lines', 'coil', 'thin layer of magnetic material', 'region 1' (under a S-N boundary), and 'region 2' (under an N-S boundary).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Electromagnetic Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how a magnet is used to find out if a sample of material is magnetic or non-magnetic.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Region 2 causes a magnetic force on region 1. State the direction of the magnetic force on region 1 and explain why it acts.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 7.1, draw arrows on the field lines to show the direction of the magnetic field near the boundary between region 1 and region 2.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)1",
+        "part_text": "The coil shown in Fig. 7.1 is fixed in position. The layer of magnetic material passes quickly under the coil. A voltage is induced in the coil as some of the boundaries between the regions pass under the coil. Explain why a voltage is induced in the coil.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)2",
+        "part_text": "Suggest why the coil must be close to the layer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q8",
+    "Question_text": "A fuse is one form of protection in an electrical circuit. Fig. 8.1 shows a fusebox connected to part of a lighting circuit in a house.",
+    "image": "Figure 8.1 displays a circuit diagram for a fusebox connected to part of a lighting circuit. The fusebox contains three fuses arranged in parallel. A wire labeled 'wire W' leads into the fusebox. The output from the fusebox connects to two lamps, also connected in parallel. Labels indicate 'fusebox', 'fuse', 'wire W', and the two lamps are represented by circles with a cross inside.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two other forms of protection that are included in household electrical circuits. These may protect the consumer, the circuit or an electrical appliance.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State how Fig. 8.1 shows that wire W is the live wire.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 8.1, mark with a letter s, the correct position for a switch that controls both lamps.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The rating of the fuse in the lighting circuit is 5A. Explain what this means.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q9",
+    "Question_text": "Wind energy is a renewable energy source. A wind turbine and generator convert energy in the wind to electrical energy in a generator. Fig. 9.1 shows some wind turbines.",
+    "image": "Figure 9.1 shows a landscape with several wind turbines. Each turbine has a tall tower and three large blades. The turbines are depicted standing in an open area, suggesting a wind farm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Wind",
+      "Kinetic Energy",
+      "Power",
+      "Efficiency",
+      "The A.C. Generator",
+      "Transformers",
+      "Transformer Calculations",
+      "Electromagnetic Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by a renewable energy source.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State the name of one other renewable energy source.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)1",
+        "part_text": "Some methods of generating electricity cause much more global warming than wind energy. State one method of generating electricity that causes a large amount of global warming.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)2",
+        "part_text": "Describe, in outline, how the method you have chosen causes a significant amount of global warming.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "During a 30 minute period, a mass of 4.2 × 10⁷kg of air enters the turbine with a speed of 15m/s. Calculate the kinetic energy of the air that enters the turbine in 30 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The electrical power output of the generator connected to the turbine is 8.4 × 10⁵W. Calculate the electrical energy output from the turbine in 30 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the efficiency of the turbine and generator in converting the kinetic energy of the air to electrical energy.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The generator contains a coil that rotates between the poles of a magnet. The coil rotates 50 times in one second and produces an alternating voltage output with a maximum value of 500 V. On the grid in Fig. 9.2, sketch a voltage-time graph showing the output voltage.",
+        "image": "Figure 9.2 shows a blank grid for plotting a voltage-time graph. The y-axis is labeled 'voltage/V' ranging from -500 V to 500 V. The x-axis is labeled 'time/s' ranging from 0 to 0.03 s, with markings at 0.01 s, 0.02 s, and 0.03 s."
+      },
+      {
+        "part_label": "c(ii)1",
+        "part_text": "The output voltage from the generator is stepped up by a transformer. The electrical energy then passes along a transmission line to a distant house. Explain why a high voltage is used for the transmission of electrical energy.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)2",
+        "part_text": "Explain why a transformer is used to connect the transmission line to the house.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q10",
+    "Question_text": "A student connects a battery to two resistors. The circuit diagram is shown in Fig. 10.1. The potential difference (p.d.) across the 40 Ω resistor is 9.6 V.",
+    "image": "Figure 10.1 shows an electrical circuit. A battery (represented by two cells in series) is connected to a 10 Ω resistor and a 40 Ω resistor in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by the potential difference across a resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the current in the 40 Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the electromotive force (e.m.f.) of the battery.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student has three different voltmeters to measure the p.d. across the 40 Ω resistor. These are labelled 0–2 V, 0–20V and 0–200 V. Each has a pointer that shows the p.d. on a scale. State and explain which of the three voltmeters is best to measure this p.d.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Calculate the power P produced in the 10 Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The student has available two 10 Ω resistors, with power ratings of ½P and 2P. Suggest why a resistor with a power rating of ½P is not suitable for the circuit in Fig. 10.1.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The student adds a resistor R to the circuit, to make the circuit shown in Fig. 10.2. Complete the table in Fig. 10.3 to show what happens as resistor R is connected. You should state whether each quantity increases, decreases or stays the same and give a brief explanation of why any change occurs. Calculations are not required. Figure 10.2 shows the original battery and 10 Ω and 40 Ω resistors in series, but now a resistor R is added in parallel with the 40 Ω resistor. Figure 10.3 shows a table to be completed. It has columns 'quantity', 'increases, decreases or stays the same as resistor R is added', and 'brief explanation of why the change occurs'. Rows are for 'current in 10 Ω resistor', 'p.d. across 10 Ω resistor', and 'p.d. across 40 Ω resistor'. The first row ('current in 10 Ω resistor') is already filled with 'increases' in the second column.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/2018/Q11",
+    "Question_text": "A smoke detector contains a small radioactive source of americium-241. The source emits alpha-particles.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Uses of Radiation",
+      "Dangers of Radiation",
+      "Half-Life",
+      "Background Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "In the space below, draw a diagram of an apparatus that can be used to show that the source emits alpha-particles.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe how this apparatus is used.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain how the results of the test show that the source emits alpha-particles.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The smoke detector works because alpha-particles from the source ionise the air. Compare the relative ionising effects and penetrating powers of alpha-particles, beta-particles and gamma rays. A table-like structure is implied with rows for 'ionising effects' and 'penetration effects'.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Americium-241 has a half-life of 430 years. Radium-224 is another element that emits alpha-particles. It has a half-life of 3.6 days. Explain why americium-241 is more suitable as the radioactive source in a smoke detector than radium-224.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A smoke detector contains 8.0 × 10¹¹ atoms of americium-241. Calculate the time taken for the number of atoms of americium-241 to fall to 1.0 × 10¹¹.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "When used correctly, the radioactive source in the smoke detector is less harmful than background radiation. State one harmful effect of background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "A radioactive source is picked up using a long-handled tool. Explain why this is safer than using a short-handled tool.",
+        "image": null
+      }
+    ]
+  }
+]

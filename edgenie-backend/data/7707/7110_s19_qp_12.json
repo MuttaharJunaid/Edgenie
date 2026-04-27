@@ -1,0 +1,335 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "What is the main function of book-keeping?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Which does not reduce the owner's capital?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Apply accounting equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "What would be recorded by a debit entry in a ledger account?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Prepare ledger accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "In April Meena sent Ralph invoices for $170, $240, $125 and a credit note for $63. In the same month Ralph sent Meena a debit note for $70 and a cheque for $107. What was the balance on Meena's account in Ralph's books on 1 May?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Balance/transfer accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Tahir purchased goods on credit from Yasmin. How did Yasmin record this?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Use/process prime entry books"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Jane invoiced John for goods, $5000. John took a cash discount of 5% and sent Jane a cheque for the amount due. Which entries will appear in Jane's cash book?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Trade/cash discount accounting",
+      "Cash book dual function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "After receiving her bank statement Lyn updated her cash book. Which items would reduce the overdrawn balance in the cash book?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Update cash book items"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The following account appeared in the ledger of Chan. Fu account",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Prepare ledger accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "After preparing a trial balance it was found that a cheque, $300, received from Oliver, had been debited in Oliver's account and credited in the bank account. No other errors were found. Which statement about the trial balance before correcting the error is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Effect on financial position"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Ali's financial year ends on 31 March. During the year ended 31 March 2019, Ali paid wages of $42500. On 31 March 2019, $1400 wages were accrued. Which journal entry records the transfer from the wages account to the income statement on 31 March 2019?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid expenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "A trader created a provision for doubtful debts. Why did he create this provision?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Reasons for doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Which item is revenue expenditure for a manufacturer?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Distinguish capital/revenue expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "An item of revenue expenditure was treated as an item of capital expenditure. What was the effect of this error?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Effect on assets incorrect treatment",
+      "Effect on profit incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "What causes computer equipment to depreciate?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Reasons for depreciation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "On 1 January 2017 Wayne purchased a motor vehicle for $8000. He decided to depreciate it using the diminishing (reducing) balance method at 20% per annum. Which journal entry did Wayne make on 31 December 2018?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Depreciation methods description",
+      "Ledger/journal for depreciation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "A cheque received from D Pawson, a trade receivable, was correctly debited to the bank account but was credited to the account of P Dawson, a trade payable. What was the effect of correcting this error?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via journal entries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Which items are used to calculate cost of goods sold?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Calculate factory cost"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Fatima opened a department store on 1 January 2018. She provided the following information on 31 December 2018.",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Prepare income statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Muriel had a bank overdraft of $3820 and was owed $2100 by Ada. Ada paid promptly by cheque and received a 5% cash discount. What was the effect on Muriel's statement of financial position when Ada paid her debt?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Interpret ledger balances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "On 1 January 2019 a commission receivable account had a credit balance. What does this balance represent?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "What is an advantage of trading as a partnership?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Partnership advantages/disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "A golf club sells refreshments to its members. Suppliers of refreshments were owed $250 on 1 January 2018 and $400 on 31 December 2018. Payments to suppliers during the year were $7200. The inventory at the end of the year was $100 less than the inventory at the start of the year. What was the cost of sales of refreshments for the year ended 31 December 2018?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Revenue activities accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "After the preparation of the financial statements of a sports club it was found that no adjustment had been made for subscriptions received for the following financial year. How will correcting this error affect the financial statements?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Adjustments as sole traders"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "A business provided the following information.",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate missing figures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "A limited company provided the following information.",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Prepare company statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "What is not included in a statement of changes in equity of a limited company for the year ended 31 March 2019?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Prepare company statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "A business's sales are $100000, the expenses are $30000 and the profit for the year is $20000. What is the gross profit/sales ratio?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "A business prepares its accounts on the basis that it will continue to trade in the foreseeable future. Which accounting principle is being applied?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "A cheque paid by a business for fuel for the delivery vehicle was recorded in the books of the business. A cheque paid by the business owner for fuel for his motorcycle was not recorded in the books of the business. Which accounting principle was applied?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Which statement is not correct about reasons for using international accounting standards?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.2 Accounting policies",
+    "Sub_topic": [
+      "Standards influence recognition"
+    ],
+    "Parts": []
+  }
+]

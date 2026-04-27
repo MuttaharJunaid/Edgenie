@@ -1,0 +1,154 @@
+[
+  {
+    "QuestionNumber": "October/November/2022/Q1",
+    "Question_text": "In this experiment you will investigate factors affecting friction. You are provided with: • a block of wood with a small nail at one end • a spring attached to a loop of thread • a ruler kept in place on the bench with a small amount of adhesive putty • 2 x 100g masses on the block of wood and two other 100 g masses. The supervisor has arranged the apparatus as shown in Fig. 1.1. Rearrange the apparatus so that the end X of the spring is lined up with the zero end of the scale on the ruler as shown in Fig. 1.2. The string loop between the nail and the spring should be as straight as possible. Slowly pull end Y of the spring in the direction shown in Fig. 1.2. Observe that the spring extends until the pulling force overcomes the friction between the block and the bench. At this point the block will slide a small distance in the direction of the pulling force. Stop pulling the spring, holding end Y at its new position on the scale. End X of the spring is now also at a new position on the scale.",
+    "image": "Fig. 1.1 shows a block of wood with a nail at one end, resting on a surface. Two 100g masses are placed on top of the block. A spring is attached to the nail via a string loop. The other end of the spring is labeled 'end X'. The spring is extended horizontally to the right. This setup is on a bench.\nFig. 1.2 shows a rearranged setup. The block of wood is on a surface with a ruler positioned next to it. The nail on the block is connected to a spring via a string loop. The end X of the spring is aligned with the zero mark of the ruler. The other end of the spring, labeled 'Y', is being pulled to the right, indicating the direction of the pulling force. The ruler has markings (e.g., 2, 3, 4) suggesting a scale to measure extension.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Record the readings x and y where: • x is the new position on the scale of end X of the spring • y is the new position on the scale of end Y of the spring. x = mm y = mm [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A student claims that x is directly proportional to y. Plan an experiment to find out if the student's claim is correct. In your plan you should: • state two quantities that you will keep constant • describe how you will obtain different values of x and y • describe how the results will show if the student's claim is correct. You do not have to do this experiment. [4] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q2",
+    "Question_text": "In this experiment you will investigate the rate of energy loss from a beaker of hot water. You are provided with: • a 250 cm³ beaker • a card with the mass of the beaker written on it • a second beaker to use when pouring hot water • paper towels to mop up any spilled water • a thermometer • a stand, boss and clamp to support the thermometer • a stop-watch. The supervisor has set up the apparatus as shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a thermometer clamped by a boss and stand, with its bulb immersed in a beaker resting on a bench. The stand is positioned next to the beaker.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "You are going to measure the time taken for the temperature of the water to decrease by 10°C. Ask your supervisor to fill your second beaker with hot water. Carefully pour the hot water into the beaker underneath the thermometer up to the 100cm³ mark. First, observe the temperature rise to a maximum on the thermometer. Start the stop-watch when the temperature just begins to fall. Stop the stop-watch when the temperature is 10°C lower than at the start maximum. Record the reading t on the stop-watch in seconds. t = s [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the rate of temperature change R using the equation: R = 10 / t R = °C/s [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The mass M of the water in the beaker is 100g. The mass m of the beaker is written on the card. Record m. m = g Calculate the rate of thermal energy loss from the water and beaker P using the equation: P = R (Mcw + mcg) where the specific heat capacity of water cw is 4.2J/(g°C) and the specific heat capacity of glass cg is 0.67J/(g°C). Show your working. Give a unit for your answer. P = [2]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A student suggests that for any value of R, the correct value of P will be less than that calculated in (c). Observe the arrangement of the apparatus and state one reason why the student may be correct. [1] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q3",
+    "Question_text": "In this experiment you will investigate the image produced by a lens. You are provided with: • a lens • a sheet of graph paper • a stand, boss and clamp to support the lens • a metre rule • a weight or G-clamp to stop the stand from toppling over. The supervisor has set up the apparatus as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows an experimental setup for investigating a lens. A lens is held by a clamp attached to a stand. The stand is stabilized by a weight on its base. Below the lens, there is a sheet of graph paper. The height of the lens above the graph paper is labeled h₀. An eye position is indicated above the lens, with a distance 'i' from the eye to the lens.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure and record, to the nearest mm, the height h₀ of the lens above the graph paper. h₀ = cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Position your eye as far as you can above the lens. Hold the graph paper just below the lens. Observe the squares of the graph paper through the lens. Now move the graph paper down until it reaches the bench. Describe your observations. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "With the graph paper on the bench, adjust the height of the lens on the stand until the lens is approximately 16cm above the graph paper. Position your eye at a distance i = 30 cm above the lens and observe the squares of the graph paper through the lens. Fig. 3.2 shows the graph paper. Fig. 3.3 shows the magnified image of the graph paper seen through the lens at one position. Count and record the number of complete squares N observed across the horizontal diameter D of the lens shown in Fig. 3.3. number of complete squares N = [1]",
+        "image": "Fig. 3.2 shows a grid of small squares, representing unmagnified graph paper. Fig. 3.3 shows a magnified circular view through a lens, revealing a larger grid of squares. A horizontal line labeled 'D' indicates the diameter of the circular magnified view, across which the number of complete squares N should be counted."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Each small square of the graph paper has a side of length 2.0mm. Describe how to use D and N shown in (i) to estimate how much each square has been magnified by the lens. [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "A student suggests that a more accurate value of the magnification produced by the lens is to repeat and average the measurements. State one other way that the procedure could be improved in order to determine an accurate value of the magnification. [1] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2022/Q4",
+    "Question_text": "In this experiment you will investigate the resistance of a light-emitting diode (LED). You are provided with: • a power supply • a light-emitting diode • 5 resistors of resistance 150Ω • a switch • connecting wires and crocodile clips. The supervisor has set up the circuit shown in Fig. 4.1. The crocodile clip shown in the diagram in Fig. 4.1 is a movable contact that can be attached at different points in the circuit.",
+    "image": "Fig. 4.1 shows a series circuit diagram. A power supply is connected to a switch. After the switch, there are five 150 Ω resistors connected in series, labeled A, B, C, D, E from right to left. After resistor E, a Light-Emitting Diode (LED) is connected in series, followed by another 150 Ω resistor labeled G, which closes the circuit back to the power supply. A movable crocodile clip is shown attached to a wire between the resistors and the LED. Terminals T₁ and T₂ are marked across the power supply.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Make sure that the movable crocodile clip and wire is not touching any other part of the circuit. Connect the voltmeter between the terminals T₁ and T2 of the power supply. Record the reading VS on the voltmeter. Disconnect the voltmeter from the power supply. VS = V [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Attach the movable crocodile clip to one of the wires either side of the crocodile clip labelled A. Connect the voltmeter between F and G. Close the switch. Record the reading V on the voltmeter. Open the switch. V = V [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Using your answer from (a)(ii), calculate the current ILED in the LED using the equation ILED = V / 150 ILED = A [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The total number of resistors connected in series with the LED is n. When the movable crocodile clip is attached by A, the value of n is 5. Using your answers from (a)(i) and (a)(ii), calculate the voltage VLED across the LED using the equation VLED = VS - nV. VLED = V [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "Using your answers from (a)(iii) and (a)(iv), calculate the resistance RLED of the LED using the equation RLED = VLED / ILED RLED = Ω [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In the appropriate row in Table 4.1, record your readings and calculations from (a)(ii), (iii), (iv) and (v). Add appropriate headings with units to each column. [1]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Repeat the procedure in (a)(ii) to (a)(v) with the movable crocodile clip connected by B, C, D and E. Record your readings and calculations in Table 4.1.",
+        "image": "Table 4.1 has two initial columns: \"position of movable crocodile clip\" with entries \"by A\", \"by B\", \"by C\", \"by D\", \"by E\", and \"n\" with corresponding values 5, 4, 3, 2, 1. Several blank columns are provided for recording readings and calculations."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using the grid on page 11, plot a graph of RLED on the y-axis against ILED on the x-axis. Draw the curve of best fit. [4]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The values of the supply voltage and the resistance of the resistors have been carefully selected for use with this LED in this practical exercise. Suggest two reasons why these values are suitable. 1. 2. [2] [Total: 15]",
+        "image": null
+      }
+    ]
+  }
+]

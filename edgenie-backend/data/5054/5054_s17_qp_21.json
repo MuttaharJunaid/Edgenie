@@ -1,0 +1,534 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2017/Q1",
+    "Question_text": "Fig. 1.1 shows the directions of four forces acting on a racing car as it travels in a horizontal straight line.",
+    "image": "A diagram showing a racing car on a horizontal surface. Four forces are depicted: force A pointing upwards from the car, force B pointing to the right from the rear of the car, force C pointing downwards from the car, and force D pointing to the left from the front of the car. The car is on a horizontal straight line.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Mass & Weight",
+      "Acceleration",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw a line from each box on the left to the correct description of each force. The forces and descriptions are to be matched as follows: force A (upwards) with 'contact or normal reaction force', force B (forwards) with 'driving force', force C (downwards) with 'force of gravity', and force D (backwards) with 'air resistance and friction'.",
+        "image": "A diagram with two columns of boxes. The left column lists 'force A', 'force B', 'force C', 'force D'. The right column lists 'driving force', 'contact or normal reaction force', 'air resistance and friction', 'force of gravity'. The task is to match items between columns with lines."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The table shows the sizes of the forces acting on the car at one time. force A/N: 8000 force B/N: 1000 force C/N: 8000 force D/N: 600 The gravitational field strength g is 10N/kg. Calculate",
+        "image": "A table with two rows and four columns. The first row contains headers: 'force A/N', 'force B/N', 'force C/N', 'force D/N'. The second row contains values: '8000', '1000', '8000', '600'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the mass of the car,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the resultant force on the car,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "the acceleration of the car.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "At another time, the car is travelling at speed u. It then accelerates for 5.0 s with an acceleration of 1.6 m/s², and reaches a speed of 20 m/s. Calculate the value of u.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q2",
+    "Question_text": "Fig. 2.1 shows a student sitting on a chair. Fig. 2.2 shows the same student with his chair tilted backwards slightly.",
+    "image": "Two diagrams. Fig. 2.1 shows a student sitting upright on a chair with all four legs on the floor. Fig. 2.2 shows the same student on the same chair, but tilted backwards so only the two rear legs and the student's feet are touching the ground, reducing the contact area.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State and explain how the pressure of the chair on the floor differs in the two positions.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The chair and student fall over if the chair is tilted backwards more than in Fig. 2.2. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q3",
+    "Question_text": "Fig. 3.1 shows a metal coffee cup on a metal warming plate. There is a small electrical heater inside the warming plate that keeps the plate hotter than the coffee.",
+    "image": "Two diagrams. Fig. 3.1 shows a metal coffee cup containing coffee, sitting directly on a metal warming plate. Fig. 3.2 shows a different shaped metal coffee cup, wider at the top and narrower at the bottom, also containing coffee. This cup is placed on the same type of metal warming plate, but there is a gap filled with air between the base of the cup and the plate.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how heat is transferred through the metal and then to all of the liquid in the cup.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A cup of a different shape is placed on the same heater, as shown in Fig. 3.2. The two cups are made of the same metal and contain the same amount of coffee. Explain why the coffee in the cup in Fig. 3.2 is not kept as warm as the coffee in the cup in Fig. 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The outside surface of the cup can be either black or white and can be either dull or shiny.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Underline which colour and which type of surface is best to keep the coffee warm. black white dull shiny",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain your answer to (c)(i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q4",
+    "Question_text": "Fig. 4.1 shows a converging lens, an object O and the image I produced by the lens.",
+    "image": "A ray diagram showing a converging (convex) lens on a principal axis. An object 'O' is represented by an upward arrow to the left of the lens. An inverted, enlarged image 'I' is formed to the right of the lens, represented by a downward arrow. A horizontal ray from the top of the object is drawn towards the lens. A grid is shown with a '1 cm' scale indicated.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The image formed is real and has a linear magnification of 4.0.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Define the term linear magnification.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain what is meant by real image.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 4.1 a horizontal ray has been drawn from the top of the object to the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Continue this ray until it meets the image.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Using Fig. 4.1, determine the focal length of the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Draw another two rays from the top of the object to show how the image is formed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q5",
+    "Question_text": "Fig. 5.1 shows an arrangement of three resistors.",
+    "image": "Two circuit diagrams. Fig. 5.1 shows two 20 Ω resistors connected in parallel, and this parallel combination is then connected in series with a 40 Ω resistor. Fig. 5.2 shows the same resistor arrangement but with three voltmeters: V1 across one of the 20 Ω resistors, V2 across the entire parallel combination (both 20 Ω resistors), and V3 across the 40 Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Potential Difference in Circuits",
+      "Resistance",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the total resistance of this arrangement.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The arrangement is connected to a d.c. power supply. Voltmeters are placed across the resistors, as shown in Fig. 5.2. There is a current in each resistor. Compare the readings on the three voltmeters. There is no need for any calculation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q6",
+    "Question_text": "Fig. 6.1 shows a 240V a.c. mains supply connected to a television and two lamps.",
+    "image": "A circuit diagram illustrating a 240V a.c. mains supply connected to a parallel arrangement of a television (120 W) and two lamps (40 W each). Each appliance is connected via a switch on the live wire before returning to the neutral wire. The main supply lines are labeled 'live' and 'neutral'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Energy",
+      "Electrical Power",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In normal operation, the power supplied to each lamp is 40 W and the power supplied to the television is 120 W. Calculate, in normal operation,",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "the total power supplied,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the total number of kilowatt-hours (kWh) of energy supplied to the circuit in 3.0 hours,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "the current in each lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why the switches are placed in the live wire and not in the neutral wire.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q7",
+    "Question_text": "Fig. 7.1 shows a metal rod placed between the poles of a magnet.",
+    "image": "A diagram (Fig. 7.1) depicting a metal rod placed horizontally between the North (N) pole of an upper magnet and the South (S) pole of a lower magnet. End A of the rod is connected to the positive terminal of a d.c. power supply, and end B is connected to the negative terminal via a wire loop.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electromagnetic Induction",
+      "Magnetic Fields",
+      "Demonstrating Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "End A of the rod is connected to the positive terminal of a d.c. power supply and end B is connected to the negative terminal. The current in the rod and the magnetic field produce a force on the rod. On Fig. 7.1 draw arrows to show",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "the direction of the current in the metal rod; label this arrow C,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the direction of the magnetic field that acts on the metal rod; label this arrow M,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "the direction of the force on the rod; label this arrow F.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The power supply is removed and a sensitive voltmeter is connected between the ends A and B. When the rod is moved upwards or downwards there is a reading on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why there is a reading on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The reading on the voltmeter is increased by using a stronger magnetic field. State one other way of producing a larger reading on the voltmeter.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q8",
+    "Question_text": "A doctor has the choice of two isotopes, ¹³¹₅₃I and ¹²⁵₅₃I, to inject into a patient. These isotopes emit radiation from deep inside the body. The radiation is detected outside the body and provides information to help the doctor find out what is wrong with the patient. The isotope ¹³¹₅₃I decays into a stable isotope of xenon by emitting a beta-particle (β) and a gamma ray (γ).",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Uses of Radiation",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by a gamma ray.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete the equation to show the radioactive decay of ¹³¹₅₃I. ¹³¹₅₃I → ......Xe + ......₋₁β + γ",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When a nucleus of ¹²⁵₅₃I decays, only a gamma ray is emitted. Suggest why it is better for the doctor to inject the isotope ¹²⁵₅₃I into the patient.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q9",
+    "Question_text": "Different energy sources are used to generate electricity.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from the Sun",
+      "Energy from Fuels",
+      "Energy from Water",
+      "Geothermal Energy",
+      "Energy from Wind",
+      "Fission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Energy sources are renewable or non-renewable.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Nuclear energy is described as a non-renewable source. Explain what is meant by a non-renewable energy source.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Four of the energy sources used are: hydroelectric oil geothermal wind Write the name of these energy sources in the correct column of the table below. non-renewable renewable and caused by energy from the Sun renewable and not caused by energy from the Sun",
+        "image": "A table with three columns: 'non-renewable', 'renewable and caused by energy from the Sun', 'renewable and not caused by energy from the Sun'. The task is to classify 'hydroelectric', 'oil', 'geothermal', and 'wind' into the appropriate columns."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State one way in which using nuclear energy is better for the environment than using oil.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "State one way in which using nuclear energy is worse for the environment than using oil.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 9.1 is a block diagram of a power station that produces electrical energy from oil.",
+        "image": "A block diagram illustrating the energy conversion process in a power station. The sequence starts with 'fuel energy input from oil', proceeds through 'burner' to 'thermal energy (heat)', then to 'boiler' producing 'internal energy of steam', which drives a 'turbine'. After the turbine, there is an empty box, followed by 'electrical energy output'. This indicates a missing component after the turbine."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Write the name of the missing part of the power station in the empty box on Fig. 9.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the form of energy that the turbine possesses.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "A small boiler in the power station contains 24 m³ of water at 30°C. High pressure in the boiler increases the boiling point of water to 120°C. Thermal energy supplied to the boiler is used to heat the water from 30°C to 120°C and then to turn it all to steam at 120°C. The density of water is 1000kg/m³. The specific heat capacity of water is 4200J/(kg°C). The specific latent heat of vaporisation of water is 2.3 x 10⁶J/kg.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)1",
+        "part_text": "Calculate the mass of water in the boiler.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)2",
+        "part_text": "Calculate the total thermal energy (heat) supplied to the boiler.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The electrical energy output from the power station is transmitted over long distances at a high voltage. Explain why electricity is transmitted at a high voltage.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q10",
+    "Question_text": "Fig. 10.1 shows two rays from an object that is placed in front of a plane mirror.",
+    "image": "Two diagrams. Fig. 10.1 shows an object placed in front of a plane mirror, with two light rays originating from the object, hitting the mirror, and reflecting off it. Fig. 10.2 shows parallel wavefronts approaching a boundary in a ripple tank, moving in the direction of an arrow. Below the boundary is a shaded region labeled 'region where wave travels slower'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Wave Behaviour",
+      "Ripple Tank",
+      "Refraction of Light",
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Reflection of Sound Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 10.1 shows two rays from an object that is placed in front of a plane mirror.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 10.1, draw the two reflected rays and locate the position of the image.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Apart from its position, state one characteristic of the image.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 10.2 shows wavefronts in a ripple tank. They move in the direction of the arrow. The wave hits the boundary between two regions and the wave slows down as it enters the shaded region.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State what is meant by wavefront.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Both reflection and refraction occur at the boundary.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "On Fig. 10.2, draw the reflected wavefronts.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "On Fig. 10.2, draw the refracted wavefronts.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A loudspeaker produces a sound of frequency 2.0 kHz. The wavelength of this sound in air is 16 cm.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the speed of sound in air.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "1. State the range of frequencies that can be heard by a healthy human ear. 2. Calculate the smallest wavelength of sound that can be heard by a healthy human ear.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)1",
+        "part_text": "State the range of frequencies that can be heard by a healthy human ear.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)2",
+        "part_text": "Calculate the smallest wavelength of sound that can be heard by a healthy human ear.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Describe a simple experiment to show that sound waves obey the law of reflection. You may draw a diagram if you wish.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2017/Q11",
+    "Question_text": "A student connects a thermistor in series with a battery and an ammeter. He uses the resistance of the thermistor to determine temperature.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a circuit diagram showing the thermistor, the battery and the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student places the thermistor in a water bath at various temperatures and records the reading on the ammeter. Fig. 11.1 shows how the current varies with temperature.",
+        "image": "A graph titled 'Fig. 11.1' showing the relationship between current (A) on the y-axis (from 0 to 0.40) and temperature (°C) on the x-axis (from 0 to 80). The curve indicates that as temperature increases, the current increases, suggesting the thermistor's resistance decreases with increasing temperature (NTC thermistor). Specific points shown are approximately 0.10 A at 20°C, 0.20 A at 40°C, and 0.30 A at 60°C."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The potential difference (p.d.) across the thermistor remains constant. The resistance of the thermistor is 240 Ω at a temperature of 20 °C. Using Fig. 11.1, calculate",
+        "image": null
+      },
+      {
+        "part_label": "b(i)1",
+        "part_text": "the potential difference (p.d.) across the thermistor,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)2",
+        "part_text": "the resistance of the thermistor at a temperature of 40 °C.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The resistance of the thermistor is 240 Ω at a temperature of 20 °C and 48 Ω at a temperature of 60 °C. The resistance of the thermistor does not change linearly with temperature. Describe how the resistances at 20 °C, 40 °C and 60 °C show this is true.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A thermocouple thermometer is another type of thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe the structure of a thermocouple thermometer. You may draw a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State two advantages of a thermocouple thermometer over a liquid-in-glass thermometer.",
+        "image": null
+      }
+    ]
+  }
+]

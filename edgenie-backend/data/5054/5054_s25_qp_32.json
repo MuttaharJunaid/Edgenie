@@ -1,0 +1,205 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2025/Q1",
+    "Question_text": "In this experiment, you will investigate the refraction of a ray of light passing through a transparent block and determine the refractive index n of the block. You are provided with: • a transparent, rectangular block • a 30 cm ruler • a protractor • an illuminated slit or a raybox with a slit.",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Measurement",
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.2 is on page 3 of your question paper. On Fig. 1.2, draw a normal to the line PQ at the point R. Extend your normal 6cm above and at least 8 cm below PQ. Measure the angle θ between SR and the normal.",
+        "image": "Figure 1.2 displays a horizontal line labeled PQ with points A and R marked on it. A line segment SR originates from point S (above PQ) and terminates at R, representing an incident ray of light. This diagram serves as a base for drawing a normal to line PQ at point R and subsequently measuring an angle related to the incident ray."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the block on Fig. 1.2, with one of its long sides along the line PQ. The top left-hand corner of the block must be at A, as shown in Fig. 1.1. On Fig. 1.2, draw around the outline of the block. Remove the block and label the outline of the block ABCD as shown in Fig. 1.1. Mark the point where the normal crosses side BC of the block with the letter T. Replace the block and switch on the lamp. Position the illuminated slit so that a ray of light passes along the line SR towards R. On Fig. 1.2, mark with small crosses (X) two points on the ray that leaves side BC of the block. Choose the position of the points so that the ray leaving the block can be accurately marked. Switch off the lamp.",
+        "image": "Figure 1.1 illustrates a rectangular transparent block labeled ABCD, positioned on a line PQ. Point A, the top-left corner of the block, is located on PQ. A light ray SR is shown incident at point R on PQ. The diagram specifies the orientation of the block relative to line PQ and the incident ray, providing context for outlining the block and tracing the light path during the experiment."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Remove the block. Draw a straight line through the two crosses to meet side BC of the block. Label the point where the line meets BC with the letter E. Label the other end of the line as F. Draw a straight line from E to R. This shows the path of the ray of light through the block.",
+        "image": "This part refers to the geometrical construction that students are required to perform on Figure 1.2 (the blank space on page 3). This involves drawing lines based on marked points (X) to trace the refracted ray, and labeling intersection points (E, F, G) for subsequent measurements. No specific new image is provided for this step, but it builds upon the existing Figure 1.2."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Measure and record the length a of ET.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Measure and record the length b of ER.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Extend the line FE into the block until it meets the line RT. Label the point where FE meets RT with the letter G. Measure the length c of EG.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Use your values for a and b from (c)(i) and (c)(ii) to calculate a first value n₁ for the refractive index of the block. Use the equation shown. n₁ = b / 2a",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Use your values for b and c from (c)(ii) and (c)(iii) to calculate a second value n₂ for the refractive index of the block. Use the equation shown: n₂ = b / c",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Two quantities can be considered to be the same within the limits of experimental accuracy if their values are within 10% of each other. Compare your value n₁ for the refractive index calculated in (d)(i) with the value n₂ calculated in (d)(ii). State if your two values can be considered to be the same. Support your statement with a calculation.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "One source of inaccuracy in this experiment is careless measurement. Suggest another source of inaccuracy in this experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2025/Q2",
+    "Question_text": "In this experiment you will investigate the resistance of a thermistor at different temperatures. You are provided with: • a power source • a switch • a voltmeter with two leads that may be connected between different points in the circuit shown in Fig. 2.1 • a thermistor placed inside an empty beaker • a 220 Ω resistor • a stirring thermometer • a supply of hot water from the supervisor • paper towels to mop up spillages. The supervisor has set up the circuit shown in Fig. 2.1.",
+    "image": "Figure 2.1 shows an electrical circuit diagram. It includes a power source connected to a switch. The circuit then flows through a series arrangement of a thermistor (represented by a resistor symbol with a diagonal line) and a 220 Ω fixed resistor. Points X, Y, and Z are marked along the circuit: X before the thermistor, Y between the thermistor and the 220 Ω resistor, and Z after the 220 Ω resistor. A voltmeter is depicted connected in parallel across the thermistor (between points X and Y), indicating its initial measurement configuration.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure the room temperature θR and record it on the answer line. Close the switch. Record the potential difference across the thermistor VXY while the thermistor is at room temperature θR in Table 2.1 on page 6. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Disconnect the voltmeter from points X and Y. Reconnect the voltmeter across the 220 Ω resistor between points Y and Z. Close the switch. Record the potential difference across the 220Ω resistor VYZ while the thermistor is at room temperature θR in Table 2.1 on page 6. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Disconnect the voltmeter from points Y and Z. Reconnect the voltmeter across points X and Y. Ask your supervisor to pour hot water into the beaker until it is about half full. Carefully place the thermometer in the hot water and stir the water gently. Wait for about 30 s. Measure the temperature of the hot water θH and record it on the answer line.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Close the switch. Record the new potential difference VXY while the thermistor is at the temperature of the hot water θH in the bottom row of Table 2.1. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Disconnect the voltmeter from points X and Y. Reconnect the voltmeter across the 220Ω resistor between points Y and Z. Close the switch. Record the new potential difference VYZ while the thermistor is at the temperature of the hot water θH in the bottom row of Table 2.1. Open the switch. Hold the thermistor by its connecting leads and carefully remove it from the hot water. Place it on the bench away from the rest of the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Explain why you waited for 30s before measuring the temperature of the hot water.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Explain why you stirred the water before reading the temperature of the hot water.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The current I in the circuit is calculated using the equation I = VYZ / R where R = 220 Ω. Use your measurements recorded in Table 2.1 to calculate the current I at room temperature θR and at the temperature of the hot water θH. Record your answers in Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "The resistance RT of the thermistor is calculated using the equation: RT = VXY / I Use your data in Table 2.1 to calculate RT at room temperature θR and RT at the temperature of the hot water θH.",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "Calculate α, the average change in the resistance per degree Celsius for the thermistor as its temperature rises from room temperature θR to the temperature of the hot water θH. Use the equation shown. α = change in resistance of thermistor / change in temperature",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2025/Q3",
+    "Question_text": "In this experiment you will investigate the stretching of a spring. You are provided with: • two bosses, clamps and stands • a steel spring • a set square • a metre rule with a millimetre scale • a set of 1.0 N loads. The spring and the metre rule have been set up for you as shown in Fig. 3.1. Do not remove the spring from the clamp or adjust the height of the clamp.",
+    "image": "Figure 3.1 depicts an experimental setup for investigating spring stretching. It shows two retort stands with clamps. One clamp secures a metre rule vertically. The other clamp holds a steel spring, also vertically, positioned alongside the metre rule. A load, symbolized by 'kg', is suspended from the free end of the spring. The arrangement allows for precise measurement of the spring's length or extension.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Elastic Potential Energy",
+      "Hooke's Law",
+      "Investigating Force & Extension",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Take the reading R₀ on the metre rule level with the top of the spring. Take the reading R₁ on the metre rule level with the bottom of the spring. Do not include the loops at the top and the bottom of the spring in your measurements. Use the set square to help you take the readings. Record your readings to the nearest 0.1 cm.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Draw on Fig. 3.1 to show how you use the set square to take a reading from the metre rule level with the bottom of the spring.",
+        "image": "Figure 3.1 (the spring stretching setup) is intended for annotation by the student. The task requires drawing an illustration on the diagram to demonstrate the correct technique of using a set square to take an accurate reading from the metre rule at the bottom of the spring, minimizing parallax error."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the length l of the spring with no load suspended from it. Use the equation shown: l = R₁ - R₀ Show your working. Record R₁ and l in Table 3.1 for load L = 0.0N.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Place a load L = 1.0N on the spring. Take readings to determine the new length l of the spring. Record the new reading R₁ and the new length l of the spring for load L = 1.0N in Table 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Repeat the procedure in (b)(i) for loads L = 2.0N, 3.0N, 4.0N and 5.0N, and record your values of R₁ and l in Table 3.1. You may use the space provided for working.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid provided in Fig. 3.2 on page 11, plot a graph of l on the y-axis against L on the x-axis. Start from the origin (0, 0). Draw the straight line of best fit.",
+        "image": "Figure 3.2 is a blank Cartesian graph grid presented on page 11. It is designated for students to plot the experimentally obtained data, specifically the length of the spring (l) on the y-axis against the applied load (L) on the x-axis, and then to draw a line of best fit through the plotted points, starting from the origin."
+      },
+      {
+        "part_label": "d",
+        "part_text": "Use your data in Table 3.1 and the graph in Fig. 3.2 to determine the extension of the spring when a load of 3.5N is added to the spring. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "A student suggests that the stretched length l of the spring is directly proportional to load L. State if your data supports this suggestion. Justify your statement using your data in Table 3.1 on page 10 or the graph in Fig. 3.2 on page 11.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Line of sight (parallax) errors can occur when readings are taken from a metre rule. State one practical technique, other than using a set square, that ensures accurate readings are taken from a metre rule.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2025/Q4",
+    "Question_text": "As a metal ball falls through a liquid, it experiences a frictional force from the liquid that opposes the motion of the metal ball. Plan an experiment to determine the relationship between the density of a liquid contained in a measuring cylinder and the average speed of a metal ball falling through the liquid from the surface of the liquid to the bottom of the cylinder. The average speed of the ball is calculated using the equation: average speed = distance travelled / time taken The arrangement of the apparatus is shown in Fig. 4.1. The apparatus available includes: • a measuring cylinder • a metal ball • a selection of different liquids whose densities are known. You are not required to do this experiment. In your plan include: • any other apparatus needed • a brief description of the method, including what you will measure and how you make sure that your measurements are accurate • the variables you will control • a results table to record your measurements (you are not required to enter any readings in the table) • how you will process your results to draw a conclusion.",
+    "image": "Figure 4.1 shows a cross-sectional diagram of a measuring cylinder, which is partially filled with a liquid. A spherical metal ball is depicted submerged within this liquid, indicating a scenario where the ball is falling or has fallen through the liquid. This illustration sets the context for an experiment involving fluid dynamics and density.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Friction",
+      "Measuring Density",
+      "Speed & Velocity",
+      "terminal velocity"
+    ],
+    "Parts": []
+  }
+]

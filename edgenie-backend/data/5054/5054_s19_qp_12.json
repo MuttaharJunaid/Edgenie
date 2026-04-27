@@ -1,0 +1,496 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2019/Q1",
+    "Question_text": "Which reading is given to one tenth of a millimetre?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q2",
+    "Question_text": "A woman runs 2.0 km from X to Y in 20 minutes and then rests at Y for 10 minutes. She then takes 10 minutes to run 1.6 km from Y to Z. What is the size of her average velocity for the journey from X to Z?",
+    "image": "A triangle labeled X, Y, Z. Side XY is 2.0 km. Side YZ is 1.6 km. Side XZ is 2.4 km.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q3",
+    "Question_text": "A cyclist travelling in a straight line at 8.0m/s accelerates to 12m/s in a time of 6.0 s. Which expression gives the cyclist's acceleration?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q4",
+    "Question_text": "The diagram shows the distance-time graph for a moving object. What is the moving object?",
+    "image": "A distance-time graph. The graph starts from the origin, curves upwards (increasing gradient), then becomes a horizontal line (zero gradient), then a straight line with a constant positive gradient.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q5",
+    "Question_text": "Four of the gravitational forces that act between bodies in the Solar System are listed below. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the Sun Which two forces are a Newton's third law pair (action and reaction)?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q6",
+    "Question_text": "A parachutist of mass 60 kg falls at a steady speed of 10m/s. The gravitational field strength g is 10 N/kg. What is the upward force acting on the parachutist?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Resultant Forces",
+      "Newton's First Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q7",
+    "Question_text": "A force moves a box up a rough slope. The diagram shows four forces acting on the box. Which is the force due to friction on the box?",
+    "image": "A box on a rough slope. Four forces are indicated: A points upwards along the slope (applied force), B points perpendicular to the slope into it (normal force), C points vertically downwards (weight), D points downwards along the slope (friction).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q8",
+    "Question_text": "The mass of object P is greater than the mass of object Q. The objects contain different amounts of matter and have a different resistance to change of motion. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Newton's First Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q9",
+    "Question_text": "Four objects of different masses are situated in places with different gravitational field strengths. Which object has the greatest weight?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q10",
+    "Question_text": "A uniform metre rule is balanced by a 4.0N weight as shown. What is the weight W of the metre rule?",
+    "image": "A diagram showing a uniform metre rule balanced at a pivot 10 cm from the left end (0 cm mark). A 4.0 N weight hangs at the 0 cm mark. The rule's weight W acts at the 50 cm mark.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q11",
+    "Question_text": "A large hook sticks into a pencil. The hook and pencil are balanced on the edge of a table, as shown. Where is the centre of mass of the hook and pencil?",
+    "image": "A pencil with a large hook attached to one end, balanced on the edge of a table. Points A, B, C, D are marked on the diagram. Point C is shown within the hook structure, directly below the table's edge (pivot point).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q12",
+    "Question_text": "The diagram shows a graph of load against extension for a material. At which point is the limit of proportionality?",
+    "image": "A graph of load against extension for a material. The graph starts linearly, then curves and flattens out, eventually decreasing. Point A is marked at the end of the linear region, where the graph starts to curve.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q13",
+    "Question_text": "A length of metal wire is made from a radioactive isotope of the metal. The diagram shows masses suspended from the end of the wire. The masses are removed from the wire. Which property changes?",
+    "image": "A diagram showing a wire suspended from a support, with multiple masses hanging from its end.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q14",
+    "Question_text": "The diagram shows a manometer containing mercury that is sealed at one end. What happens to the distance h when the manometer is taken higher up a mountain?",
+    "image": "A U-shaped tube (manometer) with mercury. One arm is sealed with vacuum above the mercury. The other arm is open to the atmosphere. The height difference in mercury levels is labeled 'h'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q15",
+    "Question_text": "The pressure on the gas contained in a sealed syringe is slowly doubled. The volume of the gas halves. What must be true about the density and the temperature of the gas?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q16",
+    "Question_text": "An object is lifted. Which expression gives the increase in gravitational potential energy of the object?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q17",
+    "Question_text": "The diagram shows a small car of mass 500kg approaching a hill. It moves up the hill with constant speed. The gravitational field strength g is 10N/kg. Ignoring friction, how much work is done in moving the car up the hill?",
+    "image": "A diagram showing a car at the bottom of a hill. The hill has a horizontal length of 200 m and a vertical height of 10 m. The mass of the car is indicated as 500 kg.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q18",
+    "Question_text": "Which method of producing electricity does not use an a.c. generator?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from the Sun",
+      "Geothermal Energy",
+      "Energy from Water",
+      "Energy from Wind",
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q19",
+    "Question_text": "Three solar panels have a total area of 7.2 m². Together, they produce 1.0 kW of power. An area of 1.0 m² of each panel receives 0.80 kJ of energy from the Sun in 1.0 s. What is the efficiency of the solar panels?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Power",
+      "Energy from the Sun"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q20",
+    "Question_text": "A student suggests three different definitions for power. 1 energy transferred per second 2 force x distance moved 3 rate of doing work Which definitions are correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q21",
+    "Question_text": "Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q22",
+    "Question_text": "How is latent heat defined?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q23",
+    "Question_text": "In low-pressure hydrogen, there are no forces between the molecules except during collisions with each other. Which statement describes the motion of a molecule between one collision and the next?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q24",
+    "Question_text": "A gas is enclosed in a container of fixed volume. The gas gains heat energy from an external source. What happens to the molecules of the gas?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q25",
+    "Question_text": "A wave on water travels towards a stationary boat. As the wave passes, the boat starts to move up and down and gains kinetic energy from the wave. Which property of the wave changes as the wave passes the boat?",
+    "image": "A diagram showing a water wave traveling towards a stationary boat.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Wave Behaviour"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q26",
+    "Question_text": "Which waves are longitudinal?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Sound Waves",
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q27",
+    "Question_text": "An object is placed at a distance from a converging lens that is equal to twice the focal length of the lens. Which statement about the image is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q28",
+    "Question_text": "The lens in the diagram produces an image I of the object O. Why is this not the ray diagram for a photographic enlarger?",
+    "image": "A ray diagram showing a converging lens, an object O placed within the focal length F. Two rays from the object pass through the lens and diverge. Their backward extensions converge to form a virtual, upright, magnified image I on the same side as the object.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q29",
+    "Question_text": "What is the approximate range of audible frequencies for a healthy human ear?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q30",
+    "Question_text": "The speed of sound in air is ca, the speed of sound in water is cw and the speed of sound in ice is ci. Which relationship is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q31",
+    "Question_text": "One end of each of two bars is marked with an X or a Y, as shown. End X of bar 1 is brought close to the N-pole and then to the S-pole of a magnet. End Y of bar 2 is brought close to the N-pole and then to the S-pole of the magnet. The table shows what happens. What materials are bar 1 and bar 2 made from?",
+    "image": "Two rectangular bars labeled 'bar 1' and 'bar 2'. End X of bar 1 and End Y of bar 2 are indicated. A table shows that End X of bar 1 is attracted to both N-pole and S-pole, while End Y of bar 2 is attracted to N-pole but repelled by S-pole.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q32",
+    "Question_text": "The diagram shows a car ignition switch and starter motor. The ignition switch is in a circuit with long, thin wires. The starter motor is in a circuit with short, thick wires. What is the explanation for the choice of wires?",
+    "image": "A circuit diagram showing a car ignition switch, a relay, a battery, and a starter motor. The ignition switch circuit shows a 1A current and long, thin wires. The starter motor circuit shows a 100A current and short, thick wires.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q33",
+    "Question_text": "The diagram shows a simple circuit. What happens when the resistance of the variable resistor is increased?",
+    "image": "A series circuit diagram with a power source, a variable resistor, two lamps, and a motor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q34",
+    "Question_text": "The diagram shows a simple electrical circuit. Which statement cannot be correct?",
+    "image": "A simple series circuit containing a battery (E), an ammeter (I), a resistor (R) with a voltmeter (V) connected in parallel across it.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q35",
+    "Question_text": "The cable to an electric cooker contains a live wire, a neutral wire and an earth wire. When the cooker is working correctly, in which wires are the currents equal?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q36",
+    "Question_text": "The manufacturer of an electrical heater states that only one heater must be connected to the mains wiring through any fuse. The current in the circuit with only one heater is 9A. The fuse rating is 10A. Despite the warning, a second identical heater is added, as shown. When the switch is closed the fuse blows. The fuse is replaced with a 20 A fuse. What happens when the switch is closed?",
+    "image": "A circuit diagram showing a mains circuit connected through a fuse. A switch connects one heater to the mains. A second identical heater is connected in parallel with the first, also via the switch. The initial fuse rating is 10A, replaced by a 20A fuse.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety",
+      "Electrical Current",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q37",
+    "Question_text": "A coil is rotating in a magnetic field. The coil is connected to an oscilloscope. The diagram shows the trace on the screen of the oscilloscope. The coil now speeds up and rotates twice as fast. Which diagram shows the new trace?",
+    "image": "An oscilloscope trace showing a sinusoidal alternating current (AC) waveform. Four options (A, B, C, D) show different modified waveforms: A has half frequency, same amplitude. B has doubled frequency, doubled amplitude. C has doubled frequency, same amplitude. D has same frequency, doubled amplitude.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q38",
+    "Question_text": "A teacher uses the circuit shown. The identical lamps X and Y are connected to a low voltage a.c. power supply by high resistance transmission wires. Both lamps are switched on. Lamp X is then switched off. Lamp Y stays switched on. What happens to the voltage and the power supplied to lamp Y?",
+    "image": "A circuit diagram showing an a.c. power supply connected to 'long transmission wires'. After the wires, there are two identical lamps X and Y connected in parallel.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q39",
+    "Question_text": "A car battery supplies a current in one direction. A current in the opposite direction recharges the battery. Which circuit recharges the battery, using an alternating current (a.c.) supply and a diode?",
+    "image": "Four circuit diagrams (A, B, C, D), each showing an AC supply, a diode, and a battery connected in series. The diode's orientation and the battery's polarity vary. Option A shows the diode correctly oriented to allow current into the positive terminal of the battery from the AC supply during the positive half-cycle.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2019/Q40",
+    "Question_text": "A proton has charge q and mass m. What is the charge and what is the mass of an alpha-particle?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  }
+]

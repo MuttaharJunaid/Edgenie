@@ -1,0 +1,577 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Helium gas and argon gas are mixed in a closed container at room temperature and pressure (r.t.p.). What happens when the two gases are in the container?",
+    "image": null,
+    "Unit": "UNIT 1: States of matter",
+    "Topic": "1.2 Diffusion",
+    "Sub_topic": [
+      "Diffusion in kinetic particle theory",
+      "Effect of molecular mass on diffusion rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Substance X has a simple molecular structure and substance Y has a giant covalent structure. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Covalent bond formation",
+      "Formation of covalent bonds in molecules",
+      "Properties of simple molecular compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "The diagram shows an atom of element Z. Which symbol for element Z is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Atomic structure",
+      "Relative charges and masses of subatomic particles",
+      "Proton number / atomic number",
+      "Mass number / nucleon number",
+      "Electronic configuration of elements and ions",
+      "Noble gases, outer electrons and occupied shells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "A sample of element Q contains two isotopes. The diagram shows the relative abundances and relative masses of the two isotopes. What is the relative atomic mass, Ar, of this sample of Q?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.3 Isotopes",
+    "Sub_topic": [
+      "Definition of isotopes",
+      "Chemical properties of isotopes",
+      "Symbols for atoms and ions",
+      "Relative atomic mass from isotopes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Which statement about electrical conductivity is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions",
+      "Giant lattice structure of ionic compounds",
+      "Ionic bond definition",
+      "Formation of ionic bonds",
+      "Properties of ionic compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Which substance is not malleable and conducts electricity by the movement of electrons through a lattice of atoms?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide",
+      "Uses of graphite and diamond",
+      "Similarity between diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "What is the relative molecular mass, Mr, of ethene?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative atomic mass",
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "What is the relative molecular mass, Mr, of N2O?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.2 Relative masses of atoms and molecules",
+    "Sub_topic": [
+      "Relative atomic mass",
+      "Relative molecular mass"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Which contains the greatest mass of oxygen?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant",
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "Compound Z contains carbon, hydrogen and oxygen only. Compound Z contains 48.65% carbon and 8.11% hydrogen by mass. What is the empirical formula of Z?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formulae of elements and compounds",
+      "Molecular formula definition",
+      "Empirical formula definition",
+      "Formula from relative numbers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Which fertiliser contains the highest percentage by mass of nitrogen?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "Ammonium salts and nitrates as fertilisers",
+      "NPK fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "An electrolytic cell is shown. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electrolysis definition",
+      "Anode, cathode and electrolyte",
+      "Charge transfer in electrolysis",
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "An aqueous mixture of copper(II) nitrate and silver nitrate is electrolysed with pure copper electrodes. Which ionic half-equation describes the change occurring at the anode?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Ionic half-equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "What is a disadvantage of using a hydrogen-oxygen fuel cell to power a car?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.2 Hydrogen–oxygen fuel cells",
+    "Sub_topic": [
+      "Hydrogen–oxygen fuel cell",
+      "Advantages and disadvantages of fuel cells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "When chemical reaction X takes place, thermal energy is given out. Which row is correct for this reaction?",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions",
+      "Enthalpy change",
+      "Activation energy",
+      "Reaction pathway diagrams",
+      "Bond breaking and making",
+      "Enthalpy change using bond energies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which statement about a physical change is correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.1 Physical and chemical changes",
+    "Sub_topic": [
+      "Physical and chemical changes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Gas P decomposes to form gas Q.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Collision theory",
+      "Catalyst effect",
+      "Effects on rate of reaction",
+      "Practical methods for rate",
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Samples of nitrogen and hydrogen are reacted and allowed to reach equilibrium. The equation is shown. The temperature is increased and a new equilibrium is established. Which statement about the new equilibrium is correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Reversible reactions",
+      "Changing direction in reversible reactions",
+      "Equilibrium in closed system",
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "In the diagram, R represents one of the reactions in the Contact process. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Contact process equation",
+      "Sources in Contact process",
+      "Conditions in Contact process",
+      "Conditions explanation in processes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Peroxodisulfate ions, S2O82-, react with iron(II) ions, Fe2+. The only elements that are either oxidised or reduced in this reaction are sulfur and iron. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidation number",
+      "Redox reactions definition",
+      "Oxidation definition",
+      "Reduction definition",
+      "Identifying redox reactions",
+      "Redox by oxidation number changes",
+      "Redox by colour changes",
+      "Oxidising agent definition",
+      "Reducing agent definition",
+      "Identifying in redox reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which solid reacts with dilute hydrochloric acid to produce a gas?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Neutralisation reaction",
+      "Neutralisation equation",
+      "Effects on indicators",
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Which 1 mol/dm³ aqueous solution has the highest pH?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "H+ and OH- ions in solutions",
+      "Acids and bases as proton donors/acceptors",
+      "Bases and alkalis",
+      "Properties of acids",
+      "Properties of bases",
+      "Neutralisation reaction",
+      "Neutralisation equation",
+      "Effects on indicators",
+      "Strong acid definition",
+      "Strong acids examples",
+      "Weak acids examples",
+      "Comparing pH and colours"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Oxide Q reacts with separate samples of dilute hydrochloric acid and aqueous potassium hydroxide. Both reactions produce a salt and water. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Amphoteric oxides",
+      "Classifying oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "The table shows four methods used to prepare pure salts. Which row shows a method of making a pure sample of each named salt?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.3 Preparation of salts",
+    "Sub_topic": [
+      "Preparation of soluble salts",
+      "Preparation of insoluble salts",
+      "Solubility rules",
+      "Hydrated and anhydrous substances",
+      "Water of crystallisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Which property determines the order of the elements in the Periodic Table?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.1 Arrangement of elements",
+    "Sub_topic": [
+      "Periodic Table arrangement",
+      "Metallic to non-metallic change",
+      "Group number and ion charge",
+      "Similarities in groups",
+      "Predicting properties",
+      "Trends in groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which statement explains why helium and neon are unreactive?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.5 Noble gases",
+    "Sub_topic": [
+      "Noble gases properties"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Substance X conducts electricity in the solid state. Substance X is malleable. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition",
+      "Properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "Aluminium and copper are good conductors of electricity. Why is aluminium used in overhead electrical cables instead of copper?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison",
+      "Chemical properties of metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "The oxide of Z is reduced by heating with carbon. What is Z?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Ease of extraction",
+      "Extraction of iron",
+      "Extraction of aluminium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "A metal ore contains an oxide, MO. Metal M forms coloured compounds. When a piece of iron is placed into a solution containing aqueous M2+ ions, M is displaced. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series",
+      "Relative reactivities",
+      "Reactions with water, steam and acid",
+      "Unreactivity of aluminium",
+      "Order from results"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Iron can be extracted from the ore hematite. What is the maximum mass of iron that is produced from 500 kg of hematite?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.6 Extraction of metals",
+    "Sub_topic": [
+      "Ease of extraction",
+      "Extraction of iron",
+      "Extraction of aluminium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "Which row describes an advantage and a disadvantage of fertilisers?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "Ammonium salts and nitrates as fertilisers",
+      "NPK fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Which row about the adverse effects of air pollutants is correct?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Composition of clean air",
+      "Sources of air pollutants",
+      "Adverse effects of pollutants",
+      "Greenhouse gases mechanism",
+      "Strategies to reduce effects",
+      "Oxides of nitrogen in cars",
+      "Photosynthesis reaction",
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "How many different unbranched esters have the molecular formula C4H8O2?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural formula",
+      "Displayed formula",
+      "General formulae",
+      "Structural isomers",
+      "Functional group definition",
+      "Homologous series characteristics",
+      "Saturated compounds",
+      "Unsaturated compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "Petroleum is separated in a fractionating column. Which statements are correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fossil fuels",
+      "Methane in natural gas",
+      "Hydrocarbons definition",
+      "Petroleum as hydrocarbons",
+      "Fractional distillation",
+      "Properties of fractions",
+      "Uses of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "Which statement about hydrocarbons is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Fossil fuels",
+      "Methane in natural gas",
+      "Hydrocarbons definition",
+      "Petroleum as hydrocarbons",
+      "Fractional distillation",
+      "Properties of fractions",
+      "Uses of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "Two statements are shown. Which description of these statements is correct?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.6 Alcohols",
+    "Sub_topic": [
+      "Manufacture of ethanol",
+      "Combustion of alcohols",
+      "Uses of ethanol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "In a titration, a 25.0 cm³ sample of 0.100mol/dm³ sodium hydroxide is exactly neutralised by 16.2 cm³ of dilute sulfuric acid. What is the concentration of the dilute sulfuric acid?",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement",
+      "Stoichiometric calculations",
+      "Concentration from titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "Three liquids, X, Y and Z, are tested and the results are shown. What may be deduced about X, Y and Z from this information?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.1 Water",
+    "Sub_topic": [
+      "Chemical tests for water",
+      "Purity tests for water",
+      "Distilled water use",
+      "Substances in natural water",
+      "Beneficial substances",
+      "Harmful substances",
+      "Water treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "Compound Q is soluble in water. A solution of Q gives a white precipitate when dilute sulfuric acid is added. When Q is warmed with aqueous sodium hydroxide and aluminium foil, a gas is produced which turns damp red litmus paper blue. What is Q?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases",
+      "Flame tests for cations"
+    ],
+    "Parts": []
+  }
+]

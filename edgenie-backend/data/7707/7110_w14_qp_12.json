@@ -1,0 +1,341 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Businesses make use of both book-keeping and accounting procedures. What is the purpose of book-keeping?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Which statement about a computerised accounting system is correct?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Accounting role information"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A trader purchased a motor vehicle for his business using a cheque from his personal bank account. How is this recorded in the books of the business?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Outline double entry",
+      "Process data double entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Arnold's ledgers contain an account for Jim, a credit supplier, and a purchases account. In which ledgers will these accounts appear?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Prepare ledger accounts",
+      "Post transactions ledgers",
+      "Balance/transfer accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Abdul sells goods to Rekha on credit. The goods are damaged in transit. Which document will Rekha send to Abdul?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.2 Business documents",
+    "Sub_topic": [
+      "Recognise business documents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Logan records his sales invoices in a sales journal. What happens at the end of the month?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Advantages of prime entry",
+      "Use/process prime entry books",
+      "Post from prime entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "On 1 September Wayne sent a cheque to his credit supplier, John. This was correctly entered in John's books. On 10 September the cheque was returned unpaid due to lack of funds. Which entries will be made in John's books on 10 September?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Cash book dual function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "A business received its bank statement showing the closing balance as $8500 overdrawn. It was found that unpresented cheques amounted to $2000 and uncredited deposits amounted to $1500. What was the overdraft shown in the cash book?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Bank statement purpose",
+      "Update cash book items",
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Zaffor sold $300 of goods to Yasmin on credit. Zaffor prepared an invoice but posted it as a credit note. Which entry will Zaffor make to correct this error?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via journal entries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "On 15 April, Kalou made the following entries in his accounts. Which transaction was being recorded?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Trade/cash discount accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "What is the purpose of preparing a trial balance?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Trial balance statement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "After preparing a trial balance the following errors were discovered. Error 1: Goods returned to Ken Loo had been debited to Ken Lao. Error 2: Repairs to motor vehicles had been debited to the motor vehicles account. Which types of error have been made?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Errors not affecting balance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "On 1 January 2013 advertising of $120 was prepaid. During the year $1280 was paid for advertising. On 31 December 2013 an amount of $960 was transferred to the income statement. What was the balance on the advertising account on 1 January 2014?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid expenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Rashid maintains a provision for doubtful debts of 5% of the trade receivables at the end of each year. Trade receivables owed $40000 on 31 December 2012. Trade receivables owed $46000 on 31 December 2013. Which journal entry should Rashid make on 31 December 2013?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record/adjust doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "An item of capital expenditure has been incorrectly treated as revenue expenditure. What is the effect of this error?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Effect on profit incorrect treatment",
+      "Effect on assets incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "The difference on a trial balance was posted to a suspense account. It was later found that a cheque for $800 paid to Rafiq, a supplier, had been entered correctly in the cash book, but credited in the purchases account. Which entry will correct this error?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Suspense account usage",
+      "Correct via suspense"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "A trader provided the following information. What was the purchases ledger control account balance on 31 March?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Which item affects gross profit?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Prepare income statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Which item is an intangible non-current asset?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Financial position content"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Nirmal sells two products, product G and product H. The following information is available about his inventory on 31 December 2013. It was found that 100 units of product G were damaged and were unsaleable. What was the total value of Nirmal's inventory?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Prepare inventory statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "Which is a service business?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Trading vs service difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Candy and Abel are in partnership. Abel made a loan to the partnership. How will the annual interest on the loan be recorded?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Record partner interests/salaries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "On 1 January a sports club's subscriptions account had a debit balance of $500. During the year subscriptions received amounted to $6000. Subscriptions due but unpaid on 31 December were $800. Which amount will be shown for subscriptions in the income and expenditure account for the year ended 31 December?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Prepare income/expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Walter provided the following information. The mark-up on cost is 25%. What is the profit for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "The financial year of ABZ Limited ends on 31 March. Debenture interest is paid annually in arrears on 1 April each year. Where will debenture interest appear in the financial statements for the year ended 31 March 2014?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Prepare company statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "How is prime cost calculated?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Calculate factory cost"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "During a week Ali works 40 hours and produces 240 items. He can choose to be paid $6 per hour, or $1.25 for each item he produces with a guaranteed minimum weekly gross pay of $275. What is Ali's gross pay if he chooses to be paid on a piecework basis?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Adjustments as sole traders"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "How is the return on capital employed (ROCE) calculated?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "A trader provided the following information. What was the current ratio?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "'Only the financial transactions of the business are recorded in the business's accounting records.' Which accounting principle is being described?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

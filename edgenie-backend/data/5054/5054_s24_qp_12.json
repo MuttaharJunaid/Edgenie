@@ -1,0 +1,466 @@
+[
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q1",
+    "Question_text": "What is measured using a micrometer?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q2",
+    "Question_text": "Two people pull on ropes to move a boat along a canal. The boat moves at a constant velocity. The vector diagram for the tension in the ropes is shown. Which vector is the drag acting on the boat?",
+    "image": "A diagram shows a boat in a canal being pulled by two ropes from its front. The forces from the ropes are represented by two vectors in a separate diagram, showing tension vectors. Four possible drag vectors (A, B, C, D) are presented, originating from a common point. Vector A points left, B points right, C points diagonally down-right, D points diagonally up-right. Given the boat moves at constant velocity, the drag force must be equal in magnitude and opposite in direction to the resultant of the tension forces. The tension forces are directed generally forward, so the drag force, which opposes motion, would be directed backward (left).",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's First Law",
+      "Scalars & Vectors",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q3",
+    "Question_text": "The graph shows how the speed of a car travelling in a straight line changes with time. Which section shows the largest acceleration?",
+    "image": "A speed-time graph with speed on the y-axis and time on the x-axis. The graph consists of four sections labeled A, B, C, and D. Section A shows a steep positive slope (increasing speed). Section B shows a less steep positive slope. Section C shows a horizontal line (constant speed). Section D shows a negative slope (decreasing speed).",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Acceleration",
+      "Calculating Acceleration from Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q4",
+    "Question_text": "A man walks along a path from X to Y. The diagram shows the path from above. The man measures the distance he walks and the time taken. Which quantity can be calculated using this data only?",
+    "image": "A top-down diagram showing a curved path from point X to point Y.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q5",
+    "Question_text": "Which property of an object determines its resistance to a change from its state of rest or motion?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q6",
+    "Question_text": "The diagram shows a moon buggy used by astronauts. The mass of the moon buggy on the Earth is 210kg. The gravitational field strength on the Moon is 1/6 of that on the Earth. What is the weight of the moon buggy on the Moon?",
+    "image": "A diagram illustrating a moon buggy on the lunar surface, labeled 'moon buggy'.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q7",
+    "Question_text": "A car travels along a road. The force on the car due to the engine is 800 N. The motion of the car depends on the value of the total resistive force R. Which row shows the motion of the car for the given value of R?",
+    "image": "A diagram of a car on a road, with an arrow pointing right labeled '800 N' (engine force) and an arrow pointing left labeled 'R' (resistive force).",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q8",
+    "Question_text": "Four of the gravitational forces that act between objects in the Solar System are listed. P the force on the Moon due to the Earth Q the force on the Earth due to the Sun R the force on the Earth due to the Moon S the force on the Moon due to the Sun Which two forces are a Newton's third law pair?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q9",
+    "Question_text": "A box is moved up a rough slope from X to Y. The diagram shows four forces acting on the box. Which force is the force due to friction on the box?",
+    "image": "A diagram showing a box on an inclined plane with the points X and Y marked. Four force vectors are shown acting on the box: Force A points up the slope, Force B points down the slope, Force C points perpendicular to the slope and into it, and Force D points perpendicular to the slope and outwards from it.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Friction",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q10",
+    "Question_text": "The graph shows how the extension of four different threads depends on the load attached. Which thread is the most difficult to stretch over the range of loads shown?",
+    "image": "A graph with 'extension' on the y-axis and 'load' on the x-axis. Four curves, A, B, C, and D, originate from the origin (0,0). Curve D shows the least extension for a given load, followed by C, B, and A showing the most extension for the same load.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q11",
+    "Question_text": "A satellite orbits a planet in a circular path as shown. It has constant speed. There is a force on the satellite due to the planet. In which direction is the force on the satellite when it is in the position shown?",
+    "image": "A diagram showing a planet at the center and a satellite orbiting it in a circular path. The satellite's current position is marked, and its 'direction of movement' is shown as a tangential arrow. Four directional arrows (A, B, C, D) originate from the satellite. Arrow A points away from the planet, Arrow B points in the direction of movement, Arrow C points towards the planet, and Arrow D points perpendicular to the movement and away from the planet.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q12",
+    "Question_text": "A crane has a 5800 N counterweight positioned 2.3 m from the tower along a horizontal jib. The centre of gravity P of the crane jib is marked. What is the horizontal distance between the 2300 N load and P so that there is no moment about P?",
+    "image": "A diagram of a crane. A counterweight of 5800 N is shown on the left side of the tower, 2.3 m horizontally from point P. A load of 2300 N hangs from the right side of the jib. Point P is marked as the center of gravity of the crane jib.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q13",
+    "Question_text": "A car of mass 750 kg travels 400 m at 25m/s. It then accelerates to 35m/s and travels a further 400 m. What is the change in the momentum of the car due to acceleration?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Momentum"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q14",
+    "Question_text": "A ball is dropped from rest at the top of a building. Air resistance is negligible. The velocity of the ball is 14 m/s when it hits the ground. What is the height of the building?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q15",
+    "Question_text": "Which energy source is available constantly over a 24-hour period?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Water"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q16",
+    "Question_text": "A 15 W lamp is turned on for 30 minutes. It wastes 7000 J of energy. What is the efficiency of the lamp?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q17",
+    "Question_text": "Which quantity is not measured in joules (J)?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Work",
+      "Gravitational Potential Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q18",
+    "Question_text": "Which description of a liquid is correct?",
+    "image": null,
+    "Unit": "Thermal Physics",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q19",
+    "Question_text": "A transparent box has a dividing wall in its middle. It contains two different gases, one in each half, as shown. The dividing wall is removed. The box is left for a long time. The gases do not react. What is then seen in the box?",
+    "image": "A rectangular transparent box with a dividing wall in the middle. The left half is labeled 'brown gas' and the right half is labeled 'colourless gas'.",
+    "Unit": "Thermal Physics",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q20",
+    "Question_text": "A bottle containing a cold liquid is placed on a table on a warm day. Drops of water form on the outside of the bottle. Which process causes the drops to form?",
+    "image": null,
+    "Unit": "Thermal Physics",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q21",
+    "Question_text": "What is the specific heat capacity of a liquid?",
+    "image": null,
+    "Unit": "Thermal Physics",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q22",
+    "Question_text": "Which statement about infrared radiation is correct?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q23",
+    "Question_text": "The speed of sound in air is 330 m/s. Which sound is classed as ultrasound?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "The Wave Equation",
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q24",
+    "Question_text": "Which diagram shows how light from a distant object forms an image in a normal eye?",
+    "image": "Four diagrams (A, B, C, D) illustrate light rays passing through an eye. All diagrams show parallel light rays entering the eye. In diagram A, the rays converge precisely on the retina. In diagram B, the rays converge in front of the retina. In diagram C, the rays converge behind the retina. In diagram D, the rays diverge after passing through the lens, not forming a clear image.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q25",
+    "Question_text": "The colour of visible light is related to the wavelength of the light. Which list of colours is in order of increasing wavelength?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q26",
+    "Question_text": "A thin converging lens is used as a magnifying glass. Which row gives the nature of the image produced and an expression that is the linear magnification?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Linear Magnification",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q27",
+    "Question_text": "Which application is not a use for ultrasound?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q28",
+    "Question_text": "Which equation is correct for potential difference (p.d.)?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q29",
+    "Question_text": "The diagrams show five electrical circuits. All of the resistors shown are identical. Which circuits have equal resistance?",
+    "image": "Five circuit diagrams are shown. Each circuit contains identical resistors (let's say R). Circuit 1 has two resistors in series. Circuit 2 has two resistors in parallel. Circuit 3 has two resistors in series. Circuit 4 has two resistors in parallel. Circuit 5 has a single resistor.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q30",
+    "Question_text": "Which electrical appliance uses the heating effect of electricity?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q31",
+    "Question_text": "How many kilowatt-hours of energy are used by a 1000 W heater connected to a 230 V supply for 30 minutes?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q32",
+    "Question_text": "Which safety precautions must be taken when wiring an electrical kettle that has a stainless-steel outer casing?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q33",
+    "Question_text": "What is the purpose of the earth wire in a plug connected to an appliance?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q34",
+    "Question_text": "The diagram shows a wire carrying a current in a magnetic field. What is the direction of the force on the wire?",
+    "image": "A diagram shows a horizontal wire with an arrow indicating current flowing upwards along the wire. Horizontal lines with arrows to the right represent a magnetic field. There is a label 'magnetic field' next to the lines and 'current' next to the wire.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q35",
+    "Question_text": "The diagram shows a simple d.c. motor. What is the part labelled Q?",
+    "image": "A diagram of a simple DC motor. It shows a coil rotating between two magnets. There are brushes making contact with a segmented ring labeled Q, which is connected to the ends of the coil.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q36",
+    "Question_text": "The diagram shows a transformer. A student writes four statements about how the transformer works. 1 An alternating voltage across the primary coil induces an unchanging voltage across the secondary coil. 2 An alternating voltage across the primary coil produces a changing magnetic field in the iron core. 3 A changing magnetic field in the iron core induces an alternating voltage across the secondary coil. 4 An unchanging voltage across the primary coil produces a changing magnetic field across the secondary coil. Which statements explain how the transformer works?",
+    "image": "A diagram of a transformer. It shows a soft iron core with a primary coil wrapped around one side and a secondary coil wrapped around the other side.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Transformers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q37",
+    "Question_text": "Which particle has the smallest mass?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q38",
+    "Question_text": "Which two atoms are isotopes of the same element?",
+    "image": "A table lists four atoms (1, 2, 3, 4) with their respective 'number of neutrons' and 'number of protons'. Atom 1: 22 neutrons, 12 protons. Atom 2: 22 neutrons, 14 protons. Atom 3: 25 neutrons, 13 protons. Atom 4: 24 neutrons, 14 protons.",
+    "Unit": "Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q39",
+    "Question_text": "Four types of ionising radiation are listed. • alpha particles • beta particles • X-rays • gamma rays Which types of radiation can be emitted from the unstable nuclei of a radioactive material?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5054/12/M/J/2024/Q40",
+    "Question_text": "What is the nuclear reaction that powers the Sun?",
+    "image": null,
+    "Unit": "Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion"
+    ],
+    "Parts": []
+  }
+]

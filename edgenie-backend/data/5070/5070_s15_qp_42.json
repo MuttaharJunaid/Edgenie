@@ -1,0 +1,421 @@
+[
+  {
+    "QuestionNumber": "1a(i)",
+    "Question_text": "Describe the appearance of the magnesium before heating.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.1 Properties of metals",
+    "Sub_topic": [
+      "Physical properties comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(ii)",
+    "Question_text": "Construct the equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Name the gas and give a test and observation to identify this gas.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c(i)",
+    "Question_text": "Describe what is seen when magnesium oxide is added to excess dilute sulfuric acid.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c(ii)",
+    "Question_text": "Construct the equation for this reaction.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a(i)",
+    "Question_text": "The diagrams show parts of the thermometer stem giving the temperature of the water after 0.1 mol of each alcohol is burnt.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a(ii)",
+    "Question_text": "Deduce from these results what type of reaction is taking place.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Exothermic reactions",
+      "Endothermic reactions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b(i)",
+    "Question_text": "Calculate the empirical formula and hence the molecular formula of Y.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Empirical and molecular formulae"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b(ii)",
+    "Question_text": "Using your answers to (a)(i) and (b)(i) suggest the formula for X and the formula for Z, giving reasons for your choices.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "General formulae"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c(i)",
+    "Question_text": "Name and give the structure of this acid.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Formation of ethanoic acid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c(ii)",
+    "Question_text": "Suggest both the name of an oxidising agent that can be used and the colour change of the mixture that is seen during the reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Oxidising agent definition",
+      "Redox by colour changes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Give the name and structure of the ester which may be prepared by reacting alcohol Y with the acid produced in (c)(i).",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.2 Naming organic compounds",
+    "Sub_topic": [
+      "Naming and drawing esters"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Which apparatus should a student use to measure 25.0cm³ of a liquid?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.1 Experimental design",
+    "Sub_topic": [
+      "Apparatus for measurements",
+      "Advantages and disadvantages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Water containing a little dilute sulfuric acid is electrolysed using carbon electrodes. If 20 cm³ of oxygen is produced at the positive electrode, what volume of hydrogen is produced at the negative electrode?",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Four tubes are arranged as in the diagrams. Each tube contains a piece of metal immersed in an aqueous solution of ions of one of the other two metals. In a total of how many tubes is a coating formed on the piece of metal?",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series",
+      "Relative reactivities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A small piece of sodium is placed on the surface of water. The sodium reacts and a solution is produced. Which of the following is not correct?",
+    "image": null,
+    "Unit": "UNIT 8: The Periodic Table",
+    "Topic": "8.2 Group I properties",
+    "Sub_topic": [
+      "Group I trends"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Calcium hydroxide reacts with hydrochloric acid according to the equation shown. Which of the following solutions of hydrochloric acid will produce 1.11g of calcium chloride when reacted with excess calcium hydroxide?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction",
+      "Neutralisation equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "A student determines the percentage by mass of iron in a sample of lawn sand, L, using 0.0200 mol/dm³ aqueous potassium manganate(VII), solution P. A sample of L is added to a previously weighed beaker which is then reweighed. Calculate the mass of L used in the experiment.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "100 cm³ of dilute sulfuric acid is added to the beaker containing L and stirred well. Sand is insoluble. The sand is removed from the mixture. How could this be done?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.4 Separation and purification",
+    "Sub_topic": [
+      "Methods of separation",
+      "Suggesting techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8c",
+    "Question_text": "What is the colour of the solution in the conical flask before P is added, when P is just in excess?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.4 Redox",
+    "Sub_topic": [
+      "Redox by colour changes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9d",
+    "Question_text": "The student does three titrations. The diagrams show parts of the burette with the liquid levels at the beginning and end of each titration. Use the diagrams to complete the table.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.2 Acid–base titrations",
+    "Sub_topic": [
+      "Acid-base titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9e",
+    "Question_text": "P is 0.0200 mol/dm³ aqueous potassium manganate(VII). Calculate the number of moles of potassium manganate(VII) in the average volume of P in (d).",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Mole and Avogadro constant"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10f",
+    "Question_text": "One mole of potassium manganate(VII) reacts with five moles of Fe2+. Calculate the number of moles of Fe2+ in 25.0 cm³ of M.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10g(i)",
+    "Question_text": "Calculate the number of moles of Fe2+ in 250 cm³ of M,",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10g(ii)",
+    "Question_text": "Calculate the mass of iron in 250cm³ of M.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10h",
+    "Question_text": "Using your answers to (a) and (g)(ii), calculate the percentage by mass of iron in L.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10i(i)",
+    "Question_text": "Lawn sand also contains ammonium sulfate, (NH4)2SO4, which is a nitrogenous fertiliser. Calculate the percentage by mass of nitrogen in ammonium sulfate.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10i(ii)",
+    "Question_text": "Name another compound which can be used as a nitrogenous fertiliser.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "Ammonium salts and nitrates as fertilisers",
+      "NPK fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Complete the table by stating the conclusion in test (a), the observations in tests (b) and (c) and suggest both the test and observation that lead to the conclusion in test (d).",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "A student uses the apparatus shown to investigate the reaction between marble (CaCO3) and hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12b",
+    "Question_text": "Construct the equation for the reaction between calcium carbonate and hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Word, symbol and ionic equations",
+      "Symbol equation with state symbols"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13c",
+    "Question_text": "Suggest why the mass of the flask and contents decreases as the reaction progresses.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13d",
+    "Question_text": "Plot the points for each experiment on the grid.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13e(i)",
+    "Question_text": "Using your graph, what is the total change in mass in experiment 1 after 75 seconds,",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13e(ii)",
+    "Question_text": "Using your graph, what is the mass of the flask and contents in experiment 2 after 45 seconds?",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14f",
+    "Question_text": "State and explain how the use of powdered marble rather than marble lumps in experiment 2 affects the rate of the reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction",
+      "Collision theory"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14g",
+    "Question_text": "Using your equation in (b), calculate the mass of marble that remains after reaction with 30 cm³ of 1.20 mol/dm³ hydrochloric acid.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  }
+]

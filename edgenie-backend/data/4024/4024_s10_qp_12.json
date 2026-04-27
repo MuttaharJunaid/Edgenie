@@ -1,0 +1,633 @@
+[
+  {
+    "QuestionNumber": "May/June/2010/Q1",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals",
+      "Order operations correctly"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "1.5 - 0.2 x 4,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "4.2 ÷ 0.07.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q2",
+    "Question_text": "Express as a single fraction",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "5/7 - 2/5.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "1 1/5 ÷ 2 1/3.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Express as percentage",
+      "Calculate percentage change"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In a town, 11 000 people out of the total population of 50 000 are aged under 18. What percentage of the population is aged under 18?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A company employing 1200 workers increased the number of workers by 15%. How many workers does it now employ?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q4",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand zero indices",
+      "Understand fractional indices",
+      "Understand positive indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "9¹ + 9⁰,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "(1/9)¹/₂.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q5",
+    "Question_text": "By writing each number correct to 1 significant figure, estimate the value of (48.9 x 0.207²) / 3.94",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy",
+      "Make estimates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown",
+      "Solve fractional equations with numerical and linear algebraic denominators",
+      "Change the subject of formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve 3/(x-1) = 2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Given that p = 2t-r, express t in terms of p and r.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q7",
+    "Question_text": "",
+    "image": "A regular hexagon is shown for part (a). An empty grid with x and y axes is shown for part (b).",
+    "Unit": "Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the regular hexagon below, draw all the lines of symmetry.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the grid below, draw a quadrilateral with rotational symmetry of order 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q8",
+    "Question_text": "The table shows the record minimum monthly temperatures, in °C, in Vostok and London. Month: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sept, Oct, Nov, Dec Vostok: -36, -47, -64, -70, -71, -71, -74, -75, -72, -61, -45, -35 London: -10, -9, -8, -2, -1, 5, 7, 6, 3, -4, -5, -7 Find",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.2 Interpreting statistical data",
+    "Sub_topic": [
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the difference between the temperatures in Vostok and London in July,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the difference between the temperatures in Vostok in February and June.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q9",
+    "Question_text": "Written as a product of prime factors, 168 = 2³ × 3 × 7.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify prime numbers",
+      "Identify common factors",
+      "Identify square numbers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express 140 as a product of its prime factors.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the highest common factor of 168 and 140.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the smallest positive integer, n, such that 168n is a square number.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q10",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio",
+      "Use proportional reasoning"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Jane and Ken share some money in the ratio 5: 3. Ken's share is $16 less than Jane's share. Find each person's share.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The scale of a map is 1:25 000. The distance between two villages is 10 cm on the map. Find the actual distance, in kilometres, between the villages.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q11",
+    "Question_text": "Given that f(x) = (5-2x)/3x, find",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "f(-2),",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "f⁻¹(x).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q12",
+    "Question_text": "It is given that y is inversely proportional to the square of x and that y = 48 when x = 1/2. Find",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the formula for y in terms of x,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the values of x when y = 3.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q13",
+    "Question_text": "Solve the simultaneous equations. 3x + 2y = 7, x - 3y = 17",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q14",
+    "Question_text": "A straight line passes through the points P (-8, 10) and Q (4, 1). Find",
+    "image": null,
+    "Unit": "Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment",
+      "Calculate the gradient of a straight line from the coordinates of two points on it",
+      "Interpret and obtain the equation of a straight-line graph"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the coordinates of the midpoint of PQ,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the equation of PQ.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q15",
+    "Question_text": "The diagram shows a circle, centre O, passing through A, B, C and D. BOD is a straight line and BÂC = 38°. The line BQ is a tangent to the circle at B. Find",
+    "image": "A circle with center O. Points A, B, C, D are on the circumference. Line BOD is a diameter. Angle BAC is 38 degrees. Line BQ is tangent to the circle at B.",
+    "Unit": "Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "DÂC,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "DBC,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "CBQ.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q16",
+    "Question_text": "A bag contains 6 red counters and 4 blue counters. Two counters are taken from the bag at random, without replacement.",
+    "image": "A partially completed tree diagram showing probabilities for the first and second counter selections. The first level shows a branch for 'red' with probability 6/10, and a branch for 'blue' with probability 4/10. The second level, for 'red' first, shows a branch for 'red' with probability 5/9. The other branches and probabilities are left blank for completion.",
+    "Unit": "Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams",
+      "Calculate probability of single event"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the tree diagram below that represents these events.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Expressing your answer as a fraction in its simplest form, calculate the probability that both counters are the same colour.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q17",
+    "Question_text": "ABCD is a parallelogram. X is the point on BC such that BX : XC = 2 : 1. →AB = 2p and →AD = 3q. Find, in terms of p and q,",
+    "image": "A parallelogram ABCD with vertices labeled counter-clockwise. Vector AB is represented by 2p and vector AD by 3q. Point X is on side BC such that BX:XC = 2:1. Lines are drawn to show vectors AC, AX, and XD.",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Represent vectors by directed line segments",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "→AC,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "→AX,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "→XD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q18",
+    "Question_text": "OAB is the sector of a circle of radius r cm. AOB = 60°. Find, in its simplest form, an expression in terms of r and π for",
+    "image": "A sector of a circle named OAB. O is the center, A and B are on the circumference. The radius is labeled 'r'. The angle AOB at the center is 60°.",
+    "Unit": "Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle",
+      "Carry out calculations involving circumference and area of a circle"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the area of the sector,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the perimeter of the sector.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q19",
+    "Question_text": "A = (3 1 / -1 2) and B = (0 2 / -1 3). Find",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Matrix operations",
+      "Inverse matrices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A - B,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "B⁻¹.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q20",
+    "Question_text": "The graph shows the cumulative frequency curve for the ages of 60 employees.",
+    "image": "A cumulative frequency curve graph for the ages of 60 employees. The x-axis is 'Age (years)' from 15 to 65. The y-axis is 'Cumulative frequency' from 0 to 60. The curve starts at (15,0) and rises to (approximately 58, 60), showing an S-shape typical of cumulative frequency curves.",
+    "Unit": "Statistics",
+    "Topic": "9.6 Cumulative frequency diagrams",
+    "Sub_topic": [
+      "Estimate and interpret median, percentiles, quartiles and interquartile range from cumulative frequency diagrams",
+      "Draw and interpret cumulative frequency tables and diagrams",
+      "Read, interpret and draw inferences from tables and statistical diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the median,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the interquartile range,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "the number of employees aged over 50.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q21",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax² + bx + c",
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Manipulate algebraic fractions",
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Factorise completely 3x² - 12x,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Factorise completely x² - xy - 2y².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Simplify (x² + 4x) / (x² - 16)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q22",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds",
+      "Find bounds of calculations",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A box has volume 2.5 m³. Express this volume in cm³.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "John has a length of string. The string is 4 m long, correct to the nearest 10 cm. Write down the lower bound of the length of the string. Give your answer in centimetres.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "John cuts off ten pieces of string. Each piece is 5 cm long, correct to the nearest centimetre. Find the minimum possible length of string remaining. Give your answer in centimetres.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q23",
+    "Question_text": "ABC is an isosceles triangle with AB = BC and AC = 32 cm. Using as much information from the table as is necessary, calculate",
+    "image": "An isosceles triangle ABC is depicted. Angle BAC is labeled theta (θ). Side AC, the base, measures 32 cm. A table of trigonometric values is provided: sin θ = 15/17, cos θ = 8/17, tan θ = 15/8.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations",
+      "Solve problems in two dimensions using Pythagoras’ theorem and trigonometry",
+      "Use area of triangle formula (1/2 ab sin C)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "AB,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the area of triangle ABC.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q24",
+    "Question_text": "The diagram below shows three triangles, P, Q and R.",
+    "image": "A coordinate grid displaying three triangles. Triangle P has vertices at (4,1), (5,3), (4,3). Triangle Q has vertices at (-3,3), (-2,4), (-3,4). Triangle R has vertices at (-4,-4), (-2,-4), (-2,-5).",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor",
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°",
+      "Recognise, describe and draw translation of shape by vector",
+      "Transformation matrices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Triangle T is the image of triangle P under an enlargement with centre (5, 2) and scale factor 2. Draw and label triangle T on the diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe fully the single transformation that maps triangle P onto triangle Q.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the matrix representing the transformation that maps triangle Q onto triangle R.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q25",
+    "Question_text": "The diagram is the speed-time graph for the first 20 seconds of a cyclist's journey.",
+    "image": "A speed-time graph illustrating a cyclist's journey over 20 seconds. The x-axis represents 'Time (t seconds)' from 0 to 20. The y-axis represents 'Speed (metres per second)' from 0 to 12. The graph shows a linear increase in speed from (0,0) to (8,10), followed by a constant speed from (8,10) to (16,10), and then a curved increase in speed from (16,10) to (20,12).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Calculate distance travelled as area under a speed–time graph",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Estimate gradients of curves by drawing tangents",
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the distance travelled in the first 16 seconds.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "By drawing a tangent, find the acceleration of the cyclist when t = 18.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the grid in the answer space, sketch the distance-time graph for the first 16 seconds of the cyclist's journey.",
+        "image": "An empty grid with x-axis 'Time (t seconds)' from 0 to 16 and y-axis 'Distance (metres)' from 0 to 140, provided for sketching the distance-time graph."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q26",
+    "Question_text": "A map is drawn to a scale of 1 cm to 5 km. The diagram below shows the positions of two radio masts A and B on the map.",
+    "image": "A diagram showing a horizontal line segment with points A and B at its ends. A 'North' arrow points vertically upwards from the line.",
+    "Unit": "Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Construct a triangle given lengths of all sides using ruler and compasses",
+      "Draw and interpret scale drawings",
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A third radio mast, C, is north of the line AB. It is 40 km from A and 50 km from B. Using ruler and compasses, construct triangle ABC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A house D, inside the triangle, is more than 35 km from B and closer to B than to A. Shade the region on your diagram that represents the possible positions of the house D.",
+        "image": null
+      }
+    ]
+  }
+]

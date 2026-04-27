@@ -1,0 +1,165 @@
+[
+  {
+    "QuestionNumber": "5054/31/O/N/21/Q1",
+    "Question_text": "In this experiment you will investigate angles of reflection. You are provided with: an illuminated slit, a pair of mirrors joined together, a small amount of adhesive putty, a protractor.",
+    "image": "Fig. 1.1 shows a top-down view of an experimental setup for investigating reflection. It includes two mirrors, labeled 'mirror 1' and 'mirror 2', joined at a point 'C'. Mirror 1 is positioned over a dashed vertical 'centre line' which has points labeled Z, Y, and X. A horizontal line 'PP' is at the bottom, perpendicular to the centre line. An angle 'a' is marked between mirror 1 and the centre line. An angle 'b' is marked between mirror 1 and mirror 2, at point C. Text labels indicate 'reflecting back of mirror' and 'glass surface'. An arrow near mirror 2 suggests it can be rotated.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 1.1 is on page 3 of your question paper. Measure and record angle a on Fig. 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Fig. 1.1: place the illuminated slit plate or the slit plate of the ray box on the line PP. If you are using the small lamp with the slit plate, you will need to turn the lamp upside down so that the glass is touching the paper next to the slit. Adjust the position of the slit plate so that, when the lamp or ray box is switched on, a single ray of light emerging from the slit lines up with the centre line marked on Fig. 1.1. place the pair of mirrors so that the corner where they are joined together is at point C and one mirror lines up with the marked area (I), as shown on Fig. 1.1. A small amount of adhesive putty may be used to fix this mirror into place. This mirror is mirror 1. The angle between the two mirrors is angle b. Switch on the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Observe the ray reflected from mirror 1. Without moving mirror 1, adjust the position of mirror 2 so that the ray also reflects from this mirror. Without moving mirror 1, rotate mirror 2 so that the reflected ray from this mirror passes through point X. Draw a line along the face of mirror 2. Label this line X. Measure and record angle bx between this line and mirror 1.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Repeat the procedure in (b)(i) for points Y and Z labelling the lines Y and Z respectively. Switch off the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe the trend in angle b as the reflected ray moves from point X to point Z.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest one practical reason why it is difficult to obtain accurate results with this experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/O/N/21/Q2",
+    "Question_text": "In this experiment you will investigate an electrical circuit. You are provided with: components joined together in an electrical circuit, an ammeter, a voltmeter. The supervisor has set up the circuit.",
+    "image": "Fig. 2.1 displays various standard electrical circuit symbols, arranged in two columns. The left column shows symbols for: battery of cells, switch, ammeter (labeled 'A'), voltmeter (labeled 'V'), and junction of conductors. The right column shows symbols for: lamp, fixed resistor, variable resistor, thermistor, and light dependent resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Some electrical symbols are shown in Fig. 2.1. Using some or all of the symbols in Fig. 2.1, draw a circuit diagram of the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Close the switch and record the readings on the ammeter and the voltmeter. State the unit of each reading.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe how you can obtain steady voltmeter readings.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/O/N/21/Q3",
+    "Question_text": "In this experiment you will investigate the speed of a ball on a slope. You are provided with: a table tennis ball, a slope made from two metre rules kept in place using adhesive putty, a stop-watch, piece of cloth to stop the table tennis ball from rolling away. The supervisor has set up the apparatus, as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a diagram of an experimental setup. A 'slope' is created using two metre rules, secured by 'small pieces of adhesive putty' at one end. The other end of the slope rests on a 'block of modelling clay', elevating it to create an incline. The setup is designed for investigating the motion of a ball down the slope.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Let the ball roll from the top of the slope at the 100 cm mark to the bottom of the slope at the 0 cm mark.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine an accurate average time t₁ for the ball to roll from the top of the slope to the half-way point at the 50cm mark on the rule.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "With the ball continuing to start its roll from the top of the slope, now determine an accurate average time t₂ for the ball to roll from the half-way point at the 50cm mark to the bottom of the slope at the 0cm mark.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the average speed v₁ of the ball in the top half of the slope and the average speed v₂ of the ball in the bottom half of the slope using the equations V₁ = 50/t₁ and V₂ = 50/t₂.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A student claims that the average speed v₃ of the ball along the whole length of the rule can be calculated using the equation V₃ = (2*V₁*V₂) / (V₁ + V₂). Make and record, using appropriate symbols, one further measurement that can be used to test the student's claim. State and explain whether your results support the student's claim.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/31/O/N/21/Q4",
+    "Question_text": "In this experiment you will investigate the oscillation of a mass on a spring. You are provided with: safety goggles, two stands, bosses and weights, a piece of adhesive putty moulded to a spring, a rod, a small piece of adhesive putty, a stop-watch, a rule. Please wear eye protection while doing this experiment. The supervisor has set up the apparatus, as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 illustrates an experimental setup for investigating oscillations. It features two retort stands on a 'bench', each with a 'boss' clamped to a vertical rod. A horizontal rod is clamped between these two vertical rods, supporting a 'spring' with 'adhesive putty attached to spring' at its top. A 'weight' is suspended from the bottom of the spring. A 'small piece of adhesive putty' is attached to the vertical rod of the right stand. Dimensions 'd' (distance between vertical rods) and 'L' (distance from spring's center to putty on rod) are indicated.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe two ways that the apparatus is arranged to reduce the risk of the stands toppling over.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Adjust the position of the stands so that d = 26 cm. While moving the stands, take care that the spring does not become loose. Adjust the position of the small piece of adhesive putty so that it is approximately 3cm from the lower end of the rod. Press it firmly to the rod to ensure that it does not slip off. Measure and record the distance L from the centre of the spring to the centre of the small piece of adhesive putty.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Pull the bottom tip of the rod towards you by approximately 20cm. Release the rod and observe it as it swings. One oscillation is the movement of the rod from release, away from you and back to the position from which it was released. Describe a technique for determining an accurate time T for one oscillation.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Determine T.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "In Table 4.1, record your measurement of L from (b) and your value of T from (c)(ii). Calculate L²/100 and T². Record your values in separate columns of Table 4.1. Add appropriate headings with units to each column. One has been done for you. Determine T for seven more values of L and calculate L²/100 and T² for each value. Record all of your measurements and calculations in Table 4.1.",
+        "image": "Table 4.1, with a header row partially filled: 'L²/100 cm²'. The table is empty, expecting entries for multiple measurements of L, T, L²/100, and T²."
+      },
+      {
+        "part_label": "e",
+        "part_text": "Using the grid opposite, plot a graph of T² on the y-axis against L²/100 on the x-axis. Draw a straight line of best fit.",
+        "image": "An empty grid for plotting a graph is shown on the following page (page 13), with evenly spaced horizontal and vertical lines."
+      },
+      {
+        "part_label": "f",
+        "part_text": "A student suggests that the best fit line should be a curve. State and explain whether the points on your graph support this suggestion.",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "Another student suggests that the measurement of T when L is large is more accurate than when L is small. Explain whether your observations support this suggestion.",
+        "image": null
+      }
+    ]
+  }
+]

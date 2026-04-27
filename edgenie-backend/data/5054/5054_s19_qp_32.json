@@ -1,0 +1,169 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2019/Q1",
+    "Question_text": "In this experiment, you will investigate the oscillation of a pendulum joined to a spring. You are provided with: • a length of thread • a 300 g mass • a stopwatch • a stand, boss and clamp • a second boss • a split cork • a spring • a metre rule • a G-clamp or weight. The supervisor has set up the apparatus as shown in Fig. 1.1. The position of the boss attached to the clamp holding the cork is fixed and must not be changed. The position of the boss attached to the spring will be adjusted. Ensure that the distance D between the bosses is 10cm, as shown in Fig. 1.2.",
+    "image": "Fig. 1.1 shows the experimental setup for investigating the oscillation of a pendulum joined to a spring. It features a clamp attached to a rod of a stand, which is fixed to a bench. A cork is held by the clamp. A thread hangs from the cork, with a spring attached to its lower end. A 300 g mass is suspended from the spring. Labels include 'fixed boss', 'rod of stand', 'second boss', 'bench', 'cork', 'clamp', 'spring', and '300 g mass'.\nFig. 1.2 is a detailed diagram showing the upper part of the pendulum setup, focusing on the bosses and the spring attachment. It highlights the 'fixed boss' holding a 'rod of clamp holding cork' and a 'rod of stand'. Below it, a 'loop of spring' is attached. A vertical dashed line with 'D = 10 cm' indicates the distance between the fixed boss and the spring's attachment point (referred to as the second boss in the text).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Speed & Velocity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "View the apparatus from the side, as shown in Fig. 1.1. Move the right hand loop of the spring along the thread until the spring is as close to horizontal as possible. Move the mass approximately 5cm to the right. Release the mass and observe it swing to the left and then return to its point of release as shown in Fig. 1.3. This is one oscillation.",
+        "image": "Fig. 1.3 illustrates one oscillation of the mass. A curved arrow shows the path of the mass swinging from an initial 'point of release' to the left and then returning to the same point, completing one cycle."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine the time T₁ for twenty oscillations of the pendulum.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Move the second boss down the rod of the stand until D = 30 cm. Ensure that the spring is horizontal again. Determine the time T₂ for twenty oscillations of the pendulum.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Move the second boss down the rod of the stand until D = 50 cm. Ensure that the spring is horizontal. Determine the time T₃ for twenty oscillations of the pendulum.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe the trend shown in the results of the experiment.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Another method to determine the time for 20 oscillations is to start and stop the stopwatch as the mass passes through the centre of the oscillation as shown in Fig. 1.4. By considering the speed of the mass, suggest why this method is more accurate.",
+        "image": "Fig. 1.4 is a diagram illustrating an oscillating mass passing through its equilibrium position. A curved line with an arrow indicates the path of oscillation, highlighting a point labeled 'centre of oscillation' where the mass moves fastest."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2019/Q2",
+    "Question_text": "In this experiment, you will investigate the time taken for a voltmeter reading to change. You are provided with a circuit consisting of: • a power supply • a fixed resistor R₁ • a component C • a switch • a voltmeter. The supervisor has set up the circuit shown in Fig. 2.1. You have also been provided with: • a stopwatch • a fixed resistor R₂.",
+    "image": "Fig. 2.1 shows a circuit diagram. It includes a power supply (represented by a long and short parallel line) connected in series with a fixed resistor R₁ and a component C. A switch is also in series with component C. A voltmeter V is connected in parallel across the component C.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Close the switch. Record the reading V₀ on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Open the switch and start the stopwatch. Determine the average time t₁ taken for the voltmeter reading to decrease to 0.5 V.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Replace the resistor R₁ with the resistor R₂. Close the switch. Repeat (a)(ii) to determine the average time t₂ taken for the voltmeter reading to decrease to 0.5 V.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The resistance of resistor R₁ is 10 times greater than the resistance of resistor R₂. Describe how decreasing the resistance by a factor of 10 affects the time taken for the voltmeter reading to decrease to 0.5 V.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2019/Q3",
+    "Question_text": "In this experiment, you will investigate how the angle of an L-shaped beam varies with the position of a mass. You are provided with: • an L-shaped beam • a rod to act as a pivot • a stand, clamp and two bosses • a mass on a mass hanger • a wire hook • a protractor • a metre rule • a set square. The supervisor has set up the apparatus as shown in Fig. 3.1. Fig. 3.1 shows the L-shaped beam pivoted on a rod attached to the clamp. The clamp is attached to the stand by boss 1. Fig. 3.2 shows θ the angle between one edge of the metre rule and the numbered arm of the L-shaped beam.",
+    "image": "Fig. 3.1 shows an experimental setup with an L-shaped beam. The beam is pivoted on a rod, which is attached to a clamp. The clamp is secured to a stand by 'boss 1'. Another 'boss 2' is shown on the stand. A 'metre rule' is positioned near the L-shaped beam. The entire setup rests on a 'bench'.\nFig. 3.2 is a close-up diagram showing the L-shaped beam with holes labeled 1, 2, 3, 4, and a metre rule. An angle θ is indicated between the metre rule and the numbered arm of the L-shaped beam.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Pass one end of the wire hook through hole 1 in the L-shaped beam. Suspend the 200g mass from the bottom of the wire hook.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure the angle θ between the rule and the numbered arm of the L-shaped beam.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Remove the wire hook from hole 1 and attach the mass to hole 2 with the wire hook. Measure the new angle θ. Repeat for hole 3 and hole 4 and record all your measurements of angle in the table of Fig. 3.3.",
+        "image": "Fig. 3.3 is an empty table with two columns, 'hole' and 'angle θ /°', and four rows for recording experimental data for holes 1, 2, 3, and 4."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe one difficulty you experienced in obtaining an accurate value for the angle θ. Suggest an improvement to overcome this difficulty.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe a method to check that the rule is horizontal.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2019/Q4",
+    "Question_text": "In this experiment, you will investigate the size of an image. You are provided with: • a lamp • a slit plate attached to a rod • a 30 cm ruler • a sheet of paper • a metre rule. The supervisor has set up the apparatus as shown in Fig. 4.1. Check that the bottom of the glass bulb of the lamp is 20.0cm above the centre of the paper. Adjust if necessary. Check that the midpoint of the two slits in the slit plate is directly beneath the lamp and that the slit plate is a height h = 10.0cm above the paper. Adjust if necessary.",
+    "image": "Fig. 4.1 shows an experimental setup for investigating image size. A lamp is held by a clamp attached to a rod. Below the lamp, a slit plate is positioned. The slit plate is attached to a separate rod using Blu Tack. A sheet of paper is placed on a surface below the slit plate. Vertical dimensions are given: 20.0 cm from the bottom of the lamp's glass bulb to the sheet of paper, and h = 10.0 cm from the slit plate to the sheet of paper. Labels include 'clamp', 'lamp', 'rod', 'Blu Tack', 'slit plate', 'h = 10.0 cm', '20.0 cm', and 'sheet of paper'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Linear Magnification",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure: • the length l of one of the slits in the slit plate • the distance d between the centres of the slits.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Switch on the lamp. Observe the image of the two slits on the paper. Measure: • the length l₁ of one of the slit images formed on the paper • the distance d₁ between the centres of the images of the two slits.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Continue the experiment. Keep the lamp at the same height. Move the slit plate up and down for values of h in the range h = 4.0 cm to 16.0cm. Measure h, l₁ and d₁ for each position of the slit plate. Write appropriate headings in the top row of Table 4.1. Record all of your results in Table 4.1. Switch off the lamp. For each of your measurements, calculate d₁/l₁ and record your answers in Table 4.1. Write an appropriate header for this calculation.",
+        "image": "Table 4.1 is an empty table with five columns and multiple rows, designed for recording experimental data for height (h), image length (l₁), image distance (d₁), and the calculated ratio (d₁/l₁)."
+      },
+      {
+        "part_label": "d",
+        "part_text": "On the grid on page 13, plot a graph of l₁ on the y-axis against height h on the x-axis. Draw the curved line of best fit.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Draw a straight line that passes through your curved line at h = 8.0cm and h = 12.0cm",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Determine the gradient of this straight line.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Theory suggests that for all the values of h, the ratio d₁/l₁ is the same. Explain whether your values of d₁/l₁ in Table 4.1 support this suggestion.",
+        "image": null
+      }
+    ]
+  }
+]

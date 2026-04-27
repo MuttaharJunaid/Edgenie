@@ -1,0 +1,174 @@
+[
+  {
+    "QuestionNumber": "October-November/41/2020/Q1",
+    "Question_text": "A student investigates how the strength of a bridge varies with its width. Fig. 1.1 shows the apparatus that the student uses. The student is given a rectangular piece of card which is 20cm long and 12cm wide. The card represents the bridge. The length of the card does not change but the width is reduced during the experiment. She also has two identical wooden supports which are placed so that the gap between them is 16 cm. • She places the card on the supports to make a bridge. • She loads the bridge by placing identical coins, one at a time, onto it. • She places the coins on top of each other on the middle of the card.",
+    "image": "Fig. 1.1 shows a diagram of an experimental setup. A rectangular piece of card, labeled as a bridge, is placed on two wooden supports. The card has dimensions 20 cm long and 12 cm wide. The gap between the wooden supports is 16 cm. The wooden supports are labeled 'wooden support'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Measurement",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest why she places the coins in the middle of the card.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "She needs to know the mass of each coin. The balance available measures mass to the nearest gram.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how the student uses this balance to find the mass of a coin to the nearest 0.1 g.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Each coin has a mass of 3.4 g. • She adds coins carefully, one at a time, onto her bridge until the bridge collapses. • She records the number of coins that the bridge holds just before it collapses. • She repeats this four more times. The number of coins needed is: 16 15 16 14 15 Find the average mass m in grams that the card can support. Give your answer to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "She cuts a 2 cm wide strip from the long side of her card. • The width w of the card remaining is 10cm. • She repeats the experiment. • She compares the results for the two widths of card.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Suggest one way in which her method allows a fair comparison to be made.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "She repeats this procedure until there is only a 2cm wide piece of card left. Her results are recorded in Table 1.1. Table 1.1 width w/cm | mass m/g 12 | 10 | 37 8 | 26 6 | 18 4 | 11 2 | 5 Add your value m for w = 12cm from 1(b)(ii) to Table 1.1. On Fig. 1.2, plot a graph of m on the y-axis against w on the x-axis. Start both axes from the origin. Draw the smooth curve of best fit.",
+        "image": "Table 1.1 showing experimental data for width w/cm and mass m/g. Values provided are: w=10, m=37; w=8, m=26; w=6, m=18; w=4, m=11; w=2, m=5. The row for w=12cm has a blank mass value to be filled by the student."
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Extend your curve to estimate the mass of coins that collapse the bridge for a card that is 13cm wide. Show your working on the grid in Fig. 1.2. mass of coins = ..................................................... g [2]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Suggest how the student can alter the apparatus so that the bridge holds more mass for all widths of card.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Each student in the class has only one piece of card at the start of the experiment. A second student decides to carry out the experiment starting with a 2cm wide piece of card and then increasing the width. Suggest why this causes a problem.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2020/Q2",
+    "Question_text": "A student carries out an experiment to find a value for the specific latent heat of fusion of ice. He needs to find the mass of ice melted by the heater in time t. He uses the apparatus shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a diagram of the apparatus. An electric heater is placed inside a glass funnel filled with ice. The funnel is positioned over a beaker, which rests on a digital balance. The balance shows a reading of '239.4 g'. The electric heater is connected in series with an ammeter (A) and in parallel with a voltmeter (V), forming an electrical circuit.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Measurement",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Electrical Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what the student must do before switching on the heater.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The heater is switched on and water drips into the beaker. The student switches off the heater after time t.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Suggest why the student waits a further minute after switching off the heater before taking a reading from the balance.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The scales on the voltmeter and ammeter when the heater is switched on are shown in Fig. 2.2. State the reading of current I and voltage V when the heater is switched on.",
+        "image": "Fig. 2.2 shows two analogue meters. The left meter is an ammeter with a scale from 0 to 5 A, marked in 0.2 A increments. The needle points to 3.8 A. The right meter is a voltmeter with a scale from 0 to 10 V, marked in 0.2 V increments. The needle points to 8.0 V."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Using the equation E = I x V x t calculate the energy E that has been supplied by the heater when t = 5.0 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The mass m of ice melted in 5.0 minutes is 36.2 g. The specific latent heat of fusion L of ice is given by L = E / m Calculate a value for L and give a unit for your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The teacher tells the student that his value is different from the accepted value. Apart from your answer in (a), suggest two improvements to the experiment. 1. 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2020/Q3",
+    "Question_text": "A student uses a ray box to investigate the path of light through the transparent plastic block shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a diagram of a transparent plastic block with a quadrilateral shape (PQBA). A ray of light is shown entering the block at point A, reflecting off the internal surface PQ, and then leaving the block at point B. Point P, Q, A, B are labeled on the block. The block is labeled 'transparent plastic block'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Investigating Reflection",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 3.1, draw the normal at A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Measure the angle of incidence i at A.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On Fig. 3.1 draw a possible path of the ray from A to B. (No measurements need to be taken or calculated)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/41/2020/Q4",
+    "Question_text": "Two students determine the speed of sound in air by an echo method. One student stands a long distance away from a tall building, as shown in Fig. 4.1. This student bangs a drum to make a loud sound and both students listen for the echo.",
+    "image": "Fig. 4.1 shows a diagram of a student banging a drum, standing a distance away from a tall building with windows. The diagram illustrates the setup for determining the speed of sound using the echo method.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Measuring the Speed of Sound",
+      "Reflection of Sound Waves",
+      "Sound Waves",
+      "The Wave Equation",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two additional pieces of apparatus that are needed in order to determine the speed of sound. 1. 2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the measurements that the students make and how they carry out the experiment to find a value for the speed of sound in air. State any equation used.",
+        "image": null
+      }
+    ]
+  }
+]

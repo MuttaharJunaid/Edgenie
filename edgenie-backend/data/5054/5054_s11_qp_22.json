@@ -1,0 +1,411 @@
+[
+  {
+    "QuestionNumber": "May/June/2011/Q1",
+    "Question_text": "A student wishes to find the density of a stone. He uses a measuring cylinder and a spring balance with a scale marked in newtons. The measuring cylinder, spring balance and stone are shown in Fig. 1.1. The student knows that the gravitational field strength is 10N/kg.",
+    "image": "Fig. 1.1 shows a measuring cylinder, a spring balance with a scale from 0 to 4 N, and a stone tied with a thread. The measuring cylinder is graduated in cm³ from 10 to 100.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Mass & Weight",
+      "Measuring Density",
+      "Measuring Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student uses the spring balance to find the mass of the stone.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how the student uses the measuring cylinder to find the volume of the stone.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The mass of the stone is 150g and its volume is 70 cm³. Calculate the density of the stone. density of stone =",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The stone is taken to another place, where the gravitational field strength is less than 10N/kg. State how this affects the mass and the weight of the stone. mass weight",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q2",
+    "Question_text": "Fig. 2.1 illustrates the journey of a cyclist from point A to point B. Points A and B are at the same height. The cyclist starts from rest at A and pedals up and over a hill. Near the bottom of the hill, she starts to brake and comes to rest at B.",
+    "image": "Fig. 2.1 shows a cyclist starting at point A, going up a hill, and coming down to point B. Points A and B are at the same horizontal level. The path shows an upward slope, followed by a downward slope. A dotted horizontal line connects A and B, indicating they are at the same height.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Conservation of Energy",
+      "Energy Stores & Transfers",
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the energy changes that take place as she pedals up the hill at constant speed.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how the law of conservation of energy applies to the complete journey from A to B.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "At one point in the journey, the gravitational potential energy of the cyclist has increased by 5400 J. The mass of the cyclist is 60 kg. The gravitational field strength is 10N/kg. Calculate the height above A of the cyclist at this point. height above A =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q3",
+    "Question_text": "Explain, using ideas about molecules, (i) why a balloon filled with gas expands when heated, (ii) why a balloon filled with water expands very little when heated. A bubble of gas rises from the bottom of a lake to the surface. The pressure at the bottom of the lake is 3.0 × 10⁵ Pa and the pressure at the surface is 1.0 × 10⁵ Pa. The volume of the bubble at the bottom of the lake is 2.0 cm³. Calculate the volume of the bubble at the surface. volume = State one assumption that you have made in your calculation in (i).",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Gases & Absolute Temperature",
+      "Particle Model",
+      "States of Matter",
+      "Temperature & Pressure",
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain, using ideas about molecules, why a balloon filled with gas expands when heated,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "why a balloon filled with water expands very little when heated.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A bubble of gas rises from the bottom of a lake to the surface. The pressure at the bottom of the lake is 3.0 × 10⁵ Pa and the pressure at the surface is 1.0 × 10⁵ Pa. The volume of the bubble at the bottom of the lake is 2.0 cm³. Calculate the volume of the bubble at the surface. volume =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State one assumption that you have made in your calculation in (i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q4",
+    "Question_text": "Fig. 4.1 shows circular wavefronts produced at the centre of a circular ripple tank. Two corks, A and B, float on the water in the ripple tank. They move up and down on the surface of the water as the wave passes. The wavelength of the wave is 8.0cm. Fig. 4.2 shows how the displacement of A varies with time.",
+    "image": "Fig. 4.1 shows a top-down view of a circular ripple tank with concentric circular wavefronts originating from the center. Two corks, A and B, are floating on the water. Cork A is closer to the center, and the distance from the center to a wavefront is marked as 8.0 cm. Fig. 4.2 is a displacement-time graph for cork A. The y-axis is displacement in mm (from -2 to +2), and the x-axis is time in s (from 0 to 1.25). The graph shows a sinusoidal wave starting at 0 displacement, reaching +2mm at 0.25s, 0mm at 0.50s, -2mm at 0.75s, and 0mm at 1.00s.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Ripple Tank",
+      "The Wave Equation",
+      "Wave Behaviour"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the amplitude of the vibrations of A as the wave passes. amplitude =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The horizontal distance between A and B is half the wavelength of the wave. On Fig. 4.2, sketch a graph to show how the displacement of B varies with time.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use Fig. 4.2 to determine the frequency of the wave. frequency =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The distance between the centre of the ripple tank and its edge is 40 cm. Determine the time taken by a wavefront to travel from the centre of the tank to the edge. time =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q5",
+    "Question_text": "Fig. 5.1 shows part of a low-voltage lighting circuit. The power supply voltage is 12V.",
+    "image": "Fig. 5.1 shows an incomplete circuit diagram with a 12V power supply. It has three light bulbs labeled A, B, and C. Lamp A is connected to one terminal of the power supply and then appears to be an independent branch. Lamps B and C are connected in series with each other in another part of the circuit, which is also an incomplete branch.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Current in Circuits",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Potential Difference in Circuits",
+      "Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 5.1, complete the circuit, adding components as necessary, so that: • the total current in the circuit can be measured, • lamp A is on all the time, • lamps B and C are in series with each other and are switched on or off together.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "All the lamps are on. The potential difference (p.d.) across lamp B is 8.0V and the current in lamp B is 50 mA. Calculate the resistance of lamp B. resistance =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the current in lamp C. current =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q6",
+    "Question_text": "The cable from the mains plug to a washing machine contains a live wire, a neutral wire and an earth wire. The earth wire is connected to the metal case of the washing machine.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power",
+      "Electrical Safety"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain how connecting the earth wire to the metal case makes the washing machine safer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When in use, the average input power to the washing machine is 500W. Calculate the number of kWh of energy used by the washing machine in 45 minutes of use. number of kWh =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q7",
+    "Question_text": "Fig. 7.1 shows some parts of a cathode-ray oscilloscope.",
+    "image": "Fig. 7.1 shows a simplified diagram of a cathode-ray oscilloscope (CRO). It includes a filament (heater), an anode, batteries A and B, an electron beam path, and a fluorescent screen. Battery A is connected across the filament to heat it, causing electron emission. Battery B is connected across the anode and the filament to accelerate the electrons, forming the electron beam which travels towards the fluorescent screen.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why reversing battery A has no effect on the electron beam.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The connections to battery B are reversed. State and explain the effect on the electron beam.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q8",
+    "Question_text": "Fig. 8.1 illustrates the process that occurs in the core of a nuclear reactor.",
+    "image": "Fig. 8.1 illustrates the process of nuclear fission. It shows a neutron colliding with a uranium-235 nucleus, causing it to split into two smaller daughter nuclei and release additional neutrons. The process shows one incident neutron leading to the release of three neutrons and two daughter nuclei.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "Half-Life",
+      "Radioactive Decay",
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the process illustrated in Fig. 8.1.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe what happens during this process.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Some of the waste from a nuclear reactor is radioactive with a long half-life. Explain what is meant by radioactive,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "a long half-life.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q9",
+    "Question_text": "Fig. 9.1 shows a sky-diver falling vertically. The sky-diver starts from rest at time t = 0. His acceleration is non-uniform until he reaches a steady speed of 50m/s at t = 10s. He opens his parachute at t = 20s and decelerates until t = 25 s. From t = 25 s he falls at a steady speed of 5 m/s.",
+    "image": "Fig. 9.1 shows a drawing of a sky-diver falling vertically. Fig. 9.2 is a speed-time graph with speed (m/s) on the y-axis (0 to 60) and time (s) on the x-axis (0 to 35). A grid is provided for plotting the graph.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Distance-Time Graphs",
+      "Freefall",
+      "Speed & Velocity",
+      "Speed-Time Graphs",
+      "terminal velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 9.2, draw the speed-time graph for the sky-diver.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how your graph shows that the acceleration is non-uniform between t = 0 and t = 10s.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain, in detail, why after the sky-diver opens his parachute, he decelerates and eventually reaches a steady speed.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "For the time interval between t = 10s and t = 20s, calculate the distance that the sky-diver falls. distance =",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "The mass of the sky-diver is 60 kg. For the time interval between t = 20s and t = 25 s, calculate the average deceleration of the sky-diver, average deceleration =",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "calculate the average resultant force acting on the sky-diver, force =",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "state how your graph in Fig. 9.2 may be used to obtain the distance that the sky-diver falls.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q10",
+    "Question_text": "Describe an experiment to measure the critical angle for light in glass or perspex. Your answer should include a labelled diagram. Fig. 10.1 represents a simple camera.",
+    "image": "Fig. 10.1 is a ray diagram illustrating a simple camera. It shows an object (arrow pointing up) in front of a thin converging lens. The light rays pass through the lens and form an inverted image on the film plane inside the camera. The distance from the center of the lens to the film is shown.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Linear Magnification",
+      "Ray Diagrams",
+      "Refraction of Light",
+      "Snell's Law",
+      "Thin Lenses",
+      "Total Internal Reflection",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe an experiment to measure the critical angle for light in glass or perspex. Your answer should include a labelled diagram.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the type of lens used in this simple camera.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Draw two rays from the top of the object to show how the image is formed on the film. Mark and label the image on the film.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Define the term linear magnification.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Fig. 10.1 is drawn to scale. Determine the linear magnification of the object shown in Fig. 10.1. magnification =",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "Apart from its size, state one other property of the image formed by the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(vi)",
+        "part_text": "Explain why, when taking photographs of other objects, it may be necessary to move the lens towards the film.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q11",
+    "Question_text": "In an experiment to measure the specific heat capacity of water, an electric heater heats water in a glass beaker. The temperature of the water is measured at regular intervals of time. Fig. 11.1 shows how the temperature varies with time t.",
+    "image": "Fig. 11.1 is a temperature-time graph. The y-axis shows temperature in °C (from 20 to 100) and the x-axis shows time in s (from 0 to 300). The graph shows temperature increasing over time, starting around 20°C at t=0 and reaching around 95°C at t=200s, and then flattening out slightly as it approaches boiling point.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Melting, Boiling & Evaporation",
+      "Specific Heat Capacity",
+      "Temperature & Pressure",
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Use Fig. 11.1 to determine the change in temperature between t = 0 and t = 100s, change = t = 100s and t = 200 s. change =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State and explain why the values in (i) are different.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe and explain what happens to the water if the heating is continued.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The experiment in (a) is repeated using 72g of water. The heater supplies 7400J of thermal energy (heat) to the water and the temperature rise of the water is 23°C. Calculate the specific heat capacity of water. specific heat capacity =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A bullet of mass 72 g is fired from a gun at a speed of 450m/s. Calculate the kinetic energy of the bullet. energy =",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The amount of internal energy gained by the water and the amount of kinetic energy gained by the bullet are approximately equal. Describe the change in the motion of the molecules of the water and of the molecules of the bullet that this addition of energy has caused. water: bullet:",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A thermocouple is used in the experiment in (a). In the space below, draw a labelled diagram of a thermocouple thermometer. Show clearly the part of the thermocouple that is placed in the water in this experiment.",
+        "image": null
+      }
+    ]
+  }
+]

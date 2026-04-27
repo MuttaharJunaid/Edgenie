@@ -1,0 +1,354 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Each week Leah works 5 days and is paid a total of $682. Each day she works from 0845 until 1215 and then from 13 15 until 1730. Calculate Leah's hourly rate of pay.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Apply other rates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Carlos buys a new bicycle. After one year he sells it for $231. He makes a loss of 16% on the price he paid. Calculate the price Carlos paid for the bicycle.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate reverse percentages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "The exchange rate between dollars ($) and euros (€) is $1 = €0.44 . Henry changes $850 to euros for his holiday. He spends €260 when he is on holiday. He changes the rest of the money back to dollars at the same exchange rate. Calculate how much money in dollars he receives. Give your answer correct to the nearest dollar.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Convert currencies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Anya has $3000 to invest in a savings account for 3 years. She can choose from these two accounts. Account A Year 1 1.1% interest Year 2 1.2% interest added to end of Year 1 total Year 3 1.4% interest added to end of Year 2 total Account B Fixed rate of compound interest 1.3% per year She chooses the account that will give her more money at the end of the 3 years. Decide which account she chooses and find the amount she will have in her account at the end of 3 years.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate compound interest"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Jenny recorded the time, in minutes, of 40 movies. The table summarises her results. Time (t minutes) 60<t≤80 80<t≤100 100<t≤120 120<t≤140 140 <t≤ 160 Frequency 2 7 15 11 5 On the grid, draw a frequency polygon to represent this information.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret simple frequency distributions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Jenny asked 60 people how many movies they had each watched in the last month. The table summarises her results. Number of movies 0 1 2 3 4 5 6 Frequency p 14 15 7 q 5 2 The mean number of movies watched is 2.3. Find the value of p and the value of q.",
+    "image": null,
+    "Unit": "UNIT 9: Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c",
+    "Question_text": "Jenny also asked which type of movie each of the 60 people preferred. The table summarises her results. Type of movie Action Comedy Drama Horror Frequency 24 15 9 12 (i) Complete the pie chart to represent the results. (ii) One of the 60 people is chosen at random. Find the probability that this person preferred drama or horror movies. (iii) Two of the 60 people are chosen at random. Calculate the probability that they both preferred comedy movies.",
+    "image": null,
+    "Unit": "UNIT 8: Probability",
+    "Topic": "8.1 Introduction to probability",
+    "Sub_topic": [
+      "Calculate probability of single event"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "Solve 3(x + 10) = 12 - 7x.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b",
+    "Question_text": "Solve the simultaneous equations. Show your working. 4x - 3y = 28 6x + y = 9",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "Simplify v² - 8v / 2v² - 13 - 24",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.3 Algebraic fractions",
+    "Sub_topic": [
+      "Factorise and simplify rational expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "& = {x :x is an integer 1 ≤x≤18} A = {x : x is a prime number} B = {1, 2, 3, 4, 6, 9, 12, 18} (i) Complete the Venn diagram to illustrate this information. (ii) Complete the description of the set B. (iii) Find n(AUB). (iv) List the elements of A'∩B.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Use Venn diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b",
+    "Question_text": "Find the lowest common multiple (LCM) of 140 and 770.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify common multiples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c",
+    "Question_text": "A rectangular field measures 450m by 306 m. The whole field is divided into identical square plots with no land remaining. Find the largest possible side length for the squares.",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify common factors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "OAB is a sector of a circle, centre O, radius 11 cm. AOB = 134°. (i) Calculate the length of the arc AB. (ii) Calculate the shortest distance from O to the line AB.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.3 Circles, arcs and sectors",
+    "Sub_topic": [
+      "Carry out calculations involving arc length and sector area as fractions of circumference and area of circle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b",
+    "Question_text": "[Volume of a cone = 1/3 πr²h] [Curved surface area of a cone = πrl] A cone has height 9.5 cm and volume 115cm³. (i) Show that the radius of the base of the cone is 3.4cm, correct to 1 decimal place. (ii) Calculate the curved surface area of the cone.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "Complete the table for y= x²/2 -3x+2. X -1 0 1 2 3 4 5 6 7 y 2 -0.5 -2 -2.5 -2 -0.5 2",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Draw the graph of y = x²/2 - 3x+2 for −1 ≤ x ≤ 7.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c",
+    "Question_text": "By drawing a tangent, estimate the gradient of the curve at x = 1.5.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Estimate gradients of curves by drawing tangents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6d",
+    "Question_text": "Complete these inequalities to describe the range of values of x where y ≥ 0.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6e",
+    "Question_text": "(i) On the same grid, draw the line 4y + 3x = 12 . (ii) The x-coordinates of the points of intersection of this line and the curve are the solutions of the equation 2x² + Ax + B = 0 . Find the value of A and the value of B.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Solve associated equations graphically, including finding and interpreting roots by graphical methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "A yacht sails the triangular route shown. The bearing of B from A is 135°. BC = 3.7km, AC = 2.8km and ABC = 42°. (a) Show that CÂB = 62.2°, correct to 1 decimal place.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Find the bearing of A from C.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7c",
+    "Question_text": "The yacht sails from A to B to C to A. Calculate the total length of the route.",
+    "image": null,
+    "Unit": "UNIT 6: Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "OYC is a triangle. A is a point on OY and B is a point on CY. AB is parallel to OC. AC and OB intersect at X. Prove that triangle ABX is similar to triangle COX. Give a reason for each statement you make.",
+    "image": null,
+    "Unit": "UNIT 4: Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "OA = 3a and OC = 6c and CB : BY = 1 : 2 . Find, as simply as possible, in terms of a and/or c (i) AB, (ii) CỶ. (c) Find, in its simplest form, the ratio (i) OX: XB, (ii) area of triangle COX : area of triangle ABX, (iii) area of triangle AYB : area of trapezium OABC.",
+    "image": null,
+    "Unit": "UNIT 7: Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "On Monday, Ravi goes on a 20km run. (i) His average speed for the first 12km is x km/h. Write down an expression, in terms of x, for the time taken for the first 12km. Give your answer in minutes. (ii) His average speed for the final 8 km of the run is 1.5km/h slower than for the first 12km. Write an expression, in terms of x, for the time taken for the final 8 km of the run. Give your answer in minutes. (iii) Ravi takes 110 minutes to complete the full 20km. Form an equation in x and show that it simplifies to 22x² - 273x + 216 = 0 .",
+    "image": null,
+    "Unit": "UNIT 1: Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "Solve the equation 22x² - 273x + 216 = 0 . Show your working and give each answer correct to 2 decimal places. On Friday, Ravi ran the whole 20km at the same average speed that he ran the final 8km on Monday. Calculate the time Ravi took to run 20km on Friday. Give your answer in hours and minutes, correct to the nearest minute.",
+    "image": null,
+    "Unit": "UNIT 2: Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10a",
+    "Question_text": "A is the point (−4, −1), B is the point (2, 2) and BC = 4 / -8 (a) Find the coordinates of the midpoint of AB. (b) Find the gradient of AB. (c) Show that BC is perpendicular to AB. (d) ABCD is a rectangle. Find the coordinates of point D.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10b",
+    "Question_text": "A is the point (−4, −1), B is the point (2, 2) and BC = 4 / -8 (a) Find the coordinates of the midpoint of AB. (b) Find the gradient of AB. (c) Show that BC is perpendicular to AB. (d) ABCD is a rectangle. Find the coordinates of point D.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.3 Gradient of linear graphs",
+    "Sub_topic": [
+      "Find the gradient of a straight line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10c",
+    "Question_text": "A is the point (−4, −1), B is the point (2, 2) and BC = 4 / -8 (a) Find the coordinates of the midpoint of AB. (b) Find the gradient of AB. (c) Show that BC is perpendicular to AB. (d) ABCD is a rectangle. Find the coordinates of point D.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.7 Perpendicular lines",
+    "Sub_topic": [
+      "Find the gradient and equation of a straight line perpendicular to a given line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10d",
+    "Question_text": "A is the point (−4, −1), B is the point (2, 2) and BC = 4 / -8 (a) Find the coordinates of the midpoint of AB. (b) Find the gradient of AB. (c) Show that BC is perpendicular to AB. (d) ABCD is a rectangle. Find the coordinates of point D.",
+    "image": null,
+    "Unit": "UNIT 3: Coordinate geometry",
+    "Topic": "3.1 Coordinates",
+    "Sub_topic": [
+      "Use and interpret Cartesian coordinates in two dimensions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10e",
+    "Question_text": "Calculate the perimeter of rectangle ABCD.",
+    "image": null,
+    "Unit": "UNIT 5: Mensuration",
+    "Topic": "5.2 Area and perimeter",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": []
+  }
+]

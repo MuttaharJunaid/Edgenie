@@ -1,0 +1,482 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2013/Q1",
+    "Question_text": "Forces of 3 N and 4 N act as shown in the diagram. Which diagram shows the resultant R of these two forces?",
+    "image": "An initial diagram shows a force vector of 3N pointing vertically upwards from an origin, and a force vector of 4N pointing horizontally to the right from the same origin. Below this, four multiple-choice diagrams (A, B, C, D) are presented. Each option diagram shows the initial 3N upwards and 4N rightward force vectors. In each option, an additional vector R is drawn, representing a possible resultant. The correct diagram for the resultant R would show it originating from the common tail of the 3N and 4N vectors and extending to the head of the final vector when they are arranged head-to-tail, or as the diagonal of the parallelogram formed by the two vectors, pointing into the first quadrant.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q2",
+    "Question_text": "A micrometer is used to measure the diameter of a uniform wire. What is done to obtain an accurate answer?",
+    "image": "A detailed diagram of a micrometer screw gauge is shown. It measures the diameter of a thin wire placed between its anvil and spindle. Key parts labeled are 'wire', 'screw', 'rotating scale', and 'fixed scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q3",
+    "Question_text": "The speed-time graph for a falling skydiver is shown below. As he falls, the skydiver spreads out his arms and legs and then opens his parachute. Which part of the graph shows the skydiver falling with terminal velocity?",
+    "image": "A speed-time graph is displayed with 'speed' on the y-axis and 'time' on the x-axis. The graph starts at the origin (0,0) and shows four distinct parts labeled A, B, C, and D. Part A is an initial upward curve, showing increasing speed. Part B is a less steep upward curve, showing speed approaching a maximum. Part C is a sharp, almost vertical, drop in speed. Part D is a horizontal line segment, indicating constant speed at a lower value than the peak of B.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q4",
+    "Question_text": "A particle P is moving in a horizontal circle about O. P moves at constant speed. Which statement is true?",
+    "image": "A diagram shows a particle P moving in a horizontal circle around a central point O. An arrow from O to P indicates the radius. Another arrow tangent to the circle at P indicates the 'direction of motion'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q5",
+    "Question_text": "A body slides down a frictionless slope as shown. As the body presses on the surface, the surface pushes back on the body. The force of the surface on the body is sometimes called the reaction force. In which direction does the reaction force act?",
+    "image": "A rectangular block is shown resting on a frictionless slope, which is inclined downwards from left to right. The block has an arrow labeled 'direction of motion' pointing down the slope. Four additional arrows (A, B, C, D) originate from the center of the block, indicating possible directions for the reaction force.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q6",
+    "Question_text": "Paper is sold in packets labelled 80g/m². This means that a sheet of paper of area 10000 cm² has a mass of 80 g. The thickness of each sheet is 0.11 mm. What is the density of the paper?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q7",
+    "Question_text": "Which chair is the least stable if the child moves?",
+    "image": "Four diagrams (A, B, C, D) each show a child sitting on a chair. The chairs vary in the width of their base and the height at which the child is seated, influencing the stability. Diagram A shows a wide-based chair with the child sitting relatively low. Diagram B shows a wide-based chair with the child sitting relatively high. Diagram C shows a narrow-based chair with the child sitting relatively low. Diagram D shows a narrow-based chair with the child sitting relatively high.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q8",
+    "Question_text": "A brick of weight 80N stands upright on the ground as shown. What is the pressure it exerts on the ground?",
+    "image": "A rectangular brick is shown standing upright on a surface labeled 'ground'. Dimensions are given: the width of the base is 5 cm, the length of the base is 10 cm, and the height of the brick is 20 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q9",
+    "Question_text": "An airtight container holds a fixed mass of gas. Its pressure and volume are measured on four occasions when the temperature is 20°C. The results are shown in the table. Three sets of readings are correct. Which set of readings is not correct?",
+    "image": "A table with two columns, 'pressure/kPa' and 'volume/cm³', and four rows labeled A, B, C, D. The values are: A (120, 36), B (100, 48), C (80, 60), D (60, 80).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q10",
+    "Question_text": "Energy is released in some power stations and in the Sun by either nuclear fission or nuclear fusion. Which type of nuclear reaction applies in each case?",
+    "image": "A table with two columns, 'power station' and 'Sun', and four rows labeled A, B, C, D. The values for each row indicate 'fission' or 'fusion'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q11",
+    "Question_text": "The diagram shows a girl lifting a box of weight 50 N from a low shelf to a high shelf. How much work is done on the box?",
+    "image": "A diagram shows a girl lifting a box. The box starts on a 'low shelf' and is lifted to a 'high shelf'. The height of the low shelf is 0.6 m from the ground, and the height of the high shelf is 1.8 m from the ground. The weight of the box is indicated as 50 N.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q12",
+    "Question_text": "The diagram shows the energy transfer through a machine. The machine is 50% efficient. Which equation is correct?",
+    "image": "A block diagram illustrates energy transfer through a 'machine'. An arrow labeled 'input energy' points towards the machine. Two arrows point away from the machine: one labeled 'useful output energy' and another labeled 'wasted energy'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q13",
+    "Question_text": "A glass beaker contains water. When the centre of the base of the beaker is heated, a convection current is set up. Which statement explains this?",
+    "image": "A diagram shows a 'glass beaker' containing 'water'. A heat source is applied to the center of the base. Arrows inside the water illustrate a 'convection current': water directly above the heat source rises, moves towards the sides, then sinks, and moves back towards the center of the base.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q14",
+    "Question_text": "Two identical metal plates are painted, one matt (dull) white and the other matt black. These are placed at equal distances from a radiant heater as shown. The heater is turned on for five minutes. Which metal plate absorbs more energy and which plate emits more energy in this time?",
+    "image": "A diagram shows a 'radiant heater' positioned between two vertical metal plates. On the left is a 'matt white metal plate', and on the right is a 'matt black metal plate'. Both plates are at an equal distance from the radiant heater.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q15",
+    "Question_text": "Using an electric kettle, 200 g of water at 100 °C is converted into steam at 100°C in 300 seconds. The specific latent heat of steam is 2250 J/g. What is the average electrical power used?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q16",
+    "Question_text": "When a gas in a container of fixed volume is heated, the pressure of the gas increases. Which statement explains this?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q17",
+    "Question_text": "A ripple tank is used to show wave behaviour. The dipper vibrates up and down at a constant frequency. What happens to the frequency and to the speed of the wave as it reaches the glass block?",
+    "image": "A diagram of a ripple tank is shown. A 'vibrating dipper' is creating waves in 'water'. The waves propagate from left to right. A 'glass block' is submerged in the 'water tank', disrupting the wave pattern. The waves are shown with a shorter wavelength over the glass block.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Ripple Tank",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q18",
+    "Question_text": "A wave has a frequency of 10 kHz. Which pair of values of its speed and wavelength is possible?",
+    "image": "A table with two columns, 'speed m/s' and 'wavelength m', and four rows labeled A, B, C, D. The values are: A (330, 0.33), B (330, 33), C (3.0 x 10⁸, 30), D (3.0 x 10⁸, 3.0 x 10⁴).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q19",
+    "Question_text": "Which characteristics describe an image formed by a vertical plane mirror?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q20",
+    "Question_text": "A ray of light meets the face of a glass block at an angle of 30° as shown. The refractive index of the glass is 1.5. What is the angle of refraction r inside the glass block?",
+    "image": "A diagram shows a ray of light incident on a 'glass block'. The ray enters from the air. The angle between the incident ray and the normal (not explicitly drawn, but inferred from the angle given) is shown as 30°. Inside the glass block, the refracted ray is shown, and the angle of refraction 'r' (between the refracted ray and the normal) is labeled.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q21",
+    "Question_text": "The diagram shows a thin converging lens of focal length f. Where must an object be placed to produce a real image in the position shown?",
+    "image": "A horizontal optical axis is shown with a converging lens at the center. The focal points are marked as 'f' on both sides of the lens. On the right side of the lens, an inverted 'image' is shown beyond 2f. On the left side of the lens, four possible object positions are marked: A, B, C, D. Position C is at f, and A is at 2f. B is between f and 2f, and D is between the lens and f.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q22",
+    "Question_text": "Which wave property has the same value for all X-rays travelling in air?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q23",
+    "Question_text": "Which range is the approximate range of audible frequencies for a human?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q24",
+    "Question_text": "Which row correctly compares the speeds of sound in air, liquid and solid?",
+    "image": "A table with two columns, 'highest' and 'lowest', and four rows labeled A, B, C, D. The values for each row indicate 'air', 'liquid', or 'solid'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q25",
+    "Question_text": "A guitar string is made to vibrate. What makes the pitch of the note rise?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q26",
+    "Question_text": "A teacher sticks a magnet to the top surface of a match-box cover. The bottom surface is placed in a small tray of iron paperclips. As the match-box cover is lifted up, a large number of paperclips are held on the bottom surface. Sheets of metal are placed inside the match-box cover, between the magnet and the paperclips. When sheet X is placed inside, the paperclips stay attached. When sheet Y is placed inside, all the paperclips fall off. Which metals are the sheets made from?",
+    "image": "Two diagrams illustrate a magnet-paperclip setup. The first diagram shows a 'magnet' attached to a 'match-box cover' with 'paperclips' clinging to the bottom. The second diagram shows a 'metal sheet' inserted between the magnet and the paperclips, inside the match-box cover.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q27",
+    "Question_text": "The diagrams show a small compass close to a strong bar magnet. Which diagram shows the correct compass direction?",
+    "image": "Four diagrams (A, B, C, D) each show a horizontal bar magnet with its North (N) pole on the left and South (S) pole on the right. A small circular compass is positioned near one of the poles in each diagram. The compass needle is represented by an arrow, with one end labeled 'S' (conventionally representing the North-seeking pole of the compass, pointing towards the magnetic South). The orientation of the compass needle varies in each option, indicating different directions relative to the bar magnet's poles.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q28",
+    "Question_text": "A positively-charged rod is held close to, but not touching, an isolated metal sphere. Which diagram shows the charges that are induced on the sphere?",
+    "image": "An initial diagram shows a positively-charged rod held near an isolated uncharged metal sphere. The rod has multiple '+' signs. Below this, four diagrams (A, B, C, D) show different distributions of charges (positive and/or negative) on the metal sphere, representing induced charges.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q29",
+    "Question_text": "A lightning flash carries 40 C of charge and lasts for 5.0 ms. What is the average current in the flash?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q30",
+    "Question_text": "Which of the following is equivalent to 1 V?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Work",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q31",
+    "Question_text": "The electrical resistance of a metal wire varies with temperature as shown. The resistance of the wire at 0°C is 1.00Ω and at 100°C is 1.40Ω. What is the resistance of the wire at 200°C?",
+    "image": "A graph plots 'R/Ω' (resistance) on the y-axis against 'T/°C' (temperature) on the x-axis. The graph shows a straight line increasing from the origin (0,0). The x-axis is marked at 0 and 200.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q32",
+    "Question_text": "A cell is connected in series with an ammeter and a lamp. The reading on the ammeter is 1A. In which circuit, using identical lamps, ammeters and cells, is the reading on the ammeter 2A?",
+    "image": "An initial circuit diagram shows a single cell, an ammeter labeled 'A', and a lamp (represented by a circle with an 'X' inside) connected in series. Below this, four multiple-choice circuit diagrams (A, B, C, D) are presented, each showing different arrangements of identical cells, ammeters, and lamps.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Combined Resistance",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q33",
+    "Question_text": "The diagram represents part of a household circuit containing an electric kettle. Which row correctly identifies the wires W, X and Y?",
+    "image": "A diagram shows a cross-section of an electric kettle, specifically its heating 'element' and 'metal case'. Three wires, labeled W, X, and Y, are shown connected to different parts of the kettle, implying their roles in the household circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q34",
+    "Question_text": "A wire hangs between the poles of a magnet. When there is a current in the wire, in which direction does the wire move?",
+    "image": "A diagram shows a straight wire positioned horizontally between the North (N) and South (S) poles of a magnet. The North pole is above the wire, and the South pole is below it. An arrow indicates the 'current in wire' flowing from left to right. Four arrows (A, B, C, D) are shown originating from the wire, representing possible directions of movement.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q35",
+    "Question_text": "The diagram shows a simple d.c. motor. Which labelled part is the commutator?",
+    "image": "A diagram illustrates a simple d.c. motor with its key components. A rectangular coil is shown rotating between two poles of a magnet. Labels A, B, C, and D point to different parts: A points to one of the carbon brushes, B points to one side of the coil, C points to the split-ring component, and D points to the other carbon brush.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q36",
+    "Question_text": "Two leads emerging from a box are connected to a sensitive ammeter. When a bar magnet moves towards the open end of the box, the needle of the ammeter deflects to the right. When the bar magnet stops, the needle returns to zero. What is inside the box?",
+    "image": "A diagram shows a rectangular 'box' with two wires ('leads') emerging from it and connected to a 'sensitive ammeter'. A 'bar magnet' is shown approaching the open end of the box.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q37",
+    "Question_text": "What is used in a cathode-ray oscilloscope to cause the vertical movement of the trace?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q38",
+    "Question_text": "Which component stores energy in a time-delay circuit?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q39",
+    "Question_text": "A school keeps radioactive sources for use in radioactivity experiments in a laboratory. The background radiation is measured at the start of an experiment. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Background Radiation",
+      "Detection of Radioactivity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2013/Q40",
+    "Question_text": "Which nuclides have the same number of neutrons in a nucleus?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  }
+]

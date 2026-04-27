@@ -1,0 +1,426 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which task would be carried out by a book-keeper?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "What is the accounting equation?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning",
+      "Apply accounting equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Sarah sold goods on credit to Zafar. How was this recorded in Sarah's ledgers?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Outline double entry",
+      "Process data double entry",
+      "Prepare ledger accounts",
+      "Post transactions ledgers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Omar sent a credit note to Miriam for goods returned. How would Miriam record this transaction?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.2 Business documents",
+    "Sub_topic": [
+      "Recognise business documents",
+      "Complete pro-forma documents",
+      "Documents as information sources"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "The discount column on the debit side of a trader's cash book totalled $1300 and the discount column on the credit side totalled $700. How much discount did the trader receive?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Advantages of prime entry",
+      "Use/process prime entry books",
+      "Post from prime entry",
+      "Trade/cash discount accounting",
+      "Cash book dual function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Kai bought office equipment from Meena and paid immediately by bank transfer. How should Kai record this in his accounting records?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Outline double entry",
+      "Process data double entry",
+      "Prepare ledger accounts",
+      "Post transactions ledgers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Jabari maintains a petty cash book using the imprest system. The imprest is restored at the end of each month. Which amount restores the imprest at the end of a month?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Imprest petty cash"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which statement about a trial balance is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Trial balance statement",
+      "Uses/limitations trial balance",
+      "Prepare/amend trial balance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "What is an example of a compensating error?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Errors not affecting balance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "After the preparation of Abdul's draft financial statements, two errors were discovered. The purchase of a machine by bank transfer, $5000, was omitted from the accounts. The purchase of a motor vehicle, $15000, was entered in the motor vehicle repair account. What effect will correcting these errors have on the non-current assets and the working capital?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via journal entries",
+      "Suspense account usage",
+      "Correct via suspense",
+      "Adjust profit/loss errors",
+      "Effect on financial position"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Raj had a debit balance of $10800 in the bank column of his cash book. He discovered that purchases, $890, paid by cheque, had been recorded as $980. The following appeared in the bank statement but had not been entered in the cash book. What was the debit balance in the bank column of Raj's cash book after adjusting for these items?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Bank statement purpose",
+      "Update cash book items",
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Why is a sales ledger control account usually prepared by a different member of staff than the person who maintains the sales ledger?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Purposes of control accounts",
+      "Sources for control entries",
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Tamal provided the following information for March, his first month of trading. During the month, Tamal overpaid a supplier by $94. He did not make any further purchases from this supplier in March. What were the balances on Tamal's purchases ledger control account on 1 April?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Purposes of control accounts",
+      "Sources for control entries",
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "The following payments were made by John when he purchased a machine. How much should have been debited to the machinery account?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Distinguish capital/revenue expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "On 1 January, Zac entered the cost of repairing equipment, $420, in the equipment account. On 31 December, depreciation of 20% per annum, using the straight-line method, was charged on the balance of the equipment account. What was the overall effect on the book value of the equipment on 31 December?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Define depreciation",
+      "Reasons for depreciation",
+      "Depreciation methods description",
+      "Ledger/journal for depreciation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Atif depreciates his motor vehicles at a rate of 20% per annum using the reducing balance method. On 1 May 2021, Atif owned motor vehicles which cost $35000. At that date, the motor vehicles had been depreciated by $12600. What was the balance on Atif's provision for depreciation account on 1 May 2022?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Define depreciation",
+      "Reasons for depreciation",
+      "Depreciation methods description",
+      "Ledger/journal for depreciation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "The financial year of Yeung ends on 31 March. On 1 April 2021, he purchased a machine for $4000. He estimated that it would have a useful working life of 3 years and a residual value of $100. Yeung uses the straight-line method of depreciation. The machine was sold on 1 April 2022 for $1500. What was the loss on disposal?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Ledger/journal for disposals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "On 1 April 2021, commission receivable, $210, was outstanding. Commission received during the year ended 31 March 2022 amounted to $4850. Which journal entry should have been made at the end of the financial year on 31 March 2022?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid expenses",
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Which statement about a debts recovered account is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record debt recovery"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Nula's financial year ends on 31 December. She maintains a provision for doubtful debts of 5% of trade receivables. On 1 January 2021, the provision amounted to $800. On 31 December 2021, trade receivables owed $13400, of which $600 was regarded as irrecoverable. How much was the provision for doubtful debts on 1 January 2022?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record/adjust doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "When preparing his financial statements, a trader valued his inventory at cost. He then found that 10 units of inventory, costing $12 per unit, were damaged. If he spent $2 per unit on repairs, he could sell them for $9 each. What was the effect on the income statement of the incorrect inventory valuation?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Inventory valuation basis",
+      "Prepare inventory statements",
+      "Importance of inventory valuation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "At the end of his financial year, Marek was owed $200 for interest on a loan he had made to an employee. He recorded this in his financial statements. How did the interest on this loan affect Marek's profit for the year and where was it recorded in his statement of financial position?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Matching costs/revenues importance",
+      "Record accrued/prepaid incomes",
+      "Record accrued/prepaid expenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "What is the purpose of preparing a partnership appropriation account?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Appropriation account purpose"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Raj and Seema are in partnership sharing profits and losses 2:1. Raj withdrew $5000 during the year and was charged interest at 3%. Seema did not make any withdrawals during the year. The profit for the year was $30000. How much was credited to Raj's current account at the end of the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Prepare statements/appropriation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "A limited company raised funds from an issue of debentures. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Capital structure understanding",
+      "Share/loan capital distinction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "A limited company provided the following information. What was the profit for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Prepare company statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which group contains only items included in the prime cost of a manufacturer?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Direct/indirect costs distinction",
+      "Direct costs understanding"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "The work in progress of ZT Manufacturers on 1 January was valued at $6200. At the end of the year it was valued at $5400. What was the effect on the cost of production for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Work in progress adjustments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "A trader does not keep full accounting records but was able to provide the following information. What was the profit for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate profit/loss capital change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "A business provided the following information. What were the purchases for the year?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate missing figures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "Jerry started his business on 1 January 2022 with no opening inventory. On 19 April 2022, a fire destroyed all his inventory. Jerry provided the following information for the period 1 January 2022 to 19 April 2022. What was the value of inventory destroyed on 19 April 2022?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Calculate missing figures",
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "A trader provided the following information. What was the return on capital employed?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "Which actions could a clothing retailer take to improve his rate of inventory turnover?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.2 Interpretation of accounting ratios",
+    "Sub_topic": [
+      "Relationship to inventory/turnover"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "A trader is considering selling goods on credit to a new customer. What could be calculated from the customer's financial statements to indicate the time normally taken to pay for goods purchased on credit?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "Which accounting policy requires that the information in financial statements is free from significant errors and bias?",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

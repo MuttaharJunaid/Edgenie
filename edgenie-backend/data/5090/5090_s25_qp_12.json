@@ -1,0 +1,455 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "A student observes a human egg cell through a light microscope. The cell is 0.12mm in diameter. The student draws a diagram of this egg cell. The diagram has a diameter of 4.2 cm. What is the magnification of the drawing to the nearest whole number?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.1 Cell structure and function",
+    "Sub_topic": [
+      "Magnification formula"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Which row correctly identifies a cell, a tissue, an organ and an organ system?",
+    "image": null,
+    "Unit": "UNIT 1: Cells",
+    "Topic": "1.2 Specialised cells, tissues and organs",
+    "Sub_topic": [
+      "Levels of organisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "The diagram shows a species of arthropod. Which group of arthropods does this species belong to?",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.2 Features of organisms",
+    "Sub_topic": [
+      "Features of animal groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "Which combination of factors will result in the fastest rate of diffusion across a membrane?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Factors influencing diffusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A leaf is taken from some pondweed (Elodea) and placed on a microscope slide. A drop of sodium chloride solution is added. The cells of the leaf are then viewed through a light microscope. Which statement describes the cells viewed through the microscope?",
+    "image": null,
+    "Unit": "UNIT 3: Movement into and out of cells",
+    "Topic": "3.1 Diffusion and osmosis",
+    "Sub_topic": [
+      "Osmosis definition",
+      "Osmosis effects on tissues",
+      "Effects on plant tissues"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "What is an example of a biological catalyst?",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Catalyst definition",
+      "Enzymes as catalysts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "What will be the result if the active site of an enzyme is damaged?",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Enzyme specificity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The graph shows the rate of activity of enzyme X at different pH values. All other conditions are kept constant. Using the data shown in the graph, which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.2 Effects of temperature and pH",
+    "Sub_topic": [
+      "Explain temperature/pH effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Students investigated the rate of photosynthesis at different light intensities. They counted the number of oxygen bubbles released per minute by a submerged aquatic plant placed at different distances from a light source. Which results would be expected from this investigation?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Factors affecting rate",
+      "Investigate rate effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "What is the balanced equation for photosynthesis?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Glucose produced by photosynthesis can be converted into other carbohydrates or used immediately as glucose. What is an immediate use of glucose in plants?",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Uses of carbohydrates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "Which enzyme catalyses the breakdown of its substrate at an optimum rate in a low pH?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Enzyme functions products",
+      "Proteases pH levels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "The diagram shows the human digestive system. Which row shows the functions for the parts labelled in the diagram?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Functions of digestive regions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Which substances are involved in the emulsification and digestion of vegetable oil in the digestive system?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Bile emulsifying fats"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "What is not an example of the assimilation of absorbed food molecules?",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.3 Absorption and assimilation",
+    "Sub_topic": [
+      "Assimilation definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "What is a feature of anaerobic respiration in humans?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.3 Anaerobic respiration",
+    "Sub_topic": [
+      "Anaerobic equation humans"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Yeast can respire aerobically or anaerobically. A student investigates the rate of aerobic respiration in yeast. The temperature is maintained at 35 °C and the oxygen concentration is varied. Which graph would the student draw from their results?",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.2 Aerobic respiration",
+    "Sub_topic": [
+      "Aerobic respiration definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Mammals have a double circulatory system. What is meant by a double circulatory system?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.1 Circulatory system",
+    "Sub_topic": [
+      "Double circulation description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Pulmonary stenosis is a condition caused by the narrowing of the entrance to the blood vessel leaving the right ventricle. Where in the body will blood flow be reduced first as a result of pulmonary stenosis?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.2 Heart",
+    "Sub_topic": [
+      "Heart structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "In one beat of the heart, the muscles in the atria and ventricles contract and relax, pushing blood out of the heart and into the circulatory system. The diagram shows how long it takes for a heart to beat twice. What is the heartbeat rate?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.2 Heart",
+    "Sub_topic": [
+      "Heart functioning heartbeat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "The photomicrograph shows a sample of blood viewed through a light microscope. Which row shows the functions of the labelled parts of the blood?",
+    "image": null,
+    "Unit": "UNIT 11: Transport in humans",
+    "Topic": "11.4 Blood",
+    "Sub_topic": [
+      "Blood cells identification",
+      "Blood component functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "Which row shows the type of pathogen that causes malaria and its method of transmission?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Mosquito as vector",
+      "Malarial parasite transmission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "A disease is caused by a bacterium that infects the small intestine, producing a toxin. The toxin causes osmotic movement of water from the cells into the small intestine, producing diarrhoea and extreme dehydration. Which disease is being described?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Cholera bacterium disease",
+      "Cholera toxin effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "Which statements about immunity are correct?",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.3 Immunity",
+    "Sub_topic": [
+      "Pathogen antigens",
+      "Antibodies function",
+      "Antibody antigen shapes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "Which letter shows where urea is produced?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.1 Excretion",
+    "Sub_topic": [
+      "Urea production"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Which substance would not be present in the urine of a healthy person with a normal diet?",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Need for excretion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "Which part of the eye contains the greatest density of light receptors?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Eye structures"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "The diagrams show the front of an eye as seen in cross-section from above. Which diagram shows the eye observing an object in the distance in dim light?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Accommodation explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Different studies have shown that the movement of electrical nerve impulses travelling along neurones slows down with age. Studies A, B, C and D have published different results. The average speed of a nerve impulse in people who are 40 years old is 55 m/s. Which study showed the least reduction in transmission speed between the ages of 40 and 60?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "Impulses along neurones"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "The graph shows the concentration of glycogen stored in the liver of a human. During which period of time is the secretion of adrenaline causing the blood glucose concentration to move towards its set point?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.6 Blood glucose control",
+    "Sub_topic": [
+      "Adrenaline role"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "31",
+    "Question_text": "The diagram shows one of the endocrine glands in the human body, labelled X. Which hormone is produced by endocrine gland X?",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.3 Mammalian hormones",
+    "Sub_topic": [
+      "Endocrine glands hormones",
+      "Adrenaline role"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "32",
+    "Question_text": "A muscle cell from a horse contains 64 chromosomes. How many chromosomes are there in a sperm cell from a horse?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Haploid nucleus",
+      "Diploid nucleus",
+      "Chromosome pairs in humans"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "33",
+    "Question_text": "The diagrams show the fruits of some plants. Which fruit uses wind to disperse its seeds?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Dispersal features"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "34",
+    "Question_text": "Sperm cells are stored in a laboratory before they can be used in artificial insemination. Substances added to the sperm cells for storage have been shown to damage the acrosomes. This leads to reduction in fertility. Which statement describes why reduction in fertility may happen?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Sperm structure function"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "35",
+    "Question_text": "The hormones that control the menstrual cycle are released in varying amounts during the cycle. During pregnancy, menstruation is prevented and there are no eggs developed or released. What would be the levels of hormones FSH, LH and progesterone during pregnancy?",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Hormones in menstrual cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "36",
+    "Question_text": "Sickle cell anaemia is caused by a recessive allele. A couple have two children. One of the children has sickle cell anaemia. The parents and the other child do not have sickle cell anaemia. The couple are expecting their third child. What is the probability that this third child will be male with sickle cell anaemia?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Monohybrid crosses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "37",
+    "Question_text": "Each human gamete has one sex chromosome. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Sex determination humans"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "38",
+    "Question_text": "What is a food chain?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Food chain definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "39",
+    "Question_text": "Soil that contains more water allows denitrifying bacteria to grow well. Which effects will be seen on the growth of plants in this soil?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Nitrogen cycle microorganisms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "40",
+    "Question_text": "The statements describe the process of eutrophication which may happen after excess nitrogen fertiliser runs from fields into streams. They are not in the correct order. What is the correct order for these statements?",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Eutrophication process"
+    ],
+    "Parts": []
+  }
+]

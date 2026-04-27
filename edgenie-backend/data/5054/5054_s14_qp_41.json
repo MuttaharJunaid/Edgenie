@@ -1,0 +1,165 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2014/Q1",
+    "Question_text": "A student uses a voltmeter.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Potential Difference in Circuits",
+      "Circuit Diagrams & Circuit Components",
+      "Resistance",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the quantity measured with a voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 1.1 shows an analogue voltmeter. State the reading on the voltmeter.",
+        "image": "Fig. 1.1 shows an analogue voltmeter with a circular scale ranging from 0 to 5 V. Major markings are at 0, 1, 2, 3, 4, 5, with smaller divisions in between. The needle points directly to the 2 V mark. The voltmeter has '+' and an unlabeled terminal."
+      },
+      {
+        "part_label": "c",
+        "part_text": "A school has both digital and analogue voltmeters. Suggest one advantage of using a digital voltmeter rather than an analogue voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student is asked to connect three 2.0V cells in series with a resistor R of resistance 100 Ω. The student sets up the circuit as shown in Fig. 1.2.",
+        "image": "Fig. 1.2 shows a circuit diagram with labeled points A, B, C, D. Three cells are connected in series between points A and D (positive terminal at A, negative at D). A resistor labeled 'R' is connected between points D and C. There are open connections between C and B, and between B and A. This represents a simple series circuit for measuring potential differences."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "State the reading on the voltmeter when it is connected across 1. AD, 2. AB, 3. DC.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "R is replaced by a resistor of resistance 1000 Ω. There is no change in the reading on the voltmeter across DC. Explain this.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2014/Q2",
+    "Question_text": "A student investigates the mixing of water. The student places a beaker A of warm water on a bench. He places a laboratory thermometer in the water, as shown in Fig. 2.1a.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Specific Heat Capacity",
+      "Consequences of Thermal Energy Transfer",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.1b, mark the position of the student's eye when taking the reading.",
+        "image": "Fig. 2.1b shows a beaker labeled 'beaker A' containing water. A laboratory thermometer is shown lifted partly out of the water, with its bulb still submerged but the stem and scale visible above the water level. This setup is for demonstrating the correct eye position for reading a thermometer to avoid parallax error."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain why the student lifts the thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain why the thermometer is not removed from the water to take the reading.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Fig. 2.2 shows the scale on the thermometer. State the temperature shown on the thermometer.",
+        "image": "Fig. 2.2 displays a thermometer scale ranging from -10 °C to 110 °C. Major divisions are marked every 10 °C, and minor divisions represent 2 °C intervals. The liquid column in the thermometer is clearly visible, indicating a reading of 36 °C."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student leaves the water in beaker A until it reaches room temperature of 25 °C. He then takes a large beaker B containing 150 cm³ of hot water at 86 °C, as shown in Fig. 2.3. He transfers 60 cm³ of water from beaker A to beaker B, and measures the new temperature of the water in beaker B. The student repeats this several times to obtain the results shown in Fig. 2.4.",
+        "image": "Fig. 2.3 illustrates two beakers on a bench. Beaker A contains water at room temperature. Beaker B, labeled 'large beaker B', contains hot water and has a thermometer and a stirrer immersed in it. The diagram shows water being poured from beaker A into beaker B."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.4, add the correct headings.",
+        "image": "Fig. 2.4 presents a two-column table with six rows of numerical data. The first column lists values: 0, 60, 120, 180, 240, 300. The second column lists values: 86, 62, 51, 46, 42, 40. The table is missing its column headings, which are required to be added."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 2.5, plot a graph of the student's results with temperature on the y-axis. Start your axes from the values given on Fig. 2.5. Draw the smooth curve of best fit.",
+        "image": "Fig. 2.5 shows an empty grid for plotting a graph. The x-axis starts at '0', and the y-axis starts at '30' above the origin, implying a non-zero starting point for the temperature axis. The grid is ready for plotting experimental data and drawing a smooth curve."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The student repeats the experiment with the same initial conditions. He transfers 40 cm³ of water to beaker B each time. Use Fig. 2.5 to find the temperature when a total of 80 cm³ is transferred.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Explain why beaker B needs to be large.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "Use your graph to explain why it is not possible to continue the experiment to the point when the water in beaker B reaches room temperature of 25 °C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2014/Q3",
+    "Question_text": "A student has five measuring cylinders. Fig. 3.1 gives information about the measuring cylinders.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantities & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student uses a measuring cylinder to measure the volume of a marble of diameter 1.0 cm.",
+        "image": "Fig. 3.1 is a table providing information about five different measuring cylinders, labeled A through E. For each cylinder, the table lists its volume/cm³ (5, 10, 50, 100, 250), smallest division/cm³ (0.1, 0.2, 1, 1, 2), diameter/cm (0.7, 1.3, 2.6, 3.1, 4.2), and height/cm (12, 14, 20, 25, 32)."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Estimate the volume of the marble.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State and explain which measuring cylinder is the best to use.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The student half-fills the measuring cylinder with water. Describe how the measuring cylinder is then used to find the volume of the marble.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Fig. 3.2 shows the water surface in two measuring cylinders. One cylinder is made of glass and the other is made of plastic. Suggest two reasons why plastic measuring cylinders are often preferred to glass ones.",
+        "image": "Fig. 3.2 depicts two measuring cylinders, both partially filled with water and marked with scales from 40 to 50. The left cylinder, labeled 'glass', shows the water surface with a concave meniscus. The right cylinder, labeled 'plastic', shows the water surface with a flat meniscus."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2014/Q4",
+    "Question_text": "A student is given a plano-convex lens. Fig. 4.1 shows the plano-convex lens. It has one curved face and one flat face. The lens is a converging lens. The student predicts that the lens has two different focal lengths, one on each side of the lens. Describe an experiment the student can perform to test this prediction. In your account you should: state any equipment used, draw a labelled diagram of the equipment used, describe how the equipment is used, explain how the student checks his prediction.",
+    "image": "Fig. 4.1 illustrates a plano-convex lens, which is a converging lens. The diagram shows its distinctive shape with one flat surface and one convex (curved outward) surface.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses",
+      "Measurement"
+    ],
+    "Parts": []
+  }
+]

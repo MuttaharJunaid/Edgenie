@@ -1,0 +1,187 @@
+[
+  {
+    "QuestionNumber": "5054/32/M/J/2015/Q1",
+    "Question_text": "In this experiment, you will determine the density of a salt solution. You have been provided with • a 100 cm³ measuring cylinder, • a beaker containing salt solution. You also have access to a top-pan balance. If your measuring cylinder is calibrated in ml, then note that 100ml = 100cm³.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Use the top-pan balance to measure the mass me of the empty measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Pour a large volume of the salt solution into the measuring cylinder and record accurately the volume V of the solution.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Measure the mass m₁ of the measuring cylinder with the solution.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Determine the mass m of the solution in the measuring cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain, with the aid of a diagram, how you ensured that V was measured as accurately as possible. Show the position of your eye when taking the measurement.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the density ρ of the salt solution using ρ = m/V.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Explain an advantage of using a large volume of salt solution in this experiment.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/32/M/J/2015/Q2",
+    "Question_text": "In this experiment, you will investigate a potential divider circuit. You have been provided with an incomplete circuit consisting of • a power supply, • a switch, • a resistor labelled R, • connecting leads. The Supervisor has set up the incomplete circuit shown in Fig. 2.1. You have also been provided with • a 100 Ω resistor, • a 220 Ω resistor, • a voltmeter, • additional connecting leads.",
+    "image": "Fig. 2.1: A circuit diagram showing a power supply connected to a switch, then to a point A. From point A, an empty slot for a resistor (labeled R) leads to point B. From point B, another empty slot (labeled R) leads to point C, which is connected back to the negative terminal of the power supply. A positive terminal of the power supply is shown.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Connect the 100 Ω resistor between points A and B in the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Using two connecting leads, connect the voltmeter between points A and C. Close the switch and measure the potential difference VAC.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Open the switch and disconnect the voltmeter. Connect the voltmeter between points B and C. Close the switch and measure the potential difference VBC. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the ratio F₁ of the potential differences using F₁ = VBC / VAC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Replace the 100Ω resistor with the 220Ω resistor. Repeat (a)(i) and (a)(ii) to obtain new values for VAC and VBC. Calculate a new value F₂ for the ratio of the potential differences.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using ideas about potential dividers, explain why VBC has changed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/32/M/J/2015/Q3",
+    "Question_text": "In this experiment, you will estimate the specific heat capacity of the material from which a stopper (bung) is made. At your workstation you have been provided with • a stopper labelled B, • a card on which is written the mass of a stopper, • a 250 cm³ beaker labelled C, containing water at room temperature, • a 100 cm³ beaker labelled D, • a 100 cm³ measuring cylinder, • a thermometer, • a stirrer.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Temperature & Pressure",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "You are required to determine the volume V of water needed to just cover the stopper B in beaker D. Place stopper B in beaker D. Pour water from beaker C into D until the stopper is just covered. Carefully remove the stopper from D. Using the measuring cylinder, measure the volume V of the water in D.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Pour the water from the measuring cylinder back into D. Assuming that 1.0cm³ (1.0ml) of water has a mass of 1.0g, state the mass mw of the water in D.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Measure the temperature θ₁ of the water in beaker D.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The Supervisor has placed a similar stopper in boiling water for you to use. Take care when handling this stopper, as the initial temperature will be 100°C. Take beaker D to where the stoppers are in boiling water. Using the string, remove a stopper from the boiling water, quickly shake off excess water and place the stopper into beaker D. Allow the string to hang over the side of the beaker. Return to your workstation. Ensure the stopper is completely immersed. You may use the stirrer to change the position of the stopper if necessary. Stir the water and place the thermometer in the water. Record the highest temperature θ₂ reached by the water in beaker D.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Record the mass ms of the stopper, which is given on the card.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The specific heat capacity cs of the material from which the stopper is made is found using cs = (cw mw (θ₂ - θ₁)) / (ms (100 – θ₂)) where the specific heat capacity cw of water is 4.2J/(g°C) and all temperatures are measured in °C. Calculate cs.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/32/M/J/2015/Q4",
+    "Question_text": "In this experiment, you will determine the focal length of a lens. You have been provided with • a converging lens in a holder, • an object consisting of a cross-wire, • a light source to illuminate the object, • a screen, • a metre rule, • a set square. Set up the apparatus as shown in Fig. 4.1. The object is at the 0.0cm mark on the metre rule. Place the lens at the 20.0cm mark on the rule and move the screen until a focused image of the object is formed on the screen.",
+    "image": "Fig. 4.1: A diagram illustrating an optical bench setup. From left to right: a light source, an object (cross-wire), a converging lens in a holder, and a screen. The distance from the object to the lens is labeled 'u', and the distance from the lens to the screen is labeled 'v'. All components are placed on a metre rule.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses",
+      "Wave Behaviour",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the value of the distance u between the object and the centre of the lens.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Determine an accurate value for the distance v between the centre of the lens and the focused image.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how you ensured that the position of the focused image was found as accurately as possible.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Place the screen at a range of distances from the object of between 60.0cm and 100.0cm. For each position of the screen, move the lens to focus the image of the object on the screen. Record your values of u and v in a table in the space below and include your results from (a). Also include columns for (u + v) and uv.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of uv on the y-axis against (u + v) on the x-axis. Draw the straight line of best fit through your points.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The gradient of your line gives the focal length f of the lens. Determine f.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "QuestionNumber": "1a",
+    "Question_text": "Complete Table 1.1 to show which small molecules make up each large molecule.",
+    "image": null,
+    "Unit": "UNIT 4: Biological molecules",
+    "Topic": "4.1 Biological molecules",
+    "Sub_topic": [
+      "Large from small molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Put a tick (✔) next to any statements that correctly describe the structure of DNA.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.2 DNA",
+    "Sub_topic": [
+      "DNA molecule structure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Explain how the sequence of bases in a DNA molecule controls how a cell functions.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.2 DNA",
+    "Sub_topic": [
+      "Base sequence amino acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2ai",
+    "Question_text": "State the source of energy for this food web.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.1 Energy flow",
+    "Sub_topic": [
+      "Energy from sun"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aii",
+    "Question_text": "Complete Table 2.1 by writing the number of different organisms in this food web that fit each description.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Trophic levels terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2aiii",
+    "Question_text": "The hawk feeds at two different trophic levels. Use Fig. 2.1 to explain this statement.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.2 Food chains and food webs",
+    "Sub_topic": [
+      "Trophic levels terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bi",
+    "Question_text": "Explain why shrews need more oxygen when they dive under water which is very cold.",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.1 Respiration",
+    "Sub_topic": [
+      "Respiration definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2bii",
+    "Question_text": "Explain how the ability of shrews to store oxygen may have developed by natural selection.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.4 Selection",
+    "Sub_topic": [
+      "Natural selection process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3ai",
+    "Question_text": "In each box write the letter that has been used to label these parts of the digestive system.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Digestive system regions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3aii",
+    "Question_text": "Describe the roles of organs B and C in lipid digestion.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Enzyme functions products",
+      "Bile emulsifying fats"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3bi",
+    "Question_text": "If a child with coeliac disease is not treated, their growth may be reduced. Use Fig. 3.2 to explain why.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.3 Absorption and assimilation",
+    "Sub_topic": [
+      "Villus structure roles"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3bii",
+    "Question_text": "Explain why the tablet must have a coating that will dissolve in alkaline conditions but not in acid conditions.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.2 Effects of temperature and pH",
+    "Sub_topic": [
+      "Explain temperature/pH effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4ai",
+    "Question_text": "State the blood group of a person who has the genotype IA 10.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Codominance ABO groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4aii",
+    "Question_text": "State the genotype of a person who is blood group O.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Codominance ABO groups"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4bi",
+    "Question_text": "Complete this Punnett square to show the possible genotypes of the child.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Monohybrid crosses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4bii",
+    "Question_text": "What is the probability that this child is male with blood group A?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Monohybrid crosses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4biii",
+    "Question_text": "How many people in the family tree in Fig. 7.1 are homozygous for the ABO blood group alleles?",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Genetic terms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Explain how the increasing concentration of carbon dioxide in the atmosphere is causing global warming.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Greenhouse gases effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5bi",
+    "Question_text": "Complete the balanced symbol equation for photosynthesis.",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5bii",
+    "Question_text": "If they start with 2 tonnes of seaweed, calculate the biomass expected after 40 days of growth.",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5ci",
+    "Question_text": "Explain the importance of nitrates to plants.",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.3 Mineral nutrition",
+    "Sub_topic": [
+      "Nitrate for amino acids"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5cii",
+    "Question_text": "Explain how this will help the carbon to stay trapped in the dead seaweed.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.3 Nutrient cycles",
+    "Sub_topic": [
+      "Carbon cycle description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4aiii",
+    "Question_text": "Describe how vaccination can make people immune to a disease.",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.3 Immunity",
+    "Sub_topic": [
+      "Vaccination process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4aiv",
+    "Question_text": "Discuss the practical problems of using this vaccine in different parts of the world.",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.3 Immunity",
+    "Sub_topic": [
+      "Vaccination controlling spread"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6ai",
+    "Question_text": "Explain why scientists think that the flowers can be pollinated by wind and by insects.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Flower parts functions",
+      "Pollination types comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6aii",
+    "Question_text": "State an advantage of cross-pollination rather than self-pollination.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Pollination types"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Complete the sentences by writing words in the gaps.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Pollen tube growth fertilisation",
+      "Seed fruit development"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6c",
+    "Question_text": "Explain why this is an advantage to the parent tree and any young trees that are produced from these fruits.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.3 Sexual reproduction in plants",
+    "Sub_topic": [
+      "Dispersal importance",
+      "Dispersal features"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a",
+    "Question_text": "Draw a line from each transmissible disease to the type of pathogen that causes the disease.",
+    "image": null,
+    "Unit": "UNIT 12: Disease and immunity",
+    "Topic": "12.1 Disease",
+    "Sub_topic": [
+      "Pathogen definition",
+      "Pathogen transmission methods"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Explain how the features of the fermenter shown in Fig. 8.1 provide suitable conditions for the growth of fungi.",
+    "image": null,
+    "Unit": "UNIT 18: Biotechnology and genetic modification",
+    "Topic": "18.1 Biotechnology",
+    "Sub_topic": [
+      "Fermenters production"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "Use your knowledge of the action of pectinase to explain the scientists' results.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Enzyme action mechanism"
+    ],
+    "Parts": []
+  }
+]

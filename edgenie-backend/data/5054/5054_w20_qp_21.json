@@ -1,0 +1,396 @@
+[
+  {
+    "QuestionNumber": "October/November/2020/Q1",
+    "Question_text": "Fig. 1.1 is the distance-time graph for a skydiver who jumps from a balloon at time t = 0.",
+    "image": "A distance-time graph titled 'Fig. 1.1'. The y-axis is labeled 'distance/m' and ranges from 0 to 2500 m. The x-axis is labeled 'time/s' and ranges from 0 to 50 s. The graph shows a curve starting at (0,0), initially steep and concave down, indicating increasing speed. It gradually flattens out, becoming almost horizontal from approximately t=30s onwards, reaching a distance of about 2300 m at t=50s, indicating terminal velocity has been reached.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity",
+      "terminal velocity",
+      "Acceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The first part of the graph shows the motion of the skydiver from when he jumps until he reaches terminal velocity. Describe the motion of the skydiver between t = 0 and t = 20s.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain the motion of the skydiver between t = 0 and t = 20 s in terms of the forces acting on him.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Using Fig. 1.1, determine the terminal velocity of the skydiver. On Fig. 1.1, indicate any values used for your calculation. terminal velocity =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q2",
+    "Question_text": "Fig. 2.1 shows a satellite moving at a constant speed in a circular orbit around the Earth. Speed is a scalar quantity but velocity is a vector quantity.",
+    "image": "A diagram titled 'Fig. 2.1 (not to scale)' showing the Earth as a globe at the center. A satellite is shown in a circular orbit around the Earth, labeled 'satellite'. An arrow indicates the direction of motion along the orbit. The orbit itself is also labeled 'orbit'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Circular Motion",
+      "Resultant Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State how a scalar quantity differs from a vector quantity.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Underline every vector quantity in the list. distance displacement force length mass time",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "There is a resultant force acting on the satellite in Fig. 2.1. Explain how the motion of the satellite shows that a resultant force is acting on it.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State the cause of this force.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q3",
+    "Question_text": "Fig. 3.1 shows a door and an automatic door-closer viewed from above. When the door opens and closes, the hinge acts as a pivot. A girl opens the door by exerting a force P at point X. Force P is perpendicular to the surface of the door.",
+    "image": "A top-down schematic diagram titled 'Fig. 3.1' showing a door hinged to a wall. An automatic door-closer mechanism is attached to the door and the wall. The door closer consists of a bar (labeled 'bar') connected to the door and another arm (also labeled 'bar') connected to a 'bar fixed to wall'. A hinge is indicated at the pivot point. A force 'P' is applied at 'point X' on the door, perpendicular to its surface. The distance from the hinge to point X is marked as 0.72 m. A force 'F' is shown originating from the door closer acting on the door, at an angle.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Work",
+      "Equilibrium",
+      "Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Fig. 3.1 shows that point X is a distance of 0.72m along the front of the door from the hinge. The force P is 25 N. Calculate the moment of force P about the hinge. moment of force =",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The door rotates about the hinge by 90°. The circumference of a circle of radius 0.72 m is 4.5m. Calculate the work done on the door by force P. work done =",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "As the door opens, there is a force F on the door in the direction shown in Fig. 3.1. Although force F is larger than force P, the door rotates about the hinge. Explain why.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q4",
+    "Question_text": "The three angles of a glass prism are 45°, 45° and 90° as shown in Fig. 4.1. At point Y, a ray of light of a single frequency travels in air and strikes the side of the prism at 90°. The ray passes into the glass prism.",
+    "image": "A diagram titled 'Fig. 4.1' showing a right-angled glass prism. Two of its angles are marked as 45°, and the third is implicitly 90°. A ray of light (indicated by an arrow) enters the prism perpendicularly at point Y on one of the shorter sides. Inside the prism, the ray travels towards the hypotenuse, striking it at point Z. Another ray path, also with an arrow, shows the direction inside the prism.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection",
+      "Snell's Law",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Light travels more slowly in glass than in air. State what happens to the wavelength of the light in the ray as it enters the glass.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State what happens to the frequency of the light in the ray as it enters the glass.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The refractive index of glass is 1.6. Calculate the critical angle for light in glass. critical angle =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 4.1, sketch the path of the light after it strikes the side of the prism at Z and after it returns to the air.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q5",
+    "Question_text": "Fig. 5.1 shows some parts of a thermocouple thermometer that is being used to determine the temperature of a liquid.",
+    "image": "A diagram titled 'Fig. 5.1' illustrating a thermocouple thermometer. It consists of two wires, X and Y, joined at two junctions. One junction is placed in an 'ice and water mixture' (reference junction) and the other junction, made of wire Y and wire Z, is immersed in a 'liquid' whose temperature is to be determined. The wires connect to an 'output' indicating the temperature measurement.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest an appropriate material for: • X • Y • Z.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "All types of thermometer require the measurement of a physical property that varies with temperature in order to obtain a value for the temperature. State the physical property of a thermocouple thermometer that is used in this way.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Discuss what is meant by the term linearity when applied to a thermocouple thermometer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State two advantages of a thermocouple thermometer over a liquid-in-glass thermometer. 1. 2.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q6",
+    "Question_text": "When electricity is transmitted over large distances, a transformer is used to increase the voltage before transmission. A second transformer is used at the destination to decrease the voltage to the usual mains value.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations",
+      "Electromagnetic Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Sketch a labelled diagram to show the structure of a transformer that is used to increase voltage.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe the principle of operation of a transformer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain one advantage of transmitting electricity at a high voltage.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q7",
+    "Question_text": "Nuclear fusion is a reaction that occurs in the Sun and other stars.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion",
+      "The Nucleus"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by nuclear fusion.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe the nuclear fusion reaction that takes place in the Sun.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A star forms when the temperature of a large cloud of gas in space increases as the cloud collapses inwards. State the energy transfers that occur as the cloud collapses.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The temperature increase starts a nuclear fusion reaction. Explain why the temperature of the star eventually reaches a steady value.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q8",
+    "Question_text": "The density of water in a lake is 1000kg/m³. At a depth of 25m beneath the surface of the lake, the total pressure is 3.5 × 10⁵ Pa. The gravitational field strength is 10N/kg.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure",
+      "Density",
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Determine: the pressure due to 25m of water pressure =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the atmospheric pressure. atmospheric pressure =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "An underwater depth gauge contains a small cylinder as shown in Fig. 8.1. Gas is trapped inside the cylinder by a piston. The piston is free to move.",
+        "image": "A diagram titled 'Fig. 8.1' showing a cross-section of an underwater depth gauge. It consists of a cylinder with gas trapped inside. A piston is shown at one end, which is free to move. The side of the piston exposed to the outside is labeled 'outer face of piston'. The inner part is labeled 'gas' and 'piston'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "As the depth gauge is lowered into the water, the piston moves into the cylinder. This moves a needle on a dial to indicate the depth of the gauge in the water. Explain why the piston moves into the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The temperature of the gas does not change as the piston moves into the cylinder. Explain, in terms of molecules, what happens to the pressure of the trapped gas as the piston moves into the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "At the surface of the water, the volume of the trapped gas in the depth gauge is V₀. On Fig. 8.2, sketch a graph to show how the volume of trapped gas decreases as the gauge is lowered into the water.",
+        "image": "A graph with axes labeled 'volume' on the y-axis and 'depth' on the x-axis, titled 'Fig. 8.2'. The y-axis starts from 0, and has a reference point V₀. The x-axis starts from 0. The graph area is empty, awaiting a sketch."
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "The instructions for the depth gauge state that, each time it is used, the needle of the dial must be re-set to zero at the surface of the water. Suggest one reason for this.",
+        "image": null
+      },
+      {
+        "part_label": "c(v)",
+        "part_text": "The density of the air trapped in the depth gauge increases. The density of the water remains constant. Explain, in terms of the molecules of the water, why the density of the water remains constant.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q9",
+    "Question_text": "A small glass measuring cylinder of oil is placed inside a freezer where the temperature is -18°C. Fig. 9.1 shows how the temperature of the oil varies with time t. Fig. 9.1 shows that it takes 700s for the temperature to decrease from 20°C to 10°C but that it takes 1900s to decrease from 0°C to -10°C.",
+    "image": "A temperature-time graph titled 'Fig. 9.1'. The y-axis is labeled 'temperature/°C' and ranges from -20°C to 20°C. The x-axis is labeled 't/s' and ranges from 0 to 14000 s, with major gridlines at 2000s intervals. The graph shows a curve starting at (0, 20°C) and decreasing. It has a steeper negative slope initially, then flattens to a horizontal section (plateau) at 0°C from approximately t=3600s to t=10800s, before continuing to decrease with a less steep negative slope.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "States of Matter",
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest why these times are different.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain what happens to the molecules of the oil and what happens to the level of the oil in the glass measuring cylinder as the temperature decreases from 20°C to 0°C.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Determine the melting point of the oil.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain, in terms of molecules, why the temperature of the oil does not change between t = 3600 s and t = 10800 s.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "There is 45g of oil in the glass measuring cylinder and the specific latent heat of fusion (melting) of the oil is 5.7 × 10⁴ J/kg. Calculate: the energy transferred from the oil between t = 3600s and t = 10800 s energy =",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "the average rate at which energy is transferred from the oil between t = 3600s and t = 10800 s. rate =",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The graph in Fig. 9.1 is steeper before the horizontal section than it is after. Use this observation to compare the specific heat capacity of oil in the liquid and solid states and explain your reasoning.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2020/Q10",
+    "Question_text": "Fig. 10.1 shows a wire of length l and cross-sectional area A.",
+    "image": "A diagram titled 'Fig. 10.1' showing a cylindrical wire. One end is labeled 'A'. The length of the wire is indicated as 'l'. The cross-sectional area is implicitly shown by the circular end face.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State how the resistance of the wire in Fig. 10.1 depends on: l",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The cross-sectional area of a piece of metal wire is 7.5 × 10⁻⁴ cm². The resistance of a 1.0m length of the same wire is 6.4 Ω. The wire is made from metal W. Fig. 10.2 shows a solid cube of side 1.0cm. It is also made from metal W. Calculate the resistance between the two opposite faces A and B of the cube.",
+        "image": "A 3D diagram titled 'Fig. 10.2' showing a solid cube. The side length is indicated as 1.0 cm on two edges. Two opposite faces are labeled 'A' and 'B'."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The wire in part (b) is taped to a metre rule. Fig. 10.3 shows that a 1.0m length of the wire (resistance 6.4 Ω) is connected in series with a switch, a cell of electromotive force (e.m.f.) 1.2V and a resistor of resistance 9.6 Ω. The switch is closed.",
+        "image": "A circuit diagram titled 'Fig. 10.3'. It shows a series circuit consisting of a 1.2 V cell, a switch, a 9.6 Ω resistor, and a 1.0 m length of wire. The wire is placed along a metre rule, with one end at the 0 cm mark labeled '0 cm'. A point 'P' is indicated at the 0 cm end of the wire. The wire itself is labeled 'wire'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain what is meant by electromotive force (e.m.f.).",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the potential difference (p.d.) across the 1.0m length of the wire. p.d. =",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "One input terminal of an oscilloscope is connected to the wire at point P, the 0cm mark of the metre rule. The other terminal of the oscilloscope is connected to a sliding contact. Initially, this contact touches the wire at point P. The Y-gain setting on the oscilloscope is 0.20V/cm. Fig. 10.4 shows the screen of the oscilloscope with a horizontal trace across the middle of the screen. The sliding contact is slowly moved along the wire until it reaches the other end of the metre rule. Describe and explain what happens to the trace on the screen.",
+        "image": "A diagram titled 'Fig. 10.4' showing the screen of an oscilloscope. It's a grid with major gridlines defining 1.0 cm squares. A horizontal line, labeled 'trace', is displayed across the middle of the screen."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "A second, identical 1.2V cell is connected in parallel with the cell in the circuit in Fig. 10.3. State one advantage of using two cells in parallel rather than a single cell.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State and explain the effect on the trace in (c)(iii) of adding the second cell in parallel.",
+        "image": null
+      }
+    ]
+  }
+]

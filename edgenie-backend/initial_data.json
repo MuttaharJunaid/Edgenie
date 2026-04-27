@@ -1,0 +1,42 @@
+[
+  {
+    "model": "papers.subject",
+    "pk": "0580",
+    "fields": {
+      "name": "Mathematics",
+      "curriculum": "IGCSE",
+      "board": "CAIE",
+      "description": "Standard international mathematics curriculum."
+    }
+  },
+  {
+    "model": "papers.subject",
+    "pk": "5054",
+    "fields": {
+      "name": "Physics",
+      "curriculum": "O-Level",
+      "board": "CAIE",
+      "description": "Standard international physics curriculum."
+    }
+  },
+  {
+    "model": "papers.subject",
+    "pk": "5070",
+    "fields": {
+      "name": "Chemistry",
+      "curriculum": "O-Level",
+      "board": "CAIE",
+      "description": "Standard international chemistry curriculum."
+    }
+  },
+  {
+    "model": "papers.subject",
+    "pk": "2281",
+    "fields": {
+      "name": "Economics",
+      "curriculum": "O-Level",
+      "board": "CAIE",
+      "description": "Standard international economics curriculum."
+    }
+  }
+]

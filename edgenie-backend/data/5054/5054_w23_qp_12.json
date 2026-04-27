@@ -1,0 +1,505 @@
+[
+  {
+    "QuestionNumber": "October-November/12/2023/Q1",
+    "Question_text": "The diagram shows the level of liquid in a measuring cylinder. The scale is marked in cm³. What is the volume of the liquid?",
+    "image": "A diagram showing a measuring cylinder with liquid. The scale on the cylinder is marked from 10 to 30 cm³ in increments of 1 cm³, with major markings at 10, 20, 30. The liquid level is at the fourth minor mark above 20 cm³, indicating 24.0 cm³.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q2",
+    "Question_text": "The diagram shows the distance-time graph of a car. The car is travelling along a straight road up a hill. Which quantity for the car is constant and greater than zero?",
+    "image": "A distance-time graph with 'distance' on the y-axis and 'time' on the x-axis. The graph shows a straight line sloping upwards from the origin, indicating constant speed.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity",
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q3",
+    "Question_text": "A distance-time graph and a speed-time graph show the motion of an object. How are the speed and the acceleration of the object determined from these graphs?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed-Time Graphs",
+      "Speed & Velocity",
+      "Acceleration",
+      "Calculating Acceleration from Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q4",
+    "Question_text": "A student finds that the mass of a rock is 65 g. She pours 30 cm³ of water into a measuring cylinder. She places the rock in the water so that the water covers the rock completely. The water level rises to 55 cm³. What is the density of the rock?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q5",
+    "Question_text": "A small submarine of mass 1000 kg sinks in water with a constant speed of 2.0 m/s. What is the resultant force exerted on the submarine as it sinks?",
+    "image": "A diagram of a submarine sinking. Text labels indicate 'submarine', its mass '1000 kg', and a constant downward speed of '2.0 m/s' indicated by an arrow.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's First Law",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q6",
+    "Question_text": "A student drops, from rest, a light ball in air. The ball experiences some air resistance as it falls. What happens to the velocity and to the acceleration of the ball during the first few seconds after release?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity",
+      "Acceleration",
+      "Speed & Velocity",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q7",
+    "Question_text": "The stopping distance of a car travelling at a certain speed is measured in four different situations. The results are shown. Which two results are possible measurements on the dry road with old, worn tyres?",
+    "image": "A table showing stopping distances in meters for four situations: W=12 m, X=16 m, Y=17 m, Z=40 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Stopping Distances",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q8",
+    "Question_text": "A spring has a length of 9.0 cm when loaded with a 200 g mass. The extension-mass graph for the spring is shown. The 200 g mass is replaced with a 100 g mass. What is the new length of the spring?",
+    "image": "A diagram shows a spring with a 200g mass, indicating a total length of 9.0 cm. Adjacent to it is an extension-mass graph. The x-axis is 'mass/g' (0-300) and the y-axis is 'extension/cm' (0-3.0). The graph is a straight line passing through (0,0), (100, 1.0), (200, 2.0), and (300, 3.0).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q9",
+    "Question_text": "The International Space Station orbits the Earth. Which arrow shows the direction of the force on the International Space Station when it is at point X?",
+    "image": "A diagram depicting Earth and an elliptical orbit around it. The International Space Station (ISS) is marked at point X on the orbit. Four arrows (A, B, C, D) originate from X, representing possible force directions. Arrow A points directly towards the center of the Earth.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Forces",
+      "Circular Motion",
+      "Gravitational Effects on Orbits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q10",
+    "Question_text": "Which expression is equal to impulse?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.6 Momentum",
+    "Sub_topic": [
+      "Impulse",
+      "Momentum"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q11",
+    "Question_text": "A box with mass 4.0 kg is pulled from rest along a horizontal floor by a constant force F. A constant frictional force of 1.0 N acts on the box. When the box has travelled 1.0 m its velocity is 1.5 m/s. The kinetic energy of the box is equal to the work done on the box. What is force F?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Kinetic Energy",
+      "Conservation of Energy",
+      "Friction",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q12",
+    "Question_text": "The diagram shows a curved track. A ball is released from the position shown. At which point is the gravitational potential energy stored in the ball the maximum?",
+    "image": "A diagram showing a curved track with a ball. The ball is released from point A, the highest point on the left side of the track. Points B and C are at lower elevations on the track, with C being the lowest point. Point D is at an intermediate height on the right side.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q13",
+    "Question_text": "How does an oil-fired power station differ from a nuclear power station?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Fuels",
+      "Energy from Water",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q14",
+    "Question_text": "An electric motor is used to lift a load at a constant speed. The gravitational potential energy (GPE) stored in the load increases. The moving load also has stored kinetic energy (KE). Which expression is used to calculate the efficiency of the motor when the load is being lifted at a constant rate?",
+    "image": "A diagram illustrating an electric motor lifting a load vertically via a pulley system. Labels include 'electric motor', 'power supply', and 'load'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Power",
+      "Gravitational Potential Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q15",
+    "Question_text": "A battery delivers 3000 J of energy to a small 2.0 W electric motor before the battery stops working. For how long is the motor switched on?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power",
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q16",
+    "Question_text": "A man finds it difficult to hammer a wooden post into the ground. How could he make the post go in more easily?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q17",
+    "Question_text": "Which diagram shows the names of the changes of state that correspond to the directions of the arrows?",
+    "image": "Four flow diagrams (A, B, C, D) illustrating transitions between solid, liquid, and gas states. Each arrow between states is labeled with a process name. Diagram A correctly labels Solid -> Liquid as melting, Liquid -> Gas as evaporating, Gas -> Liquid as condensing, and Liquid -> Solid as freezing.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q18",
+    "Question_text": "A sealed cylinder containing gas is left in direct sunlight. Eventually the cylinder explodes. How is this explained in terms of the behaviour of the gas particles?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q19",
+    "Question_text": "A gas is trapped inside a cylinder by a movable piston. The length of the gas column is 20 cm and the pressure inside the cylinder is p. The piston is pulled out a distance of 30 cm, so that the length of the gas column is now 50 cm. The temperature of the gas does not change. What is the new pressure of the gas?",
+    "image": "A diagram illustrating a gas trapped in a cylinder by a piston. Initially, the gas column length is 20 cm and pressure is p. The piston is then shown pulled out 30 cm, extending the gas column to 50 cm.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q20",
+    "Question_text": "Pot X and pot Y are both in a cool room. Pot X contains hot water below its boiling point. Pot Y is identical to pot X but contains water that is kept boiling by a hotplate underneath it. What happens to the average kinetic energy of the particles in the liquid water in pot X and to the average kinetic energy of the particles in the liquid water in pot Y?",
+    "image": "Two diagrams, Pot X and Pot Y. Pot X shows water in a pot on a 'kitchen surface'. Pot Y shows water boiling in a pot on a 'hotplate of a cooker' with steam rising, indicating it is actively boiling.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q21",
+    "Question_text": "Solid metals are good thermal conductors. How closely packed are their particles and do the metals contain free electrons?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q22",
+    "Question_text": "Cotton wool is a good thermal insulator. It consists of many threads of cotton which are tangled together to make a material which can easily be pulled apart or compressed. The diagram shows the structure of cotton wool. Why is cotton wool a good thermal insulator?",
+    "image": "A diagram showing a magnified view of cotton wool, illustrating tangled 'threads' with empty spaces representing trapped air.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection",
+      "Thermal Conduction",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q23",
+    "Question_text": "A metal kettle is heated on a grid above red-hot glowing coal. What are the main thermal energy transfers through the bottom of the kettle and within the water?",
+    "image": "A diagram depicting a metal kettle, containing water, positioned on a grid above red-hot glowing coal.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Convection",
+      "Thermal Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q24",
+    "Question_text": "The diagram shows two waveforms. Which arrow shows the wavelength of a longitudinal wave?",
+    "image": "Two waveform diagrams. The left diagram shows a longitudinal wave as a series of circles representing particles, with compressions and rarefactions. Arrow A measures the distance between the centers of two consecutive compressions. The right diagram shows a transverse wave, a sine curve. Arrow C measures the crest-to-crest distance.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q25",
+    "Question_text": "A bell, on a wall outside a classroom, rings. A student is standing at point X shown on the view from above. The door of the classroom is closed and the student in the room at X hears the bell ring. The door is opened, and the sound heard by the student from the bell is louder. What causes the sound reaching the student to be louder?",
+    "image": "A top-down schematic of a classroom. A bell is outside on a wall. A student is inside the classroom at point X. A closed door is between the bell and the student's direct line of sight. An open door is also shown. Sound waves are depicted bending around the closed door to reach point X.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q26",
+    "Question_text": "A boy stands beside a girl in front of a large vertical plane mirror. They are equal distances from the mirror, as shown. The boy sees an image of the girl. Where is the girl's image?",
+    "image": "A top-down view showing a boy and a girl standing side-by-side in front of a vertical plane mirror. The boy is to the left of the girl. Four points (A, B, C, D) are marked behind the mirror. Point C is directly behind the girl at an equal distance from the mirror.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q27",
+    "Question_text": "Light travelling in air is incident on a water surface. The refractive index of water is 1.3 and the angle of refraction in the water is 40°. What is the angle of incidence in the air?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q28",
+    "Question_text": "The diagram shows a ray of light passing through a triangular glass block. Which angle is the critical angle of light in glass?",
+    "image": "A diagram showing a triangular glass block. A ray of light enters from air, refracts upon entering the glass, travels through the glass, and then refracts again as it exits back into the air. Normals are drawn at both interfaces. Angles A, B, C, and D are marked at the points of incidence and refraction. Angle C is the angle between the internal ray and the normal at the glass-air interface.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q29",
+    "Question_text": "A lens is used to produce a magnified image, as shown in the scale diagram. What is the linear magnification produced by the lens?",
+    "image": "A ray diagram on a grid showing an object placed to the left of a converging lens and its magnified, inverted, real image formed to the right. The object height is 2 grid units, and the image height is 6 grid units. The object distance is 6 grid units, and the image distance is 18 grid units.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Linear Magnification",
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q30",
+    "Question_text": "Ultraviolet radiation is a component of the electromagnetic spectrum. Which application uses ultraviolet radiation?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q31",
+    "Question_text": "A student rubs different rods held in his hand. Which rod gains a large electrostatic charge?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity",
+      "Electrical Charge",
+      "Demonstrating Electric Charges",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q32",
+    "Question_text": "Two permanent magnets are placed side by side in four different arrangements. In which arrangements do the magnets repel each other?",
+    "image": "Four diagrams (1, 2, 3, 4) showing two bar magnets placed horizontally side-by-side with their poles (N for North, S for South) labeled at the ends facing each other. Arrangement 1 shows S facing N (attraction). Arrangement 2 shows S facing S (repulsion). Arrangement 3 shows N facing N (repulsion). Arrangement 4 shows N facing S (attraction).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q33",
+    "Question_text": "Which graph shows how the current changes when the voltage across a resistor of constant resistance is varied?",
+    "image": "Four graphs (A, B, C, D) showing current on the y-axis and voltage on the x-axis. Graph D shows a straight line passing through the origin.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q34",
+    "Question_text": "Two identical resistors are connected first in series and then in parallel. The two resistors in series are connected to a power supply and the current is Is. The parallel combination is connected to the same power supply and the current supplied is Ip. What is the ratio Is / Ip?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q35",
+    "Question_text": "The output of an a.c. generator is connected to a lamp. The coil of the generator is rotated at a constant rate which makes the lamp flash twice every second. The coil is then rotated at half the rate of rotation. What happens to the maximum brightness of the lamp and how many times does the lamp flash every second?",
+    "image": "An oscilloscope screen displaying a sinusoidal alternating voltage waveform. Two full cycles are visible across the screen.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q36",
+    "Question_text": "Which device uses the magnetic effect of an electric current?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Electric Motors",
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q37",
+    "Question_text": "A wire is placed at right angles to a uniform magnetic field. There is a current in the wire and it experiences a force. Beams of alpha-particles, beta-particles and neutrons are fired into the magnetic field in the same direction as the conventional current in the wire. Which beams experience a force that is initially in the same direction as the force experienced by the current-carrying wire?",
+    "image": "A diagram showing a horizontal wire perpendicular to a uniform magnetic field, represented by downward arrows. The wire has a current, and beams of alpha-particles, beta-particles, and neutrons are shown entering the magnetic field in the same direction as the conventional current in the wire.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor",
+      "Magnetic Effect of a Current",
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q38",
+    "Question_text": "The diagram shows the trace produced on the screen of an oscilloscope due to an alternating voltage input. The time-base on the oscilloscope is set to 4 ms/cm. What does the trace look like when the time base is set to 2 ms/cm?",
+    "image": "An oscilloscope screen displaying a sine wave trace. The wave completes two full cycles across approximately 4 cm horizontally. The vertical amplitude is about 2 cm from the center line.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q39",
+    "Question_text": "The half-life of a radioactive isotope is 2.5 minutes. This isotope is the only radioactive isotope in a radioactive sample. Between time t = 0 and t = 7.5 minutes, the mass of this isotope in the sample decreases by 70 μg. What is the mass of this isotope at t = 0?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2023/Q40",
+    "Question_text": "When observed on the Earth, the redshift of the light from galaxy X is smaller than the redshift of the light from galaxy Y. Which galaxy is closer to the Earth and which galaxy is receding from the Earth faster?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "The Universe"
+    ],
+    "Parts": []
+  }
+]

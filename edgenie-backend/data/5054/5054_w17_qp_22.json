@@ -1,0 +1,500 @@
+[
+  {
+    "QuestionNumber": "October-November/22/2017/Q1",
+    "Question_text": "Two small tugboats are pulling a large ship in a harbour. Fig. 1.1 represents the view from above and shows the directions of the forces on the ship. Each of the tugboats is exerting a force of 49 kN on the ship.",
+    "image": "Fig. 1.1 shows a top-down view of a large ship being pulled by two tugboats. The ship is an elongated oval shape. Two tugboats are shown, one on each side of the ship, slightly behind its mid-point. Each tugboat is connected to the ship by a dashed line, representing the force. The forces are 49 kN each. The angles of these forces are shown as 20 degrees relative to a central dashed line extending from the ship's rear. The diagram is labeled 'ship' and 'tugboats' and indicates 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's First Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine by a graphical method the resultant of these two forces and state the scale used.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The engines of the ship are not operating and the water in the harbour is stationary. The ship is moving in a straight line in the direction of the total force exerted by the tugboats. It is travelling at a constant speed. Explain, in terms of the forces acting, why the ship is moving in a straight line at constant speed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q2",
+    "Question_text": "A force applied to a solid object may cause it to accelerate so that its velocity changes.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Mass & Weight",
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Elastic Potential Energy",
+      "Conservation of Energy",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two other properties of the object which may change when a force is applied.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The gravitational field strength g is 10N/kg. Calculate the weight of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The spring is suspended vertically and a load is attached to its lower end. The spring extends by 2.7cm and does not pass the limit of proportionality. Fig. 2.1 shows the spring and load attached to the lower end of a second identical spring. Suggest one reason why the extension of the second spring differs from 2.7 cm.",
+        "image": "Fig. 2.1 shows a diagram of two springs connected vertically. The top spring is labeled 'second spring'. Below it, a second identical spring is attached, and at the bottom of the second spring, a rectangular block labeled 'load' is suspended."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Explain what is meant by limit of proportionality.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State the form of energy stored in the stretched springs.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The load is released and it moves upwards and downwards. The distance travelled in each movement decreases until the load stops moving. Explain why the load stops moving.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q3",
+    "Question_text": "A solid, rectangular concrete block is lying horizontally on flat ground with one of its largest sides in contact with the ground. Fig. 3.1 shows the dimensions of the block. The weight of the block is 240 N.",
+    "image": "Fig. 3.1 displays a 3D isometric view of a rectangular concrete block resting on a flat surface. Its dimensions are indicated: length 0.44 m, width 0.21 m, and height 0.13 m. The block is oriented such that its largest side (0.44m x 0.21m) is in contact with the ground.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Centre of Gravity",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the pressure on the ground caused by the block.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State why the total pressure on the ground underneath the block is larger than the value obtained in (a).",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State the height of the centre of mass of the block above the ground.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The block is rotated about its lower, left-hand edge so that it comes to rest on one of its smallest sides. This is shown in Fig. 3.2. Explain why work is done as the block is rotated.",
+        "image": "Fig. 3.2 shows the same rectangular block from Fig. 3.1, but it is now shown in a partially rotated position. It has been rotated about its lower left-hand edge, lifting the main body of the block and indicating the rotation with an arrow. The final position resting on one of its smallest sides is implied."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q4",
+    "Question_text": "A 75W filament lamp in an office is accidentally left switched on for 63 hours when the office is closed.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power",
+      "Efficiency",
+      "Energy Resources",
+      "Energy from Fuels"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the electrical energy that is supplied to this lamp in this time.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The efficiency of the lamp is 0.12 (12%). Calculate the energy released by the lamp in the form of light.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The power station that generates the electricity supplied to the office uses oil as its fuel. State and explain whether oil is a renewable or a non-renewable source of energy.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Discuss one environmental consequence of using oil as a source of energy.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q5",
+    "Question_text": "A process called nuclear fusion takes place in the Sun.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fusion",
+      "The Sun as a Star",
+      "Energy from the Sun",
+      "Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Discuss the process of nuclear fusion taking place in the Sun.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On Earth, solar panels and solar cells are powered by energy from the Sun. Describe how this energy from the Sun travels to Earth.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q6",
+    "Question_text": "Fig. 6.1 shows a girl standing a few hundred metres in front of a large building. The girl uses a signal generator and a loudspeaker to send a short pulse of sound towards the building. The sound has a frequency of 3700 Hz. A short time later, the girl hears an echo.",
+    "image": "Fig. 6.1 shows a girl standing a few hundred metres away from a large multi-story building. The girl is holding a device which appears to be a signal generator and loudspeaker, emitting sound towards the building. The diagram is labeled 'not to scale'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Properties of Sound Waves",
+      "Sound Waves",
+      "The Wave Equation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what is meant by the term echo.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The pitch of the echo is the same as that of the original sound but the echo is not as loud. State what has happened to",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the amplitude of the sound wave,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the frequency of the sound wave.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The speed of sound in air is 330 m/s. Calculate the wavelength of this sound.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q7",
+    "Question_text": "A 4.5V battery is connected in a circuit with an ammeter, a light-dependent resistor (LDR) and a 1800Ω fixed resistor. Fig. 7.1 is the circuit diagram.",
+    "image": "Fig. 7.1 shows a series electrical circuit diagram. A 4.5 V battery is connected to an ammeter (labeled 'A'), a 1800 Ω fixed resistor, and a light-dependent resistor (LDR) in series. The LDR is represented by a resistor symbol with an arrow pointing towards it, indicating light dependency.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Electrical Current",
+      "Resistance",
+      "Current in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The resistance of the LDR is 9000 Ω. Calculate",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "the total resistance of the circuit,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the reading on the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A very bright lamp is switched on and the light intensity on the LDR increases. State and explain what happens to",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the current in the LDR,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the current in the 1800Ω resistor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q8",
+    "Question_text": "In the engine compartment of a car, the battery supplies a current of 120A to the starter motor.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The starter motor is switched on for 3.5 s. Calculate the charge that passes through the starter motor in this time.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The starter motor circuit is switched on and off using a relay. The relay is controlled using a second circuit. A switch in the second circuit is used by the driver to operate the relay and turn the starter motor on and off. Explain how the current in the second circuit controls the relay.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q9",
+    "Question_text": "Fig. 9.1 shows an astronaut in space near to a space station in orbit above the Earth. The total mass of the astronaut and all his equipment is 160 kg. The astronaut is initially at rest relative to the space station but he is then pulled towards the space station by the rope. His acceleration towards the space station is 0.35m/s² for 1.2s.",
+    "image": "Fig. 9.1 shows an astronaut in a spacesuit, connected by a 'rope' to a large space station. The space station is complex with multiple modules and solar panels. Both the astronaut and space station are depicted above the curved surface of the Earth, indicating they are in orbit. The image is a detailed illustration of an astronaut performing extravehicular activity (EVA) near a space station.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Resultant Forces",
+      "Acceleration",
+      "Speed & Velocity",
+      "Speed-Time Graphs",
+      "Circular Motion",
+      "Orbiting Bodies",
+      "Gravitational Effects on Orbits",
+      "Scalars & Vectors",
+      "Kinetic Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "the resultant force that causes a mass of 160kg to accelerate at 0.35 m/s²,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the speed at which the astronaut is travelling after 1.2s.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 9.2, sketch the speed-time graph for the astronaut for the first 3.0s of his motion.",
+        "image": "Fig. 9.2 shows an empty speed-time graph with 'speed m/s' on the y-axis and 'time/s' on the x-axis, ranging from 0 to 3.0s. There are labeled increments at 1.0s, 2.0s, 3.0s on the time axis."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the distance moved by the astronaut during the first 3.0s may be found using the speed-time graph.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The space station is travelling at a constant speed in a circular orbit around the Earth as shown in Fig. 9.3.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A force acts on the space station to keep it in this orbit.",
+        "image": "Fig. 9.3 shows a diagram of the Earth at the center, with an elliptical orbit path around it. A space station is depicted on this orbit path. The instruction asks to draw an arrow on this figure."
+      },
+      {
+        "part_label": "c(i)1",
+        "part_text": "On Fig. 9.3, draw an arrow to show the direction of this force.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)2",
+        "part_text": "Explain what causes this force.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State what is meant by the velocity of an object.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "State and explain what happens during the orbit to",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)1",
+        "part_text": "the velocity of the space station,",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)2",
+        "part_text": "the kinetic energy of the space station.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q10",
+    "Question_text": "A boiler containing water is plugged into a 230 V mains supply. The heater in the boiler is operating at full power.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Safety",
+      "Specific Heat Capacity",
+      "Consequences of Thermal Energy Transfer",
+      "Convection",
+      "Thermal Conduction",
+      "Particle Model",
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The power used by the heater is 2.8kW. Calculate the current in the heater.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The wiring in the cable from the socket and in the boiler remains safe and does not overheat provided that the current is less than 20A. Suggest a suitable fuse rating for the circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The specific heat capacity of water is 4200J/(kg°C). The heater is used to increase the temperature of 6.3 kg of water. In a certain time, the temperature of the water increases from 23°C to 49°C. Calculate the change in the internal energy of the water.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The heater supplies thermal energy to the water at a constant rate. It takes more time for the temperature of the water to increase from 49°C to 75°C than from 23°C to 49°C. In both cases, the increase in temperature is the same. Suggest why it takes more time for the temperature to increase from 49°C to 75°C.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 10.1 shows the heater at the bottom of the water in the boiler.",
+        "image": "Fig. 10.1 shows a cross-section of a boiler. The boiler is a rectangular container made of 'steel'. Inside, 'water' fills most of the container. At the bottom, partially submerged in the water, is a 'heater' element, shown as a coil, connected to an external power source."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Explain how thermal energy is transferred from the heater throughout the water.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The part of the boiler that holds the water is made from steel. Describe, in terms of particles, how thermal energy passes through the steel.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "State and explain, in terms of particles, what happens to the density of the steel as its temperature increases.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2017/Q11",
+    "Question_text": "The metals in the list below have many different uses. aluminium copper iron silver steel",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnets",
+      "Magnetic Fields",
+      "Transformers",
+      "Transformer Calculations",
+      "The A.C. Generator",
+      "Electromagnetic Induction",
+      "Demonstrating Induction",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State which metal from the list is used for",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "a compass needle,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "magnetic screening,",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "the core of a transformer.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe one use for a transformer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "An a.c. generator supplies an input voltage of 220 V to a transformer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "In the space below, sketch a graph of the output voltage against time for the a.c. generator.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "The transformer has 1700 turns on the primary coil and 85 turns on the secondary coil. Calculate the output voltage of the transformer.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 11.1 shows a magnet next to one end of a solenoid.",
+        "image": "Fig. 11.1 shows a circuit diagram with a solenoid connected to a sensitive ammeter (labeled 'A'). A bar magnet is positioned to the left of the solenoid, with its North (N) pole facing the solenoid's opening. The magnet is labeled 'magnet' and the coil as 'solenoid'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The magnet is moved to the right at a constant speed and a reading is observed on the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)1",
+        "part_text": "Explain why there is a current in the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)2",
+        "part_text": "Explain how the current in the ammeter opposes the change producing it.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The magnet stops when the S-pole reaches the middle of the solenoid. The reading on the ammeter is observed when the magnet is moved to the left at a constant speed that is less than its speed in (c)(i). State two ways in which the reading on the ammeter differs from the reading observed in (c)(i) as the magnet moves to the left.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "A student wants to separate a mixture of dyes so that the dyes in the mixture can be identified.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.3 Chromatography",
+    "Sub_topic": [
+      "Paper chromatography",
+      "Interpreting chromatograms",
+      "Rf equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "When metal carbonates are heated they decompose and give off a gas that turns limewater milky. A student investigates the rate of decomposition of four metal carbonates using the apparatus shown.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction",
+      "Practical methods for rate"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "A student is provided with dilute sulfuric acid labelled L. The student determines the concentration of L by titration.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations",
+      "Concentration measurement",
+      "Stoichiometric calculations",
+      "Concentration from titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "A student wants to electroplate a metallic spoon with a layer of copper.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Electroplating purpose",
+      "Electroplating metals"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "Compound Q contains two cations and one anion. The following table shows the tests a student does on compound Q.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases",
+      "Flame tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "A student investigates the amount of heat released when ethanol burns.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Enthalpy change",
+      "Bond breaking and making",
+      "Enthalpy change using bond energies"
+    ],
+    "Parts": []
+  }
+]

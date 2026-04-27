@@ -1,0 +1,433 @@
+[
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q1",
+    "Question_text": "A student suspends a spring from a clamp stand. He measures the unstretched length of the spring with no load attached. He then attaches different loads to the lower end of the spring and measures the new lengths of the spring. Fig. 1.1 shows how the total length of the spring depends on the load attached.",
+    "image": "A graph titled Fig. 1.1 showing the total length of a spring in cm on the y-axis (from 0 to 25 cm) versus the load in N on the x-axis (from 0 to 6.0 N). The y-axis is labeled 'length/cm' and the x-axis is labeled 'load/N'. The graph shows a line that is straight initially, then begins to curve upwards. A point 'P' is marked where the line stops being straight and starts to curve, indicating the limit of proportionality.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "At point P on Fig. 1.1, the line stops being straight and begins to curve. State the name of point P.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using Fig. 1.1, determine the unstretched length of the spring.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the extension of the spring for a load of 4.0N.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student attaches a small block of wood to an identical spring. The extension of the spring is 2.7 cm. The gravitational field strength g is 10N/kg. Calculate the mass of the block of wood.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q2",
+    "Question_text": "In hospitals, doctors and nurses operate taps with their elbows in order to avoid contamination. Fig. 2.1 shows a hospital tap with a long handle.",
+    "image": "A diagram titled Fig. 2.1 showing a hospital tap with a long handle. The handle extends horizontally, and its length from the pivot (axis of the tap) to a point X is indicated as 0.18m. The handle is designed to be operated with an elbow.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "A nurse applies a force of 2.5N at a point X on the handle, 0.18m from the axis of the tap. Calculate the maximum moment about the axis that this force can produce.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The moment produced by the nurse is less than this maximum value. Suggest one reason why this is so.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State how the force needed to operate the tap is affected by the length of the handle.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q3",
+    "Question_text": "Fig. 3.1 shows a helium cylinder being used at a funfair to inflate balloons that float in the air. Initially, all the helium is stored in the cylinder at a pressure of 2.0 × 10^7 Pa. When no more balloons can be filled, all the helium occupies a total volume of 1.8m³ and is at a pressure of 1.0 × 10^5 Pa. The temperature of the helium has not changed.",
+    "image": "A diagram titled Fig. 3.1 depicting a person at a funfair inflating balloons from a tall, upright gas cylinder. Several inflated balloons are shown floating above the person, indicating that helium is being used.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate, stating the formula used, the initial volume of the helium in the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The balloon seller takes the cylinder back to the helium supplier and it is refilled. The mass of helium in the cylinder is 0.30 kg. Calculate the density of helium in the cylinder.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The mass of the empty cylinder is 16kg. Suggest why weighing the cylinder is not an accurate method of determining the amount of helium supplied.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q4",
+    "Question_text": "Fig. 4.1 shows a black car going up a hill on a bright, sunny day.",
+    "image": "A diagram titled Fig. 4.1 illustrating a black car ascending a hill. The sun is shining brightly in the sky, and rays from the sun are visible. The road is inclined upwards, suggesting the car is expending energy to move against gravity.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Radiation",
+      "Thermal Conduction",
+      "Convection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State one way in which the car is gaining thermal energy,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "one way in which the car is losing thermal energy.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The car accelerates up the hill. In addition to the changes in the thermal energy of the car, there are other energy changes taking place. Describe the other energy changes occurring as the car moves.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q5",
+    "Question_text": "A test-tube contains solid wax. The melting point of the wax is 58°C. The test-tube is partially immersed in a beaker of boiling water and the wax melts. A thermometer is placed in the liquid wax. At time t = 0, the thermometer reads 90°C and the test-tube is immediately removed from the water. The test-tube then cools to room temperature of 23°C.",
+    "image": "An empty graph with 'temperature/°C' on the y-axis and 't' (time) on the x-axis, labeled Fig. 5.1. The y-axis has a '0' mark and the x-axis has a '0' mark, indicating the origin for a cooling curve sketch.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Thermal Expansion"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On the axes of Fig. 5.1, sketch a graph to show how the temperature changes with time t. Mark on the temperature axis 90°C, 58°C and 23°C.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "On the completed graph of Fig. 5.1, mark a point H, where half of the wax is solid and half is liquid.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The specific latent heat of fusion of the wax is 220J/g and the mass of the wax is 45 g. Calculate the thermal energy released by the wax as it solidifies.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure",
+      "Evaporation",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State what happens to the molecules of a gas as its temperature increases.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 6.1 shows a runner in a long distance race. He tips water over himself to keep cool. Explain, in terms of molecules, how the evaporation of water keeps the runner cool.",
+        "image": "A diagram titled Fig. 6.1 showing a male runner in a long distance race, wearing a bib with number 2976. He is tipping water over his head from a bottle, likely to cool himself down due to heat from exertion and the environment. Sweat drops are visible on his body."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "At one point in the race, a strong breeze blows past the runner and the water evaporates more quickly. Suggest one reason why the water evaporates more quickly in the breeze.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q7",
+    "Question_text": "The circuit of Fig. 7.1 includes an ammeter, a 6.0Ω resistor, a length of metal resistance wire and three 1.5V cells connected in parallel.",
+    "image": "A circuit diagram titled Fig. 7.1. It shows three 1.5V cells connected in parallel. These are connected to an ammeter (A). The circuit then splits into two parallel branches: one with a 6.0 Ω resistor and the other with a 'metal resistance wire'. Points P and Q are marked at the junctions before and after the parallel combination, indicating the potential difference across it.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State one advantage of using cells in parallel rather than using a single cell,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the potential difference (p.d.) between points P and Q in the circuit of Fig. 7.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The ammeter in Fig. 7.1 reads 0.075A. Calculate the resistance of the resistance wire.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The temperature of the metal resistance wire increases. State and explain the effect of this temperature increase on the ammeter reading.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q8",
+    "Question_text": "Fig. 8.1 shows the structure of a simple alternating current (a.c.) generator.",
+    "image": "A 3D diagram titled Fig. 8.1 illustrating the components of a simple alternating current (a.c.) generator. It displays a rectangular coil rotating within a magnetic field provided by two stationary magnets. The coil is connected to two slip rings, which are in contact with carbon brushes, leading to two output terminals. Arrows indicate the direction of rotation of the coil.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "The A.C. Generator",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 8.1, label • the coil of the generator with the letter C, • a slip ring with the letter S, • a carbon brush with the letter B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The a.c. generator is operating and the arrows on Fig. 8.1 show the direction of rotation. Explain why there is an electromotive force (e.m.f.) between the two output terminals.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The output terminals of the a.c. generator are connected to a cathode-ray oscilloscope (c.r.o.). Fig. 8.2 shows the trace on the screen of the c.r.o. Describe how the trace and a setting on the c.r.o. are used to find the time for one revolution of the coil of the a.c. generator. You may draw on Fig. 8.2 if you wish.",
+        "image": "A graph titled Fig. 8.2 displaying a sinusoidal (AC) waveform on the screen of a cathode-ray oscilloscope (C.R.O.). The waveform shows multiple complete cycles against a gridded background, allowing for measurement of period."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q9",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Scalars & Vectors",
+      "Speed & Velocity",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Newton's Second Law",
+      "Resultant Forces",
+      "Freefall",
+      "Friction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by uniform acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Acceleration is a vector quantity. State how a vector quantity differs from a scalar quantity.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A rock from space is travelling in a straight line at high speed when it enters the Earth's atmosphere. Fig. 9.1 is the speed-time graph for the rock from time t = 0 to time t = 50s. On Fig. 9.1, mark • a letter X, where the rock is moving with a constant speed, • a letter Y, where the rock has a uniform deceleration, • a letter Z, where the rock has a non-uniform deceleration.",
+        "image": "A speed-time graph titled Fig. 9.1 for a rock travelling from t = 0 to t = 50s. The y-axis is 'speed m/s' ranging from 0 to 14000 m/s. The x-axis is 't/s' ranging from 0 to 50 s. The graph starts at a high speed, shows a brief period of constant speed, then a period of non-uniform deceleration, followed by a period of uniform deceleration, and finally a constant lower speed."
+      },
+      {
+        "part_label": "c(ii)1",
+        "part_text": "At time t = 25s, the mass of the rock is 8.4 kg. For the time t = 25s, determine the size of the acceleration of the rock,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)2",
+        "part_text": "the size of the resultant force on the rock.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)1",
+        "part_text": "Fig. 9.2 shows the rock at t = 25 s. On Fig. 9.2, draw and label two arrows to show the directions of the gravitational force F and the air resistance R acting on the rock.",
+        "image": "A diagram titled Fig. 9.2 (not to scale) showing a rock descending towards the surface of the Earth. An arrow indicates the 'direction of travel' of the rock, pointing downwards and to the right relative to the horizontal 'surface of the Earth'."
+      },
+      {
+        "part_label": "c(iii)2",
+        "part_text": "Suggest why the size of the air resistance changes as the rock travels through the Earth's atmosphere.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Suggest what happens to the rock at t = 40s.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q10",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection",
+      "Features of Waves",
+      "The Wave Equation",
+      "Wave Behaviour"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the speed of light in air.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)1",
+        "part_text": "As the light enters the glass, state what happens to the speed of the light,",
+        "image": "A diagram titled Fig. 10.1 (not to scale) showing a ray of blue light passing from air into a glass block and refracting at the surface. An incident ray (labeled 'blue light') approaches a horizontal surface, and a normal line is drawn perpendicular to this surface. The ray then bends as it enters the 'glass block' and continues as a refracted ray."
+      },
+      {
+        "part_label": "b(i)2",
+        "part_text": "the frequency of the light,",
+        "image": null
+      },
+      {
+        "part_label": "b(i)3",
+        "part_text": "the wavelength of the light.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 10.1, mark and label the angle of incidence i and the angle of refraction r.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The refractive index of glass for blue light is 1.5. A ray of blue light strikes the surface of a glass block at an angle of incidence of 89°. Calculate the angle of refraction of the light in the block.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the angle of refraction of blue light in glass is always less than 45°.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Blue light, travelling in air, strikes the side of a different glass block and continues in the same direction as it enters the glass block. Fig. 10.2 shows the ray of light and the shape of the glass block. The critical angle for this glass is 42°. Explain why the light continues in the same direction as it enters the glass block.",
+        "image": "A diagram titled Fig. 10.2 showing a ray of 'blue light' incident on a glass block shaped like a prism or trapezoid. The incident ray strikes the first surface, enters, and proceeds to an internal surface at point 'X' with an angle of 45° to the normal of that internal surface. The critical angle for the glass is given as 42°."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "On Fig. 10.2, complete the path of the light until it leaves the glass.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/O/N/14/Q11",
+    "Question_text": "Strontium-90 (⁹⁰₃₈Sr) is a radioactive isotope. A nucleus of strontium-90 decays by the emission of a beta-particle (β).",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Detection of Radioactivity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define the term isotope.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "For a neutral atom of strontium-90, state the number of electrons,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the number of neutrons.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "When a nucleus of strontium-90 decays, it becomes a nucleus of yttrium (symbol Y). Complete the equation for this decay. ⁹⁰₃₈Sr → ........Y + β",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "A sample initially contains 6.0 × 10⁸ atoms of strontium-90. The half-life of strontium-90 is 29 years. Calculate the number of strontium-90 atoms that remain in the sample after 87 years.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Describe an experiment that shows that the sample emits only beta-particles.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)1",
+        "part_text": "A teacher says that the emission of beta-particles from strontium-90 is random. Explain what is meant by random in this context.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)2",
+        "part_text": "State two ways in which the emission of beta-particles from strontium-90 is random.",
+        "image": null
+      }
+    ]
+  }
+]

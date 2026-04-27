@@ -1,0 +1,376 @@
+[
+  {
+    "QuestionNumber": "1a(i)",
+    "Question_text": "Name the process by which plants manufacture carbohydrates from raw materials.",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Photosynthesis definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1a(ii)",
+    "Question_text": "Explain why starch is a more suitable storage substance than the soluble sugar glucose.",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.1 Photosynthesis",
+    "Sub_topic": [
+      "Uses of carbohydrates"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Describe the 'lock and key' hypothesis of enzyme action shown in Fig. 1.1.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.1 Enzyme action",
+    "Sub_topic": [
+      "Enzyme action mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Suggest reasons for the increased growth of the plant in the solution supplied with air containing oxygen.",
+    "image": null,
+    "Unit": "UNIT 6: Plant nutrition",
+    "Topic": "6.3 Mineral nutrition",
+    "Sub_topic": [
+      "Nitrate for amino acids",
+      "Magnesium for chlorophyll"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2a",
+    "Question_text": "Complete Table 2.1 to show three differences between the characteristics of bacteria and fungi.",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.2 Features of organisms",
+    "Sub_topic": [
+      "Features of five kingdoms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2b",
+    "Question_text": "Name the process that is responsible for the appearance of the fruit after 14 days.",
+    "image": null,
+    "Unit": "UNIT 2: Classification",
+    "Topic": "2.2 Features of organisms",
+    "Sub_topic": [
+      "Features of five kingdoms"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c(i)",
+    "Question_text": "Name the type of cell division that occurs during asexual reproduction.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Mitosis description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2c(ii)",
+    "Question_text": "Explain how asexual reproduction results in genetically identical offspring.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.2 Asexual and sexual reproduction",
+    "Sub_topic": [
+      "Asexual reproduction definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2d",
+    "Question_text": "Complete the equation for aerobic respiration.",
+    "image": null,
+    "Unit": "UNIT 10: Respiration",
+    "Topic": "10.2 Aerobic respiration",
+    "Sub_topic": [
+      "Aerobic respiration equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e(i)",
+    "Question_text": "Explain why increasing the temperature surrounding the fruit would speed up the changes shown in Fig. 2.1.",
+    "image": null,
+    "Unit": "UNIT 5: Enzymes",
+    "Topic": "5.2 Effects of temperature and pH",
+    "Sub_topic": [
+      "Explain temperature/pH effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2e(ii)",
+    "Question_text": "Suggest two ways in which the fruit may be preserved to prevent the changes shown in Fig. 2.1 from occurring.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Pollution effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3a",
+    "Question_text": "State where genes are found in a cell.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.1 Nuclear division",
+    "Sub_topic": [
+      "Chromosomes and genes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(i)",
+    "Question_text": "Use a fully labelled genetic diagram to show how cystic fibrosis is inherited by the children of two heterozygous parents.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Monohybrid crosses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3b(ii)",
+    "Question_text": "State the expected ratio of phenotypes in the children.",
+    "image": null,
+    "Unit": "UNIT 17: Inheritance",
+    "Topic": "17.3 Inheritance",
+    "Sub_topic": [
+      "Monohybrid crosses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3c",
+    "Question_text": "State the name of region C.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Digestive system regions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3d",
+    "Question_text": "Suggest why a person whose bile and pancreatic duct is blocked may find it difficult to gain weight despite eating a balanced diet.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Enzyme functions products",
+      "Bile emulsifying fats"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4a",
+    "Question_text": "Complete the diagram by continuing the lines from the object to show how the light rays produce a focussed image on the retina.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Eye structures",
+      "Eye part functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b(i)",
+    "Question_text": "State how the appearance of the pupil in the eye will change when a person moves from dim light into an area of bright light.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Pupil reflex explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4b(ii)",
+    "Question_text": "Explain how this change is brought about by structures in the eye.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.2 Mammalian sense organs",
+    "Sub_topic": [
+      "Pupil reflex explanation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c(i)",
+    "Question_text": "Define the term reflex action.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "Reflex action definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4c(ii)",
+    "Question_text": "Suggest why drugs that prevent this reflex action from occurring should be avoided.",
+    "image": null,
+    "Unit": "UNIT 14: Coordination and control",
+    "Topic": "14.1 Mammalian nervous system",
+    "Sub_topic": [
+      "Reflex arc components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5a",
+    "Question_text": "Identify the types of teeth labelled B and C and state one function of each.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Types of human teeth",
+      "Structure of human teeth",
+      "Functions of teeth types"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b(i)",
+    "Question_text": "List the chemical elements that make up carbohydrates.",
+    "image": null,
+    "Unit": "UNIT 4: Biological molecules",
+    "Topic": "4.1 Biological molecules",
+    "Sub_topic": [
+      "Elements in molecules"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5b(ii)",
+    "Question_text": "suggest in which person dental decay will occur first. Explain your reasoning.",
+    "image": null,
+    "Unit": "UNIT 8: Human nutrition",
+    "Topic": "8.2 Human digestive system",
+    "Sub_topic": [
+      "Functions of teeth types"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6a",
+    "Question_text": "State the function of phloem in a plant.",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.2 Transpiration and translocation",
+    "Sub_topic": [
+      "Translocation definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6b",
+    "Question_text": "Describe how a molecule of water moves through a plant from the soil until it enters the atmosphere through the leaves.",
+    "image": null,
+    "Unit": "UNIT 7: Transport in flowering plants",
+    "Topic": "7.1 Uptake and transport of water and ions",
+    "Sub_topic": [
+      "Root hair function",
+      "Water pathway in plant"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a(i)",
+    "Question_text": "State one similarity and one difference in the functions of the urethra in a male and in a female adult person.",
+    "image": null,
+    "Unit": "UNIT 13: Excretion",
+    "Topic": "13.2 Urinary system",
+    "Sub_topic": [
+      "Urinary structures functions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7a(ii)",
+    "Question_text": "State the differences between male and female human gametes in terms of size, numbers and mobility.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Gametes comparison"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7b",
+    "Question_text": "Describe the advantages and disadvantages of surgical methods of birth control.",
+    "image": null,
+    "Unit": "UNIT 16: Development of organisms and continuity of life",
+    "Topic": "16.4 Sexual reproduction in humans",
+    "Sub_topic": [
+      "Hormones in puberty",
+      "Menstrual cycle description",
+      "Hormones in menstrual cycle"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8a",
+    "Question_text": "Describe ways in which farmers can reduce the risk of water pollution.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Pollution effects",
+      "Eutrophication process"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8b",
+    "Question_text": "With reference to named examples, describe the reasons for recycling materials.",
+    "image": null,
+    "Unit": "UNIT 19: Relationships of organisms with one another and with their environment",
+    "Topic": "19.4 Effects of humans on ecosystems",
+    "Sub_topic": [
+      "Population increase effects",
+      "Habitat destruction causes",
+      "Pollution effects"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9a",
+    "Question_text": "Outline the sequence of events that take place in the body when a person breathes out.",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Breathing mechanism"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9b",
+    "Question_text": "State and explain the similarities and differences between air breathed in and air breathed out.",
+    "image": null,
+    "Unit": "UNIT 9: Human gas exchange",
+    "Topic": "9.1 Human gas exchange",
+    "Sub_topic": [
+      "Inspired expired differences"
+    ],
+    "Parts": []
+  }
+]

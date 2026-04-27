@@ -1,0 +1,165 @@
+[
+  {
+    "QuestionNumber": "October-November/31/2011/Q1",
+    "Question_text": "In this experiment, you will investigate the equilibrium of a suspended mass. You have been provided with • a mass, labelled M, suspended from a stand and clamp by a length of string, • a second length of string attached to the first length of string at one end and with a loop at the other end, • a pulley supported above the bench, • a 50 g mass with a hook, • a metre rule, • a set square.",
+    "image": "Fig. 1.1 shows an apparatus setup to investigate the equilibrium of a suspended mass. A vertical stand with a clamp and boss supports a string at point A. A mass M is suspended from point B on this string. Another string passes over a pulley at point C and is attached to point B on one end, and a 50g mass with a hook on the other end. The string segment BC is shown to be horizontal. The string segment AB makes an angle θ with the horizontal. Vertical heights h1 (from A to the bench) and h2 (from M to the bench) are indicated. The length 'l' is shown between points A and B. A split cork is used to secure the string at A. The pulley is positioned above the bench.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Equilibrium",
+      "Resultant Forces"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Set up the apparatus as shown in Fig. 1.1. Pass the second length of string over the pulley and suspend the 50g mass from the loop. Adjust the position and height of the pulley so that string BC is horizontal.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how you made sure that BC was horizontal. You may add to Fig. 1.1 if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Measure and record the vertical heights h₁ and h₂ shown in Fig. 1.1. Also measure and record the length l of the string between the two points A and B. h₁ = h₂ = l =",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the angle θ between the string AB and the horizontal, using the relationship sin θ = (h₁-h₂)/l. θ =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2011/Q2",
+    "Question_text": "In this experiment, you will investigate the motion of a mass suspended from a spring. You have been provided with • a spring, • a 100 g mass hanger and four 100g slotted masses, • a stopwatch, • a pin in a cork, • a stand with two clamps and two bosses.",
+    "image": "Fig. 2.1 shows an apparatus for investigating the motion of a mass suspended from a spring. A stand has two clamps. The upper clamp holds a spring from which a 100g mass hanger and two 100g masses (total 300g) are suspended. The lower clamp holds a pin in a cork, which acts as a fiducial marker for the position of the bottom of the mass hanger. \nFig. 2.2 illustrates one complete vibration of the mass. It shows three positions: the highest position of the mass, the position of the mass when stationary (marked by the pin), and the lowest position of the mass. An arrow indicates one complete vibration as the mass moving from the stationary position, up to the highest, down to the lowest, and back up to the stationary position.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Set up the apparatus as shown in Fig. 2.1, with a total mass of 300g suspended from the spring. Adjust the lower clamp so that the pin marks the position of the bottom of the mass hanger when the mass is stationary. When the mass is pulled downwards a small distance and released, it vibrates up and down. One complete vibration is from the position of the pin, up to the highest position, down to the lowest position and back up to the position of the pin, as shown in Fig. 2.2.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The time for 20 complete vibrations is t₁. Take measurements to determine an accurate value of t₁. t₁ =",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the time T₁ for one vibration. T₁ =",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Add 200g to the mass hanger so that the total mass suspended from the spring is 500g. Determine an accurate value for the time t₂ taken for 20 complete vibrations. t₂ =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the time T₂ for one vibration. T₂ =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the value of T₂/T₁. T₂/T₁ =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2011/Q3",
+    "Question_text": "In this experiment, you will determine an accurate value for the spacing of the holes in a board. You have been provided with • a board with regularly spaced holes, • a light source to illuminate the board, • a lens in a holder, • a screen, • a metre rule, • a set square.",
+    "image": "Fig. 3.1 shows an optical bench setup for image formation. From left to right: a light source, a board with regularly spaced holes, a lens in a holder, and a screen. A metre rule runs along the base of the setup. The distance from the board to the lens is labeled 'u', and the distance from the lens to the screen is labeled 'v'. The screen is shown displaying a magnified image of the board.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification",
+      "Refraction of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Set up the apparatus as shown in Fig. 3.1. The board and the screen must be 100.0cm apart.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Adjust the position of the lens until a sharply-focused, magnified image of the board is formed on the screen. Measure and record (i) the distance u between the board and the lens, u = (ii) the distance v between the lens and the screen. v =",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The image on the screen is a set of regularly-spaced bright spots. The distance between two adjacent bright spots is d. Take measurements to determine an accurate value of d. d =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain, with the aid of a diagram, the technique that you used to determine an accurate value of d.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The spacing s between the holes on the board is given by the relationship s = du/v. Using your answers in (b) and (c)(i), calculate the value of s. s =",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2011/Q4",
+    "Question_text": "In this experiment, you will investigate the relationship between the potential difference across part of a circuit and the current in the circuit. You have been provided with an incomplete circuit consisting of • a power supply, • a resistor labelled X, • a voltmeter, • an ammeter, • a switch, • two terminals labelled A and B. You have also been provided with additional connecting leads and three further resistors labelled with the values of their resistance. The resistors may become hot during the course of the experiment.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Connect the 15Ω resistor between terminals A and B.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Draw a circuit diagram of the completed circuit.",
+        "image": "A circuit diagram should show a power supply, a switch, an ammeter, and a resistor (connected between terminals A and B) all in series. A voltmeter should be connected in parallel across the resistor between terminals A and B."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Close the switch and record the reading V on the voltmeter and the current I in the circuit. Open the switch. V = I =",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Replace the 15Ω resistor with • the 10Ω resistor, • the 22Ω resistor, • all series combinations of 10Ω, 15Ω and 22Ω resistors. In each case, repeat (b) and record your results in a table. Include a column showing the resistors that you connect between A and B. Also include your results from (b).",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Using the grid opposite, plot a graph of V/V against I/A. Draw a straight line of best fit through your points.",
+        "image": "A blank grid suitable for plotting a graph with V/V on the y-axis and I/A on the x-axis, typically with multiple major and minor divisions for accurate plotting."
+      },
+      {
+        "part_label": "e",
+        "part_text": "Determine the gradient of the line of best fit. gradient =",
+        "image": null
+      }
+    ]
+  }
+]

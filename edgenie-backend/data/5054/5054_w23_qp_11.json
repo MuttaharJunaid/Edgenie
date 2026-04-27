@@ -1,0 +1,471 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q1",
+    "Question_text": "Which description is of a scalar quantity?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q2",
+    "Question_text": "The diagram shows a distance-time graph for a car travelling in a straight line. In which region is the car decelerating?",
+    "image": "A distance-time graph with distance on the y-axis and time on the x-axis. The graph shows four distinct regions of motion labeled A, B, C, and D. Region A is a straight line with a positive slope (constant velocity). Region B is a curve with an increasing slope (acceleration). Region C is a curve with a decreasing positive slope (deceleration). Region D is a horizontal line (stationary).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q3",
+    "Question_text": "A wooden block is pushed across a table at constant speed. Which statement is correct?",
+    "image": "A diagram showing a rectangular wooden block resting on a horizontal table surface. An arrow labeled 'pushing force' points to the right, indicating a force applied to the left side of the block. The table is labeled 'table'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's First Law",
+      "Friction",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q4",
+    "Question_text": "A car begins to move. It speeds up until it reaches a constant speed. What happens to the acceleration and what happens to the velocity of the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q5",
+    "Question_text": "The diagram shows how the length of a spring changes when a load of 10 N is suspended from it. The 10 N load is replaced by a 20 N load. What is the new length of the spring?",
+    "image": "Two diagrams showing a helical spring. The first diagram shows the spring at its natural length, labeled '5.0 cm'. The second diagram shows the same spring with a 'load 10 N' suspended from it, and its new extended length is labeled '8.0 cm'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q6",
+    "Question_text": "A force F causes a moment about point O on an L-shaped bar. The force F acts at point P. What is the moment of F about O?",
+    "image": "A diagram of an L-shaped bar with a pivot point labeled 'O' at the corner. A force 'F' is applied at point 'P' on the horizontal arm of the 'L'. Several distances are marked: 'd1' is the vertical distance from O to the horizontal line passing through P; 'd2' is the horizontal distance from O to the vertical line passing through P; 'd3' is the straight-line distance from O to P. A line extends from P showing the line of action of force F, and 'd4' is the perpendicular distance from point O to this line of action of force F. There is a right angle symbol where d4 meets the line of action of F.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q7",
+    "Question_text": "A uniform metre rule of weight W is pivoted at the 25 cm mark and held horizontal by a force F applied upwards at the 100 cm mark. The rule is supported by a vertical force P acting at the pivot. What is the magnitude of P?",
+    "image": "A diagram of a metre rule with markings from 0 to 100. A pivot is indicated at the 25 cm mark, with an upward force 'P' acting at this point. The weight 'W' of the rule is shown as a downward force acting at the 50 cm mark (center of the uniform rule). An upward force 'F' is shown acting at the 100 cm mark.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q8",
+    "Question_text": "The diagram shows a stationary fairground ride with four chairs of equal mass. Which chair has the most gravitational potential energy?",
+    "image": "A diagram of a fairground ride structure resembling a tower with a central support and radiating arms. Four chairs, labeled A, B, C, and D, are attached to the structure at different vertical positions. Chair A is at the highest position. Chairs B and D are at intermediate, slightly lower positions. Chair C is at the lowest position.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q9",
+    "Question_text": "Hydroelectric and tidal power stations generate electrical energy. Do these use renewable sources of energy?",
+    "image": "A table with two columns, 'hydroelectric' and 'tidal', and four rows representing options A, B, C, D with 'yes' or 'no' values for each. The question asks to identify the correct row.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Water"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q10",
+    "Question_text": "Which energy resource is correctly described?",
+    "image": "A table with three columns: 'energy resource', 'renewable', and 'availability'. Four rows (A, B, C, D) provide descriptions for 'biofuels', 'nuclear', 'solar radiation', and 'wind', respectively.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from the Sun",
+      "Energy from Fuels",
+      "Energy from Wind"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q11",
+    "Question_text": "A small motor has an input power rating of 10W and is switched on for 5.0 minutes. What is the electrical energy input to the motor in this time?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q12",
+    "Question_text": "Two liquids, X and Y, are poured into beakers of different sizes. Liquid X has a density of 1000 kg/m³ and liquid Y has a density of 900 kg/m³. On the base of which beaker is the pressure greatest?",
+    "image": "Four diagrams (A, B, C, D) each showing a beaker containing a liquid. Beakers A and B are wide with lower liquid levels. Beaker C is narrow with a high liquid level. Beaker D is wide with a high liquid level, but slightly lower than C. Beakers A and C contain 'liquid X'. Beakers B and D contain 'liquid Y'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q13",
+    "Question_text": "A swimmer is at the bottom of a pool. The density of the water in the pool is 1000 kg/m³ and the gravitational field strength is 9.8 N/kg. Which expression gives the pressure exerted on the swimmer due to the water?",
+    "image": "A diagram of a rectangular pool of water. The depth of the water is indicated as '5.0 m'. The label 'NOT TO SCALE' is present.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q14",
+    "Question_text": "Some gas is trapped in a large syringe. The atmospheric pressure is 100 kPa. The gas pressure is 200 kPa above atmospheric pressure. The piston moves outwards and the volume of the trapped gas doubles. The temperature remains constant. What is the new gas pressure?",
+    "image": "A diagram of a large syringe with a pressure gauge attached to it. Gas is trapped inside the syringe. The piston of the syringe is visible. The gauge is labeled 'pressure gauge' and the syringe is labeled 'syringe'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q15",
+    "Question_text": "A graph of temperature against time is shown for a material being heated from its solid state. Which row describes what is happening at X, Y and Z?",
+    "image": "A graph plotting temperature on the y-axis against time on the x-axis. The graph shows three distinct regions: an upward sloping line labeled 'X', followed by a horizontal plateau labeled 'Y', and then another upward sloping line labeled 'Z'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q16",
+    "Question_text": "A student on a camping expedition cools a sealed bottle of water which is at the same temperature as the surrounding air. Which method cools the water at the greatest rate?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection",
+      "Evaporation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q17",
+    "Question_text": "A student suggests three factors that affect the rate of emission of thermal energy by radiation from a hot object. These are: 1 the surface temperature of the object 2 the surface area of the object 3 the surface colour of the object. Which suggestions are correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q18",
+    "Question_text": "A plane mirror on a vertical wall forms an image of an object placed in front of it. Which characteristics describe the image?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q19",
+    "Question_text": "The diagrams show light travelling in air incident on the surface of a glass block. Some light is reflected and some light is refracted. Which diagram shows the reflection and refraction of the light?",
+    "image": "Four diagrams (A, B, C, D) illustrating light rays interacting with a boundary between 'air' and 'glass'. Each diagram shows an incident ray from air, a reflected ray, a refracted ray, and a normal line perpendicular to the surface. The diagrams show different angles for the reflected and refracted rays relative to the normal.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q20",
+    "Question_text": "Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q21",
+    "Question_text": "An object is placed in front of a converging lens of focal length 4.0 cm. The height of the image is 6.0 cm. The arrangement is shown on the scale diagram. What is the linear magnification produced by the lens?",
+    "image": "A scale diagram on a grid. A converging lens is shown vertically in the center. An 'object' (upright arrow) is placed to the left of the lens. An 'image' (inverted arrow) is formed to the right of the lens. The object is 4 grid units tall, and the image is 6 grid units tall. The image height is explicitly labeled '6.0 cm'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q22",
+    "Question_text": "Which range of sound frequencies includes only frequencies of sound that can be heard by a healthy human ear?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q23",
+    "Question_text": "An aircraft flying through the air becomes electrically charged. What causes this to happen?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q24",
+    "Question_text": "Two metal spheres are brought close to each other. The two spheres repel each other. Which statement explains this?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q25",
+    "Question_text": "A student sets up the circuit shown. The lamp does not light. What makes the lamp light?",
+    "image": "A circuit diagram showing a 6.0 V battery connected to a lamp. The lamp is rated 6.0 V, 12 W. There is a visible gap between the ends of the wires leading from the battery and the terminals of the lamp, indicating an open circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q26",
+    "Question_text": "Circuits P and Q each contain two identical resistors, each of resistance R. What is the resistance of circuit P and what is the resistance of circuit Q?",
+    "image": "Two circuit diagrams. 'circuit P' shows two resistors, each labeled 'R', connected in series. 'circuit Q' shows two resistors, each labeled 'R', connected in parallel across two common points.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q27",
+    "Question_text": "The current in an electric motor is 2.0 A. It transfers 20 J of energy in 5.0 s. What is the potential difference (p.d.) across the motor?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q28",
+    "Question_text": "Three students make comments about appliances with double insulation. student P: Appliances with double insulation do not need an earth wire. student Q: Double insulation protects the user of the appliance from an electric shock. student R: The circuits of appliances with double insulation do not contain fuses. Which students are correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q29",
+    "Question_text": "A magnet moves at constant speed through a coil of wire. The coil is connected to an oscilloscope. The diagram shows the trace produced on the screen. The experiment is changed and a new trace is produced. Which statement explains why the new trace is different from the original trace?",
+    "image": "Two oscilloscope traces are shown. The top trace shows a distinct positive peak followed by a distinct negative peak of similar magnitude and duration. The bottom trace shows a distinct negative peak followed by a distinct positive peak, with both peaks appearing narrower and slightly taller compared to the first trace.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q30",
+    "Question_text": "A bar magnet is dropped through a vertical solenoid that is connected to a sensitive ammeter. A current is induced in the solenoid and the solenoid becomes an electromagnet. Which row describes the polarity of end Y of the solenoid and the force between the solenoid and the bar magnet when the bar magnet leaves the solenoid?",
+    "image": "A diagram shows a vertical solenoid connected to an ammeter (labeled 'A'). A bar magnet, with its South pole (S) at the top and North pole (N) at the bottom, is shown descending and partially exiting the bottom of the solenoid. The bottom end of the solenoid is labeled 'Y'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q31",
+    "Question_text": "Which graph shows the voltage output against time for a simple a.c. generator?",
+    "image": "Four graphs of voltage against time are shown. Graph A shows a rectified sinusoidal waveform (always positive). Graph B shows a square wave alternating between positive and negative voltage. Graph C shows a sinusoidal wave alternating between positive and negative voltage. Graph D shows a rectified triangular waveform (always positive).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q32",
+    "Question_text": "A charger for a mobile phone (cellphone) uses a transformer which steps the voltage down from 230 V to 5.0 V. The primary coil in the transformer has 2500 turns. How many turns are on the secondary coil?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q33",
+    "Question_text": "A commutator is connected to the coil of a d.c. motor. The commutator rotates and connects the coil to the power supply. Once every half-turn, the current in the coil reverses. What is the name of the commutator and what is the orientation of the plane of the coil as the current reverses?",
+    "image": "Two diagrams showing a coil in a magnetic field connected to a commutator. The left diagram shows the 'coil perpendicular to magnetic field' and indicates 'slip ring' and 'brush'. The right diagram shows the 'coil parallel to magnetic field' and indicates 'split ring' and 'brush'. Both diagrams show a magnet with North (N) and South (S) poles.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q34",
+    "Question_text": "A girl makes a simple transformer to illuminate a low voltage lamp. The transformer is shown. What is the material of the rod and what is the type of power supply?",
+    "image": "A diagram of a simple transformer. Two coils are wound around a central 'rod'. One coil is connected to a 'power supply' through a switch. The other coil is connected to a 'lamp'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q35",
+    "Question_text": "Which particles are in the nucleus of a large atom?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q36",
+    "Question_text": "Alpha (α) particles and beta (β) particles are emitted during radioactive decay. Which particle has the weaker ionising effect and which has the weaker penetrating power?",
+    "image": "A table with two columns, 'weaker ionising effect' and 'weaker penetrating power', and rows for options A, B, C, D with combinations of 'α' and 'β'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q37",
+    "Question_text": "A beam of beta (β) particles passes into a magnetic field and into an electric field. Which numbers show the paths of the beam through the fields?",
+    "image": "Two diagrams. The left diagram shows a U-shaped magnet with an S pole at the top and an N pole at the bottom. A beam of 'β-particles' enters horizontally from the left into the magnetic field. Three possible paths are shown, numbered 1 (curving inward), 2 (curving outward), and 3 (going straight). The right diagram shows two parallel plates, a positive one (+) at the top and a negative one (-) at the bottom, creating an electric field. A beam of 'β-particles' enters horizontally from the left into the electric field. Three possible paths are shown, numbered 4 (curving upward), 5 (going straight), and 6 (curving downward).",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q38",
+    "Question_text": "The isotope radon-222 has a half-life of 3.8 days. Which statement about a sample containing 1.0 mg of radon-222 is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q39",
+    "Question_text": "What is the first stage in the life cycle of stars?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "Stars",
+      "The Sun as a Star"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2023/Q40",
+    "Question_text": "What is the definition of redshift?",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "The Universe"
+    ],
+    "Parts": []
+  }
+]

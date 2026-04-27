@@ -1,0 +1,198 @@
+[
+  {
+    "QuestionNumber": "October-November/31/2018/Q1",
+    "Question_text": "In this experiment, you will determine the power developed when unpeeling a piece of adhesive tape from a surface. You are provided with: exhibit A a loop of string attached to a short spring a 30 cm ruler a stopwatch a sheet of graph paper adhesive tape scissors to cut the adhesive tape. To set up the experiment: look at exhibit A – do not use, this is only for reference.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Work",
+      "Investigating Force & Extension",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Make your own version of exhibit A: Cut a piece of adhesive tape 20 cm long. Stick 15cm of this length of tape on to the graph paper. Fold the other 5cm of tape around the end of the loop of string opposite the spring. Press the end of the tape around the loop to seal the loop inside, as shown in Fig. 1.1. Use another piece of tape to fix the left-hand edge of the paper to the bench.",
+        "image": "Fig. 1.1 shows a diagram illustrating the setup for unpeeling adhesive tape. It displays a piece of graph paper on a surface, with a 15 cm length of adhesive tape stuck to it. The remaining 5 cm of the adhesive tape is folded around a loop of string, which is attached to a spring. The end of the tape is pressed together to seal the loop inside. The image is labeled with 'loop of string', 'spring', 'press together', 'adhesive tape', '15 cm', and 'graph paper'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "For the spring provided, measure the unstretched length l_A of the coiled part of the spring, as shown in Fig. 1.2. l_A = ________ cm [1]",
+        "image": "Fig. 1.2 shows a diagram of a spring in its unstretched state. A horizontal double-headed arrow indicates the length l_A across the coiled part of the spring, emphasizing the measurement of its unstretched length."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Pull the spring carefully and slowly to the right, as shown in Fig. 1.3. As you pull, keep the spring very close to the bench, but not touching it. The spring stretches. At some point the adhesive tape will just begin to peel away from the paper.",
+        "image": "Fig. 1.3 shows a hand pulling a spring attached to a loop of string. The loop of string is connected to a piece of adhesive tape stuck on graph paper. A ruler is positioned underneath the spring, showing measurements from 0 to 12 cm. The hand is pulling the spring to the right, causing it to stretch. Labels include 'loop of string', 'spring', 'tape', 'graph paper', and 'ruler'."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Hold the spring steady in this position. Measure the stretched length l_B of the coiled part of the spring. Use the equation e = l_B – l_A to calculate the extension e of the spring. e = ________ cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Use the equation F = ke to calculate the force F applied by the spring, where k = 0.25 N/cm. Give the unit of your answer. F = ________ unit ________ [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Repeat c(i). As soon as the adhesive tape begins to peel away from the paper, start the stopwatch. Continue pulling and maintain a constant extension of the spring until 3.0cm of the tape has been peeled away from the paper. Stop the stopwatch. Record the time t taken to peel 3.0cm of the tape away from the paper. t = ________ s [1]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Use the equation P = 0.030F / t to calculate the power P developed. P = ________ W [1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2018/Q2",
+    "Question_text": "In this experiment, you will investigate the focal length of a lens. You are provided with: a lens a lamp a stand, two bosses and two clamps a power supply a metre rule a sheet of graph paper. The Supervisor has set up the apparatus, as shown in Fig. 2.1. The lens and lamp have been clamped separately to the stand.",
+    "image": "Fig. 2.1 shows a diagram of the experimental setup to investigate the focal length of a lens. A lamp with a filament is suspended from a stand. Below the lamp, a lens is held by a clamp, also attached to the stand. Beneath the lens, a sheet of graph paper rests on a bench. Wires connect the lamp to a power supply. Labels include 'filament of lamp', 'lamp', 'power supply', 'lens', 'bench', and 'sheet of graph paper'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Do not adjust the height of the lamp. Switch on the lamp. Adjust the height of the clamp holding the lens until a sharply focussed image of the filament of the lamp is formed on the sheet of graph paper. You may need to adjust the position of the lens so that it is horizontal and directly beneath the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure the distance u from the filament of the lamp to the lens. u = ________ cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Measure the distance v from the lens to the graph paper. V= ________ cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe one difficulty you had in measuring these distances. [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Use the equation f = uv / (u + v) to calculate the focal length f of the lens. f= ________ cm [2]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2018/Q3",
+    "Question_text": "In this experiment, you will determine the density of cooking oil. You are provided with: a beaker containing cooking oil an empty measuring cylinder paper towels access to a balance.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine the mass m₁ of the empty measuring cylinder. m₁ = ________ g [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Pour 100 cm³ of cooking oil from the beaker into the measuring cylinder. Describe how you took an accurate reading of the volume of oil in the measuring cylinder. You may draw a diagram. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Determine the mass m₂ of the measuring cylinder containing 100cm³ of cooking oil. m2 = ________ g",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the mass m of the cooking oil. m = ________ g [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Use the equation ρ = m/V to calculate the density ρ of the cooking oil, where V is the volume of the oil. Give the unit of your answer. ρ = ________ unit ________ [2]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/31/2018/Q4",
+    "Question_text": "In this experiment, you will investigate the resistance of a thermistor. You are provided with: a power supply a switch a thermistor a resistor a thermometer a beaker a supply of very hot water a dropping pipette a stirrer a supply of cold water. The Supervisor has set up the circuit as shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows a circuit diagram for investigating the resistance of a thermistor. A d.c. power supply is connected to a switch. The circuit then splits into two branches: one contains a fixed resistor R_f between points A and B, and the other contains a thermistor. The thermistor is immersed in a beaker of water, along with a thermometer. The circuit is completed back to the power supply. Labels include 'd.c. power supply', 'thermometer', 'R_f', 'A', 'B', 'beaker', and 'thermistor'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Electrical Current",
+      "Circuit Diagrams & Circuit Components",
+      "Potential Difference in Circuits",
+      "Measurement",
+      "Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "You are also provided with: a voltmeter two connecting leads. Connect the voltmeter across the terminals of the power supply. Ensure that the positive (+) terminal of the voltmeter is connected to the positive terminal of the power supply. Switch on the circuit. Record the voltmeter reading V_S. V_S = ________ V [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Connect the voltmeter across the fixed resistor R_f between points A and B. Pour very hot water into the beaker until it reaches the 200 cm³ mark. The thermistor should be fully immersed in the water. Put the thermometer in the beaker. Observe the temperature rise.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "When the temperature reading on the thermometer stops rising, record in the first row of the results table of Fig. 4.2: 1. the temperature reading on the thermometer in the first column 2. the voltage V_AB across the fixed resistor R_f in the second column. [2]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Allow the water to cool and continue to observe the thermometer. Take readings of the temperature and the corresponding readings of the voltage V_AB as the temperature decreases. You should take one voltage reading for every 3°C or 4°C decrease in temperature until the temperature reaches 50°C. Record your readings in the table of Fig. 4.2. The water cools slowly. To speed up the cooling of the water, use the dropping pipette to remove some of the hot water and replace it with a similar volume of the cold water provided. Stir the water gently when you do this. Switch off the circuit when you have finished. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use the equation V_t = V_S – V_AB to calculate the potential difference V_t across the thermistor. Record your answers in the third column of Fig. 4.2.",
+        "image": "Fig. 4.2 shows an empty table with 5 columns. The first row has 'temperature / .......', '....... / .......', '....... / .......', '....... / .......', '....... / .......' as placeholders for headings and units."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use the equation I = V_AB / 47 to calculate the current I in the circuit. Record your answers in the fourth column of Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Use the equation R_t = V_t / I to calculate the resistance R_t of the thermistor. Record your answers in the fifth column of Fig. 4.2.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Write headings and units in the top row of the results table of Fig. 4.2. [4]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "On the grid, plot a graph of resistance R_t on the y-axis against temperature on the x-axis. Draw the curve of best fit through your points. [4]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Draw a tangent to the curve at a temperature of 65°C. Determine the gradient of your graph at this point. gradient = ________ [3]",
+        "image": "A large grid for plotting a graph, covering most of page 13. It has finely divided lines for precise plotting on both x and y axes."
+      }
+    ]
+  }
+]

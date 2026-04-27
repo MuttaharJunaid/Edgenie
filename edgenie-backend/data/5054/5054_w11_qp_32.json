@@ -1,0 +1,216 @@
+[
+  {
+    "QuestionNumber": "October-November/32/2011/Q1",
+    "Question_text": "In this experiment, you will determine the density of paper. You have been provided with • a single sheet of paper labelled A, • a stack of 100 sheets of paper, • a 30 cm ruler, • a set square.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Determine average values for the length l and the width w of the sheet of paper labelled A.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain, with the aid of a diagram, how you ensured that the average values of l and w were determined as accurately as possible.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The stack contains 100 sheets of paper. Measure accurately the total thickness ts of the stack.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Hence determine the average thickness t of a single sheet of paper.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The mass m of the sheet of paper labelled A is written on the paper. Calculate the density of paper using the relationship density = m / (lwt)",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State the assumption that you have made in determining the density of the paper.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2011/Q2",
+    "Question_text": "In this experiment, you will compare the loss of gravitational potential energy with the gain in kinetic energy when a trolley moves down a ramp. You have been provided with • a ramp, • a trolley, • a stopwatch, • a metre rule, • a set square, • a block of wood to stop the trolley at the end of the ramp, • adhesive tape.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Conservation of Energy",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The ramp has been set up for you. Do not adjust the slope of the ramp. Position a piece of adhesive tape at a distance s of 0.700m from the bottom of the ramp as shown in Fig. 2.1. The edge of the tape, at 0.700m from the bottom of the ramp, is the start position of the trolley. At this position measure the vertical height h from the bench to the underside of the ramp as shown in Fig. 2.1.",
+        "image": "Fig. 2.1 shows a setup for an experiment involving a trolley on an inclined ramp. The ramp is supported on the left side, and its lower end rests on a bench with a wooden block acting as a stop. A piece of adhesive tape is positioned on the ramp at a distance 's' (0.700m) from the bottom. A vertical dashed line indicates the height 'h' from the bench to the underside of the ramp at the position of the adhesive tape."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The front of the trolley is released from the start position. It rolls down the ramp. The gravitational potential energy Ep lost by the trolley is given by the relationship Ep = mgh. The mass m of the trolley is given on the card. Assume that the gravitational field strength g is 9.81 N/kg. Record the value of m given on the card.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate Ep.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "By releasing the trolley from the start position, determine the average time t taken for the trolley to travel to the bottom of the ramp.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the final velocity v of the trolley when its front reaches the bottom of the ramp, using the relationship v = 2s / t.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Calculate the final kinetic energy Ek of the trolley as it reaches the bottom of the ramp using the relationship Ek = ½ m v².",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Comment on the values that you have obtained for Ep and Ek.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2011/Q3",
+    "Question_text": "In this experiment, you will determine a refractive index by tracing a ray of light through a transparent block. You have been provided with • a rectangular block, • an illuminated slit, • a protractor.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Fig. 3.2 is on page 7 of your question paper. On Fig. 3.2, draw a normal to the line XY at the point M, above and below the line XY,",
+        "image": "Fig. 3.2 shows a blank drawing area with a horizontal line labeled 'X M Y'. This is the diagram on which the student is instructed to draw lines and outlines related to the light refraction experiment."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "draw a line from the top left of the page to M at an angle of 50° to the normal. Label this line L.",
+        "image": "Fig. 3.2 shows a blank drawing area with a horizontal line labeled 'X M Y'. This is the diagram on which the student is instructed to draw lines and outlines related to the light refraction experiment."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the block on Fig. 3.2 with a long straight side on line XY, the centre of the straight side at M and the block below XY. This is shown in Fig. 3.1.",
+        "image": "Fig. 3.1 shows a plan view (not to scale) of an experimental setup. A light source with a slit directs a light ray, labeled 'line L', towards point M on a horizontal line XY. A rectangular block is positioned below line XY, with one of its long straight sides centered at M, indicating where the light ray enters the block."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "On Fig. 3.2, draw the outline of the block.",
+        "image": "Fig. 3.2 shows a blank drawing area with a horizontal line labeled 'X M Y'. This is the diagram on which the student is instructed to draw lines and outlines related to the light refraction experiment."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Position the light source and slit so that a ray of light passes along the line L towards M.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Mark and label two points P₁ and P₂ on the ray that leaves the block.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Remove the block. Draw a line through P₁ and P₂ that just touches the outline of the block at a point. Label this point N.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Draw a straight line from M to N.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Measure the angle of refraction r at M.",
+        "image": null
+      },
+      {
+        "part_label": "d(iv)",
+        "part_text": "Calculate the refractive index n of the material of the block using the relationship n = sin 50° / sin r.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2011/Q4",
+    "Question_text": "In this experiment, you will investigate the electrical heating of water. You have been provided with a circuit consisting of • a power supply, • a heater coil in a beaker, • an ammeter, • a voltmeter, • a switch. You have also been provided with • a thermometer in a stand, boss and clamp, • a stirrer, • a supply of water at room temperature, • a measuring cylinder, • a stopwatch. In this experiment, the heating coil will become very hot and must not be touched.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Electrical Power",
+      "Specific Heat Capacity",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a circuit diagram of the circuit that has been set up for you.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure 50 cm³ of water and pour this into the beaker containing the heater coil.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Close the switch and quickly record the current I in the circuit and the potential difference V across the heater. Immediately after taking your readings, open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the power P of the heater using the relationship P = I V.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Measure and record the initial temperature θ₀ of the water in the beaker.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Close the switch and at the same time start the stopwatch. Over a period of 5 minutes, record, in a table, the temperature θ of the water and the time t on the stopwatch. Include the result from (d)(i) in your table.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Using the grid opposite, plot a graph of θ/°C against t/s. Draw a straight line of best fit through your points.",
+        "image": "A blank graph grid is provided on the opposite page (Page 11) for plotting temperature (θ/°C) against time (t/s)."
+      },
+      {
+        "part_label": "f",
+        "part_text": "Determine the gradient of the line of best fit.",
+        "image": null
+      }
+    ]
+  }
+]

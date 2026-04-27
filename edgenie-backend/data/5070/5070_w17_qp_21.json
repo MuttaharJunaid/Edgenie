@@ -1,0 +1,486 @@
+[
+  {
+    "QuestionNumber": "A1(a)(i)",
+    "Question_text": "Which element is a monatomic gas?",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.2 Atomic structure and the Periodic Table",
+    "Sub_topic": [
+      "Noble gases, outer electrons and occupied shells"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A1(a)(ii)",
+    "Question_text": "Which element makes up 78% of dry air?",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.3 Air quality and climate",
+    "Sub_topic": [
+      "Composition of clean air"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A1(a)(iii)",
+    "Question_text": "Which element has an oxide which reacts with the impurities in a blast furnace to form slag?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Amphoteric oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A1(a)(iv)",
+    "Question_text": "Which element forms aqueous ions with a 2+ charge which give a dark blue solution on addition of excess aqueous ammonia?",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for cations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A1(a)(v)",
+    "Question_text": "Which element reacts with propane in the presence of ultraviolet light by a substitution reaction?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.4 Alkanes",
+    "Sub_topic": [
+      "Substitution reaction",
+      "Substitution with chlorine"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2(a)",
+    "Question_text": "Describe the arrangement of the ions and the type of attractive forces between the ions in solid copper(II) sulfate.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Giant lattice structure of ionic compounds",
+      "Ionic bond definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2(b)",
+    "Question_text": "Explain why solid copper(II) sulfate does not conduct electricity but aqueous copper(II) sulfate does conduct.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Properties of ionic compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2(c)(i)",
+    "Question_text": "When aqueous copper(II) sulfate is electrolysed using platinum electrodes, copper(II) ions are reduced to copper at the negative electrode. Oxygen is formed at the positive electrode by loss of electrons from hydroxide ions. State the source of the hydroxide ions.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2(c)(ii)",
+    "Question_text": "Complete the equation for the reaction at the positive electrode.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Ionic half-equations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2(c)(iii)",
+    "Question_text": "Suggest why hydroxide ions and not sulfate ions are discharged at the positive electrode.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products at cathode and anode"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2(d)(i)",
+    "Question_text": "Give the formulae of the four ions present in aqueous copper(II) sulfate.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.4 Ion and ionic bonds",
+    "Sub_topic": [
+      "Formation of cations and anions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2(d)(ii)",
+    "Question_text": "Suggest why the solution becomes acidic as the electrolysis proceeds.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A2(d)(iii)",
+    "Question_text": "Suggest why the blue colour of the aqueous copper(II) sulfate fades as the electrolysis proceeds.",
+    "image": null,
+    "Unit": "UNIT 4: Electrochemistry",
+    "Topic": "4.1 Electrolysis",
+    "Sub_topic": [
+      "Products and observations in electrolysis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A3(a)(i)",
+    "Question_text": "Refer to this structure to explain why metals are malleable.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A3(a)(ii)",
+    "Question_text": "Refer to this structure to explain why metals conduct electricity.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.7 Metallic bonding",
+    "Sub_topic": [
+      "Metallic bonding definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A3(b)",
+    "Question_text": "Use the information in the table to place the metals calcium, iron, silver and titanium in order of their reactivity.",
+    "image": null,
+    "Unit": "UNIT 9: Metals",
+    "Topic": "9.4 Reactivity series",
+    "Sub_topic": [
+      "Order of reactivity series",
+      "Relative reactivities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A3(c)(i)",
+    "Question_text": "Calculate the maximum mass of iron that can be formed when 14.4g of iron(III) oxide is reduced by excess carbon monoxide. Give your answer to three significant figures.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Stoichiometric calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A3(c)(ii)",
+    "Question_text": "Calculate the maximum volume of carbon dioxide, in dm³, produced by this reaction, at room temperature and pressure.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Molar gas volume"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A4(a)",
+    "Question_text": "Name the homologous series of compounds which contain the -OH group.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Functional group definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A4(b)",
+    "Question_text": "What reagent and conditions are needed to make this diester from malic acid?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.7 Carboxylic acids",
+    "Sub_topic": [
+      "Reaction with alcohol"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A4(c)",
+    "Question_text": "How can aqueous malic acid and aqueous fumaric acid be distinguished when aqueous bromine is added to a sample of each?",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Test for unsaturation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A4(d)(i)",
+    "Question_text": "Name these two types of polymerisation.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Polymers definition",
+      "Addition vs condensation polymerisation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A4(d)(ii)",
+    "Question_text": "For one of these types of polymerisation, draw a section of the polymer to show two repeat units.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.8 Polymers",
+    "Sub_topic": [
+      "Addition polymer structure",
+      "Condensation polymer structure",
+      "Repeat units and linkages"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A5(a)",
+    "Question_text": "Construct the equation for the complete combustion of butane, C4H10-",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Hydrocarbons definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A5(b)",
+    "Question_text": "Explain in terms of bond making and bond breaking why this reaction is exothermic.",
+    "image": null,
+    "Unit": "UNIT 5: Chemical energetics",
+    "Topic": "5.1 Exothermic and endothermic reactions",
+    "Sub_topic": [
+      "Bond breaking and making",
+      "Enthalpy change using bond energies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "A5(c)",
+    "Question_text": "Give one use of the paraffin (kerosene) fraction.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.3 Fuels",
+    "Sub_topic": [
+      "Properties of fractions",
+      "Uses of fractions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B6(a)",
+    "Question_text": "What is meant by the term weak acid?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Weak acids examples"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B6(b)",
+    "Question_text": "Describe and explain the effect, if any, on the position of equilibrium when the concentration of ethanol is increased.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.3 Reversible reactions and equilibrium",
+    "Sub_topic": [
+      "Factors affecting equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7(a)(i)",
+    "Question_text": "Explain in terms of structure and bonding why diamond has such a high melting point.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7(a)(ii)",
+    "Question_text": "Use the information in the table to suggest how the type of structure and bonding in carbon (diamond) differs from the type of structure and bonding in tin. Explain your answer.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.6 Giant covalent structures",
+    "Sub_topic": [
+      "Structures of graphite, diamond and silicon(IV) oxide"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7(a)(iii)",
+    "Question_text": "Lead oxide is an amphoteric oxide. What is the meaning of the term amphoteric oxide?",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.2 Oxides",
+    "Sub_topic": [
+      "Amphoteric oxides"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7(b)(i)",
+    "Question_text": "Deduce the empirical formula of this chloride.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Empirical formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B7(b)(ii)",
+    "Question_text": "This chloride of germanium has a boiling point of 87 °C. Predict the structure and bonding of this chloride.",
+    "image": null,
+    "Unit": "UNIT 2: Atoms, elements and compounds",
+    "Topic": "2.5 Simple molecules and covalent bonds",
+    "Sub_topic": [
+      "Properties of simple molecular compounds"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8(a)",
+    "Question_text": "Calculate the percentage by mass of nitrogen in ammonium phosphate.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Percentage yield, composition and purity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8(b)",
+    "Question_text": "Explain why farmers spread nitrogen-containing fertilisers on their fields.",
+    "image": null,
+    "Unit": "UNIT 10: Chemistry of the environment",
+    "Topic": "10.2 Fertilisers",
+    "Sub_topic": [
+      "Ammonium salts and nitrates as fertilisers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8(c)",
+    "Question_text": "Describe a test for ammonia.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for gases"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8(d)",
+    "Question_text": "Explain why adding calcium hydroxide to the soil at the same time as ammonium phosphate results in loss of nitrogen from the soil.",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Properties of bases",
+      "Neutralisation reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B8(e)",
+    "Question_text": "Calculate the concentration, in mol/dm³, of the aqueous ammonia.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Concentration measurement",
+      "Concentration from titration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9(a)",
+    "Question_text": "Explain why cyclopropane and propene are isomers.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.1 Formulae, functional groups and terminology",
+    "Sub_topic": [
+      "Structural isomers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9(b)",
+    "Question_text": "Describe how the rate of this reaction changes with time. Explain your answer by referring to the graph.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Interpreting rate data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9(c)",
+    "Question_text": "Describe and explain the effect of increasing the concentration of cyclopropane on the rate of this reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9(d)",
+    "Question_text": "Describe and explain the effect of decreasing the temperature on the rate of this reaction.",
+    "image": null,
+    "Unit": "UNIT 6: Chemical reactions",
+    "Topic": "6.2 Rate of reaction",
+    "Sub_topic": [
+      "Effects on rate of reaction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "B9(e)",
+    "Question_text": "Complete the diagram to show the missing name, formula and conditions.",
+    "image": null,
+    "Unit": "UNIT 11: Organic chemistry",
+    "Topic": "11.5 Alkenes",
+    "Sub_topic": [
+      "Addition reaction",
+      "Addition reactions of alkenes"
+    ],
+    "Parts": []
+  }
+]

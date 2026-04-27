@@ -1,0 +1,339 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which statement about a computerised accounting system is correct? A The general ledger does not include non-current asset accounts. B The income statement always shows a profit. C The statement of financial position does not include non-current assets. D The trial balance always balances.",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.1 The trial balance",
+    "Sub_topic": [
+      "Trial balance statement",
+      "Uses/limitations trial balance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Which item is a liability? A accrued interest on loan to employee B insurance premium paid in advance C rent receivable paid in advance D short-term loan to employee",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "What is the accounting equation? A assets - liabilities = capital B assets + liabilities = capital C liabilities – assets = capital D liabilities - capital = assets",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning",
+      "Apply accounting equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "A retailer received a credit note from his wholesaler. Where would the wholesaler record this? A cash book B general journal C purchases returns journal D sales returns journal",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Advantages of prime entry",
+      "Use/process prime entry books"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "A cheque received from Kate, a credit customer, was dishonoured. How was this recorded? account debited account credited A bank Kate B Kate bank C Kate sales D sales Kate",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Outline double entry",
+      "Process data double entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "The balance of the bank column in a trader's cash book was $520 debit. The trader discovered the following did not appear on the bank statement. A cheque, $80, paid to a supplier A cheque, $470, paid into the bank What was the balance on the trader's bank statement?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Bank statement purpose",
+      "Update cash book items",
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "Joe buys and sells motor vehicles. He bought a new van on credit from JD Motors. The van's list price was $15000, subject to a trade discount of 20% and a cash discount of 5% if paid for within 30 days. Which entries record the purchase of the van in Joe's books?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Trade/cash discount accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "The following partly-completed account appeared in Edward's sales ledger. Ann account 2018 debit credit balance $ $ $ April 4 sales 21500 11 sales returns 500 On 29 April, Ann paid $10000 by cheque and was given a cash discount of $200. Which statement is correct on 30 April?",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Prepare ledger accounts",
+      "Post transactions ledgers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "Which error is an error of principle? A A cheque for $100 received from X was credited to Y's account. B A purchase invoice of $400 had not been entered in the ledger accounts. C A purchase of a delivery vehicle, $12000, was debited to the purchases account. D Rent paid, $200, was debited to the bank account and credited to the rent account.",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via journal entries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "At the end of the financial year a rent account shows that three payments of $750 had been made. $750 was still owed to the landlord. Which double entry would be made at the end of the financial year?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid expenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "Rashid maintains a provision for doubtful debts of 5% of the trade receivables at the end of each year. Trade receivables owed $40000 on 31 March 2017. Trade receivables owed $46000 on 31 March 2018. Which journal entry should Rashid make on 31 March 2018?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record/adjust doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "After the preparation of a trial balance it was found that both sales and purchases accounts were overcast by $700. Which journal entry corrects this error?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Correct via journal entries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Which type of error is corrected using a suspense account?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.2 Correction of errors",
+    "Sub_topic": [
+      "Suspense account usage"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "Jason provided the following information. March 1 sales ledger control account balance 400 debit 31 credit sales 520 cheques received from trade receivables 300 bad debts written off 45 cheque received from a credit customer dishonoured 10 What was the balance on the sales ledger control account on 31 March?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Prepare control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "James was late paying an invoice issued by Henry. Henry charged James interest on the overdue amount. Which entry would be made in Henry's control accounts?",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Purposes of control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which is an intangible asset?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "A business has no non-current liabilities. What is added to the non-current assets in order to calculate the capital employed?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Assets/liabilities/equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Alan's inventory consisted of the following. quantity goods cost per unit $selling price per unit $ 100 large t-shirts 5 7 20 small t-shirts 5 3 What was the value of the inventory?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.5 Valuation of inventory",
+    "Sub_topic": [
+      "Inventory valuation basis"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Which is a service business?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Trading vs service difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "At the end of Carol's financial year on 30 April 2018, a tenant had paid rent in advance. What was the effect of adjusting for this prepaid rent?",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "What would not appear in the receipts and payments account of a sports club?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Receipts/payments vs income/expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "A club provided the following information for the year ended 31 December 2017. subscriptions in arrears on 1 January 2017 $ 560 subscriptions received during the year $ 22700 subscriptions in arrears at 31 December 2017 $ 870 subscriptions received in advance at 31 December 2017 $ 600 How much will be shown for subscriptions in the income and expenditure account for year ended 31 December 2017?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Prepare income/expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Which item would be entered in a statement of changes in equity?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Equity meaning"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "On 1 January NH Limited was formed with the issue of 200000 ordinary shares of $0.50 each. During the first year it made a profit of $21000. A dividend of $0.02 per share was paid and $10000 was transferred to general reserve. What was the total of reserves on 31 December?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.3 Limited companies",
+    "Sub_topic": [
+      "Capital structure understanding"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "What is included in prime cost in a manufacturing account?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Direct costs understanding"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "Where is work-in-progress shown in the statement of financial position of a manufacturing business?",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.5 Manufacturing accounts",
+    "Sub_topic": [
+      "Work in progress adjustments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "A trader provided the following information. revenue $ 3600 opening inventory $ 200 purchases $ 2600 2800 closing inventory 300 2500 gross profit $ 1100 It was found that the closing inventory should have been $400. What is the correct rate of turnover of inventory?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.2 Interpretation of accounting ratios",
+    "Sub_topic": [
+      "Relationship to inventory/turnover"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "A company provided the following information about its working capital ratio (current ratio). Year 1 2:1 Year 2 1.8:1 Year 3 1.6:1 What would explain the changes in the ratio?",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "What will not be included in the accounting records of a business?",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Accounting role information"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Which international accounting objectives are described by the following statements? 1 Information in financial statements must be free from material error and bias. 2 Users must be able to identify differences and similarities between information in different financial statements.",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

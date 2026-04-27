@@ -1,0 +1,245 @@
+[
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q1",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve 4(x – 2) = 7 – x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The interior angle of a regular polygon is 165°. How many sides has the polygon?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q3",
+    "Question_text": "The diagrams show parallelograms made from small triangles.",
+    "image": "A series of 5 diagrams showing parallelograms constructed from small equilateral triangles. Parallelogram 1 uses 2 triangles, Parallelogram 2 uses 4, Parallelogram 3 uses 6, Parallelogram 4 uses 8, Parallelogram 5 uses 10. The parallelograms increase in width by two triangles each step.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the table below. (Table with Parallelogram m from 1 to 6, and Number of small triangles from 2, 4, 6, 8, with two blanks)",
+        "image": "A table with two rows: 'Parallelogram m' (1, 2, 3, 4, 5, 6) and 'Number of small triangles' (2, 4, 6, 8, [blank], [blank])."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find an expression, in terms of m, for the number of small triangles used to make Parallelogram m.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q4",
+    "Question_text": "A box of chocolates contains 10 milk chocolates and 2 plain chocolates. Sacha eats 3 chocolates chosen at random from the box. The tree diagram shows the possible outcomes and their probabilities.",
+    "image": "A partially completed probability tree diagram showing three stages of chocolate selection (First, Second, Third chocolate). Branches indicate \"milk\" or \"plain\" with associated probabilities. The first stage shows 10/12 for milk and 2/12 for plain. The second stage, following milk, shows 9/11 for milk and 2/11 for plain. The third stage, following milk then milk, shows 8/10 for milk and 2/10 for plain. Other branches are incomplete.",
+    "Unit": "Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using tree diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the tree diagram.",
+        "image": "A partially completed probability tree diagram showing three stages of chocolate selection (First, Second, Third chocolate). Branches indicate \"milk\" or \"plain\" with associated probabilities. The first stage shows 10/12 for milk and 2/12 for plain. The second stage, following milk, shows 9/11 for milk and 2/11 for plain. The third stage, following milk then milk, shows 8/10 for milk and 2/10 for plain. Other branches are incomplete."
+      },
+      {
+        "part_label": "a(ii)(a)",
+        "part_text": "Expressing each answer as a fraction in its lowest terms, find the probability that Sacha eats 3 milk chocolates,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(b)",
+        "part_text": "eats 2 milk chocolates and 1 plain chocolate in any order.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q5",
+    "Question_text": "",
+    "image": "A box with the text \"Exchange rate $1 = €0.72\".",
+    "Unit": "Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money",
+      "Convert currencies"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Eddie travels from the USA to Germany. He changes $300 into euros (€). How many euros does he receive?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q6",
+    "Question_text": "ABCD is a trapezium with BC parallel to AD. E is the point on AD such that BE is perpendicular to AD. BDA = 55°, AE=7cm, BE = 18cm and BC=9cm.",
+    "image": "A trapezium ABCD with BC parallel to AD. A perpendicular line BE is drawn from B to AD, meeting AD at E. Dimensions are marked: BC = 9, BE = 18, AE = 7. Angle BDA is 55°. A right angle symbol is at E for angle BEA.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate BÂE,",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems",
+      "Round to accuracy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In an athletics match Ben won the 100m race in 9.98 s and Calvin won the 200m race in 19.94 s. What is the difference in their average speeds? Give your answer in metres per second, correct to two decimal places.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q8",
+    "Question_text": "f(x) = (4x - 3)/2.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find f(-2).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q9",
+    "Question_text": "Shape I is a cylinder with radius 4 cm and height h cm. The volume of Shape I is 1500 cm³.",
+    "image": "A diagram of a cylinder labeled \"Shape I\" with radius 4 (indicated by a line from center to edge of base) and height h.",
+    "Unit": "Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of ... cylinder"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find h.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q10",
+    "Question_text": "The table shows some values of x and the corresponding values of y for y = 6/x².",
+    "image": "A table of x and y values for the function y = 6/x². The x-values range from -3 to 3. The y-values are partially completed: x: -3, -2.5, -2, -1.5, -1, 1, 1.5, 2, 2.5, 3. y: 0.96, 1.5, 2.67, [blank], [blank], 6, 2.67, 1.5, 0.96, [blank].",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.10 Graphs of functions",
+    "Sub_topic": [
+      "Construct tables of values, and draw, recognise and interpret graphs for functions of the following forms: axⁿ (includes sums of no more than three of these)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Complete the table.",
+        "image": "A table of x and y values for the function y = 6/x². The x-values range from -3 to 3. The y-values are partially completed: x: -3, -2.5, -2, -1.5, -1, 1, 1.5, 2, 2.5, 3. y: 0.96, 1.5, 2.67, [blank], [blank], 6, 2.67, 1.5, 0.96, [blank]."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On the grid draw the graph of y = 6/x² for −3≤x≤3.",
+        "image": "A Cartesian coordinate grid with x-axis from -3 to 3 and y-axis from 0 to 8. Grid lines are marked every unit."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Use your graph to find the values of x when y = 2.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "By drawing a tangent, find the gradient of the curve when x = 1.5.",
+        "image": null
+      },
+      {
+        "part_label": "a(v)",
+        "part_text": "By drawing a suitable line on the grid, solve the equation 6/x² = 2−x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q11",
+    "Question_text": "The scale diagram shows the positions, A and B, of two boats. Scale: 1 cm to 50 m",
+    "image": "A scale diagram showing point A and point B on a vertical line. A 'North' arrow points upwards from A.",
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find the actual distance between the two boats.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "4024/21/M/J/13/Q12",
+    "Question_text": "The distribution of the weights of luggage for 140 passengers is shown in the table.",
+    "image": "A frequency table with 'Weight of luggage (w kg)' in intervals (0<w≤6, 6<w≤10, 10<w≤14, 14<w≤16, 16<w≤18, 18<w≤22, 22<w≤30) and corresponding 'Frequency' (15, 14, 20, 24, 31, 24, 12).",
+    "Unit": "Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate estimate of mean for grouped discrete or continuous data"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate an estimate of the mean weight of luggage.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "QuestionNumber": "October-November/22/2022/Q1",
+    "Question_text": "A train travels along a straight horizontal track. At time t = 0, the train passes through station P at constant speed without stopping. The driver applies the brakes 70s before reaching station Q. The train decelerates. Fig. 1.1 is the speed-time graph for the train from t = 0 until it stops at station Q.",
+    "image": "A speed-time graph titled 'Fig. 1.1'. The y-axis represents speed in m/s, ranging from 0 to 80. The x-axis represents time in s, ranging from 0 to 140. A horizontal line segment indicates constant speed from t=0 to t=50s at 80 m/s. A downward sloping straight line then shows deceleration from t=50s (speed 80 m/s) to t=120s (speed 0 m/s). The x-axis also has labels 'train passes through station P' at t=0 and 'train reaches station Q' at t=120s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion, 1.3 Mass & weight, 1.5 Forces",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Mass & Weight",
+      "Resultant Forces",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Using Fig. 1.1, determine the distance between station P and station Q.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Determine the deceleration of the train in the 70s before it stops at station Q.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the resultant force on the train as it decelerates.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2022/Q2",
+    "Question_text": "The foundations that support a building are long concrete cylinders that are pointed at one end. A pile-driver is a machine that forces the pointed concrete cylinders into the ground. Fig. 2.1 shows a pile-driver. A heavy block of mass 2.9 × 10^4 kg is lifted into the air then dropped onto the top of a concrete cylinder. This forces the cylinder into the ground.",
+    "image": "Fig. 2.1 shows a pile-driver machine. It consists of a large crane-like structure with a tall vertical guide. A heavy block (labeled 'heavy block') is suspended by a cable, positioned above a concrete cylinder (labeled 'concrete cylinder') which is partially driven into the ground. The machine itself is labeled 'pile-driver'. Fig. 2.2 shows a 3D isometric view of a rectangular block labeled 'heavy block' with dimensions indicated: height is 2.0 m and cross-sectional area of its top surface is 1.8 m².",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion, 1.3 Mass & weight, 1.4 Density, 1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Density",
+      "Measuring Density",
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Conservation of Energy",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 2.2 shows the heavy block. The block is 2.0 m tall and has a cross-sectional area of 1.8 m². Calculate the density of the material used to make the block.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The pile-driver lifts the block from the top of a concrete cylinder, through a height of 0.80 m. The gravitational field strength g is 10 N/kg. Calculate the gravitational potential energy gained by the block.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The block is then dropped from rest onto the top of the concrete cylinder. Calculate the speed of the block just before it hits the concrete cylinder.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2022/Q3",
+    "Question_text": "Fig. 3.1 shows a man standing underneath an outdoor heater on a cold evening. Gas in the cylinder at the base of the heater is the fuel for the heater. When the heater is operating, the gas travels to the top of the heater where it burns.",
+    "image": "Fig. 3.1 is a diagram showing a man standing next to an outdoor gas heater. The heater has a cylindrical base containing a 'gas cylinder', a tall central column, and a top section with a 'metal hood' (shiny surface) and a 'red-hot metal screen' where the gas burns. The man is wearing a 'pullover'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy, UNIT 2: THERMAL PHYSICS",
+    "Topic": "1.7 Energy, Work and Power, 2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the form of energy stored in the gas that is transferred by the heater.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how thermal energy in the red-hot metal screen is transferred to the man and how it warms him.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "At the top of the heater is a metal hood that has a shiny lower surface. Explain why this makes the energy transfer from the metal screen more efficient.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The air temperature decreases and the man puts on a black pullover. Explain one way in which wearing the black pullover helps to keep the man warm.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2022/Q4",
+    "Question_text": "A sound wave, travelling in air or water, contains compressions and rarefactions. The range of audible sound frequencies for the dolphin is 75 Hz to 140000 Hz. In water, the speed of sound is 1500 m/s. Calculate the smallest wavelength of sound in water that the dolphin can hear.",
+    "image": "Fig. 4.1 shows a silhouette drawing of a dolphin jumping out of water. The dolphin is curved in an arc, with its tail and head pointing upwards. The water below it is indicated by horizontal lines.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves, 3.4 Sound",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves",
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe an experiment to show that a medium is required to transmit sound waves. You may draw a labelled diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "When a sound wave passes through air or water, the molecules of the air or water move. Describe the motion of the molecules due to the sound wave.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe what is meant by 'a rarefaction'.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the smallest wavelength of sound in water that the dolphin can hear.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2022/Q5",
+    "Question_text": "The power supply in a circuit is made from several cells, each with the same electromotive force (e.m.f.). The cells are connected in parallel. The power supply is connected in series to a resistor of resistance 4000 Ω and a thermistor. There is a voltmeter in parallel with the resistor. Fig. 5.1 is the circuit diagram.",
+    "image": "Fig. 5.1 shows a circuit diagram. A power supply is connected to a series circuit. The series circuit contains a fixed resistor (labeled 4000 Ω) and a thermistor. A voltmeter (labeled V) is connected in parallel across the fixed resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities, 4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Resistance",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Potential Dividers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by 'electromotive force'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State one advantage of using several cells in parallel rather than a single cell as the power supply.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The temperature of the thermistor increases. Explain what happens to the reading on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The e.m.f. of the power supply is 1.5 V. Calculate the reading on the voltmeter when the resistance of the thermistor is 8000 Ω.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2022/Q6",
+    "Question_text": "The primary coil of a transformer is connected to the mains supply. The voltage of the a.c. mains supply is 240V. Fig. 6.1 is a diagram of the arrangement.",
+    "image": "Fig. 6.1 shows a transformer with a laminated iron core. A primary coil is wrapped around one side of the core and connected to an a.c. mains supply (indicated as 240 V). A secondary coil is wrapped around the opposite side of the core. The core is labeled '-iron core', and the coils are labeled 'primary coil' and 'secondary coil'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity, 4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Transformers",
+      "Transformer Calculations",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why a voltage is produced in the secondary coil.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "There are 5600 turns on the primary coil of the transformer and 350 turns on the secondary coil. Calculate the output voltage of the transformer.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The output of the transformer is connected to a 90 W filament lamp which operates at normal brightness. Calculate the current in the lamp.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2022/Q7",
+    "Question_text": "Copper is sometimes chosen as a material to make pans for heating liquids. A copper pan contains water at room temperature.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter, 2.2 Thermal properties & Temperature, 2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Evaporation",
+      "Convection",
+      "Thermal Conduction",
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The top surface of the water in the pan cools as water evaporates. A convection current causes the rest of the water to cool. Explain how this convection current is produced.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Name the process by which thermal energy passes through the base of the pan.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Copper remains a solid when heated up to 1000°C. State one other reason why it is sensible to make a pan out of copper.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The specific heat capacity of water is 4200 J/(kg°C) and the pan contains 750 g of water. Calculate the energy needed to increase the temperature of the water from 17°C to 100°C.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State two ways in which boiling differs from evaporation.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "At 100°C the temperature of the water stops increasing, even though energy is still being transferred to the water. Explain, in terms of molecules, why thermal energy is needed to change the state of the water from liquid to gas.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "The specific latent heat of vaporisation of water is 2.3 × 10^6 J/kg. Thermal energy is transferred to the boiling water at a rate of 1300 J/s. Calculate the mass of water that boils away in the 10 minutes immediately after the water reaches 100°C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2022/Q8",
+    "Question_text": "An uncharged plastic rod is rubbed with an uncharged woollen cloth. As a result, the rod becomes negatively charged.",
+    "image": "Fig. 8.1 shows a spherical 'metal sphere X' placed on a 'plastic stand'. Fig. 8.2 shows the 'metal sphere X' on its 'plastic stand' with a 'negative rod' held above it, not touching. Fig. 8.3 is similar to Fig. 8.2, but an 'earth wire' is connected from the metal sphere to the ground. Fig. 8.4 shows a single circle labeled 'Y' which represents a negatively charged sphere, without showing the negative charges.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Demonstrating Electric Charges",
+      "Static Electricity",
+      "Electric Fields",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain, in terms of particles, how the rod becomes charged and state what happens to the cloth.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain why metals are electrical conductors and why plastics are electrical insulators.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "By drawing on Fig. 8.2, show the distribution of charge on X.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "An earth wire is now connected to the metal sphere as shown in Fig. 8.3. State what happens to the charges on the sphere as the earth wire is connected.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The earth wire in (ii) stays connected to the metal sphere. Describe the distribution of charge on the sphere.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "The earth wire is disconnected from the sphere and then the negatively charged rod is moved away from the sphere. Explain what happens to the charges on the sphere as the charged rod is moved away.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "State what is meant by 'electric field'.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "On Fig. 8.4, draw the pattern and mark the direction of the electric field lines surrounding sphere Y.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/22/2022/Q9",
+    "Question_text": "Protactinium-234 (234/91 Pa) is a radioactive isotope of protactinium that decays to uranium-234 (234/92 U).",
+    "image": "Fig. 9.1 shows a graph of corrected count rate (counts/s) against time (s) for a protactinium-234 sample. The y-axis ranges from 0 to 60 counts/s and the x-axis from 0 to 320 s. Plotted points (crosses) show an exponential decay curve, starting near 55 counts/s at t=0 and decreasing over time. A best-fit line is drawn through the points, showing typical radioactive decay.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom, 5.2 Radioactivity",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "Detection of Radioactivity",
+      "Background Radiation",
+      "Half-Life",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Compare the nuclide notation 234/91 Pa with the nuclide notation 234/92 U and deduce what this shows about what is emitted from a nucleus of protactinium-234 as it decays to uranium-234. Place a tick (✔) in the appropriate boxes of Table 9.1 to show what is deduced from comparing the nuclide notations.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain, by referring to their nuclear compositions, why protactinium-231 and protactinium-234 are both isotopes of the same element.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain, by referring to their nuclear compositions, why protactinium-231 and protactinium-234 are different isotopes of that element.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The teacher measures and records the background radiation count rate. Describe what is meant by 'background radiation' and state two significant sources of the count rate recorded by the teacher.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The teacher moves a sample of protactinium-234 so that it is next to the detector. Suggest one precaution that ensures that the sample is moved in a safe way.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The count rate is measured every 20s with the sample present, and then corrected for background radiation. Fig. 9.1 shows a graph of the corrected count rate against time for the protactinium-234 sample. The curve is the best-fit line. Explain why many of the crosses do not lie on the curve.",
+        "image": null
+      },
+      {
+        "part_label": "c(iv)",
+        "part_text": "Using Fig. 9.1, determine the half-life of protactinium-234. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c(v)",
+        "part_text": "The uranium-234 formed from the protactinium-234 is also radioactive. Its half-life is many thousands of years. Explain why the radiation from uranium-234 does not affect the count rates measured in this experiment.",
+        "image": null
+      }
+    ]
+  }
+]

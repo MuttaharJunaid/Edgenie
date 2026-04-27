@@ -1,0 +1,181 @@
+[
+  {
+    "QuestionNumber": "5054/32/May-June/2010/Q1",
+    "Question_text": "In this experiment, you will determine the density of the material from which a sphere is made. You have been provided with 20 glass spheres, two half-metre rules, two set squares and you have access to a top-pan balance.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Place the two half-metre rules parallel to one another, with a gap between the two, as shown in Fig. 1.1. Ensure that the spheres are touching each other and are in a line. Measure the total length L occupied by the 20 spheres. L = [1]",
+        "image": "Fig. 1.1 (top view) shows two half-metre rules placed parallel to each other with a 'gap' in between them. Twenty small spheres are arranged in a single line within this gap, touching each other. The rules are labeled 'metre rules'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "State, with the aid of a diagram, a technique that you used to ensure that L was determined as accurately as possible. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Use your value of L to determine the average diameter d of a sphere. d =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Use the top-pan balance to determine the average mass m of a sphere. m =",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Calculate the density of the material from which the sphere is made, using the relationship density = 6m / (πd^3) density = [3] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/32/May-June/2010/Q2",
+    "Question_text": "In this experiment, you will determine the acceleration of a block of wood across the bench. You have been provided with the apparatus shown in Fig. 2.1, nine 10g slotted masses, a stopwatch, a metre rule, a set square and a stand, clamp and boss to support the rule.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Newton's Second Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The apparatus shown in Fig. 2.1 has been set up for you. Do not remove the additional mass from the wooden block. Move the block away from the pulley until the mass hanger is just below the pulley. Clamp the metre rule vertically close to, but not touching, the mass hanger. Measure the distance y from the base of the mass hanger to the floor. y = [1]",
+        "image": "Fig. 2.1 shows an experimental setup for determining acceleration. A 'wooden block' with an 'additional mass' on top rests on a 'bench'. A string attached to the block passes over a 'pulley' at the bench edge and connects to a 'mass hanger' that hangs towards the 'floor'. The vertical distance from the base of the mass hanger to the floor is labeled 'y'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain, with the aid of a diagram, how you ensured that the metre rule was vertical. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The mass of the mass hanger is given on the card. Place sufficient 10g slotted masses on the mass hanger to ensure that the wooden block accelerates across the bench when released. Record the total mass m of the mass hanger and the slotted masses. m =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Move the block away from the pulley until the base of the mass hanger is at the height y above the floor, as measured in (a). Determine the average time t for the mass hanger to fall to the floor. t = [2]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the acceleration a of the block, using the relationship a = 2y / t^2 a = [1] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/32/May-June/2010/Q3",
+    "Question_text": "In this experiment, you will measure the focal length of a lens. You have been provided with a converging lens, an illuminated cross-wire object, a lens holder, a screen, a metre rule and a 30 cm rule.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine the average diameter d of the cross-wire object. d = [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Set up the apparatus as shown in Fig. 3.1. Adjust the position of the lens until the distance u between the object and the lens is 20.0cm. Adjust the position of the screen until a sharply-focused image of the cross-wire object is formed on the screen. Determine",
+        "image": "Fig. 3.1 shows an optical bench setup. From left to right: a 'light source', a 'cross-wire object' positioned after the light source, a 'lens in lens holder', and a 'screen'. A 'metre rule' is shown along the base of the setup. The distance from the cross-wire object to the lens is labeled 'u'. The distance from the lens to the screen is labeled 'v'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "the distance v between the lens and the screen, v =",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the average diameter D of the image formed on the screen. D = [2]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "the magnification m of the image, using the relationship m = D/d m =",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "the focal length f of the converging lens, using the relationship f = v / (m + 1) f = [2] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/32/May-June/2010/Q4",
+    "Question_text": "In this experiment, you will investigate the discharging of a capacitor through a resistor. You have been provided with a circuit consisting of a power supply, a resistor, a capacitor and a switch. You have also been provided with a voltmeter with two connecting leads and a stopwatch.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Electromotive Force & Potential Difference",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In the space below, draw a circuit diagram of the circuit, clearly labelling points A, B, C and D. The symbol for the capacitor has been drawn for you. [1]",
+        "image": "A capacitor symbol is drawn horizontally with two parallel plates, one slightly curved. This symbol is provided to assist in drawing the complete circuit diagram."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Connect the voltmeter between points A and B. Ensure that the positive terminal of the voltmeter is connected to point A. Close the switch and record the potential difference V0 between the terminals of the power supply. V0 = [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Disconnect the voltmeter and then connect it between points C and D, with the positive terminal of the voltmeter connected to C. Ensure that the switch is still closed and record the potential difference VR across the resistor. VR = [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "When the switch is opened, the capacitor will start to discharge through the resistor. Open the switch and start the stopwatch. Record the potential difference VR across the resistor as a function of time t for a range of values of t, up to a maximum of t = 80 seconds. Record your results in a table, including your result from (c). If you need more readings, close the switch, reset the stopwatch and repeat the procedure. [4]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Using the grid opposite, plot a graph of VR/V0 against t/s. Draw a curved line of best fit. [4]",
+        "image": "An empty grid is provided for plotting a graph with the y-axis representing VR/V0 (dimensionless) and the x-axis representing time t in seconds (t/s)."
+      },
+      {
+        "part_label": "f",
+        "part_text": "Determine the gradient of your graph when VR = 0.5 V0. gradient = [3]",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "Determine the time taken for the capacitor to discharge to VR = 0.37 V0. time = [1] [Total: 15]",
+        "image": null
+      }
+    ]
+  }
+]

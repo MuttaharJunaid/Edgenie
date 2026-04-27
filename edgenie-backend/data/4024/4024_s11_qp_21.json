@@ -1,0 +1,455 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2011/Q1",
+    "Question_text": "Ahmed's internet provider offers two payment schemes. Scheme A : $30 per month for unlimited use. Scheme B : $0.05 per minute on weekdays and $0.03 per minute at the weekend. Each month Ahmed uses the internet for a total of 5 1/4 hours at the weekday rate and a total of 12 hours at the weekend rate. Find the cost per month, in dollars, for Scheme B and decide which payment scheme is cheaper.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money",
+      "Use common rates",
+      "Apply other rates"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Ahmed's internet provider offers two payment schemes. Scheme A : $30 per month for unlimited use. Scheme B : $0.05 per minute on weekdays and $0.03 per minute at the weekend. Each month Ahmed uses the internet for a total of 5 1/4 hours at the weekday rate and a total of 12 hours at the weekend rate. Find the cost per month, in dollars, for Scheme B and decide which payment scheme is cheaper.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Ahmed's printer can use large or small black cartridges. A large cartridge costs $48.50 and prints 1000 pages. A small cartridge prints 650 pages. 2 small cartridges cost $65. Find the cost per page, in dollars, if Ahmed buys 2 small cartridges.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Is it cheaper per page for Ahmed to buy 2 small cartridges or a large cartridge? Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Ahmed buys a new monitor, keyboard and computer. He is given a 15% discount off the total price. The discounted price that Ahmed pays is $1134.75. The price of the monitor before the discount was $375. The price of the keyboard before the discount was $70. Calculate the price of the computer before the discount.",
+        "image": "A diagram showing a monitor with a price tag of $375, a keyboard with a price tag of $70, and a computer tower labeled 'Computer'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q2",
+    "Question_text": "A is the point (3, 6) and B is the point (11, 12).",
+    "image": null,
+    "Unit": "Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the coordinates of the midpoint of AB.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "C and D have coordinates (10, 15) and (-8, -21). Find the equation of the line CD in the form y = mx + c .",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Does the point (–2, –9) lie on the line CD? Show your working to justify your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)(a)",
+        "part_text": "The line l has equation 4y = 3x + 15. Find the coordinates of the point where l crosses the x axis.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)(b)",
+        "part_text": "Find the coordinates of the point where l intersects the line y = p. Express each coordinate in terms of p.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The line l is drawn on the grid below. By drawing the line 3x + 2y = 30 on the grid, find the coordinates of the point where these two lines intersect.",
+        "image": "A Cartesian coordinate grid showing the line l with equation 4y = 3x + 15 plotted, extending from x=0 to x=10 and y=0 to y=9."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q3",
+    "Question_text": "PQRS is a triangular-based pyramid. RS is perpendicular to the base PQR. RS = 8cm and RQS = 37°.",
+    "image": "A 3D diagram of a triangular-based pyramid labeled PQRS, with RS vertical, and an angle RQS = 37° indicated. A smaller pyramid KLMN is also shown.",
+    "Unit": "Trigonometry",
+    "Topic": "6.2 Right-angled triangles",
+    "Sub_topic": [
+      "Know and use sine, cosine, tangent ratios for acute angles in right-angled triangle calculations"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find QR.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Pyramid KLMN is similar to pyramid PQRS. MN = 2cm and the volume of KLMN is 3 cm³. Find the volume of PQRS.",
+        "image": "A smaller pyramid labeled KLMN is shown, similar to PQRS, with a side MN labeled 2."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Jean-Pierre bought a watch for $110. Simon bought an identical watch for £46.62. Find the difference, in dollars, between the amount Jean-Pierre paid and the amount Simon paid.",
+        "image": "A table showing 'Exchange Rate $1 = £0.45'."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The time taken to build a brick wall is inversely proportional to the number of workers. 3 workers took 30 hours to build a wall. Calculate the time it would have taken 5 workers to build this wall.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q4",
+    "Question_text": "Rectangular paving slabs measure x centimetres by y centimetres, where x < y. Fourteen of these slabs form a path around each of two different rectangular gardens. These two gardens are shaded in the designs below.",
+    "image": "Two diagrams, 'Design 1' and 'Design 2'. Design 1 shows a rectangular shaded garden surrounded by paving slabs arranged to form a larger rectangle. Design 2 shows a rectangular shaded garden in the center, surrounded by paving slabs arranged to form a larger rectangle, but with the slabs also creating a grid pattern within the path.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The outside perimeter of the path in Design 1 is 10.2 metres. The total perimeter of the path in Design 2 is 13.6 metres. Show that 4x + 5y = 510 and 5x + 2y = 340.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve the simultaneous equations. 4x + 5y = 510 5x + 2y = 340",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the difference between the areas of the two gardens. Give your answer in square metres.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q5",
+    "Question_text": "A = ((-1, 2), (3, 1)) and B = ((4, 2), (-3, -1)).",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Know that letters can be used to represent generalised numbers",
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find AB.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find B⁻¹.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Vector PQ = (12, 5) and Vector QR = (-4, 1). Calculate |PQ|.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find Vector PR.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "You may use the grid below to help you answer this question. T is the point (13, 7) and U is the point (8, 9). Find Vector TU.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "TUV is an isosceles triangle with TU = TV. The y-coordinates of the points U and V are equal. Find the coordinates of V.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "W is the point (1, 3). Calculate the area of triangle TUW.",
+        "image": "A Cartesian coordinate grid with x-axis from 0 to 20 and y-axis from 0 to 10."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q6",
+    "Question_text": "The diagram shows triangles A, B and C.",
+    "image": "A Cartesian coordinate grid with x-axis from -7 to 7 and y-axis from -6 to 6. Three triangles are plotted on the grid: Triangle A in the first quadrant, Triangle B in the fourth quadrant, and Triangle C in the third quadrant.",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)(a)",
+        "part_text": "Describe fully the single transformation that maps triangle A onto triangle B,",
+        "image": null
+      },
+      {
+        "part_label": "a(i)(b)",
+        "part_text": "triangle A onto triangle C.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(a)",
+        "part_text": "One vertex of triangle A is (2, 1). Find the coordinates of this point when it is reflected in the line y = -x,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)(b)",
+        "part_text": "rotated through 90° anticlockwise about (1,−1).",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "You may use the grid below to help you answer this question. The points (2, 1), (4, 3), (3, 1) and (p, q) form a quadrilateral. This quadrilateral has rotational symmetry order 1 and one line of symmetry. One possible position of (p, q) is (2, 2). Write down the name of this special quadrilateral.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Given that p and q are integers, find two other possible positions of (p,q).",
+        "image": "A Cartesian coordinate grid with x-axis from 0 to 5 and y-axis from 0 to 5, intended for plotting points."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q7",
+    "Question_text": "ABCD is a trapezium with AD parallel to BC. AB = 16cm, BC = 20 cm and ABC = 115°.",
+    "image": "A trapezium ABCD with AB=16cm, BC=20cm, and angle ABC=115° marked. AD is parallel to BC.",
+    "Unit": "Trigonometry",
+    "Topic": "6.3 Non-right-angled triangles",
+    "Sub_topic": [
+      "Use sine and cosine rules in calculations involving lengths and angles for any triangle"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find AC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Show that the perpendicular distance between BC and AD is 14.5 cm.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The area of the trapezium ABCD is 348 cm². Find AD.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Show that the area of triangle ACD is 203 cm².",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "Hence, or otherwise, find CÂD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q8",
+    "Question_text": "A is a point on the circle, centre M, and AB is a tangent at A. AM = y centimetres, AB = (y + 5) centimetres and MB = (y + 9) centimetres.",
+    "image": "A circle with center M. Point A is on the circle, and a line segment AM is shown. A line segment AB is tangent to the circle at A. A line segment MB connects the center to point B. The lengths AM=y, AB=(y+5), and MB=(y+9) are indicated.",
+    "Unit": "Trigonometry",
+    "Topic": "6.1 Pythagoras’ theorem",
+    "Sub_topic": [
+      "Know and use Pythagoras’ theorem"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Show that y² – 8y – 56 = 0 .",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Solve the equation y² – 8y – 56 = 0, giving each answer correct to 1 decimal place.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Find the length of the longest side of triangle ABM.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)(a)",
+        "part_text": "Q, R and S are points on a circle, centre O. QT is the tangent at Q and QTO = x° . Show that QRS is 1/2 (90-x).",
+        "image": "A circle with centre O. Points Q, R, S are on the circle. A tangent line QT touches the circle at Q. An angle QTO is marked as x°."
+      },
+      {
+        "part_label": "b(i)(b)",
+        "part_text": "Find an expression, in terms of x, for OQS.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(a)",
+        "part_text": "It is given that three times QRS is twice OQS. Show that 180 + 2x = 270 – 3x .",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(b)",
+        "part_text": "Hence find QTO.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q9",
+    "Question_text": "The masses of 120 potatoes were recorded. The table below shows the distribution of their masses.",
+    "image": "A table showing the mass distribution of 120 potatoes, with mass intervals (m grams) and corresponding frequencies. Intervals are 0 ≤ m < 100, 100 ≤ m < 150, 150 < m < 200, 200 < m < 250, 250 < m < 350. Frequencies are 14, 28, 37, 21, 20 respectively.",
+    "Unit": "Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Calculate with frequency density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Using a scale of 2cm to represent 50 grams, label the horizontal axis for masses from 0 to 350 grams. Using a scale of 1 cm to represent 0.1 unit, label the vertical axis for frequency densities from 0 to 0.8 units. Draw a histogram to represent the information in the table.",
+        "image": "An empty grid provided for drawing a histogram, with space for horizontal and vertical axis labels."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Estimate the number of potatoes with a mass greater than 270 grams.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "In which interval is the upper quartile of the distribution?",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Find the probability that a potato chosen at random has a mass less than 150 grams. Give your answer as a fraction in its simplest form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The masses of some oranges were recorded. The table below shows the distribution of their masses. The estimated mean mass of an orange is 183 grams. Find the value of p.",
+        "image": "A table showing the mass distribution of some oranges, with mass intervals (n grams) and corresponding frequencies. Intervals are 100 ≤ n < 150, 150 ≤ n < 200, 200 ≤ n < 250. Frequencies are 14, p, 26 respectively."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "An orange is chosen at random. Find the probability that it has a mass less than 250 grams.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A potato and an orange are chosen at random. Calculate the probability that they both have a mass less than 150 grams.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q10",
+    "Question_text": "A cylindrical candle has a height of 5 cm. A is the centre of the top of the candle and B is the centre of the base of the candle. The wick runs from B through A and extends 12 mm above A.",
+    "image": "A diagram of a cylindrical candle. The height of the candle from B (base center) to A (top center) is 5 cm. The wick extends 12 mm above point A.",
+    "Unit": "Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "How many of these candles can be made using a 2m length of wick?",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The wick is in the form of a solid cylinder. The volume of the wick inside the candle from A to B is 0.2 cm³. Calculate the radius of the wick. Give your answer in millimetres.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(a)",
+        "part_text": "One candle was made by pouring candle wax into a cylindrical mould so that it surrounded the wick. This mould has an internal radius of 1.9 cm. Calculate the volume of candle wax required to make this candle.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)(b)",
+        "part_text": "How many of these candles can be made using 3 litres of candle wax?",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "One of these candles is placed on a rectangular piece of wrapping paper. The paper is wrapped around the candle so that it covers the outside and there is an extra 1 cm for an overlap. What is the length, in centimetres, of paper required to wrap one candle?",
+        "image": "A diagram showing a rectangular piece of paper with a cylindrical candle placed on it. The paper's length is labeled 'length'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2011/Q11",
+    "Question_text": "The speed-time graph represents Brian's car journey to work on Monday.",
+    "image": "A speed-time graph for Brian's car journey. The x-axis represents 'Time of day' from 7:50 am to 8:30 am. The y-axis represents 'Speed (km/h)' from 0 to 90. The graph shows increasing speed, constant speed, decreasing speed, and a final constant speed segment.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "How long does his journey take?",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "During the first 10 minutes he travels with a constant acceleration. Find this acceleration in kilometres per hour per hour.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "How far does Brian travel at his maximum speed?",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Tuesday Brian leaves home at 8.00 am and travels 30km to work. On the first part of his journey he travels for 15 minutes at a speed of 40km/h. On the second part of his journey he travels 12km in 8 minutes at a constant speed. On the third part of his journey he travels at a constant speed. He arrives at work at 8.47 am. Find the distance he travels on the first part of his journey.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On the axes below, draw a distance-time graph to represent his journey to work on Tuesday.",
+        "image": "An empty grid for drawing a distance-time graph. The x-axis is 'Time of day' from 8:00 am to 8:50 am. The y-axis is 'Distance (km)' from 0 to 30."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the speed, in kilometres per hour, for the third part of his journey.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The scale drawing shows a map of three towns, J, K and L. The distance of K from J is 15km and the bearing of K from J is 125°. M is due south of J and due west of K. Calculate the distance, in kilometres, of M from K. Give your answer correct to 2 decimal places.",
+        "image": "A scale drawing map showing three towns J, K, and L. A North line is indicated from J. The bearing of K from J is 125°, and the distance JK is 15. The distance JL is shown as an unknown length, and the line KL is shown as 15 units."
+      },
+      {
+        "part_label": "c(ii)(a)",
+        "part_text": "Using measurements from the diagram, find the bearing of L from J,",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)(b)",
+        "part_text": "the actual distance, in kilometres, of L from J.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "QuestionNumber": "O/N/2022/Q1",
+    "Question_text": "A student measures the refractive index of oil. Oil is poured into a semi-circular transparent plastic container as shown in Fig. 1.1. The container is placed on top of a 360° protractor as shown in Fig. 1.2.",
+    "image": "Fig. 1.1 shows a semi-circular transparent plastic container with oil inside, featuring a flat side. Fig. 1.2 shows a top-down view of the semi-circular container placed on a 360° protractor. A normal line is shown, and a ray of light is incident at the midpoint of the flat side (labeled AB) with an angle of incidence i = 30°. The refracted ray in the oil is also shown, indicating the path of light from air into oil.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The line AB shows the position of the flat side of the plastic container. A ray of light is incident at the midpoint of AB with an angle of incidence i = 30° as shown in Fig. 1.2.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "State one property of the oil that is needed to ensure that the experiment works.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 1.2, measure the angle of refraction r of the light in the oil.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student repeats the procedure described in (a) and measures the angle of refraction r for angles of incidence i = 15°, 45°, 60°, and 75°. The results are shown in Table 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete Table 1.1 with your value of r from (a)(ii). On the grid provided in Fig. 1.3, plot a graph of r on the y-axis against i on the x-axis. Start your axes from (0,0). Draw a smooth curve of best fit.",
+        "image": "Fig. 1.3 shows an empty grid with an x-axis labeled 'i/°' and a y-axis labeled 'r/°', both starting from (0,0), intended for plotting a graph of angle of refraction (r) against angle of incidence (i)."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe the relationship between i and r shown by the graph.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Use your graph to find the value of r when i = 50°. Show on the graph how you determine your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Theory suggests that the refractive index n of the oil is given by: n = sin i / sin r. Using i and your value of r from (b)(iii), calculate a value for n. Give your answer to an appropriate number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(v)",
+        "part_text": "On Fig. 1.4, sketch the graph when sin r is plotted against sin i. No calculations are required.",
+        "image": "Fig. 1.4 shows an empty graph with the y-axis labeled 'sin r' and the x-axis labeled 'sin i', both starting from (0,0), intended for sketching the relationship between sin r and sin i."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest one reason why the practical method used in this investigation might not give an accurate value for n.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2022/Q2",
+    "Question_text": "A student investigates the cooling of water. The apparatus used is shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a laboratory setup for an experiment on cooling water. It includes a thermometer immersed in water inside a 500 cm³ beaker, which is itself placed within a larger 250 cm³ beaker. A stop-clock displaying '00:00' is also visible, next to the beakers. The beakers have volume markings.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student: pours 200 cm³ of hot water into the 500 cm³ beaker; places the thermometer in the water; stirs the water; measures the initial temperature of the water; uses the clock to find the time taken for the water to cool by 5.0°C and by 10.0°C; repeats the experiment three times.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why the water is stirred before taking a temperature reading.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The student uses 200 cm³ of hot water in the same beaker in each test. State one other experimental variable that the student keeps constant to make a fair comparison of the three sets of results.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Table 2.1 shows the results obtained by the student.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete Table 2.1 by calculating the average time taken for the water to cool by 5.0°C. Give your answer to an appropriate number of significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest one reason why the time taken for the water to cool by 10.0°C is not double the time taken for the water to cool by 5.0°C.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student repeats the experiment using the 250 cm³ beaker. All other experimental variables remain the same. Table 2.2 shows the average times taken for the 250 cm³ beaker to cool by 5.0°C and by 10.0°C.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Describe the difference in the cooling of the water in the two beakers. Refer to the results recorded in Table 2.1 and Table 2.2 in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest a reason for the difference.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2022/Q3",
+    "Question_text": "A student measures the density of a sample of modelling clay. The clay is moulded into a cube as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a 3D isometric drawing of a perfect cube. One of its sides is labeled 'd'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest one difficulty the student finds when moulding the clay into a cube.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 3.1, measure the length d of one side of the cube.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the volume V of the modelling clay using the equation: V = d³.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The student uses a balance to find the mass m of the modelling clay as shown in Fig. 3.2. Calculate the density ρ of the modelling clay using the equation: ρ = m / V. Give the unit of your answer.",
+        "image": "Fig. 3.2 shows a digital balance displaying a measurement of '36.3 g'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2022/Q4",
+    "Question_text": "A student investigates the current in a resistor of fixed resistance. The following apparatus is available: ammeter electrical connecting leads a resistor of fixed resistance lamp switch variable resistor 6 V battery LED voltmeter.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State which piece of apparatus is used to measure current.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The student measures the current I for a range of potential differences. Draw a circuit diagram to show the circuit the student uses. You may use some or all of the apparatus available.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe how the student obtains different values of the potential difference across the fixed resistor.",
+        "image": null
+      }
+    ]
+  }
+]

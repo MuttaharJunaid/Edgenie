@@ -1,0 +1,202 @@
+[
+  {
+    "QuestionNumber": "October/November/2023/Q1",
+    "Question_text": "In this experiment you will measure the spring constant k of a spring using two different methods. The spring constant k of a spring is a measure of the stiffness of the spring. The larger the spring constant k, the more difficult the spring is to stretch. You are provided with: • a spring • a boss, clamp and stand • a 30 cm ruler • a stop-watch • a 300 g mass.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Measure the unstretched length lo of the spring to the nearest 0.1 cm. Do not include the loops at the end of the spring in your measurement. lo = cm",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Attach the spring to the clamp and suspend the 300g mass from the spring, as shown in Fig. 1.1. Measure and record the new length l₁ of the spring. Calculate the extension e of the spring produced by the mass. Use the equation: e = l₁ - lo l₁ = cm e = cm",
+        "image": "A diagram labeled Fig. 1.1 showing a spring suspended from a clamp, which is attached to a stand. A 300g mass is hung from the bottom of the spring. Labels point to the 'clamp', 'spring', and '300 g mass'."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the spring constant k₁ of the spring. Use the equation: k₁ = 300/e k₁ = N/m",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "It is important to avoid line-of-sight (parallax) errors when determining the extension of the spring. Describe how you avoid parallax errors.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Method 2 • Pull the 300 g mass down a small distance (about 2 cm) and release it. Observe that the mass oscillates up and down. • Stop the mass oscillating. • Pull the 300 g mass down a small distance again and release it.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure the time t₁ taken for 20 oscillations. Record this time in Table 1.1. Repeat the measurement. Record this time in Table 1.1 as t2.",
+        "image": "An empty table labeled Table 1.1 with column headers: 'mass m/g', 'time t₁ for 20 oscillations /s', 'time t₂ for 20 oscillations /s', 'mean time t for 20 oscillations/s', 'mean period T/s', and 'T²/s²'. The first row below the headers shows '300' under 'mass m/g' and empty cells for the remaining columns."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the mean time t for 20 oscillations and record your answer in Table 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The mean period T of the oscillation is the mean time taken for one oscillation. Calculate the mean period T. Calculate the value of T². Record all your values in Table 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Use your value of T² from Table 1.1 to calculate the spring constant k₂ of the spring. Use the equation: k₂ = 11.8/T² k₂ = N/m",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain why the value for the mean period T obtained by measuring 20 oscillations twice is more accurate than the value obtained by measuring 1 oscillation twice.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q2",
+    "Question_text": "In this experiment you will investigate the rate of cooling of water at the top and at the bottom of a beaker of hot water. You are provided with: • a boss, clamp and stand • a 250 cm³ beaker • a thermometer • a stop-watch • a supply of hot water • paper towels to mop up any water spillages.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Convection",
+      "Thermal Conduction",
+      "Consequences of Thermal Energy Transfer",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "• Ask your supervisor to pour hot water into the beaker until it reaches the 200 cm³ mark on the side of the beaker. • Lower the thermometer into the beaker by adjusting the position of the boss, until the bulb of the thermometer is just covered by the hot water. The arrangement of apparatus is shown in Fig. 2.1. • Wait for approximately 30 s. • Start the stop-watch and read the thermometer.",
+        "image": "A diagram labeled Fig. 2.1 showing a thermometer suspended by a clamp and boss into a beaker of water. The bulb of the thermometer is just below the surface of the water. Labels include 'clamp', 'boss', 'thermometer', 'stand', 'bulb', and 'water'."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Record the temperature reading at time t = 0 to the nearest 0.5°C in the second column of Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "• Wait for 3 minutes. Record the temperature reading at time t = 3.0 min in the second column of Table 2.1.",
+        "image": "An empty table labeled Table 2.1 with column headers: 'time t/min', 'bulb just below surface temperature/°C', and 'bulb just above bottom temperature/°C'. Rows are provided for '0' and '3.0' min."
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Explain why you waited for 30s before reading the initial temperature of the hot water.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "• Remove the thermometer from the beaker and pour the water away. • Ask your supervisor to pour another 200 cm³ of hot water into the beaker. Repeat the procedure in (a) but positioning the thermometer lower in the beaker so that the bulb is just above, but not touching, the bottom of the beaker. The arrangement of apparatus is shown in Fig. 2.2. Record the temperature of the water at times t = 0 and t = 3.0 min in the third column of Table 2.1 on page 6.",
+        "image": "A diagram labeled Fig. 2.2 showing a thermometer suspended by a clamp and boss into a beaker of water. The bulb of the thermometer is positioned just above the bottom of the beaker. Labels include 'clamp', 'boss', 'thermometer', 'stand', 'water', and 'bulb'."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the average rate of cooling P_T of the hot water at the top of the beaker. Use the equation: average rate of cooling = decrease in temperature of the water / time taken Give the unit of your answer. P_T = unit",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the average rate of cooling P_B of the hot water at the bottom of the beaker. P_B =",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Use your results to suggest why a hot liquid should be stirred before measuring its temperature.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State one way in which the apparatus in this experiment is arranged to make it easy to read the thermometer accurately.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The experiment is repeated to check the results. Suggest one variable that must be kept constant.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q3",
+    "Question_text": "In this experiment you will investigate how the potential difference V across the terminals of a power supply changes as the current I in a circuit changes. You are provided with: • a length of resistance wire attached to a metre rule • a power supply • a switch • an ammeter • a voltmeter • a flying lead, which is a crocodile clip attached to a length of connecting lead. The supervisor has assembled the circuit as shown in Fig. 3.1.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Resistance of a Wire",
+      "Circuit Diagrams & Circuit Components",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "• Close the switch. Do not connect the crocodile clip to the resistance wire. Record the reading Vo on the voltmeter. Vo = V",
+        "image": "A circuit diagram labeled Fig. 3.1. It shows a power supply connected in series with an ammeter (A) and a switch. A resistance wire is connected across the ammeter and switch, with a metre rule below it marked from 0 to 100 cm and an 'X' at one end. A voltmeter (V) is connected in parallel across the power supply terminals. A 'flying lead' with a crocodile clip is shown, positioned near the resistance wire but not connected."
+      },
+      {
+        "part_label": "b",
+        "part_text": "• Connect the crocodile clip to the resistance wire at a distance d = 100.0 cm from end X. Record the potential difference V across the wire, and the current I in the wire. • Open the switch and wait 30 s. V = V I = A",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Repeat (b) for values of d = 85.0cm, 70.0cm, 55.0cm and 40.0cm. Record all your readings in Table 3.1. Include the readings from (b). Add appropriate units to the header of each column.",
+        "image": "An empty table labeled Table 3.1 with column headers: 'd', 'V', and 'I'. Multiple blank rows are provided for data entry."
+      },
+      {
+        "part_label": "d",
+        "part_text": "On the grid provided in Fig. 3.2, plot a graph of V on the y-axis against I on the x-axis using your data in Table 3.1. Start both axes from the origin (0, 0). Draw the best-fit straight line.",
+        "image": "An empty graph grid labeled Fig. 3.2, suitable for plotting data."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "The magnitude of the gradient m of your line is equal to the resistance r of the power supply. Calculate the gradient of your line. Show clearly on the graph the values you choose and show your working. m =",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "The intercept between the y-axis and your line is the electromotive force V₀ of the power supply. Extend your best-fit line to intercept the y-axis and record the value of V₀. V₀ = V",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Compare your measurement of V₀ in (a) with the value of V₀ from the graph in (e)(ii). Two quantities can be considered to be equal within the limits of experimental accuracy if their values are within 10% of each other. State whether your results show that the two values obtained for the electromotive force are the same. Support your statement with a calculation. calculation statement",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "Another student decides to connect the crocodile clip in Fig. 3.1 so that there is only a very small length of the resistance wire included in the circuit. The teacher tells the student not to do this. Suggest one practical reason why values of d less than 20.0cm should not be used.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2023/Q4",
+    "Question_text": "A student investigates the average speed of a trolley moving along a horizontal bench. The trolley is placed on a ramp and released from rest. Some of the apparatus used is shown in Fig. 4.1. The stopping distance of the trolley is the distance moved by the trolley from the bottom of the ramp until it comes to rest. Plan an experiment to investigate how the average speed of the trolley along the bench until it comes to rest depends upon its mass. The average speed of the trolley can be calculated using the equation shown. average speed = stopping distance / time. You are not required to do this experiment. In your plan you should: • explain briefly how to carry out the investigation, stating any other apparatus needed • state the key variables to keep constant • draw a table with column headings to show how to display the readings (you are not required to enter any readings into the table) • explain how to use your readings to reach a conclusion.",
+    "image": "A diagram labeled Fig. 4.1 illustrating an experimental setup. A trolley with a 'set of masses' on it is positioned on a 'wooden plank' which acts as a 'ramp'. The ramp leads down to a horizontal 'bench'. The ramp is supported by a 'stand'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Mass & Weight",
+      "Stopping Distances",
+      "Measurement"
+    ],
+    "Parts": []
+  }
+]

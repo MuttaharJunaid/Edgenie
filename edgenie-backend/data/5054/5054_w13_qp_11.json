@@ -1,0 +1,468 @@
+[
+  {
+    "QuestionNumber": "October-November/11/2013/Q1",
+    "Question_text": "When there is no wind, the engines of an airship push it due north at 20 m/s. The wind is blowing from the west at 12 m/s. Which vector diagram correctly shows how the resultant velocity R of the airship is obtained?",
+    "image": "Four vector diagrams (A, B, C, D) illustrating different ways to combine two velocity vectors. A compass rose indicates North, South, East, West directions. In all diagrams, a 20 m/s vector points North. Diagram A shows the 12 m/s vector originating from the tip of the North vector and pointing West, with the resultant R pointing from the origin of the North vector to the tip of the West vector (northwest). Diagram B shows the 12 m/s vector originating from the tip of the North vector and pointing East, with the resultant R pointing from the origin of the North vector to the tip of the East vector (northeast). Diagrams C and D show similar configurations with the 12 m/s vector originating from the tail of the North vector.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Calculating with Vectors",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q2",
+    "Question_text": "A length of copper pipe, of uniform cross-section and several metres long, carries water to a tap. Measurements are taken to determine accurately the volume of copper in the pipe. Which instruments are used?",
+    "image": "A 3D diagram of a section of a copper pipe, showing its uniform circular cross-section. An arrow indicates an outer diameter of 2 cm, implying that precise measurements are required for both length and diameter to determine the volume accurately.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q3",
+    "Question_text": "An object moves from P to Q in 10s with uniform acceleration. velocity at P = 5m/s velocity at Q = 12m/s What is the acceleration?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q4",
+    "Question_text": "A student kicks a ball horizontally along the ground. As he does so, his foot applies a force to the ball. At the same time, the ball applies a force to his foot. How do these forces compare?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q5",
+    "Question_text": "The diagram shows an aeroplane turning in a horizontal circle at constant speed. In which direction is there a resultant force?",
+    "image": "A diagram of an aeroplane flying horizontally and turning. Four arrows (A, B, C, D) are shown relative to the plane: A pointing vertically upwards, B pointing horizontally forwards along the fuselage, C pointing vertically downwards, and D pointing horizontally towards the center of the turn (inwards from the plane).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q6",
+    "Question_text": "A spacecraft travels from the Earth to the Moon. At a certain point in the journey, it has zero weight. Why is the weight zero at this point?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Gravitational Effects on Orbits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q7",
+    "Question_text": "A piece of uniform card is suspended freely from a horizontal pin. Which point is its centre of mass?",
+    "image": "A diagram showing an irregularly shaped, flat piece of card suspended from a horizontal pin at its top-left corner. A vertical dashed line extends downwards from the pin, intersecting the card. Four points (A, B, C, D) are marked on the card, with D being the lowest point along the dashed line.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q8",
+    "Question_text": "An extension-load graph is plotted to show the result of increasing the load on a spring. Which point marks the limit of proportionality for this spring?",
+    "image": "A graph of extension vs. load for a spring. The graph shows a linear region followed by a curve where extension increases more rapidly with load. Points A, B, C, D are marked along the curve, with A in the linear region, B near the end of the linear region/beginning of the curve, C further into the non-linear region, and D at the furthest extended point.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q9",
+    "Question_text": "Four different liquids are poured into identical measuring cylinders. The diagrams show the depths of the liquids and their densities. Which liquid causes the largest pressure on the base of its measuring cylinder?",
+    "image": "Four diagrams (A, B, C, D) of identical measuring cylinders. Each shows a liquid at a specific depth and its corresponding density. A: 10 cm depth, 2.0 g/cm³ density. B: 20 cm depth, 1.6 g/cm³ density. C: 30 cm depth, 1.2 g/cm³ density. D: 40 cm depth, 0.7 g/cm³ density.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q10",
+    "Question_text": "A manometer is attached to a gas cylinder as shown. What is the pressure difference, in cm of water, shown by the manometer?",
+    "image": "A diagram of a gas cylinder connected via a pipe to a U-tube manometer containing water. The right arm of the manometer is open to the atmosphere. A vertical scale in centimeters is shown next to the manometer, with markings at 0, 5, 16, and 25. The water level in the arm connected to the gas cylinder is at 5 cm, and the water level in the open arm is at 25 cm.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q11",
+    "Question_text": "Three objects P, Q and R have different masses and different speeds as shown in the table. What is the order of increasing kinetic energy (smallest first) of the objects?",
+    "image": "A table showing the mass and speed for three objects P, Q, and R. For P: mass = 1 kg, speed = 3 m/s. For Q: mass = 2 kg, speed = 2 m/s. For R: mass = 5 kg, speed = 1 m/s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q12",
+    "Question_text": "Which energy resource comes from hot rocks beneath the Earth's surface?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Geothermal Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q13",
+    "Question_text": "On a cold afternoon, a house loses 54 MJ of thermal energy (heat) to its surroundings as shown. The heating system must supply more than 54MJ of thermal energy to keep the temperature of the house constant. Which statement explains this?",
+    "image": "A schematic diagram of a house. Arrows indicate thermal energy lost through the roof, through windows, through walls, and through the floor, illustrating various paths of heat escape.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q14",
+    "Question_text": "The temperature shown by a mercury-in-glass thermometer increases. Which of the following is constant?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q15",
+    "Question_text": "The diagram shows a clinical thermometer. Which factor affects the sensitivity of the thermometer?",
+    "image": "A diagram of a clinical thermometer, illustrating its components: bulb, mercury column, constriction, and glass tube.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q16",
+    "Question_text": "The length of mercury in the bore of a thermometer is 5.0 cm at 0°C and 11.0 cm at 60°C. What is the length in the bore when the temperature is –10°C?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q17",
+    "Question_text": "When a person climbs out of a warm swimming pool on a hot summer day, he feels cold. Why does this happen?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q18",
+    "Question_text": "Which row correctly describes the shape and volume of a gas?",
+    "image": "A table with columns 'shape' and 'volume' and rows for options A, B, C, D, describing whether each is 'fixed' or 'not fixed'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q19",
+    "Question_text": "The diagram shows a ball floating in a tank of water. Which diagram shows the movement of the ball as the wave passes?",
+    "image": "A diagram showing a ball floating on the surface of water in a tank, with an arrow indicating the direction of wave propagation from left to right. Below this, four separate diagrams (A, B, C, D) show different potential movements of the ball as a wave passes: A shows vertical oscillation, B shows horizontal oscillation, C shows forward translation, D shows both vertical oscillation and forward translation (elliptical path).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q20",
+    "Question_text": "Which diagram represents the reflection of light along an optical fibre?",
+    "image": "Four diagrams (A, B, C, D) illustrating light rays propagating through a medium, representing an optical fibre. Diagram A shows light rays entering and undergoing multiple total internal reflections along the fibre. Other diagrams show light escaping or reflecting at different angles.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q21",
+    "Question_text": "The diagram shows rays of light. What is in the space labelled X?",
+    "image": "A diagram showing parallel incident rays of light from the left. These rays then pass through a rectangular region labeled 'X' and converge to a focal point on the right. Another set of parallel rays from the right also pass through 'X' and converge to a point on the left.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q22",
+    "Question_text": "The table lists the main components of the electromagnetic spectrum and their approximate frequency range. Which range of frequencies can be used to detect cracks inside a block of metal?",
+    "image": "A table listing the main components of the electromagnetic spectrum (gamma rays, X-rays, ultra-violet, visible light, infra-red, microwaves, radiowaves) and their corresponding approximate frequency ranges in Hz (e.g., gamma rays: 10²² to 10¹⁹, X-rays: 10²¹ to 10¹⁸, etc.).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q23",
+    "Question_text": "The graph shows how the pressure varies as a sound wave passes through air. Which point represents a compression?",
+    "image": "A graph plotting air pressure (y-axis) against time (x-axis) for a sound wave. The graph shows a sinusoidal wave oscillating around a central zero pressure deviation line. Points A, B, C, D are marked at different phases of the wave: B is at a peak (maximum positive pressure deviation), D is at a trough (maximum negative pressure deviation), and A and C are at the equilibrium (zero pressure deviation) crossing points.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q24",
+    "Question_text": "The sounds produced by two musical instruments are directed towards a microphone connected to an oscilloscope (c.r.o.). The waveforms produced on the screen are shown. The waveforms show that the sounds produced have a different property. What is the property?",
+    "image": "Two oscilloscope traces (waveforms) are shown, one above the other. Both waveforms appear to have similar fundamental frequencies and amplitudes, but their shapes (harmonics/overtones) are distinctly different, indicating different sound qualities.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Properties of Sound Waves",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q25",
+    "Question_text": "The diagram shows the shape of the magnetic field lines near a current-carrying conductor. The current in the conductor is into the plane of the diagram. Which row correctly states the direction of the field lines and compares the strengths of the field at points P and Q?",
+    "image": "A diagram showing concentric circles representing magnetic field lines around a central 'X' (indicating current flowing into the page). Point P is marked on an inner circle, and point Q is marked on an outer circle, indicating P is closer to the conductor than Q. An arrow on the circle indicates clockwise direction.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q26",
+    "Question_text": "Two charged conducting spheres are placed close to one another. One sphere is positively charged and the other is negatively charged. Which diagram shows the distribution of charges and the forces acting on the spheres?",
+    "image": "Four diagrams (A, B, C, D) each showing two conducting spheres placed close to each other, one positively charged (+) and one negatively charged (-). The diagrams illustrate different distributions of charge (either spread evenly or concentrated on facing/non-facing sides) and different directions of forces acting on the spheres (either attractive or repulsive).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q27",
+    "Question_text": "Which row shows a conductor and an insulator?",
+    "image": "A table with two columns, 'conductor' and 'insulator', and four rows (A, B, C, D). Each row lists a pair of materials for conductor and insulator (e.g., aluminium/copper, aluminium/glass, plastic/copper, plastic/glass).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q28",
+    "Question_text": "Which of the following is equivalent to one coulomb?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q29",
+    "Question_text": "The diagram shows a circuit in which all the switches are open. Which switch positions give a resistance of 6.0 Ω between X and Y?",
+    "image": "A circuit diagram showing three resistors (3.0 Ω, 3.0 Ω, 4.5 Ω) and three switches (S1, S2, S3) connected between points X and Y. Resistor 3.0 Ω is in series with S1. This combination is in parallel with another branch containing a 3.0 Ω resistor and S2 in series. The entire parallel combination is in series with a 4.5 Ω resistor and S3 in series.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q30",
+    "Question_text": "The circuit shows three resistors connected to a cell. The resistors have different values of resistance. V₁ and V2 are potential differences and I₁ and I2 are currents as shown. Which pair of relationships is correct?",
+    "image": "A circuit diagram showing a cell connected to three resistors. Two resistors are in parallel, and this parallel combination is in series with a third resistor. Current I₁ flows into the parallel section. Current I2 flows through one of the parallel resistors. Potential difference V₁ is across the series resistor, and V2 is across the parallel combination (or one of the parallel resistors).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q31",
+    "Question_text": "A transformer is used to operate a 12V lamp from a 250V mains supply. The mains current is 0.10A. The current in the lamp is 2.0A. What is the efficiency of the transformer?",
+    "image": "A circuit diagram showing a transformer. The primary coil is connected to a 250 V, 0.10 A mains supply. The secondary coil is connected to a 12 V, 2.0 A lamp.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations",
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q32",
+    "Question_text": "A current-carrying wire lies between the poles of two magnets, as shown. What is the direction of the force on the wire?",
+    "image": "A diagram showing a horizontal current-carrying wire placed between the North (N) and South (S) poles of two magnets. The N-pole is on the left and the S-pole is on the right. An arrow above the wire indicates the 'direction of current' flowing from left to right.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q33",
+    "Question_text": "The graph shows the output of an a.c. generator. The coil in the generator rotates 20 times in one second. The speed of rotation of the coil steadily increases. Which graph best shows how the output changes?",
+    "image": "An initial graph shows output p.d./V vs time, depicting a standard sinusoidal AC waveform with a peak voltage of +1V and a period of 0.05s (frequency 20 Hz). Below this, four option graphs (A, B, C, D) are presented, each showing a different sinusoidal waveform representing changes in amplitude and/or frequency over time as the speed of rotation increases.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator",
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q34",
+    "Question_text": "Which material is used for the core of a transformer and why?",
+    "image": "A table with two columns, 'material' and 'reason', and four rows (A, B, C, D). Each row lists a material (copper or iron) and a reason (good conductor of electricity or easy to magnetise and demagnetise) related to transformer cores.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q35",
+    "Question_text": "Which particles are emitted in the process of thermionic emission?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q36",
+    "Question_text": "A thermistor and a light-dependent resistor are connected in series. Which conditions give the largest resistance?",
+    "image": "Four diagrams (A, B, C, D) each showing a thermistor and a light-dependent resistor (LDR) connected in series. Each diagram specifies the ambient conditions for the components: A: cold, dark. B: cold, light. C: hot, dark. D: hot, light.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q37",
+    "Question_text": "What are the characteristics of an alpha-particle?",
+    "image": "A table with two columns, 'charge' and 'ionising effect', and four rows (A, B, C, D). Each row describes a combination of charge (negative/positive) and ionising effect (strong/weak) for an alpha-particle.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q38",
+    "Question_text": "Alpha-particles pass through an electric field or a magnetic field. How is the path of the particles affected by these fields?",
+    "image": "A diagram showing alpha-particles entering two different fields. One setup shows alpha-particles passing between positively and negatively charged plates (electric field). The second setup shows alpha-particles passing between the North and South poles of a magnet (magnetic field). Below this, a table provides options (A, B, C, D) describing whether the particles are 'deflected' or 'undeflected' in each field.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Electric Fields",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q39",
+    "Question_text": "Which row is correct for nuclear fission and for nuclear fusion?",
+    "image": "A table with two columns, 'fission' and 'fusion', and four rows (A, B, C, D). Each row contains a statement describing a characteristic of fission (produces larger/smaller nuclei) and a characteristic of fusion (energy source of a star/releases energy in a power station).",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "Fusion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2013/Q40",
+    "Question_text": "The compositions of four nuclei are shown in the table. Which two nuclei are isotopes of the same element?",
+    "image": "A table showing the composition of four nuclei (labeled P, Q, R, S). Columns include 'nucleus', 'number of protons', 'number of neutrons', and 'number of nucleons'. P: protons=88, neutrons=141, nucleons=229. Q: protons=88, neutrons=136, nucleons=224. R: protons=89, neutrons=139, nucleons=228. S: protons=92, neutrons=136, nucleons=228.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus",
+      "The Atom"
+    ],
+    "Parts": []
+  }
+]

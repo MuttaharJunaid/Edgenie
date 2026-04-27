@@ -1,0 +1,385 @@
+[
+  {
+    "QuestionNumber": "May/June/2022/Q1",
+    "Question_text": "Fig. 1.1 shows a waterskier pulled horizontally across the water surface. The mass of the waterskier is 60kg. The gravitational field strength g is 10N/kg.",
+    "image": "Fig. 1.1 shows a person waterskiing. A person is on skis, being pulled horizontally across the water surface by a rope. The image focuses on the waterskier and the water, with the pulling force implied. Labels indicate 'waterskier' and a directional arrow for the 'horizontal force'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the weight of the waterskier.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Mass and weight have different units. State two other differences between mass and weight.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A boat pulls the waterskier to the right with a horizontal force of 50N. The waterskier travels at a constant speed. Explain, in terms of the horizontal forces acting, why the speed is constant.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The horizontal force acting to the right increases from 50N to 70N. The sizes of any other forces are unchanged. Calculate the acceleration of the waterskier.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2022/Q2",
+    "Question_text": "Fig. 2.1 shows a long cardboard tube, sealed at both ends, which contains many small pieces of metal. The tube is turned vertically so that the pieces of metal fall from one end to the other. The temperature of the pieces increases as a result of the fall. During the fall, the gravitational potential energy of the metal pieces is transferred to other forms of energy.",
+    "image": "Fig. 2.1 shows a long, horizontal cardboard tube. It is sealed at both ends and contains a collection of small metal pieces at one end. Labels indicate 'small metal pieces' and 'tube'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Gravitational Potential Energy",
+      "Conservation of Energy",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two forms of energy to which the gravitational potential energy is transferred.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The pieces fall an average distance of 1.2m during one turn. The total mass of the metal pieces is 150 g. Calculate the loss in the gravitational potential energy of the pieces as they fall once. The gravitational field strength g is 10N/kg.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "A student turns the tube quickly. After the small metal pieces have fallen from one end to the other 80 times, their temperature has increased by 7.0°C. Determine the specific heat capacity of the metal.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The student repeats the experiment, turning the tube more slowly. Suggest why a different temperature increase is obtained.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2022/Q3",
+    "Question_text": "Fig. 3.1 shows a syringe mounted vertically in a block of wood and sealed at one end. A plunger is free to move inside the syringe. There is trapped air in the syringe. The air inside the syringe exerts a pressure on the walls of the syringe.",
+    "image": "Fig. 3.1 shows a vertical syringe assembly. A plunger is inserted into a syringe barrel, which is mounted in a block of wood. The bottom end of the syringe is sealed. Air is trapped between the plunger and the sealed end. Labels indicate 'plunger', 'syringe', 'trapped air', 'sealed end', and 'wood'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define the term pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain how the air molecules in the cylinder of the syringe create a pressure.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "A 10N weight is placed on top of the plunger. The plunger moves down slowly so that the temperature of the air inside the syringe does not change. Before the weight is placed on top of the plunger: • the pressure of the air inside the syringe is 1.0 × 10^5 Pa • the volume of the air is 50 cm³. The cross-sectional area of the plunger is 1.2 × 10^-4 m². Calculate the pressure of the air in the syringe after the plunger stops moving.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the volume of air inside the syringe after the plunger stops moving.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2022/Q4",
+    "Question_text": "Fig. 4.1 shows a ray of white light incident on a glass prism. Refraction causes the white light to separate into different colours.",
+    "image": "Fig. 4.1 shows a ray of white light incident on a glass prism. The white light enters the prism, disperses, and exits. The emergent rays show red light (labeled P) and violet light (labeled Q) separated. Labels indicate 'white', 'glass prism', 'P', 'red', 'violet', and 'Q'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Dispersion of Light",
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Define the term 'angle of refraction'.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The angle of incidence of the white light as it enters the prism is 40° and the angle of refraction for the red light is 25°. Calculate the refractive index of the glass for red light. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using Fig. 4.1, state and explain how the refractive index for red light differs from the refractive index for violet light.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The source of white light used in Fig. 4.1 produces other types of electromagnetic radiation as well as visible light. State the name of the invisible radiation found at P and the invisible radiation found at Q.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2022/Q5",
+    "Question_text": "A student connects a battery, thermistor X and resistor Y in parallel, as shown in Fig. 5.1.",
+    "image": "Fig. 5.1 shows a circuit diagram. A battery, labeled E (electromotive force), is connected to a parallel combination of a thermistor X and a resistor Y. The total current from the battery is labeled I.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The electromotive force (e.m.f.) of the battery is E. The current in X is I. The resistance of Y is greater than the resistance of X. Tick two boxes, one to show the correct statement about the potential difference across Y and the other to show the correct statement about the current in Y.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student connects thermistor X in series with the resistor Y and a battery of e.m.f. 6.0V, as shown in Fig. 5.2. In this circuit, at room temperature, the resistance of thermistor X is 600Ω and the current in thermistor X is 0.0020 A.",
+        "image": "Fig. 5.2 shows a circuit diagram with a battery (labeled 6.0 V), a thermistor X, and a resistor Y connected in series to the battery."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the power produced in the thermistor.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the resistance of Y.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The thermistor is cooled. Explain why this causes the potential difference across Y to decrease.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2022/Q6",
+    "Question_text": "Fig. 6.1 shows part of a toy which contains two ring-shaped, permanent magnets. A plastic rod passes through the centre of both magnets. The top magnet can move up and down freely around the plastic rod. The magnetic poles on the bottom magnet are shown in Fig. 6.1.",
+    "image": "Fig. 6.1 shows a vertical plastic rod with two ring-shaped permanent magnets. A bottom magnet is fixed, and its top surface (facing upwards) is a South (S) pole, with its bottom surface being a North (N) pole. This is indicated by labels 'N' and 'S' on its side profile. A top magnet floats freely above the bottom magnet. Labels point to the 'plastic rod', 'top magnet', and 'bottom magnet'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Magnetic Fields",
+      "Plotting Magnetic Fields",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The top magnet floats in the air above the bottom magnet. On Fig. 6.1, mark the poles on the top magnet and explain why it floats in the air above the bottom magnet.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The top magnet is replaced with a ring made of iron. Explain why the iron ring sticks to the bottom magnet.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A wire carrying a current passes at right angles through a piece of paper. Fig. 6.2 shows a cross and circle where the current in the wire passes into the plane of the paper. On Fig. 6.2, sketch three magnetic field lines to show the magnetic field pattern around the wire. Show the direction of the field on your sketch.",
+        "image": "Fig. 6.2 shows a rectangular piece of paper. In the center, a circle with an 'X' symbol indicates a wire carrying current passing perpendicular to the paper, going into the page. A label indicates 'wire' and 'piece of paper'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2022/Q7",
+    "Question_text": "Fig. 7.1 shows the speed-time graph for a car travelling on a straight horizontal road.",
+    "image": "Fig. 7.1 shows a speed-time graph for a car. The y-axis represents speed in m/s, ranging from 0 to 20. The x-axis represents time in seconds, ranging from 0 to 24. The graph shows three distinct sections: 1. From t=0 to t=10s, speed increases linearly from 0 to 16 m/s. 2. From t=10s to t=20s, speed is constant at 16 m/s. 3. From t=20s to t=24s, speed decreases linearly from 16 m/s to 0 m/s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Stopping Distances"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe the motion of the car.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Using Fig. 7.1, calculate the distance travelled by the car during the 24 s of its motion. Show your working.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Calculate the average speed of the car during its motion.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "A second car travels at a steady speed. It travels the same distance as the first car in the 24 s of the journey. On Fig. 7.1, draw the speed-time graph for the second car.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The thinking distance is the distance travelled by a car between the time that a hazard is seen and the time that the brakes are applied. The braking distance is the distance travelled while the car slows down to rest. Table 7.1 shows the thinking and braking distances for an alert driver when the car travels at different speeds.",
+        "image": "Table 7.1 shows thinking distance and braking distance in meters for a car at different speeds in km/h. Speeds listed are 20, 40, 60, 80, 100 km/h. Thinking distances are 9, 18, (blank), 36, 45 m. Braking distances are 2, 9, 20, 36, 56 m."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete Table 7.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The time it takes for the driver to react to the hazard is constant at different speeds. Explain how the table shows this.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State what happens to the thinking distance and the braking distance when the driver is tired.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2022/Q8",
+    "Question_text": "Fig. 8.1 shows a ripple tank and the crests of the water wave that is produced in it. The frequency of the water wave is 2.0Hz and its amplitude is 3.0 mm.",
+    "image": "Fig. 8.1 shows a ripple tank setup. A wooden bar is suspended by rubber bands above a water surface, generating circular crests in the water. Labels point to 'wooden bar', 'rubber band', 'crest', and 'water'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Ripple Tank",
+      "Wave Behaviour",
+      "Refraction of Light",
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the number of crests produced in 1.5s.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The height of the wave is measured from the level of the undisturbed surface of the water. The height of the wave at one point is 0 at time = 0. On Fig. 8.2, draw a graph to show how the height of the wave at this point varies with time.",
+        "image": "Fig. 8.2 shows a blank graph grid. The y-axis represents height in mm, ranging from -6 to 6. The x-axis represents time in seconds, ranging from 0 to 1.50. The origin is at (0,0)."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The frequency of the wave is increased. Describe how the apparatus shown in Fig. 8.1 is adjusted so that the frequency of the wave is increased.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State what happens to the speed and wavelength of the wave as the frequency increases.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The apparatus shown in Fig. 8.1 can be used to demonstrate refraction. State the additional apparatus needed to demonstrate refraction.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Draw on Fig. 8.3 to show the refraction of the water wave. Label a boundary where the refraction occurs.",
+        "image": "Fig. 8.3 shows an empty ripple tank with a wooden bar inside, positioned to create a boundary for waves. A label points to the 'wooden bar' and another to 'ripple tank'."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Fig. 8.4 shows a connection to the internet made from a remote station A using a satellite above the Earth's surface. Data is sent between stations A and B using microwaves which travel to and from the satellite. Station B is connected directly to the internet using optical fibre. The speed of microwaves is 3.0 x 10^8 m/s. Stations A and B are each 560 km from the satellite. Calculate the time taken for data to travel from A to B using microwaves.",
+        "image": "Fig. 8.4 shows a satellite communication system (not to scale). A satellite is positioned above the Earth. Two ground stations, A and B, are shown. Station A sends and receives signals to/from the satellite. Station B also communicates with the satellite. Station B is additionally connected to the internet via an optical fibre. Arrows indicate data flow: A to satellite, satellite to B, and B to internet. Labels indicate 'station A', 'satellite', 'station B', and 'to internet'."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The same data can be sent from A to B in a shorter time along the surface of the Earth using infrared waves to carry the information in optical fibres. State one property that infrared waves and microwaves have in common.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Suggest one other advantage of using optical fibres to connect stations A and B directly.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2022/Q9",
+    "Question_text": "Thorium-229 is a radioactive isotope used in several medical applications that involve alpha-particles and beta-particles.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Half-Life",
+      "Detection of Radioactivity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "During ionisation, a helium atom becomes a helium ion. Fig. 9.1 shows a diagram of a helium (He+) ion. State how the structure of a helium atom differs from the structure of the helium ion.",
+        "image": "Fig. 9.1 shows a diagram of a helium (He+) ion. It depicts a central nucleus containing two neutrons and two protons. A single electron is shown orbiting the nucleus. Labels indicate 'neutrons', 'protons', and 'electron'."
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State how the structure of an alpha-particle differs from the structure of the helium ion.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "A nucleus of thorium-229 (229Th) decays by alpha (α) emission to a nucleus of element Χ. 229 Th 90 X + 4 α 2 The nucleus of X then decays to a nucleus of Y by beta (β) emission. X Y + 0 β -1 Complete Table 9.1 to show the number of protons and neutrons in a nucleus of X and in a nucleus of Y.",
+        "image": "Table 9.1 has columns 'nucleus', 'number of protons', and 'number of neutrons', with rows for 'X' and 'Y' to be completed."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Experiments can show that a sample of a material is radioactive. Describe the apparatus and the procedure used to show that a sample emits both alpha- particles and beta-particles. You may draw a diagram of the apparatus, if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "State what is meant by the half-life of thorium-229.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "A sample of pure thorium-229 contains 4.0 × 10^14 atoms. After 22000 years, the number of atoms of thorium-229 in the sample is 5.0 × 10^13. Determine the half-life of thorium-229. Show your working.",
+        "image": null
+      }
+    ]
+  }
+]

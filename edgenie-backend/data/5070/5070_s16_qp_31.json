@@ -1,0 +1,74 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Sodium percarbonate is often used to remove stains from clothing. It is a white solid with the formula Na2CO3.xH2O2. When the solid dissolves in water, it produces a solution containing sodium carbonate and hydrogen peroxide. P is a solution containing 7.85g of Na2CO3.xH2O2 in 1.00dm³ of solution. Q is 0.100mol/dm³ hydrochloric acid. You are to determine the value of x in the formula Na2CO3.xH2O2 by titrating the sodium carbonate in P with Q. Na2CO3 + 2HCl -> 2NaCl + H2O + CO2 (a) Put Q into the burette. Pipette a 25.0 cm³ (or 20.0cm³) portion of P into a flask and titrate with Q, using the indicator provided. Record your results in the table, repeating the titration as many times as you consider necessary to achieve consistent results. Results Burette readings",
+    "image": null,
+    "Unit": "UNIT 7: Acids, bases and salts",
+    "Topic": "7.1 The characteristic properties of acids and bases",
+    "Sub_topic": [
+      "Neutralisation reaction",
+      "Neutralisation equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1b",
+    "Question_text": "Q is 0.100mol/dm³ hydrochloric acid. Using your results from (a), calculate the concentration, in mol/dm³, of sodium carbonate in P. Give your answer to three significant figures.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations",
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1c",
+    "Question_text": "Using your answer from (b), calculate the concentration, in g/dm³, of sodium carbonate in P. [The relative formula mass of sodium carbonate is 106.]",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations",
+      "Concentration measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1d",
+    "Question_text": "Using your answer from (c), calculate the mass of hydrogen peroxide in 7.85 g of sodium percarbonate.",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.3 The mole and the Avogadro constant",
+    "Sub_topic": [
+      "Amount of substance calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "1e",
+    "Question_text": "Calculate the value of x in the formula Na2CO3.XH2O2. [The relative formula mass of H2O2 is 34.]",
+    "image": null,
+    "Unit": "UNIT 3: Stoichiometry",
+    "Topic": "3.1 Formulae",
+    "Sub_topic": [
+      "Formulae of elements and compounds",
+      "Molecular formula definition"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "You are provided with solid R and solution S. Carry out the following tests and record your observations in the table. You should test and name any gas evolved.",
+    "image": null,
+    "Unit": "UNIT 12: Experimental techniques and chemical analysis",
+    "Topic": "12.5 Identification of ions and gases",
+    "Sub_topic": [
+      "Tests for anions",
+      "Tests for cations",
+      "Tests for gases"
+    ],
+    "Parts": []
+  }
+]

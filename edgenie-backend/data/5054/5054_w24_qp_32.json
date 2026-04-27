@@ -1,0 +1,184 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/32/2024/Q1",
+    "Question_text": "In this experiment you will determine an approximate value for the density of the glass from which a test-tube is made. You are provided with: • a test-tube • a 250 cm³ glass beaker containing water • a 30 cm ruler • a 100 cm³ measuring cylinder • 2 rectangular blocks of wood • access to a balance. The height h and the external diameter d of the test-tube are shown in Fig. 1.1.",
+    "image": "A diagram showing a test-tube labeled 'test-tube' with its height 'h' and external diameter 'd' indicated. It is described as 'Fig. 1.1 (not to scale)'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Use the balance to measure the mass m of the test-tube. Record your answer to the nearest gram. m = .............................................. g [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Measure the height h of the test-tube. Record your answer to the nearest 0.1 cm. h = .............................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Measure and record the external diameter d of the test-tube. Use the two wooden blocks to help you. d = .............................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Draw a diagram to show how you use the wooden blocks to help you obtain your measurement of d in (iii).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The shape of the test-tube is approximately a cylinder. Calculate the external volume Vᴇ of the test-tube using the equation: Vᴇ = 0.79 d² h Vᴇ = .............................................. cm³ [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fill the test-tube to the top with water. Pour the water carefully from the test-tube into the measuring cylinder. Read and record the volume of water Vᵢ in the measuring cylinder. This is the internal volume of the test-tube. Vᵢ = .............................................. cm³ [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Calculate the volume of the glass Vɢ in the test-tube using the equation: Vɢ = Vᴇ - Vᵢ Vɢ = .............................................. cm³ [1]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Suggest one source of inaccuracy in measuring the internal volume of the test-tube Vᵢ.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Use your results from (a)(i) and (d) to calculate the density ρ of the glass from which the test-tube is made. Use the equation: ρ = m Vɢ Give the unit for your answer. ρ = .............................................. unit .............................................. [2]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/32/2024/Q2",
+    "Question_text": "In this experiment you will investigate how the resistance of a light-emitting diode (LED) changes with different currents. You are provided with: • a power source • a switch • a voltmeter with two leads that may be connected between different points in the circuit shown in Fig. 2.1 • a light-emitting diode (LED) • a 270 Ω resistor, a 470 Ω resistor and a 560 Ω resistor • sufficient connecting leads to make the circuit shown in Fig. 2.1. The supervisor has set up the circuit shown in Fig. 2.1. The 270 Ω resistor is connected in the circuit and the 470 Ω resistor and the 560 Ω resistor are placed by the side of the circuit.",
+    "image": "A circuit diagram showing a power source connected to a switch, a 270 Ω resistor (labeled X to Y), and a light-emitting diode (LED) (labeled Y to Z) in series. This is labeled as 'Fig. 2.1'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Potential Difference in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Connect the voltmeter across the 270 Ω resistor between points X and Y. Ensure that the positive terminal of the voltmeter is connected to X. Close the switch. Record the voltmeter reading Vₓᵧ in the top row of Table 2.1. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Disconnect the voltmeter from points X and Y. Reconnect the voltmeter across the LED between points Y and Z. Ensure that the positive terminal of the voltmeter is connected to Y. Close the switch. Record the voltmeter reading Vᵧ₂ in the correct row of Table 2.1. Open the switch.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Remove the 270 Ω resistor from the circuit and replace it with the 470 Ω resistor. Repeat the procedures in (a) and (b) for the 470 Ω resistor. Remove the 470 Ω resistor from the circuit and replace it with the 560 Ω resistor. Repeat the procedures in (a) and (b) for the 560 Ω resistor.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "For each value of resistance between X and Y, calculate the value of (Vₓᵧ + Vᵧ₂). Record your answers in Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "The current I in the circuit in part (a) can be calculated using the equation: I = Vₓᵧ R where R is the resistance between X and Y. Calculate I for R = 270 Ω, 470 Ω and 560 Ω. Record your answers in Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "The resistance Rʟᴇᴅ of the LED can be calculated using the equation: Rʟᴇᴅ = Vᵧ₂ I Calculate Rʟᴇᴅ for each value of resistance between X and Y. Record your answers in Table 2.1.",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "As the resistance between terminals X and Y changes, the current in the circuit changes. Examine your results in Table 2.1. Describe how the change in current affects: (i) (Vₓᵧ + Vᵧ₂) (ii) Rʟᴇᴅ",
+        "image": null
+      },
+      {
+        "part_label": "h",
+        "part_text": "A student assembles a circuit using the circuit diagram shown in Fig. 2.1. The student finds that, when the switch is closed, the LED does not light up. The student tests the components and finds that the power source is producing an e.m.f. and that none of the other components are broken. Suggest the error the student has made while assembling the circuit.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/32/2024/Q3",
+    "Question_text": "In this experiment you will investigate the image formed by a converging lens. You are provided with: • a converging lens in a lens holder • a metre rule • a 30 cm ruler • a white screen • a triangular object in a piece of white card • a lamp with a power supply, to illuminate the triangular object.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Arrange the apparatus as shown in Fig. 3.1. Place the white screen approximately 30 cm from the lens. Adjust the position of the screen until a sharp image of the wall or the window of the laboratory, a few metres distant from the lens, is formed on the screen. Measure and record, in centimetres to the nearest 0.1cm, the distance from the lens to the screen. This distance is the focal length f of the lens. f= .............................................. cm [1]",
+        "image": "A diagram showing a setup for finding the focal length of a converging lens. Rays of light from a distant object (like a wall or window) pass through a converging lens held in a lens holder. A sharp image of the distant object is formed on a screen placed at distance 'f' from the lens on a bench. This is labeled as 'Fig. 3.1 (not to scale)'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Switch on the lamp. Place the lens a distance u = 20.0 cm from the illuminated triangular object. Adjust the position of the screen until a sharp image of the triangular object is formed on the screen. Measure, to the nearest 0.1 cm, the image distance v from the lens to the screen. v = .............................................. cm [1]",
+        "image": "A diagram showing a lamp illuminating a triangular object. A converging lens in a lens holder is placed at a distance 'u' from the object. A screen is placed at a distance 'v' from the lens, where a sharp image is formed. The entire setup is on a bench. This is labeled as 'Fig. 3.2 (not to scale)'."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the values of (u + v) and uv. (u + v) = .............................................. uv = .............................................. [1]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Repeat (b)(i) and (b)(ii) for values of u between u = 25.0 cm and u = 60.0 cm. Record all your values in Table 3.1. Include your readings from (b). Add appropriate units to the headers of the last two columns. Table 3.1 u/cm v/cm (u + v)/.............. uv/..............",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "On the grid provided in Fig. 3.3 on page 11, plot a graph of uv on the y-axis against (u + v) on the x-axis. You do not need to start either axis from the origin (0, 0). Draw the straight line of best fit. [4]",
+        "image": "An empty grid provided for plotting a graph, labeled 'Fig. 3.3'."
+      },
+      {
+        "part_label": "e",
+        "part_text": "Calculate the gradient of the line. Indicate on the graph the points you use. Show all your working. gradient = .............................................. [2]",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Two quantities can be considered to be the same within the limits of experimental accuracy if their values are within 10% of each other. The gradient of your line calculated in (e) is numerically equal to the focal length f of the lens in cm. Compare your value of f obtained in (a) with the value of the gradient obtained in (e). State if your two values can be considered to be the same. Support your statement with a calculation. calculation statement [2]",
+        "image": null
+      },
+      {
+        "part_label": "g",
+        "part_text": "When measuring the object and image distances with the metre rule, it is important to avoid line-of-sight (parallax) errors. State how you avoid parallax errors when doing this experiment. [1]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/32/2024/Q4",
+    "Question_text": "Water is heated from room temperature to its boiling temperature in a glass beaker. Plan an experiment to investigate if the time taken for the water to reach its boiling temperature depends on the diameter of the water surface exposed to the air. You are provided with: a supply of cold water, a set of glass beakers of different sizes, a Bunsen burner, tripod and gauze, a measuring cylinder. You may use any other common laboratory apparatus. You are not required to do this investigation. In your plan include: • any other apparatus needed • a brief description of the method, including what you will measure and how you will make sure your measurements are accurate • the variables you will control • a results table to record your measurements (you are not required to enter any readings in the table) • how you will process your results to draw a conclusion. You may include a labelled diagram if you wish.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": []
+  }
+]

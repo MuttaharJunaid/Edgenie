@@ -1,0 +1,665 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q1",
+    "Question_text": "ELECTRONIC CALCULATORS MUST NOT BE USED IN THIS PAPER.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions",
+      "Use operations with integers",
+      "Order operations correctly",
+      "Use brackets"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 2 3/4 - 1 13/16.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 5 + 3 × 2 + 2(2 – 3).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals",
+      "Order by magnitude",
+      "Recognize equivalence",
+      "Convert between forms"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 0.02 × 1.2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Arrange these values in order of size, starting with the smallest. 22% 2/9 0.2",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Give ratios simply",
+      "Calculate with time units",
+      "Calculate percentage of quantity",
+      "Calculate simple interest"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express the ratio 30 minutes to 2 1/4 hours in its lowest terms. Give your answer in the form m:n, where m and n are integers.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the simple interest on $200 for 4 years at 0.6% per year.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q4",
+    "Question_text": "Find two solutions of the inequality 3x + 4 < 11 that lie between 2 and 3.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities",
+      "Represent and interpret inequalities, including on a number line"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q5",
+    "Question_text": "The length of a side of a square is given as d cm, correct to the nearest 10cm. Find an expression in terms of d for",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give upper bounds",
+      "Give lower bounds",
+      "Find bounds of calculations",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "the upper bound of the perimeter of the square,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the lower bound of the area of the square.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Understand zero indices",
+      "Understand negative indices",
+      "Use rules of indices",
+      "Use A × 10^n form",
+      "Calculate with standard form"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 5 × 10^0 + 3 × 10^1 + 1 × 10^2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find (5 × 10^8) × (2.4 × 10^–3). Give your answer in standard form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q7",
+    "Question_text": "By making suitable approximations, estimate the value of 38.982 × sqrt(8.8536) / 6.0122. Show clearly the approximate values you use.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates",
+      "Round to accuracy",
+      "Round answers reasonably",
+      "Calculate square roots"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q8",
+    "Question_text": "Giving each answer as a fraction in its lowest terms, evaluate",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers",
+      "Order operations correctly",
+      "Understand positive indices",
+      "Understand negative indices",
+      "Use rules of indices",
+      "Write fractions simply"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "3 × (2)^3 / 6 × 9",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "(3/2)^-2",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q9",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Calculate percentage change",
+      "Calculate reverse percentages"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "A television priced at $500 is sold for $400. Find the percentage discount.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Tax on the original price of a radio is charged at 20% of the original price. After tax was included, a customer paid $60 for the radio. Calculate the tax charged.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q10",
+    "Question_text": "In the diagram, the triangle ABC is equilateral. C is due East of B.",
+    "image": "A diagram showing an equilateral triangle ABC. Point A is above the line BC. A compass direction 'North' arrow points upwards from point A. Line segments AB, BC, and AC are shown with tick marks indicating equal length. The line BC is horizontal, with C to the right of B, consistent with C being due East of B relative to the North arrow.",
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings",
+      "Calculate unknown angles using triangle sum (180°)",
+      "Calculate unknown angles using angles on a straight line (180°)",
+      "Know and use angle properties of regular and irregular polygons",
+      "Calculate with time units",
+      "Use 24-hour clock"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the bearing of B from A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the bearing of A from C.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A boat sails around a course represented by triangle ABC. It started at 13 38 and finished at 14 21. How many minutes did it take?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q11",
+    "Question_text": "A model of a car is made to a scale of 1/40.",
+    "image": null,
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Draw and interpret scale drawings",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The height of the actual car is 1.5 m. Find the height, in centimetres, of the model.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The luggage capacity of the model is 5 millilitres. Find the luggage capacity, in litres, of the actual car.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q12",
+    "Question_text": "The lengths of the leaves of a plant were measured. The results are shown in the table.",
+    "image": "A table with three rows and six columns. The first row contains 'Length (x centimetres)' and length ranges: '1 < x ≤ 3', '3 < x ≤ 4', '4 < x ≤ 5', '5 < x ≤ 7', '7 < x ≤ 10'. The second row contains 'Frequency' with corresponding values: 8, 5, 6, 12, 12. The third row is 'Frequency density' with empty cells for calculations.",
+    "Unit": "Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Calculate with frequency density",
+      "Read, interpret and draw inferences from tables and statistical diagrams",
+      "Calculate probability of single event"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the table to show the frequency densities.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "One leaf is chosen at random. Find an estimate of the probability that this leaf is more than 6 cm long.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q13",
+    "Question_text": "f(x) = (7 - 3x) / 2x",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Substitute numbers into expressions and formulas",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find f(4).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find f^-1(x).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q14",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express, in set notation, the subset shaded in the diagram.",
+        "image": "A Venn diagram showing a universal set E. Inside E, there are three overlapping circles labeled A, B, and C. The shaded region consists of the parts where exactly two of the three sets overlap: (A ∩ B ∩ C') ∪ (A ∩ C ∩ B') ∪ (B ∩ C ∩ A'). The central region (A ∩ B ∩ C) is not shaded, nor are the parts where only one set is present."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Given universal set E = {a, b, c, d, e, f, g, h}, P = {a, b, c}, Q = {b, c, d, e, f}. Find n(P ∪ Q).",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "List the members of the subset P' ∩ Q.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q15",
+    "Question_text": "This figure has rotational symmetry of order 3.",
+    "image": "A figure resembling a 3D prism viewed from above, or a stylized three-pointed star shape, exhibiting rotational symmetry of order 3. It has three identical 'wings' or sections emanating from a central point. On one section, interior angles of 53° and 40° are marked. On other sections, an interior angle x° and another interior angle y° are marked, with the angles consistently placed across the symmetrical parts of the figure.",
+    "Unit": "Geometry",
+    "Topic": "4.5 Symmetry",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions",
+      "Calculate unknown angles using sum of angles at a point (360°)",
+      "Calculate unknown angles using triangle sum (180°)",
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "How many lines of symmetry does the figure have?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find x.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find y.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q16",
+    "Question_text": "An ordinary die is thrown 15 times. These are the numbers thrown. 4 5 3 2 2 5 6 1 6 3 5 2 5 1 3",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes",
+      "Solve linear equations in one unknown"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Find the mode.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find the median.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The mean of these three numbers is -5. Find x. (The numbers are -20, -8, X)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q17",
+    "Question_text": "The diagram shows the points A(1, 4), B(3, 12) and C(15,4). The equation of the line through B and C is 2x + 3y = 42. The region inside triangle ABC is defined by three inequalities. One of these is 2x + 3y < 42.",
+    "image": "A Cartesian coordinate plane with x and y axes. Points A(1, 4), B(3, 12), and C(15, 4) are plotted and connected to form a triangle ABC. The line segment BC is explicitly associated with the equation 2x + 3y = 42. Triangle ABC is positioned in the first quadrant.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region",
+      "Interpret and obtain the equation of a straight-line graph",
+      "Use and interpret Cartesian coordinates in two dimensions"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the other two inequalities.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "How many points, with coordinates (10, k), where k is an integer, lie inside the triangle ABC?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q18",
+    "Question_text": "The diagram shows a hexagon. Find x.",
+    "image": "A diagram of an irregular hexagon. Five interior angles are given: 70°, 120°, 66°, and two angles marked with right-angle symbols (90° each). The sixth interior angle is labeled x°.",
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q19",
+    "Question_text": "[Volume of a cone = 1/3 πr²h] Cone 1 has radius 2x cm and height 7x cm. Cone 2 has radius x cm and height 4x cm. Find an expression, in terms of π and x, for the difference in the volume of the two cones. Give your answer in its simplest form.",
+    "image": null,
+    "Unit": "Mensuration",
+    "Topic": "5.4 Surface area and volume",
+    "Sub_topic": [
+      "Carry out calculations and solve problems involving surface area and volume of cuboid, prism, cylinder, sphere, pyramid, cone",
+      "Simplify expressions by collecting like terms",
+      "Expand products of algebraic expressions"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q20",
+    "Question_text": "Two bags contain beads. The first bag contains 2 white, 2 red and 3 black beads. The second bag contains 3 white and 2 black beads. One bead is taken, at random, from each bag. The tree diagram is shown below.",
+    "image": "A probability tree diagram. The first set of branches represents 'First bead' with outcomes: 'white' (probability 2/7), 'red' (probability 2/7), and 'black' (probability 3/7). From each of these, a second set of branches represents 'Second bead' with outcomes 'white' (probability 3/5) and 'black' (probability 2/5).",
+    "Unit": "Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams",
+      "Calculate probability of single event"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the probability that both beads are white,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "both beads are red,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "exactly one bead is black.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q21",
+    "Question_text": "In the diagram, BC = 2p + q, CD = 2q – p and D is the midpoint of CE.",
+    "image": "A vector diagram showing points A, B, C, D, E. Vector BC is labeled '2p + q'. Vector CD is labeled '2q - p'. Point D is indicated as the midpoint of the line segment CE.",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.2 Vectors in two dimensions",
+    "Sub_topic": [
+      "Add and subtract vectors",
+      "Multiply vector by scalar",
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Express, in its simplest form, in terms of p and/or q: CE",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Express, in its simplest form, in terms of p and/or q: BE",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Given that AB = kp, express AĒ in terms of k, p and q.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Given that AE is parallel to BC, find k.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q22",
+    "Question_text": "In the diagram, the circles, centres P and Q, intersect at B and E. ABC and APE are straight lines. BD is parallel to AE. BÊA = 36° and BỘC = 122°.",
+    "image": "A geometric diagram featuring two circles. Circle P passes through points A, B, E. Circle Q passes through points B, C, D, E. The lines ABC and APE are shown as straight lines. The line segment BD is parallel to the line segment AE. Angle BEA is 36 degrees. Angle BQC, where Q is the center of the right circle, is 122 degrees.",
+    "Unit": "Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: centre twice circumference",
+      "Calculate unknown angles using circle properties: same segment equal",
+      "Calculate unknown angles for parallel lines: alternate equal",
+      "Calculate unknown angles using circle properties: cyclic quadrilateral opposite sum 180°",
+      "Calculate unknown angles using triangle sum (180°)",
+      "Use and interpret vocabulary of a circle"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find BÂE.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find EBD.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find BDC.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Find D B Q.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q23",
+    "Question_text": "The diagram is the speed-time graph of part of a train's journey. The train slows down uniformly from a speed of u m/s to a speed of 6 m/s in 10 seconds. During the next 20 seconds it travels at a constant speed of 6 m/s. It then slows down uniformly to a stop after a further 30 seconds.",
+    "image": "A speed-time graph with 'Speed (m/s)' on the y-axis and 'Time (t seconds)' on the x-axis. The graph consists of three segments: a linearly decreasing segment from (0, u) to (10, 6); a horizontal segment from (10, 6) to (30, 6); and a linearly decreasing segment from (30, 6) to (60, 0).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Calculate distance travelled as area under a speed–time graph"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the retardation from t = 30 to t = 60.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the speed of the train when t = 40.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The distance travelled by the train from t = 0 to t = 10 is 85 m. Find u.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q24",
+    "Question_text": "The first and second terms of a sequence are 15 and 11 respectively. The nth term of the sequence is 10 + An + B/n.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences",
+      "Construct expressions, equations and formulas",
+      "Solve simultaneous linear equations in two unknowns",
+      "Substitute numbers into expressions and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Show that A + B = 5 and 4A + B = 2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve the simultaneous equations. A + B = 5, 4A + B = 2",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Hence find the third term of the sequence.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q25",
+    "Question_text": "The diagram shows triangles A and B and the point P(0, 4).",
+    "image": "A Cartesian coordinate plane showing the x and y axes. Triangle A has vertices at (1,1), (3,1), (3,2). Triangle B has vertices at (-1,1), (-3,1), (-3,2). Point P is marked at (0,4).",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw reflection of shape in straight line",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids",
+      "Solve problems and give simple explanations involving similarity",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe fully the single transformation that maps triangle A onto triangle B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Triangle A is mapped onto triangle C by an enlargement, centre P, scale factor -1/2. On the diagram, draw triangle C.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find the value of (area of triangle A) / (area of triangle C).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/11/2013/Q26",
+    "Question_text": "Given A = [[2, -3], [1, 4]]",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Matrix operations",
+      "Identity matrix"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find [[5, -3], [2, 6]] - 2A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find A × A.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Write down, as a 2 × 2 matrix, the answer to 3 × A × A^-1.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "QuestionNumber": "O/N/2011/12/Q1",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions",
+      "Use operations with decimals",
+      "Order operations correctly"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 2 3/4 - 1 7/9.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 0.7 – 0.1 × 3.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio",
+      "Use proportional reasoning",
+      "Calculate with time units",
+      "Order by magnitude"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Ali and Ben share $30 such that Ali's share : Ben's share = 3 : 2. Calculate Ali's share.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write the following times in order of size, starting with the smallest. 6500 seconds 110 minutes 1 3/4 hours",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q3",
+    "Question_text": "Exactly 9 litres of liquid filled 60 identical bottles.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Use proportional reasoning",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "How many litres filled 40 of these bottles?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "How many of these bottles are filled using 750 ml of liquid?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q4",
+    "Question_text": "It is given that f(x) = (3+x)/2.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find f(-3).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find f⁻¹(x).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q5",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form",
+      "Calculate with standard form",
+      "Use A × 10^n form"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express the number 0.000 042 in standard form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate (7 × 10⁻³) × (3 × 10⁹), giving your answer in standard form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities",
+      "Identify integers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve the inequality 2(4 – x) < x – 10 .",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the smallest integer n such that 3n > -17 .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Understand zero indices",
+      "Understand negative indices",
+      "Use rules of indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 4⁰ – 4⁻².",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Simplify (2x²)³.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q8",
+    "Question_text": "The first four terms of a sequence are 55, 53, 49, 41. The nth term of this sequence is 57 – 2ⁿ .",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Find and use the nth term of sequences",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the fifth term.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down the nth term of the sequence 56, 55, 52, 45 ... .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q9",
+    "Question_text": "Each interior angle of a regular polygon is p times each exterior angle.",
+    "image": null,
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "an exterior angle,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the number of sides of the polygon.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q10",
+    "Question_text": "The Venn diagram shows the Universal set and the set B. A and C are two sets such that A ∪ B = B, A ∩ B ≠ B, A ∩ C = Ø and B ∩ C ≠ Ø.",
+    "image": "A Venn diagram showing a universal set represented by a rectangle labeled 'E' and a set B represented by a circle within 'E'. No other sets are drawn yet.",
+    "Unit": "Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "",
+        "part_text": "Draw the sets A and C in the Venn diagram.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q11",
+    "Question_text": "By writing each number correct to two significant figures, estimate, correct to one significant figure, the value of √110.94 – 0.2034 × 368.62",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Round to accuracy",
+      "Make estimates",
+      "Round answers reasonably"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q12",
+    "Question_text": "The length of a rectangle is 8 cm. It is increased by 150%. Calculate the new length.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.13 Percentages",
+    "Sub_topic": [
+      "Calculate percentage of quantity",
+      "Calculate percentage change"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q13",
+    "Question_text": "y is inversely proportional to x. The table shows some values of x and y.",
+    "image": "A table showing corresponding values of x and y for an inverse proportion relationship. The columns are x values: 3, 4, q, n and y values: 20, p, 5, m.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find p.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find q.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Express m in terms of n.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q14",
+    "Question_text": "In the diagram, the points A, B, C and D lie on the circle, centre O. BÂD = 47°.",
+    "image": "A circle with center O. Points A, B, C, D are arranged in clockwise order on the circumference. Angle BAD is marked as 47 degrees. Radii OB and OD are drawn, and chords BC, CD, DA are also visible.",
+    "Unit": "Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: centre twice circumference",
+      "Calculate unknown angles using circle properties: cyclic quadrilateral opposite sum 180°"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find BÓD,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "BĈD,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "OḄD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q15",
+    "Question_text": "In a survey, some people were asked which of three songs, labelled A, B and C, they liked. The diagram shows part of a pie chart illustrating the results. The angle of the sector that represents the people who liked C best is 168°.",
+    "image": "A partial pie chart showing sectors for songs A and B. Sector B has an angle of 45 degrees. Sector A has an unmarked angle. The remaining portion of the circle is implicitly for sector C, which is stated to have an angle of 168 degrees.",
+    "Unit": "Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret pie charts",
+      "Write fractions simply",
+      "Use proportional reasoning"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete the pie chart.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Expressing your answer in its lowest terms, find the fraction of people in the survey who liked C best.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Given that 30 people liked A best, calculate the number of people in the survey.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q16",
+    "Question_text": "The distribution of the lengths of time taken by an engineer to repair some washing machines is shown in the table.",
+    "image": "A frequency table showing time intervals (1<t≤3, 3<t≤4, 4<t≤5, 5<t≤8 hours) and their corresponding frequencies (k, 5, 4, 3). Below the table is a histogram. The histogram has 'Frequency density' on the y-axis (0-5) and 'Time (hours)' on the x-axis (0-9). Bars are plotted for time intervals 3<t≤4 (frequency density 5), 4<t≤5 (frequency density 4), and 5<t≤8 (frequency density 1, implying a frequency of 3 for a width of 3). The bar for 1<t≤3 is partially visible, showing a frequency density of 1 for a width of 2.",
+    "Unit": "Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Calculate with frequency density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find k.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete the histogram.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q17",
+    "Question_text": "The length of a side of a square is given as 57 mm, correct to the nearest millimetre.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give upper bounds",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the upper bound for the length of a side.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Giving your answer in centimetres, calculate the upper bound for the perimeter of the square.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q18",
+    "Question_text": "Renata went on a journey that took 7 1/2 hours.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units",
+      "Use 24-hour clock",
+      "Solve average speed problems",
+      "Use common rates"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The journey started at 22 48 on Monday. At what time on Tuesday did it finish?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In the first part of the journey Renata travelled 150km in 5 hours. She travelled at an average speed of 20km/h for the rest of the journey. Calculate her average speed for the whole journey.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q19",
+    "Question_text": "Solve the simultaneous equations. 2x + 3y = 0 x + 4y = –15",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q20",
+    "Question_text": "The triangles ABC and XYZ are similar and ∠ABC = ∠XYZ. BÂC = x°, YẐX = y° where x ≠ y. AB = 3 cm, XY = 4 cm and YZ = 5 cm.",
+    "image": "Two triangles are shown. Triangle ABC has side AB = 3 cm, and angle BAC = x degrees. Triangle XYZ has side XY = 4 cm, side YZ = 5 cm, and angle YZX = y degrees. Angles at B, C, X, Y are also marked with arcs.",
+    "Unit": "Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids",
+      "Solve problems and give simple explanations involving similarity",
+      "Calculate unknown angles using sum of angles at a point (360°), on a straight line (180°), vertically opposite angles equal, triangle sum (180°), quadrilateral sum (360°)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express ∠ABC in terms of x and y.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find BC.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Write down the value of (area of triangle ABC) / (area of triangle XYZ)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q21",
+    "Question_text": "The diagram is the speed-time graph of the last 100 seconds of a train's journey.",
+    "image": "A speed-time graph with Time (seconds) on the x-axis from 0 to 100 and Speed (m/s) on the y-axis from 0 to 50. The graph starts at (0, 20), increases linearly to (80, 40), and then decreases linearly to (100, 0).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph",
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the train's retardation during the last 10 seconds of the journey.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the distance travelled in the 100 seconds.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q22",
+    "Question_text": "A = [[4,-2],[-1,1]] B = [[-3,2],[-1,4]]",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms",
+      "Understand and find inverse functions f⁻¹(x)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find 2A – B.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find A⁻¹.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q23",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Factorise 9x² – 1 .",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve the equation 2y² + 29y – 15 = 0 .",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q24",
+    "Question_text": "The table shows the number of goals scored by 40 football teams during one weekend.",
+    "image": "A frequency table showing the number of goals scored (0, 1, 2, 3, 4, 5, 6) and the corresponding number of teams (frequency: 16, 6, 6, 6, 4, 0, 2).",
+    "Unit": "Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the mode,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the median,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "the mean.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q25",
+    "Question_text": "The diagram shows the graphs of x + y = 12.5, y = x/4 and x = 2. These graphs intersect to form triangle ABC. The region inside triangle ABC is defined by three inequalities. One of these is y > x/4.",
+    "image": "A coordinate plane with x and y axes. Three lines are drawn: a vertical line x=2, a line y=x/4 passing through the origin, and a line x+y=12.5. These lines form a triangle ABC, with vertices labeled A, B, C.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region",
+      "Use and interpret Cartesian coordinates in two dimensions",
+      "Understand set language",
+      "Use set notation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the other two inequalities.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "P = {(x, y) : x and y are integers, (x, y) lies inside triangle ABC} Q = {(7, y) : y is an integer} Find the member of the set P that is closest to the point C.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Find n(P ∩ Q).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q26",
+    "Question_text": "The diagram below shows triangle ABC.",
+    "image": "A triangle ABC. The vertices are labeled A, B, C.",
+    "Unit": "Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Construct a triangle given lengths of all sides using ruler and compasses",
+      "Measure and draw lines and angles"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The point D is on the opposite side of AC to B. AD = 6 cm and CD = 8 cm. Construct triangle ADC.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On the diagram, construct the locus of points inside the quadrilateral ABCD that are 2.5 cm from AC,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "equidistant from AB and BC.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The points P and Q are 2.5 cm from AC and equidistant from AB and BC. Mark and label P and Q . Measure PQ.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q27",
+    "Question_text": "The diagram shows triangles A, B and C.",
+    "image": "A coordinate grid with x and y axes. Three triangles are plotted. Triangle A has vertices at (1,1), (2,1), (1,2). Triangle B has vertices at (3,1), (3,2), (4,1). Triangle C has vertices at (3,2), (3,4), (5,2).",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw rotation of shape about centre through multiples of 90°",
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Triangle A is mapped onto triangle B by an anticlockwise rotation. Write down the angle of rotation.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find the coordinates of the centre of rotation.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Triangle A is mapped onto triangle C by a stretch. Write down the scale factor.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Write down the equation of the invariant line.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "O/N/2011/12/Q28",
+    "Question_text": "In the diagram, F is the point on AB where AF = (1/4)AB. E is the midpoint of AC. vector AF = p and vector AE = q.",
+    "image": "A triangle ABC. Point F is on side AB such that AF is 1/4 of AB. Point E is the midpoint of side AC. Vector AF is labeled 'p' and vector AE is labeled 'q'. A point D is also shown, on the line extending from B through C.",
+    "Unit": "Transformations and vectors",
+    "Topic": "7.4 Vector geometry",
+    "Sub_topic": [
+      "Use sum and difference of vectors to express given vectors in terms of two coplanar vectors",
+      "Use vectors to reason and solve geometric problems"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Express, in terms of p and q, FÉ,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "BĆ.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "D is the point on BC produced such that BD = kBC. Express FĎ in terms of k, p and q.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Given that F, E and D are collinear, find the value of k.",
+        "image": null
+      }
+    ]
+  }
+]

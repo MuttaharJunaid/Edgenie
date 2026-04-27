@@ -1,0 +1,637 @@
+[
+  {
+    "QuestionNumber": "October-November/11/2012/Q1",
+    "Question_text": "ELECTRONIC CALCULATORS MUST NOT BE USED IN THIS PAPER.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions",
+      "Use mixed numbers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 3 2/5 - 2 5/6.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 2/3 ÷ 3 3/4.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q2",
+    "Question_text": "ELECTRONIC CALCULATORS MUST NOT BE USED IN THIS PAPER.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals",
+      "Order operations correctly"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 0.7 + 0.2 × 0.3.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Evaluate 0.9 / 0.06.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q3",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio",
+      "Calculate simple interest"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Alice and Brenda share $300 so that Alice's share : Brenda's share = 3 : 7. How much more does Brenda receive than Alice?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the simple interest on $200 for 4 years at 2% per year.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q4",
+    "Question_text": "Arrange these lengths in order of size, starting with the smallest. 2300 mm, 220 cm, 0.021 km, 2 1/4 m",
+    "image": null,
+    "Unit": "Mensuration",
+    "Topic": "5.1 Units of measure",
+    "Sub_topic": [
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities",
+      "Order by magnitude"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q5",
+    "Question_text": "Pierre goes on a holiday from France to the UK.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.15 Time",
+    "Sub_topic": [
+      "Calculate with time units",
+      "Use 24-hour clock",
+      "Convert currencies"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "His journey takes 4 hours and 43 minutes. It ends at 02 13 on Saturday. At what time on Friday does his journey start?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Pierre changes 400 euros into pounds (£). The exchange rate is 1 euro = £0.845. How many pounds does he receive?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Convert to standard form",
+      "Calculate with standard form"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write the number 0.000034 in standard form.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Expressing your answer in standard form, find (5 × 10^8) × (4 × 10^7).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.9 Estimation",
+    "Sub_topic": [
+      "Make estimates",
+      "Round to accuracy",
+      "Calculate cube roots"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Estimate, correct to the nearest whole number, the value of √(72.187/π). Show clearly the approximate values you use.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The values of three cube roots, correct to 1 decimal place, are given below. ³√5 = 1.7 ³√50 = 3.7 ³√500 = 7.9 Using as much of the above information as is necessary, find the value of ³√0.005.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q8",
+    "Question_text": "The mean mass of Ali, Ben and Carl is 40 kg. The mass of Dan is 48 kg. Find the mean mass of the four boys.",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q9",
+    "Question_text": "y is inversely proportional to x. Given that y = 1/5 when x = 20, find y when x = 1/7.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q10",
+    "Question_text": "In the diagram, the triangle ABC is equilateral. The bearing of B from A is 075°.",
+    "image": "A diagram shows an equilateral triangle ABC. A North line is drawn at vertex A. The bearing of B from A is indicated as 075 degrees from the North line, clockwise to the line segment AB.",
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings",
+      "Know and use angle properties of regular and irregular polygons"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the bearing of C from A.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the bearing of C from B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q11",
+    "Question_text": "In an experiment, 4 dice are thrown and the number of Fives is recorded. The experiment is repeated 12 times. The table shows the results. Number of Fives: 0, 1, 2, 3, 4 Frequency: 1, 2, 3, 5, 1 For this distribution of Fives,",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes",
+      "Identify modal class from grouped frequency distribution"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "write down the mode,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "find the median.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q12",
+    "Question_text": "A bag contains 1 red and 3 blue balls. Two balls are taken from the bag, at random, without replacement. The tree diagram that represents all the outcomes is shown below.",
+    "image": "A tree diagram illustrating the process of taking two balls from a bag without replacement. The first set of branches represent the 'First ball' being either red or blue. The second set of branches, extending from both the first 'red' and 'blue' outcomes, represent the 'Second ball' also being either red or blue, with some branches labelled red or blue but without probabilities.",
+    "Unit": "Probability",
+    "Topic": "8.3 Probability of combined events",
+    "Sub_topic": [
+      "Calculate probability of combined events using sample space diagrams, Venn diagrams, tree diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write the appropriate probability on each branch.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the probability that the second ball taken is red.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q13",
+    "Question_text": "The mass of a box is 2 kilograms, correct to the nearest kilogram.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds",
+      "Find bounds of calculations",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the lower bound for the mass of the box.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The mass of a can is 350 grams, correct to the nearest 10 grams. Giving your answer in kilograms, calculate the lower bound for the total mass of the box and 20 identical cans.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q14",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.7 Indices I",
+    "Sub_topic": [
+      "Understand positive indices",
+      "Understand zero indices",
+      "Understand negative indices",
+      "Use rules of indices"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Evaluate 5^1 + 5^0,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Evaluate (4/3)^-2.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Simplify (2x^2)^3.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q15",
+    "Question_text": "The diagram shows the plan of a rectangular garden, measuring 11 m by 9m. All the angles are right angles. The pond is a square of side 4 m. The paths are 1 m wide. The remainder of the garden is a lawn.",
+    "image": "A plan view of a rectangular garden, 11m long and 9m wide. Inside the garden, there is a square pond with a side length of 4m. Paths, 1m wide, are shown surrounding parts of the pond and also running along the top and left edges of the garden. The remaining area of the garden is designated as a lawn. All internal angles are right angles.",
+    "Unit": "Mensuration",
+    "Topic": "5.5 Compound shapes and parts of shapes",
+    "Sub_topic": [
+      "Carry out calculations involving perimeter and area of rectangle, triangle, parallelogram, trapezium",
+      "Carry out calculations and solve problems involving perimeters and areas of compound shapes and parts of shapes",
+      "Use metric units of mass, length, area, volume, capacity in practical situations and convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the perimeter of the lawn.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the total area of the paths.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The paths are paved with square tiles of side 50 cm. How many tiles are used?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q16",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Transformations and vectors",
+    "Topic": "7.1 Transformations",
+    "Sub_topic": [
+      "Recognise, describe and draw enlargement of shape from centre by scale factor"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find A⁻¹. (Matrix A = [[3, 0], [0, 1]])",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe, fully, the transformation that is represented by A.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q17",
+    "Question_text": "The quadrilateral ABCD is bounded by the lines x = 1, y = 2, 2y = x and x + y = 9. The region inside the quadrilateral is defined by four inequalities. Two of these are y > 2 and 2y > x.",
+    "image": "A Cartesian coordinate grid displaying a quadrilateral ABCD. The vertices are marked, and the bounding lines x=1, y=2, 2y=x, and x+y=9 are shown, defining the region of the quadrilateral. The axes are labeled X and Y, with numerical scales from 0 to 8 for both.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Represent and interpret inequalities, including on a number line",
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the other two inequalities.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "How many points, with integer coordinates, lie inside the quadrilateral ABCD?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q18",
+    "Question_text": "Factorise completely",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Factorise expressions of the form: ax² + bx + c"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "20p + 25p²",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "9 - 4t²",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "9 + 35x - 4x².",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q19",
+    "Question_text": "In the diagram, the dashed line is a line of symmetry. BAF = 2x°, FÊD = x° and CÔIE = 2x° . Find the value of x.",
+    "image": "A hexagon ABCDEF with a dashed vertical line representing a line of symmetry. Angles BAF, FED, and CDE are marked as 2x°, x°, and 2x° respectively. Due to symmetry, other angles or side lengths can be inferred.",
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Recognise line symmetry and order of rotational symmetry in two dimensions",
+      "Know and use angle properties of regular and irregular polygons",
+      "Calculate unknown angles using triangle sum (180°)"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q20",
+    "Question_text": "Given f(x) = (x+3)/2",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.12 Functions",
+    "Sub_topic": [
+      "Understand functions, domain and range, and use function notation",
+      "Understand and find inverse functions f⁻¹(x)",
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find f⁻¹(x).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Given that f(-9) + f(t) = A + Bt, find the values of A and B.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q21",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.2 Sets",
+    "Sub_topic": [
+      "Understand set language",
+      "Use set notation",
+      "Use Venn diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Given that A = { 1, 2, 3, 4, 5 } and B = { 3, 4, 5, 6, 7 }, find n( A ∪ B ).",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "E = { p, q, r, ... }. On the Venn diagram, write each of the letters p, q, and r in its appropriate subset, given that p ∈ X ∩ Y ∩ Z, q ∈ X' ∩ Y' ∩ Z', r ∈ (X ∪ Y)' ∩ Z.",
+        "image": "A Venn diagram is shown, consisting of three overlapping circles labeled X, Y, and Z, all enclosed within a universal set E."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q22",
+    "Question_text": "In the diagram, the points A, B, C and D lie on the circle. BD is a diameter. The tangents from T touch the circle at B and C. ACB = 52° and TBC = 56°.",
+    "image": "A circle is shown with four points A, B, C, and D on its circumference. The line segment BD is identified as a diameter. There is an external point T from which two lines are drawn, tangent to the circle at points B and C. Angle ACB is labeled 52 degrees, and angle TBC is labeled 56 degrees.",
+    "Unit": "Geometry",
+    "Topic": "4.7 Circle theorems I",
+    "Sub_topic": [
+      "Calculate unknown angles using circle properties: angle in semicircle 90°, tangent-radius 90°, centre twice circumference, same segment equal, cyclic quadrilateral opposite sum 180°, alternate segment theorem",
+      "Use circle symmetry properties: tangents from external point equal"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find BTC,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find ADB,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Find BDC,",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Find ABC.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q23",
+    "Question_text": "The diagram is the speed-time graph of part of a train's journey. The train slows down uniformly from a speed of 50 m/s to a speed of 10 m/s in a time of 20 seconds. During the next 30 seconds, it accelerates uniformly to a speed of u metres/second.",
+    "image": "A speed-time graph for a train's journey. The y-axis represents speed in m/s (from 0 to 50), and the x-axis represents time in seconds (from 0 to 50). The graph shows a linear decrease in speed from 50 m/s at t=0 to 10 m/s at t=20 seconds. Subsequently, the speed increases linearly from 10 m/s at t=20 seconds to an unknown speed 'u' m/s at t=50 seconds.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration",
+      "Calculate distance travelled as area under a speed–time graph",
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the retardation from t = 0 to t = 20.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the speed of the train when t = 15.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the distance travelled by the train from t = 0 to t = 20.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The size of the acceleration is half the size of the retardation. Find the value of u.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q24",
+    "Question_text": "The diagram shows the points A (-1, 8) and B (7, 2).",
+    "image": "A Cartesian coordinate grid showing two points: A located at (-1, 8) and B located at (7, 2). The X and Y axes are labeled.",
+    "Unit": "Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment",
+      "Describe translation using vector",
+      "Add and subtract vectors",
+      "Calculate magnitude of vector as sqrt(x² + y²)"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the coordinates of the midpoint of AB.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Vector BC = (-3, 4)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q25",
+    "Question_text": "The sequence of positive integers is arranged in the pattern below. Row 1: 1 2 3 Row 2: 4 5 6 Row 3: 7 8 9 Row 4: 10 11 12 ... Row n: ... 3n-1",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Continue a given number sequence or pattern",
+      "Recognise patterns in sequences, including the term-to-term rule, and relationships between different sequences",
+      "Find and use the nth term of sequences",
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete Row n.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The table shows some results obtained from this pattern. Table: Row number (1, 2, 3, 4, n), Square of the middle number in the row (4, 25, 64, X), Product of the first and the last number in the row (3, 24, 63, Y)",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q26",
+    "Question_text": "The diagram at the bottom of the page shows the lines AB and BC.",
+    "image": "A diagram displaying two line segments, AB and BC, connected at point B. These form part of a shape where angle ABC is present.",
+    "Unit": "Geometry",
+    "Topic": "4.2 Geometrical constructions",
+    "Sub_topic": [
+      "Measure and draw lines and angles",
+      "Construct a triangle given lengths of all sides using ruler and compasses"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "By measuring an angle, find reflex angle ABC.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The point D is on the opposite side of AC to B. CD = CB and AD = 10 cm. On the diagram, construct quadrilateral ABCD.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On the diagram, construct the locus of points, inside the quadrilateral ABCD, that are",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "On the diagram, shade the region inside the quadrilateral ABCD containing the points that are nearer to A than to B and nearer to BC than to BA.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/11/2012/Q27",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Simplify expressions by collecting like terms",
+      "Expand products of algebraic expressions",
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Express as a single matrix 2 * [[-1, 2], [0, 1]] - [[-3, 1], [1, 3]].",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The matrix X satisfies the equation X * [[2, -1], [0, 3]] = [[8, 5]].",
+        "image": null
+      }
+    ]
+  }
+]

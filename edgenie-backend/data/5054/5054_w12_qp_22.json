@@ -1,0 +1,397 @@
+[
+  {
+    "QuestionNumber": "October/November/2012/Q1",
+    "Question_text": "Answer all the questions in this section. Answer in the spaces provided. (a) Describe an experiment to verify the principle of moments. You may include a diagram in your answer. (b) Fig. 1.1 shows a spanner tightening a nut. A force of 8.0N is applied to the spanner at a perpendicular distance of 0.15m from the centre of the nut. Calculate the moment of the force acting on the nut.",
+    "image": "A diagram (Fig. 1.1) shows a spanner tightening a nut. The spanner applies a downward force of 8.0 N at a perpendicular distance of 0.15 m from the center of the nut.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe an experiment to verify the principle of moments. You may include a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the moment of the force acting on the nut.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q2",
+    "Question_text": "A pupil hangs a load of 45 N from a length of copper wire. The wire extends by 2.5mm and does not exceed the limit of proportionality.",
+    "image": "An empty grid labeled Fig. 2.1, intended for plotting an extension-load graph.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The gravitational field strength is 10N/kg. Calculate the mass of the 45 N load.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Use the grid in Fig. 2.1 to plot the extension-load graph for this wire for a load between 0 and 45 N.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Use the graph plotted in Fig. 2.1 to determine the load needed to produce an extension of 1.3 mm.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q3",
+    "Question_text": "A man of mass 75kg falls from a platform high above a lake. Fig. 3.1a shows the man tied to the platform by a long elastic rope (bungee). Fig. 3.1b shows the man when he has fallen 20m. After this point the rope begins to stretch. Fig. 3.1c shows the man at 25m below the platform where he is first stopped by the rope.",
+    "image": "Three diagrams (Fig. 3.1a, Fig. 3.1b, Fig. 3.1c) illustrating a bungee jumper. Fig. 3.1a shows the man on a platform. Fig. 3.1b shows the man having fallen 20m, with the bungee rope still slack. Fig. 3.1c shows the man having fallen 25m, with the bungee rope fully stretched, bringing him to a stop.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Kinetic Energy",
+      "Conservation of Energy",
+      "Elastic Potential Energy",
+      "Freefall"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The gravitational field strength is 10N/kg. Calculate the change in his gravitational potential energy as he falls through 20m.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "When he is 20m below the platform, his kinetic energy is equal to the change in his gravitational potential energy calculated in (i). Calculate his speed at this point.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State the energy changes that take place as he falls from 20m to 25m below the platform. Ignore the effect of air resistance.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q4",
+    "Question_text": "Fig. 4.1 shows gas trapped in a cylinder by a piston. The piston has a cross-sectional area of 0.0050 m². It moves upwards, through a distance of 0.074 m, compressing the gas. During this compression, the average pressure of the gas is 4.6 x 10⁵ Pa.",
+    "image": "A diagram (Fig. 4.1) showing gas trapped in a cylinder by a piston. The gas is below the piston, and the cylinder is vertical.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Work",
+      "Temperature & Pressure",
+      "Specific Heat Capacity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the average force exerted on the piston by the gas during compression,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the work done on the gas during compression.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The gas in the cylinder has a heat capacity of 0.27J/°C and heats up as it is compressed. Calculate the maximum possible temperature rise of the gas.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest a reason why the actual temperature rise of the gas is less than the value calculated in (i).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q5",
+    "Question_text": "(a) No thermal energy (heat) is transferred from the surface of the Sun to the Earth by either conduction or convection. Explain why this is so. (b) In a certain country, the climate is very sunny and hot during the day and extremely cold during the night. Explain how painting the houses white helps to maintain a comfortable temperature both during the day and during the night.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer",
+      "Energy from the Sun"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "No thermal energy (heat) is transferred from the surface of the Sun to the Earth by either conduction or convection. Explain why this is so.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "In a certain country, the climate is very sunny and hot during the day and extremely cold during the night. Explain how painting the houses white helps to maintain a comfortable temperature both during the day and during the night.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q6",
+    "Question_text": "The filament in a cathode-ray oscilloscope (c.r.o.) emits charged particles by thermionic emission. The particles emitted have a charge of size 1.6 × 10⁻¹⁹C and carry a current of 5.6 x 10⁻³ A between the filament and the screen of the c.r.o. Calculate the number of particles that strike the screen every second.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of the charged particles that are emitted.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain what causes the particles to be emitted.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State why there must be a vacuum in the c.r.o. tube.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the number of particles that strike the screen every second.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q7",
+    "Question_text": "A small piece of metal taken from a nuclear reactor is radioactive.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Detection of Radioactivity",
+      "The Three Types of Emission",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe a method to determine whether the piece of metal emits gamma-rays.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State two safety precautions that must be taken when handling the piece of metal.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q8",
+    "Question_text": "The nuclei of four neutral atoms are represented using nuclide notation as: ¹²₆C ¹⁴₆C ¹⁴₇N ¹⁵₈O. Neutral atoms also contain electrons. State which of the four nuclei is surrounded by the greatest number of electrons. From these four nuclei, state the two nuclei that have the same number of protons, nucleons, neutrons.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Neutral atoms also contain electrons. State which of the four nuclei is surrounded by the greatest number of electrons.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "From these four nuclei, state the two nuclei that have the same number of protons,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "nucleons,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "neutrons.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q9",
+    "Question_text": "Fig. 9.1 shows a diver working below the surface of a lake. The density of the water in the lake is 1000kg/m³, the atmospheric pressure at the surface is 1.0 × 10⁵ Pa and the gravitational field strength is 10N/kg. The diver inflates a balloon with air at a depth of 15m and attaches the balloon to a tray of objects. The temperature of the air in the balloon does not change. When the diver releases the tray, the balloon accelerates upwards and reaches a constant speed before it arrives at the surface.",
+    "image": "A diagram (Fig. 9.1) depicting a diver working underwater in a lake. A balloon, attached to a tray of objects, is shown near the diver. An empty distance-time graph (Fig. 9.2) with distance (m) on the y-axis (up to 15) and time on the x-axis, for sketching the balloon's motion.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure",
+      "States of Matter",
+      "Particle Model",
+      "Distance-Time Graphs",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the pressure due to 15m of water,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "the total pressure at 15m below the surface of the lake.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The air in the balloon occupies a volume of 0.048 m³ at the pressure calculated in (a)(ii). The diver releases the tray and the balloon, and they begin to rise. The temperature of the air in the balloon does not change. Calculate the volume occupied by the air in the balloon at atmospheric pressure.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The pressure of the air inside the balloon is less at the surface than at a depth of 15m. Explain, in terms of the air molecules inside the balloon, why the pressure is less.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State one difference between the arrangement of the molecules of water in the lake and the molecules of air in the balloon.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Explain how the forces acting on the balloon cause it to behave in this way.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "On the axes in Fig. 9.2, sketch the distance-time graph for the balloon as it travels 15m to the surface.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q10",
+    "Question_text": "A laser produces red light of frequency 4.7 × 10¹⁴ Hz. The speed of light in glass is 2.0 x 10⁸ m/s. Fig. 10.1 shows a ray of light travelling in an optical fibre. The ray strikes the side of the fibre at P. The angle between the ray and the side of the fibre is 7°. A room is illuminated by wall lamps. Fig. 10.2 shows a mirror on the wall behind one of the lamps.",
+    "image": "A diagram (Fig. 10.1) illustrating a ray of light travelling inside an optical fibre, striking the side of the fibre at point P. The angle between the ray and the fibre's edge is shown as 7°. A diagram (Fig. 10.2) showing a wall lamp with a filament point X, 0.19m in front of a mirror mounted on a wall.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Reflection of Light",
+      "Investigating Reflection",
+      "Refraction of Light",
+      "Total Internal Reflection"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the wavelength in glass of light from this laser.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe an experiment to verify the law of reflection for light. You may include a diagram in your answer.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Determine the angle of incidence of the ray at P.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State and explain what happens to the ray at P.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "X is a point on the filament of the lamp. It is 0.19m in front of the mirror. On Fig. 10.2, draw rays from X and locate the image of X. Label the image I.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "State the distance between I and the mirror.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Suggest one advantage of placing a mirror behind the lamp in the room.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October/November/2012/Q11",
+    "Question_text": "A wire is wound around a soft-iron core forming a solenoid, as shown in Fig. 11.1. There is a gap in the core. The solenoid is connected in series with a 12V battery and a variable resistor (rheostat). The resistance of the solenoid is 0.30Ω and the variable resistor is set so that it has a resistance of 4.5Ω. Fig. 11.2 shows a horizontal, current-carrying wire PQ in the gap. The starter motor in a car is powered by a 12V battery that is positioned next to the motor. The current in the motor is 75 A. A relay is used to switch on a starter motor in a car.",
+    "image": "A circuit diagram (Fig. 11.1) showing a solenoid wound around a soft-iron core with a gap, connected in series with a 12V battery and a variable resistor. A diagram (Fig. 11.2) shows a horizontal, current-carrying wire PQ placed in the gap of a soft-iron core with a uniform, vertically upwards magnetic field.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnetic Effect of a Current",
+      "Electrical Current",
+      "Resistance",
+      "Combined Resistance",
+      "Force on a Current-Carrying Conductor",
+      "Electric Motors",
+      "Electrical Power",
+      "Electrical Safety",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the current in the solenoid.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The current in the solenoid magnetises the soft-iron core. Explain how the electric circuit is used to increase the strength of the magnetic field.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 1",
+        "part_text": "The magnetic field in the gap is uniform and vertically upwards. The current in PQ is from left to right. Describe the effect of the magnetic field on PQ.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii) 2",
+        "part_text": "State the effect on PQ of increasing the strength of the magnetic field in the gap.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the power supplied by the battery.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest and explain why the wires that connect the motor to the battery are very thick.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "A relay is used to switch on a starter motor in a car. Describe how the relay works. You may include a diagram in your answer.",
+        "image": null
+      }
+    ]
+  }
+]

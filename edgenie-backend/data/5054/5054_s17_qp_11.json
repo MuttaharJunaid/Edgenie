@@ -1,0 +1,497 @@
+[
+  {
+    "QuestionNumber": "May/June/11/2017/Q1",
+    "Question_text": "A micrometer is used to measure the diameter of a uniform wire. What is done to obtain an accurate answer?",
+    "image": "A diagram showing a micrometer screw gauge used to measure the diameter of a wire. Key parts labeled are 'wire', 'screw', 'rotating scale', and 'fixed scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q2",
+    "Question_text": "A car's acceleration and maximum speed are improved by using an engine of smaller mass and greater driving force. How many of the underlined quantities are vectors?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors",
+      "Acceleration",
+      "Speed & Velocity",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q3",
+    "Question_text": "The diagram shows the resultant R of a 3.0N force and a 4.0N force acting at a point. The angle between the 3.0N force and the 4.0 N force can be any value from 0° to 90°. Which value of R is not possible?",
+    "image": "A vector diagram showing two forces, 3.0 N and 4.0 N, originating from a common point, and their resultant R. The forces are depicted at an acute angle to each other.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q4",
+    "Question_text": "The diagram shows the distance-time graph of a car. The car is travelling along a straight road up a hill. Which quantity for the car is constant and greater than zero?",
+    "image": "A distance-time graph showing a straight line with a positive constant gradient, indicating constant speed. The x-axis is 'time' and the y-axis is 'distance', both starting from zero.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Distance-Time Graphs",
+      "Speed & Velocity",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Acceleration",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q5",
+    "Question_text": "A resultant force acts on an object and causes it to move in a straight line. The graph shows how the resultant force varies with time. Which graph is the speed-time graph for the object?",
+    "image": "A set of five graphs. The top graph shows resultant force versus time, starting at a high value and decreasing linearly to zero at time 't₀', then remaining zero. Below it are four speed-time graphs (labeled A, B, C, D) as multiple-choice options.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Speed-Time Graphs",
+      "Acceleration",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q6",
+    "Question_text": "A skydiver jumps from an aeroplane. After a few seconds, he reaches a terminal velocity without opening his parachute. Why does he reach terminal velocity?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Freefall",
+      "Friction",
+      "Acceleration",
+      "Newton's First Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q7",
+    "Question_text": "A satellite is orbiting the Earth in a circular orbit. Which two quantities are always in the same direction as each other?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Acceleration",
+      "Resultant Forces",
+      "Newton's Second Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q8",
+    "Question_text": "A satellite is in a circular orbit around a planet. Which statement is correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Acceleration",
+      "Speed & Velocity",
+      "Gravitational Potential Energy",
+      "Orbiting Bodies"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q9",
+    "Question_text": "The diagram shows a block of wood resting on a sloping board. Which arrow shows the direction of the gravitational force acting on the block?",
+    "image": "A diagram of a block of wood resting on an inclined plane. Four arrows (A, B, C, D) originate from the center of the block, indicating possible directions of forces.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q10",
+    "Question_text": "An astronaut travels to the International Space Station. Which row describes how his mass and his weight compare with their sizes on Earth?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q11",
+    "Question_text": "The graph shows the extension of a piece of copper wire as the load on it is increased. What does the graph show?",
+    "image": "A graph plotting extension of wire (y-axis) against load (x-axis). The graph starts as a straight line from the origin, then curves upwards, indicating an increasing gradient beyond a certain load.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q12",
+    "Question_text": "A uniform beam is pivoted at its centre. The beam is balanced by three weights in the positions shown. What is the length d?",
+    "image": "A diagram of a uniform beam pivoted at its center. A 300 N force is applied 0.40 m to the left of the pivot. On the right side, a 350 N force is applied at a distance 'd' from the pivot, and a 100 N force is applied at a distance of 0.50 m from the pivot.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q13",
+    "Question_text": "The work done by a force on a body is calculated by multiplying the force by a quantity. Which quantity?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q14",
+    "Question_text": "A small motor has an input power rating of 10W and is run for 5.0 minutes. What is the electrical energy input to the motor in this time?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q15",
+    "Question_text": "A small hydroelectric power station diverts water from a river. Every second, 20kg of water flows through a pipe and falls through a vertical drop of 15m. The efficiency of the power station is 0.60 (60%). The gravitational field strength g is 10N/kg. What is the power output?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy from Water",
+      "Efficiency",
+      "Power",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q16",
+    "Question_text": "Two cylindrical vessels are joined together and filled with water as shown. How does the pressure at point X compare to the pressure at points Y and Z?",
+    "image": "A diagram showing two connected cylindrical vessels of different widths, filled with water. The water level is the same in both vessels. Point X is on the surface of the water in the wider vessel. Point Y is at a greater depth in the wider vessel. Point Z is at the same depth as Y but in the narrower vessel.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q17",
+    "Question_text": "The pressure of a gas in a cylinder is measured using a water manometer. The density of water is 1000kg/m³ and the gravitational field strength g is 10N/kg. What is the pressure, above atmospheric pressure, of the gas in the cylinder?",
+    "image": "A diagram of a U-tube manometer connected to a gas cylinder. The water column in the manometer shows a height difference of 20 cm, with the gas-connected side having a lower water level.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q18",
+    "Question_text": "Four beakers contain equal volumes of water at two different temperatures. The beakers are placed in the open air. From which beaker does water evaporate the fastest?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q19",
+    "Question_text": "A fixed mass of gas undergoes a change of volume at constant temperature. Which diagram shows the relationship between the volume and the pressure of the gas?",
+    "image": "Four pressure-volume graphs (labeled A, B, C, D) are presented. Graph A shows a directly proportional relationship. Graph B shows a linearly decreasing relationship. Graph C shows an upward curving non-linear increase. Graph D shows a hyperbolic curve, characteristic of Boyle's Law where pressure is inversely proportional to volume.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q20",
+    "Question_text": "A substance consists of particles that are close together and moving past each other at random. The average speed of the particles is gradually increasing. What best describes the substance?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q21",
+    "Question_text": "The table shows the melting points and the boiling points of some elements. Which element is a liquid over the largest range of temperature?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q22",
+    "Question_text": "Some ice cubes are taken from a freezer and heated in a container. The readings of temperature and time are recorded on the graph. Which temperature is 0°C?",
+    "image": "A temperature-time graph showing the heating of ice. The graph has segments of increasing temperature separated by two plateaus where temperature remains constant during phase changes. Labels A, B, C, D are placed at different points on the temperature axis.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q23",
+    "Question_text": "The mercury-in-glass thermometer shown has a linear scale. At a temperature of 100 °C, h has a value of 28 cm. At 80 °C, h has a value of 24 cm. What is the value of h when the temperature is 0°C?",
+    "image": "A simplified diagram of a thermometer with a mercury column, showing a height 'h' corresponding to the mercury level in the capillary tube.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q24",
+    "Question_text": "The diagram shows a clinical thermometer. How does the diagram show that this is a sensitive thermometer?",
+    "image": "A diagram of a clinical thermometer with a narrow bore and a constriction at point X near the bulb. The scale ranges from 35 °C to 42 °C with clear markings.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement",
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q25",
+    "Question_text": "There is a tight metal lid on a glass jar. The lid is loosened by pouring hot water over it. Which physics property explains this?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q26",
+    "Question_text": "Which waves are longitudinal?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Transverse & Longitudinal Waves",
+      "Sound Waves",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q27",
+    "Question_text": "Light travelling in glass is incident on a glass-air boundary. The angle of incidence of the light is greater than the critical angle. Which arrow shows the direction of the light after it is incident on the boundary?",
+    "image": "A diagram showing light incident from glass onto a glass-air boundary with a normal line. An incident ray is shown, and four labeled arrows (A, B, C, D) indicate possible paths for the light after incidence. Arrow B depicts total internal reflection.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q28",
+    "Question_text": "Light strikes the top surface of a glass block at an angle of 15° as shown. The refractive index of glass is 1.5. What is the angle of refraction r?",
+    "image": "A diagram showing a light ray incident from air onto a glass block. The angle of incidence is 15° to the normal. The refracted ray within the glass makes an angle 'r' with the normal. The diagram is labeled 'glass block' and 'not to scale'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q29",
+    "Question_text": "A wall poster showing the electromagnetic spectrum is displayed in a laboratory. A section of the electromagnetic spectrum has been accidentally ripped from this wall poster. Which piece is missing?",
+    "image": "A partially complete diagram of the electromagnetic spectrum, with 'gamma', 'X-ray', 'ultra-violet' on the left and 'radio' on the right. Arrows indicate 'increasing frequency' towards the left and 'increasing wavelength' towards the right. A central section is missing, to be filled by one of the four options.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q30",
+    "Question_text": "Which type of wave is used to send television signals to a satellite?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q31",
+    "Question_text": "A ship that is stationary on the surface of the sea sends pulses of sound vertically downwards towards the sea bed. Each pulse that reflects from the sea bed is received 1.0s after it is sent out. A whale swims under the boat and a pulse is received 0.60 s after it is sent out. The speed of sound in sea water is 1500 m/s. What is the distance of the whale above the sea bed?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound",
+      "Ultrasound",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q32",
+    "Question_text": "A charged plastic ball is at rest. Which fields are found in the region surrounding the ball? (Ignore the magnetic field of the Earth.)",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electric Fields",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q33",
+    "Question_text": "What proves that a metal bar is a permanent magnet?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q34",
+    "Question_text": "Electrical apparatus is protected from magnetic fields by placing the apparatus in a box. What is the box made from?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q35",
+    "Question_text": "A shoe becomes positively charged by friction when it rubs against a carpet. What happens as the shoe becomes charged?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q36",
+    "Question_text": "During a thunderstorm, a lightning flash occurs when charge flows between a cloud and the Earth. On average, 20 C of charge flows during each flash and there are three flashes every minute. What is the average current between the cloud and the Earth during the thunderstorm?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q37",
+    "Question_text": "Why are batteries sometimes made from several identical cells arranged in parallel?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Electromotive Force & Potential Difference",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q38",
+    "Question_text": "A cylinder of conducting material has resistance R. A second cylinder of the same material is twice as long but has half the cross-sectional area. What is the resistance of the second cylinder?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q39",
+    "Question_text": "A student uses a transformer to light a filament lamp using a 230 V a.c. supply. The lamp has a maximum voltage rating of 6.0 V. What happens when the circuit is switched on?",
+    "image": "A circuit diagram showing a step-down transformer. The primary coil has 300 turns and is connected to a 230 V a.c. supply. The secondary coil has 20 turns and is connected to a filament lamp.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/11/2017/Q40",
+    "Question_text": "Which row is correct for nuclear fission and for nuclear fusion?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission",
+      "Fusion"
+    ],
+    "Parts": []
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q1",
+    "Question_text": "Fig. 1.1 shows a cricket ball as it comes into contact with a cricket bat. The cricket ball has a mass of 0.16kg and it hits the bat with a speed of 25m/s. After being in contact with the bat for 0.0013s, the ball rebounds with a speed of 22m/s in the direction exactly opposite to its original direction.",
+    "image": "Figure 1.1 shows a diagram of a cricket player swinging a bat to hit a cricket ball. The ball is in contact with the bat, positioned near the middle of the bat. The player is depicted in a striking pose, wearing a helmet and leg pads. The background is plain, suggesting a simplified representation of the action.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Momentum",
+      "Impulse",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the difference between speed and velocity.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the change in velocity of the cricket ball,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the average acceleration of the ball whilst it is in contact with the bat,",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "the average force exerted on the ball by the bat.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q2",
+    "Question_text": "A U-shaped tube, of constant cross-sectional area, contains some water of density 1000kg/m³. Oil that does not mix with water is then poured into the right-hand side of the tube. Fig. 2.1 shows the levels of the water and the oil when equilibrium is reached. Points X and Y are at the same horizontal level. X is 0.066m below the top surface of the water. Y is 0.075m below the top surface of the oil.",
+    "image": "Figure 2.1 shows a U-shaped tube, or manometer, with two immiscible liquids. The left arm contains only water, with its top surface labeled as 0.066m above point X. The right arm contains a layer of oil floating on top of water. The top surface of the oil is labeled as 0.075m above point Y. Points X and Y are indicated at the same horizontal level within the water columns in both arms, below the oil-water interface on the right side. The diagram visually represents hydrostatic equilibrium in connected fluids.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two quantities that influence the pressure beneath the surface of a liquid.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The cross-sectional area of the tube is 5.0 × 10–4m². Calculate the mass of water above the level of X.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The pressure caused by 0.066 m of water at X is equal to that caused by 0.075 m of the oil at Y. Determine the density of the oil.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q3",
+    "Question_text": "Fig. 3.1 shows a firefighter of total weight 840N in equilibrium at the top of a ladder that is pivoted at point P. The ladder leans towards a burning building at an angle such that the centre of gravity C of the firefighter is 12m above and 5.0m to the right of P. The firefighter holds a hose that directs a high-speed jet of water horizontally into a burning building.",
+    "image": "Figure 3.1 depicts a firefighter atop an extended ladder, which is supported by a fire truck. The ladder is pivoted at point P on the truck. The firefighter's center of gravity is marked as 'C'. A dashed line indicates a horizontal distance of 5.0m from P to the vertical line through C, and a vertical distance of 12m from P to C. The firefighter is holding a hose pointed towards a multi-story building on the right, which shows flames, implying it is burning.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Newton's First Law",
+      "Radiation",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Calculate the moment M of the firefighter's weight about P.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The jet of water causes a horizontal force R on the firefighter that acts towards the left, through C. This opposes the turning effect of his weight. Calculate the size of R that, on its own, ensures that M is exactly cancelled.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Suggest a third force that has a turning effect about P on the ladder.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The jacket of his protection suit has a shiny, silver-coloured outer surface. Underneath it he wears a loosely-woven mesh T-shirt (string vest). Explain how wearing the shiny jacket and the mesh T-shirt helps to keep the firefighter cool when he is close to a source of intense heat.",
+        "image": "Figure 3.2 shows a close-up illustration of a firefighter. The outer layer of his protective gear is a 'shiny jacket' with a silver, reflective appearance. Beneath the jacket, a 'mesh T-shirt' or 'string vest' is visible, characterized by its loosely woven, open texture. The firefighter is also wearing a helmet and gloves."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q4",
+    "Question_text": "At night, a bright floodlight is used to illuminate a building. The floodlight is a metal filament lamp. It is connected in series with a variable resistor and a 230V mains power supply. When the floodlight is first switched on, the resistance of the variable resistor is at its maximum value. In the following few minutes the variable resistor is adjusted so that its resistance decreases slowly to zero. This causes the brightness of the lamp to increase until it reaches a maximum. At maximum brightness, the current in the lamp is 12 A.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the resistance of the lamp at maximum brightness.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "State and explain what happens to the resistance of the lamp as its brightness increases.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Suggest how, by using the variable resistor in this way, the filament lamp is protected from damage.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q5",
+    "Question_text": "A microphone is connected to a cathode-ray oscilloscope (c.r.o.). A note produced by a musical instrument causes a trace on the screen. The trace is stored electronically in the c.r.o. Fig. 5.1 shows the stored trace displayed on the screen. The timebase setting on the oscilloscope is 0.20ms/division.",
+    "image": "Figure 5.1 displays a cathode-ray oscilloscope (c.r.o.) screen. On the screen, a clear sinusoidal wave trace is shown against a grid background. The wave completes approximately two full cycles over four horizontal divisions. To the right of the screen, there are control knobs for 'timebase' and 'Y-gain'. A microphone is depicted on the left, connected to the oscilloscope.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Determine the frequency of this note.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A note from a second musical instrument is played and the trace S produced by the new note is also displayed on the screen. Fig. 5.2 shows the screen displaying both the original trace and S. In each of the three spaces below, describe either a similarity or a difference between the sounds made by the two notes.",
+        "image": "Figure 5.2 shows a cathode-ray oscilloscope (c.r.o.) screen with two superimposed wave traces. One trace is a smooth sinusoidal wave, identical to the one in Fig. 5.1. The second trace, labeled 'S', has the same period (and thus frequency) as the first but displays a smaller amplitude and a more complex, non-sinusoidal waveform, indicating the presence of harmonics or overtones. Both waves are shown against the oscilloscope's grid, marked with '1 division' horizontally."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q6",
+    "Question_text": "Fig. 6.1 shows a metal bar placed inside a vertical solenoid. The solenoid is a coil of several turns of insulated wire. A d.c. power supply is connected to the solenoid so that there is a current in it when the supply is switched on. The metal bar is a short distance above a small pile of iron paper-clips in a glass dish. The power supply is switched on, left on for several seconds, then switched off.",
+    "image": "Figure 6.1 illustrates a vertical solenoid (a coil of wire) connected to a DC power supply. A cylindrical 'metal bar' is inserted partially into the top of the solenoid. Beneath the solenoid, a small pile of 'iron paper-clips' is collected in a glass dish, placed a short distance from the bottom of the solenoid. The power supply is labeled with '+' and '-' terminals.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Magnets",
+      "Magnetic Fields",
+      "Magnetism"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the behaviour of the paper-clips when this procedure is carried out using a metal bar of aluminium,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe the behaviour of the paper-clips when this procedure is carried out using a metal bar of iron,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe the behaviour of the paper-clips when this procedure is carried out using a metal bar of steel.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q7",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Background Radiation",
+      "Dangers of Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe how one human activity has led to an increase in background radiation.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q8",
+    "Question_text": "",
+    "image": null,
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "Stars"
+    ],
+    "Parts": [
+      {
+        "part_label": "main",
+        "part_text": "Explain, in outline, how a low-density cloud of hydrogen in space becomes a star.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q9",
+    "Question_text": "Fig. 9.1 shows a very large plane mirror, inclined at 45° to the horizontal, beneath a pattern on the high ceiling of a hall. The mirror is set on a stand at head-height immediately below the centre C of the pattern. R and S are two rays of light from C that strike the mirror.",
+    "image": "Figure 9.1 depicts a large plane mirror positioned at a 45-degree angle to the horizontal, situated beneath a ceiling pattern marked 'C'. Two rays of light, labeled 'R' and 'S', are shown originating from 'C' and striking the surface of the mirror. The diagram provides an incomplete ray trace, requiring continuation for reflection and image location.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Ray Diagrams",
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Dangers of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 9.1, continue the rays R and S after they strike the mirror.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 9.1, show how these rays are used to locate the image of C and mark and label the position of this image with the letter I.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "State two characteristics of this image.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "Suggest how the mirror helps visitors to the hall to see the pattern on the ceiling.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Violet light from C has a wavelength of 4.0 × 10⁻⁷ m. Calculate the frequency of this light, clearly stating the value of any constant used in the calculation.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State two different components of the electromagnetic spectrum that have wavelengths smaller than the wavelength of violet light.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)1.",
+        "part_text": "Discuss a medical application of one of these components of the electromagnetic spectrum.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)2.",
+        "part_text": "State a health risk associated with this component of the electromagnetic spectrum.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q10",
+    "Question_text": "A bus breaks down on a road with a 10° upward slope. The passengers get out and push the bus to the top of the slope at a constant speed. Fig. 10.1 shows the passengers exerting a force on the bus parallel to the line of the slope.",
+    "image": "Figure 10.1 depicts a bus stalled on an upward sloping road, indicated by a 10-degree angle. Several passengers are shown pushing the bus from the rear, exerting a force that is parallel to the inclined road surface. The bus is in motion, being pushed uphill.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Resultant Forces",
+      "Work",
+      "Energy Stores & Transfers",
+      "Distance-Time Graphs",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The total mass of the bus is 3200 kg. Calculate the weight of the bus.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 10.1, draw two arrows to show the direction of the weight of the bus and the direction of the force exerted on the bus by the passengers.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The total force exerted by the passengers on the bus is 17000N along the line of the slope. Use a graphical method to determine the size and direction of the resultant of this force and the weight of the bus. State the scale used.",
+        "image": null
+      },
+      {
+        "part_label": "a(iv)",
+        "part_text": "The bus travels at a constant speed. State the size of the resultant of all the forces acting on the bus.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "As the passengers push the bus up the slope, work is done against two forces. State the names of these two forces and, for each force, state the form of energy produced as work is done.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "When the bus reaches the top of the slope, it stops and the passengers get back in. On the axes of Fig. 10.2, sketch the distance-time graph for the bus from a time when the passengers are pushing the bus at constant speed until they get back into the stationary bus.",
+        "image": "Figure 10.2 provides an empty graph grid with labeled axes. The horizontal axis represents time, and the vertical axis represents distance, intended for sketching a distance-time graph."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State how the speed of a moving object may be obtained from an accurately drawn distance-time graph.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2010/Q11",
+    "Question_text": "Fig. 11.1 shows a workman using a cordless electric drill. The motor of the drill is powered by a rechargeable battery with an electromotive force (e.m.f.) of 18V. When the drill is used, the power supplied to the motor is 450W.",
+    "image": "Figure 11.1 shows a workman actively using a cordless electric drill to create a hole in a brick wall. The drill is powered by a visible battery pack. In the background, a workbench holds various electrical components and wires, suggesting a charging station or other related electrical setup.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Electrical Energy",
+      "Electrical Power",
+      "Electrical Charge",
+      "Transformers",
+      "Transformer Calculations",
+      "Electromagnetic Induction",
+      "Electrical Current"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain what is meant by an e.m.f. of 18V.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The workman uses the drill for 90 minutes. Calculate the electrical energy supplied to the motor,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the charge that the battery supplies.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "After 90 minutes of use, the battery is flat. It is connected to a charger and is recharged. The charger includes a transformer that produces a 23V a.c. output from a 230V a.c. mains supply. Draw a labelled diagram to show the structure of the transformer.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "State how the transformer ensures that the a.c. output has a value of 23V when the input is the 230V a.c. mains supply.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The 23V a.c. output of the transformer is used in a rectifying circuit to produce a direct current that recharges the battery. Complete the circuit diagram of the circuit.",
+        "image": "A partial circuit diagram is provided, showing a 23V a.c. output source, represented by a circle with a sine wave symbol, connected to an incomplete bridge rectifier configuration. Two diodes are drawn, indicating the start of the rectification circuit, and the remaining components for a full bridge rectifier and connections to a battery need to be added to complete it."
+      },
+      {
+        "part_label": "d",
+        "part_text": "State and explain one advantage of using an alternating current (a.c.) for long-distance transmission of electrical power.",
+        "image": null
+      }
+    ]
+  }
+]

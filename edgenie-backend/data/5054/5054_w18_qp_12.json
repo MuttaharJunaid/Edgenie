@@ -1,0 +1,472 @@
+[
+  {
+    "QuestionNumber": "October-November/12/2018/Q1",
+    "Question_text": "An apple falls from a tree. Which row describes the forces acting on the apple and the motion of the apple as it falls?",
+    "image": "A table illustrating four options (A, B, C, D) for the forces acting on an apple and its corresponding motion as it falls. The first column is 'forces acting on the apple' with values 'balanced' or 'unbalanced'. The second column is 'motion of the apple' with values 'acceleration' or 'constant speed'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Freefall"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q2",
+    "Question_text": "The table shows how the speeds of four bodies, A, B, C and D, change with time. Which body has an acceleration that is not constant?",
+    "image": "A table with five rows and five columns. The first column is 'time/s' with values 0, 1, 2, 3. The subsequent columns show 'speed of A m/s', 'speed of B m/s', 'speed of C m/s', and 'speed of D m/s'. The speed values are: A (0, 1.0, 3.0, 6.0), B (0, 2.0, 4.0, 6.0), C (0, 3.0, 6.0, 9.0), D (5.5, 6.5, 7.5, 8.5).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q3",
+    "Question_text": "An engine pulls a truck at constant speed on a level track. The link between the engine and the truck breaks. The driving force on the engine remains constant. What effect does this have on the engine and on the truck?",
+    "image": "A line drawing depicts an 'engine' connected via a 'link' to a 'truck', all resting on a 'track'. The engine is on the left, followed by the link, then the truck on the right.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's Second Law",
+      "Friction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q4",
+    "Question_text": "On which car is there a resultant force?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Newton's First Law",
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q5",
+    "Question_text": "Which piece of apparatus may be used to compare the masses of two objects?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Measuring Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q6",
+    "Question_text": "The graph shows how the extension of a spring changes with the masses suspended from it when the spring is on planet X and when the spring is on planet Y. Which conclusion can be drawn from these graphs?",
+    "image": "A line graph titled 'extension / cm' versus 'mass / kg'. The x-axis ranges from 0 to 6 kg, and the y-axis ranges from 0 to 50 cm. Two straight lines originating from (0,0) are plotted. One line, labeled 'planet Y', shows a smaller gradient, reaching approximately 10 cm extension for 6 kg mass. The other line, labeled 'planet X', shows a steeper gradient, reaching approximately 30 cm extension for 6 kg mass.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q7",
+    "Question_text": "Two cylinders P and Q are made of copper. The height of P is twice the height of Q. The diameter of P is half the diameter of Q. Which statement is correct?",
+    "image": "Two cylinders, labeled P and Q. Cylinder P is tall and thin. Cylinder Q is shorter and wider than P. Both cylinders have a dashed horizontal line indicating their base and a central vertical dashed line for height reference.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q8",
+    "Question_text": "A tennis ball is compressed. Work is done and energy is transferred to the molecules of air inside the ball, and also to the rubber from which the ball is made. Which row is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q9",
+    "Question_text": "Paths are laid as shown between points X, Y and Z. A person walks along the paths from X to Y to Z and then back to X. What is the value of the total displacement and of the total distance travelled?",
+    "image": "A triangular diagram illustrating paths between points X, Y, and Z. The path from X to Y is 5.0 m, from Y to Z is 12.0 m, and from X to Z is 13.0 m. Point Y is at the top, X is at the bottom left, and Z is at the bottom right, forming a right-angled triangle with the right angle at Y.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q10",
+    "Question_text": "Which diagram shows the addition of the 4.0 N and the 3.0 N forces?",
+    "image": "Four vector diagrams (A, B, C, D) illustrating the addition of a 4.0 N force and a 3.0 N force. In each diagram, a 4.0 N horizontal vector and a 3.0 N vertical vector are shown, along with a 5.0 N resultant vector. Option C correctly shows the 4.0 N vector followed by the 3.0 N vector in a head-to-tail arrangement, with the resultant 5.0 N vector extending from the start of the first to the end of the second.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q11",
+    "Question_text": "The diagram represents a geothermal power station. Which useful energy transformation is taking place?",
+    "image": "A schematic diagram of a geothermal power station. It shows 'cold water' being pumped underground, returning as 'steam and hot water' to a power plant structure with a chimney. The steam drives a turbine/generator, which then connects to transmission lines represented by electricity pylons.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Geothermal Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q12",
+    "Question_text": "A motor is used to lift a load 0.50 m vertically, as shown. The load weighs 40 N. The power of the motor is 20W and the system is 25% efficient. How long does it take to raise the load?",
+    "image": "A diagram showing a 'motor' positioned above a 'load'. A rope or cable connects the motor to the load, indicating lifting. The load is labeled with its weight, '40 N'. A vertical arrow indicates the lifting distance, '0.50 m'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Power",
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q13",
+    "Question_text": "Different liquids are poured into four different containers. In which container does the liquid produce the greatest pressure at the bottom of the container?",
+    "image": "A table with four rows (A, B, C, D) and three columns ('area of base /cm²', 'density of liquid g/cm³', 'depth of liquid /cm'). The values are: A (10, 1.3, 50), B (20, 0.80, 80), C (40, 1.0, 60), D (50, 0.92, 75).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q14",
+    "Question_text": "A rectangular block of metal has weight 6.0 N and measures 3.0 cm × 4.0 cm × 5.0 cm. What is the smallest pressure that it can exert when resting on a horizontal surface?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q15",
+    "Question_text": "Air is trapped in a cylinder by a piston. The pressure of the air is p and the length of the air column is 20 cm. The piston is moved outwards until the length of the air column has increased by 40 cm. The temperature of the air remains constant. What is the new air pressure?",
+    "image": "A diagram depicting a cylinder with a movable piston, trapping air. The initial 'trapped air' column has a length of '20 cm'. An arrow indicates the piston moving outwards, and the additional length of expansion is indicated as '40 cm', showing the new total length of the air column would be 60 cm.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q16",
+    "Question_text": "A long tube, full of mercury, is inverted in a small dish of mercury. The mercury level in the tube falls, leaving a vacuum at the top. When the atmospheric pressure decreases, which length decreases?",
+    "image": "A diagram of a mercury barometer. A long inverted tube, initially full of mercury, has its open end submerged in a small dish of mercury. The mercury in the tube has fallen to a level Q, creating a vacuum at the top, point P. Point R indicates the surface of the mercury in the dish, and point S is at the bottom of the dish below the mercury surface.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q17",
+    "Question_text": "A cold bottle containing a drink is placed on a table on a warm day. Drops of water form on the outside of the bottle. Which process causes the drops to form?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q18",
+    "Question_text": "Some gas is trapped in a closed container. The gas is cooled and the volume of the container is kept constant. What happens to the gas molecules?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q19",
+    "Question_text": "A 100 g piece of solid lead at room temperature is heated. After 22 s, it has all become liquid. The graph shows how its temperature varies with time. The power of the heater is 320 W. Which expression gives the specific latent heat, in J/kg, of the lead?",
+    "image": "A temperature-time graph. The x-axis is 'time/s' from 0 to 25. The y-axis is 'temperature /°C' from 0 to 400. The graph shows a diagonal line increasing from (0, approximately 20) to (15, approximately 327), then a horizontal plateau from 15 s to 22 s at approximately 327 °C, and then increases again diagonally from 22 s onwards.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q20",
+    "Question_text": "What increases when a liquid becomes a gas at its boiling point?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q21",
+    "Question_text": "Two liquid-in-glass thermometers are almost identical. They contain the same quantity of the same liquid and the diameters of their capillary tubes are the same. The only difference is that one thermometer is longer than the other. Which row shows how the ranges and the sensitivities of the thermometers compare?",
+    "image": "A table with four rows (A, B, C, D) and two columns ('ranges', 'sensitivities'). The values are: A (different, different), B (different, same), C (same, different), D (same, same).",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q22",
+    "Question_text": "Which statement about a water wave is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q23",
+    "Question_text": "The diagram shows a thin converging lens of focal length f. Where must an object be placed to produce a real image in the position shown?",
+    "image": "A ray diagram for a converging lens. A principal axis is drawn horizontally through the center of the lens. Focal points (f) are marked on both sides. On the left side of the lens, four points are marked: D (between f and lens), A (between f and 2f), B (at 2f), C (beyond 2f). On the right side, an inverted image is drawn between f and 2f.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q24",
+    "Question_text": "White light is dispersed by a prism. Compared with blue light, the red light is",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light",
+      "Refraction of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q25",
+    "Question_text": "A student reads the following in her physics book. 'The incident angle is greater than 42° which is the critical angle for glass in air.' What is the student reading about?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q26",
+    "Question_text": "Which statement about radio waves is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q27",
+    "Question_text": "Ultrasound is used to map the ocean floor. During one survey, the depth of water is 1200m. An ultrasound pulse is sent from the surface and when it returns to the ship, another pulse is sent immediately. In any period of 8.0s, five pulses are sent down from the surface. What is the speed of the ultrasound in water?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound",
+      "Measuring the Speed of Sound",
+      "Reflection of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q28",
+    "Question_text": "Which diagram shows the magnetic field pattern in the region between the N-poles of the two bar magnets?",
+    "image": "Four diagrams (A, B, C, D) illustrating magnetic field patterns between two bar magnets with their N-poles facing each other. In each diagram, two rectangular bar magnets are shown, each with an 'N' label at the end facing the other magnet. Diagram C shows magnetic field lines originating from the N-poles and curving away from each other, indicating repulsion.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Magnets",
+      "Plotting Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q29",
+    "Question_text": "Students are asked to describe an experiment to measure the resistance of a metallic conductor. Which description is correct?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q30",
+    "Question_text": "The diagram shows three 6.0 Ω resistors connected to give various total resistances. What is the difference between the smallest total resistance and the largest total resistance?",
+    "image": "Three circuit diagrams, each containing three 6.0 Ω resistors. The top diagram shows three resistors connected in series. The middle diagram shows two resistors in parallel, with this combination in series with the third resistor. The bottom diagram shows all three resistors connected in parallel.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q31",
+    "Question_text": "A wire of length 0.50 m and cross-sectional area 1.0 × 10⁻⁶ m² has a resistance of 0.75 Ω. Another wire of the same material has a length of 2.0 m and a cross-sectional area of 0.50 × 10⁻⁶ m². What is the resistance of the longer wire?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q32",
+    "Question_text": "A defibrillator is a device that is used to give an electric shock to a patient's heart. It supplies an electric shock with energy 240 J at an average voltage of 2000 V for 10 ms. What is the average current it supplies?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q33",
+    "Question_text": "In a lighting circuit, the switch is placed in the live wire. Why is this?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q34",
+    "Question_text": "Which cable transmits electrical energy at the highest voltage?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Transformers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q35",
+    "Question_text": "A thermistor and a light-dependent resistor are connected in series. Which conditions give the least resistance?",
+    "image": "Four diagrams (A, B, C, D) each showing a thermistor and a light-dependent resistor (LDR) connected in series. Each diagram labels the environmental conditions as 'cold' or 'hot' for the thermistor, and 'dark' or 'light' for the LDR.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q36",
+    "Question_text": "An oscilloscope is connected to a d.c. power supply. The time-base on the oscilloscope is switched off. What is seen on the screen of the oscilloscope?",
+    "image": "Four diagrams (A, B, C, D) representing oscilloscope screens. A shows a single dot at the center. B shows a single dot to the right of the center. C shows a vertical line at the center. D shows a horizontal line at the center.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q37",
+    "Question_text": "What does the alpha-radiation given off by radioactive nuclei consist of?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q38",
+    "Question_text": "Which statement about the reactor in a nuclear power station is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Fission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q39",
+    "Question_text": "The results of the alpha-particle scattering experiment gave evidence for which of the following?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2018/Q40",
+    "Question_text": "Which statement about two different isotopes of the same element is correct?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

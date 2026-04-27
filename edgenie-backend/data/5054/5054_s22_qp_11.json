@@ -1,0 +1,475 @@
+[
+  {
+    "QuestionNumber": "May-June/11/2022/Q1",
+    "Question_text": "A length of copper wire is labelled: length 0.50 m and diameter 0.50 mm. Which instruments are most suitable to measure accurately the length and the diameter of the wire?",
+    "image": "A table showing instruments for measuring length and diameter. Options A, B, C, D are rows in the table. Row A suggests metre rule for both; Row B suggests metre rule for length and micrometer for diameter; Row C suggests calipers for length and metre rule for diameter; Row D suggests calipers for both length and diameter.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q2",
+    "Question_text": "A driver drives a car at uniform velocity along a road. The driver sees a hazard and applies the brakes. What is the car's motion as it moves through the thinking distance and as it moves through the braking distance?",
+    "image": "A table showing two columns: 'motion through the thinking distance' and 'motion through the braking distance', with four rows for options A, B, C, D detailing different motion types (deceleration or uniform velocity) for each phase.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Stopping Distances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q3",
+    "Question_text": "The diagram represents the Moon in its orbit around the Earth. Which arrow represents the direction of the resultant force acting on the Moon at the instant shown?",
+    "image": "A diagram showing Earth at the center and the Moon orbiting around it. The Moon's direction of motion is indicated by an arrow. Four other arrows (A, B, C, D) originate from the Moon. Arrow A points towards the Earth, arrow B points slightly ahead of Earth, arrow C points outwards and slightly backward, and arrow D points purely in the direction of the Moon's motion.",
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.1 Earth &The Solar System",
+    "Sub_topic": [
+      "Gravitational Effects on Orbits",
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q4",
+    "Question_text": "The mass m of an object is related to its weight W and the gravitational field strength g. Which equation shows the relationship?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q5",
+    "Question_text": "A plastic cube, of density p, is compressed so that each of its sides becomes one-half of its original length. What is the new density of the material of the cube?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q6",
+    "Question_text": "Four glass objects have square bases of equal area. Which object is the least stable?",
+    "image": "Four diagrams (A, B, C, D) of glass objects of various shapes. Object A is a tall, slender rectangular block. Object B is an inverted truncated cone, wider at the top than the base. Object C is a right-side-up truncated cone, wider at the base than the top. Object D is an oval-shaped cylinder, with curved sides.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q7",
+    "Question_text": "The initial pressure of a volume V₁ of a fixed mass of gas is p₁. The gas expands at a constant temperature until it has volume V₂ and pressure p₂. Which statement about the pressure and volume of the gas is not correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q8",
+    "Question_text": "A stone falls at terminal velocity in air. What is equal to the change in gravitational potential energy of the stone?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Gravitational Potential Energy",
+      "Conservation of Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q9",
+    "Question_text": "Water in a river is used to turn a turbine as the water flows downstream. How is this type of power source described?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from Water"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q10",
+    "Question_text": "A load is pulled by a rope attached to a motor. The resultant force exerted by the rope on the load is shown in the diagrams. In each diagram, the load moves in the direction of the force shown and takes 10s to travel 1.0m. In which diagram does the motor work with the greatest power?",
+    "image": "Four diagrams (A, B, C, D) illustrating a block being pulled by a rope with a specified force. Diagram A shows a 12 N horizontal force. Diagram B shows an 8 N vertical force. Diagram C shows a 10 N force at an incline. Diagram D shows a 4 N force at an incline.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q11",
+    "Question_text": "The total energy incident in 1.0s on a group of solar panels is 120 J/m². The group of solar panels converts 720 J of light energy to 120 J of useful electrical energy in 1.0 s. What is the total surface area of the panels and what is the efficiency of the system?",
+    "image": "A table summarizing the options for total surface area of solar panels (in m²) and their efficiency (in %). Options A, B, C, D provide different pairs of these values.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Energy from the Sun"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q12",
+    "Question_text": "A 1000 W, 240 V electrical device is switched on. How much energy does it use in 5.0 minutes?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q13",
+    "Question_text": "A building has walls made from wood and steel. What describes the way in which thermal energy is transferred through the walls?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q14",
+    "Question_text": "A liquid column in a liquid-in-glass thermometer is 2.0 cm long at 0°C. The column expands by 10.0 cm when heated to 100°C. Measuring from P, how long is the liquid column at 30 °C?",
+    "image": "A diagram of a liquid-in-glass thermometer. It shows a baseline P. The liquid column is indicated as 2.0 cm long at 0°C. An arrow indicates an expansion of 10.0 cm when heated to 100°C from the 0°C mark.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q15",
+    "Question_text": "In many applications, a thermocouple is used to measure temperature instead of a liquid-in-glass thermometer. Which property of a thermocouple is a major advantage?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q16",
+    "Question_text": "A liquid-in-glass thermometer consists of a bulb containing a liquid which expands into a thin capillary tube. The liquid in the thermometer is replaced by the same volume of a different liquid that expands more for the same temperature rise. The length of the capillary tube remains the same. How does the new thermometer compare with the old thermometer?",
+    "image": "A simple diagram of a liquid-in-glass thermometer, showing a bulb and a capillary tube.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q17",
+    "Question_text": "What is the usual symbol and what is the unit for the heat capacity of an object?",
+    "image": "A table with two columns, 'symbol' and 'unit', listing the options A, B, C, D.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q18",
+    "Question_text": "Which row describes the arrangement of particles and the forces between particles in a solid?",
+    "image": "A table with two columns, 'arrangement of particles' and 'forces between particles', listing the options A, B, C, D.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q19",
+    "Question_text": "A wave in the sea collides with a cliff. A crest of the wave hits the cliff once every 6.0 s. The horizontal distance between a crest and the adjacent trough of the wave is 4.5 m. What is the speed of the wave?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q20",
+    "Question_text": "A sound wave refracts as it passes from air to water. Which quantities change?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Wave Behaviour",
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q21",
+    "Question_text": "An object is viewed through a thin converging lens. The diagram shows the paths of two rays from the top of the object to an eye. How does the image compare with the object?",
+    "image": "A ray diagram illustrating an object placed within the focal length of a thin converging lens. Two rays from the top of the object are traced through the lens, showing that they diverge after passing through the lens but appear to originate from a virtual point. An eye is positioned to view these virtual rays. The resulting image is shown to be larger and upright.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q22",
+    "Question_text": "A ray of white light enters a prism as shown. Which row is correct?",
+    "image": "A diagram showing a prism. A ray of white light enters the prism from the left, undergoes refraction and dispersion, splitting into red light and blue light which emerge separately from the right side of the prism.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Dispersion of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q23",
+    "Question_text": "Which waves are not part of the electromagnetic spectrum?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves",
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q24",
+    "Question_text": "A man stands between two tall buildings, P and Q. He is 50 m from P and 200 m from Q. He sounds a horn. He hears the first echo from building P and 1.0 s later he hears the first echo from building Q. What is the speed of sound calculated using this information?",
+    "image": "A diagram showing a man standing between two tall buildings labeled P and Q. The man is 50 m from building P and 200 m from building Q. The diagram indicates these distances and a 'horn' near the man.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q25",
+    "Question_text": "Sound travels at different speeds in each of the three states of matter, solid, liquid and gas. Which row shows where sound travels fastest and where sound travels slowest?",
+    "image": "A table with two columns, 'state where sound travels fastest' and 'state where sound travels slowest', listing the options A, B, C, D with different states of matter (gas, liquid, solid).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q26",
+    "Question_text": "What is one of the uses of ultrasound?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q27",
+    "Question_text": "Which material is used for the core of an electromagnet?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q28",
+    "Question_text": "Two metal spheres are mounted on insulating stands. Sphere X is initially uncharged and sphere Y is initially positively charged. A metal rod, held by an insulating handle, is placed in contact with X and Y as shown. What are the charges on X and on Y after the rod is placed in contact with them?",
+    "image": "A diagram showing two conducting spheres, X and Y, mounted on insulating stands. Sphere X is initially uncharged, and sphere Y is initially positively charged. A metal rod, held by an insulating handle, connects the two spheres.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q29",
+    "Question_text": "Which device involves the use of static electrical charges?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q30",
+    "Question_text": "An initially uncharged copper rod is placed in a uniform electric field E. The rod is parallel to the field. Which diagram shows the charges induced on the rod?",
+    "image": "Four diagrams (A, B, C, D) each depicting a copper rod placed parallel to a uniform electric field, indicated by an arrow labeled 'direction of electric field E'. Each diagram shows a different distribution of charges (positive and negative) on the rod.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q31",
+    "Question_text": "The diagram shows a simple electric circuit. Which row describes the charge on an electron and the direction of electron flow through the resistor?",
+    "image": "A simple electric circuit diagram showing a battery (long line for positive terminal, short line for negative terminal) connected to a resistor. The top end of the battery is positive. The resistor is labeled with X on the left and Y on the right, and is connected such that X is towards the positive terminal and Y towards the negative terminal.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q32",
+    "Question_text": "When the flash on a camera is used, a charge of 1.5 C flows for 0.0030 s through the flash lamp. The average voltage across the flash lamp is 3600 V. What is the electrical energy supplied to the flash lamp and what is the average power supplied?",
+    "image": "A table with two columns, 'energy/J' and 'power/W', listing the options A, B, C, D with different numerical values.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q33",
+    "Question_text": "What is the unit of potential difference (p.d.) and which measuring instrument is used to measure p.d.?",
+    "image": "A table with two columns, 'unit' and 'instrument', listing the options A, B, C, D with different units and instruments.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q34",
+    "Question_text": "The diagrams show four circuits. Each circuit contains three 100 Ω resistors. Which circuit has the smallest total resistance?",
+    "image": "Four circuit diagrams (A, B, C, D) each containing three 100 Ω resistors arranged in different series and parallel combinations.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q35",
+    "Question_text": "A metal kettle is plugged into a mains socket. The plug contains a suitable fuse. The kettle's cable is damaged and the fuse blows. Why does the fuse blow?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q36",
+    "Question_text": "As a magnet is moved into the coil of wire as shown, there is a small positive reading on the sensitive ammeter. Which change must increase the size of the reading?",
+    "image": "A diagram showing a solenoid coil connected to a sensitive ammeter. A bar magnet with its North pole (N) facing the coil is partially inserted into the coil from the left. An arrow indicates the magnet is being moved into the coil.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q37",
+    "Question_text": "The diagram shows the circuit for a model power line with two transformers and a lamp at the output. What is the input voltage?",
+    "image": "A circuit diagram illustrating a power line model. It shows an input AC voltage connected to the primary of a step-up transformer (10 turns primary, 100 turns secondary). The secondary of this transformer is connected to the primary of a step-down transformer (200 turns primary, 40 turns secondary). The secondary of the second transformer is connected to a lamp, specified as 24 V.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Transformers",
+      "Transformer Calculations"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q38",
+    "Question_text": "Electrical power is transmitted by cables over long distances at very high voltages. What are the effects of using a high voltage transmission system?",
+    "image": "A table with two columns, 'power loss in the cables' and 'current in the cables', listing options A, B, C, D with different descriptions (high/low).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q39",
+    "Question_text": "The diagram shows a beam of electrons about to enter a magnetic field. The magnetic field is directed into the page. What is the direction of the deflection of the electrons as they enter the magnetic field?",
+    "image": "A diagram illustrating a beam of electrons moving horizontally from left to right. They are about to enter a region where a magnetic field is present. The magnetic field is indicated by 'X' symbols, signifying that it is directed into the page.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/11/2022/Q40",
+    "Question_text": "In the Geiger-Marsden experiment, alpha-particles are fired at a thin gold sheet. Most alpha-particles pass straight through the thin gold sheet. A few are deflected. What can be deduced from this experiment?",
+    "image": "A diagram depicting the Geiger-Marsden experiment. It shows a source emitting alpha-particles towards a thin gold sheet. A detector is positioned around the gold sheet to observe the paths of the alpha-particles. Straight lines through the gold sheet indicate most particles pass through, while some curved lines indicate deflection.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  }
+]

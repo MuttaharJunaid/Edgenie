@@ -1,0 +1,475 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q1",
+    "Question_text": "Water is transported to a village in a tank pulled by a tractor. Fig. 1.1 shows the tank being pulled by a tractor. The combined mass of the tractor and the tank is 4100kg when the tank is empty and 6500kg when the tank is full of water.",
+    "image": "Fig. 1.1 depicts a tractor, positioned on the left, pulling a two-wheeled cylindrical tank on the right. The tank is labeled 'water'. Both vehicles are on a flat surface, illustrating the transportation setup. The image represents the tank being pulled by a tractor.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density",
+      "Mass & Weight",
+      "Acceleration",
+      "Speed & Velocity",
+      "Energy Stores & Transfers",
+      "Kinetic Energy",
+      "Gravitational Potential Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The density of water is 1000kg/m³. Calculate the volume of water in the tank when it is full.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "At the start of the journey, the tractor and tank accelerate from rest along a straight, horizontal road. As their speed increases, one form of energy is decreasing. State the name of the form of energy that is decreasing.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain what happens to this energy.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The village is located on a mountain at a vertical height of 850m above the water supply. The gravitational field strength g is 10N/kg. Calculate the gravitational potential energy gained by the water as it is transported from the supply to the village.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q2",
+    "Question_text": "The surface of a running track is made of rubber. A heavy trolley is pulled on to the track and it exerts a large force on the rubber track.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Forces",
+      "Newton's Third Law",
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two effects that this force has on the rubber.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A spring is suspended from a support with a small pan attached to its lower end. Masses are added to the pan until the spring is extended well beyond the limit of proportionality. Fig. 2.1 shows this apparatus. A ruler is used when determining the extension of the spring.",
+        "image": "Fig. 2.1 illustrates an apparatus for measuring spring extension. A spring is suspended from a horizontal support. A vertical ruler, scaled from 0 to 30, is positioned alongside the spring. A pan, containing several block-like masses, is attached to the lower end of the spring. The components are labeled: 'spring', 'ruler', and 'masses'."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "On Fig. 2.2, sketch the extension-load graph for the spring and label the limit of proportionality P.",
+        "image": "Fig. 2.2 provides an empty graph with 'extension' on the y-axis and 'load' on the x-axis, both originating from zero, intended for sketching a force-extension curve."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The masses are then removed and the extension of the spring decreases. Suggest what is observed when all the masses are removed.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q3",
+    "Question_text": "A very deep tank is used when training sailors to escape from submarines. The tank is cylindrical and open to the air at the top. Fig. 3.1 shows the tank.",
+    "image": "Fig. 3.1 shows a tall cylindrical tank, open at the top, containing water. The depth of the water is indicated as 32 m. A small human figure is depicted submerged in the water near the bottom. The water surface is labeled 'water' and the base of the tank 'base'. The image is labeled '(not to scale)'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure",
+      "Density",
+      "Scalars & Vectors"
+    ],
+    "Parts": [
+      {
+        "part_label": "intro",
+        "part_text": "The area of the base of the tank is 45 m² and the tank is filled with water to a depth of 32 m.",
+        "image": null
+      },
+      {
+        "part_label": "a",
+        "part_text": "The density of water is 1000kg/m³ and the gravitational field strength g is 10N/kg. Calculate the pressure, due to the water, on the base of the tank.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The pressure in the water at the base of the tank is 4.2 × 10⁵ Pa. Explain why the pressure in the water at the base of the tank differs from the value calculated in (a).",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the force exerted on the base of the tank.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Force is a vector quantity and pressure is a scalar quantity. State how a vector quantity differs from a scalar quantity.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q4",
+    "Question_text": "A copper saucepan with a wooden handle contains cold water. The saucepan is placed on a red-hot heating element that is a part of an electric cooker.",
+    "image": "Fig. 4.1 shows a saucepan on a heating element. The saucepan is labeled 'saucepan' and contains 'water'. It features a 'wooden handle' extending to the right. The saucepan rests on a 'heating element' at its base.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Consequences of Thermal Energy Transfer"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why wood is a suitable material for the handle of the saucepan.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe and explain, in terms of free electrons, how thermal energy is transferred through the copper base of the saucepan.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Describe and explain how thermal energy is transferred upwards through the water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q5",
+    "Question_text": "All thermometers use the value of a physical property to measure temperature.",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what makes a physical property suitable for the measurement of temperature.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State two properties that are used for the measurement of temperature.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "When a thermometer is calibrated, two fixed points are used. One fixed point is the ice point. State what is meant by the ice point.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how the fixed points are used when calibrating a thermometer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q6",
+    "Question_text": "A gas is trapped at atmospheric pressure in a cylinder by a piston. The piston is held in a fixed position by a movable rod. Fig. 6.1 shows the cylinder.",
+    "image": "Fig. 6.1 shows a vertical cross-section of a cylinder containing a 'trapped gas' above a 'piston'. The piston is connected to a 'rod' that extends downwards, indicating it's held in a fixed position within the 'cylinder'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model",
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "intro",
+        "part_text": "The cylinder is heated. As the temperature of the gas increases, its pressure increases.",
+        "image": null
+      },
+      {
+        "part_label": "a",
+        "part_text": "Explain, in terms of molecules, why the pressure of the trapped gas increases.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The rod is pulled down and the piston is then free to move as shown in Fig. 6.2. As the piston moves, the temperature of the gas remains constant. State and explain, in terms of molecules, what happens to the pressure of the gas.",
+        "image": "Fig. 6.2 presents a vertical cross-section of a cylinder, similar to Fig. 6.1, but with the piston moved further down. This increases the volume occupied by the 'trapped gas'. The 'piston' is connected to a 'rod' and is now free to move within the 'cylinder'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q7",
+    "Question_text": "Light enters a parallel-sided glass block at A. The angle between the side of the block and the ray of light in air is 35°. The light then strikes the edge of the block at B. Fig. 7.1 shows the ray of light and the glass block. The angle of refraction in the glass at A is 33°.",
+    "image": "Fig. 7.1 shows a rectangular 'glass block'. A light ray approaches the block from the top-left in air. At point A on the top surface, the ray in air makes an angle of 35° with the normal. After refraction at A, the ray enters the glass and makes an angle of 33° with the normal. This refracted ray travels towards point B on the right vertical edge of the block.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection",
+      "Ray Diagrams"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the refractive index for light in the glass.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The light undergoes total internal reflection at B. State one condition necessary for total internal reflection to occur.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "On Fig. 7.1, continue the ray to show the path of the light after total internal reflection at B and until it leaves the block.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q8",
+    "Question_text": "A spotlight in a television studio is at full brightness. The lamp inside the spotlight is powered by a 230 V supply and the current in the filament of the lamp is 27 A.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Calculate the power of the lamp.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The spotlight is kept switched on at full brightness. Calculate the energy transformed by the lamp in 30 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The cost of using one kilowatt-hour (kWh) of electricity is 23 cents. Calculate the cost of using the spotlight for 30 minutes.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q9",
+    "Question_text": "Aeroplanes fly at high altitudes where the temperature is well below 0°C. Ice that forms on an aeroplane can fall to earth and strike the ground. Fig. 9.1 shows a block of ice falling from an aeroplane as it approaches an airport.",
+    "image": "Fig. 9.1 depicts an aeroplane in flight. A small, rectangular 'block of ice' is shown falling from the underside of the aeroplane. The image is labeled '(not to scale)'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Speed & Velocity",
+      "Acceleration",
+      "Speed-Time Graphs",
+      "Freefall",
+      "terminal velocity",
+      "Friction",
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Energy Stores & Transfers",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": [
+      {
+        "part_label": "intro_numerical",
+        "part_text": "The mass of the falling block of ice is 1.2kg and the gravitational field strength g is 10N/kg.",
+        "image": null
+      },
+      {
+        "part_label": "a",
+        "part_text": "Calculate the weight of the block of ice.",
+        "image": null
+      },
+      {
+        "part_label": "b_intro",
+        "part_text": "Fig. 9.2 is the speed-time graph for the block of ice as it falls to the ground. At first, the acceleration of the block of ice is equal to the acceleration of free-fall. The acceleration of the block then decreases to zero as the block reaches terminal velocity.",
+        "image": "Fig. 9.2 is a speed-time graph. The x-axis represents 'time/s' from 0 to 12.0. The y-axis represents 'speed m/s' from 0 to 50. The graph starts at the origin, increases with a decreasing gradient, and then flattens out to a constant speed of 40 m/s from approximately 8.0 s onwards, indicating terminal velocity."
+      },
+      {
+        "part_label": "b(i)1",
+        "part_text": "As the block of ice falls, the force F of air resistance acting on the block changes. State the value of F at time = 0.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)2",
+        "part_text": "State the value of F at time = 10.0s.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)3",
+        "part_text": "Explain why F changes.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the energy change that takes place when the block is falling at terminal velocity.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Using information from Fig. 9.2, determine the maximum kinetic energy of the block when it is falling to the ground with terminal velocity.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The block strikes the ground and it stops moving. This impact causes some of the ice to melt. The specific latent heat of fusion of ice is 330J/g. Calculate the maximum possible mass of ice that melts as a result of the impact.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "In practice, the mass of ice that melts on impact is less than the value calculated in (c)(i). Suggest two reasons for this.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "As the solid ice melts, it changes into liquid water. Describe, in terms of molecules, how ice differs from liquid water.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q10",
+    "Question_text": "Thin wire, covered in plastic insulation, is used to make a solenoid (long coil). The solenoid is connected to a sensitive ammeter. Fig. 10.1 shows the N-pole of a steel magnet placed next to the solenoid. Point X and point Y are on the axis of the solenoid.",
+    "image": "Fig. 10.1 displays a solenoid (coil of wire) connected to an ammeter labeled 'A'. A 'steel magnet' with its 'N' pole is positioned near the right end of the solenoid. Points 'X' and 'Y' are marked along the central axis of the solenoid, with Y being closer to the magnet and X further inside the coil.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets",
+      "Investigating Conductors & Insulators",
+      "Electrical Charge",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Explain why plastic is an electrical insulator.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)1",
+        "part_text": "Explain why the magnet is not made from aluminium,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)2",
+        "part_text": "iron.",
+        "image": null
+      },
+      {
+        "part_label": "b_intro",
+        "part_text": "In one experiment, the magnet in Fig. 10.1 is moved to the left and passes into the solenoid. The N-pole of the magnet travels from Y to X at a constant speed. As it moves, the ammeter shows a small current.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why there is a current in the solenoid when the magnet is moving.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)1",
+        "part_text": "The N-pole travels from Y to X in 0.14s. As it moves, the current shown on the ammeter is 0.045 mA. The resistance of the solenoid is 1.2 Ω. Calculate the potential difference (p.d.) across the solenoid,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)2",
+        "part_text": "the charge that passes through the solenoid as the N-pole moves from Y to X.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "In a second experiment, the speed of the N-pole is greater than its speed in the first experiment. It now takes only 0.070s to travel from Y to X. A current in the same direction is shown on the ammeter. State and explain how the size of this current compares with the size of the current in the first experiment.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The same quantity of charge passes through the coil in both the first and second experiments. Explain why this is the case.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State two ways in which the equipment shown in Fig. 10.1 can be used to produce a current in the solenoid that is in the opposite direction.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/22/2015/Q11",
+    "Question_text": "The proton number (atomic number) of the element lead is 82. The isotope lead-209 (²⁰⁹Pb) is radioactive and decays by the emission of beta-particles.",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus",
+      "Radioactive Decay",
+      "The Three Types of Emission",
+      "Background Radiation",
+      "Half-Life",
+      "Detection of Radioactivity",
+      "Magnetic Fields"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the composition and structure of a neutral atom of lead-209.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A nucleus of lead-209 emits a beta-particle. State how the composition of the nucleus produced differs from the original nucleus.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Complete the table in Fig. 11.1 to show the relative ionising effects of the three types of ionising radiation produced by radioactive decay.",
+        "image": "Fig. 11.1 shows an incomplete table for classifying ionising radiation. It has 'least strongly ionising' on the left and 'most strongly ionising' on the right, with an arrow indicating increasing ionising effect. There are three blank columns in between these two labels, meant for entering types of radiation."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "A sample containing lead-209 nuclei is used to produce a beam of beta-particles. The beta-particles enter a magnetic field. The magnetic field is perpendicular to the direction of travel of the beta-particles. The beta-particles travel from left to right. Fig. 11.2 shows that the direction of the magnetic field is out of the page. On Fig. 11.2, sketch the path of the beta-particles in the magnetic field.",
+        "image": "Fig. 11.2 shows a rectangular area representing a magnetic field, explicitly stated as 'magnetic field out of the page'. A horizontal arrow labeled 'beam of beta-particles' enters this region from the left, moving right. An empty space inside the magnetic field region is provided for sketching the path of the beta-particles."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "An industrial technician uses a detector to measure the background count rate in a laboratory. State what is meant by background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Suggest two major sources of background radiation.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The average reading for the background count measured by the technician is 16 counts/minute. He then brings a sample that contains a radioactive isotope of lead close to the detector and he finds that the new count rate is 92 counts/minute. The half-life of this isotope is 3.3 hours. Determine the count rate measured using the detector after 6.6 hours.",
+        "image": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "QuestionNumber": "October-November/11/2020/Q1",
+    "Question_text": "A heavy nail is fixed firmly to a wall. It is pulled by a string at 40° to the vertical. The nail does not move. Three forces act on the nail: its weight W, the tension T in the string, the force R exerted by the wall. Which diagram, drawn to scale, represents the three forces?",
+    "image": "A free-body diagram for a nail under three forces. The initial diagram shows a nail pulled by a string at 40 degrees to the vertical. Below this, four options (A, B, C, D) are presented, each showing three forces (T for tension, W for weight, R for reaction force) as vectors arranged in a triangle, representing the forces acting on the nail.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q2",
+    "Question_text": "A car begins to move. It speeds up until it reaches a constant speed. It continues to travel at this constant speed for the rest of the journey. What happens to the acceleration and what happens to the velocity of the car during the journey?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q3",
+    "Question_text": "A car of mass 800 kg has a forward acceleration of 2.5m/s². A frictional force of 1200 N opposes the motion of the car. What is the driving force due to the engine of the car?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Friction",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q4",
+    "Question_text": "A parachutist falling at a steady speed opens her parachute. Which row is correct for the direction of the resultant force and for the direction of the acceleration of the parachutist just after her parachute opens?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "terminal velocity",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q5",
+    "Question_text": "Some gas trapped in a cylinder is compressed at constant temperature by a piston. Which property of the gas does not change?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "States of Matter",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q6",
+    "Question_text": "A block is hung on a spring balance. The marker inside the balance is pulled down by the block. What can the position of the marker be used to determine?",
+    "image": "A diagram of a spring balance with a block hanging from it. The scale is marked from 0 to 10.0 in units that appear to be for force or weight. A marker indicates a reading between 4.0 and 5.0.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Measuring Mass & Weight",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q7",
+    "Question_text": "An electrically charged plastic ball is at rest. Which types of field are caused by the ball?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields",
+      "Electrical Charge",
+      "Static Electricity",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q8",
+    "Question_text": "Which statement about mass and weight is correct?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Mass & Weight",
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q9",
+    "Question_text": "Which expression is used to calculate density?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q10",
+    "Question_text": "A length of thread is attached to a lamina at point P, as shown in the diagram. The lamina is free to rotate about point Q. The tension in the thread is F. What is the moment of F about Q?",
+    "image": "A diagram showing an irregularly shaped lamina pivoted at point Q. A thread applies a force F at point P, pulling horizontally to the right. Several distances (w, x, y, z) are marked relative to Q and P and the line of action of F. Distance x is perpendicular from Q to the line of action of F.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q11",
+    "Question_text": "Which list contains only quantities that can be changed by a force?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Investigating Force & Extension",
+      "Speed & Velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q12",
+    "Question_text": "An extension-load graph is plotted for a spring. Which point marks the limit of proportionality for this spring?",
+    "image": "A graph plotting extension against load for a spring. The graph is linear up to point A, then curves, passing through points B, C, and D. Point A marks the end of the linear region, beyond which the curve begins.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q13",
+    "Question_text": "A mercury manometer is used to measure the pressure of a gas. The pressure of the atmosphere is p₀ and the density of mercury is ρ. What is the pressure of the gas?",
+    "image": "A U-tube manometer measuring gas pressure. One arm is connected to a gas supply, the other is open to the atmosphere. The mercury level in the arm connected to the gas is lower than the level in the arm open to the atmosphere by a height 'h'. The atmospheric pressure is indicated as 'po'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q14",
+    "Question_text": "There is a current in a resistor. Which energy transfer takes place?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q15",
+    "Question_text": "A ball is dropped from a height as shown. Ignoring the effects of air resistance, which statement about the total energy of the ball is correct?",
+    "image": "A diagram showing a ball falling downwards, depicted at three different points during its descent: point 1 (highest), point 2 (middle), and point 3 (lowest).",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Conservation of Energy",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q16",
+    "Question_text": "Which source of electrical energy is not renewable?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from the Sun",
+      "Energy from Water",
+      "Energy from Wind"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q17",
+    "Question_text": "The table shows some data from a high-jump competition. Which athlete jumps the highest?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Gravitational Potential Energy",
+      "Mass & Weight"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q18",
+    "Question_text": "A workman rolls a barrel of weight 2000 N up a plank of length 2.0 m and onto a lorry. The back of the lorry is 0.80 m above the horizontal surface of the road. What is the work done on the barrel against gravity?",
+    "image": "A diagram showing a lorry with its bed 0.80 m above the horizontal road surface. A plank of length 2.0 m is used as a ramp from the road to the lorry bed. A barrel is positioned at the bottom of the ramp.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Gravitational Potential Energy",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q19",
+    "Question_text": "Data for three types of electricity generator are shown. Which is the least efficient generator and which is the most efficient?",
+    "image": "A table showing input energy (MJ) and wasted energy (MJ) for three types of electricity generators: oil, nuclear, and hydroelectric.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Energy Resources"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q20",
+    "Question_text": "An instruction in a physics book states 'divide the length between two marks on the glass tube into 100 equal parts'. What is being described?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q21",
+    "Question_text": "What is a unit for heat capacity?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q22",
+    "Question_text": "A block of aluminium is heated. What happens to the kinetic energy and to the potential energy of the molecules?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q23",
+    "Question_text": "Which statement about the melting of ice and the boiling of water is correct?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q24",
+    "Question_text": "A substance has a melting point of –17 °C and a boiling point of 117 °C. In which state does the substance exist at –10 °C and at 110 °C?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q25",
+    "Question_text": "A smoke particle Z is seen to move randomly when suspended in air as illustrated. Which statement explains why Z moves randomly?",
+    "image": "A diagram depicting a smoke particle Z showing irregular, zigzag movement. Several arrows indicate the random changes in direction, characteristic of Brownian motion.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q26",
+    "Question_text": "An electromagnetic wave has a speed of 3.0 × 10⁸ m/s and a wavelength of 10 cm. What is the frequency of the wave?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "The Wave Equation",
+      "Features of Waves",
+      "Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q27",
+    "Question_text": "Three objects P, Q and R are placed in front of a plane mirror. The student's eye is positioned as shown. Which of the images of P, Q and R can the student see in the mirror?",
+    "image": "A diagram showing a plane mirror, with three objects P, Q, and R placed in front of it. A student's eye is positioned to the right of the mirror, looking into it. Lines of sight indicate the field of view, showing which objects' images are visible from the eye's position.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q28",
+    "Question_text": "A ray of light R is incident on a water-to-air surface with an angle of incidence θ. The angle θ is less than the critical angle c. Which statement describes the subsequent path of R?",
+    "image": "A ray diagram showing light ray R incident from water to an air interface. The angle of incidence θ is shown relative to the normal. The interface is labeled 'air' above and 'water' below the horizontal line.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q29",
+    "Question_text": "A parallel beam of light is incident on a thin converging lens. F is one focal point of the lens. Which ray diagram shows the light after it has passed through the lens?",
+    "image": "An initial diagram shows a thin converging lens with parallel light rays incident on it, and one focal point F marked. This is followed by four options (A, B, C, D), each presenting a ray diagram showing how the parallel rays behave after passing through the lens.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q30",
+    "Question_text": "Which description of a sound wave is correct?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q31",
+    "Question_text": "Where does sound travel the fastest?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q32",
+    "Question_text": "A bar magnet is placed in a hollow iron cylinder. The diagram shows the magnetic field pattern produced. What is the cause of the field inside the cylinder wall?",
+    "image": "A cross-sectional diagram showing a bar magnet (N-S poles) placed inside a hollow iron cylinder. Magnetic field lines are depicted, showing that the iron cylinder wall channels the magnetic field, effectively shielding the interior space by diverting the field lines through its material.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnetic Fields",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q33",
+    "Question_text": "A polythene rod is brought near to a stream of water from a metal tap which is earthed. Tap water is an electrical conductor. The water moves towards the rod, as shown. Which description of the rod and water is correct?",
+    "image": "A diagram illustrating a metal tap with an Earth connection, producing a stream of water. A polythene rod is held near the water stream, causing the stream to visibly deflect and move towards the rod.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Demonstrating Electric Charges",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q34",
+    "Question_text": "A small negative charge is placed at a point where an electric field is vertically upwards. There is a force on the charge due to the field. In which direction does it act?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electric Fields",
+      "Electrical Charge"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q35",
+    "Question_text": "In the circuit shown, the resistance of resistor Y is four times greater than the resistance of resistor X. What is the difference Vᵧ – Vₓ of the voltages shown on the voltmeters?",
+    "image": "A series circuit diagram with a 10 V power source connected to two resistors, X and Y, in series. Voltmeters are connected in parallel across each resistor, labeled Vx and Vy respectively.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Resistance",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q36",
+    "Question_text": "Two identical resistors connected in parallel have a total resistance of 4.0 Ω. What is the total resistance when the same two resistors are connected in series?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Combined Resistance",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q37",
+    "Question_text": "Three identical lamps and three ammeters are connected as shown. The readings on the ammeters are I₁, I₂ and I₃. How are the readings related?",
+    "image": "A circuit diagram containing a power source and three identical lamps. Ammeter I₁ measures the total current from the source. The circuit then splits into two parallel branches. One branch has an ammeter I₂ and a lamp. The other branch has a lamp, and then splits again into two further parallel sub-branches, each with a lamp. Ammeter I₃ is placed in one of these final sub-branches.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q38",
+    "Question_text": "A thermistor and a light-dependent resistor (LDR) are connected in series. A potential difference (p.d.) of 6.0 V is applied across them as shown. The thermistor has a resistance of 6000 Ω in a cold room and 1000 Ω in a warm room. The LDR has a resistance of 2000 Ω in dim light and 500 Ω in bright light. When is the p.d. across the LDR equal to 2.0 V?",
+    "image": "A series circuit diagram showing a 6.0 V power source connected to a thermistor and a light-dependent resistor (LDR).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Potential Dividers",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q39",
+    "Question_text": "A student calculates the amount of energy used by an electric heater. What is the equation for calculating the energy E in kWh?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/11/2020/Q40",
+    "Question_text": "An isotope P is radioactive and has a half-life of 7.0 years. A sample initially contains 0.016 kg of P. After how long will the sample contain 0.0020 kg of P?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  }
+]

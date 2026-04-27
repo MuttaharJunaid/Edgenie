@@ -1,0 +1,332 @@
+[
+  {
+    "QuestionNumber": "1",
+    "Question_text": "Which task would be carried out by a book-keeper? A comparison of financial statements between years B preparation of financial statements C provision of information for decision-making D recording financial transactions",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Book-keeping vs accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "2",
+    "Question_text": "Why does the owner of a business calculate profit? A to find the return on capital B to find the total expenses C to know how much he can borrow from the bank D to know the loan interest he can afford to pay",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.1 The purpose of accounting",
+    "Sub_topic": [
+      "Measuring profit/loss purposes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "3",
+    "Question_text": "Which transaction will increase both assets and capital by the same amount? A A credit customer settled his account after deducting a cash discount. B Goods were sold at a price higher than their cost price. C Rent received included an amount prepaid for the next accounting period. D The owner repaid a business loan from his personal bank account.",
+    "image": null,
+    "Unit": "UNIT 1: The fundamentals of accounting",
+    "Topic": "1.2 The accounting equation",
+    "Sub_topic": [
+      "Apply accounting equation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "4",
+    "Question_text": "A trader purchased a motor vehicle for his business using a cheque from his personal bank account. How was this recorded in the books of the business? account to be debited account to be credited A bank motor vehicles B capital motor vehicles C motor vehicles bank D motor vehicles capital",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Process data double entry"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "5",
+    "Question_text": "On 1 May Waheed issued an invoice for a credit sale of ten chairs to Yasser at a list price of $40 each. Trade discount of 10% was deducted. Yasser returned five chairs to Waheed on 15 May. What was the value of the invoice issued to Yasser? A $180 B $200 C $360 D $400",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.3 Books of prime entry",
+    "Sub_topic": [
+      "Trade/cash discount accounting"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "6",
+    "Question_text": "Which document will a customer issue to inform a supplier of an overcharge? A credit note B debit note C invoice D statement of account",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.2 Business documents",
+    "Sub_topic": [
+      "Recognise business documents"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "7",
+    "Question_text": "On 1 October the bank column of Kim's cash book showed an overdraft of $120. She was then notified that a cheque, $80, received from a customer in September had been dishonoured. What was the balance of the bank column in Kim's cash book after recording this dishonoured cheque? A credit $40 B credit $200 C debit $40 D debit $200",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Update cash book items"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "8",
+    "Question_text": "Which statement about a bank reconciliation statement is correct? A It is part of the double entry system. B It is prepared by the bank to compare the cash book balance with the bank statement balance. C It is prepared by the trader to compare the cash book balance with the bank statement balance. D It is only prepared when the bank account is overdrawn.",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.3 Bank reconciliation",
+    "Sub_topic": [
+      "Prepare bank reconciliation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "9",
+    "Question_text": "At the end of Leroy's financial year it was decided that the balance on the telephone expenses account, $340, should be split 90% for business use and 10% for personal use. Which journal entry records the closing of the telephone expenses account at the end of the financial year? debit $ credit $ A drawings 34 income statement 306 telephone expenses 340 B drawings 34 telephone expenses 306 income statement 340 C income statement 340 drawings 34 telephone expenses 306 D telephone expenses 340 drawings 34 income statement 306",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Effect on profit incorrect treatment"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "10",
+    "Question_text": "The following account appeared in Amna's ledger. Syed account date details debit $ credit $ balance $ Sept 1 balance b/d 400 dr 14 sales 600 1000 dr 26 bank 390 610 dr 26 discount 10 600 dr Which statement is correct? A On 1 September Amna owed Syed $400. B On 14 September Syed purchased goods, $600, on credit from Amna. C On 26 September Amna paid Syed $390 by cheque. D On 26 September Syed allowed $10 cash discount to Amna.",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Interpret ledger balances"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "11",
+    "Question_text": "A supplier's account in Shilpa's ledger showed a balance owing on 1 October of $3400. In October Shilpa purchased goods, $860, and returned goods, $55. During the month she made a payment of $2000. What was the balance on the supplier's account in Shilpa's ledger on 1 November? A $2205 credit B $2205 debit C $6205 credit D $6205 debit",
+    "image": null,
+    "Unit": "UNIT 2: Sources and recording of data",
+    "Topic": "2.1 The double entry system of book-keeping",
+    "Sub_topic": [
+      "Prepare ledger accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "12",
+    "Question_text": "A flat above a trader's shop was rented out at $90 a month from 1 July 2018. At 30 June 2019 the rent receivable account showed entries for rent received from the tenant totalling $900. What was the balance of the rent receivable account on 1 July 2019? A credit $90 B credit $180 C debit $90 D debit $180",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.3 Other payables and other receivables",
+    "Sub_topic": [
+      "Record accrued/prepaid incomes"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "13",
+    "Question_text": "Hanna owed Alan $1800. On 1 June Hanna paid $1300 and the remaining balance was written off. What entries did Alan make on 1 June? bank account bad debts account Hanna account debit $ credit $ debit $ credit $ debit $ credit $ A 1300 500 1800 B 1300 1800 500 C 1300 1800 500 D 1300 500 1800",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record irrecoverable debts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "14",
+    "Question_text": "At the end of her financial year Ling reduced the provision for doubtful debts by $500. Which journal entry records this? debit $ credit $ A income statement 500 provision for doubtful debts 500 B provision for doubtful debts 500 income statement 500 C provision for doubtful debts 500 trade receivables 500 D trade receivables 500 provision for doubtful debts 500",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.4 Irrecoverable debts and provision for doubtful debts",
+    "Sub_topic": [
+      "Record/adjust doubtful provision"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "15",
+    "Question_text": "What will be treated as capital expenditure? A the annual depreciation on office premises B the cost of building an office extension C the cost of repairing office equipment D the purchase of a new computer for resale",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.1 Capital and revenue expenditure and receipts",
+    "Sub_topic": [
+      "Distinguish capital/revenue expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "16",
+    "Question_text": "Which methods of depreciation are used for these non-current assets? 1 a non-current asset consisting of a number of small items 2 a non-current asset which gives the same benefit in each year of use 3 a non-current asset which gives more benefit in the early years of its use dimishing (reducing) balance method revaluation method straight-line method A 1 3 2 B 2 1 3 C 2 3 1 D 3 1 2",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Depreciation methods description"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "17",
+    "Question_text": "Machinery, $20000, was purchased on 1 January 2017. The provision for depreciation of machinery account at 31 December 2018 showed the following entries. provision for depreciation of machinery account 2018 $ 2018 $ Jan 1 balance b/d 4000 Dec 31 income statement 3200 Which statement is not correct? A The annual depreciation on machinery is calculated at the rate of 20%. B The balance of the provision for depreciation of machinery account is transferred to the machinery account. C The diminishing (reducing) balance method of depreciation has been used to calculate the annual depreciation on the machinery. D The net book value of the machinery on 1 January 2019 was $12800.",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Ledger/journal for depreciation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "18",
+    "Question_text": "Joseph depreciates his fixtures by 20% per annum using the straight-line method. A full year's depreciation is charged in the year of purchase. During the year, repairs to fixtures of $400 were debited to the fixtures account. What was the effect of correcting this error? effect on book value of fixtures effect on profit for the year A decrease $320 decrease $320 B decrease $320 increase $320 C decrease $400 decrease $80 D decrease $400 increase $80",
+    "image": null,
+    "Unit": "UNIT 4: Accounting procedures",
+    "Topic": "4.2 Accounting for depreciation and disposal of non-current assets",
+    "Sub_topic": [
+      "Ledger/journal for depreciation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "19",
+    "Question_text": "Which item would not appear in a sales ledger control account? A discount received B payments received C refunds paid to credit customers D returns from credit customers",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Purposes of control accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "20",
+    "Question_text": "Carlos is preparing his sales ledger control account. Where will he obtain information about contra entries? A cash book B general journal C purchases ledger D sales ledger",
+    "image": null,
+    "Unit": "UNIT 3: Verification of accounting records",
+    "Topic": "3.4 Control accounts",
+    "Sub_topic": [
+      "Sources for control entries"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "21",
+    "Question_text": "After preparing her income statement Emma found that: 1 a bad debt, $1500, should have been written off 2 no adjustment had been made for rent prepaid by her of $2800. The draft profit for the year was $35000. What was the profit for the year after these adjustments? A $30 700 B $33700 C $36 300 D $39 300",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Irrecoverable/provision adjustments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "22",
+    "Question_text": "The following balances were extracted from Sabeena's books on 31 December. $ non-current assets 65 000 current assets 13 000 current liabilities 9 000 non-current liabilities 7 000 What was the capital employed? A $62 000 B $68 000 C $69 000 D $76 000",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Financial position content"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "23",
+    "Question_text": "Sara and Fatima are in partnership. Sara is entitled to a partnership salary of $30000 per annum and the balance of the profit is shared equally. The profit for the year was $180000. What was Sara's total income from the business? A $75 000 B $90 000 C $105 000 D $120 000",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.2 Partnerships",
+    "Sub_topic": [
+      "Appropriation account purpose"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "24",
+    "Question_text": "A sports club provided the following information. $ subscriptions received during the year 12 000 subscriptions owing at the start of the year 1 200 subscriptions owing at the end of the year 800 What was the amount of subscriptions shown in the income and expenditure account? A $11 600 B $12 400 C $12 800 D $13 200",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Revenue activities accounts"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "25",
+    "Question_text": "The statement of financial position of a sports club included the following. $ subscriptions in advance 100 subscriptions in arrears 130 bank 790 debit inventory of refreshments 320 amounts owing to suppliers 200 What was the total of current liabilities? A $300 B $330 C $1090 D $1240",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.4 Clubs and societies",
+    "Sub_topic": [
+      "Prepare income/expenditure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "26",
+    "Question_text": "A trader's sales were $300000. The mark-up was 25%. What was the cost of sales? A $60 000 B $75 000 C $225 000 D $240 000",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.6 Incomplete records",
+    "Sub_topic": [
+      "Mark-up/margin/turnover techniques"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "27",
+    "Question_text": "What is not a voluntary deduction from gross wages? A donation to charity B income tax C pension contribution D social club subscription",
+    "image": null,
+    "Unit": "UNIT 5: Preparation of financial statements",
+    "Topic": "5.1 Sole traders",
+    "Sub_topic": [
+      "Prepare income statements"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "28",
+    "Question_text": "How is the current ratio calculated? A assets minus liabilities B assets divided by liabilities C current assets divided by current liabilities D current assets minus current liabilities",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "29",
+    "Question_text": "Which ratio measures liquidity? A gross profit/ sales B net profit/ sales C quick ratio (acid test ratio) D return on capital employed",
+    "image": null,
+    "Unit": "UNIT 6: Analysis and interpretation",
+    "Topic": "6.1 Calculation and understanding of accounting ratios",
+    "Sub_topic": [
+      "Calculate/understand ratios"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "30",
+    "Question_text": "Which accounting principle is referred to in the following statement? 'An accountant should not overstate profit and should provide for all possible losses.' A consistency B dual aspect C matching/ accruals D prudence",
+    "image": null,
+    "Unit": "UNIT 7: Accounting principles and policies",
+    "Topic": "7.1 Accounting principles",
+    "Sub_topic": [
+      "Explain/recognise principles"
+    ],
+    "Parts": []
+  }
+]

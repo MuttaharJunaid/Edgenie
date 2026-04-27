@@ -1,0 +1,216 @@
+[
+  {
+    "QuestionNumber": "May-June/42/2017/Q1",
+    "Question_text": "A student measures the acceleration of free-fall g. He drops a metal ball from a height of 1.000 m onto the floor, and measures the time t it takes to hit the floor. Fig. 1.1 shows the ball and a metre rule, held vertically in a clamp.",
+    "image": "Fig. 1.1 depicts an experimental setup. A metal ball rests on a flat horizontal surface. Vertically above the surface, a metre rule is held in place by a clamp attached to a stand. The metre rule is marked in centimeters, showing a range from 10 cm to 100 cm. The ball is positioned such that its top is approximately at the 90 cm mark on the rule, implying it's about 10 cm above the 100 cm mark or positioned to measure a drop from a specific height using the rule.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Acceleration",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "On Fig. 1.1, draw the position of the ball at its point of release.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "He repeats the experiment and obtains the following five values of t, measured in seconds. 0.65 0.60 0.68 0.59 0.61",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate t_av, the average value for t. Give your answer to two decimal places. t_av = ..................................................... [2]",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest why the value for t_av is not given to more than two decimal places.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The acceleration due to free-fall g is given by the equation g = 2h/t_av^2 where h = 1.000 m.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate a value for g. g = ................................................. m/s² [1]",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Another student suggests that, to obtain a better value for g, the ball should be dropped from a height greater than 1.000 m. Explain why this student is correct.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2017/Q2",
+    "Question_text": "A student investigates a series circuit containing two non-identical lamps P and Q. Both lamps need a working voltage of 2.5 V to be at full brightness. She sets up the circuit shown in Fig. 2.1.",
+    "image": "Fig. 2.1 displays a series electrical circuit. It consists of a 3 V power supply. Connected in series with the power supply are an ammeter (labeled 'A') and two lamps, P and Q. The lamps are represented by circles with a cross inside. The components are arranged sequentially in a rectangular circuit path.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Potential Difference in Circuits",
+      "Current in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.1, draw the symbol for a voltmeter to show where it is connected.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Fig. 2.2 shows the reading on the voltmeter. State the voltmeter reading V_P shown on Fig. 2.2. V_P = ................................................. V [1]",
+        "image": "Fig. 2.2 shows an analog voltmeter with a circular scale ranging from 0 to 5 V. Major markings are at 0, 1, 2, 3, 4, 5, with smaller divisions indicating 0.2 V intervals. The needle points precisely to the 2.4 V mark."
+      },
+      {
+        "part_label": "b",
+        "part_text": "She measures the p.d. across lamp Q and records the value in Fig. 2.3, together with the brightness of the lamps.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Add your result from (a)(ii) to the table in Fig. 2.3.",
+        "image": "Fig. 2.3 is a table titled 'Fig. 2.3' with three columns: 'lamp', 'potential difference / V', and 'brightness'. It has two rows for lamps P and Q. For lamp P, the 'brightness' is 'bright', and the 'potential difference / V' cell is empty. For lamp Q, the 'potential difference / V' is '0.6' and the 'brightness' is 'not lit'."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Fig. 2.4 shows the reading on the ammeter in the circuit of Fig. 2.1. State the ammeter reading I shown on Fig. 2.4. I = ................................................. A [1]",
+        "image": "Fig. 2.4 shows an analog ammeter with a circular scale ranging from 0 to 1.0 A. Major markings are at 0, 0.2, 0.4, 0.6, 0.8, 1.0 A, with smaller divisions indicating finer increments. The needle points precisely to the 0.4 A mark."
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The student states that, because lamp Q is not lit, its filament is broken. Explain how the results show that this statement is incorrect.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Suggest one reason why lamp Q does not glow.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2017/Q3",
+    "Question_text": "A student investigates the effect of three different insulating materials on the cooling of hot water in a beaker. The following apparatus is available: • thermometer • stopwatch • 250 cm³ glass beaker • 250 cm³ measuring cylinder • cardboard • cotton wool • cloth • boss, clamp and stand A supply of hot water is also available. Write a plan for the experiment. You should:",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Consequences of Thermal Energy Transfer",
+      "Investigating Radiation",
+      "Thermal Conduction",
+      "Convection",
+      "Radiation",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "explain how to carry out the experiment; a diagram is not required, but you may draw one if it helps to explain your plan,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "state any quantities that need to be kept constant,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "draw a table, with headings, to show how to display the results,",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "explain how the readings can be used to reach a conclusion.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/42/2017/Q4",
+    "Question_text": "An object is moved between a lamp and a screen. A student investigates how the height of the shadow cast by the object on the screen changes. The apparatus is shown in Fig. 4.1. The object is a square sheet of white card. The length of each side is H. The object is attached to a pin and supported by a cork, as shown in Fig. 4.2.",
+    "image": "Fig. 4.1 (not to scale) illustrates an experimental setup for shadow casting. From left to right, there is a lamp, followed by an object (shown in side view), and finally a screen. The distance from the lamp to the object is denoted by 'd', and the total distance from the lamp to the screen is fixed at 'D = 80.0 cm'.\nFig. 4.2 (full size) provides a detailed view of the object. It shows a square sheet of white card, which is attached to a pin. The pin is inserted into a cork, which serves as a stand. The vertical side length of the square card is labeled 'H'.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Linear Magnification",
+      "Ray Diagrams",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Measure and record the length H as shown in Fig. 4.2. H = ................................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The screen is placed at a distance D = 80.0 cm from the centre of the lamp. She places the object at a distance d = 70.0 cm from the centre of the lamp and observes the shadow made by the object on the screen. The shadow is shown in Fig. 4.3.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Measure and record the length h of the shadow shown in Fig. 4.3. h = ................................................. cm [1]",
+        "image": "Fig. 4.3 (full size) depicts the shadow cast by the object on the screen. The shadow has an irregular, somewhat hourglass or lens-like shape, with its vertical extent marked by 'h'. This indicates the maximum height of the shadow visible on the screen."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest why it would be difficult to measure accurately the length of the shadow.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "She repeats the procedure for values of d of 60.0 cm, 55.0 cm, 45.0 cm, 30.0 cm and 25.0 cm. Her results are recorded in the table of Fig. 4.4.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Add your value of h from (b)(i) to the table in Fig. 4.4.",
+        "image": "Fig. 4.4 is a table with two columns: 'd/cm' and 'h/cm'. It lists various values for 'd': 70.0, 60.0, 55.0, 45.0, 30.0, 25.0. Corresponding 'h' values are provided for d=60.0 (2.7), d=55.0 (2.9), d=45.0 (3.6), d=30.0 (5.3), d=25.0 (6.4). The 'h/cm' cell for d=70.0 is blank, awaiting a value."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "On Fig. 4.5, plot a graph of h/cm on the y-axis against d/cm on the x-axis. Start both axes from the origin. Draw the smooth curve of best fit.",
+        "image": "Fig. 4.5 presents a blank grid for plotting a graph. The y-axis is clearly marked from 0 to 9.0, with major grid lines at every 1.0 unit. The x-axis is also intended to start from the origin (0,0), with grid lines for plotting 'd/cm' values."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Use your graph to find h_40, the value of h when the object is 40.0 cm from the centre of the lamp. h_40 = ................................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "The student suggests that the value of h_40, is related to the length H of the object by the equation h_40 = 2H. Calculate the length H of the object using this equation. H = ................................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Compare the value for H calculated in (d)(ii) with the value that you measured in (a). State whether your results support the student's suggestion and justify your answer by reference to the results.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Extend your graph to predict the length h_20 of the shadow when d = 20.0 cm. h_20 = ................................................. cm [1]",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "The student suggests that the distance d should not be less than 10.0 cm. Give one reason why this is a sensible suggestion.",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "D was kept constant throughout the investigation. Suggest why.",
+        "image": null
+      }
+    ]
+  }
+]

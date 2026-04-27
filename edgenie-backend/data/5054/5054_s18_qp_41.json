@@ -1,0 +1,175 @@
+[
+  {
+    "QuestionNumber": "May-June/41/2018/Q1",
+    "Question_text": "A student has two metal rods. One rod is made of copper and the other is made of iron. She carries out an experiment to see which metal is the better conductor. She lays the rods across a heat-proof mat placed on a tripod stand with the rods touching at one end, as shown in Fig. 1.1. She fixes a drawing pin to the other end of each rod using a small amount of wax, which has a low melting point. She then heats the rods at the touching ends as shown.",
+    "image": "Fig. 1.1 shows an experimental setup to compare thermal conductivity of copper and iron rods. Two metal rods, one copper and one iron, are laid across a heat-proof mat, which is placed on a tripod stand. Their ends touch at the center, where a Bunsen burner is heating them. At the other end of each rod, a drawing pin is attached using a small amount of wax. The labels indicate: heat-proof mat, wax, drawing pin, iron rod, copper rod, rod ends touching, Bunsen burner, and tripod stand.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Demonstrating Conduction",
+      "Thermal Conduction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State two features of the apparatus shown in Fig. 1.1 that ensure that the experiment is fair.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain what happens and state how she determines which metal is the better conductor.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2018/Q2",
+    "Question_text": "A student has two identical springs. He suspends them from a thin metal bar that is held in a horizontal position between two stands.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "He hangs a load from one of the springs, as shown in Fig. 2.1. This spring extends by a distance h.",
+        "image": "Fig. 2.1 (not to scale) shows a single spring suspended from a horizontal metal bar which is supported by two vertical stands (bosses) resting on a bench. A rectangular load is attached to the bottom of the spring. Labels include: bosses, metal bar, load, stands, bench."
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 2.1, show clearly the distance h.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe a practical method that the student can use to ensure that he measures the distance h accurately.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student removes the load and then inserts a small wooden rod of negligible mass into the rings at the end of each of the two springs. He suspends the load from the middle of the rod, as shown in Fig. 2.2. He checks that the wooden rod is horizontal and then measures the extension h of one of the springs.",
+        "image": "Fig. 2.2 (not to scale) shows two identical springs hanging parallel to each other from a horizontal metal bar. A small wooden rod connects the bottom ends of both springs. A rectangular load is suspended from the middle of this wooden rod. Labels include: metal bar, rod, load."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain why it is important for the wooden rod to be horizontal.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest how the student checks that the wooden rod is horizontal.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The experiment is repeated using more identical springs until there are eight springs hanging side by side. The extension h is measured each time a spring is added. The results are shown in the table of Fig. 2.3. On Fig. 2.4, plot a graph of h/cm on the y-axis against N on the x-axis. Start your axes from (0,0). Draw a smooth curve of best fit.",
+        "image": "Fig. 2.3 is a table titled 'total number of springs N' and 'h/cm' showing the following data: (N=1, h=19.8), (N=2, h=9.9), (N=3, h=6.5), (N=4, h=4.9), (N=5, h=4.0), (N=6, h=3.6), (N=7, h=2.8), (N=8, h=2.5). Below this table, Fig. 2.4 is a large, square, empty grid with an origin marked at (0,0) and an instruction to plot a graph with h/cm on the y-axis and N on the x-axis, starting from (0,0)."
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Describe the relationship between N and h.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student now hangs one spring from the end of a second spring and suspends them as before. He hangs the same load from the end of the spring combination, as shown in Fig. 2.5. Suggest a value for the total extension of the pair of springs in Fig. 2.5.",
+        "image": "Fig. 2.5 (not to scale) shows two identical springs connected in series, one hanging from the bottom of the other. A rectangular load is suspended from the bottom of the second spring."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2018/Q3",
+    "Question_text": "A student has 50 small glass beads of different sizes and shapes in a jar, as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a cylindrical jar filled with many small glass beads of varying sizes and shapes.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measurement",
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "One of the glass beads is spherical.",
+        "image": null
+      },
+      {
+        "part_label": "a(i)",
+        "part_text": "Suggest a piece of apparatus that measures the diameter of this bead more accurately than a ruler.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "This bead is drawn to full size in Fig. 3.2.",
+        "image": "Fig. 3.2 (full size) shows a single, perfectly spherical glass bead, represented by a circular outline."
+      },
+      {
+        "part_label": "a(ii).1",
+        "part_text": "Use a ruler to measure the diameter of the glass bead in Fig. 3.2.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii).2",
+        "part_text": "Explain how you measured the diameter as accurately as possible. You may draw on the diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student finds the average density of the glass of the glass beads in the jar in Fig. 3.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe a method to find the total volume of the 50 glass beads. State the apparatus used and explain how it is used. You may draw a diagram if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State a precaution taken to ensure an accurate value for the volume.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "The total volume of the beads is 196 cm³ and the total mass is 523 g. Use the equation density = mass / volume to determine the average density of the glass of the beads. Give your answer to three significant figures.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/41/2018/Q4",
+    "Question_text": "A student measures the refractive index n of a rectangular glass block. One face of the block is shown in Fig. 4.1.",
+    "image": "Fig. 4.1 shows a top-down view of a rectangular glass block with its corners labeled A (bottom-left), B (bottom-right), C (top-left), and D (top-right).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Suggest the apparatus needed to carry out the task.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Explain in detail how the student traces the ray of light through the block. You may add to the diagram in Fig. 4.1 if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Fig. 4.2 shows the ray that the student traces through the block. Measure the angle of incidence i and the angle of refraction r at the point where the light enters the glass.",
+        "image": "Fig. 4.2 shows the rectangular glass block ABCD. A ray of light, indicated by an arrow, approaches side AB from outside the block. It enters the block at a point on AB, refracts (bends) as it passes through the glass, and then emerges from side CD, refracting again as it leaves the block. Arrows indicate the path and direction of the light ray, showing incidence, refraction, and emergence."
+      },
+      {
+        "part_label": "d",
+        "part_text": "The refractive index n of glass is given by the equation: n = sin i / sin r. The student repeats the experiment using rays with different values of i. In the space below, draw a suitable results table that the student uses to record all the data needed to find n. In your table, show the values for i that the student should choose.",
+        "image": null
+      }
+    ]
+  }
+]

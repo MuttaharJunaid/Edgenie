@@ -1,0 +1,188 @@
+[
+  {
+    "QuestionNumber": "October-November/32/2017/Q1",
+    "Question_text": "Items to be supplied by the Centre (per set of apparatus, unless otherwise specified) Two expendable steel springs, with a spring constant of approximately 25 N/m, e.g. Griffin catalogue number 12463080 or legacy number XBV-590-010H (see Note 1). 100 g mass hanger and seven 100g slotted masses (see Note 2). Stand, boss and clamp to support the two springs. Blu-tack. Second clamp and boss to act as a fiducial marker. Stopwatch, to a precision of at least 0.1 s.",
+    "image": "Fig. 1.1 shows a diagram of the apparatus setup for Question 1. A vertical stand is placed on a bench. A clamp is attached to the top of the stand, from which two springs are suspended in parallel. Blu-tack is shown holding the top loops of the springs to the rod of the clamp. A mass 'M' is attached to the bottom loops of both springs. A second clamp, labeled 'rod A' with a 'boss', is attached to the lower part of the same stand, positioned near the mass 'M' to act as a fiducial marker. The entire setup implies a system for investigating spring extension or oscillations.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "Note 1",
+        "part_text": "The springs should be as identical as possible.",
+        "image": null
+      },
+      {
+        "part_label": "Note 2",
+        "part_text": "The slotted masses should be placed on the hanger and taped together. The total mass of 800 g should be labelled M.",
+        "image": null
+      },
+      {
+        "part_label": "Note 3",
+        "part_text": "The Supervisor should set up the apparatus as shown in Fig. 1.1. The loops at the tops of the springs should be about 2cm apart on the rod of the clamp and each held in place by a small piece of Blu-tack. The hook of the mass hanger should pass through the bottom loop of both springs. The second clamp should be held on the same stand, close to the bottom of the stand. The rod of the clamp should be on the same side as the springs.",
+        "image": null
+      },
+      {
+        "part_label": "Note 4",
+        "part_text": "At the changeover the Supervisor should restore the apparatus as shown in Fig. 1.1. The mass M will need to be suspended from both springs and the second clamp moved to the bottom of the stand.",
+        "image": null
+      },
+      {
+        "part_label": "Information required by Examiners",
+        "part_text": "Sample set of numerical results, clearly labelled “Supervisor's Results”, obtained out of sight of the candidates.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2017/Q2",
+    "Question_text": "Items to be supplied by the Centre (per set of apparatus, unless otherwise specified) 4.5V to 5V d.c. power supply (see Note 1). Switch or plug key. Negative temperature coefficient disc thermistor (see Note 2). Resistor of nominal value 2.2kΩ (see Note 3). Voltmeter capable of measuring a potential difference of up to 5.0 V to a precision of 0.1 V or better. An analogue or digital meter is suitable. 250 cm³ beaker containing about 200 cm³ of water at room temperature (see Note 4). 250 cm³ beaker containing about 200 cm³ of an ice and water mixture. Connecting leads (see Note 5). Card on which is printed \"Component X\" (see Note 6). Stirrer. Paper towels or cloths to mop up spillages.",
+    "image": "Fig. 2.1 shows a schematic diagram of an electrical circuit and a physical setup. The electrical circuit consists of a d.c. power supply connected in series with a resistor 'R' and a thermistor 'X'. A voltmeter 'V' is connected in parallel across the thermistor 'X'. Physically, two beakers are shown: one labeled 'beaker with water' and the other 'beaker with ice/water mixture'. The thermistor 'X' is depicted as being submerged in one of these beakers, indicating its use in temperature-dependent measurements.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Potential Dividers",
+      "Resistance",
+      "Electromotive Force & Potential Difference",
+      "Temperature & Pressure",
+      "Thermal properties & Temperature"
+    ],
+    "Parts": [
+      {
+        "part_label": "Note 1",
+        "part_text": "The following are suitable power sources but all the candidates at a centre must be supplied with the same type of source. • three 1.5V dry cells in suitable holders connected in series, • four 1.2V rechargeable cells in suitable holders connected in series, • d.c. power supply of 4.5V or 5V. If a variable d.c. power supply is used, the variable control should be taped to prevent candidates altering the output voltage.",
+        "image": null
+      },
+      {
+        "part_label": "Note 2",
+        "part_text": "A suitable disc thermistor has a resistance of about 500 Ω at 25°C and 1500Ω at 0°C. The RS component code of such a thermistor is RS 191-2229. The thermistor will require long leads as the beakers of water at room temperature and the ice and water mixture will be separated from the remainder of the circuit. The ends of the leads should have suitable terminals to enable them to be connected into the remainder of the circuit. The thermistor should be labelled X with a permanent marker pen.",
+        "image": null
+      },
+      {
+        "part_label": "Note 3",
+        "part_text": "The value of the resistor should be concealed from the candidates and the resistor should be labelled R. The resistor should have suitable terminals to enable it to be connected into the remainder of the circuit. The RS component code of a suitable resistor is RS 135-881.",
+        "image": null
+      },
+      {
+        "part_label": "Note 4",
+        "part_text": "A container containing sufficient water for all candidates should be left overnight in the laboratory prior to the examination so that it is at the temperature of the laboratory.",
+        "image": null
+      },
+      {
+        "part_label": "Instruction 5",
+        "part_text": "The Supervisor should set up the apparatus as shown in Fig. 2.1. Supervisors should check that when the thermistor is placed in the beaker of water at room temperature the reading on the voltmeter is in the region of 4 V. If a different thermistor to that described in Note 2 is used then the value of R will need to be changed. Generally a larger value of R will give a larger reading on the voltmeter.",
+        "image": null
+      },
+      {
+        "part_label": "Instruction 6",
+        "part_text": "After testing the circuit, the thermistor should be removed from the water, dried and placed on the card on the bench. The thermistor should remain connected to the circuit with the switch opened.",
+        "image": null
+      },
+      {
+        "part_label": "Instruction 7",
+        "part_text": "At the changeover, the Supervisor should • ensure that there is sufficient ice in the ice and water mixture, • remove the thermistor from one of the beakers, dry it and place it on the card. The thermistor should be still connected to the circuit with the switch open, • ensure that the apparatus has been restored to its original state as in Fig. 2.1. If cells are used in the circuit, they should be checked and replaced, if necessary.",
+        "image": null
+      },
+      {
+        "part_label": "Information required by Examiners",
+        "part_text": "Sample set of numerical results, clearly labelled \"Supervisor's Results\", obtained out of sight of the candidates. If a different value of R is used, Supervisors should record the value of the resistance used.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2017/Q3",
+    "Question_text": "Items to be supplied by the Centre (per set of apparatus, unless otherwise specified) Ramp (see Note 1). Glass sphere of diameter between 1 cm and 2cm, e.g. a marble. Fine dry sand (see Note 2). Tray to hold the sand (see Note 3). Two metre rules with mm divisions. Piece of stiff card, wide enough to smooth the sand in the tray.",
+    "image": "Fig. 3.1 shows a diagram of a ramp setup. An inclined 'ramp' is supported by 'supports for ramp'. The bottom end of the ramp is positioned above a 'bench'. On the bench, beneath the end of the ramp, is a 'tray' filled with 'sand'. The overall setup is designed for an object to roll down the ramp and land in the sand, likely to measure its trajectory or impact.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed & Velocity",
+      "Acceleration",
+      "Gravitational Potential Energy",
+      "Kinetic Energy"
+    ],
+    "Parts": [
+      {
+        "part_label": "Note 1",
+        "part_text": "The ramp should be made of stiff wood and have a minimum length of 60 cm. It should be inclined at an angle of approximately 15° to the horizontal. The bottom of the ramp should be supported about 10cm above the bench, hence, for a 60cm ramp, the top of the ramp should be about 25 cm above the bench to create this angle. Supervisors should ensure that the glass sphere will roll down the ramp when it is set at this angle. The ramp should be fixed to the supports so that it does not move, e.g. use of Blu-tack.",
+        "image": null
+      },
+      {
+        "part_label": "Note 2",
+        "part_text": "Any commercially available fine sand will do but it is important that the sand is dry. It may be necessary to dry the sand in an oven at low temperature. The glass sphere will roll down the ramp from a point that is 50.0cm from the bottom of the ramp. It will roll off the end of the ramp to land in the sand. It is important that the glass sphere will leave an imprint in the sand when this procedure is carried out. As long as the initial landing point is clear it does not matter if the sphere rolls along the sand.",
+        "image": null
+      },
+      {
+        "part_label": "Note 3",
+        "part_text": "The Supervisor should set up the apparatus as shown in Fig. 3.1 with one end of the tray vertically below the lower edge of the ramp. The Supervisor should try out the procedure described in Note 2. If the sphere overshoots the tray, then a longer tray should be used. The position of the tray should then be marked so that it can easily be returned to this position at the changeover.",
+        "image": null
+      },
+      {
+        "part_label": "Instruction 4",
+        "part_text": "At the changeover the Supervisor should ensure that the apparatus is set up as in Fig. 3.1. The surface of the sand should be smooth and the metre rules should be on the bench.",
+        "image": null
+      },
+      {
+        "part_label": "Information required by Examiners",
+        "part_text": "Sample set of numerical results, clearly marked \"Supervisor's Results\", obtained out of sight of the candidates.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "October-November/32/2017/Q4",
+    "Question_text": "Items to be supplied by the Centre (per set of apparatus, unless otherwise specified) Two expendable steel springs, with a spring constant of approximately 25 N/m, e.g. Griffin catalogue number 12463080 or legacy number XBV-590-010H (see Note 1). Stand, boss and clamp to support the parallel spring arrangement (see Note 2). S-hook. Wooden metre rule with mm divisions (see Note 3). Two pieces of thin string, each of approximate length 10cm (see Note 3). Second boss and clamp to loosely pivot the metre rule at the 10cm mark (see Note 4). 10g slotted mass hanger with nine 10g slotted masses. 300 mm ruler with mm divisions. Set square.",
+    "image": "Fig. 4.1 shows a detailed perspective of how a metre rule is pivoted. A stand supports a boss, which loosely holds the rod of 'clamp A'. Clamp A, labeled 'clamp A holding rule', grips the metre rule near its end (at the 10.0cm mark). Loops of thread are shown on the metre rule, and the entire setup rests on a bench.\nFig. 4.2 (front view) illustrates the complete apparatus for Question 4. A stand holds two clamps. 'Clamp B' at the top supports two 'parallel springs' vertically. These springs are connected to an 'S-hook'. The S-hook is attached to a metre rule, which is then pivoted by 'clamp A' (loosely fitted into a boss behind the rule) near its left end. The metre rule extends horizontally. A loop for a mass hanger is shown near the right end of the metre rule, and another loop for the S-hook is shown further left. The distance 'L' is indicated, representing the extension of the parallel springs. The entire system is set up on a bench.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Investigating Force & Extension",
+      "Hooke's Law",
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity"
+    ],
+    "Parts": [
+      {
+        "part_label": "Note 1",
+        "part_text": "The springs should be as identical as possible. The springs are to be connected in parallel. This can be done by tying together the two loops at one end of the springs and the two loops at the opposite ends of the springs.",
+        "image": null
+      },
+      {
+        "part_label": "Note 2",
+        "part_text": "Supervisors should label the clamp on this stand as \"clamp B”.",
+        "image": null
+      },
+      {
+        "part_label": "Note 3",
+        "part_text": "The metre rule should be stiff. Holes should be drilled in the metre rule at the 30.0cm mark and the 90.0cm mark. A loose loop of thin string should then pass through each hole. One loop will support the 10g slotted mass hanger and the S-hook will pass through the other loop.",
+        "image": null
+      },
+      {
+        "part_label": "Note 4",
+        "part_text": "The Supervisor should : Label this clamp as “clamp A\". Tighten the jaws of clamp A at the 10.0cm mark across the edges of the metre rule. The graduated face of the rule should be vertical and face the candidate and the rod of the clamp should be horizontal. The rod of clamp A should be placed loosely in the boss as shown in Fig. 4.1. The screw attaching the boss to the stand should be firmly tightened. The screw attaching the rod of clamp A to the boss should not be fully tightened, so that the rod and rule can rotate freely in the boss.",
+        "image": null
+      },
+      {
+        "part_label": "Instruction 5",
+        "part_text": "The Supervisor should set up the apparatus as shown in Fig. 4.2. The Supervisor should ensure that it is possible to hang the mass hanger and nine 10g masses from the loop at the 90.0cm mark and to adjust the height of clamp B to make the rule horizontal. The Supervisor should then remove the mass hanger and masses from the rule and unhook the rule from the S-hook.",
+        "image": null
+      },
+      {
+        "part_label": "Instruction 6",
+        "part_text": "At the changeover, the Supervisor should • remove the mass hanger and masses from the rule, • unhook the rule from the S-hook.",
+        "image": null
+      },
+      {
+        "part_label": "Information required by Examiners",
+        "part_text": "Sample set of numerical results, clearly marked “Supervisor's Results\", obtained out of sight of the candidates.",
+        "image": null
+      }
+    ]
+  }
+]

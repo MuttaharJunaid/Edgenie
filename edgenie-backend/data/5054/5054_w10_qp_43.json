@@ -1,0 +1,148 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/43/2010/Q1",
+    "Question_text": "A student investigates the movement of a suspended metre rule. Metre rule A is clamped horizontally above the bench, as shown in Fig. 1.1.",
+    "image": "A diagram shows a metre rule (labelled 'metre rule A') clamped horizontally above a bench. There are two clamps holding the metre rule from above, attached to an unseen support structure. The 'bench' is represented by a hatched horizontal line below the rule.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe how the student checks that A is horizontal. You may draw on Fig. 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A second metre rule B is suspended horizontally from A by two strings of equal length. Both strings are placed a distance d from the centres of the metre rules, as shown in Fig. 1.2. Describe how the student checks that the two strings are equal distances from the centre of metre rule B.",
+        "image": "Fig. 1.2 shows metre rule A clamped horizontally above a bench. Two strings hang down from metre rule A, each a distance 'd' from its center. These strings support a second metre rule, metre rule B, which is also horizontal and parallel to the bench."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "B is made to rotate backwards and forwards through a small angle in a horizontal plane about its centre, as shown in Fig. 1.3. The student determines the time T for B to rotate once, forwards and then backwards. On Fig. 1.2, mark where the eye of the student is placed to observe the rotations.",
+        "image": "Fig. 1.3 (view from above) shows metre rule A clamped. Below it, metre rule B is shown rotating, indicated by an arc and an arrow. This illustrates the oscillation described."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Describe how the student determines T accurately.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "T is determined for different values of d. Values of d and T are recorded in Fig. 1.4",
+        "image": "Fig. 1.4 is a table with two columns: 'd/cm' and 'T/s'. The rows show pairs of values: (15.0, 2.74), (20.0, 2.07), (25.0, 1.63), (30.0, 1.37), (35.0, 1.18), (40.0, 1.03)."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "On Fig. 1.5, plot the graph of T/s on the y-axis against d/cm on the x-axis. Start your graph from d = 10.0cm and T = 1.00s. Draw the curved line of best fit.",
+        "image": "Fig. 1.5 shows a large empty grid with unlabelled x and y axes, intended for plotting the graph. The grid lines are dense, suitable for precise plotting."
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Use data from the table to show that T is inversely proportional to d.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "Suggest a reason why values for d smaller than 15cm are not measured.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/43/2010/Q2",
+    "Question_text": "A student plots a heating curve for water. The student places an electrical heater in a beaker of water at room temperature, as shown in Fig. 2.1.",
+    "image": "Fig. 2.1 shows a cross-section of an experimental setup. A beaker contains water. An electrical heater, connected by wires (unseen), is immersed in the water. A thermometer is also immersed in the water, suspended from above. The beaker rests on a flat surface, labelled 'bench'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student measures the temperature of the water every minute for thirty minutes. The student suggests using the second hand of a wall clock to measure the time. Another student suggests using a stopwatch reading to 0.01s. Suggest and explain which timer is the more suitable to use.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student draws a table to record the results. On Fig. 2.2, complete the headings of the table.",
+        "image": "Fig. 2.2 shows an empty table with two columns, represented by two empty rectangular boxes for headings."
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The student starts with water at room temperature and notices that the temperature increases for 20 minutes and then stays steady at 60 °C. The student uses the data to plot a graph of the variation with time of the temperature of the water. On the axes of Fig. 2.3, sketch the shape of the graph obtained. Mark any known values on the graph.",
+        "image": "Fig. 2.3 shows a blank graph with a y-axis labelled 'temperature /°C' and an x-axis labelled 'time'. Both axes start from 0."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Explain why the temperature of the water does not rise above 60°C.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/43/2010/Q3",
+    "Question_text": "A student performs an experiment to find out whether a coin is made of pure copper. The student collects twenty identical coins and places them in a light bag. The bag is hung on a newton meter, as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 shows a newton meter with a scale from 0 to 5 N. A bag containing '20 coins' is suspended from the hook of the newton meter. The pointer of the newton meter is clearly visible, indicating a reading.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Record the reading from the newton meter to find the weight W20 of the 20 coins.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A full-size diagram of a single coin is shown in Fig. 3.2. Measure accurately the diameter d of the coin.",
+        "image": "Fig. 3.2 (actual size) shows a circular outline representing a single coin, with an embossed bell-like design in its center. The diameter needs to be measured from this image."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The average thickness t of a coin is 0.19cm. Describe how to measure t accurately.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The density ρ of the metal used in the coin is given by the relationship ρ = (20 W20) / (πd²t) Calculate ρ.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Copper has a density of 8.96 g/cm³. State and explain whether the coin is made of pure copper.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/43/2010/Q4",
+    "Question_text": "A student is given two identical steel bar magnets A and B, as shown in Fig. 4.1. The student is asked to determine which magnet is the stronger.",
+    "image": "Fig. 4.1 shows two identical bar magnets, labelled 'magnet A' and 'magnet B'. Magnet A has its poles labelled S (South) and N (North) on its ends. Magnet B also has its poles labelled S (South) and N (North) on its ends. Both are horizontal.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The student is given a list of apparatus available for use in the experiment. List of available apparatus: metre rule, magnet, pencil 20 cm ruler, newton meter, plain paper clamp stand, plotting compass, lined paper clamp, iron bar, graph paper boss, iron paper clips, thin cotton Describe how to determine which magnet is the stronger. You should include a diagram to show how your apparatus is used. Apparatus chosen: Diagram: Explanation:",
+        "image": "A box titled 'List of available apparatus' contains a three-column list of items: metre rule, magnet, pencil; 20 cm ruler, newton meter, plain paper; clamp stand, plotting compass, lined paper; clamp, iron bar, graph paper; boss, iron paper clips, thin cotton."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student finds an iron bar that looks identical to the magnets. The magnets and the iron bar become mixed up. Describe how the student, using only the magnets and iron bar, could determine which of the three is the iron bar.",
+        "image": null
+      }
+    ]
+  }
+]

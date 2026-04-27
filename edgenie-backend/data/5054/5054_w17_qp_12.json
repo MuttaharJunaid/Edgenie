@@ -1,0 +1,481 @@
+[
+  {
+    "QuestionNumber": "October-November/12/2017/Q1",
+    "Question_text": "Which list contains only scalar quantities?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Scalars & Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q2",
+    "Question_text": "A manufacturer measures the three dimensions of a wooden floor tile using three different instruments. The approximate dimensions of the tile are shown. Which instruments are used to measure accurately each of these dimensions?",
+    "image": "A 3D perspective drawing of a rectangular wooden floor tile. Its length is labeled as 0.4 m, its width as 0.08 m, and its thickness as 0.005 m. The diagram is marked as '(not to scale)'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q3",
+    "Question_text": "The speed-time graph represents a short journey. Which distance-time graph represents the same journey?",
+    "image": "A speed-time graph showing a straight line starting from the origin (0,0) with a positive slope, indicating constant acceleration. The x-axis is 'time' and the y-axis is 'speed'. Below this, four different distance-time graphs (A, B, C, D) are presented as options.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "Distance-Time Graphs",
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q4",
+    "Question_text": "A free-fall skydiver jumps from a plane. As he falls there is a force acting upwards and a force acting downwards on his body. These produce a resultant force. Before he reaches terminal velocity, how do the sizes of the forces change?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q5",
+    "Question_text": "The diagram shows two objects on a beam balance. The beam balance is in equilibrium. Which quantities may be different?",
+    "image": "A diagram of a beam balance. Two objects are placed on the pans on either side of a central pivot. The beam is horizontal, indicating equilibrium. The objects appear to be of different sizes.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Equilibrium",
+      "Moments"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q6",
+    "Question_text": "Two blocks are joined together. One block has a density of 6.0 g/cm³ and the other has a density of 9.0 g/cm³. What is the overall density of the two blocks joined together?",
+    "image": "A diagram showing two rectangular blocks joined side-by-side. The left block has dimensions 1.0 cm (height), 1.0 cm (width), and 1.0 cm (depth, into the page). Its density is given as 6.0 g/cm³. The right block has dimensions 1.0 cm (height), 2.0 cm (width), and 1.0 cm (depth, into the page). Its density is given as 9.0 g/cm³.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q7",
+    "Question_text": "A diver of weight 500 N stands at the end of a springboard that is 2.0 m long and is fixed at point P. The springboard has a weight of 500 N. The centre of mass of the springboard is in the centre of the board. What is the total moment about point P of the diver and the board?",
+    "image": "A diagram showing a diver standing at the rightmost end of a horizontal springboard. The springboard is fixed at its left end, labeled 'P'. The total length of the springboard from 'P' to the diver's position is indicated as 2.0 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q8",
+    "Question_text": "A tennis ball of mass 56 g is travelling at 1500 metres/minute. Which expression is equal to the kinetic energy, in joules, of the tennis ball?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Kinetic Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q9",
+    "Question_text": "In a hydroelectric power station, 4.2 × 10⁵ kg of water passes through the turbines every second. The turbines are at a height of 50 m below the surface of the reservoir. The gravitational field strength g is 10 N/kg. Assuming there are no energy losses, what is the power output of the power station?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Power",
+      "Gravitational Potential Energy",
+      "Energy from Water"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q10",
+    "Question_text": "The diagram shows a mercury manometer connected to a gas container. The density of mercury is 14000 kg/m³. The gravitational field strength g is 10 N/kg. What is the pressure difference between the gas in the container and the atmosphere?",
+    "image": "A diagram of a U-tube manometer. The left arm is connected to a gas container, and the right arm is open to the atmosphere. The mercury level in the left arm (connected to the gas) is lower than the mercury level in the right arm (open to atmosphere). A vertical arrow on the left shows the height from the gas container connection point down to the mercury level in the left arm as 0.60 m. Another vertical arrow shows the height difference between the mercury level in the left arm and the mercury level in the right arm as 0.20 m.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q11",
+    "Question_text": "A gas syringe contains a fixed mass of air. The volume of the air is 240 cm³ and it exerts a pressure of 5.0 × 10⁴ Pa. The air is slowly compressed, keeping the temperature constant, until the pressure is 1.5 × 10⁵ Pa. What is the final volume of air?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Temperature & Pressure",
+      "Gases & Absolute Temperature",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q12",
+    "Question_text": "An extremely large increase in pressure is needed to compress a liquid. A gas can be compressed by a much smaller increase in pressure. Which statement explains this?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q13",
+    "Question_text": "A dish of liquid is left on a laboratory bench. Some of the liquid evaporates. What happens and why?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation",
+      "Melting, Boiling & Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q14",
+    "Question_text": "Solid wax is melted in a boiling tube and then allowed to cool. The graph shows the cooling curve. What is happening between points X and Y?",
+    "image": "A cooling curve graph showing temperature on the y-axis and time on the x-axis. The temperature initially decreases, then remains constant for a period between points X and Y, and then decreases again.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Specific Latent Heat"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q15",
+    "Question_text": "What is meant by the heat capacity of a solid object?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q16",
+    "Question_text": "The distance between the ice point and the steam point in a liquid-in-glass thermometer is 20 cm. The top of the liquid thread is 12 cm above the ice point. What is the temperature?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q17",
+    "Question_text": "A thermocouple is a type of thermometer. Which statement applies to a thermocouple?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q18",
+    "Question_text": "A heater is designed to radiate thermal energy. Which change to the design decreases the thermal energy emitted by radiation?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q19",
+    "Question_text": "A sound wave in a solid is represented by a series of lines. The diagram shows compressions C and rarefactions R at one instant in time. Which statement is correct?",
+    "image": "A diagram illustrating a sound wave in a solid, represented by a series of vertical lines. The lines are grouped into alternating regions: 'C' for compression (lines close together) and 'R' for rarefaction (lines spread apart). The pattern shows R-C-R-C-R-C-R.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Transverse & Longitudinal Waves",
+      "Features of Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q20",
+    "Question_text": "Which diagram shows reflection by a plane mirror?",
+    "image": "Four diagrams (A, B, C, D) depicting light rays interacting with a mirror surface. Diagram A correctly illustrates reflection from a plane mirror, with incident rays striking the mirror and reflected rays obeying the law of reflection (angle of incidence equals angle of reflection). The other diagrams show incorrect reflections or non-specular reflections.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q21",
+    "Question_text": "Light is incident on a plastic block of refractive index 1.5. The angle of incidence is 50°. What is the angle of refraction?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q22",
+    "Question_text": "A solid plastic cylinder is immersed in a liquid of refractive index 1.4. Light travelling in the plastic cylinder strikes the inside surface at an angle of incidence of 70°. The light undergoes total internal reflection. What are the values of the critical angle in the plastic and the refractive index of the plastic?",
+    "image": "A diagram illustrating total internal reflection. Light traveling within a plastic cylinder strikes the internal boundary with an external liquid. The angle of incidence is shown as 70°. The light ray is reflected back into the plastic cylinder. The liquid is labeled with a refractive index of 1.4, and the reflected ray is shown.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Total Internal Reflection",
+      "Snell's Law"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q23",
+    "Question_text": "The ray diagrams, X and Y, show two ways in which a thin converging lens produces an image that is larger than the object. Which devices use a lens as shown in diagram X and in diagram Y?",
+    "image": "Two ray diagrams, X and Y, showing image formation by a thin converging lens. In diagram X, an object is placed beyond the focal point but within 2F, resulting in a real, inverted, and magnified image. In diagram Y, an object is placed within the focal length, resulting in a virtual, upright, and magnified image.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Uses of Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q24",
+    "Question_text": "The diagram shows the electromagnetic spectrum with three components named. The spectrum is in order from long wavelength to short wavelength. Which component of the spectrum is used in a sunbed to produce a suntan?",
+    "image": "A diagram illustrating the electromagnetic spectrum, arranged from long wavelength to short wavelength. 'radio waves' are on the far left, 'visible light' is towards the center, and 'gamma rays' are on the far right. There are four blank sections labeled A, B, C, D in between these named parts, representing other regions of the spectrum (Microwave, Infrared, Ultraviolet, X-ray).",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q25",
+    "Question_text": "Which row gives the speed of sound in air, in water and in steel?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q26",
+    "Question_text": "A compass needle is moved to different places around a strong bar magnet. Which position shows incorrectly the direction of the compass needle?",
+    "image": "A diagram of a vertical bar magnet with its North pole at the top and South pole at the bottom. Four compass needles are shown at positions A (top-left), B (top-right), C (bottom-middle), and D (mid-left) around the magnet. The compass needle at position C is shown pointing downwards, away from the South pole, which is incorrect as the South pole attracts the North pole of the compass.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetic Fields",
+      "Plotting Magnetic Fields",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q27",
+    "Question_text": "A plastic block is rubbed with a silk handkerchief and the block becomes charged. What causes the block to become charged?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q28",
+    "Question_text": "A negatively-charged rod is brought near to an uncharged metal sphere on an insulating stand. Which diagram shows the charge distribution on the sphere?",
+    "image": "Four diagrams (A, B, C, D) showing a negatively-charged rod brought close to an uncharged metal sphere, which is supported on an insulating stand. Diagram A correctly illustrates electrostatic induction, where positive charges are induced on the side of the sphere nearest the rod, and negative charges are repelled to the opposite side.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Electric Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q29",
+    "Question_text": "A 6.0 V battery, three resistors and three voltmeters are connected in the circuit shown. The reading on voltmeter 1 is 2.0 V. What is the reading on voltmeter 2 and what is the reading on voltmeter 3?",
+    "image": "A circuit diagram showing a 6.0V battery connected in series with a resistor. Voltmeter 1 is connected in parallel across this first series resistor. After this resistor, the circuit splits into two parallel branches, each containing a resistor. Voltmeter 2 is connected across the resistor in the lower of the two parallel branches. Voltmeter 3 is connected across both parallel branches, measuring the potential difference across the entire parallel section of the circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Current in Circuits",
+      "Potential Difference in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q30",
+    "Question_text": "A piece of wire has a resistance of 16 Ω. The wire is 20 cm long and has a cross-sectional area of 2.0 mm². Which wire of the same material has a resistance of 8.0 Ω?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q31",
+    "Question_text": "The battery in a circuit contains two identical cells connected in parallel. Which row shows the relationship between currents I₁ and I₂ and gives the electromotive force (e.m.f.) of the battery?",
+    "image": "A circuit diagram depicting two identical cells, each labeled 2.0V, connected in parallel. These parallel cells are connected to an external load (represented by a resistor). Current I₁ is shown flowing from the upper cell, and current I₂ from the lower cell, both contributing to the total current in the external circuit.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electromotive Force & Potential Difference",
+      "Current in Circuits",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q32",
+    "Question_text": "The diagram shows the circuit for a hair-dryer. The fan motor has a power rating of 0.10 kW and the heaters each have a rating of 0.40 kW. The cost of electricity is 8.0 cents/kWh. What is the cost of running the hair-dryer for two hours with switches P and Q closed and switch R open?",
+    "image": "A circuit diagram for a hair-dryer. It includes a fan motor (M) and two heater elements connected in parallel. There are three switches: P, Q, and R. Switch P controls the fan motor. Switch Q controls the upper heater element. Switch R controls the lower heater element.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Energy"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q33",
+    "Question_text": "Why is the coil of an electric motor wound on a soft-iron cylinder?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors",
+      "Magnetic Effect of a Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q34",
+    "Question_text": "A straight wire carries a current into the paper. The diagram shows three magnetic field lines around the wire. The current in the wire increases. What is the direction of the field lines and which change occurs to the field lines as the current increases?",
+    "image": "A diagram showing three concentric circles around a central 'X', which represents a straight wire carrying current into the paper. These circles depict the magnetic field lines around the wire. A 'key' indicates that 'X' means 'current into paper'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Magnetic Effect of a Current",
+      "Magnetic Fields"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q35",
+    "Question_text": "Which particles are emitted by a hot metal filament?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q36",
+    "Question_text": "A circuit includes a thermistor and a light-dependent resistor (LDR). The resistance of the thermistor and the resistance of the LDR both increase. Which changes cause this?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q37",
+    "Question_text": "A sample contains atoms of an isotope that has a half-life of 7.2 years. Which quantity halves every 7.2 years?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life",
+      "Radioactive Decay"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q38",
+    "Question_text": "A beam, consisting of alpha-particles (α), beta-particles (β), and gamma rays (γ), passes into a magnetic field. Which diagram shows their paths in the magnetic field?",
+    "image": "Four diagrams (A, B, C, D) illustrating the paths of alpha-particles (α), beta-particles (β), and gamma rays (γ) as they enter a region with a uniform magnetic field (indicated by shading, implying into the page). Diagram A correctly shows alpha particles deflecting upwards, beta particles deflecting downwards (with a greater curvature), and gamma rays passing undeflected through the field.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Detection of Radioactivity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q39",
+    "Question_text": "A narrow beam of alpha-particles is fired at a thin piece of gold foil. What is the final direction of the largest number of alpha-particles?",
+    "image": "A diagram depicting the Rutherford scattering experiment setup. A narrow beam of alpha-particles is shown incident on a thin gold foil. Four possible paths for the alpha-particles after interacting with the foil are indicated by arrows labeled A, B, C, and D, showing various degrees of deflection.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Nuclear Model of the Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "October-November/12/2017/Q40",
+    "Question_text": "A nucleus of phosphorus (³¹₁₅P) emits a beta-particle to form a new nucleus. What is the nucleon number and what is the proton number of the new nucleus?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  }
+]

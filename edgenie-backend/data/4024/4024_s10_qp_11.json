@@ -1,0 +1,590 @@
+[
+  {
+    "QuestionNumber": "May/June/2010/Q1",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with fractions",
+      "Order operations correctly"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "1/2 + 2/9",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "2/3 ÷ 9/11",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q2",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with integers",
+      "Order operations correctly",
+      "Calculate percentage of quantity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Evaluate 10 - 8 ÷ 2 + 3.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find 20% of 60 cm.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q3",
+    "Question_text": "Sara carries out a survey of the colours of cars in a car park. She draws a pie chart to represent her results.",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.4 Statistical charts and diagrams",
+    "Sub_topic": [
+      "Draw and interpret pie charts",
+      "Carry out calculations involving circumference and area of a circle"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "There are 7 red cars. The angle representing the red cars is 40°. Calculate the total number of cars in the car park.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Sara's pie chart is a circle with circumference 28 cm. Find, in terms of π, the diameter of the circle.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q4",
+    "Question_text": "Ed goes on a car journey. The first 60km of the journey takes 45 minutes. The remaining 20 km of the journey takes 30 minutes. Calculate his average speed, in kilometres per hour, for the whole journey.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.12 Rates",
+    "Sub_topic": [
+      "Solve average speed problems",
+      "Calculate with time units"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q5",
+    "Question_text": "The bearing of a lighthouse from a ship, S, is 220°. The position of S is marked on the diagram.",
+    "image": "A diagram showing four points A, B, C, D and a point S with a North arrow. Point S is located below points C and D, and a North arrow points upwards from S. Point A is top right, D is top left. C is bottom left, B is bottom right. A line connecting S to A, B, C, D is not explicitly drawn, but S is the origin for the bearing.",
+    "Unit": "Geometry",
+    "Topic": "4.3 Scale drawings",
+    "Sub_topic": [
+      "Use and interpret three-figure bearings",
+      "Use and interpret geometrical terms"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Which of the four points A, B, C or D is a possible position of the lighthouse?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down the bearing of S from the lighthouse.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q6",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.6 Inequalities",
+    "Sub_topic": [
+      "Construct, solve and interpret linear inequalities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Solve 6x - 5 < 9 + 2x.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down the largest integer which satisfies the inequality 6x - 5 < 9 + 2x.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q7",
+    "Question_text": "Given that n is an integer and n > 1, decide whether each statement in the table is true or false. For each statement write true or false in the table. If you write false, give an example to justify your decision.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.1 Types of number",
+    "Sub_topic": [
+      "Identify integers",
+      "Understand positive indices",
+      "Use and interpret symbols (=, ≠, >, <, ⩾, ⩽)",
+      "Know that letters can be used to represent generalised numbers"
+    ],
+    "Parts": [
+      {
+        "part_label": "Statement 1",
+        "part_text": "n³ > 1",
+        "image": null
+      },
+      {
+        "part_label": "Statement 2",
+        "part_text": "1/n > 1/n²",
+        "image": null
+      },
+      {
+        "part_label": "Statement 3",
+        "part_text": "(n - 1)(n + 3) is always odd",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q8",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.11 Ratio and proportion",
+    "Sub_topic": [
+      "Divide quantity by ratio",
+      "Use proportional reasoning"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The ratio of Sayed's age to his mother's age is 2:7. Sayed is 14 years old. How old is his mother?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The ratio of Fatima's age to her father's age is 3:8. The total of their ages is 66 years. How old is Fatima?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q9",
+    "Question_text": "Pencils are packed in a box. Each pencil has a diameter of 7 mm, correct to the nearest millimetre.",
+    "image": "A diagram showing a cross-section of three pencils arranged side-by-side in a box, represented by three circles tangent to each other and the base of a rectangle. The circles represent pencils.",
+    "Unit": "Number",
+    "Topic": "1.10 Limits of accuracy",
+    "Sub_topic": [
+      "Give lower bounds",
+      "Convert quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the lower bound of the diameter of a pencil.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the smallest width of a box that can always hold 8 pencils side by side. Give your answer in centimetres.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q10",
+    "Question_text": "Evaluate",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.6 The four operations",
+    "Sub_topic": [
+      "Use operations with decimals",
+      "Understand fractional indices",
+      "Calculate other powers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "0.2 × 0.06,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "3 ÷ 0.01,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "27^(1/3).",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q11",
+    "Question_text": "The diagram shows two circles, both with centre O. CD is a diameter of the small circle and AB is a diameter of the large circle. Using congruent triangles, show that BD = AC. State your reasons clearly.",
+    "image": "A diagram showing two concentric circles with a common center O. A larger circle has diameter AB, and a smaller circle has diameter CD. Points A, C, D, B are on the circumference of their respective circles, forming triangles OAC and OBD.",
+    "Unit": "Geometry",
+    "Topic": "4.1 Geometrical terms",
+    "Sub_topic": [
+      "Use and interpret vocabulary of a circle",
+      "Solve problems and give simple explanations involving similarity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q12",
+    "Question_text": "In the diagram, the region, R, is bounded by the lines AB, BC, CD and DA.",
+    "image": "A coordinate plane with x and y axes. A quadrilateral region labeled R is shown with vertices A(0,6), B(3,8), C(4,4), D(0,4).",
+    "Unit": "Coordinate geometry",
+    "Topic": "3.4 Length and midpoint",
+    "Sub_topic": [
+      "Find the coordinates of the midpoint of a line segment",
+      "Represent and interpret linear inequalities in two variables graphically",
+      "List inequalities that define a given region"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down the coordinates of the midpoint of AB.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Region R is defined by four inequalities. One of these is y ≤ x + 5. Write down the other three inequalities.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q13",
+    "Question_text": "Two families ordered three basic food items from their local shop. The Jones family ordered 1 bag of sugar, 4 cartons of milk and 3 loaves of bread. The Singh family ordered no sugar, 3 cartons of milk and 5 loaves of bread. Their orders can be represented by the matrix A where A = [[1, 0], [4, 3], [3, 5]]. The cost of a bag of sugar is 80 cents, the cost of a carton of milk is 50 cents and the cost of a loaf of bread is 40 cents. This information can be represented by the matrix B where B = (80 50 40).",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.2 Algebraic manipulation",
+    "Sub_topic": [
+      "Expand products of algebraic expressions",
+      "Construct expressions, equations and formulas"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Work out BA.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "What does the matrix BA represent?",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q14",
+    "Question_text": "Ida keeps a record of time spent on the internet each day. Her results are summarised in the table. On the axes below, draw a histogram to show these results.",
+    "image": "A table showing time intervals (t minutes) and corresponding frequencies. Intervals are 0≤t<10 (4), 10≤t<30 (20), 30≤t<60 (39), 60≤t<100 (32), 100≤t<120 (6). Below the table is a set of axes for drawing a histogram, with 'Frequency density' on the y-axis (from 0 to 1.8) and 'Time (t minutes)' on the x-axis (from 0 to 120).",
+    "Unit": "Statistics",
+    "Topic": "9.7 Histograms",
+    "Sub_topic": [
+      "Draw and interpret histograms",
+      "Classify and tabulate statistical data"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q15",
+    "Question_text": "Ahmed goes shopping.",
+    "image": null,
+    "Unit": "Number",
+    "Topic": "1.16 Money",
+    "Sub_topic": [
+      "Calculate with money",
+      "Convert currencies"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "In one shop he buys shorts for $26.84 and a shirt for $13.97. How much does Ahmed spend altogether?",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "In another shop he buys 15 postcards for 46 cents each. Calculate the total cost, in dollars, of the postcards.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The rate of exchange between pounds (£) and dollars ($) was £1 = $2.50. Calculate the total cost of the postcards in pounds.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q16",
+    "Question_text": "Dai played three games of cricket. His mean score was 9 runs. His median score was 8 runs. His highest score was 7 runs more than his lowest score.",
+    "image": null,
+    "Unit": "Statistics",
+    "Topic": "9.3 Averages and measures of spread",
+    "Sub_topic": [
+      "Calculate mean, median, mode and range for individual data and distinguish purposes"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the number of runs he scored in each of the three games.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Dai batted in a fourth game. The mean of his four scores was 11 runs. Find the number of runs that Dai scored in the fourth game.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q17",
+    "Question_text": "y is inversely proportional to x². Some values of y and x are given in the table below.",
+    "image": "A table with two rows labeled x and y, and three columns of values. For x: 3, 2, 9. For y: 4, p, 1.",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.8 Proportion",
+    "Sub_topic": [
+      "Express direct and inverse proportion in algebraic terms and use this form of expression to find unknown quantities"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the formula for y in terms of x,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "the value of p,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "the two values of q.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q18",
+    "Question_text": "In the diagram, AB is parallel to EC. D is the point on EC such that ED = EA. ∠ABC = 135° and ∠ADE = 65°.",
+    "image": "A diagram showing parallel lines AB and EC. A transversal line AE connects point A to point E on EC. A transversal line BC connects point B to point C on EC. Point D is on EC between E and C. A line segment AD is drawn. Angles given are ∠ABC = 135° and ∠ADE = 65°. A-B and E-C have arrowheads indicating they are parallel lines. Side ED is marked equal to side EA with tick marks.",
+    "Unit": "Geometry",
+    "Topic": "4.6 Angles",
+    "Sub_topic": [
+      "Calculate unknown angles for parallel lines: corresponding equal, alternate equal, co-interior sum to 180°",
+      "Know and use angle properties of regular and irregular polygons",
+      "Use and interpret geometrical terms"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find AÊD,",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "DÂB,",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "BĈD,",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "reflex AḂC.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q19",
+    "Question_text": "Some data about two planets, Earth and Mars, is shown in the table.",
+    "image": "A table comparing data for Earth and Mars, including Average temperature (°C), Mass (tonnes) in standard form, and Volume (km³) in standard form and words.",
+    "Unit": "Number",
+    "Topic": "1.8 Standard form",
+    "Sub_topic": [
+      "Calculate with standard form",
+      "Convert to standard form",
+      "Convert from standard form",
+      "Identify integers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "How much greater is the average temperature on Earth than that on Mars?",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Write down the volume of Mars in standard form.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the difference in mass between Earth and Mars. Give your answer in standard form.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q20",
+    "Question_text": "In the diagram, AC and BD intersect at X. Triangle ABX is similar to triangle CDX. AB = 3 cm, AX = 2 cm and XC = 5 cm.",
+    "image": "A diagram showing two triangles, ABX and CDX, with vertices A, B, C, D and intersection point X. Lines AC and BD intersect at X. AB is parallel to CD (implied by similarity). Lengths AB=3, AX=2, XC=5 are given.",
+    "Unit": "Geometry",
+    "Topic": "4.4 Similarity",
+    "Sub_topic": [
+      "Calculate lengths of similar shapes",
+      "Use relationships between lengths/areas of similar shapes and lengths/surface areas/volumes of similar solids"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Find the ratio of the area of triangle ABX to the area of triangle CDX.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the ratio of the area of triangle ABX to the area of triangle BCX.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate CD.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q21",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.7 Sequences",
+    "Sub_topic": [
+      "Find and use the nth term of sequences",
+      "Factorise expressions of the form: a²x² – b²y²",
+      "Factorise by extracting common factors",
+      "Factorise expressions of the form: ax + bx + kay + kby"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Write down, in terms of n, an expression for the nth term of the sequence 19 16 13 10 .",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Factorise completely 4x² - 25y².",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Factorise completely 5ax – 5a² – 2x + 2a.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q22",
+    "Question_text": "A walker leaves his house at 10 00 and walks towards a shopping centre at a constant speed of 5 km/h. A cyclist leaves the same house 10 minutes later. He travels along the same road at a constant speed of 20 km/h until he reaches the shopping centre which is 6 km from the house. The cyclist stops at the shopping centre for 14 minutes. He then returns to the house along the same road at a constant speed of 20 km/h.",
+    "image": "A distance-time graph with 'Distance from house (km)' on the y-axis (0-6) and 'Time of day' on the x-axis (10 00 to 11 10). The walker's journey is already plotted as a straight line starting from (10:00, 0) and reaching (11:12, 6).",
+    "Unit": "Algebra and graphs",
+    "Topic": "2.9 Graphs in practical situations",
+    "Sub_topic": [
+      "Use and interpret graphs in practical situations including travel graphs and conversion graphs",
+      "Draw graphs from given data",
+      "Apply the idea of rate of change to simple kinematics involving distance–time and speed–time graphs, acceleration and deceleration"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The distance-time graph for the walker is drawn below. On the same axes, draw the distance-time graph for the cyclist.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Using the graphs, find the time when the cyclist, on his return journey, meets the walker,",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "the distance from the house when this meeting takes place.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q23",
+    "Question_text": "A stone is thrown vertically upwards from the ground so that its height above the ground after t seconds is (20t – 5t²) metres.",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Construct expressions, equations and formulas",
+      "Solve quadratic equations by factorisation, completing the square and by use of the quadratic formula"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Show that the values of t when the stone is 15 metres above the ground satisfy the equation t² - 4t + 3 = 0.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Find the values of t when the stone is 15 metres above the ground.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Find the value of t when the stone hits the ground.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May/June/2010/Q24",
+    "Question_text": "",
+    "image": null,
+    "Unit": "Algebra and graphs",
+    "Topic": "2.5 Equations",
+    "Sub_topic": [
+      "Solve linear equations in one unknown",
+      "Solve fractional equations with numerical and linear algebraic denominators",
+      "Solve simultaneous linear equations in two unknowns"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Solve 5 - 2 (3x – 1) = 2x + 1,",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Solve 2/5t = 3/4.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Solve the simultaneous equations 5x - 2y = 16, 2x – 3y = 13.",
+        "image": null
+      }
+    ]
+  }
+]

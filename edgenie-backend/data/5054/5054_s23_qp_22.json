@@ -1,0 +1,408 @@
+[
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q1",
+    "Question_text": "Fig. 1.1 shows the speed-time graph for a car travelling on a straight horizontal road. At time t = 10 s the engine of the car is switched off. The brakes are not applied. Between t = 10s and t = 20s the speed of the car changes from 18m/s to 11 m/s. The mass of the car is 1200 kg.",
+    "image": "A speed-time graph titled 'Fig. 1.1' with speed in m/s on the y-axis (from 0 to 20, with major increments of 10, minor of 2) and time in s on the x-axis (from 0 to 50, with major increments of 10, minor of 2). The graph shows: an initial segment of constant speed at 20 m/s from t=0 to t=10s; followed by a segment where speed decreases, forming a curve, from t=10s to t=50s. At t=10s, speed is 20 m/s. At t=20s, speed is approximately 11 m/s. At t=50s, speed is approximately 0 m/s.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration",
+      "Calculating Acceleration from Speed-Time Graphs",
+      "Impulse",
+      "Momentum",
+      "Newton's Second Law",
+      "Resultant Forces",
+      "Speed & Velocity",
+      "Speed-Time Graphs"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Describe the motion of the car shown in Fig. 1.1.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Name two forces that act on the car to cause the change in motion after t = 10s.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest why Fig. 1.1 is a curve after t = 10s.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Calculate the change in momentum of the car in this time. Give the unit of your answer",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the average resultant force exerted on the car during this time.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q2",
+    "Question_text": "Fig. 2.2 shows a rider on an electric scooter. The scooter contains a battery and a motor to drive the back wheel. The total mass of the scooter and the rider is 70kg. Calculate the total kinetic energy of the rider and scooter when the scooter has a speed of 4.0m/s. The battery is marked 'energy capacity 0.35 kilowatt-hour (kWh)'. The battery is then recharged using a 70W power supply.",
+    "image": "Fig. 2.2 shows a side view illustration of a person riding an electric scooter. The person is standing upright on the scooter's deck, holding handlebars. The scooter has two wheels and a visibly integrated battery/motor unit near the rear wheel.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Energy Stores & Transfers",
+      "Kinetic Energy",
+      "Power",
+      "Work"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of the energy store in the battery.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Describe, in terms of work done, the stages of energy transfer from the energy store in the battery to the kinetic energy of the scooter.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the total kinetic energy of the rider and scooter when the scooter has a speed of 4.0m/s.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Define what is meant by a kilowatt-hour.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the time taken to fully recharge the battery.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q3",
+    "Question_text": "A fixed mass of gas in a glass tube is trapped by a seal at one end of the tube and by a column of mercury. The mercury is free to move within the tube. The tube is rotated slowly from the vertical as shown in Fig. 3.1 to the horizontal as shown in Fig. 3.2. The volume of the gas increases and its temperature remains constant. In Fig. 3.1 the length of the mercury column is 0.30m. The density of mercury is 14000kg/m³. Atmospheric pressure is 1.0 × 10⁵ Pa.",
+    "image": "Fig. 3.1 (not to scale) shows a vertical glass tube. It contains a sealed end at the bottom, above which is trapped gas, and above that is a column of mercury of length 0.30m. Fig. 3.2 (not to scale) shows the same glass tube rotated to a horizontal position. The column of mercury is now horizontal, trapping the gas between it and the sealed end.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Atmospheric pressure",
+      "Density",
+      "Gases & Absolute Temperature",
+      "Particle Model",
+      "Pressure & Forces",
+      "Pressure in a Liquid",
+      "States of Matter",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Describe why rotating the tube changes the pressure of the gas in the sealed end.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain, using ideas about particles, why the pressure of the gas decreases when its volume increases.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Calculate the pressure of the gas in the tube.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "On Fig. 3.3, sketch the graph as the pressure of the gas decreases from 2P₀ to ½P₀.",
+        "image": "Fig. 3.3 is a pressure-volume graph with 'pressure' on the y-axis (labeled 0, 1/2P₀, P₀, 2P₀) and 'volume' on the x-axis (labeled 0, 1/2V₀, V₀, 2V₀). A single point 'X' is marked on the graph at coordinates (V₀, P₀)."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q4",
+    "Question_text": "Fig. 4.1 shows the particles (atoms) at one instant in a sample of iron at a temperature below its melting point. The temperature of the solid increases. The sample remains a solid. The solid melts. A student places a 300g piece of iron in boiling water until the iron is at a temperature of 100°C, removes the iron from the water and places it immediately into 100g of water at 25°C. The iron cools and the water warms until both reach the same temperature, 44°C. The specific heat capacity of water is 4.2 J/(g°C). No energy is lost to the surroundings.",
+    "image": "Fig. 4.1 shows a regular, ordered arrangement of spheres representing particles (atoms) in a solid lattice structure, depicted as a 4x4 array of interconnected spheres.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Particle Model",
+      "Specific Heat Capacity",
+      "States of Matter",
+      "Temperature & Pressure"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the lowest possible temperature on the Celsius scale and on the Kelvin scale.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The temperature of the solid increases. The sample remains a solid. Describe how the motion of the particles changes.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The solid melts. State what happens to the internal energy and the temperature of the solid as it melts.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Calculate the change in energy (internal energy) of the water as it warms up.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the specific heat capacity of iron.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q5",
+    "Question_text": "Water waves are transverse waves. Fig. 5.1 shows a wooden bar and a glass block in a ripple tank. The depth of water in the tank is less than the height of the glass block. The wooden bar moves up and down once every 0.15s to create the crests. The speed of the water wave is 27cm/s. The wave diffracts at the right-hand edge of the glass block.",
+    "image": "Fig. 5.1 (not to scale) shows a ripple tank setup. A wooden bar is positioned on the left, generating parallel wavefronts (crests) that propagate to the right. A rectangular glass block is placed in the path of these waves, occupying a central portion of the tank. The waves are shown approaching and passing over the glass block, with the question implying diffraction occurs at the block's right-hand edge.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Electromagnetic Waves",
+      "Features of Waves",
+      "Ripple Tank",
+      "Sound Waves",
+      "The Wave Equation",
+      "Transverse & Longitudinal Waves",
+      "Wave Behaviour",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Underline two other examples of transverse waves. seismic P-waves, seismic S-waves, sound, X-rays",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The speed of the water wave is 27cm/s. Calculate the frequency and the wavelength of the wave.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The wave diffracts at the right-hand edge of the glass block. On Fig. 5.1 draw two crests after they pass the glass block to show the diffraction.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Describe how a wave with a smaller wavelength is made with the wooden bar.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Describe how a decrease in wavelength affects the diffraction.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q6",
+    "Question_text": "Fig. 6.1 shows an electric circuit containing a filament lamp, a resistor R, a 12V battery and five meters. The reading on ammeter A₁ is 0.25A. The reading on voltmeter V₁ is 3.0V. The resistor obeys Ohm's law. The battery in Fig. 6.1 is replaced with a different battery which has a different e.m.f. (electromotive force). The voltage across the lamp increases to 6.0V.",
+    "image": "Fig. 6.1 shows an electric circuit diagram. A 12V battery is connected in series with an ammeter A₁. The circuit then splits into two parallel branches. One branch contains a filament lamp in series with ammeter A₂; a voltmeter V₁ is connected in parallel across the lamp. The other branch contains a resistor R in series with ammeter A₃; a voltmeter V₂ is connected in parallel across resistor R. Fig. 6.2 shows a current-voltage graph for the filament lamp, with current (A) on the y-axis (0 to 0.40) and voltage (V) on the x-axis (0 to 12). The graph is a non-linear curve, starting at the origin and showing current increasing with voltage at a decreasing rate.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance",
+      "Current in Circuits",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Potential Difference in Circuits",
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "The reading on ammeter A₁ is 0.25A. The reading on voltmeter V₁ is 3.0V. Determine the readings on the other meters.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Calculate the resistance of resistor R.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "The resistor obeys Ohm's law. State Ohm's law.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The battery in Fig. 6.1 is replaced with a different battery which has a different e.m.f. (electromotive force). The voltage across the lamp increases to 6.0V. Use data from the graph to determine the e.m.f. of the second battery. Show your working.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q7",
+    "Question_text": "Ultraviolet radiation is one component of the electromagnetic spectrum. Fig. 7.1 shows a ray of light. The ray passes into a semi-circular block of glass at A and leaves the glass at B, travelling along the surface to C.",
+    "image": "Fig. 7.1 shows a diagram of a semi-circular glass block. A ray of light, labeled A, enters the flat side of the block. Inside the block, it strikes the curved surface from the inside, with the angle of incidence marked as 40° relative to the normal. The ray then travels along the curved surface from point B to point C, indicating that the critical angle has been reached or exceeded.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dangers of Electromagnetic Waves",
+      "Electromagnetic Waves",
+      "Refraction of Light",
+      "Snell's Law",
+      "Total Internal Reflection",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of two components of the electromagnetic spectrum that have a smaller wavelength than ultraviolet radiation.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State one useful application of ultraviolet radiation.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Exposure to ultraviolet radiation from the Sun damages the eyes. State one type of damage to the eye caused by ultraviolet radiation.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the name given to the angle of incidence marked as 40°.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the refractive index of the glass.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q8",
+    "Question_text": "Fig. 8.1 shows a step-down transformer used to operate an electric bell. The transformer has 4600 turns on the primary coil which is connected to a mains supply of 230 V. An output of 5.0V is used to operate the bell.",
+    "image": "Fig. 8.1 shows a schematic diagram of a transformer. It consists of a laminated iron core with a primary coil wrapped around one limb and a secondary coil wrapped around the other. The primary coil is connected to 'input voltage', and the secondary coil to 'output voltage'. The primary coil is shown with significantly more turns than the secondary coil, indicating it's a step-down transformer.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Transformer Calculations",
+      "Transformers"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the material used for the core of the transformer.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "A current in the primary coil produces a magnetic field in the core. Explain how an alternating voltage is produced in the secondary coil.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "The transformer has 4600 turns on the primary coil which is connected to a mains supply of 230 V. An output of 5.0V is used to operate the bell. Calculate the number of turns needed on the secondary coil.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "State one change that can be made to the transformer shown in Fig. 8.1 so that it can be used as a step-up transformer.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q9",
+    "Question_text": "A radioactive source emits α-particles, β-particles and γ-radiation. Fig. 9.1 shows a Geiger-Müller (G.M.) tube and counter. A radioactive source is placed 10cm from the G.M. tube. In Fig. 9.2 a piece of metal 5mm thick is placed between the source and the G.M. tube. The readings on the counter have been corrected for background radiation and show the count rate due to the source.",
+    "image": "Fig. 9.1 shows a radioactive source positioned 10 cm from a Geiger-Müller (G.M.) tube, which is connected to a counter displaying '800'. Fig. 9.2 shows the same setup, but with a 5 mm thick piece of metal placed between the radioactive source and the G.M. tube, and the counter now displays '200'.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Background Radiation",
+      "Dangers of Radiation",
+      "Detection of Radioactivity",
+      "The Atom",
+      "The Nucleus",
+      "The Three Types of Emission"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State which type of radiation produces the strongest ionising effect.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "State which type of radiation is deflected most by a magnetic field.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Explain how the readings show that the source emits β-particles and γ-radiation.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State why the readings cannot be used to show that the source emits α-particles.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Describe one way that a radioactive source is moved safely in a school laboratory.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "5054/22/M/J/23/Q10",
+    "Question_text": "Astronomical distances are measured in light-years. The Sun is one star in the Milky Way galaxy. There are several stages in the life cycle of a star. Current scientific understanding is that the universe began 14 billion years ago in an event known as the Big Bang.",
+    "image": "Fig. 10.1 displays a flowchart illustrating the life cycle of a massive star. It starts with 'massive star (much larger than our Sun)', flows to 'red supergiant'. Below 'red supergiant' are two empty boxes in sequence. The final stage splits into 'neutron star' and 'and black hole or [empty box]', with a single empty box after 'neutron star'. The diagram requires completion using provided terms.",
+    "Unit": "UNIT 6: SPACE PHYSICS",
+    "Topic": "6.2 Stars & The Universe",
+    "Sub_topic": [
+      "Stars",
+      "The Solar System",
+      "The Sun as a Star",
+      "The Universe"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State what is meant by 'a light-year'.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "The Sun is one star in the Milky Way galaxy. State the approximate diameter of the Milky Way galaxy.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Complete Fig. 10.1 to show the stages that a massive star goes through after it has used up most of the hydrogen at the centre of the star. Use words from the following list: nebula, neutron star, protostar, red giant, supernova, white dwarf",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "State the stage in the life cycle of a star where heavy elements are formed.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain one observation that supports the Big Bang Theory.",
+        "image": null
+      }
+    ]
+  }
+]

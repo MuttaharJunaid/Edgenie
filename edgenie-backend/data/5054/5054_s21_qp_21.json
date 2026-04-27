@@ -1,0 +1,392 @@
+[
+  {
+    "QuestionNumber": "May-June/21/2021/Q1",
+    "Question_text": "An aircraft flies at a constant height. Air drag and the force from the aircraft's engines together produce a force on the aircraft of 36 kN due north, as shown in Fig. 1.1. The wind produces a force of 12 kN towards the east.",
+    "image": "Fig. 1.1 shows an aircraft with two forces acting on it: 36 kN acting North (upwards) and 12 kN acting East (to the right). The aircraft is labeled '12 kN' on its left wing and '36 kN' above the fuselage, with an arrow pointing North explicitly labeled. The drawing is noted as 'not to scale'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors",
+      "Acceleration",
+      "Newton's Second Law"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Draw a scale drawing to show the resultant force acting on the aircraft. Use your drawing to determine the size of the resultant force and the angle between the resultant force and north.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Describe how a uniform acceleration differs from a non-uniform acceleration.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The mass of the aircraft is 60000kg. Calculate the acceleration of the aircraft.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q2",
+    "Question_text": "Fig. 2.1 shows a hollow metal cube filled with boiling water. The temperature of the four vertical surfaces are equal but each surface has a different colour or texture. A thermal radiation sensor is placed the same distance from each surface and the meter reading measures the thermal radiation emitted from each surface.",
+    "image": "Fig. 2.1 shows a hollow metal cube filled with boiling water, labeled 'metal cube'. It has a surface labeled 'shiny white surface'. A thermal radiation sensor, connected to a meter displaying '40', is positioned to measure radiation from the cube's surfaces.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Convection",
+      "Investigating Radiation"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The results are shown in Fig. 2.2. Draw a line linking each type of surface with the appropriate meter reading. One line has been drawn for you.",
+        "image": "Fig. 2.2 shows a table with two columns: 'type of surface' and 'meter reading'. The types of surfaces are 'dull black', 'dull white', 'shiny black', 'shiny white'. The meter readings are '40', '60', '80', '100'. A line is drawn connecting 'dull black' to '40'."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The hot surfaces produce a convection current in the air outside the metal cube. Describe how the convection current is produced.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q3",
+    "Question_text": "A hot steel rod is cooled by plunging it into cold water, as shown in Fig. 3.1.",
+    "image": "Fig. 3.1 depicts a person using tongs to plunge a hot 'steel rod' into a bucket of water. There's also a background element suggesting a forge or heat source.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity",
+      "Melting, Boiling & Evaporation",
+      "Evaporation",
+      "Kinetic Particle model of matter"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The steel rod has a mass of 2.0 kg and is initially at a temperature of 500 °C. It cools to 50 °C when placed in the water. The specific heat capacity of steel is 460 J/(kg°C). Calculate the thermal energy (heat) lost by the steel rod as it cools to 50 °C.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "A small mass of water boils when the rod is placed in the water. The remaining water then cools to room temperature and some of it evaporates. In both boiling and evaporation, water molecules escape into the air. State one way in which boiling is different from evaporation.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The rate of evaporation decreases as the water cools. Explain why this happens, using ideas about molecules.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q4",
+    "Question_text": "Fig. 4.1 shows a wave on a rope and Fig. 4.2 shows a wave on a spring. Both waves are moving in the direction shown by the arrows.",
+    "image": "Fig. 4.1 shows a transverse wave on a rope, with arrows indicating movement to the right. Fig. 4.2 shows a longitudinal wave on a spring, with compressions and rarefactions, also with an arrow indicating movement to the right. A point 'X' is marked on the spring in Fig. 4.2.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "Transverse & Longitudinal Waves",
+      "The Wave Equation",
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Electromagnetic Waves",
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "State the name of each of the two types of wave shown. Fig. 4.1, Fig. 4.2",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "On Fig. 4.1, draw a wave which has a smaller frequency than the wave shown.",
+        "image": null
+      },
+      {
+        "part_label": "a(iii)",
+        "part_text": "Describe the movement of point X on the spring in Fig. 4.2 as the wave passes.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Table 4.1 shows some sentences that a student writes about waves. His teacher places a ring around each mistake. Write a suitable correction for each mistake in Table 4.1. One has been done for you.",
+        "image": "Table 4.1 contains two columns: 'sentence' and 'correction'. Sentences include: 'Sound travels at 3.0 x 10^8 m/s in air.', 'Sound with a higher pitch has a larger amplitude.', 'X-rays are used for pre-natal scanning.', 'In the electromagnetic spectrum, microwaves have the highest frequency.'. The first correction, '330', is provided next to 'Sound travels at 3.0 x 10^8 m/s in air.'."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q5",
+    "Question_text": "Fig. 5.1 shows part of the ray diagram of a lens being used as a magnifying glass. Three rays are shown coming from the top of an object O. The points labelled F are one focal length from the lens.",
+    "image": "Fig. 5.1 displays a ray diagram for a converging (convex) lens. An object 'O' is placed within the focal length 'F'. Three rays originate from the top of 'O': one parallel to the principal axis and refracting through the far focal point, one passing through the center of the lens unrefracted, and one aiming towards the near focal point and refracting parallel to the principal axis. Ray 'R' is explicitly labeled as the ray passing through the center of the lens. The diagram shows the path of two rays after refraction, but not the complete image formation for a magnifying glass.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Uses of Lenses",
+      "Refraction of Light",
+      "Linear Magnification"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "State the name of the type of lens shown in Fig. 5.1.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Describe what happens to the ray of light R: • as it enters the lens • as it leaves the lens.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Using all three rays from O, complete Fig. 5.1 to show the image formed.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Underline all of the words in the list that describe the image formed in (c). inverted upright real virtual",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q6",
+    "Question_text": "A student moves a metal bar upwards between the poles of a magnet, as shown in Fig. 6.1. The ammeter connected to the metal bar shows a small positive reading as the bar moves.",
+    "image": "Fig. 6.1 shows a metal bar moving upwards between the North (N) and South (S) poles of a magnet. The bar is connected to an ammeter (A), forming a circuit. An arrow indicates the 'direction of movement' of the metal bar.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Explain why there is a reading on the ammeter.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Complete Table 6.1 by stating what the ammeter shows when the metal bar moves in the direction shown by the arrow in each diagram.",
+        "image": "Table 6.1 shows three scenarios involving a metal bar, magnet poles (N and S), and an ammeter (A). The first scenario shows the metal bar moving downwards between the N and S poles. The second scenario shows the metal bar moving horizontally to the right, parallel to the magnetic field lines between the N and S poles. The third scenario shows the metal bar moving diagonally upwards and to the right, entering the magnetic field between the N and S poles from a lower position."
+      },
+      {
+        "part_label": "c",
+        "part_text": "The student finds that using a stronger magnet increases the reading on the ammeter. State one other way in which the student can produce a larger reading on the ammeter, using the same rod.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Describe how Lenz's law applies when the bar is moved upwards.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q7",
+    "Question_text": "Fig. 7.1 shows two circuit components.",
+    "image": "Fig. 7.1 displays two circuit symbols: one for a thermistor (resistor with a diagonal line and T-bar) and one for an LDR (Light Dependent Resistor, with a resistor in a circle and two incoming arrows for light).",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Electrical Energy",
+      "Circuit Diagrams & Circuit Components"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "For each of these components state what causes an increase in its resistance. thermistor LDR",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 7.2 shows a battery connected to a diode, an ammeter and a resistor. Fig. 7.3 shows the current-voltage graph for the diode. The current in the resistor is 2.0A and the potential difference across the resistor is 5.4 V. State what is meant by the electromotive force (e.m.f.) of the battery.",
+        "image": "Fig. 7.2 shows a series circuit with a battery, a diode, an ammeter (A), and a resistor. The battery's positive terminal is connected to the anode of the diode. Fig. 7.3 shows a current-voltage graph for a diode, displaying a typical exponential increase in current for positive voltage values after a threshold (around 0.6V) and zero current for negative voltage values."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why the e.m.f. of the battery must be greater than 5.4V.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Calculate the electrical energy input to the resistor in 5.0 minutes.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The circuit is reconnected with the diode in the opposite direction, as shown in Fig. 7.4. Explain what is observed.",
+        "image": "Fig. 7.4 shows the same circuit as Fig. 7.2, but the diode is connected in the opposite direction (reversed bias), with the battery's positive terminal connected to the cathode of the diode."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q8",
+    "Question_text": "Fig. 8.1 shows a stationary horse and its rider, about to jump over two fences.",
+    "image": "Fig. 8.1 shows a horse with a rider, standing next to two fences. Fig. 8.2 shows a detailed side view of the horse and rider.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Third Law",
+      "Centre of Gravity",
+      "Equilibrium",
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Conservation of Energy",
+      "Speed & Velocity"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 8.2, draw and label the forces acting on the horse. Include the force that the rider exerts on the horse. Label this force F.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "Explain how Newton's third law applies to force F.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Fig. 8.3 shows a side view of the two fences. They both have the same height and a uniform density. On each fence in Fig. 8.3, mark with a cross the centre of mass.",
+        "image": "Fig. 8.3 shows a side view of two fences. Both fences have the same height. The first fence is narrow, and the second fence has a wider base."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain why a wider base makes the fence more stable.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "The total mass of the horse and rider is 520 kg. As they approach a fence, the horse and rider have a total kinetic energy of 4000 J. Calculate their speed.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "The centre of mass of the horse and rider is 1.4 m above the ground. The maximum potential energy gained by the horse and rider as they jump over the fence is 3000 J. Calculate the maximum height above the ground of the centre of mass during the jump. The gravitational field strength g = 10 N/kg.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q9",
+    "Question_text": "Fig. 9.1 is the current-voltage graph for a filament lamp.",
+    "image": "Fig. 9.1 shows a current-voltage graph for a filament lamp. The current (in A) is on the y-axis, ranging from 0.0 to 1.8. The voltage (in V) is on the x-axis, ranging from 0 to 6. The graph starts at (0,0) and shows a non-linear curve, where the gradient decreases as voltage increases, indicating increasing resistance. Specific points are marked, for example, at 0.4V, current is approx 0.1A; at 6.0V, current is approx 1.6A.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Fig. 9.2 shows an incomplete circuit diagram of the circuit that a student uses to obtain the readings for the graph. Complete the circuit diagram using suitable circuit symbols for the lamp, a voltmeter and a variable resistor.",
+        "image": "Fig. 9.2 shows an incomplete circuit diagram with a power source (battery symbol), an ammeter (A) in series, and open connections where a lamp, voltmeter, and variable resistor are to be added to complete a circuit suitable for obtaining current-voltage readings."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The ammeter used by the student has ranges 0-10A, 0−1A, 0-100mA and 0-10mA. Describe how the student uses the different ranges to obtain readings which allow all nine points to be plotted precisely on the graph while using the ammeter safely.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "State how Fig. 9.1 shows that the lamp does not obey Ohm's law.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Using Fig. 9.1, determine the resistance of the lamp when: the voltmeter reading is 0.40V",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "Using Fig. 9.1, determine the resistance of the lamp when: the voltmeter reading is 6.0V.",
+        "image": null
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "Explain why the resistance of the lamp changes as the voltage changes.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "State how the resistance of a wire depends upon its length and how it depends on its cross-sectional area. length cross-sectional area",
+        "image": null
+      },
+      {
+        "part_label": "e(iii)",
+        "part_text": "The student obtains a long sample of the same type of wire as the filament in the lamp. The wire he obtains has the same cross-sectional area as the filament. He cuts a 1.0 m length of the wire and measures its resistance at room temperature. He obtains the value 16 Ω. Using the appropriate resistance value from (d), estimate the length of the filament wire in the lamp.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/21/2021/Q10",
+    "Question_text": "Table 10.1 contains details of the nature and some properties of alpha, beta and gamma emissions.",
+    "image": "Table 10.1 is partially completed, comparing alpha, beta, and gamma emissions across 'nature', 'charge', and 'penetrating power'. For 'alpha', 'nature' is '2 protons and 2 neutrons'. For 'beta', 'charge' is 'negative'. For 'gamma', 'penetrating power' is 'stopped by 5 mm of aluminium'. Other cells are blank, awaiting completion.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "The Three Types of Emission",
+      "Radioactive Decay",
+      "Half-Life",
+      "Uses of Radiation",
+      "Dangers of Radiation",
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Complete Table 10.1 by filling in the missing details.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Surgical instruments in sealed plastic bags are placed in thin plastic boxes. A conveyor belt takes the boxes close to a cobalt-60 source which sterilises the instruments. This is shown in Fig. 10.1. The cobalt-60 source is a radioactive isotope of cobalt that emits gamma-radiation. Describe what is meant by the term isotope.",
+        "image": "Fig. 10.1 shows a diagram of a sterilisation process using a cobalt-60 source. Boxes containing 'surgical instruments' move on a 'conveyor belt' towards a 'cobalt-60 source' encased within 'thick concrete' shielding. Arrows indicate the direction of movement of the boxes and the emission from the source."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Suggest a property of gamma-radiation that enables it to sterilise the instruments in the bags in the boxes.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "State why a source emitting only alpha-radiation cannot be used in this way.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "The half-life of cobalt-60 is 5.3 years. Explain why a source with a half-life of 5.3 minutes is unsuitable for use in this application.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Geiger and Marsden performed an experiment in which alpha-particles were fired at a thin film of gold. Fig. 10.2 shows an alpha-particle passing close to the nucleus of a gold atom. Explain why the alpha-particle is deflected.",
+        "image": "Fig. 10.2 illustrates the path of an 'alpha-particle' being deflected as it passes near a 'nucleus of gold atom'. The alpha-particle's trajectory is curved away from the nucleus, suggesting electrostatic repulsion."
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "In the experiment, most of the alpha-particles pass straight through the foil without deflection. Explain, using ideas about the structure of the atom, why this happens.",
+        "image": null
+      }
+    ]
+  }
+]

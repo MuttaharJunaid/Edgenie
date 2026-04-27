@@ -1,0 +1,485 @@
+[
+  {
+    "QuestionNumber": "May-June/12/2022/Q1",
+    "Question_text": "A force of 3.0 N and a force of 4.0 N act on an object. What is the maximum possible resultant of these two forces?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Resultant Forces",
+      "Calculating with Vectors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q2",
+    "Question_text": "A length of copper wire is labelled: length 0.50 m and diameter 0.50 mm. Which instruments are most suitable to measure accurately the length and the diameter of the wire?",
+    "image": "A table with two columns, 'length' and 'diameter', and four rows (A, B, C, D) listing different combinations of measuring instruments (metre rule, micrometer, calipers) for each quantity.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q3",
+    "Question_text": "The graph shows the speed-time graph for a parachutist who jumps from a plane but does not open his parachute immediately. At which point does he open his parachute?",
+    "image": "A speed-time graph with speed on the y-axis and time on the x-axis. The graph shows an initial increase in speed (acceleration), followed by a period of constant speed (terminal velocity). Then, at point C, there is a sharp decrease in speed, followed by a new, lower constant speed. Points A, B, C, D are marked on the curve.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs",
+      "terminal velocity",
+      "Freefall"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q4",
+    "Question_text": "A 60 kg passenger enters a stationary lift. The gravitational field strength g is 10 N/kg. How much force does the floor of the lift exert on the passenger when the lift accelerates upwards at 2.0 m/s²?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Newton's Second Law",
+      "Mass & Weight",
+      "Resultant Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q5",
+    "Question_text": "The diagram represents the Moon in its orbit around the Earth. Which arrow represents the direction of the resultant force acting on the Moon at the instant shown?",
+    "image": "A diagram showing the Earth at the center and the Moon in a circular orbit around it. The Moon's direction of motion is indicated by an arrow tangential to the orbit. Four other arrows (A, B, C, D) originate from the Moon. Arrow A points directly towards the Earth, representing the centripetal force.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion",
+      "Gravitational Effects on Orbits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q6",
+    "Question_text": "A measuring cylinder containing water is placed on a balance. A stone is placed into the water. The diagram shows the readings on the balance and on the measuring cylinder. What is the density of the stone?",
+    "image": "Two sets of diagrams. The first set shows a balance with a measuring cylinder containing water, reading 55.0 g. The second set shows the same balance with the measuring cylinder and a stone added, reading 92.5 g. Below these, two measuring cylinders are shown: one with water at 20 cm³ level, and the second with the stone added, showing the water level risen to 35 cm³.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Density",
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q7",
+    "Question_text": "The diagram shows a uniform solid rectangular block of weight 50 N that is pivoted about point P. The height of the block is 40 cm. The base of the block is 8.0 cm wide. Which horizontal force F just makes the block start to rotate about P?",
+    "image": "A diagram of a rectangular block standing upright, pivoted at its bottom-right corner, point P. The block has a height of 40 cm and a base width of 8.0 cm. Its weight, 50 N, acts downwards from its center. A horizontal force F is applied at the top-left corner of the block.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q8",
+    "Question_text": "The centre of mass of a solid rectangular block is at its centre. A small heavy weight is available. In which arrangement is the centre of mass the lowest?",
+    "image": "A 3D diagram of a rectangular block. Two faces are labeled: 'face Y' (a narrower side face) and 'face X' (a larger, broader face, likely the base if standing on its broad side).",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q9",
+    "Question_text": "The graph shows how the extension of a spring depends on the force applied. Which point is the limit of proportionality?",
+    "image": "A force-extension graph. The graph starts from the origin, is linear up to point B, then curves and eventually breaks after point D. Points A, B, C, D are marked along the curve. Point B is at the end of the initial linear region.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q10",
+    "Question_text": "An elastic spring has an unstretched length of 30 cm. A load of 6.0 N is hung from the spring and the length of the spring is now 66 cm. The 6.0 N load is removed and the spring returns to its original length. A load of 2.0 N is now hung from the spring. What is the new length of the spring?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Hooke's Law",
+      "Investigating Force & Extension"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q11",
+    "Question_text": "A barometer is an instrument used to measure atmospheric pressure. In one type of barometer the height of a liquid in a tube is measured. In which diagram does the height h represent atmospheric pressure?",
+    "image": "Four diagrams (A, B, C, D) showing different liquid-in-tube arrangements for measuring pressure. Diagram D shows an inverted tube in a liquid reservoir, with a vacuum above the liquid column inside the tube and 'h' representing the vertical height of the liquid column above the level of the liquid in the reservoir. This setup represents a simple mercury barometer.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Atmospheric pressure",
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q12",
+    "Question_text": "A manometer contains mercury of density 14000 kg/m³. The manometer is connected to a gas supply and the difference in the height of the mercury levels is 72 mm. The atmospheric pressure is 100 kPa. The gravitational field strength g is 10 N/kg. What is the pressure of the gas supply?",
+    "image": "A diagram of a U-tube manometer. One end is open to the atmosphere, and the other end is connected to a gas supply. The mercury level on the gas supply side is 72 mm lower than the mercury level on the atmospheric side.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid",
+      "Atmospheric pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q13",
+    "Question_text": "Which device provides a continuous, steady energy output for the longest time?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Resources",
+      "Energy from the Sun",
+      "Energy from Wind",
+      "Fission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q14",
+    "Question_text": "A load is pulled by a rope attached to a motor. The resultant force exerted by the rope on the load is shown in the diagrams. In each diagram, the load moves in the direction of the force shown and takes 10 s to travel 1.0 m. In which diagram does the motor work with the greatest power?",
+    "image": "Four diagrams (A, B, C, D) each depicting a block and an arrow representing a force acting on it. Diagram A: 12 N horizontal force. Diagram B: 8 N vertical force. Diagram C: 10 N force at an angle on a slope. Diagram D: 4 N force at an angle on a slope. The question implies movement in the direction of the force.",
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Work",
+      "Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q15",
+    "Question_text": "The electrical energy supplied to a kettle is 600 kJ. Of this energy, 45 kJ is transferred to the surroundings and 15 kJ is used to heat the casing of the kettle. The remaining energy is used to heat the water. What is the efficiency of the kettle?",
+    "image": null,
+    "Unit": "Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency",
+      "Energy Stores & Transfers"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q16",
+    "Question_text": "How is heat energy transferred through the vacuum of space from the Sun to the Moon's surface?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Thermal Conduction",
+      "Convection",
+      "Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q17",
+    "Question_text": "A metal cube contains boiling water. Each vertical face of the cube is painted a different colour or has a different texture. Identical thermometers are held at equal distances from each vertical face. Near which face does a thermometer read the greatest temperature?",
+    "image": "A 3D diagram of a cube with boiling water inside, depicting heat being radiated from its surfaces. A thermometer is shown adjacent to one face, suggesting measurement of radiated heat.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.3 Transfer of Thermal Energy",
+    "Sub_topic": [
+      "Radiation",
+      "Investigating Radiation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q18",
+    "Question_text": "A liquid column in a liquid-in-glass thermometer is 2.0 cm long at 0°C. The column expands by 10.0 cm when heated to 100°C. Measuring from P, how long is the liquid column at 30°C?",
+    "image": "A diagram of a liquid-in-glass thermometer. It indicates the liquid column is 2.0 cm long at 0°C (from point P). An arrow shows an expansion of 10.0 cm when heated from 0°C to 100°C.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q19",
+    "Question_text": "A liquid-in-glass thermometer consists of a bulb containing a liquid which expands into a thin capillary tube. The liquid in the thermometer is replaced by the same volume of a different liquid that expands more for the same temperature rise. The length of the capillary tube remains the same. How does the new thermometer compare with the old thermometer?",
+    "image": "A simplified diagram of a liquid-in-glass thermometer, showing the bulb at the bottom and the thin capillary tube extending upwards.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q20",
+    "Question_text": "Steam at 110°C condenses on a surface to form water droplets at 100 °C. What happens after the steam comes into contact with the surface?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Latent Heat",
+      "Melting, Boiling & Evaporation",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q21",
+    "Question_text": "Which list shows the states of matter in order of expansion from smallest to greatest for the same temperature rise?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion",
+      "States of Matter"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q22",
+    "Question_text": "Which row describes the boiling and the evaporation of a liquid?",
+    "image": "A table with two columns, 'boiling' and 'evaporation', and four rows (A, B, C, D) describing characteristics of each process.",
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Melting, Boiling & Evaporation",
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q23",
+    "Question_text": "A hairdryer is used to blow air across the surface of water in a beaker so that the water evaporates. What increases the rate of evaporation of the water?",
+    "image": null,
+    "Unit": "THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Evaporation"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q24",
+    "Question_text": "The diagram shows a ray PQ reflected by mirror X to a parallel mirror Y. The reflected ray along RS is parallel to PQ. Which statement is correct?",
+    "image": "A ray diagram illustrating reflection between two parallel mirrors, X and Y. A ray PQ strikes mirror X, reflects as QR, and then strikes mirror Y, reflecting as RS. The diagram shows that the angle between ray QR and mirror X is 45°. Ray PQ is parallel to ray RS.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Investigating Reflection"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q25",
+    "Question_text": "An object is viewed through a thin converging lens. The diagram shows the paths of two rays from the top of the object to an eye. How does the image compare with the object?",
+    "image": "A ray diagram showing an object placed between the focal point and the converging lens. Two rays from the top of the object pass through the lens and diverge, then enter an eye. The virtual extensions of these rays form a virtual image that is larger and upright, located on the same side as the object.",
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Linear Magnification"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q26",
+    "Question_text": "Violet and indigo light have the shortest wavelengths in the spectrum of visible light. Which three colours, in order of increasing wavelength, immediately follow indigo?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Dispersion of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q27",
+    "Question_text": "A sound wave passes through a substance. The diagram shows the position of molecules of the substance at one point in time. Which type of wave is a sound wave and what is at X?",
+    "image": "A diagram depicting the distribution of molecules in a substance as a sound wave passes through. The molecules are shown with varying densities, forming regions of compression and rarefaction. Point X is located in a region where the molecules are spread out, indicating a rarefaction.",
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves",
+      "Properties of Sound Waves",
+      "Transverse & Longitudinal Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q28",
+    "Question_text": "A man stands between two tall buildings, P and Q. He is 50 m from P and 200 m from Q. He sounds a horn. He hears the first echo from building P and 1.0 s later he hears the first echo from building Q. What is the speed of sound calculated using this information?",
+    "image": "A diagram showing a man standing between two buildings, P and Q. The man is 50 m from building P and 200 m from building Q.",
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Reflection of Sound Waves",
+      "Measuring the Speed of Sound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q29",
+    "Question_text": "What is one of the uses of ultrasound?",
+    "image": null,
+    "Unit": "Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Ultrasound"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q30",
+    "Question_text": "A positively charged rod is held near an uncharged metal sphere on an insulating stand. What is the distribution of charge on the sphere?",
+    "image": "A positively charged rod is held close to an uncharged metal sphere, which rests on an insulating stand. Below this setup are four diagrams (A, B, C, D) illustrating different hypothetical charge distributions on the sphere.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Static Electricity",
+      "Electrical Charge",
+      "Demonstrating Electric Charges"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q31",
+    "Question_text": "Two metal spheres are mounted on insulating stands. Sphere X is initially uncharged and sphere Y is initially positively charged. A metal rod, held by an insulating handle, is placed in contact with X and Y as shown. What are the charges on X and on Y after the rod is placed in contact with them?",
+    "image": "A diagram showing two metal spheres, X (initially uncharged) and Y (initially positively charged), each on an insulating stand. A metal rod, held by an insulating handle, connects the two spheres.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity",
+      "Investigating Conductors & Insulators"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q32",
+    "Question_text": "The diagram shows a simple electric circuit. Which row describes the charge on an electron and the direction of electron flow through the resistor?",
+    "image": "A simple electric circuit diagram showing a battery (long line positive, short line negative) connected to a resistor. The resistor is labeled with ends X and Y. The positive terminal of the battery is connected to X, and the negative terminal to Y.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Electrical Current"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q33",
+    "Question_text": "Charge of 0.40 C passes through a resistor in 1.0 s. In 2.0 s, 20 J of thermal energy is produced in the resistor. What is the potential difference across the resistor?",
+    "image": null,
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q34",
+    "Question_text": "The diagram shows a simple electric circuit. Which meter measures the current in resistor R2?",
+    "image": "A circuit diagram showing a power supply, two resistors R1 and R2 connected in parallel, and four meters (labeled A, B, C, D) connected at various points. Meter A is in series with R1. Meter B is connected in parallel across R1 (voltmeter symbol). Meter C measures the total current from the power supply. Meter D is in series with R2.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q35",
+    "Question_text": "When the flash on a camera is used, a charge of 1.5 C flows for 0.0030 s through the flash lamp. The average voltage across the flash lamp is 3600 V. What is the electrical energy supplied to the flash lamp and what is the average power supplied?",
+    "image": "A table showing four rows (A, B, C, D) with paired values for 'energy/J' and 'power/W'.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q36",
+    "Question_text": "The diagram shows an electric circuit. Which lamps light when switch S₁ is closed and S2 is open?",
+    "image": "An electric circuit diagram with a 6.0 V supply. It features two parallel branches. One branch contains switch S1 and lamp L1 in series. The other branch contains switch S2 in series with a parallel combination of lamps L2 and L3.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q37",
+    "Question_text": "The diagram shows a hairdryer. Which statement explains why the hairdryer does not need an earth wire?",
+    "image": "A simple line drawing of a hairdryer with its power cord.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Safety"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q38",
+    "Question_text": "A left hand can be used to determine the direction of the force when a current-carrying conductor is perpendicular to a magnetic field. Which quantities are represented by the direction of fingers P, Q and R?",
+    "image": "A diagram illustrating Fleming's Left-Hand Rule. A left hand is shown with the thumb (P), forefinger (Q), and middle finger (R) extended perpendicularly to each other.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Force on a Current-Carrying Conductor"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q39",
+    "Question_text": "As a magnet is moved into the coil of wire as shown, there is a small positive reading on the sensitive ammeter. Which change must increase the size of the reading?",
+    "image": "A diagram showing a bar magnet with its North pole moving into a coil of wire. The coil is connected to a sensitive ammeter, labeled A.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction",
+      "Demonstrating Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May-June/12/2022/Q40",
+    "Question_text": "Electrical power is transmitted by cables over long distances at very high voltages. What are the effects of using a high voltage transmission system?",
+    "image": "A table with two columns, 'power loss in the cables' and 'current in the cables', and four rows (A, B, C, D) describing the levels (high or low) for each.",
+    "Unit": "Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Transformers"
+    ],
+    "Parts": []
+  }
+]

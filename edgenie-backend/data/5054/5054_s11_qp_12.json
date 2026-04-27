@@ -1,0 +1,463 @@
+[
+  {
+    "QuestionNumber": "May/June/2011/Q1",
+    "Question_text": "What is the correct unit for the quantity shown? quantity unit A electromotive force (e.m.f.) N B latent heat J C pressure kg/m³ D weight kg",
+    "image": "A table showing four physical quantities: electromotive force (e.m.f.), latent heat, pressure, and weight, each with a proposed unit. The task is to identify the correct quantity-unit pair.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q2",
+    "Question_text": "A plumber measures, as accurately as possible, the length and internal diameter of a straight copper pipe. The length is approximately 80 cm and the internal diameter is approximately 2 cm. What is the best combination of instruments for the plumber to use?",
+    "image": "A table listing combinations of instruments for measuring internal diameter and length.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.1 Physical Quantites & Measurement Techniques",
+    "Sub_topic": [
+      "Measurement"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q3",
+    "Question_text": "A car moves in a circle at constant speed. What is the direction of the resultant force acting on the car?",
+    "image": "A top-down diagram of a car moving in a circle. Four arrows (A, B, C, D) originate from the car, indicating possible directions of force. A point to the right is labeled 'centre of circle turned by car'.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Circular Motion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q4",
+    "Question_text": "Which vehicle has an acceleration of 5 m/s²?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Acceleration"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q5",
+    "Question_text": "A car accelerates from traffic lights for 10s. It stays at a steady speed for 20s and then brakes to a stop in 3 s. Which graph shows the journey?",
+    "image": "Four speed-time graphs (A, B, C, D). Each graph plots speed on the y-axis against time on the x-axis, with markings at 0, 10, 20, 30 seconds.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Speed-Time Graphs"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q6",
+    "Question_text": "A skydiver falls from rest through the air and reaches terminal velocity. What is the acceleration of the skydiver during his fall?",
+    "image": "A simple line drawing of a skydiver in a free-falling position.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "terminal velocity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q7",
+    "Question_text": "A uniform beam is balanced at its midpoint. An object is placed on the beam, as shown. Which force will rebalance the beam?",
+    "image": "A diagram showing a uniform beam balanced at its midpoint (pivot). An object applying a downward force of 60 N is placed 30 cm to the left of the midpoint.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q8",
+    "Question_text": "A student collects stones and finds their density. Which apparatus is needed to measure the mass and the volume of the stones?",
+    "image": "A table with columns for 'mass' and 'volume', listing different apparatus combinations.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.4 Density",
+    "Sub_topic": [
+      "Measuring Density"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q9",
+    "Question_text": "A student finds the centre of mass of a triangular lamina PQR. He drills a small hole at Q. He suspends the lamina from a pin through the hole at Q so that the lamina swings freely. He then hangs a plumb-line from the pin at Q, as shown. He marks the position of the plumb-line on the lamina. To determine the location of the centre of mass, the student then repeats the experiment but with one change. What is the change?",
+    "image": "A diagram of a triangular lamina PQR suspended from point Q by a pin. A plumb-line hangs from the pin, indicating a vertical line passing through Q.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Centre of Gravity",
+      "Investigating Centre of Gravity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q10",
+    "Question_text": "The diagram represents parts of a power station. What is the order of the energy changes taking place?",
+    "image": "A flow diagram illustrating three components of a power station: 'coal-fired boiler' connected to 'turbine', which is connected to 'electricity generator' by arrows.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy Stores & Transfers",
+      "Energy from Fuels"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q11",
+    "Question_text": "The centre of the Sun produces large amounts of energy. What is the source of this energy?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Energy from the Sun"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q12",
+    "Question_text": "Four identical measuring cylinders contain liquid. Two contain water of density 1000kg/m³. Two contain paraffin of density 800kg/m³. Which cylinder has the least pressure exerted on its base by the liquid it contains?",
+    "image": "Four diagrams (A, B, C, D) of identical measuring cylinders. Two show water at 40 cm³ and 20 cm³, and two show paraffin at 40 cm³ and 20 cm³.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure in a Liquid"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q13",
+    "Question_text": "The same downward force is applied to four objects resting on a horizontal surface. Which exerts the greatest pressure on the surface?",
+    "image": "Four images (A, B, C, D) depicting a car wheel, a drawing pin, a table fork, and a stiletto heel, each resting on a surface.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.8 Pressure",
+    "Sub_topic": [
+      "Pressure & Forces"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q14",
+    "Question_text": "A crane lifts a weight of 1000 N through a vertical height of 30 m. It uses 60 000 J of energy. What is the efficiency of the crane?",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.7 Energy, Work and Power",
+    "Sub_topic": [
+      "Efficiency"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q15",
+    "Question_text": "A balloon filled with air is gently heated. What happens to the mass and the density of the air inside the balloon?",
+    "image": "A table showing possible changes in mass and density.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "Particle Model",
+      "Temperature & Pressure"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q16",
+    "Question_text": "According to the kinetic theory, matter is made up of very small particles in a constant state of motion. Which row best describes the particle behaviour in the liquid state?",
+    "image": "A table with rows describing 'forces between particles' and 'motion of particles'.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.1 Kinetic Particle model of matter",
+    "Sub_topic": [
+      "States of Matter",
+      "Particle Model"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q17",
+    "Question_text": "An ice pack is used to cool 0.25 kg of water. The specific heat capacity of water is 4.2kJ/(kg°C). How much thermal energy (heat) must the ice pack extract from the water to reduce the water temperature by 15°C?",
+    "image": "A simple diagram of a container of water with an ice pack floating in it.",
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Specific Heat Capacity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q18",
+    "Question_text": "Fillings in teeth should be made from a material which",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q19",
+    "Question_text": "A certain liquid is used in a liquid-in-glass thermometer. It does not expand uniformly with temperature. What effect will this have on the scale of the thermometer?",
+    "image": null,
+    "Unit": "UNIT 2: THERMAL PHYSICS",
+    "Topic": "2.2 Thermal properties & Temperature",
+    "Sub_topic": [
+      "Thermal Expansion"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q20",
+    "Question_text": "Which application may use the part of the electromagnetic spectrum called microwaves?",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.3 Electromagnetic Spectrum",
+    "Sub_topic": [
+      "Uses of Electromagnetic Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q21",
+    "Question_text": "In which diagram is the path of the light ray not correct?",
+    "image": "Four diagrams (A, B, C, D) illustrating light rays interacting with different optical media (water, glass, perspex, lens) and showing refraction or reflection. A normal is drawn for each diagram.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light",
+      "Refraction of Light",
+      "Thin Lenses"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q22",
+    "Question_text": "The displacement-distance and displacement-time graphs are for a water wave in a ripple tank. What is the speed of the water wave?",
+    "image": "Two graphs are shown: a displacement-distance graph, which indicates a wavelength (λ) of 2 cm per cycle, and a displacement-time graph, which indicates a period (T) of 0.04 s per cycle.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.1 General Properties of Waves",
+    "Sub_topic": [
+      "Features of Waves",
+      "The Wave Equation",
+      "Ripple Tank"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q23",
+    "Question_text": "A ray of light strikes a plane mirror and is reflected. Which pair of angles must be equal in value?",
+    "image": "A diagram showing a light ray incident on a plane mirror. A normal is drawn at the point of incidence. Angles w (between incident ray and mirror), x (angle of incidence), y (angle of reflection), and z (between reflected ray and mirror) are labeled.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Reflection of Light"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q24",
+    "Question_text": "The ray diagram shows two rays from a point on an object placed in front of a diverging (concave) lens. What are the properties of the image produced?",
+    "image": "A ray diagram for a diverging (concave) lens with an object placed to its left. Two rays originate from the top of the object, pass through the lens, and diverge. Their backward extensions intersect on the same side as the object, forming a virtual image.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q25",
+    "Question_text": "Which list contains an example of a non-magnetic material, a magnetic material and a magnetised material?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.1 Simple Magnetism & Magnetic Fields",
+    "Sub_topic": [
+      "Magnetism",
+      "Magnets"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q26",
+    "Question_text": "Sound travels at different speeds in air, water and steel. For these materials, which row is correct?",
+    "image": "A table indicating which material sound travels slowest in and fastest in.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.4 Sound",
+    "Sub_topic": [
+      "Sound Waves"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q27",
+    "Question_text": "The potential difference (p.d.) across a 10 Ω resistor is 5 V. How much charge passes through the 10 Ω resistor in 30 seconds?",
+    "image": "A circuit diagram showing a 5V potential difference across a 10Ω resistor.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q28",
+    "Question_text": "Which changes both cause a decrease in the resistance of a copper wire?",
+    "image": "A table showing various changes in 'size of wire' and 'temperature of wire'.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Resistance of a Wire"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q29",
+    "Question_text": "To charge an isolated metal sphere by induction, the following four processes are required. P The sphere is earthed by touching it. Q The earth connection is removed from the sphere. R A charged rod is brought close to the sphere. S The charged rod is removed. In which order can these stages be carried out to charge the isolated metal sphere?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Electrical Charge",
+      "Static Electricity"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q30",
+    "Question_text": "A lamp rated 6 V, 2 A is switched on for 60 s. How much energy is used?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Energy",
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q31",
+    "Question_text": "The diagram shows a circuit. What is the reading on the ammeter when the switch is open, and the reading when it is closed?",
+    "image": "A circuit diagram with a 6V battery. An ammeter (A) and a 3Ω resistor are in one parallel branch. A switch and another 3Ω resistor are in a second parallel branch, both connected across the 6V battery.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.3 Electric Circuits",
+    "Sub_topic": [
+      "Circuit Diagrams & Circuit Components",
+      "Current in Circuits",
+      "Combined Resistance"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q32",
+    "Question_text": "The diagram shows a circuit. The lamp is a 12W lamp and is working at normal brightness. What are the readings on the meters?",
+    "image": "A circuit diagram containing a battery, an ammeter (A) in series, a lamp, and a voltmeter (V) in parallel across the lamp.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q33",
+    "Question_text": "The diagram shows part of an a.c. generator when its coil is in a horizontal position. The graph shows the voltage output plotted against time. Which point on the graph shows when the coil is in a vertical position?",
+    "image": "A diagram of an AC generator showing a coil in a horizontal position between magnet poles (N and S). Below it is a graph of voltage output versus time, with points A, B, C, D marked on the sinusoidal waveform.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "The A.C. Generator"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q34",
+    "Question_text": "The electromotive force (e.m.f.) induced in a conductor moving at right-angles to a magnetic field does not depend upon",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electromagnetic Induction"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q35",
+    "Question_text": "The coil in an electric motor is wound onto a cylinder. Why is the cylinder made of soft iron?",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Electric Motors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q36",
+    "Question_text": "The diagram shows three pairs of parallel wires with the currents in the directions shown. For each pair of wires, what are the forces between the wires?",
+    "image": "A diagram showing three pairs of parallel wires labeled X, Y, and Z. Arrows indicate the direction of current in each wire. In X, both currents are upwards. In Y, one current is upwards and the other is downwards. In Z, both currents are downwards.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.5 Electromagnetic Effects",
+    "Sub_topic": [
+      "Fields Around Parallel Conductors"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q37",
+    "Question_text": "An alternating voltage of frequency 0.5 Hz is applied to the Y-plates of a cathode-ray oscilloscope (c.r.o.). The diagram shows the screen of the c.r.o. What is the time taken for the spot to cross the screen?",
+    "image": "A grid representing a C.R.O. screen displaying a sinusoidal waveform. The waveform shows approximately 5 full cycles across 10 horizontal major divisions of the screen.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.6 Uses of Oscilloscope",
+    "Sub_topic": [
+      "Uses of an Oscilloscope"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q38",
+    "Question_text": "A radioactive nuclide ²³⁸₉₂U decays into thorium by emitting an alpha-particle. The thorium then decays into protactinium by emitting a beta-particle. What is the symbol for protactinium?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Radioactive Decay",
+      "The Three Types of Emission"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q39",
+    "Question_text": "Chlorine exists as two isotopes. One has a nucleon number (mass number) of 35 and the other has a nucleon number (mass number) of 37. Which table shows the correct numbers of protons and neutrons in the isotopes?",
+    "image": "Four tables (A, B, C, D) listing the number of protons and neutrons for two isotopes of an element.",
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.1 The Nuclear Model of the Atom",
+    "Sub_topic": [
+      "The Atom",
+      "The Nucleus"
+    ],
+    "Parts": []
+  },
+  {
+    "QuestionNumber": "May/June/2011/Q40",
+    "Question_text": "Tritium is a radioactive isotope of hydrogen with a half-life of 12 years. If a sample starts with 40 million atoms of tritium, how many atoms of tritium will be left after 12 years?",
+    "image": null,
+    "Unit": "UNIT 5: Nuclear Physics",
+    "Topic": "5.2 Radioactivity",
+    "Sub_topic": [
+      "Half-Life"
+    ],
+    "Parts": []
+  }
+]

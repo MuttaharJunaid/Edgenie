@@ -1,0 +1,187 @@
+[
+  {
+    "QuestionNumber": "Oct-Nov/41/2017/Q1",
+    "Question_text": "A student finds the mass of a table-tennis ball using a top-pan balance, as shown in Fig. 1.1. The top-pan balance reads to the nearest gram.",
+    "image": "Fig. 1.1 shows a top-pan balance with a table-tennis ball placed on its pan. The digital display on the balance reads '0 g'. A label 'top-pan balance' points to the device.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.3 Mass & weight",
+    "Sub_topic": [
+      "Measuring Mass & Weight",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The mass of the ball is about 2.5g. Suggest a reason why placing the ball on the top-pan balance does not give an accurate value for the mass of the ball.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "The student uses ten identical balls and a glass beaker to hold them, as shown in Fig. 1.2. Explain in detail how the student can obtain a more accurate value for the mass of one ball.",
+        "image": "Fig. 1.2 shows a glass beaker filled with ten identical table-tennis balls. A label 'beaker' points to the container."
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/41/2017/Q2",
+    "Question_text": "A student investigates how high a table-tennis ball bounces. He drops the ball from a height of 60 cm onto a tiled floor, as shown in Fig. 2.1. He records the height h of the bounce using a metre rule with millimetre divisions.",
+    "image": "Fig. 2.1 illustrates an experiment setup with a vertical metre rule showing markings from 10 to 100 cm in intervals of 10 cm, with millimetre divisions. A table-tennis ball is positioned near the 81 cm mark, above a petri dish resting on a tiled floor. Labels 'table-tennis ball', 'petri dish', 'tiled floor', and 'cm' are indicated.",
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The ball is placed near the metre rule so that, when released, it falls 60 cm before it hits the floor. On Fig. 2.1, draw the ball in its starting position.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Before recording any values for the height of the bounce, the student performs a trial drop. Suggest a reason for doing this trial drop.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "He drops the ball five times from 60cm and records the following values of h. 40 cm 39 cm 40 cm 42 cm 40 cm",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Suggest a reason why h is recorded to the nearest cm.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Calculate the average bounce height hav. Give your answer to the nearest centimetre.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "The student extends the investigation to find the average bounce height hav from other drop heights H. Fig. 2.2 shows the results obtained.",
+        "image": "Fig. 2.2 is a table with two columns, 'drop height H/cm' and 'bounce height hav/cm'. It contains data: 60 (empty), 100 (56), 140 (74), 180 (86), 220 (94), 260 (96)."
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "On Fig. 2.2, add your value of hav at H = 60 cm.",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "To get the larger values of H, the student changes his apparatus and method. Suggest how he does this.",
+        "image": null
+      },
+      {
+        "part_label": "d(iii)",
+        "part_text": "On Fig. 2.3, plot a graph of hav/cm on the y-axis against H/cm on the x-axis. Start your axes from (0,0). Draw a smooth curve of best fit.",
+        "image": "Fig. 2.3 shows a blank graph grid with an origin (0,0) marked at the bottom-left corner, suitable for plotting data."
+      },
+      {
+        "part_label": "e(i)",
+        "part_text": "The student does not take any readings of hav for H less than 60cm. Suggest why these readings are difficult to take.",
+        "image": null
+      },
+      {
+        "part_label": "e(ii)",
+        "part_text": "Use your graph to estimate the value of hav when H is 40 cm.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/41/2017/Q3",
+    "Question_text": "Fig. 3.1 shows a thermistor. A thermistor is a type of resistor whose resistance is affected by changes in temperature. Fig. 3.2 shows a partially completed circuit.",
+    "image": "Fig. 3.1 displays a thermistor, which is a component with two connecting wires attached to a dark, cylindrical body. It is labeled 'thermistor' with 'connecting wires' pointing to the leads.",
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.2 Electrical Quantities",
+    "Sub_topic": [
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Electromotive Force & Potential Difference",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The thermistor is connected between A and B in the circuit. On Fig. 3.2, draw the correct circuit symbol for the thermistor between A and B.",
+        "image": "Fig. 3.2 shows a partially completed electrical circuit diagram. It includes a 5V power source, a 1000 Ω resistor, and a voltmeter (V) connected in parallel. There are two terminals, A and B, where the thermistor is to be inserted."
+      },
+      {
+        "part_label": "b",
+        "part_text": "The thermistor is at room temperature and the reading on the voltmeter is shown in Fig. 3.3.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "State the reading V on the voltmeter.",
+        "image": "Fig. 3.3 shows an analog voltmeter with a scale from 0 to 5 V. The needle indicates a reading of 3.0 V."
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "The student then records the reading on the voltmeter when the thermistor is at a steady temperature of 0°C. Suggest how she can reduce the temperature of the thermistor from room temperature to 0°C in the laboratory.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "At 0°C, the reading V on the voltmeter is 1.8 V. The resistance R of the thermistor, measured in ohms, can be found using R = 5000/V - 1000. Calculate R at room temperature and at 0°C. Give both answers to 2 significant figures.",
+        "image": null
+      },
+      {
+        "part_label": "b(iv)",
+        "part_text": "Use your results to state how the resistance of the thermistor changes with temperature.",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "Oct-Nov/41/2017/Q4",
+    "Question_text": "In Fig. 4.1, AB represents a converging lens. An object PQ is placed with end Q on the principal axis ST of the lens.",
+    "image": "Fig. 4.1 shows a converging lens represented by a vertical line labeled AB. A horizontal line ST, which is the principal axis, passes through the center of the lens. An object, represented by an arrow PQ, is placed to the left of the lens with its base Q on the principal axis. A focal point F is marked on the principal axis to the right of the lens.",
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Thin Lenses",
+      "Ray Diagrams",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The point F is a focal point (principal focus) of the lens. Measure the focal length of the lens.",
+        "image": null
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Draw a line from P, parallel to ST, to meet the lens AB at point C. Label C.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Explain how you ensured that this line is parallel to ST.",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Draw a straight line from F to C and extend this line until it meets the dotted line at point R. Label R.",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Measure the angle θ between the lines RC and CP.",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Determine the length l in centimetres where l = 2.2 / sin θ",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Theory suggests that l is equal to the distance CF. Measure CF and comment on the extent to which your results agree with the theory.",
+        "image": null
+      }
+    ]
+  }
+]

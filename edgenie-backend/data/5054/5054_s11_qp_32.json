@@ -1,0 +1,201 @@
+[
+  {
+    "QuestionNumber": "May-June/32/2011/Q1",
+    "Question_text": "In this experiment, you will determine the mass of a metre rule using the principle of moments. You have been provided with • a metre rule with a hole at the 1.0cm mark, • a knife-edge to act as a pivot in (a), • a rod held in a boss to act as a pivot in (b), • a pulley wheel held in a clamp and stand, • a length of string with two loops, • a mass and hook, labelled S, • a card showing m, the mass of S, • a half-metre rule, • a set square.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.5 Forces",
+    "Sub_topic": [
+      "Moments",
+      "Equilibrium",
+      "Centre of Gravity",
+      "Mass & Weight"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "Balance the metre rule on the knife-edge and record the distance d of the centre of mass of the metre rule from the 0.0 cm mark on the rule. d = ..................................................... [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Set up the apparatus shown in Fig. 1.1. Pass the rod through the hole at the 1.0cm mark on the rule. Place the loop at one end of the string over the rule at the 60.0cm mark on the rule. Place the string over the pulley and suspend the mass S from the loop at the other end of the string using the hook. Initially, end B of the metre rule rests on the bench. Move the loop along the metre rule towards end B. Keep the length PQ of the string vertical by moving the pulley horizontally. Eventually end B of the metre rule rises off the bench. Adjust the positions of the loop and the pulley to make the rule horizontal and the string PQ vertical.",
+        "image": "Diagram Fig. 1.1 illustrates an experimental setup for the principle of moments. A vertical stand is clamped to a boss, which supports a horizontal rod. A metre rule has a hole at the 1.0cm mark through which the supporting rod passes, acting as a pivot. A string is looped over the metre rule at a position 'y' from the pivot and then passes over a pulley wheel, which is also supported by a stand and clamp. A suspended mass S is attached to the other end of the string. The distance from the center of the rod (pivot) to the center of mass of the metre rule is labeled 'x'. The right end of the metre rule, labeled B, is shown just above the bench surface. The setup aims to balance the metre rule horizontally."
+      },
+      {
+        "part_label": "c",
+        "part_text": "Explain how you made sure that the string PQ is vertical. You may add to Fig. 1.1 if you wish.",
+        "image": null
+      },
+      {
+        "part_label": "d(i)",
+        "part_text": "Measure and record the distance x from the centre of the rod to the centre of mass of the metre rule, x = ..................................................... [1]",
+        "image": null
+      },
+      {
+        "part_label": "d(ii)",
+        "part_text": "the distance y from the centre of the rod to the position of the string on the metre rule. y = ..................................................... [2]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Calculate the mass M of the rule using the relationship M = my/x where m is the mass of S, and is written on the card. M = ..................................................... [1] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2011/Q2",
+    "Question_text": "In this experiment, you will determine the time for one oscillation of a simple pendulum. You have been provided with • a simple pendulum, • a metre rule, • a stopwatch, • a pin in a cork.",
+    "image": null,
+    "Unit": "UNIT 1: Motion, Forces & Energy",
+    "Topic": "1.2 Motion",
+    "Sub_topic": [
+      "Freefall",
+      "Measurement"
+    ],
+    "Parts": [
+      {
+        "part_label": "a",
+        "part_text": "The apparatus shown in Fig. 2.1 has been set up for you. Measure the length l of the simple pendulum from the base of the split cork to the centre of the pendulum bob. l = ..................................................... [1]",
+        "image": "Diagram Fig. 2.1 shows a simple pendulum apparatus. A stand, boss, and clamp firmly hold a split cork. A string is suspended from the split cork, with a pendulum bob attached at its lower end. The length 'l' of the pendulum is indicated by a vertical arrow extending from the base of the split cork to the center of the pendulum bob. A pin in a cork is placed on the bench surface directly beneath the pendulum bob, marking its central rest position."
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the pin so that it marks the central position of the pendulum bob when it is stationary, as shown in Fig. 2.1. When the pendulum bob is pulled to the side and released, it moves from side to side. One complete oscillation of the pendulum bob is from O to A to B and back to O, as shown in Fig. 2.2.",
+        "image": "Diagram Fig. 2.2 illustrates the path of a pendulum bob during one complete oscillation. The central rest position is marked as O. The bob swings from O to an extreme position A on one side, then through O to an extreme position B on the other side, and finally returns to O, completing one cycle."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "The time for 20 complete oscillations of the bob is t. Take measurements to determine an accurate value of t. t = .....................................................",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Calculate the time T for one oscillation. T = ..................................................... [2]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate a value for the acceleration of free fall g, using the relationship g = 4π²l/T² Give a unit for your answer. g = ..................................................... [2] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2011/Q3",
+    "Question_text": "In this experiment, you will measure the critical angle for light in a transparent block. You have been provided with • a semi-circular transparent block, • an illuminated slit, • a protractor.",
+    "image": null,
+    "Unit": "UNIT 3: Waves",
+    "Topic": "3.2 Light",
+    "Sub_topic": [
+      "Refraction of Light",
+      "Total Internal Reflection",
+      "Reflection of Light"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "On Fig. 3.2 on page 7 of your question paper, draw a normal to the line XY at the point M, towards the bottom of the page. The length of the normal should be greater than the radius of the semi-circular block.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "To the left of the normal draw a line at an angle of incidence of 60° to the normal. Label this line L. This line should also be longer than the radius of the block. [1]",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Place the semi-circular block on Fig. 3.2 of your question paper with the straight edge along line XY and with the centre of the straight edge at M. This is shown in Fig. 3.1. Arrange the light source and slit so that a ray of light passes along the line L. Draw around the semi-circular edge of the block.",
+        "image": "Diagram Fig. 3.1 (not to scale) shows a semi-circular transparent block positioned with its flat edge along a line XY on a surface. The center of the flat edge of the block is aligned with point M on line XY. A slit is shown to the left, from which a light ray, labeled L, is incident on the curved surface of the semi-circular block. The ray is then shown propagating through the block and exiting from the flat surface along line XY. The diagram also indicates the reflected ray within the block from the internal surface at point M."
+      },
+      {
+        "part_label": "b(i)",
+        "part_text": "Mark and label two points, P₁ and P₂, on the ray that leaves the block.",
+        "image": null
+      },
+      {
+        "part_label": "b(ii)",
+        "part_text": "Remove the block. Draw a line connecting P₁ and P₂ and extend this line to meet XY.",
+        "image": null
+      },
+      {
+        "part_label": "b(iii)",
+        "part_text": "Measure the angle of reflection. angle =.................................................... [2]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Replace the block in its marked position on Fig. 3.2, with the light ray passing along the line L. Change the angle of incidence until light leaves the block at M as close as possible to the direction MY.",
+        "image": null
+      },
+      {
+        "part_label": "c(i)",
+        "part_text": "Mark and label two points P₃ and P₄ on the incident ray.",
+        "image": null
+      },
+      {
+        "part_label": "c(ii)",
+        "part_text": "Remove the block. Draw a line connecting points P₃ and P₄ and extend this line to meet XY.",
+        "image": null
+      },
+      {
+        "part_label": "c(iii)",
+        "part_text": "The new angle of incidence of the ray of light is approximately equal to the critical angle for light in the transparent block. Measure this angle of incidence. angle = ..................................................... [2] [Total: 5]",
+        "image": null
+      }
+    ]
+  },
+  {
+    "QuestionNumber": "May-June/32/2011/Q4",
+    "Question_text": "In this experiment, you will investigate the power transferred by a light-emitting diode (LED). You have been provided with an incomplete circuit consisting of • a power supply, • an ammeter, • a voltmeter, • an LED, • a resistor labelled 'X', • a switch. You have also been provided with three resistors labelled with the values of their resistances and some additional connecting leads.",
+    "image": null,
+    "Unit": "UNIT 4: Electricity & Magnetism",
+    "Topic": "4.4 Practical Electricity",
+    "Sub_topic": [
+      "Electrical Power",
+      "Electrical Current",
+      "Electromotive Force & Potential Difference",
+      "Resistance",
+      "Circuit Diagrams & Circuit Components",
+      "Combined Resistance"
+    ],
+    "Parts": [
+      {
+        "part_label": "a(i)",
+        "part_text": "Connect the 68 Ω resistor between points A and B.",
+        "image": null
+      },
+      {
+        "part_label": "a(ii)",
+        "part_text": "In the space below, draw a circuit diagram of the completed circuit.",
+        "image": null
+      },
+      {
+        "part_label": "b",
+        "part_text": "Close the switch and record the potential difference V across the LED and the current I in the circuit. Open the switch. V = ..................................................... I = ..................................................... [2]",
+        "image": null
+      },
+      {
+        "part_label": "c",
+        "part_text": "Calculate the power P transferred by the LED using the relationship P = I V. P = ..................................................... [1]",
+        "image": null
+      },
+      {
+        "part_label": "d",
+        "part_text": "Replace the 68 Ω resistor first with the 180 Ω resistor and then with the 330 Ω resistor. Then use all possible series combinations of the 68 Ω, 180 Ω and 330 Ω resistors. In each case repeat (b) and (c). Record your results in a table in the space below. Include the results from (b) and (c) in the table. Include a column for the values of the resistors used in the gap between A and B. [5]",
+        "image": null
+      },
+      {
+        "part_label": "e",
+        "part_text": "Using the grid opposite, plot a graph of P/mW against I/mA. Draw the line of best fit. [4]",
+        "image": null
+      },
+      {
+        "part_label": "f",
+        "part_text": "Determine the power transferred by the LED when the current in it is 10mA. power = ..................................................... [1] [Total: 15]",
+        "image": null
+      }
+    ]
+  }
+]
